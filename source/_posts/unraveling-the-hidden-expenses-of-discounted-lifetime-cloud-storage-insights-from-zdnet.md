@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Hidden Expenses of Discounted Lifetime Cloud Storage - Insights From ZDNet
-date: 2024-09-19 13:46:50
-updated: 2024-09-20 12:56:19
+date: 2025-01-09T18:28:45.889Z
+updated: 2025-01-12T17:12:52.972Z
 tags:
   - cloud
 categories:
@@ -35,6 +35,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Degoo Cloud 
 
 Let's start with Degoo. I found it on a marketplace for all sorts of intriguing offers. Here, the marketplace is offering a 10TB lifetime storage plan for $99\. As long as you access your account once a year, it will remain active. 
@@ -65,6 +69,10 @@ Clearly, $99 for 10TB is not sustainable. My bet is that storage vendors offerin
 
 Even so, Degoo's unlimited deals don't come close to covering their costs for storage. Keep that in mind as we move on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prism Drive 
 
 Next up is Prism Drive. Here, we have [a deal for 10TB](https://shop.sweetdeals.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb) for even less than Degoo. Found on another marketplace site, Prism Drive provides 10TB of lifetime storage for $89.99\. Revenue from the marketplace sites selling these products generally comes from direct product sales, affiliate commissions, and partnerships with content creators. 
@@ -84,6 +92,10 @@ Then, there's the Trustpilot rating of 1.3 out of five. The leading review is "T
 There is no About page. WHOIS provides no identity, other than showing that its site is a SquareSpace-based site. I found no details about what storage infrastructure Prism Drive uses. I also looked on LinkedIn for anyone who listed their employer as Prism Drive (or PrismDrive). No joy. Zero listings. What I did find was a ton of affiliate listings on tech websites hawking PrismDrive. 
 
 So there's that. On to our third and final company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Polar Backup 
 
@@ -109,6 +121,10 @@ Another clue that Polar might be using AWS for infrastructure is the mention of 
 
 That's it. That's all I could find. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, are these rip-offs? 
 
 Not necessarily. But I do have concerns: 
@@ -126,6 +142,10 @@ If the vendor were huge, like an Amazon or a Google, and they offered a loss lea
 But are they rip-offs? Are these vendors creating these deals and businesses with the express purpose of stealing from the folks who use them? I don't know, maybe not. That said, the vendors in question are also probably not going out of their way to build sustainable trustworthy businesses. 
 
 And really, that's my concern for you. These companies are offering a large amount of data storage for very little money. What happens if they go out of business? What happens to your data? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What could possibly go wrong?
 
@@ -168,11 +188,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-excellence-in-editing-selecting-the-right-software/"><u>[New] 2024 Approved Excellence in Editing Selecting the Right Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[Updated] Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>[Updated] In 2024, Innovating with Numbers Tips for TikTok Video Enhancements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos-for-2024/"><u>Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nubia-red-magic-9-proplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nubia Red Magic 9 Pro+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-gt-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme GT 5 Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-speakers-fit-for-switch/"><u>Premium Speakers Fit For Switch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-vpn-solutions-ideal-for-startups-and-smb-network-security-zdnet-insights/"><u>Top 4 VPN Solutions Ideal for Startups & SMB Network Security | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-vpn-services-in-the-uk-2022s-ultimate-guide-zdnet/"><u>Top-Ranked VPN Services in the UK - 2022'S Ultimate Guide (ZDNET)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-android-vpns-comprehensive-analysis-and-ratings-by-industry-experts-techzn/"><u>Top-Ranking Android VPNs : Comprehensive Analysis & Ratings by Industry Experts | TechZN</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-chrome-vpn-add-ons-comprehensive-reviews-and-testing-by-experts-zdnet/"><u>Top-Rated Chrome VPN Add-Ons: Comprehensive Reviews & Testing by Experts - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-and-ipad-vpn-applications-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated iPhone & iPad VPN Applications: Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+</ul></div>
+

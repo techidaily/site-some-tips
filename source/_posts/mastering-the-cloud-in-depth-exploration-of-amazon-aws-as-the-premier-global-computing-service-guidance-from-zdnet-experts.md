@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Cloud: In-Depth Exploration of Amazon AWS as the Premier Global Computing Service - Guidance From ZDNet Experts"
-date: 2024-09-17 14:51:43
-updated: 2024-09-20 12:55:26
+date: 2025-01-05T17:36:25.828Z
+updated: 2025-01-12T19:17:31.088Z
 tags:
   - cloud
 categories:
@@ -135,6 +135,10 @@ Jeff Bezos explained his company's basic philosophy in clear and indisputable te
 
 Bezos likes to adorn his biographical presentations with veritable fountains of fabulous phrases, along with boasts that may warrant a bit of suspicion. For example, in this letter, he gave AWS credit for essentially inventing service-oriented architecture (SOA) — he was, at best, a teenager when SOA was first being put to practical use. So let's try to explain what this AWS thing does, in terms even a CEO could understand. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  AWS' principal innovation was commoditizing software services 
 
 Up until the mid-2000s, software was a thing you installed on your hard drive. It was intellectual property that you were granted the license to use, and either the entirety of that license was paid for up front, or it was subscribed to on an annual "per-seat" basis. A corporate network (a LAN) introduced the astounding technical innovation of moving that hard drive into a room full of other hard drives; otherwise, the principal idea was not much different. (Microsoft thrived in this market.) 
@@ -204,6 +208,10 @@ It surprises some to learn that an AWS account is not an Amazon account with ext
 
 There are ways you can use this AWS account to launch yourself into the AWS space without much, or quite likely without any, monetary investment. For the first year of each account, AWS sets aside 750 hours of free usage per month (also known as "the entire month") of a Linux- or Windows-based **t2.micro** virtual machine instance, which is configured like a single-CPU PC with 1 GB of RAM. Using that instance as a virtual server, you're free to set up an instance of an Amazon RDS relational database with up to 20 GB of storage, plus another 5 GB of standard S3 object storage. (You'll see more about these basic services momentarily.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Where can you learn how to use AWS? 
 
 AWS convenes its own online conference, sometimes live but always recorded, called AWSome Day, whose intent is to teach newcomers about how its services work. That conference may give you a shove in the general direction of what you think you might need to know. If you have a particular business goal in mind, and you're looking for professional instruction, AWS typically sponsors instructional courses worldwide that are conducted in training centers with professional instructors, and streamed to registered students. For example: 
@@ -234,6 +242,10 @@ Cost control is feasible, if you take the time to thoroughly train yourself on t
 Back in the days when software was manufactured, stored in inventory, and placed on retailers' shelves for display, the "platform" was the dependency that was pre-engineered into a product that made it dependent upon others, or made others dependent upon it. MS-DOS was the first truly successful commercial software platform, mostly because of the dependencies it created, and which Microsoft would later exploit more deeply with Windows. 
 
 Amazon's services are not dependent upon one another. On AWS, the platform is the fact that you're being channeled through it as your CSP. Certainly AWS offers third-party services through its [AWS Marketplace](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fmarketplace%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5ef36d52-21b9-46a8-b75f-ecb1ef4d21bf%7Cdtp&dtb=1). But this app store-like environment is presented more as a bazaar, adjacent to, though not directly connected to, the principal services Amazon produces and makes available through its cloud console. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Elastic Compute Cloud 
 
@@ -276,9 +288,17 @@ If AWS were to charge one flat fee for data retrieval — say, per megabyte down
 * [Amazon unveils automatic archive to deep storage for AWS S3, and a bevy of other storage enhancements](https://www.zdnet.com/article/amazon-unveils-automatic-archive-to-deep-storage-for-aws-s3-and-a-bevy-of-other-storage-enhancements/)
 * [AWS: S3 storage now holds over 100 trillion objects](https://www.zdnet.com/article/aws-s3-storage-now-holds-over-100-trillion-objects/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS database services 
 
 Here's where Amazon adds a third turnstile to the data model: by offering database engines capable of utilizing the data stored in S3 buckets. An AWS database engine is a specialized instance type: a VM image in which the database management system is already installed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Aurora 
 
@@ -291,6 +311,10 @@ Since data is always being reconstructed as a matter of course, any loss of data
 **LEARN MORE:**
 
 * [AWS starts gluing the gaps between its databases](https://www.zdnet.com/article/aws-starts-gluing-the-gaps-between-its-databases/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Redshift 
 
@@ -320,6 +344,10 @@ In addition, AWS offers the following:
 * **DocumentDB** for working with long-form text data such as in a content management system
 * **Athena** as a "serverless" service that enables independent queries on S3-based data stores using SQL
 * **ElastiCache** for dealing with high volumes of data in-memory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AWS advanced and scientific services 
 
@@ -363,11 +391,25 @@ So if you have, say, an open source content management system compiled to run in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-design-dynamics-realizing-color-potential/"><u>[New] 2024 Approved Design Dynamics Realizing Color Potential</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update/"><u>[New] 2024 Approved How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-mastery-creating-quality-videos-on-phones-for-2024/"><u>[New] YouTube Mastery Creating Quality Videos on Phones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-stunning-android-shots/"><u>[Updated] Step-by-Step Guide to Stunning Android Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-roles-in-generative-ai-oversight-the-future-of-software-management/"><u>Emerging Roles in Generative AI Oversight: The Future of Software Management</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discovering-free-screen-recorders-insightful-review-best-picks/"><u>In 2024, Discovering Free Screen Recorders – Insightful Review, Best Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elite-8-streaming-software-selections/"><u>In 2024, Elite 8 Streaming Software Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-scoop-how-to-master-the-art-of-connecting-with-giants-in-the-tech-world-your-definitive-networking-blueprint/"><u>Inside Scoop: How to Master the Art of Connecting with Giants in the Tech World - Your Definitive Networking Blueprint!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-crisis-in-tech-hiring-how-flawed-recruitment-fuels-developer-stress-zdnet-insight/"><u>The Crisis in Tech Hiring: How Flawed Recruitment Fuels Developer Stress | ZDNet Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-creating-a-stellar-se-engineer-resume-insights-by-zdnet/"><u>The Ultimate Guide to Creating a Stellar SE Engineer Resume - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-writing-your-software-engineer-application-letter-tips-and-tricks-from-industry-experts/"><u>The Ultimate Guide to Writing Your Software Engineer Application Letter - Tips & Tricks From Industry Experts</u></a></li>
+</ul></div>
+

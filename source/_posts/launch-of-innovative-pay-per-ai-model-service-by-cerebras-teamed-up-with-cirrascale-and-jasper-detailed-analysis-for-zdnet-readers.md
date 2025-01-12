@@ -1,7 +1,7 @@
 ---
 title: Launch of Innovative Pay-Per-AI Model Service by Cerebras Teamed Up With Cirrascale & Jasper, Detailed Analysis for ZDNet Readers
-date: 2024-09-19 16:47:57
-updated: 2024-09-20 12:56:28
+date: 2025-01-05T21:21:00.384Z
+updated: 2025-01-12T21:20:19.628Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Cerebras says a partnership with Cirrascale will give researchers access to clus
 Cerebras Systems
 
 Artificial intelligence computer maker Cerebras Systems, which has built chips and computers, and now makes [super-computers dedicated to speeding up deep learning](https://www.zdnet.com/article/ai-challenger-cerebras-assembles-modular-supercomputer-andromeda-to-speed-up-large-language-models/), on Tuesday announced services to speed the use of very large language models that are becoming increasing popular for not only research but also commercial use. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -106,11 +110,31 @@ Both announcements were made on the occasion of the 36th annual Neural Informati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-igtv-a-video-uploading-handbook/"><u>[New] 2024 Approved Navigating IGTV A Video Uploading Handbook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-systems-best-of-the-desk-lineup-for-2024/"><u>[New] Superior Systems Best of the Desk Lineup for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-conveniently-keep-your-linkedin-videos-with-these-6-apps/"><u>[Updated] In 2024, Conveniently Keep Your LinkedIn Videos with These 6 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ces-2024s-ultimate-guide-to-smart-home-revolution-expert-reviews-by-zdnet/"><u>CES 2024'S Ultimate Guide to Smart Home Revolution: Expert Reviews by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combining-elegance-and-acoustic-power-a-comprehensive-guide-to-stylish-high-fidelity-desktop-speakers-zdnet-insights/"><u>Combining Elegance & Acoustic Power: A Comprehensive Guide to Stylish High-Fidelity Desktop Speakers | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-sonic-bliss-my-unexpected-switch-from-high-end-soundbar-to-jbl-tech-review/"><u>Discovering Sonic Bliss: My Unexpected Switch From High-End Soundbar to JBL | Tech Review.</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/essential-steps-for-top-tier-tiktok-intros-mac-edition-for-2024/"><u>Essential Steps for Top-Tier TikTok Intros - Mac Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-expert-recommended-5-top-drones-on-market/"><u>In 2024, Expert-Recommended 5 Top Drones on Market</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s24-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S24 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-audio-bliss-with-a-speaker-system-that-eclipses-both-bose-and-sonos-find-out-which-it-is/"><u>Next Level Audio Bliss with a Speaker System That Eclipses Both Bose and Sonos - Find Out Which It Is!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-sound-experiences-unveiled-dive-into-the-world-of-premium-portable-speakers-meet-sonos-move-cuisine/"><u>Next-Level Sound Experiences Unveiled: Dive Into the World of Premium Portable Speakers - Meet Sonos Move Cuisine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-this-prime-day-secure-the-jbl-charge-5-speaker-at-a-steal-for-only-120-tech-insights-by-zdnet/"><u>Save Big This Prime Day: Secure the JBL Charge 5 Speaker at a Steal for Only $120 | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/scour-these-top-12-sites-for-stock-photos-at-zero-cost/"><u>Scour These Top 12 Sites for Stock Photos at Zero Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-amazon-echo-models-to-enhance-your-smart-home-a-comprehensive-review-by-zdnet/"><u>Top 12 Amazon Echo Models to Enhance Your Smart Home - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-october-prime-echo-dot-discounts-unbeatable-offers-you-cant-miss/"><u>Top October Prime Echo Dot Discounts: Unbeatable Offers You Can't Miss!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138587440-9781617644092-un-dialogo-en-mi-abismo/"><u>Un Diálogo En Mi Abismo | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-power-of-speech-recognition-for-effective-office-documentation-in-microsoft-word/"><u>Unlock the Power of Speech Recognition for Effective Office Documentation in Microsoft Word</u></a></li>
+</ul></div>
+

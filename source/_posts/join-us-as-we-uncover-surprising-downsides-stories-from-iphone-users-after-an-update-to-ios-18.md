@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2024-12-15T17:00:23.853Z
-updated: 2024-12-21T19:12:28.716Z
+date: 2025-01-05T20:01:56.523Z
+updated: 2025-01-12T18:06:45.018Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-venturing-beyond-reality-understanding-vr-basics/"><u>[Updated] Venturing Beyond Reality Understanding VR Basics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-t-series-youtube-profit-strategy/"><u>Exploring T-Series YouTube Profit Strategy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>In 2024, Instant iPhone Success Proven Tips for Making Professional Photo Collagues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-vob-files-on-pc-la-tua-guida-essenziale-ai-letti-multimedia-piu-performanti-per-sistemi-windows-e-macos/"><u>Mastering VOB Files on PC: La Tua Guida Essenziale Ai Letti Multimedia Più Performanti per Sistemi Windows E MacOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726225704509-mkvmp3-movavi/"><u>MKV到MP3自由下載：使用 Movavi 電影/音頻編碼工具</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-instagram-edge-bulk-image-and-video-post-strategies-explored/"><u>The Instagram Edge Bulk Image and Video Post Strategies Explored</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-compact-digital-cameras/"><u>Top Rated Compact Digital Cameras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-transforming-mts-into-mp4-easy-steps-for-windows-and-mac-users/"><u>Ultimate Guide: Transforming MTS Into MP4 - Easy Steps for Windows & Mac Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-iphone-luminance-mastering-dark-imagery-for-2024/"><u>[New] IPhone Luminance Mastering Dark Imagery for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-selection-of-christian-streaming-sites/"><u>[Updated] 2024 Approved The Ultimate Selection of Christian Streaming Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp33gp-movavi/"><u>「フリーオンラインMP3ファイルを3GPから効果的に変換 - Movavi」</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-install-lenovo-x220-driver-pack-get-started-now/"><u>Effortlessly Install Lenovo X220 Driver Pack - Get Started Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-basic-understanding-of-animate-graphic-content/"><u>In 2024, Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>In 2024, BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hide-identity-in-images-best-face-cutting-apps-revealed/"><u>In 2024, Hide Identity in Images Best Face-Cutting Apps Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/price-barrier-alert-how-your-previous-iphone-models-will-skip-on-apples-latest-artificial-intelligence-enhancements/"><u>Price Barrier Alert: How Your Previous iPhone Models Will Skip on Apple's Latest Artificial Intelligence Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-choice-tablet-assessment-why-apples-new-ipad-with-m2-chip-is-your-ideal-purchase-insights-from-zdnet/"><u>Top Choice Tablet Assessment: Why Apple's New iPad with M2 Chip Is Your Ideal Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-apples-vision-pro-in-february-redefining-luxury-with-an-ultra-sophisticated-buying-journey-zdnet/"><u>Unveiling Apple's Vision Pro in February - Redefining Luxury with an Ultra-Sophisticated Buying Journey | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ios-16-beta-learn-how-to-upgrade-your-iphone-today-or-consider-holding-off-tech-insights/"><u>Unveiling iOS 16 Beta: Learn How to Upgrade Your iPhone Today (or Consider Holding Off) | Tech Insights</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windows-11-8-and-7rollback-rx/"><u>Windows 11, 8 & 7向け最適なRollBack Rxフリー代用品 - 優秀選び方法</u></a></li>
 </ul></div>
 

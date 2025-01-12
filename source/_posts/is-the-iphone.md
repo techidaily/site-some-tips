@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone
-date: 2024-09-18 11:26:29
-updated: 2024-09-20 12:31:33
+date: 2025-01-10T17:02:05.639Z
+updated: 2025-01-12T21:17:30.533Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -71,11 +79,19 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
 The biggest problem -- other than the fact that you need new iPhone hardware to exploit it -- is that Apple Intelligence is deeply tied to Apple's own apps, limiting its usefulness for users who rely on third-party apps like Gmail, Google Docs, or Microsoft 365\. 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud-based AI writing tools: No need for new hardware
 
@@ -88,6 +104,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 [Grammarly](https://app.grammarly.com/), another cloud-based tool based on Microsoft's Azure OpenAI platform, offers proofreading and editing across over 500,000 apps, including Gmail, Slack, Microsoft Office, and Google Docs. On iOS, it works as an installable keyboard; on Mac, it's available as a desktop plugin for Safari, Chrome, and Edge.
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Smart erase and privacy: Apple vs. Google
 
@@ -128,11 +148,33 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-innovative-editing-mastery-in-tiktok-seamless-transition-of-video-borders/"><u>[New] 2024 Approved Innovative Editing Mastery in TikTok Seamless Transition of Video Borders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersion-countdown-top-5-samsung-gear-vr-games/"><u>[New] Immersion Countdown - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transitioning-instagram-video-to-mp3-format/"><u>[New] In 2024, Transitioning Instagram Video to Mp3 Format</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-mobile-photography-strategies/"><u>[New] Professional Mobile Photography Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-entrance-selections-in-panzoids/"><u>2024 Approved Elite Entrance Selections in Panzoids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-seamless-social-journey-from-instaplustik/"><u>Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-tiktok-experience-on-vision-pro-enhances-user-engagement-with-intuitive-scroll-features-zdnet/"><u>Enhanced TikTok Experience on Vision Pro Enhances User Engagement with Intuitive Scroll Features | ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enjoy-premium-video-artwork-download-at-no-cost-today-for-2024/"><u>Enjoy Premium Video Artwork - Download at No Cost Today for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/escape-the-office-monotony-unveiling-how-the-metaverse-could-revolutionize-your-future-employment-zdnet/"><u>Escape the Office Monotony: Unveiling How the Metaverse Could Revolutionize Your Future Employment | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-key-players-driving-metaverse-innovation-a-zdnet-analysis/"><u>Exploring Key Players Driving Metaverse Innovation: A ZDNet Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-ms-edge-usage-understanding-and-using-picture-in-picture-for-2024/"><u>Maximize MS Edge Usage Understanding and Using Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-obstacles-in-implementing-digital-twin-technology-a-guide-for-companies-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twin Technology: A Guide for Companies | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-your-health-a-step-by-step-tutorial-on-deep-cleansing-and-disinfecting-your-airpods-why-its-crucial/"><u>Preserve Your Health: A Step-by-Step Tutorial on Deep Cleansing and Disinfecting Your AirPods (Why It's Crucial)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-the-metaverse-landscape-explore-apples-innovative-solution-to-remove-virtual-defacement-with-newly-granted-patent-technology/"><u>Protecting the Metaverse Landscape: Explore Apple's Innovative Solution to Remove Virtual Defacement with Newly Granted Patent Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-distance-engineering-careers-through-vr-and-digital-twins-exploring-the-advances-on-zdnet/"><u>Revolutionizing Distance Engineering Careers Through VR and Digital Twins – Exploring the Advances on ZDNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essential-twitter-archive-user-manual-for-2024/"><u>The Essential Twitter Archive User Manual for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-full-potential-of-your-apple-vision-pro-with-this-must-have-accessory-exclusive-insights-zdnet-revealed/"><u>Unlock Full Potential of Your Apple Vision Pro with This Must-Have Accessory – Exclusive Insights | ZDNET Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-design-of-apples-revolutionary-vision-correction-glasses-the-vision-pro/"><u>Unveiling the Design of Apple's Revolutionary Vision Correction Glasses - The Vision Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-unveiling-samsungs-anticipated-rival-to-apples-vision-pro-awaited-launch-details/"><u>Upcoming Unveiling: Samsung's Anticipated Rival to Apple's Vision Pro - Awaited Launch Details</u></a></li>
+</ul></div>
+

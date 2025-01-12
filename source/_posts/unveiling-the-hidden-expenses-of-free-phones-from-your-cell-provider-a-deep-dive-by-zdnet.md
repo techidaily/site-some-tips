@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Expenses of 'Free' Phones From Your Cell Provider - A Deep Dive by ZDNet
-date: 2025-01-01T05:32:32.806Z
-updated: 2025-01-06T03:36:07.579Z
+date: 2025-01-10T19:29:53.242Z
+updated: 2025-01-12T16:42:28.142Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ How do you tell the difference?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How free and low-cost phone offers work
 
 The deals we're discussing here are unique to the United States, and specifically to the three big carriers that dominate the US mobile market. When you agree to accept your new phone from the carrier, the price you pay typically includes some combination of a down payment, a trade-in allowance for your current phone, and a series of credits that will be applied to your monthly bill. You agree to finance the phone at 0% interest, typically over a period of 24 to 36 months, and the credits offset all or part of the equipment charge for that same period.
@@ -47,7 +43,7 @@ You might be offered a higher-than-expected trade-in value for your current phon
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
@@ -68,6 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will my new phone be locked to this carrier?
 
 The carrier is offering that phone at a discount because they want to lock you into a steady stream of monthly service fees. Typically, that means the phone is SIM-locked until it's fully paid off. Consequently, you can't use it with a prepaid SIM card on your overseas trip, nor can you add a second line from a different carrier, even if you have a dual-SIM device.
@@ -75,12 +75,16 @@ The carrier is offering that phone at a discount because they want to lock you i
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
 
@@ -90,16 +94,12 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
@@ -140,17 +140,20 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-harmonizing-social-media-twitter-plus-tumblr-videos/"><u>[Updated] Harmonizing Social Media Twitter + Tumblr Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-prime-youtube-personalities-and-their-stellar-subscriber-tally/"><u>[Updated] Prime YouTube Personalities and Their Stellar Subscriber Tally</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/analisis-detallado-y-recomendaciones-para-el-screenrec-de-202n4-por-parte-de-los-expertos-de-movavi/"><u>Análisis Detallado Y Recomendaciones Para El ScreenRec De 202N4 Por Parte De Los Expertos De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cheap-and-efficient-openai-enhances-accessibility-of-affordable-gpt-4-minimalist-version-for-custom-tuning-insights-from-zdnet/"><u>Cheap and Efficient: OpenAI Enhances Accessibility of Affordable GPT-4 Minimalist Version for Custom Tuning – Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clearing-robloxs-error-403-blockage-for-windows-users/"><u>Clearing Roblox's Error 403 Blockage for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquer-your-computers-audio-problems-in-five-steps-tailored-for-windows-11/"><u>Conquer Your Computer's Audio Problems in Five Steps (Tailored for Windows 11)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-eq-a-guide-to-improving-emotional-intelligence-with-chatgpt/"><u>Enhancing Your EQ: A Guide to Improving Emotional Intelligence with ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/famous-renowned/"><u>Famous - Renowned</u></a></li>
-<li><a href="https://some-tips.techidaily.com/intels-ai-head-wei-li-on-democratizing-advanced-artificnial-intelligence-for-everyday-use/"><u>Intel's AI Head Wei Li on Democratizing Advanced Artificnial Intelligence for Everyday Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-era-of-dual-screen-laptops-upon-us-with-lenovos-yoga-book-9i-innovation-insights-from-tech-experts/"><u>Is the Era of Dual-Screen Laptops Upon Us with Lenovo's Yoga Book 9I Innovation? Insights From Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-the-future-of-attracting-top-tier-technology-professionals/"><u>Revamping Recruitment Strategies: The Future of Attracting Top-Tier Technology Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-enterprise-ai-with-azures-models-as-a-service-next-gen-rag-tools-enhance-machine-learning-capabilities-insights-from-zdnet/"><u>Revolutionizing Enterprise AI with Azure's 'Models as a Service': Next-Gen RAG Tools Enhance Machine Learning Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-obs-meets-shadowcast/"><u>[New] 2024 Approved OBS Meets ShadowCast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unbeatable-upvotes-reddits-hottest-threads-from-history-for-2024/"><u>[New] Unbeatable Upvotes Reddit's Hottest Threads From History for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-event-highlights-introducing-the-powerhouse-m4-ipad-pro-upgraded-13-inch-ipad-air-and-new-apple-pencil-pro-tech-insights/"><u>Apple Event Highlights: Introducing the Powerhouse M4 iPad Pro, Upgraded 13-Inch iPad Air & New Apple Pencil Pro | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/banishing-email-overload-effortlessly-discover-the-one-trick-solution-for-a-neat-inbox-on-zdnet/"><u>Banishing Email Overload Effortlessly: Discover the One-Trick Solution for a Neat Inbox on ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-user-manual-navigating-through-different-ipados-releases/"><u>Complete User Manual: Navigating Through Different iPadOS Releases</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dive-deep-into-high-quality-video-capture-technology-for-2024/"><u>Dive Deep Into High-Quality Video Capture Technology for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-and-install-macos-monterey-preview-version-on-your-mac-device-now-step-by-step-instructions-tech-insights/"><u>Download and Install macOS Monterey Preview Version on Your Mac Device Now! Step-by-Step Instructions Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-deal-with-fluid-damage-on-your-iphone-charging-cable-expert-tips-from-tech-gurus/"><u>How to Deal with Fluid Damage on Your iPhone Charging Cable – Expert Tips From Tech Gurus</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unleash-your-inner-comedian-top-video-dubbing-software/"><u>In 2024, Unleash Your Inner Comedian Top Video Dubbing Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-compression-made-easy-10-best-tools/"><u>New Free Online Video Compression Made Easy 10 Best Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-news-apples-ai-integration-postponed-to-october-sources-confirm-insights/"><u>Tech News: Apple's AI Integration Postponed To October, Sources Confirm - Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-8-insights-nintendo-must-embrace-to-enhance-their-switch-console-experience/"><u>Top 8 Insights Nintendo Must Embrace to Enhance Their Switch Console Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-straps-in-depth-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : In-Depth Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862807807-transform-your-gameplay-score-the-acer-nitro-27-inch-gaming-monitor-at-an-amazing-price/"><u>Transform Your Gameplay: Score the Acer Nitro 27-Inch Gaming Monitor at an Amazing Price</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmasking-the-weakness-in-apples-device-security-update-essential-tips-for-optimal-protection/"><u>Unmasking the Weakness in Apple’s Device Security Update: Essential Tips for Optimal Protection</u></a></li>
 </ul></div>
 

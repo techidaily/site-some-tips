@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tencent's Bold Move Into the Metaverse: Silence Surrounding Their Strategy for ChatGPT"
-date: 2024-09-18 23:38:12
-updated: 2024-09-20 10:28:30
+date: 2025-01-08T19:59:30.753Z
+updated: 2025-01-12T18:12:31.843Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Further development in Web3 will lead to more diverse applications, such as the 
 
 Pointing to the metaverse, he said Tencent's experience in online games and communication services spanning text, audio, video, and 3D, will be a competitive advantage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Tencent Cloud pledges SEA expansion with launch of Indonesia data centre](https://www.zdnet.com/article/tencent-cloud-pledges-sea-expansion-with-launch-of-indonesia-data-centre/)
@@ -61,11 +65,25 @@ Pointing to the metaverse, he said Tencent's experience in online games and comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-becoming-professionally-active-registering-a-business-on-ig/"><u>[New] 2024 Approved Becoming Professionally Active Registering a Business on IG</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-farm-frontier-favorites-similar-titles-galore-for-2024/"><u>[New] Farm Frontier Favorites Similar Titles Galore for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-advantages-and-disadvantages-of-using-webex-for-virtual-conferences/"><u>Evaluating the Advantages & Disadvantages of Using Webex for Virtual Conferences</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-gionee-f3-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Gionee F3 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/solving-your-disc-reading-problems-a-guide-to-repairing-a-malfunctioning-cddvd-drive/"><u>Solving Your Disc-Reading Problems: A Guide to Repairing a Malfunctioning CD/DVD Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-highest-rated-headlamps-of-2022-according-to-consumer-reviews/"><u>Top 5 Highest-Rated Headlamps of 2022 According to Consumer Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-ideal-houseplants-to-enhance-air-quality-and-aesthetics-in-a-work-from-home-setup/"><u>Top 5 Ideal Houseplants to Enhance Air Quality and Aesthetics in a Work-From-Home Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-unbeatable-tech-bargains-this-labor-day-score-85-off-airpods-plus-more-at-zdnet/"><u>Top 9 Unbeatable Tech Bargains This Labor Day - Score $85 Off AirPods + More at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-pick-in-compact-beginner-friendly-portable-power-solutions-a-comprehensive-review-by-zdnet/"><u>Top Pick in Compact, Beginner-Friendly Portable Power Solutions - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unnoticed-consumers-of-fb-stories/"><u>Unnoticed Consumers of Fb Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-sonos-s2-app-enhanced-ease-of-use-meets-unexpected-limitations/"><u>Unveiling Sonos S2 App: Enhanced Ease of Use Meets Unexpected Limitations</u></a></li>
+</ul></div>
+

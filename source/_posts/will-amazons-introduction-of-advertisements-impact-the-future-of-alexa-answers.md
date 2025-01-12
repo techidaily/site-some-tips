@@ -1,7 +1,7 @@
 ---
 title: Will Amazon's Introduction of Advertisements Impact the Future of Alexa Answers?
-date: 2024-09-17 12:19:33
-updated: 2024-09-20 12:30:52
+date: 2025-01-10T19:37:11.982Z
+updated: 2025-01-12T16:42:03.644Z
 tags:
   - amazon
 categories:
@@ -22,6 +22,10 @@ I'm a product guy. Way back in the day I was actually a product marketing execut
 Generally, though, people have to think they have a need. Oh, sure, that's what marketing's about. Its job is to create demand where there might not have been any. Sometimes, it generates awareness. Sometimes, it generates leads by finding folks who might be a fit for a product. Sometimes, it just generates enough hype that the product takes off as a mere side effect of an intense hype machine. 
 
 **Also:** [Amazon's ready to announce a bunch of devices on Sept. 28](https://www.zdnet.com/home-and-office/smart-home/amazons-ready-to-announce-a-bunch-of-devices-on-sept-28/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -44,6 +48,10 @@ In 2022, Alexa is ubiquitous. A lot of families have one in practically every ro
 
 There's no doubt she's a faceless AI front for a giant corporation, but she has generally always been a friendly, helpful faceless AI front for a giant corporation. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The times they are a-changin'
 
 But that helpfulness seems like it might be about to change. Last week, [Amazon announced](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.aboutamazon.com%2Fnews%2Fsmall-business%2Falexa-can-now-help-brands-answer-customer-questions%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7aabdfac-aab9-43c2-b444-6869c004f3dd%7Cdtp&dtb=1) it's about to introduce vendor-supplied answers for common Alexa questions. Here's how Amazon describes it: 
@@ -61,6 +69,10 @@ According to Rajiv Mehta, general manager of Alexa Shopping at Amazon, "Amazon r
 Yeah, there's no way this could go wrong. 
 
 Playing to the algorithm for priority on the SERP (search engine response page) has already irrevocably changed editorial journalism. Most articles (mine included) go through an SEO review. Even if a headline would be enormously appealing to humans (or simply make the most sense), it might be nuked in favor of one that has higher Google juice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -82,6 +94,10 @@ We've all had that friend who got all caught up in a multilevel marketing scheme
 It's true that Alexa has already offered some items at random times before (Amazon Music comes to mind). We always answer with an annoyed "Ah, no. Nuh-nuh-no." Sometimes she pops up with a yellow-ringed alert that's a reminder to do something about an upcoming Subscribe and Save order. But these promos and notifications have, so far, not been specifically tied to third party vendors. They don't give vendors a way to game the system for the best SEO answer results. 
 
 This is my concern for Alexa. Amazon's engineers have managed to train Alexa for just the right balance of helpfulness and unobtrusiveness. But if she's constantly trying to push an upsell at us, it's going to get old. First it's ads on answers. Then, perhaps, it would be ads in our timers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -109,6 +125,10 @@ Okay, so that's probably an exaggeration. But how many previously wonderful webs
 
 **Also:** [How to set up motion-triggered smart lights as an Alexa routine](https://www.zdnet.com/home-and-office/smart-home/how-to-set-up-motion-triggered-smart-lights-as-an-alexa-routine/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A changing relationship
 
 I'm sad about this. Alexa has been a fantastic (and frankly unexpected) boon to many of us. At this point, she's practically a trusted member of the family. But if her essential nature is corrupted by an overreaching quest for yet more Bezos Bucks, it will be a real shame. 
@@ -129,11 +149,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>[Updated] Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-single-platform-livestreaming-unveiling-onestream-techniques-for-2024/"><u>[Updated] Mastering Single-Platform Livestreaming Unveiling OneStream Techniques for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-m6-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco M6 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-14-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi 14? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoid-device-damage-understanding-the-risks-of-a-common-battery-safety-flaw-in-airtags-and-solutions/"><u>Avoid Device Damage: Understanding the Risks of a Common Battery Safety Flaw in AirTags and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/certain-iphone-repairs-now-authorized-by-apple-using-refurbished-elements-insights/"><u>Certain iPhone Repairs Now Authorized by Apple Using Refurbished Elements: Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/early-sale-alert-apples-new-m2-macbook-air-drops-to-800-on-amazon-pre-prime-day-tech-news-at-zdnet/"><u>Early Sale Alert: Apple's New M2 MacBook Air Drops to $800 on Amazon Pre-Prime Day | Tech News at ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-expert-picks-the-ultimate-guide-to-iphone-gps-applications/"><u>Explore Our Expert Picks: The Ultimate Guide to iPhone GPS Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-stays-tight-on-iphone-distributions-across-europe-as-reported/"><u>How Apple Stays Tight on iPhone Distributions Across Europe, as Reported</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-tecno-spark-20-proplus-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Tecno Spark 20 Pro+.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-10-secrets-for-perfect-slow-motion-shots/"><u>In 2024, GoPro Hero 10 Secrets for Perfect Slow Motion Shots</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia Is Unlocked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-camera-upgrade-integrating-ai-vision-technology-inspired-by-google-lens-insights-from-zdnet/"><u>IPhone 16 Camera Upgrade: Integrating AI Vision Technology Inspired by Google Lens - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-network-interfaces-on-macos-a-step-by-step-guide-for-enhanced-connectivity/"><u>Setting Up Multiple Network Interfaces on macOS: A Step-by-Step Guide for Enhanced Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/struggling-with-cellular-signal-after-ios-1721-on-iphone-try-these-solutions/"><u>Struggling with Cellular Signal After iOS 17.2.1 on iPhone? Try These Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-to-ios-18-could-cause-issues-with-your-ipad-expert-tips-for-a-smooth-transition/"><u>Upgrading to iOS 18 Could Cause Issues with Your iPad – Expert Tips for a Smooth Transition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-these-4-popular-iproducts-may-not-be-your-best-choice-according-to-tech-gurus-at-zdnet/"><u>Why These 4 Popular iProducts May Not Be Your Best Choice According to Tech Gurus at ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: My Experience Attempting a Product Return on Temu – Insights & Outcomes | ZDNet
-date: 2024-09-19 14:18:14
-updated: 2024-09-20 10:23:51
+date: 2025-01-07T17:35:43.684Z
+updated: 2025-01-12T19:01:21.975Z
 tags:
   - amazon
 categories:
@@ -20,6 +20,10 @@ Let's get the most important detail out of the way first: If you think you might
 **Also: [Is Temu legit? What to know before you place an order](https://www.zdnet.com/article/is-temu-legit-what-to-know-about-this-wildly-popular-shopping-app/)**
 
 I'll talk more about this in a bit, but keep this advice in mind. And with that, let's get on with our story. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My (failed) Temu purchase 
 
@@ -111,9 +115,17 @@ If you've ever returned something to Temu without its original packaging, let us
 
 Fortunately, I did still have the Temu envelope, so I dutifully packed up the unit in that wrapper and… let it sit for about 14 days on my counter. But let's count the day I shipped it as "day 1" and see how the return progressed, day by day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Day 1 - Sending the package 
 
 I don't know why I didn't send it right out, but I'm guessing it was because I was busy. In any case, it allowed me to test whether Temu would accept a package shipped 14 days after the return was authorized. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Day 5 - Package arrives at Temu post office 
 
@@ -125,6 +137,10 @@ Presumably, the post office they're referring to is _their_ post office, not min
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Day 6 - Return accepted, refund issued 
 
 And that was that, at least for that day. The next day, I got a notice telling me that my return had reached Temu's warehouse. 
@@ -134,6 +150,10 @@ Screenshot by David Gewirtz/ZDNET
 A few hours later, I was informed that my return had been accepted and a refund had been issued (although it would take time for the money to get to me). 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Day 8 - Refunded money hits my credit card 
 
@@ -180,11 +200,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos-for-2024/"><u>[New] Streamline Your VFX Creation with Story Remix and Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cold-climates-hot-wins-beijing-highlights/"><u>[Updated] 2024 Approved Cold Climates, Hot Wins Beijing Highlights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] In 2024, Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users/"><u>[Updated] Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-effortless-guide-discontinue-your-ios-15-app-store-subscriptions-directly-from-your-iphone-tips-for-a-hassle-free-experience/"><u>1. Effortless Guide: Discontinue Your iOS 15 App Store Subscriptions Directly From Your iPhone – Tips for a Hassle-Free Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-essential-enhancements-required-how-apples-vision-pro-can-triumph-in-the-competitive-market-insights-from-zdnet/"><u>1. Essential Enhancements Required: How Apple's Vision Pro Can Triumph in the Competitive Market - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-secrets-to-showing-all-apps-on-your-iphone-again/"><u>Discover the Secrets to Showing All Apps on Your iPhone Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-review-testing-apples-strongest-iphone-protector-with-innovative-shock-absorb-tech/"><u>Exclusive Review: Testing Apple's Strongest iPhone Protector with Innovative Shock-Absorb Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-picks-the-safest-and-most-durable-phones-for-children/"><u>Expert Picks: The Safest & Most Durable Phones for Children</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-markets-elite-aquaproof-smartwatches-of-2024-thorough-testing-and-analysis-zdnet/"><u>Exploring the Market's Elite Aquaproof Smartwatches of 2024: Thorough Testing and Analysis | ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-z-fold-5-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy Z Fold 5 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>Harnessing Online Platforms Beyond YouTube to 30+ Communities for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-worth-upgrading-expert-analysis-on-iphone-16-by-leading-editors-at-zdnet/"><u>Is It Worth Upgrading? Expert Analysis on iPhone 16 by Leading Editors at ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-switch-transitioning-your-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Seamless Switch: Transitioning Your WhatsApp From Android to iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727792257772-top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-outlook-cannot-reach-microsoft-exchange-server-errors/"><u>Troubleshooting Steps for 'Outlook Cannot Reach Microsoft Exchange Server' Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-surface-book-drivers-seamlessly-beginners-guide-to-easy-download/"><u>Update Your Surface Book Drivers Seamlessly – Beginner's Guide to Easy Download</u></a></li>
+</ul></div>
+

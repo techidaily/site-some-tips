@@ -1,7 +1,7 @@
 ---
 title: "A Tale of Two Tech Giants: While Google Withdraws From IoT Services, Microsoft Advances in Smart Technology | Analysis on ZDNET"
-date: 2024-09-18 22:47:24
-updated: 2024-09-20 11:26:27
+date: 2025-01-09T17:07:17.979Z
+updated: 2025-01-12T20:58:44.939Z
 tags:
   - cloud
 categories:
@@ -62,11 +62,29 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-full-potential-share-videos-on-fb-effectively/"><u>[New] Unlocking Full Potential Share Videos on FB Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-access-the-latest-battery-and-memory-saving-functions-in-google-chrome-a-step-by-step-guide/"><u>How to Access the Latest Battery & Memory Saving Functions in Google Chrome: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reactivating-the-dark-mode-on-facebook-tips-and-tricks/"><u>Reactivating the Dark Mode on Facebook: Tips and Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/secure-your-blogging-space-the-importance-of-2fa-in-protecting-your-wordpress-site-by-yl-software-experts/"><u>Secure Your Blogging Space: The Importance of 2FA in Protecting Your WordPress Site - By YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-data-management-in-google-workspace-a-user-friendly-guide-to-saving-space-and-enhancing-efficiency/"><u>Streamline Your Data Management in Google Workspace: A User-Friendly Guide to Saving Space & Enhancing Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-workflow-with-google-docs-no-page-limit-feature-a-comprehensive-guide-for-efficiency-gains-zdnet/"><u>Transform Your Workflow with Google Docs' No-Page Limit Feature - A Comprehensive Guide for Efficiency Gains | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721924812630-understanding-the-constraints-5-key-factors-against-using-chatgpt-for-bitcoin-and-co/"><u>Understanding the Constraints: 5 Key Factors Against Using ChatGPT for Bitcoin & Co.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-efficiency-top-5-strategies-for-integrating-ruby-gems-into-your-projects-insights-from-google-and-zdnet/"><u>Unlocking Efficiency: Top 5 Strategies for Integrating Ruby Gems Into Your Projects - Insights From Google & ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ambient-computing-understanding-the-surge-of-hidden-technology/"><u>Unveiling Ambient Computing: Understanding the Surge of Hidden Technology</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

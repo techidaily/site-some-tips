@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Guide to Setting Up Home Cloud Services Under One Hour - Tips From ZDNet
-date: 2024-09-19 18:13:58
-updated: 2024-09-20 10:44:54
+date: 2025-01-06T18:08:52.721Z
+updated: 2025-01-12T17:44:57.732Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ In this series on making use of Linux at home, I now want to show you how to ins
 
 It should come as no surprise given the title of this piece that there's a very easy way to install this cloud platform -- and I'm going to show you how it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install a cloud service at home: It's easy
 
 **What you'll need:** As mentioned above, you'll need an instance of Ubuntu Server up and running on your home network to successfully install Nextcloud. Fear not, as I've already explained [how you can install this system in under 30 minutes](https://www.zdnet.com/article/how-to-install-ubuntu-server-in-less-than-30-minutes/). With that server running, you'll need a user with sudo privileges (which you create during the operating system installation).
@@ -63,6 +67,10 @@ To install Nextcloud, issue the command:
 
 sudo snap install nextcloud
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Find the IP address of your server
 
 The Nextcloud command line installation should go off without a hitch and finish in less than a minute. 
@@ -73,9 +81,17 @@ When that finishes, you'll need to first know the IP address of your server with
 
 ip a
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Access the web installer
 
 Open a web browser and point it to http://SERVER (where SERVER is the IP address of your Ubuntu server).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Create an admin user
 
@@ -96,6 +112,10 @@ Allow the installation to complete and you'll be presented with the Nextcloud Hu
 I would go with the recommendations.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Next steps with Nextcloud
 
@@ -145,11 +165,28 @@ Even with the installation of Ubuntu Server, you should be able to complete this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tech-titans-select-top-10-video-capture-apps/"><u>[New] 2024 Approved Tech Titans Select Top 10 Video Capture Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/odays-vital-views-youtubes-quick-hit-list-for-2024/"><u>[New] Today's Vital Views YouTube’s Quick Hit List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ces-unveils-top-innovations-on-day-two-of-the-2023-event/"><u>CES Unveils Top Innovations on Day Two of the 2023 Event</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-enhance-your-websites-personalization-and-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's Personalization and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/craft-an-eye-safe-solar-eclipse-viewer-with-a-camera-obscura-expert-tips-and-tricks-on-zdnet/"><u>Craft an Eye-Safe Solar Eclipse Viewer with a Camera Obscura - Expert Tips & Tricks on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-2022-headlamp-models-a-comprehensive-review-by-zdnet/"><u>Discover the Leading 2022 Headlamp Models: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-solar-outdoor-lights-for-eco-friendly-illumination-gizmodo/"><u>Discover the Leading Solar Outdoor Lights for Eco-Friendly Illumination - Gizmodo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-2022-rv-selection-leading-motorhomes-and-camper-options-reviewed-by-zdnet/"><u>Discover the Ultimate 2022 RV Selection: Leading Motorhomes and Camper Options Reviewed by ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-dialogue-6-grouping-gains-on-facebook/"><u>Elevating Dialogue: 6 Grouping Gains on Facebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1630703-9781776530205-lures-of-life/"><u>Lures of Life | Free Book</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-split-screen-on-tiktok/"><u>New How To Split Screen On Tiktok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/strategic-application-of-hashtags-in-fb-advertising-for-2024/"><u>Strategic Application of Hashtags in FB Advertising for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nord-n30-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nord N30 5G</u></a></li>
+</ul></div>
+

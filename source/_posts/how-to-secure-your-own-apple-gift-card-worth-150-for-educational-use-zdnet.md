@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2025-01-03T18:29:18.795Z
-updated: 2025-01-05T20:22:46.020Z
+date: 2025-01-10T21:03:37.437Z
+updated: 2025-01-12T19:56:34.645Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-smooth-sailing-navigating-the-world-of-igtv-videos-for-2024/"><u>[New] Smooth Sailing Navigating the World of IGTV Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>[Updated] 2024 Approved Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-scansnap-drivers-seamlessly-on-windows-a-simple-guide/"><u>Download & Update ScanSnap Drivers Seamlessly on Windows – A Simple Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-fifa-19-dominating-the-world-of-sports-gaming/"><u>Exploring FIFA 19 - Dominating the World of Sports Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-ai-the-revolutionary-approach-of-using-machine-learning-and-computer-vision-in-retail-inventory-management/"><u>Harnessing AI: The Revolutionary Approach of Using Machine Learning & Computer Vision in Retail Inventory Management</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ideal-12-gift-choices-for-the-modern-hacker-must-have-items-endorsed-by-zdnet/"><u>Ideal 12 Gift Choices for the Modern Hacker: Must-Have Items Endorsed by ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-listen-to-podcasts-on-your-iphone/"><u>In 2024, How to Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/samsungs-latest-duo-meets-apples-iphone-13-an-in-depth-spec-sheet-showdown/"><u>Samsung's Latest Duo Meets Apple's iPhone 13: An In-Depth Spec Sheet Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/slash-your-wardrobe-costs-a-revolutionary-chrome-shopbot-extension-reviewed-by-zdnet/"><u>Slash Your Wardrobe Costs: A Revolutionary Chrome Shopbot Extension Reviewed by ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/2-youtube-game-openers-both-free-and-fee-based-options/"><u>Top 12 YouTube Game Openers Both Free & Fee-Based Options</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-online-stores-for-purchasing-contact-lenses-recommended-by-zdnet/"><u>Top Online Stores for Purchasing Contact Lenses - Recommended by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-marriotts-bold-new-concept-for-ultimate-joy-insights-from-zdnet/"><u>Unraveling Marriott's Bold New Concept for Ultimate Joy - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-get-the-best-view-16-free-avi-video-rotators-for-perfect-orientation-on-any-device-for-2024/"><u>Updated Get the Best View 16 Free AVI Video Rotators for Perfect Orientation on Any Device for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-iphone-speech-recordings/"><u>[Updated] The Complete Guide to iPhone Speech Recordings</u></a></li>
+<li><a href="https://fox-making.techidaily.com/como-transferir-videos-de-iphone-a-ordenador-y-solucionar-problemas-comunes/"><u>Cómo Transferir Videos De iPhone a Ordenador Y Solucionar Problemas Comunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/compact-innovation-unveiled-is-the-new-mac-minis-m4-chip-a-match-for-its-tiny-form-factor-tech-insights-by-zdnet/"><u>Compact Innovation Unveiled: Is the New Mac Mini's M4 Chip a Match for Its Tiny Form Factor? | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-affordable-rechargeable-wallet-trackers-that-outperform-apple-airtags-your-ultimate-guide/"><u>Discover Affordable, Rechargeable Wallet Trackers That Outperform Apple AirTags - Your Ultimate Guide .</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-new-era-of-visual-search-how-iphone-16-integrates-ai-capabilities-akin-to-google-lens-in-depth-analysis-for-zdnet-readers/"><u>Exploring the New Era of Visual Search: How iPhone 16 Integrates AI Capabilities Akin to Google Lens | In-Depth Analysis for ZDNet Readers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apples-revolutionary-ai-realm-beats-gpt-4-in-performance-exclusive-analysis/"><u>How Apple's Revolutionary AI, ReaLM, Beats GPT-4 in Performance | Exclusive Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-the-cause-of-random-device-shutdowns-troubleshooting-steps-inside-out/"><u>Identifying the Cause of Random Device Shutdowns: Troubleshooting Steps Inside Out</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-affordable-android-chat-top-free-app-alternatives/"><u>In 2024, Affordable Android Chat Top Free App Alternatives</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-fundamentals-of-e-narrative-creation/"><u>In 2024, Fundamentals of E-Narrative Creation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-10-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/initiating-an-oculus-meta-quest-quest-2-journey-with-ease-account-creation-tips-and-tricks/"><u>Initiating an Oculus Meta Quest / Quest 2 Journey With Ease - Account Creation Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-hotel-wide-apple-airplay-connectivity-the-ultimate-guide-for-seamless-media-streaming-experience/"><u>Introducing Hotel-Wide Apple AirPlay Connectivity - The Ultimate Guide for Seamless Media Streaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-counter-strike-2-crashes-on-pc-expert-tips-and-solutions/"><u>Preventing Counter-Strike 2 Crashes on PC - Expert Tips & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-effective-solutions-when-overwatch-2-continuously-crashes-on-your-pc/"><u>Solving the Problem: Effective Solutions When Overwatch 2 Continuously Crashes on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-kid-friendly-ipad-models-your-comprehensive-guide/"><u>Top 4 Kid-Friendly iPad Models : Your Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-list/"><u>Top-Ranking Mac Software : A Comprehensive List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievable-bargain-get-the-apple-m2-macbook-air-for-half-price-at-800-pre-october-amazon-prime-day-tech-news-flash/"><u>Unbelievable Bargain! Get the Apple M2 MacBook Air for Half Price at $800 Pre-October Amazon Prime Day | Tech News Flash!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlock-fb-seo-potential-with-keyword-rich-strategies-for-2024/"><u>Unlock FB SEO Potential with Keyword-Rich Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmissable-discounts-on-iphones-your-complete-guide-for-the-top-offers-in-july-2024-featuring-insights/"><u>Unmissable Discounts on iPhones: Your Complete Guide for the Top Offers in July 2024, Featuring Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Setting Up Your Own Home Cloud Storage Within One Hour
-date: 2024-09-17 20:15:55
-updated: 2024-09-20 12:22:37
+date: 2025-01-09T18:02:48.373Z
+updated: 2025-01-12T21:22:23.523Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ In this series on making use of Linux at home, I now want to show you how to ins
 
 It should come as no surprise given the title of this piece that there's a very easy way to install this cloud platform -- and I'm going to show you how it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install a cloud service at home: It's easy
 
 **What you'll need:** As mentioned above, you'll need an instance of Ubuntu Server up and running on your home network to successfully install Nextcloud. Fear not, as I've already explained [how you can install this system in under 30 minutes](https://www.zdnet.com/article/how-to-install-ubuntu-server-in-less-than-30-minutes/). With that server running, you'll need a user with sudo privileges (which you create during the operating system installation).
@@ -57,11 +61,19 @@ That's it. Let's do this.
 
 The first thing is to log in to your Ubuntu Server instance, which will land you at the terminal window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Install Nextcloud with snap
 
 To install Nextcloud, issue the command:
 
 sudo snap install nextcloud
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Find the IP address of your server
 
@@ -85,6 +97,10 @@ Creating an admin user is the first step in the web GUI.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Install recommended apps
 
 In the resulting window, click Install Recommended Apps to add the Calendar, Contacts, Mail, Nextcloud Office, and Talk apps (you can add more later). This installation will take a bit more time (less than five minutes). 
@@ -96,6 +112,10 @@ Allow the installation to complete and you'll be presented with the Nextcloud Hu
 I would go with the recommendations.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Next steps with Nextcloud
 
@@ -145,11 +165,28 @@ Even with the installation of Ubuntu Server, you should be able to complete this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-the-eye-catching-4k-experience-dell-p2715q-in-focus/"><u>[Updated] The Eye Catching 4K Experience Dell P2715Q in Focus</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-windows-tasks-with-top-5-car-drivers/"><u>Accelerate Windows Tasks with Top 5 Car Drivers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-5-lite-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 5 Lite?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-note-30-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Note 30 5G Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-new-directors-toolkit-15-basic-cinematography-movements/"><u>The New Director’s Toolkit 15 Basic Cinematography Movements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-marketing-playbook-for-digital-beginners-on-reddit-for-2024/"><u>The Ultimate Marketing Playbook for Digital Beginners on Reddit for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-to-do-apps-in-2eplustodo-a-comprehensive-guide/"><u>Top 6 To-Do Apps in 2E+TODO - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-strategies-sought-by-executives-securing-elite-technology-professionals-as-revealed-in-insights-from-industry-titans-zdnet/"><u>Top Strategies Sought by Executives: Securing Elite Technology Professionals as Revealed in Insights From Industry Titans - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-your-data-management-master-the-art-of-utilizing-google-sheets-inbuilt-table-features-for-effortless-workflows-zdnet/"><u>Transforming Your Data Management: Master the Art of Utilizing Google Sheets' Inbuilt Table Features for Effortless Workflows | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-professional-success-how-to-find-and-follow-your-passion-with-five-expert-tips-by-zdnet/"><u>Unlock Professional Success: How to Find and Follow Your Passion with Five Expert Tips by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-career-growth-top-strategies-from-industry-experts-to-break-boundaries-in-the-office/"><u>Unlocking Career Growth: Top Strategies From Industry Experts to Break Boundaries in the Office</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-employee-potential-key-lessons-from-industry-visionaries-powered-by-zdnet/"><u>Unlocking Employee Potential: Key Lessons From Industry Visionaries | Powered By ZDNet</u></a></li>
+</ul></div>
+

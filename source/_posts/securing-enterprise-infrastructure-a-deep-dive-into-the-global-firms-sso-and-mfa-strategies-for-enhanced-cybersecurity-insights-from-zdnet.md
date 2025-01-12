@@ -1,7 +1,7 @@
 ---
 title: "Securing Enterprise Infrastructure: A Deep Dive Into the Global Firm's SSO & MFA Strategies for Enhanced Cybersecurity - Insights From ZDNet"
-date: 2024-09-18 23:22:17
-updated: 2024-09-20 10:56:55
+date: 2025-01-06T16:01:43.540Z
+updated: 2025-01-12T18:17:09.990Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-the-gap-understanding-and-using-slug-lines/"><u>[New] Bridging the Gap Understanding & Using Slug Lines</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-flair-free-download-templates/"><u>[New] Channel Flair Free Download Templates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>[New] Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-affluent-streaming-stars-for-2024/"><u>[Updated] Affluent Streaming Stars for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enhance-snapchat-media-with-smart-zooming-hacks/"><u>[Updated] In 2024, Enhance Snapchat Media with Smart Zooming Hacks</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728482127274-windows-11/"><u>練習自我開機 Windows 11 從休息狀態中啟動技術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-automatic-bird-food-dispensers-a-comprehensive-guide-smarttechjournal/"><u>Advanced Automatic Bird Food Dispensers : A Comprehensive Guide | SmartTechJournal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/all-you-need-to-know-about-the-april-2024-solar-eclipse-viewing-tips-necessary-gear-and-expert-advice-techinsights/"><u>All You Need to Know About the April 2024 Solar Eclipse: Viewing Tips, Necessary Gear & Expert Advice | TechInsights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bargain-of-the-day-the-almost-perfect-arlo-pro-5s-camera-sale-just-180-on-zdnetcom/"><u>Bargain of the Day: The Almost Perfect Arlo Pro 5S Camera Sale - Just $180 on ZDNet.com</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-electric-smoker-brands-of-2023-reviewed-by-zdnet-for-your-perfect-bbq-grill/"><u>Best Electric Smoker Brands of 2023 Reviewed by ZDNet for Your Perfect BBQ Grill</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/diagnosing-graphics-card-issues-finding-the-root-cause-of-your-pcs-display-problems/"><u>Diagnosing Graphics Card Issues - Finding the Root Cause of Your PC's Display Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-s24-ultra-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy S24 Ultra Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-kindle-scribe-top-9-hacks-to-boost-your-digital-note-taking-game-on-amazons-platform-gadgetguru/"><u>Unlocking the Power of Kindle Scribe: Top 9 Hacks to Boost Your Digital Note-Taking Game on Amazon's Platform | GadgetGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-unexpected-essential-electronics-your-surprising-must-haves-for-autumn-and-winter-seasons-insights-from-zdnet/"><u>Unveiling Unexpected Essential Electronics: Your Surprising Must-Haves for Autumn & Winter Seasons - Insights From ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet"
-date: 2025-01-03T04:18:35.766Z
-updated: 2025-01-05T17:21:57.009Z
+date: 2025-01-08T17:29:00.691Z
+updated: 2025-01-12T18:52:39.646Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone models will get iOS 18?
 
 According to Apple, these iPhone models can get iOS 18 now that it's become widely available:
@@ -77,7 +81,7 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18 beta vs full release: What's the difference?
@@ -93,7 +97,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -104,6 +108,10 @@ Apple typically releases its new operating systems for public beta access a few 
 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a software beta?
 
 A software beta is a version of a program or operating system initially released to a limited group of users to gather feedback and iron out bugs. The beta release lets a developer or company test its software program or system to emulate real-world use before a general release. 
@@ -111,10 +119,6 @@ A software beta is a version of a program or operating system initially released
 **Also: [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)**
 
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
 
@@ -125,16 +129,12 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
 
@@ -176,15 +176,14 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-exploring-depths-smoothly-premium-camcorders-for-water-sports/"><u>[Updated] In 2024, Exploring Depths Smoothly Premium Camcorders for Water Sports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/adapting-office-tech-the-future-of-work-gadgets-in-an-age-dominated-by-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Tech: The Future of Work Gadgets in an Age Dominated by Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-on-restoring-a-broken-micro-sd-card-to-safeguard-your-data/"><u>Complete Tutorial on Restoring a Broken Micro SD Card to Safeguard Your Data</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/download-ios-18-on-your-iphone-compatible-models-and-installation-guide-zdnet/"><u>Download IOS 18 on Your iPhone: Compatible Models and Installation Guide | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-best-book-reading-applications-pick-your-favorites-in-202/"><u>Explore the Best Book Reading Applications - Pick Your Favorites in 202</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-a-high-tech-mobile-power-bank-saved-the-day-in-our-household-blackout-a-detailed-review/"><u>How a High-Tech Mobile Power Bank Saved the Day in Our Household Blackout - A Detailed Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-jackery-explorer-2000-pro-a-compact-powerhouse-a-comprehensive-zdnet-assessment-of-emergency-energy-and-ease-of-transport/"><u>Is the Jackery Explorer 2000 Pro a Compact Powerhouse? A Comprehensive ZDNet Assessment of Emergency Energy and Ease of Transport</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-car-battery-jump-starters-reviewed-the-comprehensive-analysis-by-techexperts/"><u>Top-Rated Car Battery Jump Starters Reviewed - The Comprehensive Analysis by TechExperts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-led-torch-models-industry-experts-reviews-and-rankings-zdnet/"><u>Top-Rated LED Torch Models : Industry Experts' Reviews & Rankings - ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>Transform Your Footage Effective Strategies for Cropping & Export on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/77183266-new-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[New] How to Block Youtube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>[Updated] 2024 Approved Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-artificial-intelligence-explore-apples-latest-innovations-and-their-potential-impact-on-tech/"><u>Advancing Artificial Intelligence: Explore Apple's Latest Innovations and Their Potential Impact on Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/end-of-an-era-apples-finewoven-range-phased-out-for-exclusive-beats-case-offerings-tech-news-on-zdnet/"><u>End of an Era: Apple's FineWoven Range Phased Out for Exclusive Beats Case Offerings | Tech News on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/novice-friendly-strategies-in-video-production-and-editing/"><u>Novice-Friendly Strategies in Video Production and Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-a-secure-vpn-connection-on-your-apple-vision-pro-a-step-by-step-guide-techtrends/"><u>Setting Up a Secure VPN Connection on Your Apple Vision Pro - A Step-by-Step Guide | TechTrends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-process-of-smartphone-analysis-and-reviewing-platform/"><u>The Process of Smartphone Analysis and Reviewing Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-macbook-gear-comprehensive-analysis-by-tech-pros/"><u>Top-Ranking MacBook Gear : Comprehensive Analysis by Tech Pros</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unwelcome-guests-on-campus-bedbug-infestation-in-student-chromebooks-a-persistent-issue/"><u>Unwelcome Guests on Campus: Bedbug Infestation in Student Chromebooks - A Persistent Issue</u></a></li>
 </ul></div>
 

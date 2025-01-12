@@ -1,7 +1,7 @@
 ---
 title: "Adaptation in Action: Strategic Perspectives on Current Tech Workforce Evolutions | ZDNet"
-date: 2024-09-18 19:40:14
-updated: 2024-09-20 11:37:48
+date: 2025-01-10T19:17:16.805Z
+updated: 2025-01-12T16:53:45.382Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 As information technology staff dispersed to remote or work-at-home locations, what was the impact on initiatives such as DevOps and development? There are technology tasks that are well-suited for remote work. Still, there are other aspects of the job that still work better face to face. 
 
 That's the word from [Andy Nallappan](https://www.linkedin.com/in/nallappan/), chief technology officer and head of software business operations at Broadcom Software, one of the world's largest tech employers. I had the chance to chat with Nallappan while at Infosys' recent [Cobalt event](https://www.infosys.com/infosys-cobalt-world-tour-nyc.html), where he shared his experiences with managing a large workforce of technologists and the challenges faced over the past two years. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -60,11 +64,26 @@ The important thing about corporate culture, he adds, is that it "should have cl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/est-practices-for-boosting-views-on-freefire-gaming-channels-for-2024/"><u>[New] Best Practices for Boosting Views on FreeFire Gaming Channels for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevating-your-igtv-video-game-techniques-for-smartphones-and-dslrs/"><u>[Updated] 2024 Approved Elevating Your IGTV Video Game Techniques for Smartphones and DSLRs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship-for-2024/"><u>[Updated] From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y55s-5g-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y55s 5G (2023) without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-complete-rundown-on-excellent-screen-recording-of-facetime-calls-for-2024/"><u>A Complete Rundown on Excellent Screen-Recording of FaceTime Calls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-flawless-cutting-edge-sound-across-all-musical-tastes-top-wireless-speakers-reviewed-zdnet/"><u>Experience Flawless, Cutting-Edge Sound Across All Musical Tastes - Top Wireless Speakers Reviewed | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-more-from-your-smart-devices-how-the-30-echo-dot-discount-can-transform-your-living-space-zdnet/"><u>Get More From Your Smart Devices: How the $30 Echo Dot Discount Can Transform Your Living Space | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-6-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 6</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-facebook-live-capturing-your-broadcasts-for-2024/"><u>Mastering Facebook Live Capturing Your Broadcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-innovations-in-technology-for-2er-year-as-selected-by-the-experts-at-zdnet/"><u>The Best Innovations in Technology for 2Er Year, as Selected by the Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trading-luxury-for-functionality-how-switching-from-high-end-speaker-to-jbl-became-an-unexpected-pleasure-zdnet/"><u>Trading Luxury for Functionality: How Switching From High-End Speaker to JBL Became an Unexpected Pleasure | ZDNet</u></a></li>
+</ul></div>
+

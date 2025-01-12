@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Hottest Bargains for August 2024: Your Guide to Smart Shopping with Insights From ZDNet"
-date: 2024-09-18 20:19:16
-updated: 2024-09-20 11:12:15
+date: 2025-01-09T16:08:23.367Z
+updated: 2025-01-12T16:51:37.107Z
 tags:
   - amazon
 categories:
@@ -21,6 +21,10 @@ The shopping giant frequently cuts prices on top tech products all year round, i
 
 [Shop all deals on Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdeals%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Amazon deals of August 2024
 
 Jason Hiner/ZDNET
@@ -31,6 +35,10 @@ Jason Hiner/ZDNET
 * [Dyson V8 Cordless Plus Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDyson-Cordless-Vacuum-Silver-Nickel%2Fdp%2FB0CT9552BL%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CT9552BL%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $350 (save $120)
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $1,300 (save $500)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Amazon tech deals
 
@@ -81,6 +89,10 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $198 (save $102)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 ## How did we choose these Amazon deals?
@@ -89,9 +101,17 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will these deals expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much is an Amazon Prime membership?
 
@@ -132,11 +152,27 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-guide-adding-videos-for-2024/"><u>[New] Twitter's Guide Adding Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-subtitled-out-of-a-zip-how-to-convert-files/"><u>[Updated] In 2024, Subtitled Out of a Zip! How To Convert Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-your-tech-for-successful-social-media-livestreams-for-2024/"><u>[Updated] Transform Your Tech for Successful Social Media Livestreams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-your-shopping-with-apples-exclusive-pre-prime-day-ipad-pro-discounts-dont-miss-out/"><u>Ace Your Shopping with Apple's Exclusive Pre-Prime Day iPad Pro Discounts - Don't Miss Out!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/avoid-keyword-stuffing-instead-aim-for-a-natural-flow-of-words-that-feels-conversational-while-still-incorporating-crucial-search-terms/"><u>Avoid Keyword Stuffing; Instead, Aim for a Natural Flow of Words that Feels Conversational While Still Incorporating Crucial Search Terms</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-a78-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo A78 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-aphaca-bt69-wireless-bluetooth-car-stereo-transmitter-an-in-depth-analysis/"><u>Exploring the Features of Aphaca BT69 Wireless Bluetooth Car Stereo Transmitter - An In-Depth Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-i-upgraded-to-budget-friendly-xr-glasses-leaving-behind-apple-vision-pro-and-meta-quest-3/"><u>How I Upgraded to Budget-Friendly XR Glasses, Leaving Behind Apple Vision Pro & Meta Quest 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-workflow-with-tailored-focus-modes-in-macos-monterey-by-avoiding-unwanted-interruptions/"><u>Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-big-on-apples-airpods-deals-with-40-off-just-in-time-for-the-fourth-of-july-gadget-specials/"><u>Score Big on Apple's AirPods Deals with $40 Off Just in Time for the Fourth of July | Gadget Specials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-detecting-and-eliminating-mobile-spyware-with-ease/"><u>Step-by-Step Guide: Detecting & Eliminating Mobile Spyware with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mac-maintenance-tools-of-2022-the-best-optimization-software-recommended/"><u>Top-Rated Mac Maintenance Tools of 2022: The Best Optimization Software Recommended</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-presence-with-manycam-top-tier-live-video-and-digital-webcam-solutions-for-content-creators/"><u>Transform Your Online Presence with ManyCam – Top-Tier Live Video and Digital Webcam Solutions for Content Creators</u></a></li>
+</ul></div>
+

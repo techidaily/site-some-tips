@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2025-01-05T00:10:33.717Z
-updated: 2025-01-06T02:59:15.737Z
+date: 2025-01-11T17:41:29.988Z
+updated: 2025-01-12T16:12:07.153Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -61,10 +57,6 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -80,9 +72,17 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -101,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -123,7 +127,7 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,19 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-delving-deep-into-ios-video-recording-capabilities/"><u>[New] 2024 Approved Delving Deep Into IO's Video Recording Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-10-text-presets-for-after-effects/"><u>[Updated] Best 10 Text Presets for After Effects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>2024 Approved Silent Blades & Righteous Honor Your Next Game Adventure Awaits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/audio-enabled-hdmi-to-dvi-bridge-for-seamless-laptop-desktop-setup/"><u>Audio-Enabled HDMI to DVI Bridge for Seamless Laptop-Desktop Setup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-capabilities-of-djis-high-end-42000-drone-model-revealed/"><u>Exploring the Capabilities of DJI's High-End $42,000 Drone Model Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/half-the-population-desires-ai-assistance-for-these-tasks-insights-from-a-zdnet-study/"><u>Half the Population Desires AI Assistance for These Tasks: Insights From a ZDNet Study</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-zoom-for-impactful-youtube-livestream-presentations-for-2024/"><u>Harnessing Zoom for Impactful YouTube Livestream Presentations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-amazon-leverages-generative-ai-for-enhanced-review-summaries-insights-from-zdnet/"><u>How Amazon Leverages Generative AI for Enhanced Review Summaries: Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-6s-plus-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 6s Plus online without jailbreak</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/launch-of-whatsapp-channel-functionality-exploring-its-implementation-and-usage-in-selected-nations-tech-digest/"><u>Launch of WhatsApp Channel Functionality: Exploring Its Implementation and Usage in Selected Nations | Tech Digest</u></a></li>
-<li><a href="https://some-tips.techidaily.com/regulatory-crackdown-on-singaporean-bank-amidst-critical-digital-services-failure-insights-from-zdnet/"><u>Regulatory Crackdown on Singaporean Bank Amidst Critical Digital Services Failure - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolve-beats-audio-compatibility-issues-in-hp-laptops-with-this-comprehensive-guide-windows-11-8-and-7/"><u>Resolve Beats Audio Compatibility Issues in HP Laptops with This Comprehensive Guide (Windows 11, 8 & 7)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Code 4128</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlocking-the-secrets-of-youtubes-shorts-revenue-sharing/"><u>[Updated] 2024 Approved Unlocking the Secrets of YouTube’s Shorts Revenue Sharing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-framefinder-top-picks-for-screen-capturing-for-2024/"><u>[Updated] FrameFinder Top Picks for Screen Capturing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-parents-guide-to-setting-up-restrictions-and-safeguards-on-discord-platform/"><u>A Parent’s Guide to Setting Up Restrictions and Safeguards on Discord Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-qi2-fast-charging-for-your-iphone-12-no-magsafe-required-guide/"><u>Effortless Qi2 Fast Charging for Your iPhone 12, No MagSafe Required Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-tv-experience-with-easy-to-attach-airtag-trackers-discover-how/"><u>Enhance Your Apple TV Experience with Easy-to-Attach AirTag Trackers - Discover How!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/huge-savings-grab-the-ultimate-bargain-and-slice-off-100-from-apple-magic-keyboard-black-friday-exclusive-at-zdnet/"><u>Huge Savings: Grab the Ultimate Bargain and Slice Off $100 From Apple Magic Keyboard - Black Friday Exclusive at ZDNet!</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-creative-tactics-for-medical-ad-success-on-facebook/"><u>In 2024, Creative Tactics for Medical Ad Success on Facebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 15 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-home-aid-how-apple-is-shaping-the-future-with-household-robots/"><u>Innovative Home Aid: How Apple Is Shaping the Future With Household Robots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphones-dominate-securing-the-leading-positions-as-worlds-best-selling-phones-for-the-first-time-insights/"><u>IPhones Dominate: Securing the Leading Positions as World's Best-Selling Phones for the First Time - Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-your-obs-lag-issues-solutions-for-live-stream-and-record-functionality/"><u>Overcome Your OBS Lag Issues - Solutions for Live Stream & Record Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-asus-proart-pa3-user-1/"><u>Reviewing the Asus ProArt PA3# User #1</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-hot-40i-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Hot 40i with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-giants-unite-as-apple-licenses-microsofts-language-models-to-power-conversational-ai-in-macos-ios-and-ipad/"><u>Tech Giants Unite as Apple Licenses Microsoft's Language Models to Power Conversational AI in macOS, iOS, and iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-notetaking-tablet-reviews-and-comparisons-the-ultimate-guide-techradar/"><u>Top Rated Notetaking Tablet Reviews & Comparisons - The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshoot-android-video-not-working/"><u>Troubleshoot Android Video Not Working</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-finest-computers-in-2er-2024-a-comparative-review-featuring-industry-giants-expert-analysis-from-zdnet/"><u>Ultimate Guide to the Finest Computers in 2Er 2024: A Comparative Review Featuring Industry Giants | Expert Analysis From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-inner-superfan-the-top-rated-free-apple-sports-mobile-app-for-iphone-users-gizmodo/"><u>Unlock Your Inner Superfan: The Top-Rated, Free Apple Sports Mobile App for iPhone Users | Gizmodo</u></a></li>
 </ul></div>
 

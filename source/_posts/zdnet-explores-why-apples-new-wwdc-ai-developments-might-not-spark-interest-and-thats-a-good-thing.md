@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2025-01-02T20:49:47.274Z
-updated: 2025-01-05T22:03:59.102Z
+date: 2025-01-08T20:44:48.010Z
+updated: 2025-01-12T18:44:26.000Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-mp4-record-and-assess-guide/"><u>[New] Ultimate MP4 Record & Assess Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-eye-catching-creative-pfp-ideas-for-tiktok-stars/"><u>2024 Approved Eye-Catching, Creative PFP Ideas for TikTok Stars</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-v27-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V27 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-pro-uge-driver-for-windows-operating-systems-windows-11108/"><u>Get Your HP OfficeJet Pro Uge Driver for Windows Operating Systems (Windows 11/10/8)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-tips-for-capturing-movies-on-everyday-tech/"><u>In 2024, Cutting-Edge Tips for Capturing Movies on Everyday Tech</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-v27e-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo V27e? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/securing-early-access-discover-where-to-preorder-new-ipads-and-stylus-with-hottest-promotions-zdnet-insider-tips/"><u>Securing Early Access: Discover Where to Preorder New iPads & Stylus with Hottest Promotions | ZDNET Insider Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-programming-bootcamp-picks-for-aspiring-developers-zdnet-insights/"><u>Top 10 Programming Bootcamp Picks for Aspiring Developers | ZDNet Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a56s-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A56s 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranked-sql-training-programs-expertly-curated-list-of-best-online-sql-lessons/"><u>Top-Ranked SQL Training Programs - Expertly Curated List of Best Online SQL Lessons</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unfreeze-pointer-on-win10-system-failure/"><u>Unfreeze Pointer on Win10 System Failure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-vmware-fusion-and-workstation-pro-apps-go-completely-gratis-find-out-your-pathway-in-this-guide-techradar/"><u>Unlock VMware: Fusion & Workstation Pro Apps Go Completely Gratis! Find Out Your Pathway in This Guide | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-reason-behind-apples-decision-why-are-previous-employee-titles-downgraded-to-associate/"><u>Unveiling the Reason Behind Apple's Decision: Why Are Previous Employee Titles Downgraded to 'Associate'?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-your-content-with-vimeo-on-instagram/"><u>[New] 2024 Approved Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide/"><u>[New] In 2024, Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-ups-the-game-in-audio-entertainment-with-innovative-spotify-playlist-import-feature/"><u>Apple Ups the Game in Audio Entertainment with Innovative Spotify Playlist Import Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-immersive-tech-vr-explained-simply/"><u>Exploring Immersive Tech VR Explained Simply</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-is-executing-the-macbook-owner-payoff-plan-under-class-action-agreement-wired/"><u>How Apple Is Executing the MacBook Owner Payoff Plan Under Class Action Agreement | Wired</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x9b-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X9b to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/install-macos-15-sequoia-beta-today-easy-step-by-step-tutorial-to-upgrade-your-macbook-or-mac-with-the-new-update-zdnet/"><u>Install macOS 15 Sequoia Beta Today! Easy Step-by-Step Tutorial to Upgrade Your MacBook or Mac with the New Update | ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-10-plug-ins-for-elevating-your-fcp-workflow/"><u>Key 10 Plug-Ins for Elevating Your FCP Workflow</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slomo-visual-delight-thorough-assessment-release/"><u>SloMo Visual Delight Thorough Assessment Release</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-academic-potential-effective-note-taking-and-chatgpt/"><u>Unlock Academic Potential: Effective Note Taking & ChatGPT</u></a></li>
 </ul></div>
 

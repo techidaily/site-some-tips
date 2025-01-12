@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Ambient Technology: Understanding the Surge of Hidden Digital Wonders - Insights From ZDNet"
-date: 2024-09-18 17:48:53
-updated: 2024-09-20 11:39:53
+date: 2025-01-05T17:20:36.327Z
+updated: 2025-01-12T21:26:25.629Z
 tags:
   - amazon
 categories:
@@ -27,9 +27,17 @@ The goal is to reduce the friction involved in utilizing tech, making it easier 
 
 [The Future of the Internet The internet has never been more important, and its future has never been so uncertain. This ZDNET special report looks at the possible futures - good and bad - that lie ahead.  Read now](https://www.zdnet.com/topic/the-future-of-the-internet/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is it called ambient computing?
 
 As the definition of the word 'ambient' implies, ambient computing refers to technology that is immersed in your surroundings, ready to help without any prompting. For example, instead of having to turn down the temperature, a smart thermometer can automatically adjust based on learned patterns. From this stems the idea of a 'smart home', which incorporates tech into every object of your home to optimize how you accomplish everyday tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## This sounds a lot like the Internet of Things (IoT). What's the difference?
 
@@ -40,6 +48,10 @@ If you were thinking that [the IoT and ambient computing sound a lot alike](http
 In other words, ambient computing focuses on the interaction between these devices once they are connected. For example, a lightbulb that connects to an app is an IoT device; however, how the lightbulb gathers data from its surroundings about your preferences and acts accordingly is where ambient computing comes in.
 
 "The Internet of Things lives through sensors and actuators embedded in devices interacting with the world physically and functionally. Ambient computing contains this communication at the core and harnesses the environment for business processes and insights," is how consultants Deloitte explain it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does ambient computing look like right now.
 
@@ -77,6 +89,10 @@ Similarly, Google has developed a series of devices to connect to the Google Nes
 
 Both Google and Amazon have also worked on projects to implement[built-in voice assistance technology into cars](https://www.zdnet.com/article/ces-2022-google-and-amazon-bring-their-visions-for-ambient-computing-to-cars/). Google technology has been built into the infotainment systems in some cars manufactured by Polestar, Volvo, and General Motors, said [Google in a blog post.](https://www.blog.google/products/android/CES2022-Androidforcars/) Meanwhile, [Amazon announced](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fpress.aboutamazon.com%2Fnews-releases%2Fnews-release-details%2Famazon-and-stellantis-collaborate-introduce-customer-centric%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4627c186-e461-4d7b-a7af-bb5329feb2c4%7Cdtp&dtb=1) its collaboration with Stellantis in January to introduce customer-centric connected experiences across millions of vehicles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the downsides of ambient computing?
 
 Have you ever watched the 1999 Disney movie Smart House? The movie, way ahead of its time, tells the story of a computerized house that is programmed to help with everything around the house. Plot twist: the house takes on a life of its own and becomes a nightmare. 
@@ -100,6 +116,10 @@ As voice assistants continue to expand their functions, they become responsible 
 In order to let a voice assistant take up such an important roles, there must be a level of trust between the consumer and the device based on reliability. Until that level of trust is set in place, consumer hesitancy will prevent ambient computing benefits to be entirely maximized. 
 
 "As customers begin to rely on ambient systems, we do see them engaging more deeply, and across more aspects of their lives. This comes with an expectation that these systems become steadily better as they are used, and we work hard to live up to that," says Sharma.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the future of ambient computing?
 
@@ -136,11 +156,33 @@ In the future, ambient computing may expand further than just the smart home.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>[Updated] 2024 Approved Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leading-brands-car-compatible-viewing-devices/"><u>[Updated] In 2024, Leading Brands' Car-Compatible Viewing Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-looms-labyrinth-navigating-screen-record-art/"><u>[Updated] In 2024, Loom's Labyrinth Navigating Screen Record Art</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premium-filmmaking-selecting-high-resolution-lenses/"><u>[Updated] In 2024, Premium Filmmaking Selecting High-Resolution Lenses</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-guide-to-mobile-snapchat-recording/"><u>2024 Approved The Ultimate Guide to Mobile Snapchat Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287111213-pcdvddvd/"><u>自作PCで作成したDVDがDVDレコーダーで再生不能？その理由と解消法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anticipated-enhancements-in-specific-apple-airpods-models-arriving-this-fall-detailed-overview-wired-innovations/"><u>Anticipated Enhancements in Specific Apple AirPods Models Arriving This Fall – Detailed Overview | Wired Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-ideal-phone-for-your-child-heres-our-expert-review/"><u>Choosing the Ideal Phone for Your Child? Here's Our Expert Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-on-essential-anker-gadgets-perfect-companions-for-your-new-iphone-arrival-this-coming-week/"><u>Don't Miss Out on Essential Anker Gadgets - Perfect Companions for Your New iPhone Arrival This Coming Week</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-smart-homes-with-apples-ai-robot-helper-exploring-tomorrows-possibilities/"><u>Future Smart Homes with Apple's AI Robot Helper - Exploring Tomorrow's Possibilities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-v30-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme V30 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-youtube-names-generators-plus-how-to-brainstorm/"><u>In 2024, Best YouTube Names Generators [+ How to Brainstorm]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-latest-apple-airpods-series-iii-where-they-triumph-and-room-for-growth-digitalwire/"><u>In-Depth Analysis of the Latest Apple AirPods Series III: Where They Triumph and Room for Growth | DigitalWire</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-3-vs-apple-vision-pro-showdown-unpacking-zuckerbergs-insights-a-closer-look-by-zdnet/"><u>Meta Quest 3 Vs. Apple Vision Pro Showdown: Unpacking Zuckerberg’s Insights - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silent-connection-seamlessly-syncing-airpods-with-your-quest-3-tips-and-tricks/"><u>Silent Connection: Seamlessly Syncing AirPods with Your Quest 3 - Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-sending-and-receiving-imessage-on-your-pc-with-windows-tips/"><u>Step-by-Step Guide: Sending & Receiving iMessage on Your PC with Windows - Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-showdown-samsung-vs-apple-choosing-the-right-smartwatch/"><u>Ultimate Showdown: Samsung vs Apple – Choosing the Right Smartwatch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-possibilities-discover-top-macos-15-enhancements-your-apple-macbook-awaits-for-a-complimentary-update/"><u>Unlocking New Possibilities: Discover Top MacOS 15 Enhancements Your Apple MacBook Awaits for a Complimentary Update!</u></a></li>
+</ul></div>
+

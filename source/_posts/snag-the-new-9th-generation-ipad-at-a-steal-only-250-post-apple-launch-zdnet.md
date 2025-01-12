@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2024-12-31T01:54:55.352Z
-updated: 2025-01-05T16:07:57.204Z
+date: 2025-01-08T19:49:36.072Z
+updated: 2025-01-12T17:44:44.206Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,20 +69,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-superior-zero-price-switch-emulators/"><u>[New] In 2024, Superior Zero Price Switch Emulators</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-instructors-handbook-on-video-assisted-pedagogy/"><u>[New] The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-sonic-selections-android-centric/"><u>[Updated] Optimal Sonic Selections, Android-Centric</u></a></li>
-<li><a href="https://win-answers.techidaily.com/usb/"><u>「車内でUSBから音楽が流せませんか？」 - 車用音楽プレイヤーのセットアップガイド</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-key-videographers-in-asmr-landscape/"><u>2024 Approved Key Videographers in ASMR Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-overhauls-product-rating-display-a-step-backwards-tech-news-by-zdnet/"><u>Amazon Overhauls Product Rating Display - A Step Backwards? | Tech News by ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/from-s21-to-s23-a-closer-look-at-the-evolution-of-ultra-premium-phones-with-our-in-depth-galaxy-comparison/"><u>From S21 to S23: A Closer Look at the Evolution of Ultra-Premium Phones with Our In-Depth Galaxy Comparison</u></a></li>
-<li><a href="https://some-tips.techidaily.com/groove-with-the-ever-evolving-digital-landscape-and-customer-expectations-discover-how-a-leading-airline-is-redefining-passenger-satisfaction-one-innovative55/"><u>Groove with the Ever-Evolving Digital Landscape and Customer Expectations. Discover How a Leading Airline Is Redefining Passenger Satisfaction, One Innovative Step at a Time.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-i-found-quality-in-off-brand-geek-gadgets-on-temu-a-positive-review-for-the-tech-community-at-zdnet/"><u>How I Found Quality in Off-Brand Geek Gadgets on Temu – A Positive Review for the Tech Community at ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-video-synchronization-with-obs/"><u>Mastering Video Synchronization with OBS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-new-trends-the-rise-of-generative-ai-among-17-of-shoppers-revealed-by-zdnet-analysis/"><u>Navigating New Trends: The Rise of Generative AI Among 17% of Shoppers, Revealed by ZDNET Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rise-of-non-cash-payments-predicting-a-16-trillion-market-led-by-asia-zdnet/"><u>Rise of Non-Cash Payments: Predicting a $1.6 Trillion Market Led by Asia | ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ears-have-it-a-comparison-of-apples-airpods-pro-with-samsungs-buds-pro/"><u>The Ears Have It: A Comparison of Apple's AirPods Pro with Samsung's Buds Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-an-e-commerce-solution-in-2t22-for-seamless-online-shop-setup-insights-from-zdnet/"><u>The Ultimate Guide to Selecting an E-Commerce Solution in 2T22 for Seamless Online Shop Setup - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-20-premier-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029674972-mp4m4a3/"><u>初学者にぴったり! MP4ファイルを効果的にM4A形式にアップコンバートする方法のリスト3つ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-secretive-move-developing-secure-operating-system-for-ai-server-facilities-unveiled/"><u>Apple's Secretive Move: Developing Secure Operating System for AI Server Facilities Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-new-spatial-personas-in-the-vision-pro-a-comprehensive-guide/"><u>Discover Apple's New Spatial Personas in the Vision Pro - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-your-content-selecting-the-best-video-aspect-ratio-for-2024/"><u>Elevate Your Content Selecting the Best Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enjoy-fortnite-mobile-once-again-your-guide-to-downloading-and-playing-on-ios-devices-latest-update/"><u>Enjoy Fortnite Mobile Once Again: Your Guide to Downloading and Playing on iOS Devices - Latest Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-iphone-upgraded-to-ios-18-now-which-devices-are-eligible-learn-everything-you-need-to-know-here-according-to-zdnet/"><u>Get Your iPhone Upgraded to IOS 18 Now! Which Devices Are Eligible? Learn Everything You Need To Know Here, According to ZDNet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a05s-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78 5GFRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-benefits-and-drawbacks-of-upgrading-to-chatgpt-plus/"><u>Navigating the Benefits and Drawbacks of Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-perfect-fit-discovering-the-apple-watch-ultra-2-at-an-unbeatable-labor-day-price-a-personal-review/"><u>The Perfect Fit: Discovering the Apple Watch Ultra 2 at an Unbeatable Labor Day Price - A Personal Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-no-cost-languages-online-the-ultimate-list-of-free-speaking-resources/"><u>Top 9 No-Cost Languages Online: The Ultimate List of Free Speaking Resources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-savings-in-july-2024-iphone-bargains-apple-watch-offers-ipad-discounts-and-exclusive-deals-zdnets-ultimate-guide/"><u>Top Apple Savings in July 2024: IPhone Bargains, Apple Watch Offers, iPad Discounts & Exclusive Deals | ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-notch-june-july-2024-laptop-offers-zdnets-exclusive-selection/"><u>Top-Notch June-July 2024 Laptop Offers - ZDNet's Exclusive Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-release-explore-everything-you-need-to-know-about-the-next-generation-airpods-availability-and-pre-order-options/"><u>Upcoming Release: Explore Everything You Need To Know About The Next Generation AirPods - Availability & Pre-Order Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-vk-discovering-the-russian-facebook-alternative/"><u>What Is VK?: Discovering the Russian Facebook Alternative</u></a></li>
 </ul></div>
 

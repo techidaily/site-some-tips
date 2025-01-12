@@ -1,7 +1,7 @@
 ---
 title: "Rocky Linux Rooted in Support: Top Experts Back Core Infrastructure Integration"
-date: 2024-09-17 10:14:26
-updated: 2024-09-20 10:50:39
+date: 2025-01-09T17:26:40.643Z
+updated: 2025-01-12T18:39:13.449Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,27 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor/"><u>[New] Cutting Edge or Outdated? Full Review & Guide to Vita's Editor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>[New] In 2024, Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-analyzing-youtube-engagement/"><u>2024 Approved Step-by-Step Guide to Analyzing YouTube Engagement</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-streamline-your-soundtrack-exchanging-playlists-seamlessly/"><u>In 2024, Streamline Your Soundtrack Exchanging Playlists Seamlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-deals-unveiled-how-the-affordable-ring-spotlight-cam-pro-outshines-expectations-insights-from-zdnet/"><u>Labor Day Deals Unveiled: How the Affordable Ring Spotlight Cam Pro Outshines Expectations - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-sale-surprising-quality-in-the-ring-spotlight-cam-pro-a-detailed-review-by-zdnet/"><u>Labor Day Sale: Surprising Quality in the Ring Spotlight Cam Pro - A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210644366-9782019465292-les-flammes-sacrees/"><u>Les flammes sacrées | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/picking-the-prime-ice-keepers-a-review-of-the-leading-cooler-brands/"><u>Picking the Prime Ice Keepers: A Review of the Leading Cooler Brands</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-route-to-riches-top-10-youtube-channels-for-startup-success/"><u>Quick Route to Riches Top 10 YouTube Channels for Startup Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ring-spotlight-cam-pro-review-an-unanticipated-revelation/"><u>Ring Spotlight Cam Pro Review - An Unanticipated Revelation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-on-a-4-camera-security-system-plus-led-floodlights-just-80/"><u>Save Big on a 4-Camera Security System + LED Floodlights - Just $80!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-up-to-next-level-smartphone-tech-discover-why-this-sturdy-android-rules-thermal-efficiency-leaving-iphones-in-the-dust-zdnet/"><u>Step Up to Next-Level Smartphone Tech: Discover Why This Sturdy Android Rules Thermal Efficiency, Leaving iPhones in the Dust | ZDNET</u></a></li>
+</ul></div>
+

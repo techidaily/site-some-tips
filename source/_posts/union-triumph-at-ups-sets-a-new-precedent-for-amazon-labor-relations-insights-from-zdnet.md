@@ -1,7 +1,7 @@
 ---
 title: Union Triumph at UPS Sets a New Precedent for Amazon Labor Relations - Insights From ZDNet
-date: 2024-09-19 11:51:51
-updated: 2024-09-20 12:32:24
+date: 2025-01-08T18:49:33.289Z
+updated: 2025-01-12T18:09:32.559Z
 tags:
   - amazon
 categories:
@@ -47,6 +47,10 @@ When contacted for comment, Amazon's PR team responded, stating the following wa
 
 I also reached out to the International Brotherhood of Teamsters press team for comment. As of publication time, I have not yet received a response. As soon as I do, I will update this article accordingly. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How reliant is Amazon on UPS? 
 
 Unfortunately, Amazon declined to answer our specific questions on its shipping network capacity. But we can look to other sources to scope out what we know. 
@@ -68,6 +72,10 @@ Even as far back as 2020, in the heart of the pandemic supply chain crisis, logi
 If that number holds into 2023, it means that Amazon directly controls at least two-thirds of its package delivery service, and the remaining third is split between UPS, FedEx, USPS, and smaller carriers. 
 
 So, while Amazon does actively use UPS, it also appears to have considerable capacity to keep packages flowing whether or not there is any work stoppage on the part of the big brown shipping company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is Amazon's status with regard to unions? 
 
@@ -97,6 +105,10 @@ It's not clear whether Amazon directly employs its own pilots. [According to the
 
 While Amazon has only one official union shop, the company is potentially vulnerable to strike and protest activity, both on the ground and in the air. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can UPS's union activities influence Amazon? 
 
 As discussed earlier, Amazon said it does not expect a UPS strike to have a significant impact on deliveries. But the Teamsters union, which represents UPS workers, has invested substantial effort and resources into union organizing at Amazon. 
@@ -121,6 +133,10 @@ Cross-union solidarity is fairly common. For example, to show support for striki
 * SEIU 721 (Service Employees International Union Local 721)
 * SEIU 1000 (Service Employees International Union Local 1000)
 * AFSCME (American Federation of State, County and Municipal Employees)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Will there be a ripple effect? 
 
@@ -157,11 +173,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-top-picks-the-best-8-free-video-editors-online/"><u>[New] In 2024, Top Picks The Best 8 Free Video Editors Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-enchanted-realms-on-reels/"><u>[Updated] 2024 Approved Enchanted Realms on Reels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-linux-users-guide-best-8-screenshot-apps-for-2024/"><u>[Updated] Linux Users Guide Best 8 Screenshot Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-ultimate-selection-of-mp3-players-find-your-perfect-fit-on-zdnet/"><u>2024'S Ultimate Selection of MP3 Players: Find Your Perfect Fit on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-showdown-deciding-whether-to-upgrade-to-iphone-1n-pro-or-iphone-14-pro-max-expert-advice-from-zdnet/"><u>Apple's Latest Showdown: Deciding Whether to Upgrade to iPhone 1N-Pro or iPhone 14 Pro Max – Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-when-launching-your-metropolitan-masterpiece-city-skylines-2-edition/"><u>Fixing Issues When Launching Your Metropolitan Masterpiece: City Skylines 2 Edition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-find-n3-flip-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Find N3 Flip to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-unveiling-the-ultimate-camera-showdown-who-reigns-supreme/"><u>Pixel 9 Pro XL vs iPhone 15 Pro: Unveiling the Ultimate Camera Showdown – Who Reigns Supreme?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/silence-unwanted-post-suggestions-on-insta/"><u>Silence Unwanted Post Suggestions on Insta</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-monitoring-and-tracking-mobile-data-consumption/"><u>Step-by-Step Guide: Monitoring and Tracking Mobile Data Consumption</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-mac-computers-expert-reviews/"><u>Top-Ranking Mac Computers - Expert Reviews</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/troubleshooting-understanding-why-kindle-doesnt-display-my-localized-textbooks/"><u>Troubleshooting: Understanding Why Kindle Doesn't Display My Localized Textbooks</u></a></li>
+</ul></div>
+

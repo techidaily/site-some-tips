@@ -1,7 +1,7 @@
 ---
 title: Amazon Web Services Unveils Preview for EC2-Based Apple Silicon Servers | TechCrunch
-date: 2024-09-17 19:35:46
-updated: 2024-09-20 12:52:40
+date: 2025-01-09T17:26:34.137Z
+updated: 2025-01-12T18:48:54.653Z
 tags:
   - cloud
 categories:
@@ -52,11 +52,32 @@ The new M1 instances deliver up to 60% better price performance over the x86-bas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-leveraging-srt-for-improved-video-subtitles-online-presence/"><u>[New] 2024 Approved Leveraging SRT for Improved Video Subtitles Online Presence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-movavis-video-editor-plus-features/"><u>2024 Approved Inside Movavi's Video Editor Plus Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/facial-recognition-unlocked-a-new-era-of-safety-how-i-found-my-perfect-smart-lock/"><u>Facial Recognition Unlocked a New Era of Safety: How I Found My Perfect Smart Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-premium-video-devices-direct-headset-screens/"><u>In 2024, Premium Video Devices Direct Headset Screens</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-year-ahead-social-media-infographic-insights/"><u>In 2024, The Year Ahead Social Media Infographic Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-and-free-downloads-of-brother-hl-2280dw-drivers-for-various-windows-versions/"><u>Installation Guide & Free Downloads of Brother HL-2280DW Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/slashed-rates-for-bluetti-energy-units-available-now-uncover-hidden-savings-during-their-exclusive-summer-sale-revealed-by-zdnet/"><u>Slashed Rates for Bluetti Energy Units Available Now! Uncover Hidden Savings During Their Exclusive Summer Sale – Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surviving-the-dark-days-how-my-futuristic-portable-power-source-saved-the-day-during-an-outage-read-full-tips-on-zdnet/"><u>Surviving the Dark Days: How My Futuristic, Portable Power Source Saved the Day During an Outage - Read Full Tips on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-new-dji-mini-3-pro-phenomenon-expert-insights-on-its-stealth-mode-and-battery-integration-zdnets-first-look/"><u>The New DJI Mini 3 Pro Phenomenon: Expert Insights on Its Stealth Mode & Battery Integration - ZDNET's First Look</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-electric-smokers-ultimate-buyers-guide/"><u>Top 5 Electric Smokers : Ultimate Buyer's Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-am350-chipset-boards-unveiling-the-best-budget-friendly-options-for-pcie-40/"><u>Top-Rated AM350 Chipset Boards: Unveiling the Best Budget-Friendly Options for PCIe 4.0</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

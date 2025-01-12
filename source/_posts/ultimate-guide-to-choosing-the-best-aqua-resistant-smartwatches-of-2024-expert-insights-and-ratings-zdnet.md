@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Choosing the Best Aqua-Resistant Smartwatches of 2024: Expert Insights and Ratings | ZDNet"
-date: 2024-12-31T23:45:16.022Z
-updated: 2025-01-05T20:01:43.807Z
+date: 2025-01-08T16:46:52.431Z
+updated: 2025-01-12T19:32:42.323Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is the best waterproof smartwatch right now?
 
 Based on both our hands-on testing and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best waterproof smartwatch overall due to its 10 ATM rating, diving certification, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) \-- including its newest [Galaxy Watch 6 Classic](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch6%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1) \-- [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Coros, and Suunto compare, to find the best waterproof smartwatch for your needs and your wrist. 
@@ -44,10 +48,6 @@ Pros
 Cons 
 * No offline mapping
 * May be too large for small wrists
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -79,6 +79,10 @@ Cons
 * Less than two-day battery life
 
 ## Apple Watch Series 9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for most iPhone users
 
@@ -140,10 +144,6 @@ Pros
 Cons 
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Garmin Venu 3S
 
 ### Best waterproof Garmin smartwatch for most people
@@ -174,10 +174,6 @@ Cons
 
 ## Samsung Galaxy Watch 6 Classic
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best waterproof Samsung smartwatch
 
 Samsung's latest smartwatch, the Galaxy Watch 6 Classic, was unveiled along with the Galaxy Watch 6 at its [2023 Unpacked](https://www.zdnet.com/article/every-product-announced-at-samsung-unpacked-galaxy-z-fold-5-watch-6-classic-tab-s9-more/) event last summer. Both watches in the 6 Series offer [the One UI 5 software update](https://www.zdnet.com/article/these-one-ui-5-features-give-us-a-first-look-at-samsungs-upcoming-galaxy-watches/), focusing more on sleep tracking, fitness, and safety features. However, the 6 Classic offers the most extensive Samsung Watch display (1.5 Super AMOLED), bringing back the Samsung-unique rotating bezel. 
@@ -207,7 +203,15 @@ Pros
 Cons 
 * Limited notification and app support
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Coros Apex 2 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for long battery life
 
@@ -239,6 +243,10 @@ Cons
 * Questionable heart rate readings
 * One size available
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Suunto Race
 
 ### Best waterproof smartwatch with lap counter
@@ -256,7 +264,7 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
@@ -276,7 +284,7 @@ If you're an Android user, you may prefer a Samsung Galaxy 6 Classic -- the newe
 | Suunto Race                    | $450      | 12 days          | 49mm               |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right waterproof smartwatch for you?
@@ -296,10 +304,6 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Samsung Galaxy Watch 6 Classic | Samsung's newest Galaxy watch series has upgraded sleep tracking and health insights, a bigger and brighter display that works seamlessly with a rotating bezel.                                                                                                                                 |
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Factors to consider when buying a smartwatch
 
@@ -325,19 +329,11 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you use a cellular Apple Watch as a standalone device?
 
@@ -346,7 +342,7 @@ While you can leave your iPhone at home while you run, go to the store, or strol
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
@@ -354,6 +350,10 @@ After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-
 Health and fitness tracking have been the areas with the most innovations and improvements in the last few years. While these watches are not medical devices, they have sensors, algorithms, and applications that help you track trends in your heart rate, stress levels, and blood oxygen levels, even allowing you to detect when ovulation occurs. You can use it as a basic ECG to check if further investigation is needed. The latest Galaxy Watch 5 can also measure your body composition; testing indicates it matches other methods reasonably well.
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative waterproof smartwatches worth considering?
 
@@ -403,24 +403,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-optimize-your-cellphones-camera-settings-for-videography/"><u>[New] 2024 Approved How to Optimize Your Cellphone's Camera Settings for Videography</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-driving-virality-on-the-worlds-largest-network-for-2024/"><u>[New] Driving Virality on the World’s Largest Network for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-render-your-social-media-footage/"><u>[Updated] In 2024, Render Your Social Media Footage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-transform-your-team-sessions-masterful-use-of-slack-and-filmora-tools-for-2024/"><u>[Updated] Transform Your Team Sessions Masterful Use of Slack & Filmora Tools for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimal-sound-systems-under-100-for-immersive-gameplay/"><u>2024 Approved Optimal Sound Systems Under $100 for Immersive Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-expert-warns-the-underestimated-scale-of-political-deepfakes-revealed-zdnet/"><u>AI Expert Warns: The Underestimated Scale of Political Deepfakes Revealed | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/artificial-intelligence-forecast-innovations-shaping-our-world-post-2030-zdnet-analysis/"><u>Artificial Intelligence Forecast: Innovations Shaping Our World Post-2030 | ZDNet Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/at-ces-2024-nvidia-advocates-the-power-of-ai-enabled-pcs-insights-from-zdnet/"><u>At CES 2024, Nvidia Advocates the Power of AI-Enabled PCs - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/celebrating-two-decades-of-innovation-canonicals-impact-on-ubuntu-and-open-source-ecosystem-a-deep-dive/"><u>Celebrating Two Decades of Innovation: Canonical's Impact on Ubuntu and Open-Source Ecosystem - A Deep Dive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/clearing-up-confusion-effective-strategies-for-organizing-linux-and-open-source-manuals-according-to-zdnet/"><u>Clearing Up Confusion: Effective Strategies for Organizing Linux and Open-Source Manuals, According to ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enterprise-it-embraces-ops-approach-with-renewed-vigor-as-complications-arise-insights-from-zdnet/"><u>Enterprise IT Embraces 'Ops' Approach with Renewed Vigor as Complications Arise - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/everyday-expertise-who-outperforms-in-conversation/"><u>Everyday Expertise: Who Outperforms in Conversation?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-remote-desktop-capabilities-within-zoom-on-win11-for-2024/"><u>Exploring Remote Desktop Capabilities Within Zoom on Win11 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fedora-goes-live-on-every-mp-powered-apple-computer-but-a-single-exception-zdnet-coverage/"><u>Fedora Goes Live on Every MP-Powered Apple Computer but a Single Exception - ZDNet Coverage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-deactivate-amber-warnings-on-googles-mobile-operating-system/"><u>Guide to Deactivate Amber Warnings on Google's Mobile Operating System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/reimagining-corporate-computing-how-red-hats-new-enterprise-linux-ai-transforms-business-operations-biztechweekly/"><u>Reimagining Corporate Computing: How Red Hat's New Enterprise Linux AI Transforms Business Operations | BizTechWeekly</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/stellar-sparks-top-ten-threads-that-captivated-reddit-users-for-2024/"><u>Stellar Sparks Top Ten Threads that Captivated Reddit Users for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g73-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G73 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-raspberry-pi-projects-and-kits-of-2023-essential-beginners-guides-and-advanced-setups-techadvisor/"><u>Top 5 Raspberry Pi Projects & Kits of 2023: Essential Beginner's Guides and Advanced Setups - TechAdvisor</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>[New] Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-stream-and-share-successfully-with-fb-integration/"><u>[Updated] 2024 Approved Stream & Share Successfully with FB Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-sound-excellence-on-a-shoestring-superior-asmr-mics-affordably/"><u>[Updated] In 2024, Sound Excellence on a Shoestring - Superior ASMR Mics Affordably</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>[Updated] Pioneers of Possibilities The Leading 6 in Artistic Realms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-vid-lifting-made-simple-top-5-free-downloaders-for-pinterest-users/"><u>2024 Approved Vid Lifting Made Simple Top 5 Free Downloaders for Pinterest Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-k70e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi K70E to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-unveils-most-engaging-super-bowl-promo-outshining-nfl-action-market-insights/"><u>Apple Unveils Most Engaging Super Bowl Promo, Outshining NFL Action | Market Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bridging-the-gap-hardware-upgrades-and-intell-drivers/"><u>Bridging the Gap: Hardware Upgrades & Intell Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-goofy-way-a-look-back-at-the-90s-comedy-vhs/"><u>In 2024, 'The Goofy Way' A Look Back at the 90S Comedy VHS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-increasing-brilliance-on-your-android-videos/"><u>In 2024, Increasing Brilliance on Your Android Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-revolutionary-satellite-assisted-sos-messaging-for-googles-latest-pixel-phone/"><u>Introducing the Revolutionary Satellite-Assisted SOS Messaging for Google's Latest Pixel Phone!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/missing-pieces-apples-latest-ai-showcase-lacks-these-crucial-breakthroughs-anticipation-for-the-future/"><u>Missing Pieces: Apple’s Latest AI Showcase Lacks These Crucial Breakthroughs – Anticipation for the Future?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-definitive-guide-to-the-ipad-air-with-m2-chip-apple-delivers-the-top-of-the-line-tablet-you-need-as-revealed/"><u>The Definitive Guide to the iPad Air with M2 Chip: Apple Delivers the Top-of-the-Line Tablet You Need, as Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-enterprises-the-impact-of-apple-vision-pro-in-modern-businesses/"><u>Transforming Enterprises: The Impact of Apple Vision Pro in Modern Businesses.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-apples-ios-175-mystery-the-reappearance-of-vanished-images-and-next-steps/"><u>Unraveling Apple's iOS 17.5 Mystery: The Reappearance of Vanished Images and Next Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-lifespan-discovering-how-long-your-apple-watch-battery-lasts-a-startling-revelation/"><u>Unveiling the Lifespan: Discovering How Long Your Apple Watch Battery Lasts - A Startling Revelation!</u></a></li>
 </ul></div>
 

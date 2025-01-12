@@ -1,7 +1,7 @@
 ---
 title: "Counteracting Book Bans: A Strategic Plan for Amazon, Google, and Apple to Establish a Freedom of Information Repository"
-date: 2024-09-19 10:11:50
-updated: 2024-09-20 10:15:51
+date: 2025-01-08T21:12:42.626Z
+updated: 2025-01-12T18:25:30.053Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 
 Hardly a day goes by when we don't hear from a school or library somewhere in the United States that they've removed a book [from circulation](http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/) following complaints from parents or constituents. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Close-up of an older woman making a video call on her Amazon Fire HD 10 tablet](https://www.zdnet.com/a/img/resize/6bdb7e14441d186907874239c1c732cb2cd64744/2022/08/01/9ca7b5c8-47e7-4e90-817f-8491229fe0c4/amazon-fire-hd-10-2.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Last week, in a school district in Tennessee, it was [the removal of MAUS](https://slate.com/human-interest/2022/01/maus-banned-tennessee-holocaust-graphic-novel.html), the Pulitzer Prize-winning graphic novel by Art Spiegelman, that retells the Holocaust story through the eyes of mice oppressed by fascist cats. 
 
@@ -66,11 +74,24 @@ Do the e-book giants need to fight book banning by taking the battle to the digi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-pinnacle-of-personal-data-holdings/"><u>[Updated] In 2024, The Pinnacle of Personal Data Holdings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-mysteries-of-outdated-facebook-sharing-pcmobile-style/"><u>2024 Approved Decoding the Mysteries of Outdated Facebook Sharing, PC/Mobile Style</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-harnessing-funimates-downloading-prowess-quickly/"><u>2024 Approved Harnessing Funimate's Downloading Prowess Quickly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-views-prime-seo-equipment-for-videos/"><u>Elevate Views Prime SEO Equipment for Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-keyboard-inputs-to-sweet-emotions-creating-hearts-in-digital-messages/"><u>From Keyboard Inputs to Sweet Emotions: Creating Hearts in Digital Messages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ipad-timelapse-essentials-for-beginners/"><u>IPad Timelapse Essentials for Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revisiting-the-amazon-kindle-scribe-after-a-year-a-closer-look-at-its-exceptional-performance/"><u>Revisiting the Amazon Kindle Scribe After a Year: A Closer Look at Its Exceptional Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rigging-up-resilience-discover-how-a-ebyte-raspberry-pi-stacks-up-under-heavy-load-the-ultimate-zdnet-challenge/"><u>Rigging Up Resilience: Discover How a Ebyte Raspberry Pi Stacks Up Under Heavy Load | The Ultimate ZDNET Challenge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/safeguarding-your-career-path-linkedin-enhances-job-listing-filters-to-combat-scams-tech-news-by-zdnet/"><u>Safeguarding Your Career Path: LinkedIn Enhances Job Listing Filters to Combat Scams | Tech News by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-mozilla-thunderbird-the-essential-guide-to-setting-up-a-strong-primary-password-zdnet-insights/"><u>Secure Your Mozilla Thunderbird: The Essential Guide to Setting Up a Strong Primary Password | ZDNet Insights</u></a></li>
+</ul></div>
+

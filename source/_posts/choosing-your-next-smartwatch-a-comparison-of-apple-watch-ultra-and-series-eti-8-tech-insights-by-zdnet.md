@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Next Smartwatch: A Comparison of Apple Watch Ultra and Series ˈeɪtiː 8 | Tech Insights by ZDNet"
-date: 2024-12-31T06:11:57.808Z
-updated: 2025-01-05T21:37:49.092Z
+date: 2025-01-08T19:57:44.859Z
+updated: 2025-01-12T16:00:57.331Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ So, if you're eyeing a new smartwatch from one of the big tech giants, which exa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | | Apple Watch Series 8    | Google Pixel Watch                                                                                                                                |                                                                                                                                                    |
@@ -54,6 +50,10 @@ So, if you're eyeing a new smartwatch from one of the big tech giants, which exa
 
 Matthew Miller/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You prefer the Google/Android ecosystem
 
 It should come as no surprise that Google intends to build an ecosystem of products that's just as competitive as Apple's -- with the Pixel Watch serving as another piece of its centralized puzzle. Unsurprisingly, the new watch is only compatible with Android devices and not iPhones. The Pixel Watch features Wear OS, Google's proprietary smartwatch software that allows users to access a bounty of Android apps and functions -- like Google Maps. Wear OS also integrates the familiar "Hey, Google" command to complete hands-free tasks, send text messages, and even control other Google devices in your home. If you have a [Nest thermostat](https://www.zdnet.com/home-and-office/smart-home/google-nest-learning-thermostat-review/), for example, you can monitor and adjust your house's temperature right from the Pixel Watch. 
@@ -62,6 +62,10 @@ As an added bonus, Google will bundle three free months of YouTube Music Premium
 
 **Also:** [**Pixel 7 and Pixel 7 Pro hands-on: The start of Google's walled garden**](https://www.zdnet.com/article/pixel-7-and-pixel-7-pro-hands-on-the-start-of-googles-walled-garden/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want Fitbit's technology for health tracking
 
 This is Year 1 for Google's fitness watch, but the company's [Fitbit acquisition](https://www.zdnet.com/article/googles-2-1-billion-purchase-of-fitbit-is-complete/) means it's bringing a wealth of exercise and health experiences to the new wearable. By implementing Fitbit's health tracking tech, Google's smartwatch can track your heart rate, active calories, steps, and even sleep cycles. Like the [Apple Watch Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/), the Google Pixel Watch gives you a breakdown of your different stages of sleep and the overall effectiveness for further action. Along with the exercise and resting metrics, customers get a free six-month Fitbit membership with access to a plethora of fitness, breathing, and meditation classes. 
@@ -69,10 +73,6 @@ This is Year 1 for Google's fitness watch, but the company's [Fitbit acquisition
 All the primary SKUs of the Google Pixel Watch.
 
 Image: Google
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want a more traditional watch design
 
@@ -83,7 +83,7 @@ Perhaps one of the biggest differences between the Pixel Watch and Apple Watch S
 [Buy the Google Pixel Watch $349 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-watch-black-stainless-steel-smartwatch-41mm-with-obsidian-active-band-wifi-bt-black-obsidian%2F6521697.p%3FskuId%3D6521697&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if...
@@ -91,16 +91,12 @@ Perhaps one of the biggest differences between the Pixel Watch and Apple Watch S
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You prefer Apple's ecosystem
 
 A key reason for Apple's user loyalty and new customer pull is its flourishing ecosystem -- a walled garden of products that is [easy to buy into](https://www.zdnet.com/article/apple-watch-series-8-review/) but hard to put aside. The [Apple Watch Series 8](https://www.zdnet.com/article/apple-watch-series-8-price-release-date-features-colors-everything-you-need-to-know/) is no exception. If you have an iPhone, you'll gain exclusive access to detailed health reports via the Apple Watch, such as sleep habits and cycle tracking. Have an Android phone? You're better off looking elsewhere. If you're used to using Siri and Apple Maps, sticking with the Apple Watch may be a less jarring transition. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want integrated women's health features
 
@@ -109,6 +105,10 @@ The Apple Watch Series 8 introduced a new suite of health features geared toward
 **More:** [**The Apple Watch Series 8 offers ovulation cycle tracking insights**](https://www.zdnet.com/article/apple-watch-series-8-body-temperature-sensor-ovulation-cycles-tracking/)
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want a bigger smartwatch
 
@@ -156,20 +156,24 @@ Another feature that is exclusive to the Apple Watch Series 8 is its [crash dete
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>[New] Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-digital-detox-ignoring-negativity-on-youtube/"><u>[New] Digital Detox Ignoring Negativity on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-first-steps-in-camera-shopping-for-newcomers-to-film/"><u>[Updated] 2024 Approved First Steps in Camera Shopping – For Newcomers to Film</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-setting-up-pip-mode-in-the-youtube-app-for-ios-devices/"><u>[Updated] Setting up PIP Mode in the YouTube App for iOS Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-growth-of-amazons-echo-range-achieving-a-milestone-of-over-100-million-matter-compatible-devices-analysis-by-zdnet/"><u>Exploring the Growth of Amazon's Echo Range: Achieving a Milestone of Over 100 Million Matter-Compatible Devices | Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/generate-qr-codes-at-no-cost-step-by-step-tutorial-by-experts/"><u>Generate QR Codes at No Cost - Step-by-Step Tutorial by Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/good-news-galore-at-southwest-airlines-everybodys-cheerful-except-the-tech-mogul-bill-gates-zdnet-insights/"><u>Good News Galore at Southwest Airlines - Everybody's Cheerful, Except the Tech Mogul, Bill Gates | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/humanizing-interaction-in-a-high-tech-era-insights-on-contentsquares-impact-from-zdnet/"><u>Humanizing Interaction in a High-Tech Era: Insights on Contentsquare's Impact From ZDNet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-quick-guide-capturing-video-and-audio-from-youtube/"><u>In 2024, Quick Guide Capturing Video & Audio From YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-apple-pay-a-comprehensive-guide-for-store-and-digital-purchases-benefits-explained/"><u>Mastering Apple Pay: A Comprehensive Guide for Store & Digital Purchases - Benefits Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-look-old-issues-understanding-amazons-updated-product-ratings/"><u>New Look, Old Issues: Understanding Amazon's Updated Product Ratings</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/prime-pictures-visuals-for-livestream-excellence/"><u>Prime Pictures Visuals for Livestream Excellence</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singapore-pilots-programmable-blockchain-money-applications-in-industrial-test-runs-technewsz/"><u>Singapore Pilots Programmable Blockchain Money Applications in Industrial Test Runs | TechNewsZ</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/stream-your-webcam-in-real-time-using-vlc-software-for-2024/"><u>Stream Your Webcam in Real Time Using VLC Software for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/swagtron-swagboard-t1-review-agile-but-expensive/"><u>Swagtron Swagboard T1 Review: Agile but Expensive</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-synthesize-sounds-and-images-in-ppts/"><u>[New] 2024 Approved Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-harness-high-quality-artwork-at-no-cost/"><u>[New] How to Harness High-Quality Artwork at No Cost</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-formulating-engaging-visual-strategies-in-fb-marketing-for-2024/"><u>[Updated] Formulating Engaging Visual Strategies in FB Marketing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-tech-for-distance-casting-for-2024/"><u>[Updated] Navigating the Tech for Distance Casting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-unexpected-liquid-found-in-iphone-charger-port-solutions-and-fixes/"><u>1. Unexpected Liquid Found in iPhone Charger Port: Solutions and Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-high-performance-tablets-in-2-cups-6-x-34-cup-butter-softened/"><u>Affordable High-Performance Tablets in 2 Cups (6 X 3/4 Cup) Butter, Softened</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-ogg-audio-to-high-quality-aiff-for-free-with-movavis-web-service/"><u>Convert OGG Audio to High-Quality AIFF for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-2nd-gen-apple-pencil-now-limited-labor-day-offer-price-caps-at-only-95-shop-smart-with-zdnet/"><u>Get Your Hands on the 2Nd Gen Apple Pencil Now! Limited Labor Day Offer Price Caps at Only $95 – Shop Smart with ZDNET.</u></a></li>
+<li><a href="https://discover-community.techidaily.com/hd-freddy-krueger-wallpapers-and-imagery-high-quality-graphics-by-yl-computing/"><u>HD Freddy Krueger Wallpapers and Imagery - High-Quality Graphics by YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-mini-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 mini With 7 Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/huge-discount-alert-apple-m2-powered-macbook-air-now-just-800-before-october-non-prime-deals-unveiled-techbargains/"><u>Huge Discount Alert: Apple M2-Powered MacBook Air Now Just $800 Before October - Non-Prime Deals Unveiled! | TechBargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hybrid-work-environments-the-ideal-thinkpad-picks-that-arent-just-brand-new-models/"><u>Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-15-insider-analysis-exceptional-performance-and-features-that-impress-both-novices-and-experts-zdnet-exclusive/"><u>IPhone 15 Insider Analysis: Exceptional Performance & Features That Impress Both Novices and Experts - ZDNet Exclusive</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>New In 2024, The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-communication-how-ios-18-allows-phone-calls-to-be-recorded-in-app-expert-analysis-by-zdnet/"><u>Revolutionizing Communication: How iOS 18 Allows Phone Calls to Be Recorded In-App | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-integrating-your-icloud-notes-into-linux-systems/"><u>Step-by-Step Tutorial: Integrating Your iCloud Notes Into Linux Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/study-smart-with-technology-the-9-best-electronic-tools-and-accessories-for-learners/"><u>Study Smart with Technology: The 9 Best Electronic Tools and Accessories for Learners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/through-the-lens-of-a-day-long-apple-vision-pro-experience-expectations-vs-reality-on-zdnet/"><u>Through the Lens of a Day-Long Apple Vision Pro Experience: Expectations Vs. Reality on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-in-apples-product-portfolio-saying-goodbye-to-finewoven-cases-and-embracing-the-new-era-of-beats-accessories-as-covered/"><u>Transition in Apple's Product Portfolio: Saying Goodbye to FineWoven Cases and Embracing the New Era of Beats Accessories as Covered</u></a></li>
 </ul></div>
 

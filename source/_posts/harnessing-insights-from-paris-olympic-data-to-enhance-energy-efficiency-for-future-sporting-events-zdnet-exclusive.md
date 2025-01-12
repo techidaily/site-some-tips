@@ -1,7 +1,7 @@
 ---
 title: Harnessing Insights From Paris Olympic Data to Enhance Energy Efficiency for Future Sporting Events - ZDNet Exclusive
-date: 2024-09-19 15:36:56
-updated: 2024-09-20 10:44:45
+date: 2025-01-11T16:44:25.950Z
+updated: 2025-01-12T20:12:24.826Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,32 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>[New] Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>[New] Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-list-films-must-watch-channel-compilation/"><u>[Updated] A-List Films Must-Watch Channel Compilation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-chord-of-clicks-infusing-music-into-ig-story-posts-for-2024/"><u>[Updated] The Chord of Clicks Infusing Music Into IG Story Posts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experiencing-the-future-my-journey-testing-googles-highly-anticipated-180/"><u>Experiencing the Future: My Journey Testing Google's Highly Anticipated $1,80</u></a></li>
+<li><a href="https://some-tips.techidaily.com/from-samsung-to-pixels-how-i-traded-in-my-galaxy-s2press-for-the-pixel-9-pro-xl-and-loved-it-zdnet-review/"><u>From Samsung to Pixels: How I Traded in My Galaxy S2press for the Pixel 9 Pro XL and Loved It | ZDNET Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-metaverse-marketing-techniques/"><u>In 2024, Mastering Metaverse Marketing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-google-nest-smart-thermostat-compatible-with-your-historic-home-comprehensive-guide-and-reviews-on-modern-technology-meets-classic-design/"><u>Is the Google Nest Smart Thermostat Compatible with Your Historic Home? Comprehensive Guide and Reviews on Modern Technology Meets Classic Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/launch-of-the-groundbreaking-ai-enhanced-meteorology-application-on-google-pixel-9-devices/"><u>Launch of the Groundbreaking AI-Enhanced Meteorology Application on Google Pixel 9 Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-n3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find N3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speeding-up-file-searches-on-google-drive-expert-tips-and-strategies/"><u>Speeding Up File Searches on Google Drive: Expert Tips & Strategies</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 11 | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

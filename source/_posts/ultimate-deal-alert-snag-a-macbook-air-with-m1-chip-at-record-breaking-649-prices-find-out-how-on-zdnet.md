@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2025-01-03T06:14:33.298Z
-updated: 2025-01-05T16:26:16.743Z
+date: 2025-01-07T17:04:20.237Z
+updated: 2025-01-12T19:10:29.746Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-hand-tracked-futures-visionary-technologies/"><u>[New] Hand-Tracked Futures Visionary Technologies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-toolwiz-app-unveiled-a-critical-examination-of-its-functionality/"><u>[New] In 2024, Toolwiz App Unveiled A Critical Examination of Its Functionality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-best-3d-software-perfect-for-youtube-openers/"><u>[New] The Best 3D Software Perfect for YouTube Openers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-navigating-fade-inout-processes-in-audacity/"><u>[Updated] In 2024, Navigating Fade-In/Out Processes in Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ace-solar-powered-wireless-audio-gear-authoritative-choices-curated-by-zdnet/"><u>Ace Solar Powered Wireless Audio Gear : Authoritative Choices Curated by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-power-station-test-review-transforming-your-travel-experience/"><u>Affordable Power Station Test Review: Transforming Your Travel Experience!</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719149968116-anticipated-ruling-by-social-medias-governance-authority-on-trump/"><u>Anticipated Ruling by Social Media’s Governance Authority on Trump.</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-15-best-tools-to-capture-classroom-learning-moments/"><u>In 2024, 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unlocking-studio-secrets-extensive-xvideoreview/"><u>In 2024, Unlocking Studio Secrets Extensive XVideoReview</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seven-hour-high-performance-solar-generator-charges-with-unmatched-efficiency-discover-how/"><u>Seven-Hour High-Performance Solar Generator Charges with Unmatched Efficiency - Discover How!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sleek-screenscape-top-wallpapers-for-your-device/"><u>Sleek Screenscape Top Wallpapers for Your Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/smart-living-upgrades-of-2024-showcase-expertly-evaluated-and-reviewed-features-for-modern-homes-zdnet/"><u>Smart Living Upgrades of 2024 Showcase: Expertly Evaluated & Reviewed Features for Modern Homes | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-intelligent-climate-controllers-the-ultimate-guide-featuring-zdnets-picks/"><u>Top 5 Intelligent Climate Controllers: The Ultimate Guide - Featuring ZDNET's Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-beginners-guide-unboxing-the-ecoflow-river-3-for-ultimate-power-on-the-go/"><u>Top Rated Beginner’s Guide: Unboxing the EcoFlow River ^3 for Ultimate Power On-the-Go</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-eco-efficiency-and-ai-integration-by-revolutionizing-data-centers/"><u>Unlocking Eco-Efficiency & AI Integration by Revolutionizing Data Centers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-linkedin-account-termination-procedures/"><u>[New] Navigating Through LinkedIn Account Termination Procedures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-diving-into-4k-luxury-a-comprehensive-look-at-the-p2715q-monitor-for-2024/"><u>[Updated] Diving Into 4K Luxury - A Comprehensive Look at the P2715Q Monitor for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>2024 Approved Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-13c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi 13C to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-iphone-communication-experience-with-advanced-sound-optimization-techniques/"><u>Boost Your iPhone Communication Experience with Advanced Sound Optimization Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-ax8-the-ultimate-wi-fi-6-mesh-range-extender/"><u>Comprehensive Analysis of the Netgear Nighthawk AX8 - The Ultimate Wi-Fi 6 Mesh Range Extender</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-enhanced-airpods-top-4-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods: Top 4 Improved Features Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-m2-powered-mac-mini-at-a-record-low-only-479-detailed-analysis/"><u>Discover Apple's M2-Powered Mac Mini at a Record Low: Only $479 - Detailed Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-sons-of-the-forest-freezes-and-crashes-on-your-pc-guide/"><u>Effortless Fixes for 'Sons of the Forest' Freezes and Crashes on Your PC - Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-digitize-and-store-your-drivers-license-in-the-iphone-wallet-app-customized-processes-for-various-regions/"><u>How to Digitize and Store Your Driver's License in the iPhone Wallet App - Customized Processes for Various Regions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 90 Lite?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-8-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-an-unexpectedly-free-macbook-air-m3-at-best-buy-master-the-secret-strategy-here-insights/"><u>Score an Unexpectedly Free MacBook Air M3 at Best Buy - Master the Secret Strategy Here | Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-pick-for-mac-maintenance-expertly-selected-optimization-tools-reviewed-by-zdnet/"><u>Top Pick for Mac Maintenance : Expertly Selected Optimization Tools Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievable-deal-for-tech-lovers-up-to-700-off-the-revolutionary-2022-ipad-pro-this-labor-day-season-zdnet/"><u>Unbelievable Deal for Tech Lovers! Up to $700 Off the Revolutionary 2022 iPad Pro This Labor Day Season | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Case for Diversifying Your Twitter Presence - Lessons From ZDNet's Analysis
-date: 2024-09-18 19:45:40
-updated: 2024-09-20 11:14:26
+date: 2025-01-07T20:53:59.903Z
+updated: 2025-01-12T16:38:21.393Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/48ad0eea0bd314613a096ec100ed2667b4
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,28 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-stepwise-guide-to-convert-vimeo-media-to-mp3/"><u>[New] In 2024, Stepwise Guide to Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-ultimate-guide-to-high-performance-flashlights-expert-evaluations-by-zdnet/"><u>2024'S Ultimate Guide to High-Performance Flashlights: Expert Evaluations by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/active-prime-day-television-offers-top-picks-for-shoppers-over-65/"><u>Active Prime Day Television Offers - Top Picks for Shoppers Over 65</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-alert-it-admin-limited-power/"><u>Addressing Windows Alert: IT Admin Limited Power</u></a></li>
+<li><a href="https://fox-links.techidaily.com/aerial-visual-flux-free-lutts-for-dji-drones-then-pay-upgrade-for-2024/"><u>Aerial Visual Flux Free LUTTs for DJI Drones, Then Pay Upgrade for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/all-season-durable-led-string-lights-more-affordable-options-than-rivals-tech-innovations/"><u>All-Season Durable LED String Lights - More Affordable Options Than Rivals | Tech Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazing-deals-alert-ring-spotlight-cam-pros-surprising-performance-tested-special-labor-day-sale-featured-on-zdnet/"><u>Amazing Deals Alert: Ring Spotlight Cam Pro's Surprising Performance Tested | Special Labor Day Sale Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-expectations-discovering-surprising-features-with-the-ring-spotlight-cam-pro-zdnet-insights/"><u>Beyond Expectations: Discovering Surprising Features with the Ring Spotlight Cam Pro | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-wireless-audio-solutions-for-summer-the-ultimate-list-of-best-low-cost-bluetooth-devices/"><u>Budget-Friendly Wireless Audio Solutions for Summer: The Ultimate List of Best Low-Cost Bluetooth Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-into-the-latest-apple-watch-series-9-reviewed/"><u>Expert Insights Into the Latest Apple Watch – Series 9 Reviewed</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-trusted-online-social-hubs/"><u>Exploring Trusted Online Social Hubs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-dvd-to-computer-the-easy-way-to-convert-and-store-your-favorite-movies-for-2024/"><u>New DVD to Computer The Easy Way to Convert and Store Your Favorite Movies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-64-bit-epson-ds-530-driver-download-and-installation-guide/"><u>Windows 10 64-Bit Epson DS-530 Driver Download & Installation Guide</u></a></li>
+</ul></div>
+

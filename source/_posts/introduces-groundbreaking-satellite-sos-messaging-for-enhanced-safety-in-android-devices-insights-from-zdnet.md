@@ -1,7 +1,7 @@
 ---
 title: Introduces Groundbreaking Satellite SOS Messaging for Enhanced Safety in Android Devices | Insights From ZDNet
-date: 2025-01-04T01:23:32.859Z
-updated: 2025-01-06T03:02:29.707Z
+date: 2025-01-10T17:40:04.813Z
+updated: 2025-01-12T16:58:37.782Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,22 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-ultimate-checklist-for-successful-reddit-threads/"><u>[New] 2024 Approved The Ultimate Checklist for Successful Reddit Threads</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-titans-the-ultimate-list-of-30-stellar-handle-ideas/"><u>[New] TikTok Titans The Ultimate List of 30 Stellar Handle Ideas</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-a-step-by-step-process-for-podcast-rss-creation/"><u>2024 Approved A Step-by-Step Process for Podcast RSS Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-step-by-step-guide-purchasing-and-downloading-ebooks-on-amazon-kindle/"><u>A Step-by-Step Guide: Purchasing and Downloading eBooks on Amazon Kindle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-revamps-product-rating-display-a-step-back-for-shoppers/"><u>Amazon Revamps Product Rating Display - A Step Back for Shoppers?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/5-non-youtube-editing-tools-for-vids/"><u>Best 5 Non-YouTube Editing Tools for Vids</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-steps-for-deleting-programs-from-your-pc-running-windows-11/"><u>Comprehensive Steps for Deleting Programs From Your PC Running Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-purchasing-e-books-on-amazons-kindle-a-step-by-step-tutorial/"><u>Guide to Purchasing E-Books on Amazon's Kindle: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2030-how-digital-wallet-technology-eliminates-the-need-for-physical-cards-zdnet/"><u>In 2030: How Digital Wallet Technology Eliminates the Need for Physical Cards | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rising-prices-ahead-the-impact-of-inflation-on-future-supermarket-trips-insights-from-zdnet/"><u>Rising Prices Ahead? The Impact of Inflation on Future Supermarket Trips - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-steelseries-arctis-5-microphone-not-working-step-by-step-instructions/"><u>Solution for SteelSeries Arctis ^5 Microphone Not Working: Step-by-Step Instructions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211179143-9798218264529-solving-the-mystery-of-you/"><u>Solving the Mystery of You | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/southwest-unveils-exciting-customer-concept-but-fumbles-the-execution-a-closer-look-at-their-strategy/"><u>Southwest Unveils Exciting Customer Concept, But Fumbles the Execution: A Closer Look at Their Strategy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-inventory-management-mastering-retail-fulfillment-through-ml-and-cv-featured-on-zdnet/"><u>The Future of Inventory Management: Mastering Retail Fulfillment Through ML and CV, Featured on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-selection-of-creative-and-practical-gifts-perfect-for-it-professionals-12-picks/"><u>ZDNet's Ultimate Selection of Creative and Practical Gifts Perfect for IT Professionals (12 Picks)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-steps-for-clear-quality-iphone-recordings/"><u>[New] 2024 Approved Essential Steps for Clear, Quality iPhone Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-cross-service-harmonization-a-playlist-perspective/"><u>[Updated] 2024 Approved Cross-Service Harmonization A Playlist Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eu-court-orders-apple-to-pay-2b-penalty-over-app-store-antitrust-violations-insights/"><u>EU Court Orders Apple to Pay $2B Penalty Over App Store Antitrust Violations - Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>In 2024, Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-apple-watch-longeaster-with-these-simple-8-configuration-changes-gadgetguru/"><u>Maximize Apple Watch Longeaster with These Simple 8 Configuration Changes | GadgetGuru</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-video-editors-for-gamers/"><u>New Top-Rated Free Video Editors for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/october-update-apples-innovative-intelligence-functionality-release-now-tentatively-scheduled-industry-news-roundup/"><u>October Update: Apple's Innovative Intelligence Functionality Release Now Tentatively Scheduled – Industry News Roundup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pro-phone-face-off-choosing-between-the-google-pixel/"><u>Pro Phone Face-Off: Choosing Between the Google Pixel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-cycling-how-photochromic-head-up-displays-transform-your-ride-a-deep-dive/"><u>Revolutionizing Cycling: How Photochromic Head-Up Displays Transform Your Ride - A Deep Dive</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211335947-9798869344526-santeria/"><u>Santería | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-24-today-upgrade-to-airpods-pro-2-with-built-in-hearing-aid-features-exclusive-deal-on-zdnet/"><u>Save 24% Today: Upgrade to AirPods Pro 2 with Built-In Hearing Aid Features - Exclusive Deal on ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screen-recorder-pros-free-software-on-both-windows-and-macos-for-2024/"><u>Screen Recorder Pros Free Software on Both Windows & MacOS for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fatal-instruction-violation-in-windows-error-0xc00000e9/"><u>Troubleshooting the Fatal Instruction Violation in Windows (Error 0xC00000E9)</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Blaze 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 

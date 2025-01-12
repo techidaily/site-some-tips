@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Consequences: Russia-Ukraine Conflict's Peril to the Worldwide IT Marketplace | ZDNET Insights"
-date: 2024-09-17 13:49:31
-updated: 2024-09-20 10:42:48
+date: 2025-01-10T16:54:46.661Z
+updated: 2025-01-12T16:44:48.317Z
 tags:
   - cloud
 categories:
@@ -23,12 +23,20 @@ In the five years since I first explored the potential impact of a Digital Cold 
 
 Under Vladimir Putin's leadership, the nation has focused on [international cybersecurity activity for many years.](https://www.cbsnews.com/news/cia-mike-pompeo-russian-election-meddling-theyve-been-at-this-a-hell-of-a-long-time/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ukraine Crisis
 
 * [Coding inside a war zone](https://www.zdnet.com/article/ukrainian-software-developers-share-their-stories-and-photos-from-the-war-zone/)
 * [How you can help: Donation sites and resources](https://www.zdnet.com/article/how-you-can-help-ukraine-donation-sites-and-resources/)
 * [Ukrainian police take down phishing gang behind payments scam](https://www.zdnet.com/article/ukrainian-police-takes-down-phishing-gang-behind-payments-scam/)
 * [International Refugee Assistance Project partners with Rosetta Stone to aid refugees](https://www.zdnet.com/article/international-refugee-assistance-project-rosetta-stone-partnership-aid-refugees/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ukraine invasion
 
@@ -41,6 +49,10 @@ On February the 23rd, President Biden [condemned the military action](https://ww
 The economic impacts of this conflict will likely be significant, including a halt on Russian oil and natural gas exports to Western Europe and, presumably, the denial of civil and commercial air transit to Asia through Russian airspace. Although the United States, unlike Europe, is not a major consumer of Russian energy exports, it would be simplistic to say that Russia has no impact on US business at all.
 
 An extended conflict with Russia -- coupled with the imposition of wide-ranging sanctions -- will have a tangible impact on the global technology industry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software companies with concerns about Russian connections
 
@@ -60,6 +72,10 @@ It's also important to note that companies with no evidence of any wrongdoing ar
 
 [Acronis](http://en.wikipedia.org/wiki/Acronis), like Parallels, is another company founded by Beloussov. After founding Parallels in 1999, and being involved with both companies for some time, he became CEO of Acronis in May of 2013\. The company specializes in cybersecurity products for end-to-end device protection, and in the past, has had bare-metal systems imaging, systems deployment, and storage management products for Microsoft Windows and Linux. The company maintains its global headquarters in Singapore. However, it has substantial R&D operations in Eastern Europe in addition to operations in Israel, Singapore, and the US.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special feature
 
 [Cyberwar and the Future of Cybersecurity Today's security threats have expanded in scope and seriousness. There can now be millions -- or even billions -- of dollars at risk when information security isn't handled properly.  Read now](https://www.zdnet.com/topic/cyberwar-and-the-future-of-cybersecurity/)
@@ -71,6 +87,10 @@ These are only just a few examples. Numerous Russian software firms generate bil
 It should also be noted that many mobile apps -- including entertainment software for iOS, Android, Windows -- also originate in Russia.
 
 * [How to secure your home and office network: The best DNS blockers and firewalls](https://www.zdnet.com/article/how-to-secure-your-home-and-office-network-the-best-dns-blockers-and-firewalls/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Russian services firms will also be impacted
 
@@ -130,11 +150,33 @@ Will Russian software and services become the first victim in a Digital War? _Ta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-depth-guide-to-maximizing-creativity-with-picsart-for-2024/"><u>[New] In-Depth Guide to Maximizing Creativity with PicsArt for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ips-for-risk-free-youtube-video-mp4-downloading/"><u>[New] Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-gopro-gear-selection/"><u>2024 Approved First Steps in GoPro Gear Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-home-automation-this-labor-day-with-30-off-on-amazons-newest-echo-show-et-exclusive-deal-zdnet/"><u>Elevate Your Home Automation This Labor Day with 30% Off on Amazon's Newest Echo Show ˈeɪtʃ - Exclusive Deal | ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-perfection-erasing-with-ease-in-photoshop/"><u>In 2024, Photo Perfection Erasing with Ease in Photoshop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-nord-n30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Nord N30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pros-evaluate-the-ultimate-speakers-of-2ebrity-your-comprehensive-guide-zdnet/"><u>Pros Evaluate the Ultimate Speakers of 2Ebrity: Your Comprehensive Guide | ZDNET</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstaller-guide-mastering-android-11s-one-time-app-permissions/"><u>RevoUninstaller Guide: Mastering Android 11'S One-Time App Permissions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/smooth-transition-from-phones-to-youtube-setting-up-personalbusiness-channels-for-2024/"><u>Smooth Transition From Phones to YouTube Setting Up Personal/Business Channels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surprise-hit-revealed-the-best-immersive-soundbar-beyond-vizio-jbl-hits-new-heights-tech-analysis-by-zdnet/"><u>Surprise Hit Revealed - The Best Immersive Soundbar Beyond Vizio, JBL Hits New Heights | Tech Analysis by ZDNet.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surprising-top-pick-for-travel-friendly-audio-a-strong-contender-against-big-brands/"><u>Surprising Top Pick for Travel-Friendly Audio: A Strong Contender Against Big Brands</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/scape-artists-manual-to-disguised-youtube-archives-for-2024/"><u>The Escape Artist's Manual to Disguised YouTube Archives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-amazon-echo-studios-continuous-reign-as-the-premier-audio-ai-assistant-techradar/"><u>The Ultimate Guide: Amazon Echo Studio's Continuous Reign as the Premier Audio AI Assistant | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-outstanding-audio-speaker-brands-revealed-by-zdnet/"><u>Top 5 Outstanding Audio Speaker Brands - Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-audio-setups-of-2024-professional-evaluation-and-reviews-zdnet/"><u>Top Rated Audio Setups of 2024: Professional Evaluation & Reviews - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-audio-setups-professional-reviews-and-rankings-techradar/"><u>Top-Rated Audio Setups : Professional Reviews & Rankings - TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-soundbar-picks-for-2nth-year-professional-evaluations-and-endorsements-on-zdnet/"><u>Top-Rated Soundbar Picks for 2^[N^th] Year: Professional Evaluations & Endorsements on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-oculus-rift-s-mic-problem-fast-with-these-proven-fixes-2024s-top-tips/"><u>Troubleshoot Your Oculus Rift S Mic Problem Fast with These Proven Fixes – 2024'S Top Tips</u></a></li>
+</ul></div>
+

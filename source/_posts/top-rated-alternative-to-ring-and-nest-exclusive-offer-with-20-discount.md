@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Alternative to Ring and Nest: Exclusive Offer with 20%% Discount!"
-date: 2024-09-18 14:49:18
-updated: 2024-09-20 10:45:51
+date: 2025-01-10T20:40:25.294Z
+updated: 2025-01-12T20:05:05.755Z
 tags:
   - amazon
 categories:
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 The [Ring Battery Doorbell Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-new-Ring-Battery-Doorbell-detection%2Fdp%2FB09WZBPX7K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b0992be-f5ec-4396-bd0d-3bf02317854e%7Cdtp&dtb=1) is currently available for $120, a 20% discount from its original price.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -99,6 +107,10 @@ Maria Diaz/ZDNET
 
 The Ring Battery Doorbell Plus is a great addition to the company's range of devices. Until the launch of the Plus video doorbell, Ring only offered the [Ring Battery Doorbell](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Video-Doorbell-Satin-Nickel-2020-Release%2Fdp%2FB08N5NQ869%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b0992be-f5ec-4396-bd0d-3bf02317854e%7Cdtp&dtb=1) is a highly popular, $100 video doorbell with a 1080p resolution and a built-in rechargeable battery.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 While I'm not keen to buy a separate subscription to use devices that already cost me hundreds of dollars, there are scenarios where the [Ring Battery Doorbell Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-new-Ring-Battery-Doorbell-detection%2Fdp%2FB09WZBPX7K%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b0992be-f5ec-4396-bd0d-3bf02317854e%7Cdtp&dtb=1) makes perfect sense for many smart home enthusiasts.
@@ -108,6 +120,10 @@ Some smart home users enjoy the Ring ecosystem and already have a Ring Protect P
 **Also: [The Arlo Pro 5S is close to being my perfect security camera](https://www.zdnet.com/home-and-office/smart-home/the-arlo-pro-5s-is-close-to-being-my-perfect-security-camera-especially-with-this-labor-day-sale/)**
 
 The Ring Battery Doorbell Plus also links seamlessly with Alexa, other Ring devices, and Amazon products, making it a shoo-in for an Amazon Alexa-powered smart home. You can easily view and communicate with your Ring Video Doorbell Plus from an [Echo Show](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-New-Echo-Show-8%2Fdp%2FB0BLS3Y632%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1b0992be-f5ec-4396-bd0d-3bf02317854e%7Cdtp&dtb=1) smart display, or have the video doorbell's live stream pop up on your Fire TV when someone rings it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -134,11 +150,25 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exclusive-selection-of-elite-race-games/"><u>[Updated] In 2024, Exclusive Selection of Elite Race Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bargain-bundle-alert-save-big-and-grab-an-iphone-ipad-apple-watch-airpods-plus-a-mac-for-less-than-one-vision-pro-zdnet/"><u>Bargain Bundle Alert! Save Big and Grab an iPhone, iPad, Apple Watch, AirPods, Plus a Mac for Less Than One Vision Pro - ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-implications-of-apples-tandem-oled-screen-on-upcoming-tablet-displays-insights-from-zdnet/"><u>Exploring the Implications of Apple's Tandem OLED Screen on Upcoming Tablet Displays - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-lava-blaze-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Blaze 2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-seamlessly-migrate-your-picture-collection-from-google-photos-to-icloud-services-an-easy-to-follow-tutorial/"><u>How to Seamlessly Migrate Your Picture Collection From Google Photos to iCloud Services: An Easy-to-Follow Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronic-emporium-unlocking-hardware-secrets/"><u>Inside Tom's Electronic Emporium: Unlocking Hardware Secrets</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-leap-kindergarten-to-fifth-grade-in-spanish/"><u>Language Leap: Kindergarten to Fifth Grade in Spanish</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-call-of-duty-wwii-error-code-4128-a-complete-guide/"><u>Resolving Call of Duty: WWII Error Code 4128 - A Complete Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/skype-call-capture-the-most-effective-free-and-paid-approaches/"><u>Skype Call Capture The Most Effective Free & Paid Approaches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/take-advantage-of-presidents-day-promo-get-a-cutting-edge-macbook-pro-featuring-m3-pro-tech-for-only-200-less-zdnet-deals/"><u>Take Advantage of Presidents’ Day Promo – Get a Cutting-Edge MacBook Pro Featuring M3 Pro Tech for Only $200 Less | ZDNET Deals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-users-can-now-enjoy-imessage-tips-for-seamless-communication/"><u>Windows Users Can Now Enjoy iMessage! Tips for Seamless Communication</u></a></li>
+</ul></div>
+

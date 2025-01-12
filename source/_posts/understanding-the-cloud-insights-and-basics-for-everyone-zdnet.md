@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Cloud: Insights & Basics for Everyone | ZDNet"
-date: 2024-09-18 19:38:36
-updated: 2024-09-20 11:44:22
+date: 2025-01-07T20:19:52.748Z
+updated: 2025-01-12T19:09:40.479Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fmanaging-the-multicloud%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fmanaging-the-multicloud%2F "Twitter") 
@@ -103,9 +107,17 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is cloud computing, in simple terms?
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does cloud computing work?
 
@@ -124,6 +136,10 @@ Cloud-computing services cover a vast range of options now, from the basics of s
 Cloud computing underpins a vast number of services. That includes consumer services like Gmail or the cloud backup of the photos on your smartphone, though to the services that allow large enterprises to host all their data and run all of their applications in the cloud. For example, Netflix [relies on cloud-computing](https://media.netflix.com/en/company-blog/completing-the-netflix-cloud-migration) services to run its its video-streaming service and its other business systems, too.
 
 Cloud computing is becoming the default option for many apps: software vendors are increasingly offering their applications as services over the internet rather than standalone products as they try to switch to a subscription model. However, there are potential downsides to cloud computing, in that it can also introduce new costs and new risks for companies using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is it called cloud computing?
 
@@ -171,6 +187,10 @@ Cloud computing can be broken down into a number of different constituent elemen
 
 Infrastructure as a Service (IaaS) refers to the fundamental building blocks of computing that can be rented: physical or virtual servers, storage and networking. This is attractive to companies that want to build applications from the very ground up and want to control nearly all the elements themselves, but it does require firms to have the technical skills to be able to orchestrate services at that level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Platform as a Service?
 
 Platform as a Service (PaaS) is the next layer up – as well as the underlying storage, networking, and virtual servers, this layer also includes the tools and software that developers need to build applications on top, which could include middleware, database management, operating systems, and development tools.
@@ -182,6 +202,10 @@ Software as a Service (SaaS) is the delivery of applications as a service, proba
 SaaS is the largest chunk of cloud spending simply because the variety of applications delivered via SaaS is huge, from CRM such as Salesforce, through to Microsoft's Office 365\. And while the whole market is growing at a furious rate, it's the IaaS and PaaS segments that have consistently grown at much faster rates, according to analyst IDC: "This highlights the increasing reliance of enterprises on a cloud foundation built on cloud infrastructure, software-defined data, compute and governance solutions as a Service, and cloud-native platforms for application deployment for enterprise IT internal applications." IDC predicts that IaaS and PaaS will continue growing at a higher rate than the overall cloud market "as resilience, flexibility, and agility guide IT platform decisions".
 
 Image: IDC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is multi-cloud computing?
 
@@ -202,6 +226,10 @@ For a company with an application that has big peaks in usage, such as one that 
 * [Business continuity is the ultimate killer application for cloud](https://www.zdnet.com/article/cloud-computing-is-seen-as-disaster-proof/)
 * [It's official: Supercomputing is now ho-hum (thanks, cloud)](https://www.zdnet.com/article/its-official-supercomputing-is-now-ho-hum-thanks-cloud/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the advantages and disadvantages of cloud computing?
 
 Cloud computing is not necessarily cheaper than other forms of computing, just as renting is not always cheaper than buying in the long term. If an application has a regular and predictable requirement for computing services it may be more economical to provide that service in-house.
@@ -221,6 +249,10 @@ Cloud computing tends to shift spending from capex to opex, as companies buy com
 Of course, this doesn't mean that cloud computing is always or necessarily cheaper that keeping applications in-house; for applications with a predictable and stable demand for computing power, it might be cheaper (from a processing power point of view at least) to keep them in-house.
 
 * [Cloud computing spending is growing even faster than expected](https://www.zdnet.com/article/cloud-computing-spending-is-growing-even-faster-than-expected/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do you build a business case for cloud computing?
 
@@ -297,6 +329,10 @@ Google [uses a similar model](https://www.zdnet.com/article/cloud-computing-now-
 
 Microsoft Azure [divides its resources slightly differently](https://azure.microsoft.com/en-gb/global-infrastructure/regions/). It offers regions that it describes as is a "set of datacentres deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network". It also offers 'geographies' typically containing two or more regions, that can be used by customers with specific data-residency and compliance needs "to keep their data and apps close". It also offers availability zones made up of one or more data centres equipped with independent power, cooling and networking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cloud computing and power usage
 
 Those data centres are also sucking up a huge amount of power: for example, Microsoft struck a deal with GE to buy all of the output from its new 37-megawatt wind farm in Ireland for the next 15 years in order to power its cloud data centres. Ireland said it now expects data centres to account for [15% of total energy demand by 2026](https://www.zdnet.com/article/microsoft-just-bought-all-the-electricity-from-this-wind-farm-for-15-years-to-power-cloud-computing/), up from less than 2% back in 2015.
@@ -313,6 +349,10 @@ Image: Synergy Research
 ## AWS, Azure and Google Cloud – what's the difference?
 
 The big three cloud companies all have their own strengths. AWS is the most established player and was behind Amazon's ability to support huge seasonal swings in demand from consumers. Being first out to market with cloud services and pushing hard to gain market share has made it the market leader, and it continues to innovate. Microsoft's Azure has become an absolutely core part of Microsoft's strategy, and the company has the enterprise history and products to support businesses as they switch to the cloud. Google Cloud is the smallest of the big three players, but clearly has the might of the advertising-to-Android giant behind it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who are the other main cloud-computing players?
 
@@ -366,11 +406,33 @@ Trying to understand and articulate the differences between public, private, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quick-tips-uploading-to-apple-podcast-network/"><u>[New] 2024 Approved Quick Tips Uploading to Apple Podcast Network</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-core-of-vimeo-empowering-video-artists-and-audiences/"><u>[New] In 2024, The Core of Vimeo Empowering Video Artists & Audiences</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-video-treasures-securely-capturing-igtv-videos-on-windows-and-macos/"><u>[New] Unlocking Video Treasures Securely Capturing IGTV Videos on Windows & MacOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-save-gifs-from-fb-on-different-devices/"><u>[Updated] In 2024, Step-by-Step Save GIFs From FB on Different Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-whats-next-from-apple-a-deep-dive-into-wwdc-announcements-featuring-vision-pro-headset-and-revamped-mac-pro-zdnet/"><u>Discover What's Next From Apple: A Deep Dive Into WWDC Announcements Featuring Vision Pro Headset & Revamped Mac Pro | ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-techniques-accelerating-or-decelerating-instagram-stories/"><u>Efficient Techniques Accelerating or Decelerating Instagram Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-cutting-edge-enhancements-vision-pro-boosted-with-top-apple-features-at-a-competitive-rate-insights-from-zdnet/"><u>Experience Cutting-Edge Enhancements: Vision Pro Boosted with Top Apple Features at a Competitive Rate - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-tech-mac-screenshoting-basics/"><u>In 2024, Essential Tech Mac Screenshoting Basics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/integrating-enterprise-solutions-with-apple-vision-pro-a-closer-look-by-zdnet/"><u>Integrating Enterprise Solutions with Apple Vision Pro: A Closer Look by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-vision-limitations-with-budget-friendly-xr-glasses-bypassing-the-expensive-appeal-of-high-end-devices/"><u>Overcoming Vision Limitations with Budget-Friendly XR Glasses | Bypassing the Expensive Appeal of High-End Devices</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/resolving-system-glitches-how-to-diagnose-malfunctioning-components-in-your-machine-guided-by-yl-software-experts/"><u>Resolving System Glitches: How to Diagnose Malfunctioning Components in Your Machine - Guided by YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tcls-bold-entry-into-augmented-and-virtual-reality-tech-showcased-at-ces-202/"><u>TCL's Bold Entry Into Augmented and Virtual Reality Tech Showcased at CES 202#</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-affection-for-apples-vision-pro-revealed-by-a-store-associate-exclusive-zdnet-feature/"><u>The Secret Behind My Affection for Apple's Vision Pro Revealed by a Store Associate | Exclusive ZDNet Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ar-glasses-comprehensive-review-by-tech-experts/"><u>Top AR Glasses : Comprehensive Review by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-ar-headsets-see-whats-trending-according-to-zdnet/"><u>Top-Ranked AR Headsets : See What's Trending According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-metas-hidden-virtual-reality-masterpiece-a-potential-game-changer-for-the-tech-world-eclipsing-apples-vision-pro/"><u>Unveiling Meta's Hidden Virtual Reality Masterpiece: A Potential Game-Changer for the Tech World, Eclipsing Apple's Vision Pro</u></a></li>
+</ul></div>
+

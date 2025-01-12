@@ -1,7 +1,7 @@
 ---
 title: As Google Retreats From IoT Services, Microsoft Advances Its Presence - A Shift in Industry Dynamics | ZDNet
-date: 2024-09-18 10:48:43
-updated: 2024-09-20 12:44:24
+date: 2025-01-05T16:52:05.985Z
+updated: 2025-01-12T17:46:41.954Z
 tags:
   - amazon
 categories:
@@ -62,11 +62,33 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/oosting-viewership-with-animated-subscribe-buttons-in-filmora-easy-guide/"><u>[New] Boosting Viewership with Animated Subscribe Buttons in Filmora (Easy Guide)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-audiovisual-power-evaluating-mirrorless-vs-dslr-cameras/"><u>[New] In 2024, Audiovisual Power Evaluating Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unraveling-youtubes-platform-for-content-crafting/"><u>[Updated] In 2024, Unraveling YouTube’s Platform for Content Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-urgent-alert-apple-issues-security-notice-on-covert-spyware-threats-targeting-iphones-is-your-device-at-risk/"><u>1. Urgent Alert: Apple Issues Security Notice on Covert Spyware Threats Targeting iPhones – Is Your Device at Risk?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-win-for-macbook-users-understanding-apples-payout-plan-under-the-latest-settlement-insights-from-zdnet/"><u>A Win for MacBook Users: Understanding Apple's Payout Plan Under the Latest Settlement - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-solution-beats-expensive-optometry-my-life-with-budget-friendly-xr-glasses/"><u>Affordable Solution Beats Expensive Optometry - My Life with Budget-Friendly XR Glasses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-future-of-ios-how-apples-new-purchase-signals-advanced-ai-features-for-next-gen-iphone-lineup-exclusive/"><u>Decoding the Future of iOS: How Apple's New Purchase Signals Advanced AI Features for Next-Gen iPhone Lineup Exclusive</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-addressing-fake-profile-imagery-in-fb-conversation/"><u>In 2024, Addressing Fake Profile Imagery in FB Conversation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g13-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G13 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/resolving-the-issue-ios-1751-patch-for-cringe-worthy-photo-resurrection-bug-detailed-by-zdnet/"><u>Resolving the Issue: IOS 17.5.1 Patch for Cringe-Worthy Photo Resurrection Bug Detailed by ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networking-evolved-should-we-consider-meta-ais-entry/"><u>Social Networking Evolved: Should We Consider Meta AI's Entry?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/staying-away-from-the-upcoming-m4-mac-mini-see-how-mac-studios-unique-features-make-it-harder-to-commit/"><u>Staying Away From the Upcoming M4 Mac Mini? See How Mac Studio's Unique Features Make It Harder to Commit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication-for-2024/"><u>Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-new-benchmark-in-ultraportables-in-depth-analysis-of-the-m2-apple-macbook-pro-13-how-it-stacks-up-against-its-m1-predecessor-gadgetguidepro/"><u>The New Benchmark in Ultraportables: In-Depth Analysis of the M2 Apple MacBook Pro 13 - How It Stacks Up Against Its M1 Predecessor? | GadgetGuidePro</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

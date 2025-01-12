@@ -1,7 +1,7 @@
 ---
 title: Introducing the New EC2 M1 Mac Instances in Preview by AWS | Wired News
-date: 2024-09-19 22:20:14
-updated: 2024-09-20 10:27:26
+date: 2025-01-10T18:03:15.909Z
+updated: 2025-01-12T17:15:12.862Z
 tags:
   - cloud
 categories:
@@ -52,11 +52,31 @@ The new M1 instances deliver up to 60% better price performance over the x86-bas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-harmonic-frames-filming-music-tracks-using-iphones/"><u>[Updated] 2024 Approved Harmonic Frames Filming Music Tracks Using iPhones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-dangerous-depths-top-10-roguelite-showdowns/"><u>2024 Approved Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-smart-audio-excellence-with-the-sonos-era-n-review-zdnet-less-than-300-innovation/"><u>Affordable Smart Audio Excellence with the Sonos Era N Review | ZDNET – Less Than $300 Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrate-labor-day-in-style-expert-advice-on-throwing-a-memorable-holiday-event-featuring-zdnet-strategies/"><u>Celebrate Labor Day in Style: Expert Advice on Throwing a Memorable Holiday Event - Featuring ZDNET Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-apples-homepod-and-homepod-mini-a-comprehensive-guide/"><u>Choosing Between Apple's HomePod and HomePod Mini: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-ios-ps2-games-emulators-for-2024/"><u>Essential iOS PS2 Games Emulators for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-mini-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 mini After Forgetting the Passcode?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-and-reviews-the-razer-leviathan-v2-a-spectacular-blend-of-design-and-audio-quality/"><u>In-Depth Analysis & Reviews: The Razer Leviathan V2 - A Spectacular Blend of Design & Audio Quality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-c51-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco C51</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-movie-night-woes-how-an-unusual-shape-soundbar-perfected-cinema-experience-at-home-tech-digest/"><u>Solving Movie Night Woes: How an Unusual Shape Soundbar Perfected Cinema Experience at Home | Tech Digest</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-simple-guide-to-hosting-efficient-zoom-chats/"><u>The Simple Guide to Hosting Efficient Zoom Chats</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-speaker-systems-for-vinyl-enthusiasts-insider-picks-by-experts/"><u>Top-Rated Speaker Systems for Vinyl Enthusiasts: Insider Picks by Experts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

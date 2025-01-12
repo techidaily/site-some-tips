@@ -1,7 +1,7 @@
 ---
 title: Leveraging Quantum Tech to Accelerate AI Growth - Singapore's New Vision with Cutting-Edge Data Centers
-date: 2024-09-19 11:46:42
-updated: 2024-09-20 11:26:31
+date: 2025-01-08T19:12:34.464Z
+updated: 2025-01-12T16:27:42.453Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ ZDNET understands Singapore's target is to have the first prototype ready in the
 
 The government in 2022 unveiled a three-year initiative to [build a quantum-safe network](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) that it hopes will showcase "crypto-agile connectivity" and facilitate trials with both public and private organizations. The initiative also includes a quantum security lab for vulnerability research. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Laying the ground for green data centers
 
 Singapore last week also launched its [green data center roadmap](https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/green-dc-roadmap/green-dc-roadmap.pdf) to chart "digital sustainability and chart green growth pathways" for such facilities, supporting AI and computing developments. 
@@ -86,6 +90,10 @@ He said technologies that drive the country's digital economy, such as cloud and
 "There is a need to balance the economic and social benefits of digital applications with the environmental effects from the resultant emissions," he said, noting that Singapore has committed to a net-zero target by 2050\. 
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Charting global test standards for AI models
 
@@ -130,11 +138,27 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-chuckle-away-with-premium-complimentary-meme-templates/"><u>[New] 2024 Approved Chuckle Away with Premium Complimentary Meme Templates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-dynamic-duo-of-yi-and-4k-in-action-video/"><u>2024 Approved The Dynamic Duo of Yi and 4K in Action Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>2024 Approved Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/amplify-windows-11-outputs-with-savvy-techniques/"><u>Amplify Windows 11 Outputs with Savvy Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-free-converters-ranking-the-10-for-jpg-to-gif-changeover/"><u>Leading Free Converters Ranking the 10 for JPG to GIF Changeover</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/redressing-ravaged-recording-a-sample-strategy/"><u>Redressing Ravaged Recording: A Sample Strategy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g23-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G23 Phone Hassle-Free</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-garden-with-illumination-magic-the-new-govee-permanent-outdoor-lighting-range-that-shines-brighter-than-before-perfect-for-a-quick-setup-this247/"><u>Transform Your Garden with Illumination Magic: The New Govee Permanent Outdoor Lighting Range That Shines Brighter Than Before, Perfect for a Quick Setup This Saturday or Sunday!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-garden-with-our-racecar-robot-mower-see-stunning-results-explore-features-at-zdnet/"><u>Transform Your Garden with Our Racecar Robot Mower – See Stunning Results | Explore Features at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-yard-work-unleashing-hours-of-entertainment-with-our-top-pick-for-a-remote-controlled-lawn-mower-a-zdnet-review/"><u>Transform Your Yard Work: Unleashing Hours of Entertainment with Our Top Pick for a Remote-Controlled Lawn Mower - A ZDNet Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-2024-portable-projection-technology-review-expert-ratings-and-buying-tips/"><u>Ultimate 2024 Portable Projection Technology Review - Expert Ratings & Buying Tips</u></a></li>
+</ul></div>
+

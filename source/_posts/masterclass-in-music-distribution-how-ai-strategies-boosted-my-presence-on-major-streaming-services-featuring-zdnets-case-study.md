@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Music Distribution: How AI Strategies Boosted My Presence on Major Streaming Services, Featuring ZDNet's Case Study"
-date: 2024-09-18 18:19:29
-updated: 2024-09-20 10:54:15
+date: 2025-01-10T16:27:43.753Z
+updated: 2025-01-12T19:23:21.178Z
 tags:
   - cloud
 categories:
@@ -98,6 +98,10 @@ I wanted the music to be _my_ music. Especially in this time of [generative AI](
 
 That said, while no AI was used in the creation or mixing of this music, I used the heck out of AI for the creation of album covers, website graphics, and related promotional text. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Album covers 
 
 The first step for which I turned to AI was in creating the album covers. In fact, it was the AI's work product that helped me refine the release strategy for my music. 
@@ -147,6 +151,10 @@ From that, I got back the following recommendation:
 Screenshot by David Gewirtz/ZDNET
 
 Is it perfect? Probably not. If I really were an A&R executive, I'd be able to fit the tunes into their proper categories. But since I'm no expert, the AI did give me a leg up. The songs were accepted, and so far, the playlist curators who've looked at the songs didn't feel they were in the wrong genres, so I'll call this another win for the AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Creating a music description 
 
@@ -212,6 +220,10 @@ David Gewirtz via Midjourney/ZDNET
 
 I also used AI to create the site's wide banner, as well as two more spotlight images on the bio page. There's a lot to unpack here, so I'm going to break things out into their own sections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The AI-ification of the Musician Dave image 
 
 I have been notoriously camera-shy. This is odd for a guy who appears in a couple of hundred YouTube videos and spent a good part of the 2010s splattered all over [network TV doing guest commentary](https://davidgewirtz.com/bio/), but it's true. In my younger days, if there was a camera at an event, I went the other way. As such, there are very few pictures of me as a younger man. 
@@ -231,6 +243,10 @@ Actually, this is worth a minute of serious discussion. Music imagery is both an
 They're meant to convey an impression of the artist that's not exactly tied to their day-to-day real life. For my album and future releases, I needed images that weren't reflective of the everyday me. I needed stylized images that fit the musician vibe. 
 
 To pull it off, I spent a lot of time in [Midjourney](https://www.zdnet.com/article/how-to-use-midjourney-to-generate-amazing-images-and-art/), with the help of [Insight FaceSwap](https://insightface.ai/) and [Adobe Generative Fill](https://www.zdnet.com/article/how-to-use-photoshops-generative-fill-ai-tool-to-easily-transform-your-boring-photos/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Midjourney for the main profile image 
 
@@ -264,6 +280,10 @@ But I loaded the image into Photoshop, added more canvas space on either side of
 
 Sweet. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Faceswap for the hacker image 
 
 Since my music bio talked about my techie roots, I decided that it needed a picture of me with a keyboard. Rather than starting with the previous radio show image I used to generate my hero image, I used the Midjourney URL of the actual hero image itself. I then fed Midjourney a ton of prompts until I arrived at: 
@@ -287,6 +307,10 @@ Then, using the /swapid command, I uploaded the hacker image from above and let 
 The original is on the left. The face match version is on the right. Because the one on the left is also based on my face, they're similar. But the one on the right is a bit more me.
 
 David Gewirtz via Midjourney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Midjourney, FaceSwap, and Generative Fill for the car image 
 
@@ -383,11 +407,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-veiled-side-of-instagram-stories-what-youre-not-seeing/"><u>[New] In 2024, The Veiled Side of Instagram Stories What You're Not Seeing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-smiles-to-text-where-to-find-amusing-tones-for-2024/"><u>[Updated] Smiles to Text Where to Find Amusing Tones for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-your-efficiency-with-these-must-have-zero-cost-chrome-extensions-from-zdnets-guide/"><u>Maximize Your Efficiency with These Must-Have Zero-Cost Chrome Extensions From ZDnet's Guide!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-efficiency-a-step-by-step-guide-to-activating-quick-meetings-in-google-calendar/"><u>Maximizing Efficiency: A Step-by-Step Guide to Activating Quick Meetings in Google Calendar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nailing-the-introduction-5-key-strategies-for-leaving-a-lasting-impact-at-your-first-job-with-zdnet-insights/"><u>Nailing the Introduction: 5 Key Strategies for Leaving a Lasting Impact at Your First Job with ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-job-market-with-confidence-how-linkedins-revamped-search-feature-shields-you-against-fraudulent-postings-insights-from-zdnet/"><u>Navigating the Job Market with Confidence: How LinkedIn's Revamped Search Feature Shields You Against Fraudulent Postings | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-with-celebrity-flair-how-to-integrate-master-chief-and-boy-george-into-waze-routes/"><u>Navigating with Celebrity Flair: How to Integrate Master Chief and Boy George Into Waze Routes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-converting-mts-files-for-imovie-compatibility/"><u>Step-by-Step Guide: Converting MTS Files for iMovie Compatibility</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 Without Passcode Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-new-features-in-visionos-2-revealed-during-wwdc-my-thoughts-on-exciting-additions-and-enigmatic-changes-cnet-tech-news/"><u>Unlocking New Features in VisionOS 2 Revealed During WWDC: My Thoughts on Exciting Additions and Enigmatic Changes | CNET Tech News</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-free-dual-screen-video-editing-software-web-and-desktop-for-2024/"><u>Updated Top Free Dual-Screen Video Editing Software Web & Desktop for 2024</u></a></li>
+</ul></div>
+

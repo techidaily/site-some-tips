@@ -1,7 +1,7 @@
 ---
 title: Is the Amazon Echo Show 15 an Upgrade Worth Having? Comprehensive Analysis and Reviews by ZDNet
-date: 2024-09-17 23:17:15
-updated: 2024-09-20 10:28:13
+date: 2025-01-05T17:36:27.901Z
+updated: 2025-01-12T19:33:10.269Z
 tags:
   - amazon
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/050481e4487bd18371847908da2a41ac56
 
 For the past month, I've had the Echo Show 15 up and running, both in a family setting and in my home office. It's been a tool I use for quickly checking my daily agenda and for checking on camera feeds from time to time. While I've found it useful, there are still some areas that need some work. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **A small TV or a very big smart display?**
 
 Jason Cipriani/ZDNet
@@ -53,6 +57,10 @@ Above the camera is where you'll find a few buttons to control volume levels and
 The camera leaves a lot to be desired in terms of photo or video quality, but it's good enough for casual calls with friends and family members. 
 
 I can't decide if it's better to view the Echo Show 15 as just the right size of a modern take on a small TV for the kitchen, or if it's just a really big smart display. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **A hub for your family… or not**
 
@@ -80,11 +88,19 @@ You can set up Visual ID for all family members linked to your Amazon account, i
 
 Visual ID is also available on the [Echo Show 10](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fecho-show-10%2Fdp%2FB07VHZ41L8%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd9c365c3-81bc-46a2-b117-5a131e0949c4%7Cdtp&dtb=1) and [Show 8](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Show-8-2nd-Gen-2021-release%2Fdp%2FB084DCJKSL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd9c365c3-81bc-46a2-b117-5a131e0949c4%7Cdtp&dtb=1), and, for me at least, it's become a must-use feature on the Echo Show 15\. Knowing that whenever I'm interacting with the Echo Show 15 the information that's presented is specific to me and my interests solves a problem I've long had with smart displays. That is, seeing random suggestions and content that is of no interest to me, or whoever is using the Echo Show at that time. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance can be hit or miss**
 
 As you can see, there are random hiccups like the blank space on the left side of the screen. 
 
 Jason Cipriani/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -99,6 +115,10 @@ At one point during my review, I asked Amazon PR about the sluggishness of the d
 What's frustrating about the Echo Show 15's performance is that there's zero rhyme or reason about why it slows down. It just does, and then it doesn't. I did notice there have been a couple of software updates for it since I first set it up, so it's possible that Amazon is slowly boosting performance and eliminating bugs that I've encountered. 
 
 [Buy the Echo Show 15 $249 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-echo-show-15-smart-display-with-alexa%2Fdp%2FB08MQLDFF6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd9c365c3-81bc-46a2-b117-5a131e0949c4%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bottom line**
 
@@ -129,11 +149,26 @@ I definitely see the need and value of a large smart display like the Echo Show 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>[New] 2024 Approved Secrets From the Pros High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-perfecting-youtube-visibility-a-step-by-step-featured-channels-guide/"><u>[Updated] In 2024, Perfecting YouTube Visibility A Step-by-Step Featured Channels Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-smile-generator-for-memes/"><u>2024 Approved Best Smile Generator for Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-top-tech-giants-apple-vs-dell-in-the-ultimate-2024-computer-showdown-insights-from-zdnet/"><u>Comparing Top Tech Giants: Apple Vs. Dell in the Ultimate 2024 Computer Showdown - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-shareable-online-laughter/"><u>In 2024, Sculpting Shareable Online Laughter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-seamless-video-editing-in-windows-10-without-expensive-software/"><u>In 2024, Seamless Video Editing in Windows 10 Without Expensive Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-latest-trends-for-successful-influencer-journeys-for-2024/"><u>Instagram's Latest Trends for Successful Influencer Journeys for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-free-wmv-video-concatenation-software/"><u>New 2024 Approved The Best Free WMV Video Concatenation Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/returning-the-apple-vision-pro-made-easy-expert-advice-by-zdnet/"><u>Returning the Apple Vision Pro Made Easy – Expert Advice by ZDNet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/smoothly-record-time-lapse-on-your-ipad/"><u>Smoothly Record Time-Lapse on Your iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/through-the-lens-of-a-day-long-apple-vision-pro-experience-expectations-vs-reality/"><u>Through the Lens of a Day-Long Apple Vision Pro Experience: Expectations Vs. Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-multi-compatible-magsafe-charger-with-qi-standards-is-revolutionizing-my-tech-on-the-go-experience/"><u>Why the Multi-Compatible MagSafe Charger with QI-Standards Is Revolutionizing My Tech On-The-Go Experience</u></a></li>
+</ul></div>
+

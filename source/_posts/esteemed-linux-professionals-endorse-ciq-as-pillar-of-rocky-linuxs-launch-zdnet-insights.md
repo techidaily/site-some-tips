@@ -1,7 +1,7 @@
 ---
 title: Esteemed Linux Professionals Endorse CIQ as Pillar of Rocky Linux's Launch | ZDNET Insights
-date: 2024-09-19 22:30:49
-updated: 2024-09-20 11:53:20
+date: 2025-01-10T18:28:49.933Z
+updated: 2025-01-12T18:28:42.986Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,31 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-from-puzzles-to-peril-the-gaming-genres-progression/"><u>[New] From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-most-trending-templates-transforming-social-video/"><u>[New] In 2024, The Most Trending Templates Transforming Social Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-compilation-of-the-best-10-image-sharing-sites/"><u>[Updated] A Compilation of the Best 10 Image Sharing Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideas-that-make-your-meme-go-global/"><u>2024 Approved Ideas That Make Your Meme Go Global</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-journey-to-youtubes-command-center-of-creativity/"><u>2024 Approved Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-vision-pro-review-roundup-the-verdict-after-testing-the-3500-innovative-ar-headset-insights-from-tech-experts/"><u>Apple Vision Pro Review Roundup: The Verdict After Testing the $3,500 Innovative AR Headset - Insights From Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-vr-experience-on-a-budget-the-revolutionary-50-meta-quest-3-adapter-for-glass-wearers-discover-more/"><u>Boost Your VR Experience on a Budget: The Revolutionary $50 Meta Quest 3 Adapter for Glass Wearers - Discover More »</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/commemorative-event-by-digiarty-for-its-18th-year-unveiling-exclusive-plans/"><u>Commemorative Event by Digiarty for Its 18Th Year - Unveiling Exclusive Plans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-unexpected-value-of-an-economical-xr-entertainment-center-a-closer-look-at-the-latest-gaming-and-media-platform/"><u>Discover the Unexpected Value of an Economical XR Entertainment Center: A Closer Look at the Latest Gaming and Media Platform!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-xr-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone XR Properly | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/logic-x-lore-guides-to-creating-crossfading-audio/"><u>Logic X Lore Guides to Creating Crossfading Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-access-to-steams-loaded-game-files/"><u>Re-Establishing Access to Steam's Loaded Game Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-2024-gardening-box-services-expert-picks/"><u>Top-Rated 2024 Gardening Box Services: Expert Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-kitchen-scraps-into-nutrient-rich-soil-an-in-depth-look-at-the-revolutionary-lomi-indoor-composter-the-verge/"><u>Transform Your Kitchen Scraps Into Nutrient-Rich Soil: An In-Depth Look at the Revolutionary Lomi Indoor Composter | The Verge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-lawn-care-routine-into-playtime-discover-the-joy-of-using-a-zdnet-rated-remote-controlled-lawnmower/"><u>Transform Your Lawn Care Routine Into Playtime! Discover the Joy of Using a ZDNET Rated Remote-Controlled Lawnmower</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-ranking-the-best-push-reel-mowers-for-your-yard-techreview/"><u>Ultimate Ranking: The Best Push Reel Mowers for Your Yard | TechReview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-unmatched-sound-and-convenient-power-on-the-go-with-the-newly-launched-tronsmart-force-x-outdoor-speaker-zdnet-insight/"><u>Unleash Unmatched Sound and Convenient Power On-The-Go with the Newly Launched Tronsmart Force X Outdoor Speaker | ZDNET Insight</u></a></li>
+</ul></div>
+

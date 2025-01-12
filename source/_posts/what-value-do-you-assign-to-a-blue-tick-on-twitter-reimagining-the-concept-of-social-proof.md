@@ -1,7 +1,7 @@
 ---
 title: "What Value Do You Assign to a Blue Tick on Twitter: Reimagining the Concept of Social Proof"
-date: 2024-09-19 14:59:57
-updated: 2024-09-20 10:54:38
+date: 2025-01-09T18:00:53.689Z
+updated: 2025-01-12T19:13:41.241Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ But Twitter has been under the proverbial microscope ever since Elon Musk announ
 
 **Also:** [**Elon Musk promises not to make Twitter a 'free-for-all hellscape'**](https://www.zdnet.com/article/elon-musk-promises-not-to-make-twitter-a-free-for-all-hellscape/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -37,6 +41,10 @@ So, for the company to be profitable in the long term, it needs an income stream
 While I will not rule out either of these two reasons as part of Musk's billionaire logic to justify his purchase of Twitter, let's take the acquisition at face value that the privatization of the company also means he wants to turn it around and transform the service into something people actually want to pay to use.
 
 **Also: [How to secure your Twitter account without two-factor authentication](https://www.zdnet.com/article/how-to-protect-your-twitter-account-without-sms-two-factor-authentication/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Twitter verification mean?
 
@@ -56,7 +64,15 @@ Other services like LinkedIn understand this need to sponsor the press and offer
 
 But what does paying to play for verification mean? Does it devalue those of us that "earned" that verification, the journalists and celebs with large fan bases? If anyone can be verified, that just means you have money to blow on a stupid icon. That includes hate-spewing misogynists, racists, antisemites, anti-LGBTQ+, and other extremists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I would pay for 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -80,11 +96,24 @@ _When it is released, will you "pay to play" for Twitter verification? Tell me b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860611023-updated-capture-your-screen-in-a-flash-free-no-hassle/"><u>[Updated] Capture Your Screen in a Flash - Free, No Hassle!</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-xs-100-i-shattering-boundaries-of-action-filming/"><u>2024 Approved XS 100 I Shattering Boundaries of Action Filming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-sims-4-video-gaming/"><u>Essential Tips for Sims 4 Video Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-novice-to-pro-your-snapseed-journey-starts-here/"><u>From Novice to Pro Your Snapseed Journey Starts Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/open-source-transformation-uncovered-key-statistics-and-analysis-from-zdnet/"><u>Open-Source Transformation Uncovered: Key Statistics and Analysis From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-in-business-insights-for-leaders-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech in Business | Insights for Leaders | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-key-insights-from-the-dissection-of-apple-vision-pro-by-ifixit-a-deep-dive-analysis/"><u>Top 5 Key Insights From the Dissection of Apple Vision Pro by IFixit - A Deep Dive Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-no-sound-in-lost-ark-learn-how-to-get-audio-functionality-back/"><u>Trouble With No Sound in Lost Ark? Learn How to Get Audio Functionality Back</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-next-level-virtual-reality-with-discounted-xr-glasses-on-prime-day-say-goodbye-to-fomo-and-limited-views/"><u>Unlock Next-Level Virtual Reality with Discounted XR Glasses on Prime Day - Say Goodbye to FOMO and Limited Views!</u></a></li>
+</ul></div>
+

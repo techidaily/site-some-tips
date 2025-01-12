@@ -1,7 +1,7 @@
 ---
 title: Score a Deal on the Latest Alexa-Enabled Smart Glasses with Amazon's Massive Spring Discount | Tech News - ZDNET
-date: 2024-09-19 10:50:38
-updated: 2024-09-20 11:51:38
+date: 2025-01-09T21:28:24.619Z
+updated: 2025-01-12T20:37:10.044Z
 tags:
   - amazon
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/fca50a2c73d7b3c1fb6d66ce7c11861a1c
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 * Starting at $230 during [Amazon's Big Spring Sale](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fevents%2Fbigspringsale%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C11727d6f-5add-4239-9180-f8061a7aa1be%7Cdtp&dtb=1), the [Amazon Echo Frames (3rd Gen)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Frames-3rd-Gen-Smart-audio-glasses-with-Alexa--Rectangle-frames-in-classic-black--with-prescription-ready-lenses%2Fdp%2FB09SVFX6VD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C11727d6f-5add-4239-9180-f8061a7aa1be%7Cdtp&dtb=1) are a natural way for glasses wearers to control their smart home, communicate with friends and family, and listen to audio wherever and whenever.
@@ -22,6 +26,10 @@ June Wan/ZDNET
 * While Alexa in your ears is no [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) voice assistant, it's capable enough to answer general questions and complete most smart home tasks.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -77,6 +85,10 @@ Besides the smart features, I've also enjoyed listening to podcasts and making c
 
 Lastly, I wish the button navigations weren't so complicated, but since I'm mainly using voice commands to get things done, the need to press the front or back button to accept and decline things (or mute the microphone) didn't bother me all that much. If you're coming from an older pair of Echo Frames, you'll have to retrain your muscle memory as the touch strip and swipe gestures are no more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 At a list price of $270 (but currently discounted to $230 during Amazon's Big Spring Sale), the [Echo Frames (3rd Gen)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Frames-3rd-Gen-Smart-audio-glasses-with-Alexa--Rectangle-frames-in-classic-black--with-prescription-ready-lenses%2Fdp%2FB09SVFX6VD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C11727d6f-5add-4239-9180-f8061a7aa1be%7Cdtp&dtb=1) aren't necessarily priced to compete. The list price is just $30 less than Meta's more capable [Ray-Ban smart glasses](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses). 
@@ -104,11 +116,33 @@ But there are two big things that Amazon's glasses have going for them: Alexa in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-online-team-interactions-for-2024/"><u>[New] Mastering Online Team Interactions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[Updated] 2024 Approved Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-should-you-keep-previewing-fb-activity-visible-insights/"><u>[Updated] Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y77t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y77t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-up-speed-strategies-to-revive-your-sluggish-pc/"><u>Dial Up Speed: Strategies to Revive Your Sluggish PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-enchanting-on-device-ai-photo-generator-outshining-dall-e-with-seamless-magic/"><u>Discover Apple's Enchanting On-Device AI Photo Generator: Outshining DALL-E with Seamless Magic!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-tv-remote-with-this-innovative-airtag-compatible-accessory-a-detailed-review/"><u>Enhance Your Apple TV Remote with This Innovative AirTag-Compatible Accessory: A Detailed Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-next-wave-of-smart-tech-how-ai-is-revolutionizing-iphone-macbook-and-ipad-insights-from-zdnet/"><u>Exploring the Next Wave of Smart Tech: How AI Is Revolutionizing iPhone, MacBook, and iPad - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hope-on-the-big-screen-top-10-cinematic-power-ups-for-2024/"><u>Hope on the Big Screen Top 10 Cinematic Power-Ups for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/satellite-emergency-texts-now-possible-on-the-newly-released-google-pixel-9-a-breakthrough-in-safety-technology/"><u>Satellite Emergency Texts Now Possible on the Newly Released Google Pixel 9 - A Breakthrough in Safety Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/savings-alert-the-unbeatable-80-off-on-apple-watch-series-se-2nd-gen-post-prime-day-exclusive-analysis-by-zdnet/"><u>Savings Alert: The Unbeatable $80 Off on Apple Watch Series SE (2Nd Gen) Post-Prime Day | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcome-the-red-screen-dilemma-on-your-computer/"><u>Step-by-Step Guide to Overcome the Red Screen Dilemma on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-now-holding-advanced-ai-tech-in-your-hands-by-2024-as-predicted-insights/"><u>The Future Is Now: Holding Advanced AI Tech in Your Hands by 2024 as Predicted Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-discounts-on-apple-products-for-july-2024-iphone-apple-watch-and-ipad-bargains-zdnet-insights/"><u>Top Discounts on Apple Products for July 2024: IPhone, Apple Watch & iPad Bargains | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-savings-on-amazon-exclusive-offers-of-august-2024-featured-by-zdnet/"><u>Top Savings on Amazon - Exclusive Offers of August 2024 Featured by ZDNet</u></a></li>
+</ul></div>
+

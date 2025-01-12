@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing Unveiled: A Comprehensive Guide on Understanding the Power of the Cloud - Insights by ZDNet"
-date: 2024-09-17 23:18:50
-updated: 2024-09-20 11:31:17
+date: 2025-01-11T20:35:15.696Z
+updated: 2025-01-12T17:18:08.667Z
 tags:
   - cloud
 categories:
@@ -107,6 +107,10 @@ Close Modal Dialog
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does cloud computing work?
 
 Rather than owning their own computing infrastructure or data centres, companies can rent access to anything from applications to storage from a cloud service provider.
@@ -163,9 +167,17 @@ Image: Canalys
 
 Canalys argues that there is already a new growth opportunity for cloud on the horizon, in the form of augmented and virtual reality and the metaverse. "This will be a significant driver for both cloud services spend and infrastructure deployment over the next decade. In many ways, the metaverse will resemble the internet today, with enhanced capabilities and an amplified compute consumption rate," [the analyst said](https://www.canalys.com/newsroom/global-cloud-services-Q4-2021).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the core elements of cloud computing?
 
 Cloud computing can be broken down into a number of different constituent elements, focusing on different parts of the technology stack and different use cases. Let's take a look at some of the best known in a bit more detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Infrastructure as a Service?
 
@@ -222,6 +234,10 @@ Of course, this doesn't mean that cloud computing is always or necessarily cheap
 
 * [Cloud computing spending is growing even faster than expected](https://www.zdnet.com/article/cloud-computing-spending-is-growing-even-faster-than-expected/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do you build a business case for cloud computing?
 
 To build a [business case for moving systems to the cloud](https://www.zdnet.com/article/cloud-computing-how-to-build-a-business-case/), you first need to understand what your existing infrastructure actually costs. There's a lot to factor in: obvious things like the cost of running data centres, and extras such as leased lines. The cost of physical hardware – servers and details of specifications like CPUs, cores and RAM, plus the cost of storage. You'll also need to calculate the cost of applications, whether you plan to dump them, re-host them in the cloud unchanged, completely rebuilding them for the cloud, or buy an entirely new SaaS package. Each of these options will have different cost implications. The cloud business case also needs to include people costs (often second only to the infrastructure costs) and more nebulous concepts like the benefit of being able to provide new services faster. Any cloud business case should also factor in the potential downsides, including the risk of being locked into one vendor for your tech infrastructure (see multi-cloud, above).
@@ -236,6 +252,10 @@ Analysts argue that as the cloud now underpins most new technological disruption
 And if that sounds unrealistic, it may be that figures on adoption of cloud depend on who you talk to inside an organisation. Not all cloud spending will be driven centrally by the CIO: cloud services are relatively easy to sign-up for, so business managers can start using them, and pay out of their own budget, without needing to inform the IT department. This can enable businesses to move faster, but also can create security risks if the use of apps is not managed.
 
 Adoption will also vary by application: cloud-based email is much easier to adopt than a new finance system, for example. And for systems such as supply chain management, that are working efficiently as they are, there will be less short-term pressure to do a potentially costly and risky shift to the cloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What about cloud-computing security?
 
@@ -267,6 +287,10 @@ Private cloud allows organizations to benefit from some of the advantages of pub
 * [What does 'hybrid cloud' mean? It depends on whom you ask](https://www.zdnet.com/article/what-does-hybrid-cloud-mean-it-depends-on-whom-you-ask/)
 * [Managing the multi-cloud: It's complicated](https://www.zdnet.com/article/beyond-cloud-theres-multi-cloud-beyond-multi-cloud-theres-managing-it-all/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the cloud-computing migration costs?
 
 For startups that plan to run all their systems in the cloud, getting started is pretty simple. But the majority of companies, it is not so simple: with existing applications and data, they need to work out which systems are best left running as they are, and which to start moving to cloud infrastructure. This is a potentially risky and expensive move, and migrating to the cloud could cost companies more if they underestimate the scale of such projects.
@@ -278,6 +302,10 @@ Beyond this, the majority also remained worried about the performance of critica
 * [Cloud computing migration: More expensive and complicated than you thought](https://www.zdnet.com/article/cloud-computing-migration-more-expensive-and-complicated-than-you-thought/)
 * [Technology migrations are more painful, and cloud isn't making them any easier](https://www.zdnet.com/article/technology-migrations-are-more-painful-and-cloud-isnt-making-them-any-easier/)
 * [Where does the NAS fit in an increasingly cloud-centric world?](https://www.zdnet.com/article/where-does-the-nas-fit-in-an-increasingly-cloud-centric-world-small-business/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is geography irrelevant when it comes to cloud computing?
 
@@ -310,6 +338,10 @@ When it comes to IaaS and PaaS, there are really only a few giant cloud provider
 
 Image: Synergy Research
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AWS, Azure and Google Cloud – what's the difference?
 
 The big three cloud companies all have their own strengths. AWS is the most established player and was behind Amazon's ability to support huge seasonal swings in demand from consumers. Being first out to market with cloud services and pushing hard to gain market share has made it the market leader, and it continues to innovate. Microsoft's Azure has become an absolutely core part of Microsoft's strategy, and the company has the enterprise history and products to support businesses as they switch to the cloud. Google Cloud is the smallest of the big three players, but clearly has the might of the advertising-to-Android giant behind it.
@@ -330,6 +362,10 @@ Cloud computing is reaching the point where it is likely to account for more of 
 * [Cloud computing switch as digital transformation takes priority](https://www.zdnet.com/article/cloud-computing-switch-as-digital-transformation-takes-priority/)
 * [Moving to the cloud? Some advice to consider](https://www.zdnet.com/article/moving-to-the-cloud-some-advice-to-consider/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cloud-computing case studies**
 
 There are plenty of examples of organisations deciding to go down the cloud-computing route: here are a few examples of recent announcements.
@@ -340,6 +376,10 @@ There are plenty of examples of organisations deciding to go down the cloud-comp
 * [Marketo to migrate to Google Cloud as part of multi-year deal](https://www.zdnet.com/article/marketo-to-migrate-to-google-cloud-in-multi-year-deal/)
 * [AWS infrastructure is now behind three main streaming media providers](https://www.zdnet.com/article/aws-infrastructure-is-now-behind-three-main-streaming-media-providers/)
 * [American Airlines to move consumer-facing apps to IBM Cloud, says Cloud Foundry key](https://www.zdnet.com/article/american-airlines-to-move-consumer-facing-apps-to-ibm-cloud-says-cloud-foundry-key/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -366,11 +406,31 @@ Trying to understand and articulate the differences between public, private, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mellow-music-playlist-20-tiktok-country-tracks-to-relax-with/"><u>[New] 2024 Approved Mellow Music Playlist 20 TikTok Country Tracks to Relax With</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-highlighting-the-top-10-budget-friendly-video-communication-platforms-for-industry-and-academia-for-2024/"><u>[New] Highlighting the Top 10 Budget-Friendly Video Communication Platforms For Industry & Academia for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725290225822-dvd/"><u>「ダビングガイド: DVD、動画、オーディオ再生手順一覧」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-showdown-comparing-top-chatbots-chatgpt-microsoft-copilot-and-gemini/"><u>AI Showdown: Comparing Top Chatbots - ChatGPT, Microsoft Copilot & Gemini</u></a></li>
+<li><a href="https://some-tips.techidaily.com/designing-tailored-ai-companions-using-geminis-powerful-gems-expert-insights-from-zdnet/"><u>Designing Tailored AI Companions Using Geminis' Powerful Gems | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-ai-is-revolutionizing-google-photo-organization-and-accessibility-insights-from-zdnet/"><u>Discover How AI Is Revolutionizing Google Photo Organization and Accessibility - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-to-start-using-googles-gemini-chatbot-immediately-at-no-cost-a-comprehensive-guide-on-zdnet/"><u>Discover How to Start Using Google's Gemini Chatbot Immediately at No Cost – A Comprehensive Guide on ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-nord-n30-se-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus Nord N30 SE Device SIM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-language-tools-how-to-contribute-words-to-google-dicts-glossary/"><u>Enhancing Language Tools: How to Contribute Words to Google Dict's Glossary</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>In 2024, Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-meizu-21-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Meizu 21 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneers-in-tech-their-take-on-the-rise-of-ai/"><u>Pioneers in Tech: Their Take on the Rise of AI</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-c210-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia C210</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-constant-audio-interruptions-on-your-windows-11-system-a-step-by-step-guide/"><u>Resolving Constant Audio Interruptions on Your Windows 11 System - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tag-heuer-calibre-e4-with-golf-mode-an-exclusive-review-of-the-stylish-and-functional-wearable-for-golf-enthusiasts-on-zdnet/"><u>Tag Heuer Calibre E4 with Golf Mode - An Exclusive Review of the Stylish and Functional Wearable for Golf Enthusiasts on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-top-airtags-choices-for-android-enthusiasts-discover-whats-new-on-zdnet/"><u>The Ultimate Guide: Top AirTags Choices for Android Enthusiasts - Discover What's New on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-google-pixel-smartphones-comprehensive-reviews-by-tech-gurus-at-zdnet/"><u>Top-Ranking Google Pixel Smartphones - Comprehensive Reviews by Tech Gurus at ZDNet</u></a></li>
+</ul></div>
+

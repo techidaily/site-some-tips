@@ -1,7 +1,7 @@
 ---
 title: Experts Highlight Disturbing Trend of Inadequate Cloud Protection Against Accelerating AI Risks - Insights From ZDNet
-date: 2024-09-18 12:56:27
-updated: 2024-09-20 11:30:56
+date: 2025-01-11T20:34:49.349Z
+updated: 2025-01-12T18:08:53.326Z
 tags:
   - cloud
 categories:
@@ -103,11 +103,31 @@ Phishing and social engineering was the top concern at 38.5%, followed by ransom
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-11-zero-cost-youtube-moniker-makers/"><u>[New] 2024 Approved Essential 11 Zero-Cost YouTube Moniker Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-imovie-masterclass-drawing-viewers-into-your-content-quickly/"><u>[Updated] IMovie Masterclass Drawing Viewers Into Your Content Quickly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mac-techniques-to-shorten-instagram-vids-for-2024/"><u>[Updated] Mac Techniques to Shorten Instagram Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-month-with-google-pixel-9-pro-xl-after-switching-from-samsung-galaxy-s24-ultra-my-unforgettable-experience-zdnet/"><u>A Month with Google Pixel 9 Pro XL After Switching From Samsung Galaxy S24 Ultra – My Unforgettable Experience [ZDNet]</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-fresh-dj-takes-with-the-pcdj-newsletter/"><u>Discover Fresh DJ Takes with the PCDJ Newsletter</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-simplified-instructions-for-saving-phone-calls-on-iphone/"><u>New In 2024, Simplified Instructions for Saving Phone Calls on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-watch-and-galaxy-watch-5-pro-showdown-can-google-outshine-samsungs-latest-wearable-tech-zdnet/"><u>Pixel Watch and Galaxy Watch 5 Pro Showdown: Can Google Outshine Samsung's Latest Wearable Tech? - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-phones-battery-endurance-with-these-simple-android-adjustments-expert-insights-from-zdnet/"><u>Revolutionize Your Phone's Battery Endurance with These Simple Android Adjustments - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sale-alert-exclusive-350-motorola-smartphone-with-integrated-stylus-and-enhanced-memory-capacity-surpassing-top-models-shop-now/"><u>Sale Alert: Exclusive $350 Motorola Smartphone with Integrated Stylus & Enhanced Memory Capacity Surpassing Top Models – Shop Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/showdown-of-giants-pixel-9-pro-xl-vs-iphone-15-pro-cameras-reveal-unexpected-victor/"><u>Showdown of Giants: Pixel 9 Pro XL Vs. IPhone 15 Pro Cameras Reveal Unexpected Victor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-chatgpt-strategies-for-sports-buffs/"><u>Tailored ChatGPT Strategies for Sports Buffs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-insiders-guide-to-ultimate-audio-equipment/"><u>The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-notebooklm-interactive-chatbot-by-google-for-personal-note-management-get-the-exclusive-guide/"><u>Unveiling NotebookLM: Interactive Chatbot by Google for Personal Note Management - Get the Exclusive Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

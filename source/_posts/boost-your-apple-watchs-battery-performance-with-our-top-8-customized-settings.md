@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Performance with Our Top 8 Customized Settings
-date: 2025-01-04T00:12:14.521Z
-updated: 2025-01-06T06:03:30.253Z
+date: 2025-01-11T17:31:52.581Z
+updated: 2025-01-12T19:56:54.645Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -47,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -65,10 +61,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -89,7 +81,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -106,6 +98,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -115,7 +111,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -123,6 +119,10 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,18 +165,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-quick-cuts-editing-instagram-videos-on-macos/"><u>[New] 2024 Approved Quick Cuts Editing Instagram Videos on macOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tailored-ending-scenes-get-em-for-free/"><u>2024 Approved Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/5-tips-for-correcting-pet-eye-issues-in-photos/"><u>5 Tips for Correcting Pet Eye Issues in Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-rolls-out-affordable-monthly-unlimited-grocery-service-for-999plus-is-it-a-game-changer-in-online-shopping/"><u>Amazon Rolls Out Affordable Monthly Unlimited Grocery Service for $9.99+ - Is It a Game Changer in Online Shopping?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-practice-animation-series/"><u>Best Practice Animation Series</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dmmdrm/"><u>DMM動画のDRM除去方法 - 安定してダウンロード可能な高品質再生ガイド</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-frozen-frontiers-highlights-from-beijings-winter-games/"><u>In 2024, Frozen Frontiers Highlights From Beijing's Winter Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mcdonalds-rival-outshines-with-latest-revelation-burger-kings-humiliating-blow/"><u>McDonald's Rival Outshines with Latest Revelation: Burger King's Humiliating Blow</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-130-music-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia 130 Music Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/snag-a-bargain-secure-your-new-echo-dot-at-only-18-on-amazon-prime-day-special/"><u>Snag a Bargain: Secure Your New Echo Dot at Only $18 on Amazon – Prime Day Special!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/techniques-for-transforming-twitter-vids-to-mp3-audios-for-2024/"><u>Techniques for Transforming Twitter Vids to MP3 Audios for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-how-singapore-is-testing-smart-digital-currencies-in-the-real-world-a-closer-look-at-innovation-trials/"><u>ZDNet: How Singapore Is Testing Smart Digital Currencies in the Real World - A Closer Look at Innovation Trials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-crusade-againnst-phony-businesses-in-the-virtual-and-physical-realm-of-fraud-protection/"><u>ZDNet's Crusade Againnst Phony Businesses in the Virtual & Physical Realm of Fraud Protection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-handbook-obspluszoom-collaboration/"><u>[New] 2024 Approved The Ultimate Handbook OBS+Zoom Collaboration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-learners-handbook-of-av1-technology-for-2024/"><u>[New] The Learner's Handbook of AV1 Technology for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-troubleshooting-tips-for-win-11s-stubborn-photos-app/"><u>[New] Troubleshooting Tips for Win 11'S Stubborn Photos App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-novice-to-pro-youtube-shorts-guide/"><u>[Updated] 2024 Approved From Novice to Pro YouTube Shorts Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-premiere-experts-exceptional-instagram-highlight-craftsmen-for-2024/"><u>[Updated] Premiere Experts Exceptional Instagram Highlight Craftsmen for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-new-era-of-preventative-care-quick-health-assessment-begins-with-public-bathroom-visit-revealed/"><u>A New Era of Preventative Care: Quick Health Assessment Begins With Public Bathroom Visit, Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immersive-entertainment-or-overwhelming-my-journey-watching-a-beloved-show-on-the-apple-vision-pro-insights-for-zdnet-readers/"><u>Immersive Entertainment or Overwhelming? My Journey Watching a Beloved Show on the Apple Vision Pro – Insights for ZDNET Readers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lighten-spirits-with-adobes-meme-magic/"><u>In 2024, Lighten Spirits with Adobe's Meme Magic</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/india-affiliate-summit-maximizing-earnings-with-massmail-software-solutions/"><u>India Affiliate Summit: Maximizing Earnings with MassMail Software Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-innovation-leaderboard-samsungs-ai-surge-vs-googles-legal-hurdles-exclusive-analysis-by-zdnet/"><u>Navigating the Innovation Leaderboard: Samsung's AI Surge Vs. Google’s Legal Hurdles, Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/put-an-end-to-unwanted-sms-blocking-spam-messages-on-iphone-with-three-simple-methods-insights/"><u>Put an End to Unwanted SMS: Blocking Spam Messages on iPhone with Three Simple Methods - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-rides-how-photochromic-lenses-transformed-my-cycling-experience-with-a-hud-on-my-bike-tech-insights/"><u>Revolutionizing Rides: How Photochromic Lenses Transformed My Cycling Experience with a HUD on My Bike | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-with-one-failing-we-have-two-functioning-capacitors-in-parallel-so-ctotal-c-plus-c-2c-the-remaining-energy-is-e-12-2cv2-cv2/"><u>Solution: With One Failing, We Have Two Functioning Capacitors in Parallel, so C_total = C + C = 2C. The Remaining Energy Is E = 1/2 (2C)V^2 = CV^2.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-tutorial-on-making-an-impact-with-instagram-live/"><u>The Ultimate Tutorial on Making an Impact with Instagram Live</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-mobile-devices-expert-picks/"><u>Top Kid-Friendly Mobile Devices: Expert Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-straps-in-depth-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Straps : In-Depth Reviews by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charger-options-rigorously-tested-by-professionals/"><u>Ultimate Guide to the Most Efficient Wireless Charger Options , Rigorously Tested by Professionals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-security-the-pros-and-cons-of-battery-based-google-wireless-nest-doorbells/"><u>Unpacking Security: The Pros and Cons of Battery-Based Google Wireless Nest Doorbells</u></a></li>
 </ul></div>
 

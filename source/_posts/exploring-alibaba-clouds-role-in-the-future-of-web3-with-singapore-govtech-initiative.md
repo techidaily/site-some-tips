@@ -1,7 +1,7 @@
 ---
 title: Exploring Alibaba Cloud's Role in the Future of Web3 with Singapore GovTech Initiative
-date: 2024-09-18 12:36:58
-updated: 2024-09-20 12:56:37
+date: 2025-01-05T16:40:10.007Z
+updated: 2025-01-12T16:12:56.606Z
 tags:
   - cloud
 categories:
@@ -29,6 +29,10 @@ Stressing that Web3 still was evolving and its development in the early stage, X
 
 This would be centred on the need to build applications quickly on blockchain, he said, adding that Alibaba would look to push out more API services and developer toolkits to support this. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Looking to support Singapore government cloud move
 
 The Chinese cloud vendor also expressed a keen interest to participate in Singapore's efforts to move its government services to cloud platforms. 
@@ -49,6 +53,10 @@ Wang added that Alibaba's research arm Damo Academy has a team in Singapore work
 
 Xiao also pointed to Alibaba's experience in providing e-government services in China and other global markets, offering use cases that could be deployed in Singapore. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Singapore government pushes on with cloud migration](https://www.zdnet.com/article/singapore-government-pushes-on-with-cloud-migration/)
@@ -64,11 +72,26 @@ Xiao also pointed to Alibaba's experience in providing e-government services in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-free-guide-to-conducting-flawless-google-meet-sessions/"><u>[New] The Free Guide to Conducting Flawless Google Meet Sessions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-thieye-t5-versus-jcb-xs30-best-choice/"><u>[Updated] 2024 Approved Thieye T5 Versus JCB XS30 Best Choice?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-panorama-pixels-cutting-edge-photo-assembler/"><u>[Updated] In 2024, Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>2024 Approved Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-high-quality-bluetooth-headphones-for-summer-2022-best-audio-gear-reviewed-by-zdnet/"><u>Affordable High-Quality Bluetooth Headphones for Summer 2022: Best Audio Gear Reviewed by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buyable-innovations-from-ces-202n-top-gadgets-and-technologies-available-immediately/"><u>Buyable Innovations From CES 202N: Top Gadgets and Technologies Available Immediately</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/convert-your-room-into-a-professional-studio-via-vlc-for-2024/"><u>Convert Your Room Into a Professional Studio via VLC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/economical-summer-sound-solutions-top-picks-for-budget-friendly-bluetooth-audio-devices-cnet-reviews/"><u>Economical Summer Sound Solutions: Top Picks for Budget-Friendly Bluetooth Audio Devices – CNET Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-words-to-works-of-art-creating-striking-visuals-with-ease-using-chatgpt/"><u>From Words to Works of Art: Creating Striking Visuals with Ease Using ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-razer-leviathan-v2-soundbar-analysis-a-spectrum-of-visuals-and-audio-performance-zdnet/"><u>In-Depth Razer Leviathan V2 Soundbar Analysis: A Spectrum of Visuals & Audio Performance - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-your-smart-home-with-the-affordable-30-echo-dot-offer-insights-for-tech-enthusiasts-zdnet/"><u>Maximize Your Smart Home with the Affordable $30 Echo Dot Offer – Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-essential-review-of-screen-recorders-for-mp4/"><u>The Essential Review of Screen Recorders for MP4</u></a></li>
+</ul></div>
+

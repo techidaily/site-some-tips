@@ -1,7 +1,7 @@
 ---
 title: Secure Your Kubernetes Deployments with Codenotary's New SBOM Service Feature | Cybersecurity News on ZDNet
-date: 2024-09-17 14:41:25
-updated: 2024-09-20 10:49:46
+date: 2025-01-07T19:30:00.664Z
+updated: 2025-01-12T18:30:25.502Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/df9613a0c2aaec5985230e010833ea4d58
 ## Secure Your Kubernetes Deployments with Codenotary's New SBOM Service Feature | Cybersecurity News on ZDNet
 
 Software Bill of Materials (SBOM)s aren't optional anymore. If we really want the applications we're running in containers to be secure, we must know what's what within them. To make that easier, [Codenotary](https://codenotary.com/), a leading software supply chain security company, is launching its new [SBOM Operator](https://github.com/ckotzbauer/sbom-operator) for Kubernetes in both its open-source [Community Attestation Service](https://cas.codenotary.com/) and its flagship service, Codenotary's [Trustcenter](https://codenotary.com/products/ci-cd/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Source
 
@@ -48,11 +52,31 @@ This is another step forward in Codenotary's efforts to provide comprehensive to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ccess-exclusive-video-artwork-free-flawless-and-fast-for-2024/"><u>[New] Access Exclusive Video Artwork – Free, Flawless, and Fast for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-breaking-down-instagrams-timeframe-per-video/"><u>[New] In 2024, Breaking Down Instagram's Timeframe Per-Video</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-the-craft-of-online-title-perfection/"><u>[New] In 2024, Mastering the Craft of Online Title Perfection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-10-enterprise-cloud-options/"><u>[New] In 2024, Top 10 Enterprise Cloud Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-any-role-talk-strategies-for-conquering-the-who-am-i-job-interview-question-forbes/"><u>Ace Any Role Talk: Strategies for Conquering the Who Am I? Job Interview Question | Forbes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/becoming-a-chief-ai-officer-the-pathway-to-leadership-in-artificial-intelligence-roles/"><u>Becoming a Chief AI Officer - The Pathway to Leadership in Artificial Intelligence Roles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-gpt-assist-in-finalizing-writings/"><u>Can GPT Assist in Finalizing Writings?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-proof-your-career-embrace-being-an-ai-architect-and-user-at-work/"><u>Future-Proof Your Career: Embrace Being an AI Architect & User at Work!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-for-quick-and-simple-upgrade-to-windows-1011-for-desktops-and-laptops/"><u>Guide for Quick & Simple Upgrade to Windows 10/11 for Desktops and Laptops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-balancing-ambient-sound-on-windowsos-x-machines/"><u>In 2024, Balancing Ambient Sound on Windows/OS X Machines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi 12 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-automation-in-it-save-16-and-boost-efficiency-using-windows-powershell-exclusive-offer-on-zdnet/"><u>Mastering Automation in IT: Save $16 & Boost Efficiency Using Windows PowerShell - Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nail-your-next-tech-interview-a-step-by-step-guide-to-masterful-applications-with-expert-tips-from-zdnet/"><u>Nail Your Next Tech Interview: A Step-by-Step Guide to Masterful Applications with Expert Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-dream-job-in-technology-a-strategic-guide-to-joining-microsofts-talent-pool/"><u>Securing Your Dream Job in Technology: A Strategic Guide to Joining Microsoft's Talent Pool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-work-exploring-unconventional-and-mysterious-new-ai-influenced-careers/"><u>The Future of Work: Exploring Unconventional & Mysterious New AI-Influenced Careers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-core-of-success-insider-tips-on-launching-your-apple-job-journey-techinsight/"><u>Unlocking the Core of Success: Insider Tips on Launching Your Apple Job Journey | TechInsight</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2025-01-05T01:22:38.898Z
-updated: 2025-01-05T19:56:19.957Z
+date: 2025-01-09T19:49:20.855Z
+updated: 2025-01-12T16:05:43.408Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -50,7 +50,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -65,10 +65,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -76,6 +72,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -96,7 +96,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -104,7 +104,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -157,20 +157,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/celebrating-60-years-of-basic-how-simple-design-propelled-success-and-presented-challenges/"><u>Celebrating 60 Years of BASIC: How Simple Design Propelled Success & Presented Challenges</u></a></li>
-<li><a href="https://some-tips.techidaily.com/combating-developer-burnout-innovative-strategies-employed-by-tech-firms-zdnet/"><u>Combating Developer Burnout: Innovative Strategies Employed by Tech Firms | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expanding-developer-tools-discover-how-googles-project-indexed-idx-now-includes-ios-and-android-emulators-with-enhanced-template-options-zdnet-insights/"><u>Expanding Developer Tools: Discover How Google's Project Indexed (IDX) Now Includes iOS & Android Emulators with Enhanced Template Options - ZDNet Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-picks-5-exceptional-vpns-that-transform-your-youtube-watching-habits/"><u>Expert Picks: 5 Exceptional VPNs That Transform Your YouTube Watching Habits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expertly-selected-the-ultimate-list-of-2022s-best-coding-bootcamps-for-your-tech-career-zdnet/"><u>Expertly Selected: The Ultimate List of 2022'S Best Coding Bootcamps for Your Tech Career | ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A14 4G</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>In 2024, Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-6s-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 6s Plus with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-debates-in-defining-open-source-ai-major-strides-and-dissenting-voices-featured-on-zdnet/"><u>Navigating the Debates in Defining Open Source AI: Major Strides & Dissenting Voices | Featured on ZDNET</u></a></li>
-<li><a href="https://solve-info.techidaily.com/recomendacoes-gratis-para-restaurar-itens-apagados-no-windows-10-abordagens-eficazes-em-5-pontos/"><u>Recomendações Grátis Para Restaurar Itens Apagados No Windows 10 - Abordagens Eficazes Em 5 Pontos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-thinkphone-by-fonelab-android-recover-data/"><u>Recover lost data from ThinkPhone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-update-process-for-epson-xp-440-drivers-heres-how/"><u>Seamless Update Process for Epson XP-440 Drivers - Here's How</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726808666644-understanding-immutable-linux-distributions-benefits-and-use-cases/"><u>Understanding Immutable Linux Distributions - Benefits and Use Cases</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-openstack-and-kata-containers-are-catching-on-again-the-new-era-of-enterprise-compute-solutions-zdnet-insights/"><u>Why OpenStack and Kata Containers Are Catching On Again - The New Era of Enterprise Compute Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hidden-whatsapp-gems-top-tricks-to-enhance-your-messaging-experience/"><u>[New] Hidden WhatsApp Gems Top Tricks to Enhance Your Messaging Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-close-up-mastery-in-video-production-via-videoleap/"><u>2024 Approved Close-Up Mastery in Video Production via Videoleap</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-shots-with-ios-a-guide-to-iphone-cropping-features/"><u>2024 Approved Perfect Shots with iOS A Guide to iPhone Cropping Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/deciding-on-your-ideal-tablet-in-depth-comparison-of-apples-latest-ipad-pro-models-with-m1-and-m2-processors-expert-review-by-zdnet/"><u>Deciding on Your Ideal Tablet: In-Depth Comparison of Apple's Latest iPad Pro Models with M1 & M2 Processors | Expert Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-high-tech-2023-gift-ideas-perspective/"><u>Discover the Ultimate List of High-Tech 2023 Gift Ideas Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-enhancements-top-new-functionalities-of-apples-watchos-11-revealed-zdnet/"><u>Exciting Enhancements: Top New Functionalities of Apple's WatchOS 11 Revealed | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-showdown-which-is-better-the-new-m3-or-last-years-m2-deciding-on-apples-latest-laptops-cnet/"><u>MacBook Air Showdown: Which Is Better, The New M3 or Last Year's M2? Deciding on Apple’s Latest Laptops | CNET</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-audio-editing-essentials-learn-l-cuts-and-j-cuts-for-2024/"><u>New FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-im-choosing-the-new-iphone-16-pro-instead-of-max-apples-persuasive-argument-unveiled-tech-insights-by-zdnet/"><u>Why I'm Choosing the New iPhone 16 Pro Instead of Max : Apple's Persuasive Argument Unveiled | Tech Insights by ZDNet</u></a></li>
 </ul></div>
 

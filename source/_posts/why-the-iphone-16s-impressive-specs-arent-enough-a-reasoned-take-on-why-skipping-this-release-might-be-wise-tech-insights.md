@@ -1,7 +1,7 @@
 ---
 title: "Why the iPhone 16'S Impressive Specs Aren't Enough: A Reasoned Take on Why Skipping This Release Might Be Wise | Tech Insights"
-date: 2024-09-17 20:39:51
-updated: 2024-09-20 10:14:15
+date: 2025-01-08T20:29:27.712Z
+updated: 2025-01-12T16:08:23.325Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -77,6 +85,10 @@ The biggest problem -- other than the fact that you need new iPhone hardware to 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cloud-based AI writing tools: No need for new hardware
 
 While Apple emphasizes its on-device AI processing, many AI tools people already use today are cloud-based, meaning they don't need the latest hardware. As mentioned earlier, an important distinction about cloud-based gen AI writing tools is that they have much more robust LLMs backing them up, to the tune of hundreds of billions of parameters, compared with the 3B parameter model in Apple Intelligence.
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,29 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dish-on-titles-crafting-captivating-cookery-channel-names/"><u>[New] 2024 Approved Dish on Titles Crafting Captivating Cookery Channel Names</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-techniques-to-halt-video-ad-interruptions-on-social-media/"><u>[Updated] 2024 Approved Techniques to Halt Video Ad Interruptions on Social Media</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-apply-spiral-depth-enhancement-to-images-psx/"><u>2024 Approved Apply Spiral Depth Enhancement to Images PSX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-leveraging-zoom-for-optimal-productivity-in-win11-environments/"><u>2024 Approved Leveraging Zoom for Optimal Productivity in Win11 Environments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/audiophiles-choice-for-wireless-turntables-in-202n-expert-reviews-and-guides-cnet/"><u>Audiophile's Choice for Wireless Turntables in 202N: Expert Reviews and Guides | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-alternative-to-bose-and-sony-with-zdnets-top-portable-speaker-pick/"><u>Discover the Best Alternative to Bose and Sony with ZDNet's Top Portable Speaker Pick!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-amazon-echo-devices-for-optimal-audio-performance-this-year-best-picks-insights-from-zdnet/"><u>Discover the Leading Amazon Echo Devices for Optimal Audio Performance This Year (Best Picks) | Insights From ZDNET</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-seo-services-providers-in-iraqs-capital-discover-top-choices-with-seo-powersuite/"><u>Leading SEO Services Providers in Iraq's Capital: Discover Top Choices with SEO PowerSuite</u></a></li>
+<li><a href="https://win-trending.techidaily.com/png-datei-wiederherstellen-anleitung-fur-windows-10-und-11-benutzer/"><u>PNG Datei Wiederherstellen: Anleitung Für Windows 10 Und 11 Benutzer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ranking-up-the-loudest-alternative-to-sonos-and-bose-bluetooth-speakers-insider-info-from-zdnet-tests/"><u>Ranking Up: The Loudest Alternative to Sonos and Bose Bluetooth Speakers - Insider Info From ZDNet Tests!</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-wi-fi-bluetooth-speakers-your-ultimate-guide-zdnet-review/"><u>Top Rated Wi-Fi Bluetooth Speakers: Your Ultimate Guide (ZDNet Review)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-non-sony-non-bose-soundbar-offers-ultimate-audio-experience-a-review-zdnet/"><u>Top-Rated Non-Sony, Non-Bose Soundbar Offers Ultimate Audio Experience: A Review | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-portable-audio-systems-zdnets-ultimate-list/"><u>Top-Rated Portable Audio Systems : ZDNet's Ultimate List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vn-video-editor-android-app-is-it-worth-downloading-for-2024/"><u>Updated VN Video Editor Android App Is It Worth Downloading for 2024</u></a></li>
+</ul></div>
+

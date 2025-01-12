@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Now: When Will Smart Homes Go Beyond Cookies to Sandwich Making?"
-date: 2024-09-19 18:49:44
-updated: 2024-09-20 12:33:28
+date: 2025-01-05T17:36:27.255Z
+updated: 2025-01-12T16:12:33.540Z
 tags:
   - amazon
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
 ## The Future Is Now: When Will Smart Homes Go Beyond Cookies to Sandwich Making?
 
 I have a lot of Alexas. Oh, it's not just because I'm a reviewer, and Amazon keeps sending me devices to review. It's because I purposely bought an Alexa device for every room of the house. And yes, in _there_ too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -24,6 +28,10 @@ And it's not like Amazon is going to pick up on my secret shopping preferences. 
 We find Alexa necessary in every room because we use it to set timers, set reminders, operate [all our lights and thermostats](https://www.zdnet.com/article/extreme-nest-take-nest-to-the-next-level-with-zones-and-sensors/), and intercom across the house. Plus, you never know when a math problem needs to be solved. And yes, even in _there_.
 
 **Also: [This Alexa-controlled smart fan is the luxury I didn't know I needed](https://www.zdnet.com/home-and-office/smart-home/alexa-controlled-fan-is-the-smart-home-luxury-i-didnt-know-i-needed/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alexa in the kitchen 
 
@@ -49,6 +57,10 @@ I'll admit, it's kind of dumb. It knows "cook" and "microwave" as commands, but 
 
 To be fair, there's no good reason for an Alexa-enabled microwave. That said, I haven't pushed a button on the microwave since the day we installed it. I'm not a caveman. I don't need to press buttons on a touchpad. Instead, every morning I ask, "Alexa, cook for 90 seconds," and she heats up my bowl of oatmeal. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Our latest addition 
 
 Our latest addition to the pantheon of robotic cooking devices is an air fryer. I wasn't exactly sold on the idea of an air fryer, but my wife wanted to try one. Let me tell you; air fried chicken thighs are incredibly delicious and easy to make. 
@@ -68,6 +80,10 @@ As with the microwave, I initially thought the Alexa integration was a joke feat
 That said, the documentation is written as if the device wasn't ever Alexa enabled. There are nods to smart functioning, but it's clear that the same tech writers who've been writing appliance documentation since the 1990s wrote the docs for this device as well. 
 
 **Also: [Best Amazon Echo 2022: Which Alexa device is right for you?](https://www.zdnet.com/article/best-echo/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make me a sandwich 
 
@@ -102,11 +118,28 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-your-powerpoint-to-video-journey/"><u>[Updated] Streamlining Your PowerPoint to Video Journey</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-guide-recording-youtube-videos-on-screencasts/"><u>2024 Approved Free Guide Recording YouTube Videos on Screencasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/8-effective-remedies-for-stabilizing-vrchat-performance-on-personal-computers/"><u>8 Effective Remedies for Stabilizing VRChat Performance on Personal Computers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/ddocslivenet/"><u>過去の問題解決 - d.docs.live.netへの安定接続</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-tablet-showdown-of-2024-in-depth-comparisons-and-ratings-zdnet/"><u>Affordable Tablet Showdown of 2024: In-Depth Comparisons and Ratings | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-powerful-perks-why-you-need-an-apple-watch-says-industry-expert/"><u>Discover the Powerful Perks: Why You Need an Apple Watch, Says Industry Expert</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-the-breakthrough-technology-for-on-the-go-wellness-assessments-available-in-public-washrooms-nationwide/"><u>Meet the Breakthrough Technology for On-the-Go Wellness Assessments - Available in Public Washrooms Nationwide!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-how-to-terminate-hanging-applications-on-windows-11-systems/"><u>Step-by-Step Guide: How to Terminate Hanging Applications on Windows 11 Systems</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/tackling-freezing-issues-in-your-software-essential-tips-by-yl-computing/"><u>Tackling Freezing Issues in Your Software: Essential Tips by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-superiority-of-apple-silicon-analyzing-m2-vs-m1-in-mac-mini-and-mac-studio-technology-insights-by-zdnet/"><u>Unveiling the Superiority of Apple Silicon: Analyzing M2 vs M1 in Mac Mini & Mac Studio | Technology Insights by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-troubleshooting-effective-solutions-for-defrosting-frozen-systems/"><u>Windows 11 Troubleshooting: Effective Solutions for Defrosting Frozen Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-instructions-how-to-enable-imessage-communication-zdnet/"><u>Windows Instructions: How to Enable iMessage Communication (ZDNet)</u></a></li>
+</ul></div>
+

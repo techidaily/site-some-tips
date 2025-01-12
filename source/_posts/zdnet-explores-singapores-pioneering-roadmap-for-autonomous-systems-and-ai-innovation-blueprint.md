@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Singapore's Pioneering Roadmap for Autonomous Systems and AI Innovation Blueprint
-date: 2024-09-17 11:39:45
-updated: 2024-09-20 11:33:36
+date: 2025-01-10T20:29:52.647Z
+updated: 2025-01-12T19:49:26.035Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ There also will be initiatives in other nascent areas, such as quantum computing
 
 The government agency said plans are in place to [pilot quantum-safe networks](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) and quantum-as-a-service applications for commercial customers. "Known as the National Quantum Safe Network Plus (NQSN+), this will allow us to test, innovate and push the boundaries on both technical and commercial deployments," it said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Launch of innovation center with AWS
 
 IMDA on Monday also announced its partnership with Amazon Web Services (AWS) through the launch of a joint innovation center. Pitched as a launchpad for businesses and startups in Southeast Asia, the new site houses various specialized labs, including 5G as well as augmented and virtual reality. It also has usability-testing facilities. 
@@ -76,11 +80,25 @@ Companies can use the center to develop proof-of-concepts in a sandbox environme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-peak-performance-cameras-for-high-speed-sports/"><u>[Updated] 2024 Approved Peak Performance Cameras for High-Speed Sports</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>[Updated] Framing for Instagram Techniques for Vertical Footage in FCPX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-unusual-career-opportunities-discovering-the-latest-and-most-innovative-job-positions-shaped-by-ai-advancements/"><u>Exploring Unusual Career Opportunities: Discovering the Latest and Most Innovative Job Positions Shaped by AI Advancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fundamental-fashion-for-cybersecurity-enthusiasts-tips-from-a-tech-expert-zdnets-clothing-chronicles/"><u>Fundamental Fashion for Cybersecurity Enthusiasts – Tips From a Tech Expert | ZDnet's Clothing Chronicles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-non-developers-can-enhance-employment-opportunities-with-technical-skills-zdnet/"><u>How Non-Developers Can Enhance Employment Opportunities with Technical Skills | ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-poco-x5-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Poco X5 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-v30-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo V30 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-code-the-dawn-of-a-new-era-in-software-development/"><u>Revolutionizing Code: The Dawn of a New Era in Software Development</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-boost-video-clarity-top-10-free-online-enhancement-tools-for-2024/"><u>Updated Boost Video Clarity Top 10 Free Online Enhancement Tools for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-for-kids-made-easy-10-best-apps-with-free-and-paid-options-for-2024/"><u>Video Editing for Kids Made Easy 10 Best Apps with Free and Paid Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-analysis-leading-tech-jobs-and-programming-tools-shaping-tomorrows-software-industry/"><u>ZDNet Analysis: Leading Tech Jobs and Programming Tools Shaping Tomorrow's Software Industry</u></a></li>
+</ul></div>
+

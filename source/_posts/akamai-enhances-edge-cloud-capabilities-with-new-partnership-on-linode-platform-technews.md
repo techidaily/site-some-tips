@@ -1,7 +1,7 @@
 ---
 title: Akamai Enhances Edge Cloud Capabilities with New Partnership on Linode Platform | TechNews
-date: 2024-09-18 15:22:23
-updated: 2024-09-20 11:34:39
+date: 2025-01-10T20:45:04.222Z
+updated: 2025-01-12T19:40:00.744Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/d79beeb4abcfd05636355f94742171c61e
 Akamai
 
 Earlier this year, when [Akamai bought infrastructure-as-a-service (IaaS) cloud platform provider Linode](https://www.zdnet.com/article/akamai-acquires-infrastructure-as-a-service-provider-linode-for-900-million/) for about $900 million, it wasn't clear how Akamai's content delivery network (CDN) and security services would work well with Linode's developer-friendly, Linux-based, Infrastructure-as-a-Service (IaaS) cloud. Now, we know Akamai wasn't just adding a cloud; it was working on edge computing and cloud development synergies. The company is [adding more than a dozen new Linode data centers](https://www.akamai.com/blog/cloud/akamai-turns-up-linode-past-11) around the world by the end of 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,26 @@ While I don't expect Akamai to appear in a Marvel movie anytime soon, it does ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-8-free-videography-programs-perfect-for-indie-filmmakers/"><u>[New] 2024 Approved Top 8 Free Videography Programs Perfect For Indie Filmmakers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-best-asmr-microphones-you-should-try/"><u>[New] The Best ASMR Microphones You Should Try</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prime-video-picks-the-extreme-favorites/"><u>[Updated] Prime Video Picks The Extreme Favorites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862868350-135-deal-on-the-premium-asus-prime-x670-p-wifi-am5-mobo-dont-miss-out/"><u>$135 Deal on the Premium Asus Prime X670-P WiFi AM5 Mobo - Don't Miss Out!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expressing-thanks-top-outro-templates-collection/"><u>Expressing Thanks Top Outro Templates Collection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fine-tuning-ai-accuracy-employing-6-expertly-crafted-prompts/"><u>Fine-Tuning AI Accuracy: Employing 6 Expertly Crafted Prompts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-by-mastering-the-auto-response-feature-in-apples-mail-app/"><u>Maximize Productivity by Mastering the Auto-Response Feature in Apple's Mail App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-with-these-6-complimentary-google-docs-add-ons-revealed-on-zdnet/"><u>Maximize Productivity with These 6 Complimentary Google Docs Add-Ons Revealed on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-digital-landscape-finding-your-ideal-web-browser/"><u>Navigating the Digital Landscape: Finding Your Ideal Web Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-picks-optimal-laptops-for-cutting-edge-video-editing-in-depth-analysis-pcmag/"><u>Professional Picks: Optimal Laptops for Cutting-Edge Video Editing - In-Depth Analysis | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-a-trend-with-your-libreoffice-design-a-comprehensive-guide-discover-how-zdnet/"><u>Setting a Trend with Your LibreOffice Design: A Comprehensive Guide – Discover How [ZDNet]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-concerns-relying-on-chatgpt-for-healthcare-guidance/"><u>Top 5 Concerns: Relying on ChatGPT for Healthcare Guidance</u></a></li>
+</ul></div>
+

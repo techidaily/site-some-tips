@@ -1,7 +1,7 @@
 ---
 title: How Less Is More? Amazon Alexa Researchers Reveal Small-Scale AIs Excel Over Bigger Brethren | InnovateTech
-date: 2024-09-19 21:24:24
-updated: 2024-09-20 12:49:16
+date: 2025-01-09T19:32:48.468Z
+updated: 2025-01-12T16:09:02.907Z
 tags:
   - amazon
 categories:
@@ -20,6 +20,10 @@ Amazon Alexa AI 2022
 Two threads of research strongly dominate machine learning these days: making programs more general in their approach (to handle any potential task) and making them bigger.
 
 The biggest neural nets, as measured by their parameters or "weights," are clocking in at over half a trillion weights. Models such as Google's Pathways Language Model, or PaLM, and Nvidia and Microsoft's [Megatron-Turing NLG 530B](https://www.zdnet.com/article/nvidia-clarifies-megatron-turing-scale-claim/) are among the biggest, with 540 billion and 530 billion parameters, respectively. The more parameters a program has, in general, the greater the amount of computing power it consumes to train, and also to run for making predictions, what's called _inference._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Artificial Intelligence
 
@@ -94,6 +98,10 @@ In that paper, Hoffman and colleagues conclude that "current large language mode
 
 Hence, AlexaTM 20B is not just parsimonious -- it aims to prove that fewer parameters can be balanced with more training data to equal compelling performance. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Which Amazon Echo to buy? How to pick the best Alexa device for your needs Amazon now has an entire army of Echo devices. Some listen to you. Some also watch you. Which should you choose? We help you decide.  Read now](https://www.zdnet.com/article/best-amazon-echo/)
@@ -115,6 +123,10 @@ As Google authors Aakanksha Chowdhery and team [noted in April](https://arxiv.or
 The results are spelled out in specific test results. Soltan and team place a special emphasis on their success in particular tasks as opposed to _every_ task conceivable. For example, Soltan and team observe that "AlexaTM 20B performs better or in par to the largest dense decoder-only model to date (i.e., PaLM 540B) in summarization both in 1-shot and fine-tuning settings." This is specifically true in a task of summarizing paragraphs known as MLSum; in German, Spanish, and French, AlexaTM 20B beat PaLM handily. 
 
 The MLSum benchmark test, [introduced in 2020](https://aclanthology.org/2020.emnlp-main.647.pdf) by France's National Centre for Scientific Research, comprises 1.5 million articles from newspapers. The task is for a language model to output a few sentences of text that express the idea laid out in the entire article. This requires a lot of reduction, obviously, of hundreds of words down to perhaps a few dozen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Amazon
 
@@ -178,11 +190,26 @@ That may mean that being eco-conscious has in some ways become part of the objec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-efficient-use-of-obs-studio-for-android-devices/"><u>[New] In 2024, Efficient Use of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-delving-into-the-world-of-audio-dissolves-crossfade/"><u>[Updated] 2024 Approved Delving Into the World of Audio Dissolves (Crossfade)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-blogging-basics-for-business-beginnings-for-2024/"><u>[Updated] Blogging Basics for Business Beginnings for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-feasting-across-borders-top-international-dishes-for-2024/"><u>[Updated] Feasting Across Borders Top International Dishes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-5-advanced-webcams-for-video-calls-for-2024/"><u>[Updated] Ultimate Guide 5 Advanced Webcams for Video Calls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-bids-farewell-to-itunes-with-new-media-player-launch-on-windows-platform-explore-the-latest-upgrades/"><u>Apple Bids Farewell to iTunes with New Media Player Launch on Windows Platform - Explore the Latest Upgrades!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-stops-selling-new-watch-models-disrupts-maintenance-services-for-earlier-versions-zdnet-news/"><u>Apple Stops Selling New Watch Models; Disrupts Maintenance Services for Earlier Versions | ZDNET News</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/building-your-own-youtube-organization-toolkit-the-watch-later-way-for-2024/"><u>Building Your Own YouTube Organization Toolkit The Watch Later Way for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/direct-data-delivery-fast-file-pathways-to-desktop/"><u>Direct Data Delivery Fast File Pathways to Desktop</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/solving-codec-errors-for-dolby-vision-files-in-hevc-a-guide-to-watching-on-windows-11-platforms/"><u>Solving Codec Errors for Dolby Vision Files in HEVC: A Guide to Watching on Windows 11 Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-and-rankings-by-tech-experts/"><u>Top-Rated Magsafe Power Solutions : Comprehensive Reviews & Rankings by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-into-your-favorite-superhero-using-apple-vision-pro-learn-more-on-may-ve-zdnet/"><u>Transform Into Your Favorite Superhero Using Apple Vision Pro - Learn More on May Ve| ZDNet</u></a></li>
+</ul></div>
+

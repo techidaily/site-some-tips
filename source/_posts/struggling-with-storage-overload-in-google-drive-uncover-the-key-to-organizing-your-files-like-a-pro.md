@@ -1,7 +1,7 @@
 ---
 title: Struggling with Storage Overload in Google Drive? Uncover the Key to Organizing Your Files Like a Pro!
-date: 2024-09-17 13:29:35
-updated: 2024-09-20 12:47:14
+date: 2025-01-05T21:12:14.951Z
+updated: 2025-01-12T19:00:39.893Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ But even then, I still face the problem I described above -- how much storage is
 
 Fortunately, while Google doesn't offer a solution, a developer named Brett Batie in Traverse City, MI has come up with a solution. It's called [Filerev](https://filerev.com/) and it does just what you would have expected Google Drive to do. It answers questions and helps manage vast amounts of data. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Understanding (or not understanding) current storage utilization 
 
 When we [last encountered this issue](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/), I was trying to optimize my storage utilization, so that it didn't grow beyond its new 75TB bounds. 
@@ -72,6 +76,10 @@ As for the Details pane (pain?), it doesn't contain any data about size at all. 
 Screenshot by David Gewirtz/ZDNET
 
 So, how on Earth can I determine how much storage I am using in each of my folders? We're talking about an enterprise account with 58TB of storage. And yet, there's no visibility into storage utilization. It's not just bizarre, it's deeply inconvenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say hello to Filerev 
 
@@ -123,6 +131,10 @@ As it turns out, that storage category accounts for all my virtual machines. And
 
 It won't be easy to trim down those VM syncs, but it's definitely something I can look at, because I know a bunch of those VMs are very obsolete. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thoughts 
 
 I made a few interesting discoveries. My Cloud Backup share isn't the villain I thought it was. That honor goes to the Liberty Backups folder. Second, the biggest category of storage is my storage of old VMs. That's a homework assignment I need to follow up on to clear out more space. 
@@ -143,11 +155,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unfreezing-frozen-obs-stream-input/"><u>[New] 2024 Approved Unfreezing Frozen OBS Stream Input</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-easy-steps-record-audio-on-mac-using-audacity/"><u>[New] Easy Steps Record Audio on Mac Using Audacity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harness-the-power-of-mp4-converting-youtube-shorts/"><u>[New] Harness the Power of Mp4 Converting YouTube Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-launch-any-video-projects-with-free-kits/"><u>[New] Launch Any Video Projects with Free Kits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-your-interviews-with-these-proven-techniques-for-handling-do-you-have-any-questions/"><u>Ace Your Interviews with These Proven Techniques for Handling 'Do You Have Any Questions?'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/challenging-ai-requires-visionary-leaders-not-passive-prompt-contributors-insights-from-banks-top-cio-zdnet/"><u>Challenging AI Requires Visionary Leaders, Not Passive Prompt Contributors - Insights From Bank's Top CIO | ZDnet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chromeos-tweaks-how-to-install-custom-dns-servers-for-enhanced-security-and-privacy-digital-trends/"><u>ChromeOS Tweaks: How to Install Custom DNS Servers for Enhanced Security and Privacy | Digital Trends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combatting-staff-scarcity-with-returning-stars-how-boomerangs-lead/"><u>Combatting Staff Scarcity with Returning Stars - How Boomerangs Lead</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-prevent-days-gone-from-crashing-on-latest-systems-in-202n/"><u>Comprehensive Solutions to Prevent Days Gone From Crashing on Latest Systems in 202N</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-quality-streaming-top-5-recorder-devices-reviewed/"><u>High-Quality Streaming Top 5 Recorder Devices Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-remedying-world-of-warcrafts-error-code-132/"><u>Mastery of Remedying World of Warcraft’s Error Code 132</u></a></li>
+<li><a href="https://some-tips.techidaily.com/salesforce-leader-warns-global-scarcity-of-software-engineers/"><u>Salesforce Leader Warns: Global Scarcity of Software Engineers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stand-out-with-your-resume-expert-tips-for-software-engineers-cover-letters-forbes-careers/"><u>Stand Out with Your Resume: Expert Tips for Software Engineers' Cover Letters | Forbes Careers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-here-all-staff-to-master-ai-development-and-utilization-zdnet/"><u>The Future Is Here: All Staff to Master AI Development and Utilization | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-unexpected-reasons-behind-employee-exodus-a-deep-dive-into-why-most-staff-contemplate-resignation-insights-from-zdnet/"><u>Unveiling the Unexpected Reasons Behind Employee Exodus: A Deep Dive Into Why Most Staff Contemplate Resignation | Insights From ZDNet</u></a></li>
+</ul></div>
+

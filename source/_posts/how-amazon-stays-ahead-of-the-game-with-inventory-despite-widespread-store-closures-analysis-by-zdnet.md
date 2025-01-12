@@ -1,7 +1,7 @@
 ---
 title: How Amazon Stays Ahead of the Game with Inventory Despite Widespread Store Closures | Analysis by ZDNet
-date: 2024-09-19 13:17:48
-updated: 2024-09-20 10:14:12
+date: 2025-01-07T19:56:29.777Z
+updated: 2025-01-12T20:06:45.873Z
 tags:
   - amazon
 categories:
@@ -11,9 +11,17 @@ thumbnail: https://www.zdnet.com/a/img/resize/9387b9a37ab64e2f2ba562458b6bea3efb
 
 ## How Amazon Stays Ahead of the Game with Inventory Despite Widespread Store Closures | Analysis by ZDNet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Amazon Prime cardboard box delivery yellow background](https://www.zdnet.com/a/img/resize/5338a1ecb8fa94e7cae779eb59aec8a9aaf75351/2020/09/18/04cae6ef-b365-4e87-b126-dd3d938ea2cb/rotated-1645547092-istock-1055021000.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Amazon Prime alternatives Not satisfied with the latest Amazon Prime price hike? These alternatives are cheaper, just as fast, and, in many ways, better.  Read now](https://www.zdnet.com/article/best-amazon-prime-alternatives/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the early days of Amazon.com, the faceoff between the e-commerce pioneer and Barnes & Noble was reduced first to a showdown between online pure plays vs. brick-and-mortar retail, and then, after the [launch of Barnesandnoble.com](https://www.cnet.com/tech/services-and-software/barnes-noble-launches-book-site/), online pure plays vs. "bricks and clicks." Fast-forward a few decades and Amazon had become what Bloomberg technology editor Brad Stone popularized as "[the everything store](https://www.cnet.com/tech/services-and-software/bezos-wife-gives-1-star-review-for-the-everything-store-book/)" as Barnes & Noble became one of many retail category leaders to [struggle mightily](https://www.cnet.com/news/can-barnes-noble-save-the-bookstore/).
 
@@ -50,11 +58,27 @@ However, there are at least three reasons why they may stick around for a while,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook-for-2024/"><u>[New] The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-unleash-the-full-power-of-siri-essential-secret-voice-commands-that-will-transform-your-iphone-insights-from-tech-experts/"><u>1. Unleash the Full Power of Siri: Essential Secret Voice Commands That Will Transform Your iPhone - Insights From Tech Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gifswf-movavi-swf/"><u>簡便在線免費改造GIF成SWF格式 - 全功能Movavi SWF轉換器解決方案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-new-iphone-13-unveiled-sweep-up-the-prime-day-blowout-at-only-299-on-amazon/"><u>Apple's New iPhone 13 Unveiled: Sweep Up the Prime Day Blowout at Only $299 on Amazon</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avi3/"><u>AVIファイルからのオーディオコンバート：3つの最適化方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/critical-flaw-detected-in-apples-latest-anti-theft-security-feature-a-step-by-step-guide-for-patching-it-up-technews/"><u>Critical Flaw Detected in Apple's Latest Anti-Theft Security Feature: A Step-by-Step Guide for Patching It Up | TechNews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deactivate-or-delete-mastering-account-termination-on-chatgpt-platforms/"><u>Deactivate or Delete: Mastering Account Termination on ChatGPT Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-free-computing-steps-to-rectify-the-absence-of-dbghelpdll-in-your-windows-environment/"><u>Error-Free Computing: Steps to Rectify the Absence of dbghelp.dll in Your Windows Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-picks-top-iphone-12-and-12-pro-protective-cases-insights-from-zdnets-analysis/"><u>Expert Picks: Top iPhone 12 & 12 Pro Protective Cases - Insights From ZDNET's Analysis</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nft-mastermakers-essential-tools-for-digital-artists/"><u>In 2024, NFT Mastermakers Essential Tools for Digital Artists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-ios-16-essential-tips-for-leveraging-your-iphones-revamped-lock-screen-expert-advice/"><u>Mastering iOS 16: Essential Tips for Leveraging Your iPhone's Revamped Lock Screen – Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tech-picks-comparing-leading-brands-like-apple-and-dell-insights/"><u>Top Tech Picks : Comparing Leading Brands Like Apple & Dell - Insights</u></a></li>
+</ul></div>
+

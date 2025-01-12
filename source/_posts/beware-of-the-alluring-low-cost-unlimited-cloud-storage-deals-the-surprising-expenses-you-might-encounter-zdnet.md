@@ -1,7 +1,7 @@
 ---
 title: Beware of the Alluring 'Low-Cost' Unlimited Cloud Storage Deals – The Surprising Expenses You Might Encounter | ZDNET
-date: 2024-09-19 17:57:56
-updated: 2024-09-20 11:41:34
+date: 2025-01-07T18:07:43.034Z
+updated: 2025-01-12T17:49:14.033Z
 tags:
   - cloud
 categories:
@@ -35,6 +35,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Degoo Cloud 
 
 Let's start with Degoo. I found it on a marketplace for all sorts of intriguing offers. Here, the marketplace is offering a 10TB lifetime storage plan for $99\. As long as you access your account once a year, it will remain active. 
@@ -65,6 +69,10 @@ Clearly, $99 for 10TB is not sustainable. My bet is that storage vendors offerin
 
 Even so, Degoo's unlimited deals don't come close to covering their costs for storage. Keep that in mind as we move on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prism Drive 
 
 Next up is Prism Drive. Here, we have [a deal for 10TB](https://shop.sweetdeals.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb) for even less than Degoo. Found on another marketplace site, Prism Drive provides 10TB of lifetime storage for $89.99\. Revenue from the marketplace sites selling these products generally comes from direct product sales, affiliate commissions, and partnerships with content creators. 
@@ -84,6 +92,10 @@ Then, there's the Trustpilot rating of 1.3 out of five. The leading review is "T
 There is no About page. WHOIS provides no identity, other than showing that its site is a SquareSpace-based site. I found no details about what storage infrastructure Prism Drive uses. I also looked on LinkedIn for anyone who listed their employer as Prism Drive (or PrismDrive). No joy. Zero listings. What I did find was a ton of affiliate listings on tech websites hawking PrismDrive. 
 
 So there's that. On to our third and final company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Polar Backup 
 
@@ -109,6 +121,10 @@ Another clue that Polar might be using AWS for infrastructure is the mention of 
 
 That's it. That's all I could find. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, are these rip-offs? 
 
 Not necessarily. But I do have concerns: 
@@ -126,6 +142,10 @@ If the vendor were huge, like an Amazon or a Google, and they offered a loss lea
 But are they rip-offs? Are these vendors creating these deals and businesses with the express purpose of stealing from the folks who use them? I don't know, maybe not. That said, the vendors in question are also probably not going out of their way to build sustainable trustworthy businesses. 
 
 And really, that's my concern for you. These companies are offering a large amount of data storage for very little money. What happens if they go out of business? What happens to your data? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What could possibly go wrong?
 
@@ -168,11 +188,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-optimize-your-watch-activate-av1-on-youtube-platform/"><u>[Updated] 2024 Approved Optimize Your Watch Activate AV1 on YouTube Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-gross-income-strategies-for-podcasters/"><u>[Updated] Gross Income Strategies for Podcasters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-efficient-cloud-users-price-guide/"><u>[Updated] The Efficient Cloud User's Price Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-alarm-tone-collection-premier-websites/"><u>2024 Approved Alarm Tone Collection Premier Websites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-groups-of-flying-robots/"><u>2024 Approved Groups of Flying Robots</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/exclusive-guide-ranking-most-effective-ig-money-makers-for-2024/"><u>Exclusive Guide Ranking Most Effective IG Money Makers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-picks-premier-vpn-providers-in-the-uk-for-2e23-insights-from-zdnet/"><u>Expert Picks: Premier VPN Providers in the UK for 2E23 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-review-the-ultimate-guide-to-choosing-a-vpn-for-watching-the-tokyo-olympics-on-any-device-zdnet/"><u>Expert Review: The Ultimate Guide to Choosing a VPN for Watching the Tokyo Olympics on Any Device | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-reviews-and-comparison-the-ultimate-guide-to-2024s-premier-mobile-vpn-providers-pcmag/"><u>Expert Reviews & Comparison: The Ultimate Guide to 2024'S Premier Mobile VPN Providers | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-setting-up-bypass-rules-in-opera-vpn-for-essential-web-content-retrieval-tech-solutions/"><u>Guide to Setting Up Bypass Rules in Opera VPN for Essential Web Content Retrieval | Tech Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-does-a-vpn-work-and-what-are-its-benefits-comprehensive-insights-on-securing-your-online-privacy-zdnet/"><u>How Does a VPN Work and What Are Its Benefits? Comprehensive Insights on Securing Your Online Privacy (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-ipvanish-exploring-the-breadth-of-its-vpn-capabilities-cnet/"><u>In-Depth Analysis of IPVanish: Exploring the Breadth of Its VPN Capabilities | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-surfshark-vpn-services-endorsed-by-experts-at-zdnet/"><u>In-Depth Analysis of Surfshark VPN Services Endorsed by Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipvanish-comprehensive-evaluation-unlimited-features-and-capabilities-insights-from-zdnet/"><u>IPVanish Comprehensive Evaluation: Unlimited Features and Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/navigate-new-horizons-discovering-the-top-10-pc-virtual-playback-devices/"><u>Navigate New Horizons Discovering the Top 10 PC Virtual Playback Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Transforming Google To-Do Lists Into Kanban Boards with Ease – A Guide by TasksBoard | ZDNET
-date: 2024-09-19 22:35:55
-updated: 2024-09-20 11:57:33
+date: 2025-01-07T19:12:19.132Z
+updated: 2025-01-12T18:40:02.863Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>[New] In 2024, A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-enjoying-virtual-realms-on-your-ipad-pro/"><u>[New] Tips for Enjoying Virtual Realms on Your iPad Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-guide-to-top-hexacopter-models/"><u>[Updated] 2024 Approved Essential Guide to Top Hexacopter Models</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-navigating-picture-in-picture-features-in-firefox/"><u>[Updated] In 2024, Navigating Picture-in-Picture Features in Firefox</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor/"><u>[Updated] In 2024, Smile, Sob and Snicker with These IG Meme Masters of Humor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-laziness-unpacking-the-motivations-behind-quiet-quitting-in-modern-workplaces-expert-analysis-by-zdnet/"><u>Beyond Laziness: Unpacking the Motivations Behind 'Quiet Quitting' In Modern Workplaces | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-your-professional-network-a-comprehensive-tutorial-on-updating-linkedin-credentials-and-their-advantages-zdnet-strategies/"><u>Boosting Your Professional Network: A Comprehensive Tutorial on Updating LinkedIn Credentials and Their Advantages | ZDNet Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-artificial-intelligence-and-enterprise-insights-from-modern-day-tech-pioneers-zdnet/"><u>Bridging Artificial Intelligence & Enterprise: Insights From Modern-Day Tech Pioneers | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cio-at-major-bank-demands-daring-innovators-over-passive-prompt-creators-for-advancing-ai-insights-from-zdnet/"><u>CIO at Major Bank Demands Daring Innovators Over Passive Prompt Creators for Advancing AI - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ending-the-comparison-a-breakdown-of-siri-and-chatgpts-core-features/"><u>Ending the Comparison: A Breakdown of Siri and ChatGPT's Core Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/670803-9781846947315-how-to-bond-with-an-aquarius/"><u>How to Bond with An Aquarius | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-ensure-continuous-playback-of-youtube-videos-on-fb-for-2024/"><u>How to Ensure Continuous Playback of YouTube Videos on FB for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-will-the-advent-of-new-automation-technologies-reshape-your-it-profession-insights-from-zdnet/"><u>How Will the Advent of New Automation Technologies Reshape Your IT Profession? Insights From ZDnet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>In 2024, How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-cloud-tech-pays-off-why-generalists-remain-essential-in-it-zdnet/"><u>Mastering Cloud Tech Pays Off - Why Generalists Remain Essential in IT | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-experience-start-here-essential-tips-for-securing-entry-level-positions-in-technology-insights-from-zdnet/"><u>No Experience? Start Here! Essential Tips for Securing Entry-Level Positions in Technology - Insights From ZDNet.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveil-creative-potential-top-7-free-sound-effects-for-youtubers-for-2024/"><u>Unveil Creative Potential Top 7 Free Sound Effects for YouTubers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-leading-banks-cio-demands-innovative-thinkers-over-passive-prompt-creators-for-advancing-ai/"><u>ZDNet Exclusive: Leading Bank's CIO Demands Innovative Thinkers Over Passive Prompt Creators for Advancing AI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-report-finds-that-25-of-tech-employees-contemplate-job-transitions/"><u>ZDNet Report Finds that 25% of Tech Employees Contemplate Job Transitions</u></a></li>
+</ul></div>
+

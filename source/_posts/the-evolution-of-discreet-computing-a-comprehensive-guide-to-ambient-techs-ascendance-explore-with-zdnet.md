@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Discreet Computing: A Comprehensive Guide to Ambient Tech's Ascendance | Explore with ZDNET"
-date: 2024-09-17 22:17:33
-updated: 2024-09-20 12:40:36
+date: 2025-01-08T19:09:15.956Z
+updated: 2025-01-12T19:29:31.366Z
 tags:
   - amazon
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
 Getty Images/iStockphoto
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is ambient computing, in simple terms?
 
 Ambient computing, also commonly referred to as ubiquitous computing, is the concept of blending computing power into our everyday lives in a way that is embedded into our surroundings - invisible but useful.
@@ -23,6 +27,10 @@ The goal is to reduce the friction involved in utilizing tech, making it easier 
 
 "In a multi-device world, people don't want to spend their life fussing with technology. An ambient approach gets the tech out of your way so you can live your life while getting the help you need," Rick Osterloh, Google's SVP of Devices and Services, said during Google's [I/O 2022 keynote](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/). "It doesn't matter what device you're using, what context you're in, whether you're talking, typing, or tapping. The technology in your life works together seamlessly." 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The Future of the Internet The internet has never been more important, and its future has never been so uncertain. This ZDNET special report looks at the possible futures - good and bad - that lie ahead.  Read now](https://www.zdnet.com/topic/the-future-of-the-internet/)
@@ -30,6 +38,10 @@ The goal is to reduce the friction involved in utilizing tech, making it easier 
 ## Why is it called ambient computing?
 
 As the definition of the word 'ambient' implies, ambient computing refers to technology that is immersed in your surroundings, ready to help without any prompting. For example, instead of having to turn down the temperature, a smart thermometer can automatically adjust based on learned patterns. From this stems the idea of a 'smart home', which incorporates tech into every object of your home to optimize how you accomplish everyday tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## This sounds a lot like the Internet of Things (IoT). What's the difference?
 
@@ -40,6 +52,10 @@ If you were thinking that [the IoT and ambient computing sound a lot alike](http
 In other words, ambient computing focuses on the interaction between these devices once they are connected. For example, a lightbulb that connects to an app is an IoT device; however, how the lightbulb gathers data from its surroundings about your preferences and acts accordingly is where ambient computing comes in.
 
 "The Internet of Things lives through sensors and actuators embedded in devices interacting with the world physically and functionally. Ambient computing contains this communication at the core and harnesses the environment for business processes and insights," is how consultants Deloitte explain it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does ambient computing look like right now.
 
@@ -101,6 +117,10 @@ In order to let a voice assistant take up such an important roles, there must be
 
 "As customers begin to rely on ambient systems, we do see them engaging more deeply, and across more aspects of their lives. This comes with an expectation that these systems become steadily better as they are used, and we work hard to live up to that," says Sharma.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the future of ambient computing?
 
 Ambient computing is an important topic today because all technology is moving in that direction. We already find ambient computing built into almost everything we use. Today, the goal of tech developers is to find ways to both create technology that facilitates everyday functions, but also works together seamlessly. With industry giants like Google and Amazon leading the space, it won't be long before everyone follows. 
@@ -136,11 +156,31 @@ In the future, ambient computing may expand further than just the smart home.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-finest-digital-voice-recorders/"><u>[New] Finest Digital Voice Recorders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-is-your-facebook-video-more-engaging-in-a-vertical-format-in-2024/"><u>[Updated] Is Your Facebook Video More Engaging in a Vertical Format, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>2024 Approved The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-cinematic-slow-mo-videos-for-instagram-success/"><u>Crafting Cinematic Slow-Mo Videos for Instagram Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/deciphering-the-reemergence-of-apples-hidden-homeos-within-the-latest-tvos-dev-beta-tech-analysis/"><u>Deciphering the Reemergence of Apple's Hidden 'homeOS' Within the Latest tvOS Dev Beta | Tech Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/declutter-your-inbox-with-ease-discover-the-no-hassle-method-for-organized-emails-without-complex-systems/"><u>Declutter Your Inbox with Ease: Discover the No-Hassle Method for Organized Emails without Complex Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-control-with-logitech-mx-master-software-a-users-tutorial-to-advanced-configuration/"><u>Enhance Control with Logitech MX Master Software - A User's Tutorial to Advanced Configuration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experiencing-the-new-apple-studio-display-an-eye-catching-but-pricey-5k-monitor-for-creative-mac-users-insights-from-zdnet/"><u>Experiencing the New Apple Studio Display: An Eye-Catching but Pricey 5K Monitor for Creative Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-evaluated-and-ranked-best-smartwatches-of-2024-insiders-guide/"><u>Expertly Evaluated & Ranked Best Smartwatches of 2024 - Insider's Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humor-hub-adobe-meme-manipulation/"><u>Humor Hub Adobe Meme Manipulation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovations-highlighted-in-s3700s-2023-review/"><u>Innovations Highlighted in S3700's 2023 Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-gaming-experience-on-xbox-one-connect-and-use-an-extra-drive/"><u>Maximizing Gaming Experience on Xbox One: Connect and Use an Extra Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-grip-master-the-correct-way-to-hold-an-iphone-and-airpods-together-techtips-for-zdnet-readers/"><u>Optimize Your Grip: Master the Correct Way to Hold an iPhone & AirPods Together | TechTips for ZDNet Readers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-2024s-top-35-tablet-savings-current-deals-you-cant-miss-gadgetgurus/"><u>Prime Day 2024'S Top 35 Tablet Savings - Current Deals You Can’t Miss! | GadgetGurus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-return-of-apples-innovative-ai-strategies-unveiled-insights-and-limitations/"><u>The Return of Apple's Innovative AI Strategies Unveiled: Insights & Limitations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-potential-with-the-latest-enhancements-the-top-xr-headsets-revolutionizing-work-and-wanderlust/"><u>Unleash Your Potential with the Latest Enhancements: The Top XR Headsets Revolutionizing Work & Wanderlust</u></a></li>
+</ul></div>
+

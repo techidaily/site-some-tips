@@ -1,7 +1,7 @@
 ---
 title: 1. Unlock Comprehensive Online Protection with Nord Security - Powering NordVPN, a Complete Privacy Solution for You
-date: 2024-09-19 16:31:43
-updated: 2024-09-20 11:39:54
+date: 2025-01-11T17:04:53.962Z
+updated: 2025-01-12T20:56:46.060Z
 tags:
   - cloud
 categories:
@@ -65,6 +65,10 @@ I was provided with a link to Eimantas' LinkedIn page, which also shows him as a
   
  Both Tom Okman and Eimantas attended Vilnius University, founded in the 16th century and located in Vilnius, Lithuania. Eimantas attended from 2002 to 2006 and received a Bachelor's degree in computer science, while Tom attended from 2006 to 2011 and earned a Bachelor's in history. Okman also picked up a Master's in e-business management from Mykolas Romeris University, also in Vilnius. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordSec, Tesonet, and Tefincom -- and Panama, Cyprus, and Lithuania
 
 All of that brings us back to [NordSec](https://nordsecurity.com/), which is the name Okman and his team chose to use going forward, at least in 2020 when I interviewed him. Think the name NordSec is familiar? NordSec is also the name of the [Nordic Conference on Secure IT Systems](http://www.nordsec.org/conferences/) and has been in use since 1996\. When I asked Okman about the possible trademark ramifications of using "NordSec," he replied, "we have a pending trademark application, and we provide a different type of service, so we don't think there is anything that could cause a conflict." Clearly, that didn't take, because the company is now known as Nord Security.
@@ -121,6 +125,10 @@ We'll discuss each of these in-depth in a moment, but first I want to touch on a
 
 ### Independent audits
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best antivirus software and apps A roundup of the best software and apps for Windows and Mac computers, as well as iOS and Android devices, to keep yourself safe from malware and viruses.  Read now](https://www.zdnet.com/article/best-antivirus/)
@@ -143,6 +151,10 @@ To ensure customer confidence, we encourage Nord Security to conduct these audit
 
 And with that, let's look into each of Nord Security's offerings in detail. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordVPN
 
 First up is NordVPN, the product/service that started it all. Founded in 2012 by Okman and his partner, the VPN service is in use by millions of users across the world. In an [exclusive report for PCMag](https://www.pcmag.com/news/nordvpn-dominates-vpn-market-share-and-that-will-likely-continue) by analyst firm [VPNpro.com](http://VPNpro.com) , PCMag reported that NordVPN had the most Google interest of any VPN service, with 1.29M searches per month as of February 2019\. 
@@ -151,6 +163,10 @@ We're not going to go into too much detail here, because we've covered NordVPN i
 
 * [**Inside a VPN service: How NordVPN conducts the business of Internet privacy**](https://www.zdnet.com/article/inside-a-vpn-service-how-nordvpn-conducts-the-business-of-internet-privacy/)
 * [**NordVPN review: Revamping security practices, but still useful**](https://www.zdnet.com/article/nord-vpn-review-an-in-depth-look-at-a-popular-vpn/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordVPN Teams
 
@@ -206,6 +222,10 @@ That said, Nord Security does have two advantages with NordPass. First, it has a
 
 Nord is once again taking security seriously in this implementation. It's built a zero-knowledge NordPass vault that relies on modern ciphers: [XChaCha20](https://libsodium.gitbook.io/doc/advanced/stream%5Fciphers/xchacha20) for encryption and [Argon2](https://argon2.online/) for key derivation. NordPass offers OCR scanning, biometric authorization, and secure password sharing, where Okman says, "shared items cannot be intercepted with man-in-the-middle attacks." 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordLocker
 
 If there's one thing you can feel reasonably confident about, it's that Nord Security can secure data in transit. With NordLynx and NordVPN, pretty much its raison d'etre has been secure, encrypted transmission. 
@@ -241,6 +261,10 @@ According to University of Maryland assistant professor Dave Levin:
 Okman tells us that Nord Security is discussing future integration of NordVPN with Geneva technology. According to the university, "Tested in China, India, and Kazakhstan, Geneva found dozens of ways to circumvent censorship by exploiting gaps in censors' logic and finding bugs that the researchers say would have been virtually impossible for humans to find manually." 
 
 Finally, Okman tells us Nord Security is considering entering the secure hosting field. We'll be watching closely for more news on that possible development. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordSec in 2025
 
@@ -284,11 +308,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-effortless-media-transition-from-mp3-to-youtube-video-posting/"><u>[New] In 2024, Effortless Media Transition From MP3 to YouTube Video Posting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-digital-artisans-exclusive-summit/"><u>[Updated] 2024 Approved Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-explore-androids-leading-music-video-watching-tools-for-2024/"><u>[Updated] Explore Android's Leading Music Video Watching Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ideal-frequencies-in-podcast-launches-for-2024/"><u>[Updated] Ideal Frequencies in Podcast Launches for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-vision-pro-and-marital-harmony-insights-from-a-unique-qanda-session-with-a-sales-associate-tech-reviews/"><u>Apple Vision Pro and Marital Harmony: Insights From a Unique Q&A Session with a Sales Associate | Tech Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-visionary-leap-the-joy-of-embracing-innovative-goggles-a-deep-dive-zdnet/"><u>Discover Apple's Visionary Leap: The Joy of Embracing Innovative Goggles - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-text-manipulation-using-hand-gestures-on-the-apple-vision-pro-insights-by-zdnet/"><u>Effortless Text Manipulation Using Hand Gestures on the Apple Vision Pro - Insights by ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-strategies-to-elevate-your-gopro-footage/"><u>Expert Strategies to Elevate Your GoPro Footage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/maintaining-clarity-and-sharpness-a-guide-to-downscaling-from-4k-to-hd/"><u>Maintaining Clarity and Sharpness: A Guide to Downscaling From 4K to HD</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206789681-repairing-your-lenovos-unresponsive-mouse-pad-in-different-windows-environments-1187-expert-fixes/"><u>Repairing Your Lenovo's Unresponsive Mouse Pad in Different Windows Environments (11/8/7) - Expert Fixes!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resizing-photos-made-simple-the-top-6-tricks-for-windows-11-users/"><u>Resizing Photos Made Simple: The Top 6 Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-desired-features-for-the-next-visionos-update-hopes-for-apples-wwdc-reveal/"><u>Top 10 Desired Features for the Next VisionOS Update - Hopes for Apple's WWDC Reveal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-ar-headsets-expert-picks-from-zdnet/"><u>Top Rated AR Headsets : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transforming-my-podcast-scripts-using-chatgpt-a-detailed-narrative/"><u>Transforming My Podcast Scripts Using ChatGPT: A Detailed Narrative</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zenith-of-virtual-exploration-productivity-boosting-xr-glasses-with-triple-upgrades-tech-review-by-zdnet/"><u>Zenith of Virtual Exploration: Productivity-Boosting XR Glasses with Triple Upgrades | Tech Review by ZDNet</u></a></li>
+</ul></div>
+

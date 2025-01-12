@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet"
-date: 2024-12-30T05:01:38.875Z
-updated: 2025-01-05T16:49:52.764Z
+date: 2025-01-07T17:46:39.559Z
+updated: 2025-01-12T17:39:04.107Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,6 +48,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -65,7 +69,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -75,7 +79,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -133,7 +137,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -165,10 +169,6 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,18 +204,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-generating-attention-grabbing-video-teasers/"><u>[New] 2024 Approved Generating Attention-Grabbing Video Teasers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[New] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-from-boredom-to-attention-unveiling-the-6-key-videos-for-2024/"><u>[New] From Boredom to Attention Unveiling the 6 Key Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-premier-filmmaking-software-on-iphones-for-2024/"><u>[New] Premier Filmmaking Software on iPhones for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tailoring-audio-diminution-process/"><u>[New] Tailoring Audio Diminution Process</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[Updated] 2024 Approved Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/are-you-ready-to-leverage-ai-right-from-your-smartphone-mediatek-unveils-revolutionary-processor-technology-zdnet-exclusive/"><u>Are You Ready to Leverage AI Right From Your Smartphone? MediaTek Unveils Revolutionary Processor Technology | ZDNet Exclusive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-talent-how-zdnet-helps-you-master-new-competencies-without-focusing-solely-on-artificial-intelligence/"><u>Boosting Talent: How ZDNet Helps You Master New Competencies Without Focusing Solely on Artificial Intelligence</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-mobile-beat-benders-for-android-and-ios-devices/"><u>In 2024, Mobile Beat Benders for Android and iOS Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-look-with-raspberry-pis-top-executive-on-the-game-changing-70-artificial-intelligence-kit/"><u>Inside Look with Raspberry Pi's Top Executive on the Game-Changing $70 Artificial Intelligence Kit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/project-frontier-dells-latest-leap-into-advanced-edge-computing-solutions-discover-on-zdnet/"><u>Project Frontier: Dell's Latest Leap Into Advanced Edge Computing Solutions | Discover on ZDNet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ct-management-fees/"><u>Project Management Fees</u></a></li>
-<li><a href="https://some-tips.techidaily.com/surpassing-artificial-intelligence-the-rapidly-growing-tech-trend-transforming-the-industry-insights-from-zdnet/"><u>Surpassing Artificial Intelligence: The Rapidly Growing Tech Trend Transforming the Industry - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-lurker-to-leader-the-roadmap-to-higher-fb-page-rankings/"><u>[Updated] 2024 Approved From Lurker to Leader The Roadmap to Higher FB Page Rankings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-crafting-engaging-dialogue-in-screenplays/"><u>2024 Approved Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/digital-content-crisis-at-funimation-sudden-shutdown-leads-to-user-library-deletions/"><u>Digital Content Crisis at Funimation: Sudden Shutdown Leads to User Library Deletions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ios-175-revived-your-vanished-photos-and-next-steps-for-users-detailed-guide/"><u>How iOS 17.5 Revived Your Vanished Photos & Next Steps for Users | Detailed Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/introducing-the-standard-version-of-stellar-mac-desinty-customizable-file-and-folder-purging-on-a-timetable/"><u>Introducing the Standard Version of Stellar Mac Desinty: Customizable File and Folder Purging on a Timetable</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-solutions-to-league-of-legends-downtime-and-stability-problems/"><u>Quick Solutions to League of Legends Downtime and Stability Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-wrist-tech-explore-the-upgraded-functions-and-innovations-in-watchos-11-for-your-apple-watch-zdnet/"><u>Revolutionizing Wrist Tech: Explore the Upgraded Functions and Innovations in WatchOS 11 for Your Apple Watch | ZDNET</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-smartphones-safe-choices-for-your-childs-first-phone-zdnet-guide/"><u>Top Kid-Friendly Smartphones: Safe Choices for Your Child's First Phone - ZDNet Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airtag-wallet-reviews-industry-experts-verdicts/"><u>Top-Rated AirTag Wallet Reviews : Industry Experts' Verdicts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-running-ubuntu-on-your-mac-an-unconventional-guide-to-a-seamless-dual-boot-experience-with-xcode/"><u>Unlock the Power of Running Ubuntu on Your Mac: An Unconventional Guide to a Seamless Dual-Boot Experience with Xcode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-take-on-grell-tws1x-in-ear-headphones-superior-sound-experience-marred-by-unsatisfactory-package-product-review/"><u>ZDNet's Take on Grell TWS1X In-Ear Headphones: Superior Sound Experience Marred by Unsatisfactory Package | Product Review</u></a></li>
 </ul></div>
 

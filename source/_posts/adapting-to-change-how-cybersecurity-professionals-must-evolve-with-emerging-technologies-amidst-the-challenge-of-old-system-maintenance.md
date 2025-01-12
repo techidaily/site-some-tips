@@ -1,7 +1,7 @@
 ---
 title: "Adapting to Change: How Cybersecurity Professionals Must Evolve with Emerging Technologies Amidst the Challenge of Old System Maintenance"
-date: 2024-09-18 15:16:26
-updated: 2024-09-20 12:12:34
+date: 2025-01-08T16:39:00.008Z
+updated: 2025-01-12T20:39:29.282Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ Globally, 92% of cybersecurity professionals believe their organization has skil
 This demand will continue to grow as organizations incorporate AI into more processes, further driving the need for cloud computing, and the need for both skillsets, France noted. It means cybersecurity professionals will need to understand how AI is integrated and secure the applications and workflows it powers, he said. 
 
 Left unplugged, gaps in cybersecurity skills and staff will result in teams being overloaded and this can lead to oversights in addressing vulnerabilities, he cautioned. Misconfiguration and falling behind security patches are among the most common mistakes that can lead to breaches, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI adoption driving the need for new skills
 
@@ -94,6 +98,10 @@ Burn further noted: "Most organizations were not prepared for the rapid migratio
 To address these requirements, she said organizations are tapping the knowledge that security operations and software development or product security teams have on infrastructure and adjusting this for the new environments. "So it's about finding the right training and upskilling resources and giving teams the time to train," she added. 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech stacks need simplifying to ease security management
 
@@ -171,11 +179,25 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-securing-memories-the-best-methods-for-saving-discords-live-conversations/"><u>[New] 2024 Approved Securing Memories The Best Methods for Saving Discord's Live Conversations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fade-perfection-quick-tips-and-tricks/"><u>[New] In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-meme-craft-kinemasters-role/"><u>[New] Mastering the Meme Craft KineMaster's Role</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/analyzing-ffmpegs-compatibility-with-original-soundscape-for-2024/"><u>Analyzing FFmpeg's Compatibility with Original Soundscape for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-missing-or-lost-msvcrt10dll-errors/"><u>Effective Strategies to Correct Missing or Lost msvcrt10.dll Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-deal-secure-your-home-safety-with-the-affordable-80-blink-outdoor-4-camera-floodlight-bundle-shop-now/"><u>Labor Day Deal: Secure Your Home Safety with the Affordable $80 Blink Outdoor 4-Camera Floodlight Bundle - Shop Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/racecar-inspired-robotic-lawnmower-delivers-perfectly-manicured-yards-discover-how-on-zdnet/"><u>Racecar-Inspired Robotic Lawnmower Delivers Perfectly Manicured Yards - Discover How on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rings-innovation-shines-bright-a-surprisingly-positive-encounter-with-the-spotlight-cam-pro-zdnet-insights/"><u>Ring's Innovation Shines Bright: A Surprisingly Positive Encounter with the Spotlight Cam Pro | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-a-steady-energy-source-with-40-savings-on-anker-generators-before-winter-storms-hit-exclusive-deal-from-zdnet-reviews/"><u>Secure a Steady Energy Source with 40% Savings on Anker Generators Before Winter Storms Hit, Exclusive Deal From ZDNet Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/slashing-costs-bluettis-spectacular-summer-discount-on-portable-power-units-explore-the-deals/"><u>Slashing Costs: Bluetti's Spectacular Summer Discount on Portable Power Units - Explore the Deals!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-animation-set-for-typography-for-2024/"><u>Top-Ranked Animation Set for Typography for 2024</u></a></li>
+</ul></div>
+

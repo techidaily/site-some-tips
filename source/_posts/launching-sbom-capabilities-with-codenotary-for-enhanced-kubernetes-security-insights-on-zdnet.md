@@ -1,7 +1,7 @@
 ---
 title: Launching SBOM Capabilities with Codenotary for Enhanced Kubernetes Security - Insights on ZDNet
-date: 2024-09-17 10:35:23
-updated: 2024-09-20 10:42:27
+date: 2025-01-11T16:50:43.343Z
+updated: 2025-01-12T17:17:07.905Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/df9613a0c2aaec5985230e010833ea4d58
 ## Launching SBOM Capabilities with Codenotary for Enhanced Kubernetes Security - Insights on ZDNet
 
 Software Bill of Materials (SBOM)s aren't optional anymore. If we really want the applications we're running in containers to be secure, we must know what's what within them. To make that easier, [Codenotary](https://codenotary.com/), a leading software supply chain security company, is launching its new [SBOM Operator](https://github.com/ckotzbauer/sbom-operator) for Kubernetes in both its open-source [Community Attestation Service](https://cas.codenotary.com/) and its flagship service, Codenotary's [Trustcenter](https://codenotary.com/products/ci-cd/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Source
 
@@ -48,11 +52,33 @@ This is another step forward in Codenotary's efforts to provide comprehensive to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-insta-tips-for-enthusiasts-on-uploading-podcasts/"><u>[New] 2024 Approved Insta-Tips for Enthusiasts on Uploading Podcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elite-unmanned-aerial-vehicles-up-for-grabs/"><u>[New] Elite Unmanned Aerial Vehicles Up for Grabs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-make-macbook-pro-video-tutorials-easy-for-2024/"><u>[Updated] How to Make Macbook Pro Video Tutorials Easy for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-replies-enhancing-interaction-on-telegram-platforms/"><u>2024 Approved Revolutionize Replies Enhancing Interaction on Telegram Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-subscriber-threshold-raised-for-profits/"><u>2024 Approved Subscriber Threshold Raised for Profits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-get-your-hands-on-the-affordable-colsen-tabletop-fire-pit-for-just-50-today/"><u>Don't Miss Out! Get Your Hands on the Affordable Colsen Tabletop Fire Pit for Just $50 Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ecoflow-river-3-a-leading-choice-for-beginners-in-portable-power-solutions/"><u>EcoFlow River 3 - A Leading Choice for Beginners in Portable Power Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-solo-marketing-in-2008-boosting-ad-performance-through-massmail-solutions/"><u>Effective Solo Marketing in 2008: Boosting Ad Performance Through MassMail Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-green-thumb-with-our-plant-care-software-at-an-extra-discounted-price-this-labor-day-exclusive-deal-alert/"><u>Enhance Your Green Thumb with Our Plant Care Software at an Extra Discounted Price This Labor Day | Exclusive Deal Alert!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-endless-entertainment-with-this-ultimate-remote-controlled-lawn-mowing-system-a-review-unleash-your-green-thumb-in-a-whole-new-way/"><u>Experience Endless Entertainment with This Ultimate Remote-Controlled Lawn Mowing System: A Review - Unleash Your Green Thumb in a Whole New Way!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-tips-on-picking-your-ideal-lawn-mower-according-to-zdnet-standards/"><u>Expert Tips on Picking Your Ideal Lawn Mower According to ZDNet Standards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-elite-quad-of-2022-walkie-talkies-in-depth-review-zdnet/"><u>Exploring the Elite Quad of 2022 Walkie-Talkies - In Depth Review | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-most-efficient-traveling-solar-panels-for-2-unveiling-our-picks-on-zdnet/"><u>Exploring the Most Efficient Traveling Solar Panels for 2#: Unveiling Our Picks on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/first-look-at-the-dji-mini-3-pro-the-ultimate-tiny-drone-for-stealthy-aerial-photography-with-integrated-battery-charger-gadgethub-zdnet/"><u>First Look at the DJI Mini 3 Pro – The Ultimate Tiny Drone for Stealthy Aerial Photography with Integrated Battery Charger | GadgetHub ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gear-up-for-adventure-with-the-ultimate-guide-to-best-outdoor-tvs-expert-ratings-zdnet/"><u>Gear Up for Adventure with the Ultimate Guide to Best Outdoor TVs - Expert Ratings | ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhance-your-experience-with-mi-11-screen-capture-guide/"><u>In 2024, Enhance Your Experience with Mi 11 Screen Capture Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-voice-over-recording-for-videos/"><u>In 2024, Mastering Voice-Over Recording for Videos</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-5-high-definition-media-players-for-pc-and-mac-detailed-comparison-downloads-and-user-reviews-4k-edition/"><u>Top 5 High Definition Media Players for PC and Mac: Detailed Comparison, Downloads & User Reviews - 4K Edition</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-stellar/"><u>Windows 用の失われたファイルを復元する Stellar データリカバリ -無料版でも利用可能</u></a></li>
+</ul></div>
+

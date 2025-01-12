@@ -1,7 +1,7 @@
 ---
 title: "Exploring Emerging Mobile Innovations: Intelligent AI on Phones & The Evolution of Smartphones - Insights From ZDNet"
-date: 2024-12-30T22:56:16.046Z
-updated: 2025-01-05T17:34:09.872Z
+date: 2025-01-10T17:53:19.618Z
+updated: 2025-01-12T17:37:50.032Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -112,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,17 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>[New] 2024 Approved Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>[New] 2024 Approved Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chronic-inflammation/"><u>Chronic Inflammation</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-spark-go-2023-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Spark Go (2023) to Another | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-11-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 11 and Browser | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-synergy-of-rag-and-generative-ai-llms-enhancing-your-business-expertise-for-success-zdnet-insights/"><u>Mastering the Synergy of RAG and Generative AI LLMs: Enhancing Your Business Expertise for Success | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-advances-in-open-source-ai-unveiled-introducing-llama-31-insights-from-zdnet/"><u>Meta Advances in Open-Source AI Unveiled: Introducing LLaMA 3.1 - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/red-hat-elevates-enterprise-solutions-with-cutting-edge-linux-ai-features-expert-analysis-on-zdnet/"><u>Red Hat Elevates Enterprise Solutions with Cutting-Edge Linux AI Features | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stack-overflow-warnings-on-profile-suspension-due-to-ai-protests-insights-from-zdnet/"><u>Stack Overflow Warnings on Profile Suspension Due to AI Protests - Insights From ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-adjusting-audio-preferences-on-your-device-with-yl-software-solutions/"><u>Step-by-Step Guide: Adjusting Audio Preferences on Your Device with YL Software Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/unlocking-the-secrets-to-masterful-design-with-37-tips-by-real-professionals-discover-more-with-massmail-software/"><u>Unlocking the Secrets to Masterful Design with 37 Tips by Real Professionals - Discover More with Massmail Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-tips-for-efficient-film-recording-on-pc-and-mobile/"><u>[New] In 2024, Top Tips for Efficient Film Recording on PC & Mobile</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cutting-edge-camera-technology-for-youtube-stars/"><u>[Updated] 2024 Approved Cutting-Edge Camera Technology For YouTube Stars</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-beginners-path-to-compiling-a-youtube-playlist/"><u>[Updated] A Beginner's Path to Compiling a YouTube Playlist</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unleashing-potential-in-4k-with-top-gimbals-selection/"><u>[Updated] Unleashing Potential in 4K with Top Gimbals Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-unveiling-the-apple-studio-display-comprehensive-guide-to-specifications-and-innovative-features/"><u>1. Unveiling the Apple Studio Display: Comprehensive Guide to Specifications & Innovative Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/arm-showdown-will-microsoft-edge-out-apple-with-enhanced-windows-performance/"><u>ARM Showdown: Will Microsoft Edge Out Apple with Enhanced Windows Performance?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-tech-unveiled-apple-aims-to-introduce-camera-enabled-airpods-by-2026-exclusive-details-revealed/"><u>Future Tech Unveiled: Apple Aims to Introduce Camera-Enabled AirPods by 2026 – Exclusive Details Revealed</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gifisation-de-vos-videos-guide-pratique-sur-movavi-converter/"><u>GIFisation De Vos Videos : Guide Pratique Sur Movavi Converter</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effective-youtube-banners-pros-and-cons-to-avoid/"><u>In 2024, Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-11r-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus 11R</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-microsoft-surface-pro-8-tailored-solutions-for-enterprise-users-insights/"><u>In-Depth Analysis of Microsoft Surface Pro 8: Tailored Solutions for Enterprise Users - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-nx-release-exclusive-breakdown-of-most-popular-models-and-their-availability-timelines-zdnet-coverage/"><u>IPhone nX Release: Exclusive Breakdown of Most Popular Models and Their Availability Timelines | ZDNET Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-m1-at-unbeatable-discount-save-big-and-grab-yours-now-for-only-649-exclusive-deal/"><u>MacBook Air M1 at Unbeatable Discount: Save Big and Grab Yours Now for Only $649 – Exclusive Deal !</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g84-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G84 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ready-to-embark-with-vision-pros-travel-suite-discover-key-features-and-benefits-first-guide/"><u>Ready to Embark with Vision Pro's Travel Suite? Discover Key Features and Benefits First! Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unexpected-savings-alert-snag-an-apple-macbook-air-with-m2-chip-for-just-over-850-on-amazon-ahead-of-octobers-prime-shopping-extravaganza-zdnet-insider-tips24/"><u>Unexpected Savings Alert! Snag an Apple MacBook Air with M2 Chip for Just Over $850 on Amazon - Ahead of October's Prime Shopping Extravaganza | ZDNET Insider Tips</u></a></li>
 </ul></div>
 

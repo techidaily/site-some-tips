@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2025-01-01T04:23:15.928Z
-updated: 2025-01-06T02:15:52.624Z
+date: 2025-01-08T17:15:54.038Z
+updated: 2025-01-12T19:24:24.236Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,18 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-apex-producer-syncing-shots-and-songs/"><u>[New] 2024 Approved Apex Producer Syncing Shots & Songs</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-creating-classical-cinematography-a-modern-tutorial/"><u>[New] Creating Classical Cinematography A Modern Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[Updated] 2024 Approved Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beginners-roadmap-understanding-and-investing-in-cryptocurrencies-tips-from-zdnet/"><u>Beginner's Roadmap: Understanding & Investing in Cryptocurrencies - Tips From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/early-bird-special-on-amazon-prime-bargain-bonanza-or-just-hot-air/"><u>Early Bird Special on Amazon Prime: Bargain Bonanza or Just Hot Air?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ensuring-timely-holiday-cheer-top-websites-offering-express-present-shipping-services-this-season/"><u>Ensuring Timely Holiday Cheer: Top Websites Offering Express Present Shipping Services This Season</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-advice-diagnosing-and-fixing-pc-hardware-errors-in-windows-with-help-from-yl-technology-solutions/"><u>Expert Advice: Diagnosing and Fixing PC Hardware Errors in Windows with Help From YL Technology Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-small-group-setups-in-zoom-for-2024/"><u>Navigating Small Group Setups in Zoom for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-missing-msvcr70dll-file-issue-on-your-pc/"><u>Resolving the Missing MSVCR70.DLL File Issue on Your PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singapore-unveils-digital-solution-for-improved-supply-chain-communication-insights-from-zdnet/"><u>Singapore Unveils Digital Solution for Improved Supply Chain Communication: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-top-pick-the-finest-credit-cards-tailored-for-digital-storefronts-and-online-shopping-experience/"><u>ZDNet's Top Pick: The Finest Credit Cards Tailored for Digital Storefronts and Online Shopping Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-optimizing-board-use-on-zoom-desktopiosandroid-techniques/"><u>2024 Approved Optimizing Board Use on Zoom - Desktop/iOS/Android Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/bluestacks-stability-solutions-a-step-by-step-guide-for-swift-fixes-in-5-steps/"><u>BlueStacks Stability Solutions: A Step-by-Step Guide for Swift Fixes in 5 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-enhanced-airpods-top-4-improved-features-revealed-by-tech-giant/"><u>Discover Apple's Enhanced AirPods: Top 4 Improved Features Revealed by Tech Giant</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eager-to-switch-on-vision-pros-journey-setting-essential-tips-and-expectations-you-should-know-beforehand-exploration/"><u>Eager To Switch On Vision Pro's Journey Setting? Essential Tips & Expectations You Should Know Beforehand Exploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-steps-to-enhance-complexity-in-your-apple-watch-insights/"><u>Easy Steps to Enhance Complexity in Your Apple Watch - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exposed-and-protected-how-to-discover-if-an-airtag-has-been-used-for-stalking/"><u>Exposed & Protected: How To Discover If An AirTag Has Been Used For Stalking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-mkv-in-mp4-omzetten-onlinerevisie-met-movavi/"><u>Gratuit Gebaseerd MKV-In MP4 Omzetten - Onlinerevisie Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipados-18-unveiled-at-wwdc-2024-the-game-changing-feature-that-could-convert-you-to-apple/"><u>IPadOS 18 Unveiled at WWDC 2024: The Game-Changing Feature That Could Convert You to Apple!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prestigious-music-archives-for-vfx-artists-for-2024/"><u>Prestigious Music Archives for VFX Artists for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-roadmap-for-success-boosting-vision-pros-appeal-with-apple-insights/"><u>The Roadmap for Success: Boosting Vision Pro's Appeal with Apple - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-worth-reconsidering-before-purchase-insights-by-zdnet/"><u>Top 4 Apple Devices Worth Reconsidering Before Purchase - Insights by ZDNet</u></a></li>
 </ul></div>
 

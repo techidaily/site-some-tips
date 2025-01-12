@@ -1,7 +1,7 @@
 ---
 title: Red Hat's Innovation Leap - Launching a Virtualized RHEL Desktop Experience on AWS Platform, as Reported by ZDNet
-date: 2024-09-19 18:51:25
-updated: 2024-09-20 10:53:28
+date: 2025-01-06T21:00:40.626Z
+updated: 2025-01-12T17:31:19.081Z
 tags:
   - amazon
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/03566a3f87b111629b9a28e337ee47a251
 Red Hat
 
 Once upon a time, and it wasn't that long ago, "desktops" were terminals to mainframes or midrange computers running Unix. Then along came the PC, and everything changed. That is, until now. Today, Desktop-as-a-Service (DaaS) is making a comeback. And [Red Hat](https://www.redhat.com/en) is joining this trend with the general availability of [Red Hat Enterprise Linux for Workstations](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/workstations) (RHEL WS) on [Amazon Web Services](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce11bebd9-9815-4990-8ce3-cf401238218e%7Cdtp&dtb=1), announced Tuesday.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,29 @@ Want to give it a try? It's available today via the AWS Marketplace with support
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging/"><u>[New] 2024 Approved Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram-for-2024/"><u>[New] Smooth Streams Combining a Multitude of Images & Videos for Instagram for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leveraging-daylight-in-home-interiors-for-2024/"><u>[Updated] Leveraging Daylight in Home Interiors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-collaboration-for-effective-content-delivery/"><u>2024 Approved YouTube Collaboration for Effective Content Delivery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-enhances-security-with-new-ai-optimized-operating-system-for-data-centers-tech-insights/"><u>Apple Enhances Security with New AI-Optimized Operating System for Data Centers | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-is-mark-zuckerbergs-analysis-spot-on-tech-insights/"><u>Comparing Meta Quest 3 and Apple Vision Pro: Is Mark Zuckerberg's Analysis Spot-On? Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immerse-in-the-world-of-apple-sports-the-must-have-complimentary-iphone-app-that-every-devotee-needs/"><u>Immerse in the World of Apple Sports: The Must-Have Complimentary iPhone App That Every Devotee Needs!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-funny-image-processing-app/"><u>In 2024, Top Funny Image Processing App</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-a20-an-affordable-android-choice/"><u>In-Depth Analysis of the Samsung Galaxy A20: An Affordable Android Choice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/live-streaming-guide-facebook-via-androidios-devices-for-2024/"><u>Live Streaming Guide Facebook via Android/iOS Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/per-site-safeguards-tailoring-your-safari-add-ons-for-enhanced-web-security-and-privacy-controls/"><u>Per-Site Safeguards: Tailoring Your Safari Add-Ons for Enhanced Web Security and Privacy Controls</u></a></li>
+<li><a href="https://win-dash.techidaily.com/startech-drivers-seamless-integration-with-windows-1187-troubleshooting-guide-unveiled/"><u>StarTech Drivers: Seamless Integration with Windows 11/8/7 – Troubleshooting Guide Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-tablet-reviews-and-comparisons-comprehensive-guide/"><u>Top Rated Tablet Reviews & Comparisons Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-the-real-price-tag-on-complimentary-smartphones-offered-by-cellphone-companies/"><u>Uncovering the Real Price Tag on Complimentary Smartphones Offered by Cellphone Companies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-iphone-15-stands-out-in-a-crowded-market-expert-recommendations-by-zdnet-for-enthusiasts-and-veterans/"><u>Why the iPhone 15 Stands Out in a Crowded Market | Expert Recommendations by ZDNet for Enthusiasts & Veterans</u></a></li>
+</ul></div>
+

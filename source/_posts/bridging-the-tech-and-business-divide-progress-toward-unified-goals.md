@@ -1,7 +1,7 @@
 ---
 title: Bridging the Tech and Business Divide - Progress Toward Unified Goals
-date: 2024-09-17 15:43:16
-updated: 2024-09-20 11:13:44
+date: 2025-01-07T20:58:57.614Z
+updated: 2025-01-12T18:44:17.525Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/7c9ad9101489b90e012e273cd29e8da698
 Business-IT alignment has been a dream talked up for decades by analysts, speakers, technologists and business leaders. Did the Covid situation finally force things into alignment? 
 
 Look to the growing emphasis on customer experience (CX) among technology staffs, which has moved their priorities from the care and feeding of back-end systems to the care and feeding of actual customers. Not every organization is quite there yet, and many tech professionals still feel cut off from the final delivery of products and services to consumers. Nevertheless, the world of tech is changing, requiring new mindsets and ways of working -- including greater collaboration and greater empathy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -43,11 +47,33 @@ We may eventually see the day when tech and business priorities are indistinguis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-free-online-tools-perfect-your-beats-like-a-pro-dj/"><u>[New] 2024 Approved Free Online Tools Perfect Your Beats Like a Pro DJ</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-formulating-windowsmac-skype-group-chats-easily/"><u>[Updated] 2024 Approved Formulating Windows/Mac Skype Group Chats Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-clones-playbook-secrets-to-mirror-success-on-the-tiktok-sphere/"><u>[Updated] 2024 Approved The Clone's Playbook Secrets to Mirror Success on the TikTok Sphere</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-securely-syncing-your-mobile-data-on-iphone-and-android/"><u>Complete Guide: Securely Syncing Your Mobile Data on iPhone & Android</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-video-files-instantly-free-webm-to-mp3-online-service-by-movavi-convert-tool/"><u>Convert Video Files Instantly: Free WebM to MP3 Online Service by Movavi Convert Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-wi-fi-calling-meanings-and-implications/"><u>Decoding Wi-Fi Calling: Meanings & Implications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apple-airtags-4-pack-now-at-walmart-save-24-during-the-labor-day-sale-zdnet/"><u>Discover Apple AirTags 4-Pack Now at Walmart: Save $24 During the Labor Day Sale - ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-ideal-career-beginnings-5-key-tips-by-zdnet-professionals/"><u>Discovering Ideal Career Beginnings: 5 Key Tips by ZDNet Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-your-contacts-gpg-keys-with-mozilla-thunderbird-a-step-by-step-guide/"><u>Discovering Your Contacts' GPG Keys with Mozilla Thunderbird: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dont-miss-out-grab-your-free-access-to-mondly-premium-before-its-too-late/"><u>Don't Miss Out - Grab Your Free Access to Mondly Premium Before It's Too Late</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-the-remote-revolution-insights-from-decades-of-telecommuting-techinsight/"><u>Embracing the Remote Revolution: Insights From Decades of Telecommuting | TechInsight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-ladies-in-tech-insights-from-successful-entrepreneurs-on-climbing-the-it-career-ladder/"><u>Empowering Ladies in Tech: Insights From Successful Entrepreneurs on Climbing the IT Career Ladder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-browser-management-with-arcs-innovative-air-traffic-control-tool-tips-and-insights-zdnet/"><u>Enhance Browser Management with Arc's Innovative Air Traffic Control Tool - Tips & Insights | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-teams-shared-document-workflow-with-proven-strategies-insights-from-zdnet/"><u>Enhance Your Team's Shared Document Workflow with Proven Strategies: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-tips-for-winning-at-job-interviews-as-recommended-by-top-business-figures-insights-and-advice/"><u>Essential Tips for Winning at Job Interviews as Recommended by Top Business Figures - Insights & Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/firefox-vs-opera-showdown-determining-your-ideal-web-browser-choice-insights-from-zdnet/"><u>Firefox Vs. Opera Showdown: Determining Your Ideal Web Browser Choice | Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-easily-accessible-shorts-on-youtube-for-2024/"><u>Fixed Easily Accessible Shorts on YouTube for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978788569-successfully-update-or-download-new-d-link-drivers-for-windows-quick-fixes-revealed/"><u>Successfully Update or Download New D-Link Drivers for Windows - Quick Fixes Revealed!</u></a></li>
+</ul></div>
+

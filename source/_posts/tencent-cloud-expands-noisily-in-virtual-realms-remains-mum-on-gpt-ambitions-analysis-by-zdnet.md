@@ -1,7 +1,7 @@
 ---
 title: Tencent Cloud Expands Noisily in Virtual Realms, Remains Mum on GPT Ambitions | Analysis by ZDNET
-date: 2024-09-18 18:37:16
-updated: 2024-09-20 11:48:26
+date: 2025-01-06T20:07:00.356Z
+updated: 2025-01-12T19:03:40.534Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Further development in Web3 will lead to more diverse applications, such as the 
 
 Pointing to the metaverse, he said Tencent's experience in online games and communication services spanning text, audio, video, and 3D, will be a competitive advantage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Tencent Cloud pledges SEA expansion with launch of Indonesia data centre](https://www.zdnet.com/article/tencent-cloud-pledges-sea-expansion-with-launch-of-indonesia-data-centre/)
@@ -61,11 +65,23 @@ Pointing to the metaverse, he said Tencent's experience in online games and comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-swiftly-render-and-upload-videos-tips-for-speedy-youtube-submissions/"><u>[New] In 2024, Swiftly Render & Upload Videos Tips for Speedy YouTube Submissions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-facebooks-fresh-features-and-changes-for-2024/"><u>[Updated] Navigating Facebook's Fresh Features & Changes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-budget-friendly-android-device-how-the-affordable-pixel-5-surpasses-expectations-as-our-top-choice-in-google-phones-of-the-year-techradar/"><u>Best Budget-Friendly Android Device: How the Affordable Pixel 5 Surpasses Expectations as Our Top Choice in Google Phones of the Year | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expand-your-typography-options-mastering-additional-fonts-in-google-docs-the-essential-guide/"><u>Expand Your Typography Options: Mastering Additional Fonts in Google Docs - The Essential Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211147270-9781985900981-haint-country/"><u>Haint Country | Free Book</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-tips-for-silent-screen-capture/"><u>In 2024, Top Tips for Silent Screen Capture</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-best-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>New Best 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hidden-alliance-qualcomm-joins-forces-with-samsung-and-google-for-revolutionary-mixed-reality-glasses-a-closer-look-by-zdnet/"><u>The Hidden Alliance: Qualcomm Joins Forces With Samsung & Google For Revolutionary Mixed Reality Glasses - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-memory-how-googles-latest-gemini-models-reach-near-flawless-performance/"><u>Unlocking the Power of Memory: How Google's Latest Gemini Models Reach Near-Flawless Performance</u></a></li>
+</ul></div>
+

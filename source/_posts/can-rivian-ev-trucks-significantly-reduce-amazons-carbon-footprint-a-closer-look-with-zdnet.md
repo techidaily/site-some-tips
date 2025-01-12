@@ -1,7 +1,7 @@
 ---
 title: "Can Rivian EV Trucks Significantly Reduce Amazon's Carbon Footprint?: A Closer Look with ZDNet"
-date: 2024-09-18 19:43:34
-updated: 2024-09-20 10:50:38
+date: 2025-01-11T18:40:34.560Z
+updated: 2025-01-12T18:46:16.480Z
 tags:
   - amazon
 categories:
@@ -18,6 +18,10 @@ Rivan CEO RJ Scaringe unveiled the custom electric delivery vehicle that his com
 Getty/Mustafa Hussain
 
 Amazon's recent rollout of Rivian electric delivery vehicles represented a milestone in the company's work toward reducing emissions. Starting in major cities, including Chicago, Dallas, San Diego, and -- no surprise -- Seattle, Amazon plans to have the vehicles in more than 100 cities shortly and will expand to more than 100,000 vehicles across the U.S. by 2030\. While Rivian had the inside track as a company that Amazon has invested in, the EV company will have to feature more than just electrification to compete long-term in an industry where electrification will start to become the norm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -60,11 +64,27 @@ The increases come during a period when Amazon doubled the fulfillment center ne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-employing-google-trends-to-discover-compelling-video-themes/"><u>[New] In 2024, Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tactics-and-techniques-for-thriving-in-spotifys-adverse/"><u>[New] In 2024, Tactics and Techniques for Thriving in Spotify's Adverse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pivotal-user-feedback-a-look-at-vllo/"><u>[New] Pivotal User Feedback A Look at VLLO</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-screen-capture-tool-2021-for-2024/"><u>[New] Ultimate Screen Capture Tool 2021 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-worlds-richest-social-media-influencer/"><u>2024 Approved World's Richest Social Media Influencer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-zen-5-innovation-tested-in-fire-how-does-the-prototype-ryzen-9-9950x-hold-up-under-maximum-load/"><u>AMD's Zen 5 Innovation Tested in Fire: How Does the Prototype Ryzen 9 9950X Hold Up Under Maximum Load?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-siri-and-chatgpt-stand-out-key-differences-revealed/"><u>How Siri and ChatGPT Stand Out - Key Differences Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-apple-vision-pro-cost-breakdown-main-attributes-and-user-experience-insights-comprehensive-analysis-for-tech-enthusiasts/"><u>Inside the Apple Vision Pro: Cost Breakdown, Main Attributes & User Experience Insights - Comprehensive Analysis for Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mystery-boxes-galore-the-top-10-shoplists-revealed-for-2024/"><u>Mystery Boxes Galore The Top 10 Shoplists Revealed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-iphone-16-charging-experience-with-the-new-esr-qi2-magsafe-charger-cooler-and-quicker-than-ever/"><u>Revolutionize Your iPhone 16 Charging Experience with the New ESR Qi2 MagSafe Charger – Cooler and Quicker than Ever</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-disabling-your-apple-music-subscription-independently-of-itunes-tips-from-zdnet/"><u>Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-securing-your-early-order-of-iphone-15-and-apple-watch-series-9-ultra-2-with-exceptional-offers-insights/"><u>Step-by-Step Guide: Securing Your Early Order of iPhone 15 & Apple Watch Series 9 Ultra 2 with Exceptional Offers - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-visionaries-using-chatgpt-for-innovative-images/"><u>Visual Visionaries: Using ChatGPT for Innovative Images</u></a></li>
+</ul></div>
+

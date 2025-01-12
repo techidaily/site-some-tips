@@ -1,7 +1,7 @@
 ---
 title: "Exploring AWS's Latest Industry Moves Unveiled at the Re:Invent 2021 Conference | ZDNet Analysis"
-date: 2024-09-18 15:16:19
-updated: 2024-09-20 11:31:17
+date: 2025-01-11T16:58:23.376Z
+updated: 2025-01-12T21:16:37.140Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,30 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-improving-remote-work-communications-with-4-strategies-for-2024/"><u>[New] Improving Remote Work Communications with #4 Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-tactics-optimizing-freefire-video-content/"><u>[Updated] 2024 Approved Expert Tactics Optimizing FreeFire Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finalcut-pro-101-crafting-professional-youtube-edits-for-2024/"><u>[Updated] FinalCut Pro 101 Crafting Professional YouTube Edits for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-traction-techniques-for-million-sub-attainment/"><u>[Updated] In 2024, Youtube Traction Techniques for Million-Sub Attainment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-samsung-bd-j5900-a-detailed-look/"><u>2023'S Samsung BD-J5900 A Detailed Look</u></a></li>
+<li><a href="https://some-tips.techidaily.com/attract-avian-admirers-secure-our-feathered-friends-using-the-latest-bird-watching-application-now-at-no-cost/"><u>Attract Avian Admirers: Secure Our Feathered Friends Using the Latest Bird-Watching Application - Now at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-value-in-surveillance-grab-the-highly-rated-blink-mini-2-with-a-spectacular-labor-day-offer-of-25-off/"><u>Best Value in Surveillance: Grab the Highly Rated Blink Mini 2 with a Spectacular Labor Day Offer of 25% Off</u></a></li>
+<li><a href="https://some-tips.techidaily.com/big-discounts-on-bluetti-portable-solar-generators-dont-miss-the-summer-clearance-event-insights-from-zdnet/"><u>Big Discounts on Bluetti Portable Solar Generators: Don't Miss the Summer Clearance Event - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/brighten-up-your-backyard-experience-enhanced-illumination-with-the-latest-govee-outdoor-lights-perfect-weekend-project/"><u>Brighten Up Your Backyard: Experience Enhanced Illumination with the Latest Govee Outdoor Lights - Perfect Weekend Project!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-extracting-nested-archives-in-windows/"><u>Comprehensive Guide to Extracting Nested Archives in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-2022s-most-terrifying-halloween-animatronics-a-review-by-tech-experts/"><u>Discover 2022'S Most Terrifying Halloween Animatronics: A Review by Tech Experts!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-world-of-lovebirds-a-complimentary-bird-watching-app-that-preserves-their-habitat-zdnet/"><u>Discover the World of Lovebirds: A Complimentary Bird Watching App That Preserves Their Habitat | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-huawei-nova-y71-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Huawei Nova Y71 Phone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/speichern-sie-ihre-lol-meisterleistungen-sicher-eine-anleitung-zu-recovery-durch-myrecover/"><u>Speichern Sie Ihre LoL-Meisterleistungen Sicher: Eine Anleitung Zu Recovery Durch MyRecover</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streamline-your-familys-time-with-these-7-essential-calendar-apps/"><u>Streamline Your Family's Time With These 7 Essential Calendar Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-top-picks-elite-video-doorbells-of-2024/"><u>ZDNET's Top Picks: Elite Video Doorbells of 2024</u></a></li>
+</ul></div>
+

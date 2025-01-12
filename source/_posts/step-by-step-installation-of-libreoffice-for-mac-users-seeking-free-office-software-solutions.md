@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2025-01-02T23:29:31.575Z
-updated: 2025-01-05T19:22:43.251Z
+date: 2025-01-10T16:22:53.941Z
+updated: 2025-01-12T16:25:46.746Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -48,10 +48,6 @@ The only thing you'll need is a macOS device (MacBook or iMac). With that in han
 
 ## Installing LibreOffice
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Download the installer
 
 You cannot install LibreOffice from the macOS App Store. Instead, open your default web browser and point it to [www.libreoffice.org](http://www.libreoffice.org). Click Download Now. This will take you to the download page.
@@ -63,7 +59,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -81,6 +77,10 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -92,7 +92,7 @@ Image: Jack Wallen
 ## How to open LibreOffice
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
@@ -108,7 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -151,24 +151,24 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>[New] 2024 Approved Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-driving-engagement-and-growth-the-role-of-brand-in-youtube-success/"><u>2024 Approved Driving Engagement and Growth The Role of Brand in YouTube Success</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/free-subtitle-grabbers-from-youtube-archive-for-2024/"><u>Best Free Subtitle Grabbers From YouTube Archive for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/entendiendo-el-clon-de-host-en-vmware-y-pasos-para-replicarlo/"><u>Entendiendo El Clon De Host en VMware Y Pasos Para Replicarlo</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tion-of-engagement-key-post-vidcon-events-for-2024/"><u>Evolution of Engagement Key Post-VidCon Events for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-rectify-disabled-right-click-windows-11-touchpad/"><u>How To Rectify Disabled Right-Click Windows 11 Touchpad</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-igtv-impact-effective-tips-for-vertical-video-conversion/"><u>In 2024, Maximizing IGTV Impact Effective Tips for Vertical Video Conversion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leaked-details-revealed-preview-of-samsungs-latest-galaxy-book4-edge-with-snapdragon-chipset-before-microsoft-unveils-new-hardware/"><u>Leaked Details Revealed: Preview of Samsung's Latest Galaxy Book4 Edge with Snapdragon Chipset Before Microsoft Unveils New Hardware</u></a></li>
-<li><a href="https://some-tips.techidaily.com/managing-power-costs-with-ease-discover-schneider-electrics-strategies-zdnet/"><u>Managing Power Costs with Ease: Discover Schneider Electric's Strategies | ZDNet</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>New 2024 Approved Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/slashes-price-save-big-with-govee-smart-space-heater-at-only-60-less-info-at-zdnet/"><u>Slashes Price: Save Big with Govee Smart Space Heater at Only $60 Less - Info at ZDNET</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-integrate-youtube-media-into-gslides/"><u>Step-by-Step Guide to Integrate YouTube Media Into GSlides</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-affordable-residential-power-solutions-decembers-exclusive-deals-on-generators-zdnet/"><u>Top 4 Affordable Residential Power Solutions - December's Exclusive Deals on Generators | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-electric-lawn-mowers-expert-reviews-and-comparison/"><u>Top 5 Electric Lawn Mowers : Expert Reviews & Comparison</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-expert-reviews-by-zdnet/"><u>Top-Rated Budget-Friendly Portable Chargers : Comprehensive Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-flashlights-comprehensive-review-by-specialists-zdnet/"><u>Top-Rated Flashlights : Comprehensive Review by Specialists | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-portable-car-battery-boosters-professional-reviews-by-zdnet/"><u>Top-Rated Portable Car Battery Boosters - Professional Reviews by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-window-air-conditioners-professional-picks-by-techradar/"><u>Top-Rated Window Air Conditioners : Professional Picks by TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-portable-chargers-for-camping-trips-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to Choosing the Perfect Portable Chargers for Camping Trips: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-photo-and-film-capture-apps-iphone-and-android-edition-for-2024/"><u>[New] Essential Photo & Film Capture Apps IPhone & Android Edition for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-guide-to-leveraging-youtube-video-endings/"><u>[Updated] In 2024, The Ultimate Guide to Leveraging YouTube Video Endings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-future-with-tomtom-bandit-2023/"><u>[Updated] In 2024, Unveiling the Future with TomTom Bandit 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bypassing-the-high-price-tag-of-apple-vision-pro-with-cost-effective-xr-glasses-my-eye-opening-experience-zdnet/"><u>Bypassing the High Price Tag of Apple Vision Pro with Cost-Effective XR Glasses - My Eye-Opening Experience | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-newest-apple-watches-ultra-vs-series-prise-8-the-comprehensive-guide-by-techradar/"><u>Choosing Between the Newest Apple Watches: Ultra vs Series Prise 8 - The Comprehensive Guide by TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-era-of-smartphones-with-iphone-16s-best-features-unveiled/"><u>Discover the New Era of Smartphones with iPhone 16'S Best Features | Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-compatibility-implement-the-newest-intel-iris-graphics-am-540-driver-today/"><u>Effortless Compatibility: Implement the Newest Intel Iris Graphics Am 540 Driver Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-insights-on-the-ipad-pro-embracing-its-unique-strength-as-a-top-tier-tablet-separate-from-macbook-a-comprehensive-review/"><u>Expert Insights on the iPad Pro: Embracing Its Unique Strength as a Top-Tier Tablet Separate From MacBook - A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-latest-apple-innovations-from-wwdc-today-a-guide-to-where-and-how-you-can-preorder-them/"><u>Get Your Hands on the Latest Apple Innovations From WWDC Today: A Guide to Where and How You Can Preorder Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-using-the-messages-app-to-access-imessage-features-on-windows-insights-from-zdnet/"><u>Guide: Using the Messages App to Access iMessage Features on Windows - Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-xs-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone XS or iPad?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-x9a-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor X9a Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-experience-apples-revolutionary-3d-videos-with-meta-quest-3-the-ultimate-tutorial/"><u>How to Experience Apple's Revolutionary 3D Videos with Meta Quest 3: The Ultimate Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-vs-iphone-15-comparison-essential-considerations-when-choosing-apples-newest-base-model/"><u>IPhone 16 Vs. IPhone 15 Comparison: Essential Considerations When Choosing Apple's Newest Base Model</u></a></li>
+<li><a href="https://some-tips.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-the-best-buy-of-the-year-revealed-by-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - The Best Buy of the Year Revealed by ZDNet!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>New 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snapchats-feature-the-spotlight-guide-for-2024/"><u>Snapchat's Feature The Spotlight Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vision-pro-upgrade-on-horizon-discover-apples-plans-for-innovative-respiration-tracking-technology-as-reported/"><u>Vision Pro Upgrade on Horizon? Discover Apple's Plans for Innovative 'Respiration Tracking' Technology, as Reported</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-makes-prompt-engineering-a-practical-career-choice/"><u>What Makes Prompt Engineering a Practical Career Choice?</u></a></li>
 </ul></div>
 

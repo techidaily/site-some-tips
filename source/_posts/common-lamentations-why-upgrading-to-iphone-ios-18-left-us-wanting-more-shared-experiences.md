@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2024-12-14T17:50:19.046Z
-updated: 2024-12-21T18:52:23.214Z
+date: 2025-01-09T18:29:36.418Z
+updated: 2025-01-12T19:33:14.097Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-complete-survey-lightroom-app-unpacked-android/"><u>[Updated] Complete Survey Lightroom App Unpacked (Android)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[Updated] In 2024, Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-webmswf/"><u>網路上自由下載MOVAVI WebM到SWF的轉換工具</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
-<li><a href="https://games-able.techidaily.com/constraining-background-observations-by-game-bar-on-os-11/"><u>Constraining Background Observations by Game Bar on OS 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decouvrez-les-meilleures-versions-gratuites-de-convertisseur-mov-mac-oswindowsen-ligne-classement-des-experts/"><u>Découvrez Les Meilleures Versions Gratuites De Convertisseur MOV [Mac OS/Windows/En Ligne] : Classement Des Experts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elite-free-screen-partnership-adventures-for-2024/"><u>Elite Free Screen Partnership Adventures for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-honor-x8b-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor X8b Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-blaze-2-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Blaze 2 5G Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-windows-pc-with-broadcoms-bluetooth-device-driver/"><u>How to Update Your Windows PC with Broadcom's Bluetooth Device Driver</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-6s-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 6s to PC | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sedis-doma-a-chces-nahradit-schuzi-bez-povoleni-pokus-se-zoom-na-movavi-navrhovaci-prukladky/"><u>Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-to-effortless-screen-capturing-on-personal-computers/"><u>The Beginner's Handbook to Effortless Screen Capturing on Personal Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-camera-troubles-no-more-with-obs/"><u>[New] 2024 Approved Camera Troubles No More with OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-video-treasures-top-5-list/"><u>[New] Facebook Video Treasures - Top 5 List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-scooping-strategies-review-rundown/"><u>[New] SCOOPING STRATEGIES Review Rundown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-windows-10-two-monitor-blankness/"><u>Addressing Windows 10 Two-Monitor Blankness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-siris-capabilities-how-apples-latest-ai-model-transforms-your-desktop-experience-exclusive/"><u>Boosting Siri's Capabilities: How Apple's Latest AI Model Transforms Your Desktop Experience Exclusive</u></a></li>
+<li><a href="https://fox-http.techidaily.com/bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-insights-on-the-ipad-pro-embracing-its-unique-strength-as-a-top-tier-tablet-separate-from-macbook-a-comprehensive-review-by-zdnet/"><u>Expert Insights on the iPad Pro: Embracing Its Unique Strength as a Top-Tier Tablet Separate From MacBook - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/find-the-hottest-june-2024-discounts-and-deals-at-best-buy-insider-tips-revealed/"><u>Find the Hottest June 2024 Discounts and Deals at Best Buy – Insider Tips Revealed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-nova-y71-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei Nova Y71 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>In 2024, Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-cycling-adventures-with-photochromic-glasses-and-hud-technology-a-game-changing-review-by-zdnet/"><u>Transforming Cycling Adventures with Photochromic Glasses & HUD Technology | A Game-Changing Review by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-securing-your-data-by-syncing-iphone-and-mac-with-icloud-tips/"><u>Ultimate Guide: Securing Your Data by Syncing iPhone & Mac with iCloud - Tips</u></a></li>
 </ul></div>
 

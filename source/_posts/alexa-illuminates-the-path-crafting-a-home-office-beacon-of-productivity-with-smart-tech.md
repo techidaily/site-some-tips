@@ -1,7 +1,7 @@
 ---
 title: "Alexa Illuminates the Path: Crafting a Home Office Beacon of Productivity with Smart Tech!"
-date: 2024-09-19 21:22:54
-updated: 2024-09-20 12:32:23
+date: 2025-01-08T18:33:39.471Z
+updated: 2025-01-12T18:09:48.851Z
 tags:
   - amazon
 categories:
@@ -43,6 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Building a modern busy light 
 
 Back in 2014, just about the only smart bulb was the Philips Hue. Now, of course, everything is Alexa-enabled. Not just bulbs, but all sorts of light fixtures. And Alexa can easily assign colors. That ability makes setting up a busy light system now just about as easy as setting up any smart light. 
@@ -54,6 +58,10 @@ We chose the [Govee Night Light](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5
 It sits on a furniture unit in our family room and can be seen from every vantage point, not only in the room, but in the hall and passing by. There's no way to miss the signals. 
 
 Speaking of signals, we use the same red, green, and yellow we used before, except we decided we liked the color that was displayed by, "Alexa, set busy light to orange," more than the one for yellow. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Configuring the busy light 
 
@@ -72,6 +80,10 @@ Screenshot by David Gewirtz/ZDNET
 Finally, you give the item a name. Usually, the name is assigned in the vendor's app and then it propagates through the skill and into the Alexa app. In our case, we named the Govee Night Light as "busy light" and that's how it shows up in the Alexa device inventory. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The busy light in daily use 
 
@@ -103,11 +115,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-initiate-an-impactful-live-stream-on-facebook-today/"><u>[Updated] In 2024, Initiate an Impactful Live Stream on Facebook Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-what-is-t-series-income-on-youtube/"><u>[Updated] What Is T Series Income on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-challenges-gpt-4-with-realm-the-on-device-ai-that-outperforms-rivals-featured-on-zdnet/"><u>Apple Challenges GPT-4 with ReaLM: The On-Device AI That Outperforms Rivals, Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-access-apple-product-user-manuals-technical-specifications-and-repair-instructions-aggregated-on-zdnet/"><u>Comprehensive Guide: Access Apple Product User Manuals, Technical Specifications & Repair Instructions - Aggregated on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974286329-effortless-connection-with-targus-docking-hub-download-your-compatible-drivers-now/"><u>Effortless Connection with Targus Docking Hub - Download Your Compatible Drivers Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x7-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X7 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lgia-in-streaming-restoring-yt-videos-removed-for-2024/"><u>Nostalgia in Streaming Restoring YT Videos Removed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-applicationexe-has-stopped-error/"><u>Resolved: Fixing the 'Application.Exe Has Stopped' Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-dilemma-of-windows-installation-on-incompatible-disks-non-gpt/"><u>Solving the Dilemma of Windows Installation on Incompatible Disks (Non-GPT)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-smallest-high-performance-tablets-of-2024-vetted-and-analyzed-by-industry-experts-zdnets-choice/"><u>Ultimate Guide to the Smallest High-Performance Tablets of 2024 - Vetted and Analyzed by Industry Experts | ZDNet's Choice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-promo-get-the-powerful-eufy-twin-turbine-vac-at-a-steal-for-only-360-smart-shopping-alerts-by-zdnet/"><u>Unbeatable Labor Day Promo! Get the Powerful Eufy Twin Turbine Vac at a Steal for Only $360 – Smart Shopping Alerts by ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-productivity-on-macos-using-craft-a-comprehensive-user-manual-for-smarter-document-management/"><u>Unleash Your Productivity on macOS Using Craft - A Comprehensive User Manual for Smarter Document Management</u></a></li>
+</ul></div>
+

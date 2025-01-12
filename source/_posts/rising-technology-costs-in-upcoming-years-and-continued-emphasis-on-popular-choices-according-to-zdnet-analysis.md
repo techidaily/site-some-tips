@@ -1,7 +1,7 @@
 ---
 title: Rising Technology Costs in Upcoming Years and Continued Emphasis on Popular Choices, According to ZDNet Analysis
-date: 2024-09-17 16:50:13
-updated: 2024-09-20 12:33:48
+date: 2025-01-06T20:35:45.512Z
+updated: 2025-01-12T18:27:05.882Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Jasper Cole/Getty
 Some argue that the recent fall in Big Tech share prices is a sign the golden age of digital growth is drawing to an end. 
 
 But while investors might be getting jittery about the prospects of hyped trends such as the [metaverse](https://www.zdnet.com/topic/how-the-metaverse-will-change-the-future-of-work-and-society/), Nash Squared chief executive Bev White says a commitment to tech spending is still very much at the top of the boardroom agenda.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -85,6 +89,10 @@ However, digital leaders and line-of-business professionals must be careful not 
 
 "An investment in AI and robotics means that businesses can be more efficient, which means they can start thinking about taking out some of the day-to-day costs in their organisations," she says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **More on the tech trends to watch in 2023:**
 
 * [**Tech in 2023: We've analysed the data, and here's what's really going to matter**](https://www.zdnet.com/article/tech-in-2023-weve-analysed-the-data-and-heres-whats-really-going-to-matter/)
@@ -101,11 +109,33 @@ However, digital leaders and line-of-business professionals must be careful not 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-effortless-techniques-for-lenovo-capture-tasks/"><u>[New] 2024 Approved Effortless Techniques for Lenovo Capture Tasks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>[New] 2024 Approved The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-the-power-of-canon-time-lapse-imaging-for-2024/"><u>[New] Unlocking the Power of Canon Time-Lapse Imaging for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors/"><u>[Updated] Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/acquiring-your-mba-through-apple-vision-pro-an-expensive-educational-journey/"><u>Acquiring Your MBA Through Apple Vision Pro: An Expensive Educational Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-alternative-how-this-expert-reviewed-xr-glasses-overcame-app-vision-shortcomings-for-less/"><u>Affordable Alternative: How This Expert Reviewed XR Glasses Overcame App Vision Shortcomings for Less!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-asrocks-latest-breakthrough-dual-27-inch-1440p-ips-screens-with-built-in-wifi-antennas-on-desk-mounts/"><u>Discover ASRock's Latest Breakthrough: Dual 27-Inch 1440P IPS Screens with Built-In WiFi Antennas on Desk Mounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-your-meta-quest-3-experience-is-it-essential-to-get-customized-lens-options-if-youre-an-eyeglass-user/"><u>Enhancing Your Meta Quest 3 Experience: Is It Essential to Get Customized Lens Options if You're an Eyeglass User?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hassle-free-pairing-guide-connecting-airpods-to-oculus-quest-v-quietly-for-an-immersive-experience-the-verge/"><u>Hassle-Free Pairing Guide: Connecting AirPods to Oculus Quest V (Quietly) for an Immersive Experience | The Verge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y56-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-hd-action-cameras-for-extreme-exposure/"><u>In 2024, Affordable HD Action Cameras for Extreme Exposure</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mf8200c-driver-version-available-supported-by-windows-7-81-and-10/"><u>Latest Canon MF8200C Driver Version Available: Supported by Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-receives-major-enhancements-with-new-version-despite-minor-setback-a-deep-dive-into-the-recent-os-update-techinsights/"><u>Meta Quest Receives Major Enhancements with New Version, Despite Minor Setback: A Deep Dive Into the Recent OS Update - TechInsights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/peering-into-the-future-of-ar-how-an-innovative-apple-designed-headset-changed-my-perspective-on-tech-zdnet/"><u>Peering Into the Future of AR: How an Innovative Apple-Designed Headset Changed My Perspective on Tech | ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/skyrocketing-your-presence-on-youtube-with-live-games/"><u>Skyrocketing Your Presence on YouTube with Live Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-genius-top-10-benefits-of-using-the-apple-vision-pro-tech-innovations/"><u>Unveiling the Hidden Genius: Top 10 Benefits of Using the Apple Vision Pro | Tech Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-quest-3s-dominance-over-competitor-vr-headsets/"><u>Unveiling the Secrets Behind Quest 3'S Dominance Over Competitor VR Headsets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-lies-ahead-for-the-metaverse-an-in-depth-analysis-from-zdnets-perspective/"><u>What Lies Ahead for the Metaverse? An In-Depth Analysis From ZDNet's Perspective</u></a></li>
+</ul></div>
+

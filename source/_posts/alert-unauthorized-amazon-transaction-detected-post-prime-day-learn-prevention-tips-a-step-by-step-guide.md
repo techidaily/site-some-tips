@@ -1,7 +1,7 @@
 ---
 title: "Alert: Unauthorized Amazon Transaction Detected Post-Prime Day? Learn Prevention Tips! - A Step-by-Step Guide"
-date: 2024-09-17 10:37:15
-updated: 2024-09-20 10:45:31
+date: 2025-01-10T17:41:37.411Z
+updated: 2025-01-12T17:32:44.491Z
 tags:
   - amazon
 categories:
@@ -19,6 +19,10 @@ Last week, July 12 and 13 were -- together -- Prime Day. Two days later, someone
 
 Presumably, the crook assumed Amazon was going to be showing up on so many financial accounts this week that Prime Day would provide some air cover for increased fraudulent activity. This makes sense because [Amazon Prime members purchased 100,000 items per minute during the Prime Day event](https://www.zdnet.com/article/amazon-prime-day-2022-more-than-100000-items-sold-per-minute/), spending over $3 billion and purchasing more than 300 million items overall. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Amazon Prime alternatives Not satisfied with the latest Amazon Prime price hike? These alternatives are cheaper, just as fast, and, in many ways, better.  Read now](https://www.zdnet.com/article/best-amazon-prime-alternatives/)
@@ -28,6 +32,10 @@ In other words, Prime Day gave fraudsters a target-rich environment.
 Steve Bradford, Senior Vice President EMEA at identity security firm SailPoint, reports, "Fraudsters have never been so ruthless with their tactics, and they're increasingly using ones that are far more personal and harder to spot. In the latest cases, we're seeing an increase in phishing and credential harvesting email attempts linked to Amazon Prime Day." 
 
 It's true. My wife and I were among those targeted. In our case, it wasn't a phishing attack. The bad guys had already harvested some of our personal information. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sitrep (situation report) 
 
@@ -43,6 +51,10 @@ We spoke to a very helpful representative who clarified that the charge was, ind
 
 At this point, we had eliminated the risk of further fraudulent transactions and financial harm to us. But that wasn't the whole story. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The rest of the story 
 
 We had a long conversation with the bank's fraud rep, and in doing so, he determined that the charge originated from Amazon itself. This wasn't a case of a fraudster faking Amazon's identity to charge our card for cash. Instead, the crooks used our debit card to actually buy something from Amazon. 
@@ -52,6 +64,10 @@ Where, exactly, the criminals got our debit card details remains unclear. There 
 The amount and purchase method were interesting because an extra under-$200 Amazon purchase during Prime Day week could go unnoticed by anyone with lax bookkeeping. It wasn't an amount so high as to fire off an immediate panic, but it was certainly enough to provide value to the fraudster. 
 
 If we weren't the only victim of this crook's activity, I'm betting they got away with many charges that went unnoticed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How we stayed safe 
 
@@ -77,6 +93,10 @@ This week, as we went down the list of each transaction in the bank account, we 
 That's how I recommend you keep your business and family safe as well. Do a banks and bills review weekly, double-check any questionable transactions, and you can be sure you're always on top of your accounts. 
 
 If you have an issue with Amazon, you can also visit the company's [Report Something Suspicious page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3FnodeId%3DGRGRY7AQ3LMPXVCV%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6ee7670b-912d-455d-ae88-ff4981e51bfd%7Cdtp&dtb=1). They have a wealth of resources and tools for reporting fraudulent activity there. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More fraud prevention techniques 
 
@@ -131,11 +151,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-effective-youtube-thumbnails-and-banners/"><u>[New] 2024 Approved Crafting Effective YouTube Thumbnails & Banners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>[New] 2024 Approved Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-screen-recording-on-snapchat-devices-for-2024/"><u>[New] Mastering the Art of Screen Recording on Snapchat Devices for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-zdnet/"><u>Choosing Between MacBook Pro and MacBook Air - A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/choosing-screen-clarity-is-ultrawide-or-uhd-4k-better-for-2024/"><u>Choosing Screen Clarity Is UltraWide or UHD 4K Better for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/creating-synergy-how-youtube-aligns-with-brands-for-2024/"><u>Creating Synergy How YouTube Aligns with Brands for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-new-spatial-personalization-on-the-vision-pro-a-step-by-step-guide/"><u>Discover Apple's New Spatial Personalization on the Vision Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-ios-175-beta-2s-new-feature-eu-customers-can-now-get-apps-from-the-internet-with-apples-latest-update-zdnet-analysis/"><u>Discovering iOS 17.5 Beta 2'S New Feature: EU Customers Can Now Get Apps From the Internet with Apple's Latest Update | ZDNET Analysis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-usb-30-drivers-on-windows-pc/"><u>Download & Install USB 3.0 Drivers on Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/durable-protection-top-rated-straps-and-cases-for-your-apple-watch-and-samsung-z-fold-4-explore-options/"><u>Durable Protection: Top-Rated Straps & Cases for Your Apple Watch and Samsung Z Fold 4 - Explore Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-insights-for-youtube-content-protection-for-2024/"><u>Essential Insights for YouTube Content Protection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unbeatable-value-with-memorial-day-deals-get-the-perfect-apple-watch-se-at-a-60-discount-my-top-pick-of-the-year-insights/"><u>Experience Unbeatable Value with Memorial Day Deals: Get the Perfect Apple Watch SE at a $60 Discount, My Top Pick of the Year - Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-storm-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Storm 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-pro-or-macbook-air-determining-your-perfect-tech-companion/"><u>IPad Pro or MacBook Air: Determining Your Perfect Tech Companion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-ideal-ipad-add-ons-for-apple-devices-insights/"><u>The Ultimate Guide to Selecting Ideal iPad Add-Ons for Apple Devices | Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-11-must-have-applications-and-tools-for-windows-and-macos-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Tools for Windows & macOS Users: Insights From ZDNet</u></a></li>
+</ul></div>
+

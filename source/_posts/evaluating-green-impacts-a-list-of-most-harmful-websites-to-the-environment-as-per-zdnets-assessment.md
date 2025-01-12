@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Green Impacts: A List of Most Harmful Websites to the Environment, as per ZDNet's Assessment"
-date: 2024-09-18 12:52:49
-updated: 2024-09-20 12:19:44
+date: 2025-01-06T17:33:04.303Z
+updated: 2025-01-12T18:11:52.670Z
 tags:
   - cloud
 categories:
@@ -17,6 +17,10 @@ Greg Nichols/DALL-E
 
 Poking around online, it's easy to forget that the digital spaces we move through have non-digital consequences. When it comes to the environment, [major websites have a surprising footprint](https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How the New Space Race Will Drive Innovation Some of humanity's greatest innovations have emerged from space exploration. With a new space race led by the next generation of private companies, here's how they're pushing the boundaries again.  Read now](https://www.zdnet.com/topic/how-the-new-space-race-will-drive-innovation/)
@@ -31,6 +35,10 @@ While consumers may not outright avoid, say, a major e-commerce platform because
 
 So how did major websites fair? Spoiler alert: Amazon is a pretty dirty site, but at least two major governmental websites devoted to the environment are downright filthy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methodology
 
 The clean ranking system used to determine website rank took into account whether or not a site ran on sustainable energy, such as solar and wind, how much CO2 a site produces per visit and per year, and how many trees are needed to absorb a site's CO2 emissions.
@@ -42,6 +50,10 @@ Payless Power relied on the Website Carbon Calculator at [websitecarbon.com](htt
 > From data centres to transmission networks to the billions of connected devices that we hold in our hands, it is all consuming electricity, and in turn producing carbon emissions equal to or greater than the global aviation industry. Yikes!
 > 
 > We developed the first methodology for calculating the carbon emissions attributed to a website and this free website carbon calculator is here to help raise awareness and inspire a more sustainable internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Results
 
@@ -80,11 +92,26 @@ For a full list of results [check out the report](https://paylesspower.com/blog/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-a-full-overview-of-adobe-cloud-workflow-and-alternative-methods/"><u>[Updated] 2024 Approved A Full Overview of Adobe Cloud Workflow & Alternative Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp4-mp4/"><u>最も有力な MP4利用テクニック - MP4の本質、特性、変換、編集、ダウンロード、再生方法を一冊にまとめた完全ガイド</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-creating-and-managing-a-win-11-hotspot/"><u>A Practical Guide to Creating and Managing a Win 11 Hotspot</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-photoshops-handy-hacks-for-horizontal-and-vertical-warping/"><u>In 2024, Photoshop's Handy Hacks for Horizontal and Vertical Warping</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-simultaneous-video-documentation/"><u>In 2024, Simultaneous Video Documentation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-marshall-motif-anc-features-insights-from-zdnet/"><u>In-Depth Analysis of the Marshall Motif ANC Features - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-2024-choices-ultimate-guide-to-picking-the-perfect-outdoor-speaker-zdnet-insights/"><u>Top 2024 Choices: Ultimate Guide to Picking the Perfect Outdoor Speaker - ZDNET Insights</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-imac-experience-with-this-stunning-199-speaker-a-must-see-from-zdnet/"><u>Upgrade Your iMac Experience with This Stunning $199 Speaker: A Must-See From ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reviews-an-exceptional-speaker-beyond-jbl-and-klipsch-the-ultimate-audio-experience/"><u>ZDNet Reviews an Exceptional Speaker Beyond JBL & Klipsch - The Ultimate Audio Experience</u></a></li>
+</ul></div>
+

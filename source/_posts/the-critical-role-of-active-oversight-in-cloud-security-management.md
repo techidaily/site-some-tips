@@ -1,7 +1,7 @@
 ---
 title: The Critical Role of Active Oversight in Cloud Security Management
-date: 2024-09-19 12:37:11
-updated: 2024-09-20 11:57:52
+date: 2025-01-05T18:58:35.164Z
+updated: 2025-01-12T20:38:37.857Z
 tags:
   - cloud
 categories:
@@ -96,6 +96,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F "Twitter") 
@@ -105,6 +109,10 @@ Direct LinkEmbed Code
 Close Modal Dialog
 
 As cloud rises to encompass to more corporate applications, data and processes, there's potential for end-users to outsource their security to providers as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -164,11 +172,29 @@ The latest CSA report highlights this year's leading concerns:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-engagement-increase-youtube-viewers/"><u>[New] In 2024, Amplify Engagement Increase YouTube Viewers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>[New] Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-for-online-classical-tone-downloads/"><u>[New] Top Picks for Online Classical Tone Downloads</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-disable-igtv-feature/"><u>[Updated] How to Disable IGTV Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram-for-2024/"><u>[Updated] Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2022s-ultimate-guide-picking-the-perfect-outdoor-fire-pit-insights-from-pcmag/"><u>2022'S Ultimate Guide: Picking the Perfect Outdoor Fire Pit - Insights From PCMag</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-no-cost-game-recording-software-guide/"><u>2024 Approved Essential No-Cost Game Recording Software Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battle-tested-strategies-addressing-the-borderlands-3-doesnt-open-up-problem/"><u>Battle-Tested Strategies: Addressing the 'Borderlands 3 Doesn't Open Up' Problem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-solar-powered-portable-chargers-of-2024-reviewed-by-tech-experts-at-zdnet/"><u>Best Solar-Powered Portable Chargers of 2024 Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/birthday-extravaganza-in-space-100000-robots-unite-to-serenade-martian-rovers-zdnet-coverage/"><u>Birthday Extravaganza in Space! 100,000 Robots Unite to Serenade Martian Rovers | ZDNET Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-elite-solar-charger-collection-expert-picks-by-zdnet/"><u>Discover the Elite Solar Charger Collection - Expert Picks by ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-dvd-production-modern-techniques-for-mac-users/"><u>In 2024, Innovative DVD Production Modern Techniques for Mac Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-comprehensive-guide-and-analysis/"><u>Tom's Computer Review: Comprehensive Guide and Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726809663288-top-rated-portable-solar-power-banks-a-comprehensive-review-by-zdnet/"><u>Top-Rated Portable Solar Power Banks : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-review-how-this-tough-android-outshines-the-iphone-with-its-advanced-thermal-features-and-performance-chops/"><u>ZDNet's Review: How This Tough Android Outshines the iPhone With Its Advanced Thermal Features and Performance Chops</u></a></li>
+</ul></div>
+

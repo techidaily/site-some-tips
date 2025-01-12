@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Cause Behind the Major Microsoft 365, Teams & Outlook Disruption: An Insightful Breakdown"
-date: 2024-09-18 23:27:18
-updated: 2024-09-20 10:30:52
+date: 2025-01-11T21:07:14.220Z
+updated: 2025-01-12T17:28:47.169Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images
 Microsoft says an update on a router was behind a huge multi-hour outage affecting the Microsoft Wide Area Network (WAN) that made Azure, Microsoft 365 apps, and Power Platform inaccessible to customers across the globe last week. 
 
 The [multi-hour outage last Wednesday](https://www.zdnet.com/article/microsoft-365-outage-hits-teams-and-outlook-users-what-we-know-so-far/) impacted Microsoft Teams, Exchange Online, Outlook, SharePoint Online, OneDrive for Business, Microsoft Graph, PowerBi, M365 Admin Portal, Microsoft Intune, Microsoft Defender for Cloud Apps, and Microsoft Defender for Identity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -69,11 +73,30 @@ Microsoft plans to publish a final post-incident report within the next two week
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-a-youtube-empire-26-successful-techniques/"><u>[New] In 2024, Crafting a YouTube Empire 26 Successful Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[New] In 2024, From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-free-online-tool-simple-and-effortless-audio-separation-from-videodvd-files/"><u>1. Free Online Tool: Simple and Effortless Audio Separation From Video/DVD Files</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-x5-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco X5 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/die-ultimative-losung-fur-apricorn-ssd-klonen-mit-dem-kloon-toolkit-eine-detaillierte-anleitung-und-unverzichtbare-alternativen-verstehen/"><u>Die Ultimative Lösung Für Apricorn SSD Klonen Mit Dem Kloon Toolkit - Eine Detaillierte Anleitung Und Unverzichtbare Alternativen Verstehen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-2023s-finest-solar-lighting-solutions-on-zdnet/"><u>Discover the Ultimate List: 2023'S Finest Solar Lighting Solutions on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-pick-2022s-leading-pellet-grills-compared-zdnet-exclusive/"><u>Discover the Ultimate Pick: 2022'S Leading Pellet Grills Compared | ZDNET Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-zdnet-ranks-the-ecoflow-river-3-as-a-must-have-in-our-pick-for-top-beginners-portable-battery-pack/"><u>Discover Why ZDNet Ranks the EcoFlow River 3 as a Must-Have in Our Pick for Top Beginner's Portable Battery Pack!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/electric-bicycle-and-compact-grill-bundle-offer-from-zdnet-ride-and-bbq/"><u>Electric Bicycle and Compact Grill Bundle Offer From ZDNet – Ride and BBQ!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-relaxation-game-with-our-choice-of-the-finest/"><u>Elevate Your Relaxation Game with Our Choice of the Finest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-security-with-the-waterproof-blink-mini-2-the-ultimate-alternative-to-wyze-cameras-zdnets-expert-review/"><u>Elevate Your Security with the Waterproof Blink Mini 2 - The Ultimate Alternative to Wyze Cameras | ZDNET's Expert Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-pc-configure-mobile-connectivity-with-win-11/"><u>Empower Your PC: Configure Mobile Connectivity with Win 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-tools-and-tips-for-a-flourishing-garden-insights-from-zdnet/"><u>Essential Tools and Tips for a Flourishing Garden: Insights From ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Honor Magic 6 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-data-buffering-unit-for-sony-a7s-ii/"><u>Premium Data Buffering Unit for Sony A7S II</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-when-system-cant-find-java-vm-missing-jvmdll/"><u>The Ultimate Fix for When System Can’t Find Java VM (Missing JVM.DLL)</u></a></li>
+</ul></div>
+

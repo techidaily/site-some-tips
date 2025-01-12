@@ -1,7 +1,7 @@
 ---
 title: Save $40 on Cutting-Edge Alexa Smart Glasses in Amazon's Spectacular Spring Blowout - ZDNet
-date: 2024-09-19 12:11:19
-updated: 2024-09-20 10:38:48
+date: 2025-01-10T21:11:05.130Z
+updated: 2025-01-12T18:14:13.754Z
 tags:
   - amazon
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/fca50a2c73d7b3c1fb6d66ce7c11861a1c
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 * Starting at $230 during [Amazon's Big Spring Sale](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fevents%2Fbigspringsale%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C11727d6f-5add-4239-9180-f8061a7aa1be%7Cdtp&dtb=1), the [Amazon Echo Frames (3rd Gen)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Frames-3rd-Gen-Smart-audio-glasses-with-Alexa--Rectangle-frames-in-classic-black--with-prescription-ready-lenses%2Fdp%2FB09SVFX6VD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C11727d6f-5add-4239-9180-f8061a7aa1be%7Cdtp&dtb=1) are a natural way for glasses wearers to control their smart home, communicate with friends and family, and listen to audio wherever and whenever.
@@ -22,6 +26,10 @@ June Wan/ZDNET
 * While Alexa in your ears is no [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) voice assistant, it's capable enough to answer general questions and complete most smart home tasks.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -77,6 +85,10 @@ Besides the smart features, I've also enjoyed listening to podcasts and making c
 
 Lastly, I wish the button navigations weren't so complicated, but since I'm mainly using voice commands to get things done, the need to press the front or back button to accept and decline things (or mute the microphone) didn't bother me all that much. If you're coming from an older pair of Echo Frames, you'll have to retrain your muscle memory as the touch strip and swipe gestures are no more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 At a list price of $270 (but currently discounted to $230 during Amazon's Big Spring Sale), the [Echo Frames (3rd Gen)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Frames-3rd-Gen-Smart-audio-glasses-with-Alexa--Rectangle-frames-in-classic-black--with-prescription-ready-lenses%2Fdp%2FB09SVFX6VD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C11727d6f-5add-4239-9180-f8061a7aa1be%7Cdtp&dtb=1) aren't necessarily priced to compete. The list price is just $30 less than Meta's more capable [Ray-Ban smart glasses](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses). 
@@ -104,11 +116,33 @@ But there are two big things that Amazon's glasses have going for them: Alexa in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-hot-takes-highlight-twitters-trending-topics/"><u>[New] Hot Takes Highlight Twitter's Trending Topics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-charting-your-way-to-frequent-payments-from-youtube/"><u>[New] In 2024, Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-achieving-perfect-reproduction-tips-for-exceptional-sound-capture-for-2024/"><u>[Updated] Achieving Perfect Reproduction Tips for Exceptional Sound Capture for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-a-trailers-soundtrack-a-guide/"><u>[Updated] In 2024, Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-into-vlogging-fundamental-gear-and-applications/"><u>[Updated] In 2024, Step Into Vlogging Fundamental Gear and Applications</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-basics-of-aspect-ratio-compliance-on-twitter-for-2024/"><u>[Updated] The Basics of Aspect Ratio Compliance on Twitter for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-harmony-how-to-seamlessly-integrate-multiple-m4a-audio-clips-into-one-with-the-ultimate-audio-merge-tool/"><u>Effortless Harmony: How to Seamlessly Integrate Multiple M4A Audio Clips Into One with the Ultimate Audio Merge Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eliminate-email-mess-chaos-effortlessly-with-a-smart-tip-that-works-across-all-mail-learn-how-at-zdnet/"><u>Eliminate Email Mess Chaos Effortlessly with a Smart Tip That Works Across All Mail | Learn How at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-upgrades-for-your-airpods-pro-2023s-must-have-gadgets-and-cases-reviewed-by-tech-experts/"><u>Essential Upgrades for Your AirPods Pro: 2023'S Must-Have Gadgets and Cases Reviewed by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grab-free-150-from-apple-while-shopping-for-school-tech-find-out-now-zdnet/"><u>Grab Free $150 From Apple While Shopping for School Tech. Find Out Now | ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-lightweightapp-no-trouble-recording-windows-10/"><u>In 2024, LightweightApp - No-Trouble Recording, Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-11-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus 11 5G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-discounted-items-on-amazon-september-2024-special-offers/"><u>Top Discounted Items on Amazon - September 2024 Special Offers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mini-tablet-computers-comprehensive-reviews-and-analysis-by-tech-experts-zdnet/"><u>Top Rated Mini Tablet Computers - Comprehensive Reviews & Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-your-stuck-shift-key-tips-and-solutions/"><u>Troubleshooting and Repairing Your Stuck Shift Key - Tips & Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-apple-watch-series-9-offer-exclusive-lifetime-low-price-now/"><u>Unbeatable Apple Watch Series #9 Offer: Exclusive Lifetime Low Price Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-sonos-s2-app-streamlined-sound-management-with-hidden-drawbacks-discover-more-on-zdnet/"><u>Unveiling Sonos S2 App: Streamlined Sound Management with Hidden Drawbacks - Discover More on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-guide-comparing-ipad-air-4-and-ipad-air-cued-with-the-latest-features-of-ipad-air-5-analysis/"><u>Upgrading Guide: Comparing iPad Air 4 and iPad Air Cued with the Latest Features of iPad Air 5 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-unveils-the-superior-alternative-to-apple-and-ankers-magsafe-wallet-with-current-discount-offer/"><u>ZDNet Unveils the Superior Alternative to Apple and Anker's MagSafe Wallet with Current Discount Offer!</u></a></li>
+</ul></div>
+

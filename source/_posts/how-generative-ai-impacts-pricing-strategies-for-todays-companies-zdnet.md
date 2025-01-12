@@ -1,7 +1,7 @@
 ---
 title: How Generative AI Impacts Pricing Strategies for Today's Companies | ZDNet
-date: 2024-09-17 11:55:34
-updated: 2024-09-20 12:42:47
+date: 2025-01-09T17:45:41.711Z
+updated: 2025-01-12T20:11:11.175Z
 tags:
   - cloud
 categories:
@@ -65,6 +65,10 @@ This is an issue that companies will need to be cautious about or costs can esca
 
 It also means organizations have to map out the processes, including data availability, needed to run a query and achieve the desired outcome, so they can measure the cost of applying generative AI to the use case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Letting customers create their own prompts
 
 Salesforce this week previewed new generative AI offerings that its executives said would enable enterprise customers to more easily customize these tools to support their operations. 
@@ -126,11 +130,24 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Dreamforce 2023 in San Fr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-role-of-b-roll-in-cinematic-storytelling/"><u>[New] 2024 Approved The Role of B-Roll in Cinematic Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-the-theme-of-your-ps5/"><u>Adapting the Theme of Your PS5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-lenovo-thinkpad-x12-detachable-analysis-exceptional-convertible-tablet-and-superior-typing-experience/"><u>Comprehensive Lenovo ThinkPad X12 Detachable Analysis: Exceptional Convertible Tablet & Superior Typing Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-cosmos-display-top-pick-hdr-sky-sites-list-for-2024/"><u>Digital Cosmos Display Top Pick HDR Sky Sites List for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/free-skype-mp3-logger-101-guide-for-2024/"><u>Free Skype Mp3 Logger 101 Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immersive-audio-adventure-exploring-the-powerful-bass-and-dazzling-led-features-of-the-soul-s-storm-waterproof-bluetooth-speaker-insights-from-zdnets-expert210/"><u>Immersive Audio Adventure: Exploring the Powerful Bass and Dazzling LED Features of the Soul S-Storm Waterproof Bluetooth Speaker – Insights From ZDNet's Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-14-pro-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 14 Pro for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-launch-from-amazon-kids-features-read-about-the-new-arrivals-on-zdnet/"><u>Latest Launch From Amazon Kids Features - Read About the New Arrivals on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/portable-high-quality-bluetooth-speaker-delivers-powerful-audio-zdnets-expert-insights-and-ratings/"><u>Portable High-Quality Bluetooth Speaker Delivers Powerful Audio: ZDNet's Expert Insights and Ratings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-unbeatable-black-friday-amazon-echo-offers-find-your-perfect-smart-home-companion/"><u>Top 30 Unbeatable Black Friday Amazon Echo Offers – Find Your Perfect Smart Home Companion!</u></a></li>
+</ul></div>
+

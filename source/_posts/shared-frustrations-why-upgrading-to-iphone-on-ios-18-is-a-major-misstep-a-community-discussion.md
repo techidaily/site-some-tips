@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Why Upgrading to iPhone on iOS 18 Is a Major Misstep - A Community Discussion"
-date: 2025-01-02T16:03:33.935Z
-updated: 2025-01-06T03:30:28.445Z
+date: 2025-01-11T16:46:47.102Z
+updated: 2025-01-12T21:05:27.844Z
 tags:
   - apple
 categories:
@@ -26,22 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +44,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,6 +55,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,24 +140,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-ignite-your-artistic-spirit-find-the-premier-android-drawing-tools/"><u>[Updated] Ignite Your Artistic Spirit Find the Premier Android Drawing Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-leverage-hashtags-for-top-ranked-fb-pages/"><u>[Updated] Leverage Hashtags for Top-Ranked FB Pages</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-a-following-with-stunning-unboxing-content/"><u>2024 Approved Building a Following with Stunning Unboxing Content</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1728467566067-windows-11/"><u>保存無しで Windows 11 のリセットと初期化手順</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-focusrite-scarlett-18i20-windows-drivers-here/"><u>Get Your Focusrite Scarlett 18I20 Windows Drivers Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a60s-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A60s to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>In 2024, Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-future-of-artificial-intelligence-the-positive-impact-of-open-source-innovations-zdnet/"><u>Navigating the Future of Artificial Intelligence: The Positive Impact of Open Source Innovations | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/old-elderly/"><u>Old - Elderly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/openais-revolutionary-gpt-4-mini-cutting-application-expenses-as-featured-by-zdnet/"><u>OpenAI's Revolutionary GPT-4 Mini: Cutting Application Expenses, as Featured by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-skills-with-elite-microsoft-tech-certifications-find-the-perfect-course-on-zdnet/"><u>Optimize Your Skills with Elite Microsoft Tech Certifications - Find the Perfect Course on ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-poco-x6-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Poco X6 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/redefining-tech-talent-acquisition-fresh-perspectives-and-innovative-hiring-tactics-as-suggested-by-experts-at-zdnet/"><u>Redefining Tech Talent Acquisition: Fresh Perspectives and Innovative Hiring Tactics as Suggested by Experts at ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rising-prominence-of-linux-in-the-chromebook-world-an-in-depth-analysis-by-zdnet/"><u>Rising Prominence of Linux in the Chromebook World – An In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stay-calm-and-secure-navigating-through-high-volume-of-cves-in-linux-as-revealed-by-experts-at-zdnet/"><u>Stay Calm and Secure: Navigating Through High Volume of CVEs in Linux as Revealed by Experts at ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tracking-the-shifts-a-look-at-how-programming-language-preferences-have-changed-from-2016-to-today-insights-included-zdnet/"><u>Tracking the Shifts: A Look at How Programming Language Preferences Have Changed From 2016 to Today, Insights Included | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-evolution-of-metas-genai-from-predictive-models-to-a-dynamic-chessboard-of-outcomes-analyzed-on-zdnet/"><u>Unveiling the Evolution of Meta's GenAI: From Predictive Models to a Dynamic Chessboard of Outcomes | Analyzed on ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-blizzard-brilliance-olympic-peaks-in-beijing/"><u>[Updated] Blizzard Brilliance Olympic Peaks in Beijing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-avi-visionary-player-compatible-with-pcmobile/"><u>2024 Approved Avi Visionary Player Compatible with PC/Mobile</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook/"><u>2024 Approved Social Media Wiz How to Create Captivating Slideshow Stories for Facebook</u></a></li>
+<li><a href="https://win-great.techidaily.com/essential-dj-hack-unforgettable-performances-learn-to-never-miss-a-beat-or-song-in-this-ultimate-tutorial-video/"><u>Essential DJ Hack: Unforgettable Performances - Learn to Never Miss a Beat or Song in This Ultimate Tutorial (Video)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-productivity-strategies-and-software-to-streamline-your-everyday-tasks-insights-from-zdnet/"><u>Essential Productivity Strategies & Software to Streamline Your Everyday Tasks - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-test-results-the-best-alternative-to-apple-and-tiles-wallet-airtags-revealed/"><u>Exclusive Test Results: The Best Alternative to Apple and Tile's Wallet AirTags Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/monetize-masterfully-unveiling-5-innovative-earning-ideas-on-ig-and-fb/"><u>Monetize Masterfully: Unveiling 5 Innovative Earning Ideas on IG and FB</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-simplify-your-storytelling-easy-movie-making-techniques/"><u>New 2024 Approved Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-starfield-startup-dilemma-fixes-for-steam-and-xbox-users/"><u>Overcoming the Starfield Startup Dilemma: Fixes for Steam & Xbox Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protect-and-preserve-the-best-3-accessories-for-a-timeless-look-of-your-iphone-cu13-featured-by-zdnet/"><u>Protect and Preserve: The Best 3 Accessories for a Timeless Look of Your iPhone Cu13, Featured by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-3-essential-gadgets-to-maintain-the-fresh-look-of-your-iphone-13-a-guide/"><u>Top 3 Essential Gadgets to Maintain the Fresh Look of Your iPhone 13: A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-savings-alert-unbeatable-offers-on-iphone-and-apple-accessories-for-july-2024-exclusive-insights-from-zdnet/"><u>Top Savings Alert: Unbeatable Offers on iPhone & Apple Accessories for July 2024 - Exclusive Insights From ZDNet</u></a></li>
 </ul></div>
 

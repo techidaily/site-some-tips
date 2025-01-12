@@ -1,7 +1,7 @@
 ---
 title: "How My Privacy Felt Invaded by Amazon's Constant Watchfulness: A Personal Account on ZDNet"
-date: 2024-09-17 10:43:49
-updated: 2024-09-20 10:42:12
+date: 2025-01-05T18:23:18.365Z
+updated: 2025-01-12T16:48:34.013Z
 tags:
   - amazon
 categories:
@@ -23,6 +23,10 @@ I was bracing myself.
 
 This was a big day, and it required more self-control than I feared I could muster.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Amazon Prime Early Access Sale: The latest deals See the best tech deals, top deals under $20, and a live blog of the latest deals right here.  Read now](https://www.zdnet.com/collection/amazon-prime-day/)
@@ -32,6 +36,10 @@ I'm human. I'm partial to persuasion. You'd think, then, that [Amazon Prime Day]
 I make the assumption, you see, that all the big web brands follow me around. They know everything about me. They know what I like, what I like to eat and even what I like to do when I'm not actually clutching one gadget or another.
 
 On Prime Day, therefore, I expected to open the Amazon home page and discover the temptation that made Adam and the apple seem so very PG-rated. Prime Day is a big deal for Amazon. It has a lot of stuff it needs to shift. I'm a prime target for stuff.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You know me, Amazon. You really know me.  
 
@@ -55,6 +63,10 @@ Surprise! I have no idea what this is. In that order, a painstaking examination 
 
 O.M.G, Amazon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## I'm special. So special.  
 
 Finally, though, the specific personal recommendations.  
@@ -70,6 +82,10 @@ At this, my heart began to harden like a Jeff Bezos bicep.
 Amazon, we've been together for years. More than a decade. And no one ever told you that I don't actually have hair? What sort of intelligent snooping technology are you using? What IQ does it have?
 
 This was like going on a first date, and your prospective lover peppers you with questions they'd prepared in advance without actually reading your dating profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Oh no, Amazon. You don't know me at all.  
 
@@ -120,11 +136,30 @@ But Amazon didn't recommend those.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-dive-right-in-the-art-of-entering-a-tiktok-stream/"><u>[New] In 2024, Dive Right In The Art of Entering a TikTok Stream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comedic-potential-of-the-metaverses-vast-space/"><u>[Updated] The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-the-lone-user-review-of-future-printer-world/"><u>[Updated] Unveiling the Lone User Review of Future Printer World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-easy-steps-successfully-applying-changes-with-the-wix-toolset-installation-process/"><u>1. Easy Steps: Successfully Applying Changes with the WiX Toolset Installation Process</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aligning-wix-installer-versions-with-real-time-build-numbers-a-how-to-guide/"><u>Aligning WiX Installer Versions with Real-Time Build Numbers - A How-To Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/building-customized-input-windows-in-wix-step-by-step-instructions-for-developers/"><u>Building Customized Input Windows in WiX: Step-by-Step Instructions for Developers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-12-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 12 without the Previous Owner?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/financial-tips-in-emoji-form-are-they-reliable/"><u>Financial Tips in Emoji Form: Are They Reliable?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-generating-global-shortcut-keys-via-wix-no-commercial-prompts-included/"><u>Guide to Generating Global Shortcut Keys via WiX: No Commercial Prompts Included</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-asus-rog-phone-7-ultimate-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Asus ROG Phone 7 Ultimate Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/license-free-installer-development-a-guide-on-utilizing-the-wix-toolset-for-easy-setup-creation/"><u>License-Free Installer Development: A Guide on Utilizing the WiX Toolset for Easy Setup Creation</u></a></li>
+<li><a href="https://win-webster.techidaily.com/resolving-video-quirks-a-guide-by-yl-software-on-fixing-artifacts-and-distortions/"><u>Resolving Video Quirks: A Guide by YL Software on Fixing Artifacts and Distortions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-managing-filefolder-removal-in-wix-uninstall-processes/"><u>Step-by-Step Guide: Managing File/Folder Removal in WiX Uninstall Processes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mlining-the-production-process-of-your-short-videos/"><u>Streamlining the Production Process of Your Short Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tutorial-how-to-include-and-use-cab-archives-within-msi-setup-files/"><u>Tutorial: How to Include and Use .CAB Archives Within MSI Setup Files</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2025-01-04T23:05:03.810Z
-updated: 2025-01-06T00:16:42.959Z
+date: 2025-01-07T19:36:35.389Z
+updated: 2025-01-12T16:03:44.292Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,29 +56,17 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -84,11 +76,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,16 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-prime-trivia-2024s-top-11-quiz-channels/"><u>[New] Prime Trivia 2024'S Top 11 Quiz Channels</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigate-the-1080p-landscape-for-better-fb-broadcasts-for-2024/"><u>[Updated] Navigate the 1080P Landscape for Better FB Broadcasts for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-insiders-guide-to-concealed-snap-content/"><u>[Updated] The Insider's Guide to Concealed Snap Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-ultimate-guide-to-home-ev-charger-selection-insider-advice-and-reviews-wired-magazine/"><u>2024'S Ultimate Guide to Home EV Charger Selection: Insider Advice & Reviews | Wired Magazine</u></a></li>
-<li><a href="https://tools.techidaily.com/alestemple/products/"><u>Alestemple's Products</u></a></li>
-<li><a href="https://some-tips.techidaily.com/eco-friendly-black-friday-bargain-alert-snag-the-ecobee-smart-thermostat-for-just-199-your-guide-to-smarter-home-savings/"><u>Eco-Friendly Black Friday Bargain Alert: Snag the Ecobee Smart Thermostat for Just $199 – Your Guide to Smarter Home Savings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-10-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark 10 5G Phone that is Locked?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-moto-g13-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Moto G13 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-12-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme 12 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-cordless-electric-leaf-blowers-in-2e22-expert-reviews-from-zdnet/"><u>Top-Rated Cordless Electric Leaf Blowers in 2E22: Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/xibalba/"><u>Xibalba</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>[Updated] In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/belgian-multilingualism-which-tongues-prevail/"><u>Belgian Multilingualism: Which Tongues Prevail?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beware-of-fake-charger-risks-apple-watch-owners-advised-against-non-certified-power-sources-technews/"><u>Beware of Fake Charger Risks: Apple Watch Owners Advised Against Non-Certified Power Sources | TechNews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-premium-sound-galaxy-buds-pro-pixel-buds-pro-and-airpods-pro-face-off-for-audio-supremacy-tech-insights/"><u>Comparing Premium Sound: Galaxy Buds Pro, Pixel Buds Pro & AirPods Pro Face-Off for Audio Supremacy | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-new-horizons-in-technology-with-toms-gadget-insights/"><u>Exploring New Horizons in Technology with Tom's Gadget Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/favorite-phones-spotlighted-the-top-handsets-chosen-tech-experts/"><u>Favorite Phones Spotlighted: The Top Handsets Chosen Tech Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-xcover-7-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy XCover 7 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-craft-the-ultimate-guide-to-using-macos-premier-document-creation-app/"><u>Mastering Craft: The Ultimate Guide to Using MacOS’ Premier Document Creation App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/playstation-portable-info-guide-release-schedule-price-points-hardware-specs-and-buying-options/"><u>PlayStation Portable Info Guide: Release Schedule, Price Points, Hardware Specs & Buying Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shifting-picture-libraries-with-ease-from-google-to-icloud-your-ultimate-walkthrough/"><u>Shifting Picture Libraries with Ease From Google to iCloud – Your Ultimate Walkthrough</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-generation-of-airpods-whens-their-launch-and-how-can-you-reserve-them-insights/"><u>The Next Generation of AirPods - When's Their Launch, and How Can You Reserve Them? Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-mp2-in-formato-aac-online-gratuitamente-con-movavi/"><u>Trasforma MP2 in Formato AAC Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://discover-data.techidaily.com/understanding-the-mystery-of-windows-black-screen-an-expert-guide-yl-computing/"><u>Understanding the Mystery of Windows' Black Screen: An Expert Guide - YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-in-smartphone-tech-discover-how-the-new-camera-button-on-iphone-16-models-transforms-your-photography-experience-insights/"><u>Unveiling the Latest in Smartphone Tech: Discover How the New Camera Button on iPhone 16 Models Transforms Your Photography Experience - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-upgrades-discover-what-sets-apples-airpods-pro-and-max-apart-techsavvy/"><u>Unveiling the Upgrades: Discover What Sets Apple's AirPods Pro and Max Apart | TechSavvy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-and-installation-guide-for-netgear-a6200-dongle/"><u>Update & Installation Guide for Netgear A6200 Dongle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/visionos-n-version-2-revealed-at-wwdc-examining-the-new-features-that-spark-enthusiasm-and-intrigue/"><u>VisionOS N Version 2 Revealed at WWDC: Examining the New Features that Spark Enthusiasm and Intrigue</u></a></li>
 </ul></div>
 

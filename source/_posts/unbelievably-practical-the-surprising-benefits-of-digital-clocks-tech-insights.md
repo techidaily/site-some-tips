@@ -1,7 +1,7 @@
 ---
 title: "Unbelievably Practical: The Surprising Benefits of Digital Clocks | Tech Insights"
-date: 2024-09-19 16:45:26
-updated: 2024-09-20 12:32:58
+date: 2025-01-07T16:31:01.405Z
+updated: 2025-01-12T21:04:11.527Z
 tags:
   - amazon
 categories:
@@ -21,6 +21,10 @@ Not only does it perform all the usual Alexa features, but it has also solved tw
 
 **Also:** [**The 12 best Echo speakers**](https://www.zdnet.com/home-and-office/home-entertainment/best-amazon-echo/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Setup was easy and friendly 
 
 If you've never set up an Alexa, there's not much to it. You plug the device in. 
@@ -35,11 +39,19 @@ It had me at Hello.
 
 David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  It's a digital clock 
 
 As I write this, I'm realizing how ludicrous it sounds. After all our advancements in internet and AI technology, one of the biggest new features is that this new Echo displays the time. But we live in a bizzaro world where we've forgotten about standalone bedside table clocks, and where displaying a visible clock that's not on your computer or phone is a big feature. 
 
 I have no clocks in my office. After all, my computer has a clock on the menu bar. Why would I need a clock? For meetings. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -61,6 +73,10 @@ So, sure. I could have put an old school actual digital clock in my office. But 
 David Gewirtz/ZDNET
 
 That's where the Alexa clock comes in. I didn't even realize how useful it would be until I set it up after Amazon sent me one to test. I've moved it to a shelf right in my line of sight, and now I have a clock for meetings and I'm not broadcasting that I'm juggling a lot of appointments. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery-powered temperature sensors 
 
@@ -95,6 +111,10 @@ David Gewirtz/ZDNET
 Now, I can ask, "Alexa, what's the upstairs temperature" from anywhere in the house. Right now, Alexa tells me, "The upstairs temperature is 67.8 degrees."
 
 **Review:** [**Google Nest Learning Thermostat: Can new tech work in an old house?**](https://www.zdnet.com/home-and-office/smart-home/google-nest-learning-thermostat-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A few final thoughts 
 
@@ -137,11 +157,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effective-use-of-adsense-on-youtube-to-boost-channel-income-for-2024/"><u>[New] Effective Use of AdSense on YouTube to Boost Channel Income for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-entry-into-the-world-of-google-meet-webinars/"><u>[New] In 2024, Entry Into the World of Google Meet Webinars</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-quick-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>[New] In 2024, Quick Hands Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-essential-route-for-finding-visual-gold-on-pexels/"><u>2024 Approved The Essential Route for Finding Visual Gold on Pexels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-insights-and-fixes-in-macos-sonoma-version-144-update-learn-before-upgrading-with-zdnet/"><u>Essential Insights & Fixes in MacOS Sonoma Version 14.4 Update - Learn Before Upgrading with ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100a-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100A to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a24-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A24 FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-fixes-on-the-new-pixel-watch-3-elevate-googles-wearable-tech-game-dismantling-key-issues/"><u>Innovative Fixes on the New Pixel Watch 3 Elevate Google's Wearable Tech Game, Dismantling Key Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-upgrade-with-ios-18-availability-model-support-and-easy-download-instructions/"><u>IPhone Upgrade with iOS 18: Availability, Model Support & Easy Download Instructions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-between-portability-and-power-a-detailed-comparison-of-macbook-pro-and-macbook-air-for-optimal-user-experience-techadvisor/"><u>Navigating Between Portability and Power: A Detailed Comparison of MacBook Pro & MacBook Air for Optimal User Experience | TechAdvisor</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-zte-axon-40-lite-by-fonelab-android-recover-data/"><u>The way to get back lost data from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-protection-the-ultimate-guide-to-iphone-12-and-12-pro-cases-expert-reviews-by-zdnet/"><u>Top-Rated Protection: The Ultimate Guide to iPhone 12 & 12 Pro Cases - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-impact-of-apple-vision-pro-on-businesses-insights-from-top-enterprises-rebooting-operations-zdnet/"><u>Transformative Impact of Apple Vision Pro on Businesses: Insights From Top Enterprises Rebooting Operations | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-crystal-clear-sound-on-your-apple-tv-with-the-latest-upgrade-to-tvos-18-expert-analysis/"><u>Unlock Crystal Clear Sound on Your Apple TV with the Latest Upgrade to tvOS 18 | Expert Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-your-apple-music-student-rate-a-step-by-step-guide/"><u>Unlocking Your Apple Music Student Rate - A Step-by-Step Guide</u></a></li>
+</ul></div>
+

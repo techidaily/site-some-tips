@@ -1,7 +1,7 @@
 ---
 title: "Why the iPhone 16'S Impressive Tech Might Not Justify Your Purchase: Insights From ZDNet"
-date: 2024-09-17 20:54:37
-updated: 2024-09-20 10:45:23
+date: 2025-01-06T20:46:09.347Z
+updated: 2025-01-12T20:30:15.731Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -71,11 +79,19 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
 The biggest problem -- other than the fact that you need new iPhone hardware to exploit it -- is that Apple Intelligence is deeply tied to Apple's own apps, limiting its usefulness for users who rely on third-party apps like Gmail, Google Docs, or Microsoft 365\. 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud-based AI writing tools: No need for new hardware
 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,31 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-download-facebook-status-videos/"><u>[New] In 2024, How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-strategies-for-successful-zoom-meetings-using-win10/"><u>[Updated] 2024 Approved Essential Strategies for Successful Zoom Meetings Using WIN10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-zoom-hd-quality-step-by-step-guide/"><u>[Updated] Boosting Zoom HD Quality Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-high-quality-speakers-expert-review-and-ranking-from-zdnet/"><u>Discover the Leading High-Quality Speakers : Expert Review and Ranking From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhance-your-conference-experience-with-webcam-recordings/"><u>Enhance Your Conference Experience with Webcam Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-5-book-trailer-selections-for-2024/"><u>Essential 5 Book Trailer Selections for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-an-iphoneipad-update-hitch-top-9-methods/"><u>Fixing an iPhone/iPad Update Hitch: Top 9 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 8T Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-p55t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel P55T Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-soundbar-selections-reviewed-by-pros-what-we-suggest-gizmopundit/"><u>Leading Soundbar Selections Reviewed by Pros: What We Suggest | GizmoPundit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-notch-audio-experience-unmatched-by-vizio-and-jbl-a-deep-dive-into-the-best-alternative-soundbars/"><u>Top-Notch Audio Experience Unmatched by Vizio and JBL: A Deep Dive Into the Best Alternative Soundbars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-smart-gadgets-comprehensive-tests-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranked Smart Gadgets : Comprehensive Tests & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-sonos-audio-gear-in-2/"><u>Top-Rated Sonos Audio Gear in 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-audio-experience-beyond-bose-and-sonos-discovered-uncover-the-ultimate-speaker-setup/"><u>Top-Tier Audio Experience Beyond Bose & Sonos Discovered - Uncover the Ultimate Speaker Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-impressive-sound-with-the-tiny-yet-terrific-tribit-stormbox-micro-2-the-ultimate-mini-audio-beast-reviewed-by-zdnet/"><u>Unleash Impressive Sound with the Tiny yet Terrific Tribit StormBox Micro 2 - The Ultimate Mini Audio Beast Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-it-reigns-supreme-in-smart-devices-today-techsavvyreviews/"><u>Why It Reigns Supreme in Smart Devices Today | TechSavvyReviews</u></a></li>
+</ul></div>
+

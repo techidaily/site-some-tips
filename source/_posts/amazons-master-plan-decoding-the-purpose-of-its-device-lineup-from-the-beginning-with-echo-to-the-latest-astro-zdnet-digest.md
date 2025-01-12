@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Master Plan: Decoding the Purpose of Its Device Lineup, From the Beginning with Echo to the Latest Astro | ZDNET Digest"
-date: 2024-09-19 16:35:40
-updated: 2024-09-20 10:16:53
+date: 2025-01-07T21:13:19.903Z
+updated: 2025-01-12T18:41:39.404Z
 tags:
   - amazon
 categories:
@@ -20,6 +20,10 @@ It may be best-known as an online retailer, but Amazon has also grown into a gia
 **Also:** [What to expect from Amazon's Sept. 28th event](https://www.zdnet.com/home-and-office/smart-home/what-to-expect-from-amazons-devices-software-and-services-event/)
 
 The [Amazon Echo line](https://www.zdnet.com/product/amazon-echo/), the family of smart speakers that houses the Alexa voice assistant, has made its way to millions of homes across the country, after effectively creating a new device market and kickstarting the smart home category. In 2021 alone, Amazon shipped 21.9 million smart speakers in the United States, according to a [report by research firm Omnia](https://omdia.tech.informa.com/pr/2022-feb/omdia-sharp-drop-in-2021-amazon-alexa-shipments-drove-smart-speaker-market-correction), and there are probably nearly 100 million in use across the country.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -81,6 +85,10 @@ Of course, a huge motivator behind Amazon's product buildout is the desire to ge
 
 "In the smart home market, devices are merely vehicles for services delivery, and Amazon seems happy to forgo some of the revenue on the devices themselves in favor of the boost in services revenue," Wright says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smart thermostats Make your home more energy-efficient and automated by choosing one of the top smart thermostats on the market.  Read now](https://www.zdnet.com/article/best-smart-thermostat/)
@@ -100,6 +108,10 @@ In addition to leading the smart home market, Amazon is also at the forefront of
 "Amazon is also well placed to be the default provider of voice commerce solutions having established Alexa as the leading voice assistant in the home," says Watkins. "Voice commerce is still in its infancy but Amazon is making a big bet on it becoming a major commerce platform in the future."
 
 So where does Amazon go from here? We can expect Amazon to refine its current technology and develop new ways to improve the user's overall experience in the smart home. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -134,11 +146,33 @@ There is, however, one big gap in Amazon's portfolio – one that's going to be 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-adding-value-to-visuals-implementing-watermarks-in-instagram/"><u>[New] 2024 Approved Adding Value to Visuals Implementing Watermarks in Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-leading-tools-for-customizable-screenshot-capabilities/"><u>[New] In 2024, Leading Tools for Customizable Screenshot Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>2024 Approved Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-alternative-to-apple-vision-pro-how-xr-glasses-overcame-my-tech-envy-and-saved-money/"><u>Affordable Alternative to Apple Vision Pro: How XR Glasses Overcame My Tech Envy & Saved Money!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-iphone-14-plus-with-extended-battery-life-and-top-reasons-to-choose-it-expert-review-by-zdnet/"><u>Budget-Friendly iPhone 14 Plus with Extended Battery Life and Top Reasons to Choose It | Expert Review by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-ios-181-beta-update-with-advanced-intelligence-tools-learn-how-to-participate-in-the-early-access-experience/"><u>Discover Apple's IOS 18.1 Beta Update with Advanced Intelligence Tools - Learn How to Participate in the Early Access Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-mpow-mic-not-working-error-on-pcs/"><u>Effective Solutions for MPOW Mic Not Working Error on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-fix-iphones-poor-battery-performance-post-ios-1751-update-top-7-solutions/"><u>How to Fix iPhone's Poor Battery Performance Post-iOS 17.5.1 Update: Top 7 Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immerse-in-apples-virtual-reality-experience-watch-their-latest-3d-videos-using-a-meta-quest-device-tips-and-tricks-zdnet/"><u>Immerse in Apple's Virtual Reality Experience: Watch Their Latest 3D Videos Using a Meta Quest Device - Tips & Tricks | ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>In 2024, From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mix-magic-how-to-download-top-dj-content/"><u>In 2024, Mix Magic How to Download Top DJ Content</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-cutting-edge-nvidia-quadro-rtx-8000-drivers-on-windows-xpvista7/"><u>Installing Cutting-Edge Nvidia Quadro RTX 8000 Drivers on Windows XP/Vista/7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-best-mobile-asmr-worldwide/"><u>Navigating the Best Mobile ASMR Worldwide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsung-tips-easy-time-lapse-photography/"><u>Samsung Tips Easy Time-Lapse Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-discounts-on-amazon-exclusive-offers-available-in-august-2024-tech-insights/"><u>Top Discounts on Amazon - Exclusive Offers Available in August 2024 | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-iphone-12-and-12-pro-case-selection-zdnets-picks-and-advice/"><u>Ultimate Guide to iPhone 12 & 12 Pro Case Selection : ZDNet's Picks and Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-ios-16-maximizing-your-iphone-experience-with-enhanced-lock-screen-features-expert-guide/"><u>Unlocking iOS 16: Maximizing Your iPhone Experience with Enhanced Lock Screen Features - Expert Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-with-the-iphone-16-top-3-game-changing-features-unveiled/"><u>Upgrading with the iPhone 16: Top 3 Game-Changing Features Unveiled</u></a></li>
+</ul></div>
+

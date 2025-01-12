@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Strategic Move: Alibaba's Cloud Division Spin-Off and Upcoming Listings of Allied Firms"
-date: 2024-09-18 15:36:19
-updated: 2024-09-20 10:41:55
+date: 2025-01-07T17:44:07.632Z
+updated: 2025-01-12T17:24:41.233Z
 tags:
   - cloud
 categories:
@@ -94,11 +94,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-audience-accessibility-switching-from-srt-to-sub/"><u>[Updated] 2024 Approved Audience Accessibility Switching From SRT to SUB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>2024 Approved Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/affluent-animator-architects/"><u>Affluent Animator Architects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-revolutionary-vision-pro-glasses-delayed-beyond-initial-release-schedule/"><u>Apple's Revolutionary Vision Pro Glasses Delayed Beyond Initial Release Schedule</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-error-x0001-on-geforce-for-windows-11/"><u>Clearing Up Error X0001 on GeForce for Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hasten-your-windows-doc-analysis-process-for-2024/"><u>Hasten Your Windows Doc Analysis Process for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-continues-discounting-meta-quest-2-setting-new-record-with-ultra-low-pricing-insights-from-zdnet/"><u>Meta Continues Discounting Meta Quest 2, Setting New Record with Ultra-Low Pricing - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/third-party-manufacturers-can-now-integrate-with-metas-newly-released-open-source-quest-os-supported-by-asus-and-lenovo/"><u>Third-Party Manufacturers Can Now Integrate with Meta's Newly Released, Open Source Quest OS – Supported by Asus and Lenovo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-apple-endorsed-techniques-for-optimizing-uiux-in-visionos-environments-insights-from-zdnet/"><u>Top 7 Apple-Endorsed Techniques for Optimizing UI/UX in VisionOS Environments: Insights From ZDNet</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-add-emojis-to-videos-the-ultimate-guide-for-2024/"><u>Updated How to Add Emojis to Videos The Ultimate Guide for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

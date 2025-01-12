@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Limits of Your High-Tech Kitchen: Can It Prepare More Than Just Dinner Ideas?"
-date: 2024-09-17 21:36:29
-updated: 2024-09-20 10:40:40
+date: 2025-01-06T20:52:27.363Z
+updated: 2025-01-12T17:00:24.980Z
 tags:
   - amazon
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 ## Exploring the Limits of Your High-Tech Kitchen: Can It Prepare More Than Just Dinner Ideas?
 
 I have a lot of Alexas. Oh, it's not just because I'm a reviewer, and Amazon keeps sending me devices to review. It's because I purposely bought an Alexa device for every room of the house. And yes, in _there_ too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -24,6 +28,10 @@ And it's not like Amazon is going to pick up on my secret shopping preferences. 
 We find Alexa necessary in every room because we use it to set timers, set reminders, operate [all our lights and thermostats](https://www.zdnet.com/article/extreme-nest-take-nest-to-the-next-level-with-zones-and-sensors/), and intercom across the house. Plus, you never know when a math problem needs to be solved. And yes, even in _there_.
 
 **Also: [This Alexa-controlled smart fan is the luxury I didn't know I needed](https://www.zdnet.com/home-and-office/smart-home/alexa-controlled-fan-is-the-smart-home-luxury-i-didnt-know-i-needed/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alexa in the kitchen 
 
@@ -49,6 +57,10 @@ I'll admit, it's kind of dumb. It knows "cook" and "microwave" as commands, but 
 
 To be fair, there's no good reason for an Alexa-enabled microwave. That said, I haven't pushed a button on the microwave since the day we installed it. I'm not a caveman. I don't need to press buttons on a touchpad. Instead, every morning I ask, "Alexa, cook for 90 seconds," and she heats up my bowl of oatmeal. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Our latest addition 
 
 Our latest addition to the pantheon of robotic cooking devices is an air fryer. I wasn't exactly sold on the idea of an air fryer, but my wife wanted to try one. Let me tell you; air fried chicken thighs are incredibly delicious and easy to make. 
@@ -68,6 +80,10 @@ As with the microwave, I initially thought the Alexa integration was a joke feat
 That said, the documentation is written as if the device wasn't ever Alexa enabled. There are nods to smart functioning, but it's clear that the same tech writers who've been writing appliance documentation since the 1990s wrote the docs for this device as well. 
 
 **Also: [Best Amazon Echo 2022: Which Alexa device is right for you?](https://www.zdnet.com/article/best-echo/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make me a sandwich 
 
@@ -102,11 +118,30 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-navigating-through-lipo-technologies-for-drones-needs/"><u>[New] Navigating Through LiPo Technologies for Drones' Needs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-the-best-macbook-air-or-pro-with-m1-for-2024/"><u>[New] Unveiling the Best MacBook Air or Pro with M1 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-essential-twitter-archive-user-manual/"><u>[Updated] 2024 Approved The Essential Twitter Archive User Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-skype-recordings-on-windows-and-mac-free-vs-paid-guide-for-2024/"><u>[Updated] Navigating Skype Recordings on Windows & Mac - Free vs Paid Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-no-cost-high-quality-text-psds/"><u>[Updated] Unleash Creativity No-Cost, High-Quality Text PSDs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-at-your-service-harnessing-the-power-of-chabt-gpt-in-professional-settings/"><u>AI at Your Service: Harnessing the Power of Chabt GPT in Professional Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-surprise-hit-the-understated-triumph-of-a-new-349-ipad-revealed-at-let-loose-event-digital-world-news/"><u>Apple’s Surprise Hit: The Understated Triumph of a New $349 iPad Revealed at 'Let Loose' Event | Digital World News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-a-comprehensive-guide/"><u>Choosing the Right Device: IPad Pro or MacBook Air? A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sounds-of-laughter-top-ringtones-downloaders/"><u>In 2024, Sounds of Laughter Top Ringtones Downloaders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-upgrades-on-the-horizon-march-or-april-2024-launch-dates-anticipated-for-latest-version-tech-news-by-zdnet/"><u>IPad Upgrades on the Horizon? March or April 2024 Launch Dates Anticipated for Latest Version | Tech News by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mri-without-contrast-can-detect-small-acoustic-neuromas-with-high-sensitivity/"><u>MRI without Contrast Can Detect Small Acoustic Neuromas with High Sensitivity.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-an-affordable-apple-watch-series-10-for-just-99-by-preordering-now-at-best-buy-a-step-by-step-tutorial-on-zdnet/"><u>Score an Affordable Apple Watch Series 10 for Just $99 by Preordering Now at Best Buy - A Step-by-Step Tutorial on ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/essly-convert-youtube-videos-to-mp3-on-mac/"><u>Seamlessly Convert YouTube Videos to MP3 on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-bird-bebops-parrot-as-a-flight-marvel-review-for-2024/"><u>The New Bird Bebop’s Parrot as a Flight Marvel Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-mobile-devices-a-comprehensive-guide/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-latest-iphone-16s-unique-features-highlighted-by-zdnet-make-now-the-perfect-time-to-upgrade/"><u>Why the Latest iPhone 16'S Unique Features, Highlighted by ZDNet, Make Now the Perfect Time to Upgrade!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Transforming Google Tasks Into a Kanban Workflow Using TasksBoard - Insights From ZDNet
-date: 2024-09-17 19:44:22
-updated: 2024-09-20 12:58:53
+date: 2025-01-09T16:53:47.844Z
+updated: 2025-01-12T20:16:35.211Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-valorant-thumbnails-made-professionally-without-delay/"><u>[New] In 2024, Valorant Thumbnails Made Professionally, Without Delay</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-subrip-file-creation-from-compressed-archives/"><u>[New] SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-dynamics-of-instagram-highlight-categories/"><u>[Updated] In 2024, Navigating the Dynamics of Instagram Highlight Categories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-strategies-for-documenting-youtube-real-time-broadcast-for-2024/"><u>[Updated] Top Strategies for Documenting YouTube Real-Time Broadcast for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-understanding-igtv-from-basics-to-advanced-techniques/"><u>2024 Approved Understanding IGTV From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-virtual-ventures-top-tech-for-immersive-experiences/"><u>2024 Approved Virtual Ventures Top Tech for Immersive Experiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-chromebooks-zoom-functionality/"><u>Enhancing Chromebook's Zoom Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-budget-friendly-bluetooth-sound-systems-your-guide-to-the-best-value-picks/"><u>Top Budget-Friendly Bluetooth Sound Systems - Your Guide to the Best Value Picks!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-electric-grill-models-expert-picks-and-reviews/"><u>Top Electric Grill Models : Expert Picks and Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-electric-scooters-comprehensive-review-by-zdnet/"><u>Top Rated Electric Scooters - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-and-essentials-for-a-memorable-labor-day-bash-insights-from-zdnet/"><u>Top Tips and Essentials for a Memorable Labor Day Bash - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-outdoor-projection-tvs-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Outdoor Projection TVs - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-outdoor-television-sets-professional-picks-from-tech-experts-zdnets-ultimate-list/"><u>Top-Rated Outdoor Television Sets : Professional Picks From Tech Experts - ZDNet's Ultimate List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-collection-of-dynamic-text-for-ae-projects-for-2024/"><u>Ultimate Collection of Dynamic Text for AE Projects for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-top-tips-and-tricks-for-throwing-an-unforgettable-labor-day-bash/"><u>Ultimate Guide: Top Tips and Tricks for Throwing an Unforgettable Labor Day Bash</u></a></li>
+</ul></div>
+

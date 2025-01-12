@@ -1,7 +1,7 @@
 ---
 title: "Mozilla Criticizes Privacy Practices in Holiday Roundup: Amazon and Facebook Marked Naughty on the Digital Gift Guide"
-date: 2024-09-19 20:39:43
-updated: 2024-09-20 11:21:26
+date: 2025-01-07T20:17:02.312Z
+updated: 2025-01-12T21:19:54.836Z
 tags:
   - amazon
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/7c98b3aa443d56db5acb03366d8aa2c1ee75e1644
 ## Mozilla Criticizes Privacy Practices in Holiday Roundup: Amazon and Facebook Marked Naughty on the Digital Gift Guide
 
 Mozilla has [released](https://foundation.mozilla.org/en/privacynotincluded/) the latest edition of its \*Privacy Not Included shopping guide, aiming to provide holiday buyers with a concrete list of how the most popular items handle privacy issues. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -66,11 +70,29 @@ The report notes that because of privacy laws passed in California, many compani
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-best-practices-for-compliant-twitter-videos/"><u>[New] 2024 Approved Best Practices for Compliant Twitter Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-quality-meets-convenience-the-best-5-hd-webcams-and-mics/"><u>[Updated] In 2024, Quality Meets Convenience - The Best 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-understated-introduction-to-unique-accessories-this-week-revealed-on-zdnet/"><u>Apple's Understated Introduction to Unique Accessories This Week Revealed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buy-these-wwdc-announced-apple-products-today-discover-and-preorder-options-here/"><u>Buy These WWDC Announced Apple Products Today! Discover & Preorder Options Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cutting-edge-trends-in-mobility-how-on-device-ai-and-revolutionary-smartphones-are-shaping-the-future-zdnet/"><u>Cutting-Edge Trends in Mobility: How On-Device AI and Revolutionary Smartphones Are Shaping the Future | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-webp-visualization-with-these-excellent-tools/"><u>Enhance WebP Visualization with These Excellent Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-the-best-portable-storage-options-of-2024-usb-flash-drives-ranked/"><u>Explore the Best Portable Storage Options of 2024: USB Flash Drives Ranked</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-pratique-comment-utiliser-un-disque-dur-exterieur-pour-reconstruire-une-image-de-systeme-faq-and-etapes/"><u>Guide Pratique : Comment Utiliser Un Disque Dur Extérieur Pour Reconstruire Une Image De Système - FAQ & Étapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/memorial-day-sale-alert-apple-watch-se-now-just-60-best-buy-of-the-year/"><u>Memorial Day Sale Alert: Apple Watch SE Now Just $60 - Best Buy of the Year !</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-free-gif-loop-creators-for-2024/"><u>New The Ultimate List of Free GIF Loop Creators for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scoring-a-bargain-snag-your-newest-ipad-at-only-199-on-amazons-epic-labor-day-discount-event-insights-by-zdnet/"><u>Scoring a Bargain: Snag Your Newest iPad at Only $199 on Amazon's Epic Labor Day Discount Event - Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-pro-enhancements-thoroughly-evaluated-by-tech-gurus-a-guide/"><u>Top-Rated MacBook Pro Enhancements : Thoroughly Evaluated by Tech Gurus - A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-vpn-apps-for-ios-comprehensive-testing-and-reviews-by-tech-experts-on-zdnet/"><u>Top-Rated VPN Apps for iOS: Comprehensive Testing & Reviews by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-sonys-best-full-review-of-fdr-x1000v-camera/"><u>Unveiling Sony's Best - Full Review of FDR-X1000V Camera</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Collective Editing: Proven Strategies for Improved Collaboration in Documents by ZDNet"
-date: 2024-09-19 14:16:28
-updated: 2024-09-20 12:27:31
+date: 2025-01-10T16:40:48.042Z
+updated: 2025-01-12T17:52:59.545Z
 tags:
   - cloud
 categories:
@@ -47,9 +47,17 @@ But it's not my place to tell a fellow writer how to do his thing. Writers are a
 
 Ready?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the same tool
 
 This is an "if possible" situation. I know it's not always possible for all collaborators to use the same office suite. I say "possible" quite loosely, because it actually is possible. In this day of cloud-based office suites, there's absolutely no reason why anyone should have to struggle with the whole, "You need to use the same tool I'm using!" thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -66,6 +74,10 @@ If all involved in the collaboration don't have Microsoft Office or Apple Pages,
 
 While you're at it, make sure you're using the latest version of whatever tool you have. If you're using a version that is two iterations out of date, you're missing out on not only security updates and new features, but also formatting updates and file compatibility fixes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use copy and paste only when absolutely necessary
 
 This is probably the biggest issue I've had to deal with. I'll be collaborating with someone in Google Docs, only to find out they are writing their portion in a locally installed word processor, and copying and pasting it into the Google Doc. 
@@ -78,6 +90,10 @@ The problem with copy and paste is that it can cause problems with formatting. I
 
 So, if you must copy and paste, paste without formatting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the same file format
 
 Don't mix and match your file formats. If you are working in LibreOffice, saving as an ODT file, and your collaborator is working with MS Word and DOCX, you're going to have problems. LibreOffice can easily save in DOCX format and Office 365 can work with ODT files. 
@@ -85,6 +101,10 @@ Don't mix and match your file formats. If you are working in LibreOffice, saving
 **Also:** [**How to configure LibreOffice to default to MS Office file formats**](https://www.zdnet.com/home-and-office/work-life/how-to-configure-libreoffice-to-default-to-ms-office-file-formats/)
 
 Or, if you want to use a format that's better capable of going back and forth between applications, save as an RTF (Rich Text Format) file until the collaboration is complete. Once finished and properly formatted, you can export that RTF file into whatever file type you need, even PDF. If you use a mixture of file types, you will inevitably run into issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the cloud
 
@@ -121,11 +141,33 @@ Collaboration doesn't have to be a hair-pulling experience. With just a bit of p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-batch-file-transformations/"><u>2024 Approved Best Batch File Transformations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comparing-the-giants-of-digital-sharing-facebook-twitter-instagram-and-youtube/"><u>Comparing the Giants of Digital Sharing: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211348115-9782017289784-connaitre-sa-mission-de-vie-avec-le-tarot/"><u>Connaître sa mission de vie avec le tarot | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/defining-the-role-of-a-chief-ai-officer-steps-to-secure-your-position/"><u>Defining the Role of a Chief AI Officer: Steps to Secure Your Position</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125674-9781609255442-dowsing-beyond-duality/"><u>Dowsing Beyond Duality | Free Book</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211112174-9798887938707-half-breed/"><u>Half-Breed | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-secure-a-free-links-up-membership-on-linkedin-pro-tips-and-strategies/"><u>How to Secure a Free Links-Up Membership on LinkedIn: Pro Tips & Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-savvy-sentries-of-the-mind-top-quizzes/"><u>In 2024, Savvy Sentries of the Mind Top Quizzes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-your-tech-income-a-guide-to-earning-big-in-high-paying-roles-learn-about-the-best-money-making-it-skills-today/"><u>Maximize Your Tech Income: A Guide to Earning Big in High-Paying Roles – Learn About the Best Money-Making IT Skills Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-new-frontiers-the-rise-of-software-oversight-for-generative-ai-developers-on-zdnet/"><u>Navigating New Frontiers: The Rise of Software Oversight for Generative AI Developers on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-job-hopping-among-tech-employees-why-more-than-just-office-luxuries-matter/"><u>Rising Job Hopping Among Tech Employees: Why More than Just Office Luxuries Matter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shaping-tomorrows-innovations-expert-team-building-in-ai-development-zdnet/"><u>Shaping Tomorrow's Innovations: Expert Team Building in AI Development | ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-showdown-reshaped-amds-epyc-processors-prove-to-be-twice-as-fast-as-nvidias-grace-across-diverse-benchmarks/"><u>The Showdown Reshaped: AMD's EPYC Processors Prove to Be Twice as Fast as Nvidia's Grace Across Diverse Benchmarks</u></a></li>
+<li><a href="https://fox-place.techidaily.com/top-strategies-for-managing-your-iphone-via-laptop-or-desktop/"><u>Top Strategies for Managing Your iPhone via Laptop or Desktop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-from-culinary-roles-to-tech-a-step-by-step-guide-zdnet/"><u>Transitioning From Culinary Roles to Tech: A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-unmatched-workplace-performance-by-adopting-a-developer-approach-expert-tips-on-enhanced-productivity-zdnet/"><u>Unlock Unmatched Workplace Performance by Adopting a Developer Approach: Expert Tips on Enhanced Productivity | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-an-ai-future-begin-here-with-these-five-key-strategies-insights-from-zdnet/"><u>Unlocking an AI Future: Begin Here With These Five Key Strategies - Insights From ZDNET</u></a></li>
+<li><a href="https://fox-access.techidaily.com/whats-new-in-photography-an-updated-look-at-lg-360-cameras/"><u>What's New in Photography An Updated Look at LG 360 Cameras</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-connectivity-how-to-fix-lenovo-pad-problems-on-pcs/"><u>Winning Over Wi-Fi Connectivity - How to Fix Lenovo Pad Problems on PCs</u></a></li>
+</ul></div>
+

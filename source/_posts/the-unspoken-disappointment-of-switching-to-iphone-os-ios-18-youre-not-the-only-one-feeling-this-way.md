@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2024-12-31T00:18:08.881Z
-updated: 2025-01-06T01:09:30.937Z
+date: 2025-01-05T20:35:35.727Z
+updated: 2025-01-12T16:13:05.432Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,20 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-azure-speech-to-text-your-ultimate-development-toolkit/"><u>[Updated] In 2024, Azure Speech-to-Text Your Ultimate Development Toolkit</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-master-the-art-of-viral-success-on-tiktok-with-top-7-must-haves-for-2024/"><u>[Updated] Master the Art of Viral Success on TikTok with Top 7 Must-Haves for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/burger-kings-double-take-on-negative-reviews-spurs-controversy-a-closer-look-by-zdnet/"><u>Burger King's Double-Take on Negative Reviews Spurs Controversy - A Closer Look by ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/buyers-best-guide-to-virtual-reality-cameras/"><u>Buyer's Best Guide to Virtual Reality Cameras</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-intensity-levels/"><u>Enhancing Lenovo Display Intensity Levels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-techniques-to-resolve-the-dnssddll-not-found-dilemma/"><u>Expert Tips and Techniques to Resolve the dnssd.dll Not Found Dilemma</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-will-ai-created-evaluations-influence-your-future-purchases-on-amazon-unveiling-the-new-trend-zdnet/"><u>How Will AI-Created Evaluations Influence Your Future Purchases on Amazon? Unveiling the New Trend | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y100i-power-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y100i Power 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interacting-with-gpt-4-a-look-at-these-7-apps/"><u>Interacting with GPT-4: A Look at These 7 Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-through-pandemic-protection-zdnets-guide-to-optimal-mask-choices-and-covid-prevention-strategies-for-2n22/"><u>Navigating Through Pandemic Protection: ZDNET's Guide to Optimal Mask Choices and COVID Prevention Strategies for 2N22</u></a></li>
-<li><a href="https://some-tips.techidaily.com/starbucks-introduces-an-exciting-new-offering-learn-why-it-might-become-the-next-big-craze-analysis-by-zdnet/"><u>Starbucks Introduces an Exciting New Offering; Learn Why It Might Become the Next Big Craze | Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-revolution-at-southwest-a-surprising-leap-forward-that-shook-us-up-insights-from-zdnet/"><u>Tech Revolution at Southwest: A Surprising Leap Forward That Shook Us Up - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-race-for-robo-deliveries-spotlight-on-ubers-advances-according-to-zdnet/"><u>The Race for Robo-Deliveries: Spotlight on Uber's Advances - According to ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled/"><u>[New] 2024 Approved The Mechanics of Modern Photography Auto, Smart HDR 3 & 4 Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-novices-guide-to-building-a-youtube-studio-setup/"><u>[New] The Novice's Guide to Building a YouTube Studio Setup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-cheat-sheet-to-gameplay-screencasts-in-overwatch-for-2024/"><u>[New] The Ultimate Cheat Sheet to Gameplay Screencasts in Overwatch for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-increase-your-social-media-reach-with-these-top-30-tiktok-nicknames/"><u>[Updated] Increase Your Social Media Reach with These Top 30 TikTok Nicknames</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-guide-crafting-authentic-3d-characters-in-ps/"><u>2024 Approved Pro's Guide Crafting Authentic 3D Characters in PS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-alternative-to-apples-xr-vision-therapy-beats-high-end-models-in-effectiveness/"><u>Affordable Alternative to Apple's XR Vision Therapy Beats High-End Models in Effectiveness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news-from-zdnet/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-watch-ultra-companion-product-now-available-again-and-nope-its-not-from-apple-zdnet/"><u>Apple Watch Ultra Companion Product Now Available Again - And Nope, It's Not From Apple! | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-rice-cubes-apples-expert-tips-for-rescuing-your-water-damaged-iphone/"><u>Beyond Rice Cubes: Apple's Expert Tips for Rescuing Your Water-Damaged iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breakdown-voltage-is-a-critical-parameter-for-capacitors-indicating-the-maximum-voltage-that-can-be-applied-before-dielectric-failure-occurs/"><u>Breakdown Voltage Is a Critical Parameter for Capacitors, Indicating the Maximum Voltage that Can Be Applied Before Dielectric Failure Occurs.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-deal-apple-m2-macbook-air-now-just-800-before-october-prime-day-available-on-amazon-insights-by-zdnet/"><u>Discover the Deal: Apple M2 MacBook Air Now Just $800 Before October Prime Day - Available on Amazon, Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-top-4-cutting-edge-features-of-the-new-iphone-16-making-it-a-must-have-upgrade-wired/"><u>Discover the Top 4 Cutting-Edge Features of the New iPhone 16, Making It a Must-Have Upgrade | Wired</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-and-updating-your-hp-elitebook-asterisk-8460p-drivers-in-windows-fixed/"><u>Effortless Guide to Downloading & Updating Your HP EliteBook Asterisk 8460P Drivers in Windows [FIXED]</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-gaming-bonuses-on-series-xs/"><u>Exclusive Gaming Bonuses on Series X|S</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-174-update-unveiled-by-apple-featuring-podcast-transcriptions-fresh-emoji-options-and-noteworthy-adjustments-to-the-european-app-store-insights-on-zdnet63/"><u>IOS 17.4 Update Unveiled by Apple: Featuring Podcast Transcriptions, Fresh Emoji Options & Noteworthy Adjustments to the European App Store - Insights on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-your-inbox-how-one-simple-email-strategy-can-clear-the-chaos-without-extra-accounts-or-rigid-regulations/"><u>Simplify Your Inbox: How One Simple Email Strategy Can Clear the Chaos Without Extra Accounts or Rigid Regulations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-battery-solutions-in-2nndr-comprehensive-reviews-by-tech-gurus-appleaccessoriespro/"><u>Top Rated MagSafe Battery Solutions in 2Nndr: Comprehensive Reviews by Tech Gurus - AppleAccessoriesPro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-techniques-of-premium-vr-gametime-captures-for-2024/"><u>Unveiling the Techniques of Premium VR Gametime Captures for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-ai-innovations-such-as-chatgpt-disrupt-current-search-engine-models/"><u>Will AI Innovations Such as ChatGPT Disrupt Current Search Engine Models?</u></a></li>
 </ul></div>
 

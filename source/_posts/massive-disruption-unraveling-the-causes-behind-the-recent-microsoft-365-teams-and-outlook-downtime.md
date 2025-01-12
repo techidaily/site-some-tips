@@ -1,7 +1,7 @@
 ---
 title: "Massive Disruption: Unraveling the Causes Behind the Recent Microsoft 365, Teams & Outlook Downtime"
-date: 2024-09-17 20:49:36
-updated: 2024-09-20 10:23:51
+date: 2025-01-08T16:04:15.837Z
+updated: 2025-01-12T19:49:51.201Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images
 Microsoft says an update on a router was behind a huge multi-hour outage affecting the Microsoft Wide Area Network (WAN) that made Azure, Microsoft 365 apps, and Power Platform inaccessible to customers across the globe last week. 
 
 The [multi-hour outage last Wednesday](https://www.zdnet.com/article/microsoft-365-outage-hits-teams-and-outlook-users-what-we-know-so-far/) impacted Microsoft Teams, Exchange Online, Outlook, SharePoint Online, OneDrive for Business, Microsoft Graph, PowerBi, M365 Admin Portal, Microsoft Intune, Microsoft Defender for Cloud Apps, and Microsoft Defender for Identity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -69,11 +73,30 @@ Microsoft plans to publish a final post-incident report within the next two week
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-online-platforms-beyond-youtube-to-30plus-communities/"><u>[New] 2024 Approved Harnessing Online Platforms Beyond YouTube to 30+ Communities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-quest-for-codec-perfection-is-av1-surpassing-vp9/"><u>2024 Approved The Quest for Codec Perfection Is AV1 Surpassing VP9?</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/abema-pc6/"><u>ABEMA PC録画機能を活用した最高の6つのツール</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-your-gameplay-with-the-ideal-vpn-in-depth-comparison-and-reviews-by-experts-powered-by-zdnet/"><u>Ace Your Gameplay with the Ideal VPN: In-Depth Comparison & Reviews by Experts | Powered by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-your-privacy-with-our-pick-of-the-best-apple-tv-vpns-pcmag/"><u>Ace Your Privacy with Our Pick of the Best Apple TV VPNs | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/activate-google-ones-complimentary-vpn-service-on-android-a-step-by-step-guide/"><u>Activate Google One's Complimentary VPN Service on Android - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-windows-and-photoshop-open-up-delays/"><u>Bridging the Gap Between Windows and PhotoShop Open-Up Delays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-vpn-nordvpn-vs-surfshark-the-ultimate-comparison-guide-zdnet/"><u>Choosing the Right VPN: NordVPN Vs. Surfshark - The Ultimate Comparison Guide (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-most-exciting-discounts-on-vpn-services-today-insider-tips-and-tricks/"><u>Discover the Most Exciting Discounts on VPN Services Today - Insider Tips and Tricks!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-transforming-mp4-file-formats-into-avi-without-hassle/"><u>Easy Guide: Transforming MP4 File Formats Into AVI Without Hassle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elite-browser-protection-top-vpn-plugins-for-chrome-rigorously-evaluated-expert-insights-zdnet/"><u>Elite Browser Protection: Top VPN Plugins for Chrome Rigorously Evaluated - Expert Insights | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-vpn-services-ranked-perfect-match-for-entrepreneurs-and-home-office-it-zdnets-picks/"><u>Essential VPN Services Ranked: Perfect Match for Entrepreneurs & Home Office IT | ZDNet's Picks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/flawless-transcription-mastery-with-googles-ai-for-2024/"><u>Flawless Transcription Mastery with Google's AI for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies/"><u>Rise to Stardom on Instagram Adopting TikTok's Winning Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-fix-for-compatibility-updating-startech-driver-in-windows-operating-systems/"><u>Ultimate Fix for Compatibility: Updating StarTech Driver in Windows Operating Systems</u></a></li>
+</ul></div>
+

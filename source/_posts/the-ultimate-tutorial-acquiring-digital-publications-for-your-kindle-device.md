@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Acquiring Digital Publications for Your Kindle Device"
-date: 2024-09-18 21:57:42
-updated: 2024-09-20 10:24:54
+date: 2025-01-11T20:57:54.483Z
+updated: 2025-01-12T19:57:03.509Z
 tags:
   - amazon
 categories:
@@ -28,15 +28,27 @@ But how do you get the most out of your Kindle? Let's start with how to buy book
 
 ## How to buy books on Kindle
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Link your Kindle device to your Amazon account
 
 When you buy a new Kindle, you have the option to have it already linked to [your Amazon account](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39a2adc1-764b-4aa9-b8b6-76c5eceb8ddd%7Cdtp&dtb=1) when it's delivered. If you didn't choose this option at checkout, then log in to your Amazon account on your Kindle device or create an account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to the Kindle store
 
 The Kindle's homepage will show Your Library, which contains the books you've bought or borrowed, and the store with books to purchase. 
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select a book to buy
 
@@ -62,6 +74,10 @@ Image: Maria Diaz/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I sample a book?
 
 If you're not sure you're ready to buy a Kindle book, you can try a sample of it. Think of it as like reading some pages in a bookstore before committing to buy a book -- except you can do it from wherever you are with your Kindle or other device with the Kindle app.
@@ -84,6 +100,10 @@ To purchase Kindle books on your iPhone or Android device, follow these steps:
 ## Where can I buy the cheapest Kindle books?
 
 One of the benefits of buying the Kindle format of a book is that it's already cheaper than the hardcover version. But there are ways to find even better deals when you're looking to buy ebooks. Amazon always features deals on its site, and you can find [daily Kindle deals](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fb%3Fnode%3D11552285011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39a2adc1-764b-4aa9-b8b6-76c5eceb8ddd%7Cdtp&dtb=1), [monthly deals](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbrowse.html%3Frw%5FuseCurrentProtocol%3D1%26node%3D3441883011%26ref%5F%3DKCdls%5Fbrws%5Fkmd%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39a2adc1-764b-4aa9-b8b6-76c5eceb8ddd%7Cdtp&dtb=1), and [Kindle Exclusive deals](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbrowse.html%3Frw%5FuseCurrentProtocol%3D1%26node%3D13245867011%26ref%5F%3DKCdls%5Fbrws%5Fkex%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C39a2adc1-764b-4aa9-b8b6-76c5eceb8ddd%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can you buy books in different languages on Kindle?
 
@@ -124,11 +144,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-poco-x5-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Poco X5 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-realism-in-sim-moza-r5-at-just-499/"><u>Affordable Realism in Sim - MOZA R5 at Just $499</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-revives-promising-ai-innovation-opportunities-and-areas-for-improvement-insights/"><u>Apple Revives Promising AI Innovation: Opportunities and Areas for Improvement – Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-galaxy-m54-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Samsung Galaxy M54 5G Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-ergohead-mat-for-standing-workstations-a-longevity-and-ease-guide/"><u>In-Depth Analysis of the Ergohead Mat for Standing Workstations: A Longevity and Ease Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-time-to-switch-from-iphone-14-pro-to-iphone-16-pro-a-comprehensive-comparison-zdnet/"><u>Is It Time to Switch From iPhone 14 Pro to iPhone 16 Pro? A Comprehensive Comparison | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-hearing-aid-feature-coming-to-airpods-pro-via-ios-15plus-no-physical-upgrades-required-techzoom/"><u>New Hearing Aid Feature Coming to AirPods Pro via iOS 15+, No Physical Upgrades Required | TechZoom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-wudfhostexe-cpu-load-in-windows-10-systems/"><u>Troubleshooting High wudfhost.exe CPU Load in Windows 10 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/video-quality-revolution-leveraging-version-22/"><u>Video Quality Revolution Leveraging Version 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/which-iphones-can-run-ios-eighteen-in-depth-compatibility-list-by-zdnet/"><u>Which iPhones Can Run iOS Eighteen? In-Depth Compatibility List by ZDNet</u></a></li>
+</ul></div>
+

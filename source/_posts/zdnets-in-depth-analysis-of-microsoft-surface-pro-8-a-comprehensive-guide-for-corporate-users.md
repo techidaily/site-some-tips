@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2025-01-01T05:25:52.781Z
-updated: 2025-01-05T16:34:51.553Z
+date: 2025-01-09T16:39:34.147Z
+updated: 2025-01-12T20:41:42.542Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -74,10 +74,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -103,7 +99,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -154,7 +150,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -169,10 +165,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,16 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-cameras-for-athletic-spectacle/"><u>[New] In 2024, Ultimate Cameras for Athletic Spectacle</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-next-gen-clarity-leading-ps5-compatible-hdmi-21-displays-for-2024/"><u>[New] Next Gen Clarity Leading PS5 Compatible HDMI 2.1 Displays for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-linux-kernel-69-update-tips-and-tricks-a-guide-by-zdnet/"><u>Best Linux Kernel 6.9 Update Tips and Tricks: A Guide by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/challenging-the-compatibility-of-artificular-intelligence-growth-with-agile-methodology-new-study-findings/"><u>Challenging the Compatibility of Artificular Intelligence Growth with Agile Methodology | New Study Findings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-ai-innovations-and-the-surge-of-rust-in-tech-linus-torvalds-on-the-unmatched-importance-of-the-linux-kernel-insights-from-a-developer-legend/"><u>Exploring AI Innovations & The Surge of Rust in Tech: Linus Torvalds on the Unmatched Importance of the Linux Kernel - Insights From a Developer Legend</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-open-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus Open? Try These Fixes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-x50i-messages-recovery-recover-deleted-messages-from-honor-x50i-by-fonelab-android-recover-messages/"><u>Honor X50i Messages Recovery - Recover Deleted Messages from Honor X50i</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-meta-optimizes-llms-the-journey-towards-compact-and-efficient-ai-models/"><u>How Meta Optimizes LLMs: The Journey Towards Compact and Efficient AI Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/intels-ai-visionary-wei-li-on-democratizing-ai-supercomputing-for-everyday-use-insights-from-zdnet/"><u>Intel's AI Visionary, Wei Li, on Democratizing AI Supercomputing for Everyday Use - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-phone-debut-a-glimpse-into-cutting-edge-technology-and-design/"><u>Samsung Phone Debut: A Glimpse Into Cutting-Edge Technology and Design</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-phones-for-kids-zdnet/"><u>The Best Phones for Kids | ZDNET.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-guide-to-youtube-equipment-for-rookies/"><u>[New] 2024 Approved Foremost Guide to YouTube Equipment for Rookies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-assessment-of-the-iphone-14-meets-all-requirements-superbly-zdnet-review/"><u>Comprehensive Assessment of the iPhone 14 - Meets All Requirements Superbly (ZDNet Review)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/critical-flaw-in-battery-protection-system-may-disable-your-airtags-solutions-inside/"><u>Critical Flaw in Battery Protection System May Disable Your AirTags - Solutions Inside</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevating-visual-fidelity-introduction-to-4k/"><u>Elevating Visual Fidelity: Introduction to 4K</u></a></li>
+<li><a href="https://some-tips.techidaily.com/find-the-ideal-atandt-promotions-for-smarphones-unbeatable-deals-this-may/"><u>Find the Ideal AT&T Promotions for Smarphones – Unbeatable Deals This May</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y78-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y78 5G Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-k11x-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo K11x to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>In 2024, Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-review-and-comparison-is-it-time-to-upgrade-from-m2-to-m3-macbook-air-insights-for-buyers/"><u>In-Depth Review & Comparison: Is It Time to Upgrade From M2 to M3 MacBook Air? Insights for Buyers</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/leverage-cookiebot-technology-for-superior-web-analytics-and-conversion-optimization/"><u>Leverage Cookiebot Technology for Superior Web Analytics and Conversion Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-with-m1-chip-unbeatable-deal-at-just-649-exclusive-offer-from-zdnet/"><u>MacBook Air with M1 Chip: Unbeatable Deal at Just $649 – Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-new-surface-lineup-could-this-be-enough-for-me-to-give-up-my-macbook/"><u>Microsoft's New Surface Lineup: Could This Be Enough for Me to Give Up My MacBook?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revitalizing-vision-pro-requires-apples-strategic-move-in-three-essential-areas-insight/"><u>Revitalizing Vision Pro Requires Apple's Strategic Move in Three Essential Areas Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-earbud-face-off-galaxy-buds-eby-pro-pixel-buds-pro-and-airpods-pro-revealed-by-zdnet/"><u>Top-Tier Earbud Face-Off: Galaxy Buds Eby Pro, Pixel Buds Pro and AirPods Pro Revealed by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-revolutionary-ipados-18-at-wwdc-2024-makes-me-jump-ship-to-apple-insights-from-zdnet/"><u>Why the Revolutionary iPadOS 18 at WWDC 2024 Makes Me Jump Ship to Apple - Insights From ZDNet</u></a></li>
 </ul></div>
 

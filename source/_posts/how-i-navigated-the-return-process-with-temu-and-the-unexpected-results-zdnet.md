@@ -1,7 +1,7 @@
 ---
 title: How I Navigated the Return Process with Temu and the Unexpected Results | ZDNet
-date: 2024-09-18 22:21:46
-updated: 2024-09-20 10:26:19
+date: 2025-01-06T20:28:10.743Z
+updated: 2025-01-12T18:50:04.132Z
 tags:
   - amazon
 categories:
@@ -65,6 +65,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Initiating a return
 
 To initiate a return, go to the Temu site, click on Your Orders, and click Return/Refund. 
@@ -107,6 +111,10 @@ And yeah, that's why I cautioned you at the beginning of this article to not thr
 
 If you've ever returned something to Temu without its original packaging, let us know what happened in the comments below. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sending the package back 
 
 Fortunately, I did still have the Temu envelope, so I dutifully packed up the unit in that wrapper and… let it sit for about 14 days on my counter. But let's count the day I shipped it as "day 1" and see how the return progressed, day by day.
@@ -114,6 +122,10 @@ Fortunately, I did still have the Temu envelope, so I dutifully packed up the un
 ###  Day 1 - Sending the package 
 
 I don't know why I didn't send it right out, but I'm guessing it was because I was busy. In any case, it allowed me to test whether Temu would accept a package shipped 14 days after the return was authorized. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Day 5 - Package arrives at Temu post office 
 
@@ -135,9 +147,17 @@ A few hours later, I was informed that my return had been accepted and a refund 
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Day 8 - Refunded money hits my credit card 
 
 Two days after that, the full amount I originally spent was back on my credit card. Temu had honored their money-back guarantee and given me my money back in full. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Thoughts on the experience 
 
@@ -180,11 +200,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-in-depth-list-of-best-virtual-playgrounds/"><u>[New] 2024 Approved In-Depth List of Best Virtual Playgrounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-igtv-a-comprehensive-guide-for-beginners/"><u>[New] 2024 Approved Mastering IGTV A Comprehensive Guide for Beginners</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/four-reliable-methods-for-hard-drive-cloning-via-command-line-interface/"><u>Four Reliable Methods for Hard Drive Cloning via Command Line Interface</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-s23plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy S23+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-poco-m6-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco M6 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-v-purse-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor V Purse to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-video-intros-no-cost/"><u>Professional Video Intros, No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-informed-on-the-go-configuring-slack-push-alerts-on-ios-devices-and-apple-smartwatches/"><u>Stay Informed On The Go: Configuring Slack Push Alerts on iOS Devices & Apple Smartwatches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-mastering-entry-and-exit-techniques-from-ipod-recovery-mode/"><u>Step-by-Step Guide: Mastering Entry and Exit Techniques From iPod Recovery Mode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-mastering-the-comeback-of-apples-vision-pro-insights-from-zdnet/"><u>Step-by-Step Guide: Mastering the Comeback of Apple's Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-zdnets-rigorous-phone-testing-procedures-for-optimal-performance-review/"><u>Unveiling ZDNet’s Rigorous Phone Testing Procedures for Optimal Performance Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-iphone-experience-with-latest-anker-charger-and-accessories-a-must-have-before-next-weeks-release-zdnet/"><u>Upgrade Your iPhone Experience with Latest Anker Charger & Accessories: A Must-Have Before Next Week's Release | ZDNet</u></a></li>
+</ul></div>
+

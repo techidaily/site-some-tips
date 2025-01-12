@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Diving Into the Latest From Amazon Web Services - Free and Easy to Use ML Service, SageMaker Studio Lab, Tailored for Beginners!"
-date: 2024-09-19 14:19:45
-updated: 2024-09-20 11:19:41
+date: 2025-01-10T19:12:55.399Z
+updated: 2025-01-12T16:16:07.926Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
 Amazon Web Services on Wednesday unveiled SageMaker Studio Lab, a free version of Amazon SageMaker -- the AWS service that helps customers build, train and deploy machine learning models. Designed for machine learning novices, users can try SageMaker Studio Lab without an AWS account, credit card or any cloud configuration knowledge. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### special feature
 
 [![sf-aiml2-thumb.jpg](https://www.zdnet.com/a/img/resize/8e87b92d34389703558e4bbfba61afa3e05f3221/2019/03/27/6cefbef0-81a0-4c23-b2d1-b8d90d815b3e/sf-aiml2-thumb.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Managing AI and ML in the Enterprise The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.  Read now](https://www.zdnet.com/topic/managing-ai-and-ml-in-the-enterprise/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Studio Lab is currently available in public preview.
 
@@ -64,11 +72,23 @@ As many as 2,000 qualifying students will win a scholarship for the AI Programmi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y100t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y100t via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hackers-earn-massive-cash-for-critical-chrome-security-issues-score-up-to-250000-learn-more-at-zdnet/"><u>Hackers, Earn Massive Cash for Critical Chrome Security Issues - Score up to $250,000 | Learn More at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-an-innovative-weather-forecast-app-powered-by-artificnial-intelligence-for-google-pixel-9-smartphones/"><u>Introducing an Innovative Weather Forecast App Powered by Artificnial Intelligence for Google Pixel 9 Smartphones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-jot-down-techniques-in-windows-11-no-apps/"><u>Quick Jot-Down Techniques in Windows 11, No Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/staying-ahead-in-academia-how-gemini-ai-can-transform-your-study-habits-insights-for-university-scholars/"><u>Staying Ahead in Academia: How Gemini AI Can Transform Your Study Habits - Insights for University Scholars</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-transforming-avi-files-into-mkv-format-at-no-cost-via-vlchandbrake-tools/"><u>Step-by-Step Guide: Transforming AVI Files Into MKV Format at No Cost via VLC/HandBrake Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/egies-for-captivating-end-moments/"><u>Strategies for Captivating End Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-protective-covers-for-pixel-8-and-pixel-8-pro-2024s-ultimate-guide-zdnet/"><u>Top-Rated Protective Covers for Pixel 8 & Pixel 8 Pro: 2024'S Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/your-easy-passport-photo-maker-top-quality-for-desktoponline-use/"><u>Your Easy Passport Photo Maker - Top Quality for Desktop/Online Use</u></a></li>
+</ul></div>
+

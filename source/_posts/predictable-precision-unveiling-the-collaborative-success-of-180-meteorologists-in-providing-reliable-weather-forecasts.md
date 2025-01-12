@@ -1,7 +1,7 @@
 ---
 title: "Predictable Precision: Unveiling the Collaborative Success of 180 Meteorologists in Providing Reliable Weather Forecasts"
-date: 2024-09-17 16:46:59
-updated: 2024-09-20 11:36:43
+date: 2025-01-05T20:34:13.947Z
+updated: 2025-01-12T19:18:32.168Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/270179364474a44da1eaeda7613c10f10260fff7a
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,31 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-vortex-constructor-set/"><u>[New] 2024 Approved Vortex Constructor Set</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>[New] Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blackout-essential-strategies-to-restore-your-steam-gameplay/"><u>Beat the Blackout: Essential Strategies to Restore Your Steam Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/centralize-your-filenames-with-powertoys/"><u>Centralize Your Filenames with PowerToys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-chromebook-and-laptop-a-comprehensive-guide-to-meeting-your-tech-requirements-zdnet/"><u>Choosing Between Chromebook and Laptop: A Comprehensive Guide to Meeting Your Tech Requirements | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-extraordinary-chrome-flaws-and-win-big-with-up-to-250k-rewards-unlock-the-opportunity-details-on-zdnet/"><u>Discover Extraordinary Chrome Flaws and Win Big with Up to $250K Rewards! Unlock the Opportunity Details on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-apples-latest-airpods-pro-can-transform-into-your-personalized-fitness-trainer-featuring-heart-rate-monitoring/"><u>Discover How Apple's Latest AirPods Pro Can Transform Into Your Personalized Fitness Trainer - Featuring Heart Rate Monitoring!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-sonic-brilliance-of-sonys-wh-1000xm5-headphones-a-comprehensive-zdnet-analysis/"><u>Exploring the Sonic Brilliance of Sony's WH-1000XM5 Headphones - A Comprehensive ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-the-high-end-features-of-flagships-for-350-less-limited-sale-on-motorola-phone-with-inbuilt-stylus-and-extra-storage-space-zdnets-exclusive-deal/"><u>Get the High-End Features of Flagships for $350 Less: Limited Sale on Motorola Phone with Inbuilt Stylus and Extra Storage Space - ZDNET's Exclusive Deal!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-magic-5-lite-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Magic 5 Lite?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplifying-zoom-picture-quality-insider-secrets/"><u>In 2024, Amplifying Zoom Picture Quality Insider Secrets</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-ace-2-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Ace 2 Phone Now with These Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-offline-workflows-syncing-and-making-google-drive-documents-available-locally/"><u>Navigating Offline Workflows: Syncing and Making Google Drive Documents Available Locally</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-gamers-choice-top-ultra-wide-gaming-monitor-reviews/"><u>Next-Gen Gamer's Choice: Top Ultra-Wide Gaming Monitor Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-note-taking-discover-googles-ai-companion-notebooklm-and-learn-why-you-need-it-zdnet-insights/"><u>Transforming Note-Taking: Discover Google's AI Companion NotebookLM & Learn Why You Need It | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-low-cost-path-to-owning-a-new-pixel-cu9-exclusive-deal-at-under-100-explained-cnet-gadgets/"><u>Uncover the Low-Cost Path to Owning a New Pixel Cu9 - Exclusive Deal at Under $100 Explained | CNET Gadgets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-gemini-live-your-ultimate-guide-to-joining-and-discover-its-unique-benefits-cyberguardian/"><u>Unlocking Gemini Live: Your Ultimate Guide to Joining & Discover Its Unique Benefits | CyberGuardian</u></a></li>
+</ul></div>
+

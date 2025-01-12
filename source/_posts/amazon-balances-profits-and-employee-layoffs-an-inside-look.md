@@ -1,7 +1,7 @@
 ---
 title: Amazon Balances Profits & Employee Layoffs – An Inside Look
-date: 2024-09-19 13:15:14
-updated: 2024-09-20 11:54:11
+date: 2025-01-10T16:45:51.092Z
+updated: 2025-01-12T16:35:23.760Z
 tags:
   - amazon
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/4ec3a208d6d43479e3e48abdc5361890ba
 Tracy King/Getty Images
 
 [The holidays are coming](https://www.zdnet.com/home-and-office/tech-gift-guide/) and, for many tech companies, the timing is a little awkward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -82,11 +86,27 @@ I wonder if every Amazon employee will agree with that this year.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-leveraging-facebook-best-practices-for-360-videos/"><u>[New] 2024 Approved Leveraging Facebook Best Practices for 360 Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-premier-pdf-enhancements/"><u>[New] Premier PDF Enhancements</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-behind-the-scenes-guide-to-elusive-instagram-tools/"><u>[Updated] Behind-the-Scenes Guide to Elusive Instagram Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-superb-video-connections-adventures/"><u>[Updated] Superb Video Connections Adventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-your-perfect-tablet-a-detailed-comparison-of-the-ipad-pro-m1-vs-m2-models-insights-from-zdnet/"><u>Choosing Your Perfect Tablet: A Detailed Comparison of the iPad Pro M1 Vs. M2 Models - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-true-condition-of-your-apple-watchs-battery-unveiling-unexpected-insights/"><u>Discover the True Condition of Your Apple Watch's Battery - Unveiling Unexpected Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-ultra-slim-design-of-new-ipads-at-the-genius-bar-is-008-inches-game-changing/"><u>Exploring the Ultra-Slim Design of New iPads at the Genius Bar - Is 0.08 Inches Game-Changing?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-of-ar-discover-which-key-applications-miss-the-cut-for-apples-revolutionary-vision-pro/"><u>Future of AR: Discover Which Key Applications Miss the Cut for Apple's Revolutionary Vision Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Google Pixel 8 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-20-video-cameras-expert-reviews/"><u>In 2024, Top 20 Video Cameras – Expert Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-breath-monitoring-apples-potential-addition-of-respiratory-features-to-vision-pro-insights-from-zdnet/"><u>Revolutionary Breath Monitoring: Apple's Potential Addition of Respiratory Features to Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simple-methods-for-moving-pictures-transition-from-google-photos-to-icloud-with-ease/"><u>Simple Methods for Moving Pictures: Transition From Google Photos to iCloud with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-future-tech-secrets-at-toms-gadget-analysis/"><u>Unlocking Future Tech Secrets at Tom's Gadget Analysis</u></a></li>
+</ul></div>
+

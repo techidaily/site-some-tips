@@ -1,7 +1,7 @@
 ---
 title: "Experience Expansion with Amazon's New Echo Show 15: Does a Larger Display Mean More Functionality? - Insights From ZDNET Review"
-date: 2024-09-19 22:44:17
-updated: 2024-09-20 10:10:43
+date: 2025-01-10T17:49:43.450Z
+updated: 2025-01-12T19:29:09.188Z
 tags:
   - amazon
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/15ee6182a7ae55156e438f95ff8ff955ef45d4a10
 
 For the past month, I've had the Echo Show 15 up and running, both in a family setting and in my home office. It's been a tool I use for quickly checking my daily agenda and for checking on camera feeds from time to time. While I've found it useful, there are still some areas that need some work. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **A small TV or a very big smart display?**
 
 Jason Cipriani/ZDNet
@@ -53,6 +57,10 @@ Above the camera is where you'll find a few buttons to control volume levels and
 The camera leaves a lot to be desired in terms of photo or video quality, but it's good enough for casual calls with friends and family members. 
 
 I can't decide if it's better to view the Echo Show 15 as just the right size of a modern take on a small TV for the kitchen, or if it's just a really big smart display. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **A hub for your family… or not**
 
@@ -80,11 +88,19 @@ You can set up Visual ID for all family members linked to your Amazon account, i
 
 Visual ID is also available on the [Echo Show 10](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fecho-show-10%2Fdp%2FB07VHZ41L8%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd9c365c3-81bc-46a2-b117-5a131e0949c4%7Cdtp&dtb=1) and [Show 8](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Show-8-2nd-Gen-2021-release%2Fdp%2FB084DCJKSL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd9c365c3-81bc-46a2-b117-5a131e0949c4%7Cdtp&dtb=1), and, for me at least, it's become a must-use feature on the Echo Show 15\. Knowing that whenever I'm interacting with the Echo Show 15 the information that's presented is specific to me and my interests solves a problem I've long had with smart displays. That is, seeing random suggestions and content that is of no interest to me, or whoever is using the Echo Show at that time. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance can be hit or miss**
 
 As you can see, there are random hiccups like the blank space on the left side of the screen. 
 
 Jason Cipriani/ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -99,6 +115,10 @@ At one point during my review, I asked Amazon PR about the sluggishness of the d
 What's frustrating about the Echo Show 15's performance is that there's zero rhyme or reason about why it slows down. It just does, and then it doesn't. I did notice there have been a couple of software updates for it since I first set it up, so it's possible that Amazon is slowly boosting performance and eliminating bugs that I've encountered. 
 
 [Buy the Echo Show 15 $249 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-echo-show-15-smart-display-with-alexa%2Fdp%2FB08MQLDFF6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd9c365c3-81bc-46a2-b117-5a131e0949c4%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bottom line**
 
@@ -129,11 +149,33 @@ I definitely see the need and value of a large smart display like the Echo Show 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>[New] In 2024, A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-tips-for-saving-webcam-chats-effectively/"><u>[New] In 2024, Tips for Saving Webcam Chats Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-audio-change-apps-for-virtual-performers/"><u>[New] Leading Audio Change Apps for Virtual Performers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-ios-resources-for-enjoying-psp-games-for-2024/"><u>[Updated] Essential iOS Resources for Enjoying PSP Games for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pinnacle-ios-solutions-the-best-ps2-game-emulators/"><u>[Updated] In 2024, Pinnacle IOS Solutions The Best PS2 Game Emulators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2023s-must-have-technology-picks-from-best-buy-featured-by-zdnet/"><u>2023'S Must-Have Technology Picks From Best Buy Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-vision-pro-assessment-the-verdict-at-3500-comprehensive-insights-from-experts/"><u>Apple Vision Pro Assessment: The Verdict at $3,500 - Comprehensive Insights From Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-civi-3-disney-100th-anniversary-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Civi 3 Disney 100th Anniversary Edition Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breaking-news-iphone-16s-camera-tech-sets-new-standards-eclipsing-historic-color-transition-according-to-latest-zdnet-analysis/"><u>Breaking News: IPhone 16'S Camera Tech Sets New Standards, Eclipsing Historic Color Transition According to Latest ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-revolutionary-impact-of-5gs-top-tier-application-more-than-connectivity/"><u>Exploring the Revolutionary Impact of 5G's Top-Tier Application: More than Connectivity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-100-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 100 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-meta-quest-mic-ultimate-usage-guide/"><u>Mastering Your Meta Quest Mic: Ultimate Usage Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-3-storage-showdown-is-the-128gb-version-sufficient-or-worth-upgrading-to/"><u>Meta Quest 3 Storage Showdown: Is the 128GB Version Sufficient or Worth Upgrading To</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-imaging-breakthroughs-coming-to-mobile-tech-how-apples-iphone-16-ultra-redefines-color-and-clarity-in-photos-zdnet-insights/"><u>Next-Level Imaging Breakthroughs Coming to Mobile Tech: How Apple's iPhone 16 Ultra Redefines Color and Clarity in Photos | ZDNET Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-fixing-windows-10s-update-error-0xc1900208/"><u>Step-by-Step Solution for Fixing Windows 10'S Update Error: 0Xc1900208</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-effective-digital-twin-integration-identifying-and-addressing-top-7-industry-challenges-zdnet/"><u>Strategies for Effective Digital Twin Integration: Identifying and Addressing Top 7 Industry Challenges (ZDNET)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-s23-tactical-edition-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy S23 Tactical Edition FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-exclusive-savings-experience-the-future-with-discounted-xr-glasses-this-prime-day-solve-your-tech-regret/"><u>Unlock Exclusive Savings: Experience the Future with Discounted XR Glasses This Prime Day – Solve Your Tech Regret!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reveals-iphone-and-ipad-apps-now-pre-installed-on-vision-pros-official-app-store/"><u>ZDNet Reveals: IPhone & iPad Apps Now Pre-Installed on Vision Pro's Official App Store</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2024-12-30T02:39:54.270Z
-updated: 2025-01-05T19:28:37.658Z
+date: 2025-01-09T20:04:27.419Z
+updated: 2025-01-12T19:08:46.432Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,24 +119,22 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-premiere-virtual-artist-streams/"><u>[New] 2024 Approved Premiere Virtual Artist Streams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rapid-rise-on-insta-like-mastery-plus-video-impact/"><u>[New] 2024 Approved Rapid Rise on Insta - Like Mastery + Video Impact</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>[New] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-prime-day-alert-secure-a-high-quality-indoor-ring-cam-at-an-unbeatable-price-of-only-30-shop-now/"><u>Amazon Prime Day Alert: Secure a High-Quality Indoor Ring Cam at an Unbeatable Price of Only $30 – Shop Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-amazons-finest-the-ultimate-selection-of-back-to-school-savings-for-your-shopping-list/"><u>Discover Amazon's Finest: The Ultimate Selection of Back-to-School Savings for Your Shopping List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/embracing-a-reliable-trust-based-economic-era-insights-from-zdnet/"><u>Embracing a Reliable Trust-Based Economic Era: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-amazon-leverages-generative-ai-technology-for-efficient-customer-feedback-compilation-digital-trends/"><u>How Amazon Leverages Generative AI Technology for Efficient Customer Feedback Compilation | Digital Trends</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-southwest-airlines-became-a-technology-pioneer-exciting-and-alarming-experts-zdnet-reveals-the-journey/"><u>How Southwest Airlines Became a Technology Pioneer, Exciting and Alarming Experts | ZDNET Reveals the Journey</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/how-to-efficiently-organize-and-purge-unwanted-files-on-your-computer-with-tips-by-yl-software-experts/"><u>How to Efficiently Organize and Purge Unwanted Files on Your Computer with Tips by YL Software Experts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elevate-your-virtual-engagement-with-snap-capabilities-in-meet/"><u>In 2024, Elevate Your Virtual Engagement with Snap Capabilities in Meet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/previewing-the-future-encouragement-found-in-ordering-the-new-apple-vision-pro-zdnets-take-on-tech-forecasts/"><u>Previewing the Future: Encouragement Found in Ordering the New Apple Vision Pro | ZDNET's Take on Tech Forecasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-inventory-management-a-deep-dive-into-a-retail-giants-use-of-ai-and-visual-tech-for-optimized-stocking/"><u>Revolutionizing Inventory Management: A Deep Dive Into a Retail Giant's Use of AI & Visual Tech for Optimized Stocking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-trade-with-ai-unveil-five-strategies-industries-embrace-through-generative-technology-explored-on-zdnet/"><u>Revolutionizing Trade with AI: Unveil Five Strategies Industries Embrace Through Generative Technology | Explored on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-what-causes-youtube-not-to-function/"><u>Solving the Mystery: What Causes YouTube Not to Function?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/streamline-task-management-with-safaris-picture-in-picture-for-2024/"><u>Streamline Task Management with Safari's Picture In Picture for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-zooming-elevate-your-tiktok-videos/"><u>The Art of Zooming Elevate Your TikTok Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-google-pixel-8-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Google Pixel 8 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unveiling-10-cost-effective-virtual-communication-tools/"><u>Unveiling 10 Cost-Effective Virtual Communication Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-potential-how-a-42000-dji-drone-transforms-aerial-imaging-discover-with-zdnet/"><u>Unveiling the Potential: How a $42,000 DJI Drone Transforms Aerial Imaging | Discover with ZDNET</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>[Updated] Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-freeze-laughs-select-the-best-templates/"><u>[Updated] Freeze Laughs Select the Best Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-watch-notifications-and-calls-stay-connected-to-friends-and-family-easily/"><u>Apple Watch Notifications and Calls: Stay Connected to Friends & Family Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-why-the-iphone-14-hits-the-perfect-balance-of-functionality-and-quality/"><u>Comprehensive Evaluation: Why the iPhone 14 Hits the Perfect Balance of Functionality and Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converting-from-android-how-the-new-iphone-16-could-change-my-mind-techinsider/"><u>Converting From Android: How the New iPhone 16 Could Change My Mind | TechInsider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-rechargeable-wallet-tracker-beyond-apples-airtag-smart-tech-comparisons/"><u>Discover the Ultimate Rechargeable Wallet Tracker: Beyond Apple's AirTag | Smart Tech Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-this-is-the-ultimate-choice-for-a-durable-apple-watch-titanium-band-top-picks/"><u>Discover Why This Is the Ultimate Choice for a Durable Apple Watch Titanium Band - Top Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apples-new-on-device-ai-system-realm-outshines-gpt-4-innovations-on-tech/"><u>How Apple's New On-Device AI System ReaLM Outshines GPT-4 | Innovations on Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a38-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A38</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-currency-fluctuations-leveraging-the-consumer-price-index-for-effective-forex-risk-management-on-mt4/"><u>Mastering Currency Fluctuations: Leveraging the Consumer Price Index for Effective Forex Risk Management on MT4</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigate-and-conquer-with-fitbit-versa-3-embrace-the-power-of-inbuilt-gps-plus-health-apps-for-unmatched-exercise-motivation/"><u>Navigate & Conquer with Fitbit Versa 3 - Embrace the Power of Inbuilt GPS + Health Apps for Unmatched Exercise Motivation!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-pc-game-glitches-fixed-guide-to-no-more-dauntless-crashes/"><u>Overcome PC Game Glitches: Fixed Guide to No More Dauntless Crashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-smart-how-ai-will-transform-iphone-mac-and-ipad-experience-with-apples-latest-features-zdnet-insights/"><u>The Future Is Smart: How AI Will Transform iPhone, Mac, and iPad Experience with Apple’s Latest Features | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-meta-quest-3-for-viewing-apples-cutting-edge-3d-content-insights-from-zdnet/"><u>Unlocking the Full Potential of Meta Quest 3 for Viewing Apple's Cutting-Edge 3D Content | Insights From ZDNet</u></a></li>
 </ul></div>
 

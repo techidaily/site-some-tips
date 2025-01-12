@@ -1,7 +1,7 @@
 ---
 title: "The Ripple Effect of Union Victory: How the UPS Agreement Might Affect Amazon"
-date: 2024-09-17 22:58:34
-updated: 2024-09-20 11:26:51
+date: 2025-01-07T16:45:09.206Z
+updated: 2025-01-12T19:06:58.009Z
 tags:
   - amazon
 categories:
@@ -47,6 +47,10 @@ When contacted for comment, Amazon's PR team responded, stating the following wa
 
 I also reached out to the International Brotherhood of Teamsters press team for comment. As of publication time, I have not yet received a response. As soon as I do, I will update this article accordingly. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How reliant is Amazon on UPS? 
 
 Unfortunately, Amazon declined to answer our specific questions on its shipping network capacity. But we can look to other sources to scope out what we know. 
@@ -68,6 +72,10 @@ Even as far back as 2020, in the heart of the pandemic supply chain crisis, logi
 If that number holds into 2023, it means that Amazon directly controls at least two-thirds of its package delivery service, and the remaining third is split between UPS, FedEx, USPS, and smaller carriers. 
 
 So, while Amazon does actively use UPS, it also appears to have considerable capacity to keep packages flowing whether or not there is any work stoppage on the part of the big brown shipping company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is Amazon's status with regard to unions? 
 
@@ -97,6 +105,10 @@ It's not clear whether Amazon directly employs its own pilots. [According to the
 
 While Amazon has only one official union shop, the company is potentially vulnerable to strike and protest activity, both on the ground and in the air. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can UPS's union activities influence Amazon? 
 
 As discussed earlier, Amazon said it does not expect a UPS strike to have a significant impact on deliveries. But the Teamsters union, which represents UPS workers, has invested substantial effort and resources into union organizing at Amazon. 
@@ -121,6 +133,10 @@ Cross-union solidarity is fairly common. For example, to show support for striki
 * SEIU 721 (Service Employees International Union Local 721)
 * SEIU 1000 (Service Employees International Union Local 1000)
 * AFSCME (American Federation of State, County and Municipal Employees)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Will there be a ripple effect? 
 
@@ -157,11 +173,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-a-signature-look-starting-with-self-reflection/"><u>[New] 2024 Approved Crafting a Signature Look Starting with Self-Reflection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-deep-dive-into-exceptional-screen-recording-using-adobe-captivity/"><u>[New] A Deep Dive Into Exceptional Screen Recording Using Adobe Captivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-mastering-mac-customization-activating-and-leveraging-hot-corners-in-macos-techadvocate/"><u>1. Mastering Mac Customization: Activating & Leveraging Hot Corners in macOS | TechAdvocate</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-google-pixel-8-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Google Pixel 8 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/instant-subscription-strategy-improve-user-engagement-for-2024/"><u>Does Instant Subscription Strategy Improve User Engagement for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-get-into-a-friends-live-showcase-effortlessly/"><u>In 2024, Get Into a Friend's Live Showcase Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-luminaries-of-livestreaming-success-for-2024/"><u>Leading Luminaries of Livestreaming Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/qi2-compatible-3-in-1-magsafe-charging-block-the-ultimate-upgrade-for-your-travel-gear-techsavvy/"><u>Qi2 Compatible 3-in-1 MagSafe Charging Block: The Ultimate Upgrade for Your Travel Gear | TechSavvy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-costly-secret-behind-the-absence-of-advanced-apple-ai-in-older-iphone-models/"><u>The Costly Secret Behind the Absence of Advanced Apple AI in Older iPhone Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-your-iphone-n-how-the-new-camera-button-changes-everything-insights-from-zdnet/"><u>Unlocking the Potential of Your iPhone N: How the New Camera Button Changes Everything | Insights From ZDNET</u></a></li>
+</ul></div>
+

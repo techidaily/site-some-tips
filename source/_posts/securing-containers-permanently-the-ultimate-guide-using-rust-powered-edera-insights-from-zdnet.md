@@ -1,7 +1,7 @@
 ---
 title: "Securing Containers Permanently: The Ultimate Guide Using Rust-Powered Edera - Insights From ZDNet"
-date: 2024-09-19 16:48:44
-updated: 2024-09-20 12:56:19
+date: 2025-01-09T19:12:11.789Z
+updated: 2025-01-12T18:19:38.183Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,27 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frame-by-frame-building-a-filmmaking-foundation-on-youtube/"><u>[New] 2024 Approved Frame by Frame Building a Filmmaking Foundation on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-best-tools-for-crafting-memorable-instagram-reels-top-6/"><u>[New] In 2024, Best Tools for Crafting Memorable Instagram Reels (Top 6)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr-for-2024/"><u>[New] Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-turn-off-spotifys-recommended-listings/"><u>[Updated] Step-by-Step Guide Turn Off Spotify's Recommended Listings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-analysis-protonvpn-unmatched-security-and-reliable-leak-shielding-as-featured-on-zdnet/"><u>Expert Analysis: ProtonVPN - Unmatched Security and Reliable Leak Shielding, as Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-selected-ultimate-vpn-solutions-for-windows-users-in-depth-comparisons-and-ratings-pcmag/"><u>Expertly Selected Ultimate VPN Solutions for Windows Users: In-Depth Comparisons & Ratings | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-picks-elite-vpn-providers-for-ios-unbiased-ratings-and-detailed-analysis-pcmag/"><u>Experts' Picks: Elite VPN Providers for iOS - Unbiased Ratings & Detailed Analysis | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/find-your-perfect-mac-protection-the-ultimate-vpn-guide-and-comparisons-insights-from-industry-pros-techreviewzdnet/"><u>Find Your Perfect Mac Protection: The Ultimate VPN Guide & Comparisons - Insights From Industry Pros | TechReviewZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-setting-up-your-vpn-connection-on-windows-11-tips-and-tricks/"><u>Guide: Setting Up Your VPN Connection on Windows 11 - Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-structuring-a-compelling-resume-cv-on-linkedin/"><u>In 2024, Structuring a Compelling Resume (CV) on LinkedIn</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-surfshark-vpn-analysis-insights-from-zdnets-latest-review/"><u>In-Depth Surfshark VPN Analysis - Insights From ZDNet's Latest Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-classic-gamepads-ultimate-pick-for-pc-and-raspberry-pi/"><u>Top-Rated Classic Gamepads: Ultimate Pick for PC and Raspberry Pi</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100a-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100A Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 10 Reigns Supreme as Today's Top-Notch Smart Home Hub & Speaker - Insights From ZDNet
-date: 2024-09-19 14:57:59
-updated: 2024-09-20 12:35:19
+date: 2025-01-07T16:52:44.888Z
+updated: 2025-01-12T19:21:25.910Z
 tags:
   - amazon
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/4abce0056960df0e5100441802c32a2024
 ![Echo Show 8](https://www.zdnet.com/a/img/resize/b82a4b63d79b92d64125d1cf3da8904d61e079f5/2023/10/24/d0dcd826-0ecf-4610-8ea0-54d4e0a9e244/echoshow7.jpg?auto=webp&width=1280)
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -81,6 +85,10 @@ Maria Diaz/ZDNET
 
 The latest Echo Show 8 is also a [smart speaker](https://www.zdnet.com/home-and-office/home-entertainment/best-smart-speaker/) with spatial audio. The device packs a pair of two-inch neodymium speakers for a vibrant directional feel and a surprisingly rich sound experience despite the size of the speaker, especially compared to the first-generation model and the [2023 Echo Show 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09B2SBHQK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cccb335e2-283c-413f-8e1e-71e7c0c83827%7Cdtp&dtb=1).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Maria Diaz/ZDNET
@@ -118,11 +126,29 @@ With support for Zigbee, Thread, and [Matter](https://www.zdnet.com/home-and-off
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-professional-insights-top-10-igtv-pros/"><u>[Updated] Professional Insights Top 10 IGTV Pros</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sunshine-strategies-enhancing-indoor-luminary-quality-for-2024/"><u>[Updated] Sunshine Strategies Enhancing Indoor Luminary Quality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-enhancements-from-apple-for-iphone-ipad-mac-and-additional-devices-this-autumn-with-a-focus-on-artificial-intelligence-zdnet/"><u>Comprehensive Guide: Upcoming Enhancements From Apple for iPhone, iPad, Mac & Additional Devices This Autumn with a Focus on Artificial Intelligence | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-premium-alternatives-to-apple-and-tile-airtags-for-your-wallet-insights-from-zdnet-testing/"><u>Exploring Premium Alternatives to Apple & Tile AirTags for Your Wallet - Insights From ZDNet Testing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fix-iphones-poor-battery-life-post-ios-175-update-top-7-effective-solutions/"><u>Fix iPhone's Poor Battery Life Post-iOS 17.5 Update: Top 7 Effective Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-huawei-p60-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Huawei P60 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/internal-structures-like-baffles-and-weirs-can-enhance-sedimentation-by-reducing-turbulence-and-controlling-outflow-rates-for-maximum-contact-time-within-se151/"><u>Internal Structures Like Baffles and Weirs Can Enhance Sedimentation by Reducing Turbulence and Controlling Outflow Rates for Maximum Contact Time Within Settling Zones.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-math-solutions-on-your-ipad-discover-why-youll-want-an-apple-pencil-for-this-advanced-calculator-according-to-zdnet-analysts/"><u>Next-Level Math Solutions on Your iPad: Discover Why You'll Want an Apple Pencil for This Advanced Calculator, According to ZDNet Analysts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-choice-webcams-boosting-podcast-quality/"><u>Top Choice Webcams Boosting Podcast Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727788769151-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-apple-watch-game-with-a-stylish-and-secure-40-sale-on-the-latest-powerband-find-out-more-at-zdnet-today/"><u>Transform Your Apple Watch Game with a Stylish and Secure $40 Sale on the Latest PowerBand! Find Out More at ZDNET Today.</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-user-participation-a-blueprint-for-successful-social-posts/"><u>Unlocking User Participation: A Blueprint for Successful Social Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-videos-on-fb-with-2023-mobile-utility-for-2024/"><u>Unlocking Videos on FB with 2023 Mobile Utility for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/king-youtube-sponsor-opportunities-via-famebit-methods-for-2024/"><u>Unlocking YouTube Sponsor Opportunities via FameBit Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-most-anticipated-ios-18-features-debuted-at-wwdc-2024-how-artificial-intelligence-takes-center-stage-analysis-by-zdnet/"><u>Unveiling the Most Anticipated iOS 18 Features Debuted at WWDC 2024: How Artificial Intelligence Takes Center Stage - Analysis by ZDNET</u></a></li>
+</ul></div>
+

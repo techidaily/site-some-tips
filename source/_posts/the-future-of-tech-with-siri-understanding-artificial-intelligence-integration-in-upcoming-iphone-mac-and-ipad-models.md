@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2024-12-30T22:30:58.655Z
-updated: 2025-01-06T04:20:47.424Z
+date: 2025-01-06T16:30:25.278Z
+updated: 2025-01-12T20:35:46.452Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,17 +120,18 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-hourly-highlights-top-10-youtubes-biggest-view-count/"><u>[New] In 2024, Hourly Highlights Top 10 YouTube's Biggest View Count</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[New] In 2024, The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/oom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>[New] Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/binge-on-inspirational-athletics-movies-10-selections-for-your-next-screen-time/"><u>Binge on Inspirational Athletics Movies: 10 Selections for Your Next Screen Time</u></a></li>
-<li><a href="https://some-tips.techidaily.com/future-at-the-edge-how-ai-agents-will-revolutionize-our-jobs-for-good-exclusive-zdnet-analysis/"><u>Future at the Edge: How AI Agents Will Revolutionize Our Jobs for Good | Exclusive ZDNET Analysis</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-learning-python-javascript-and-java-can-skyrocket-your-programming-career-tips-curated-by-zdnet/"><u>How Learning Python, JavaScript & Java Can Skyrocket Your Programming Career - Tips Curated by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-experience-microsofts-revolutionary-copilot-for-finance-your-guide-to-the-future-of-ai-chatbots/"><u>How to Experience Microsoft's Revolutionary Copilot for Finance - Your Guide to the Future of AI Chatbots</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-virtual-arena-microsoft-enhances-gaming-experience-with-improved-copilot-technologies/"><u>Mastering the Virtual Arena: Microsoft Enhances Gaming Experience with Improved Copilot Technologies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/programming-language-trends-from-2016-onwards-insights-and-implications-unveiled-by-zdnet/"><u>Programming Language Trends From 2016 Onwards: Insights & Implications Unveiled by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/programming-newcomers-accelerate-your-learning-with-top-5-linux-utilities-recommended-by-experts-at-zdnet/"><u>Programming Newcomers: Accelerate Your Learning with Top 5 Linux Utilities Recommended by Experts at ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-fallout-3-stability-problems-on-your-windows-11-pc/"><u>Ultimate Fix for Fallout 3 Stability Problems on Your Windows 11 PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-taking-your-fb-presence-step-by-step-on-360-video-creation/"><u>[New] Taking Your FB Presence Step-by-Step on 360 Video Creation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cut-to-the-chase-download-fb-videos-as-mp4-for-2024/"><u>[Updated] Cut to the Chase - Download FB Videos as MP4 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-who-wins-the-battle-of-cinematic-quality-and-durability/"><u>[Updated] In 2024, Who Wins the Battle of Cinematic Quality and Durability?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-watch-ultra-2-my-ideal-smartwatch-with-an-extra-100-off-this-labor-day-a-review-by-zdnet/"><u>Apple Watch Ultra 2: My Ideal Smartwatch with an Extra $100 Off This Labor Day - A Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-reasons-for-investing-in-an-apple-watch-as-explained-by-a-wearables-authority-zdnet/"><u>Discover the Ultimate Reasons for Investing in an Apple Watch, as Explained by a Wearables Authority | ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guida-allidentificazione-e-alla-corretta-configurazione-del-disco-sconosciuto-della-serie-wd-per-un-funzionamento-ottimale/"><u>Guida All'Identificazione E Alla Corretta Configurazione Del Disco Sconosciuto Della Serie WD per Un Funzionamento Ottimale</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-find-n3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Find N3 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-unplanned-investment-in-apples-new-earpods-with-usb-c-at-prime-day-a-detailed-review-zdnet/"><u>My Unplanned Investment in Apple’s New EarPods with USB-C at Prime Day – A Detailed Review | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/siri-enhancements-on-the-horizon-with-apples-ai-boost-set-for-major-upgrades-by-2025/"><u>Siri Enhancements on the Horizon with Apple’s AI Boost Set for Major Upgrades by 2025</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-vs-2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic Vs 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-to-iphone-16-expect-enhanced-ease-of-repair-compared-to-previous-iphones-insights-from-apple/"><u>Upgrading to iPhone 16? Expect Enhanced Ease of Repair Compared to Previous iPhones - Insights From Apple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-users-are-giving-back-the-7-main-grounds-for-returning-apples-vision-pro-as-revealed-by-reddit-zdnet-coverage/"><u>Why Users Are Giving Back: The 7 Main Grounds for Returning Apple's Vision Pro, as Revealed by Reddit | ZDNET Coverage</u></a></li>
 </ul></div>
 

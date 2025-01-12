@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2025-01-02T23:24:37.681Z
-updated: 2025-01-05T19:53:32.447Z
+date: 2025-01-11T19:04:01.487Z
+updated: 2025-01-12T17:39:51.300Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 **What you need:** iPhone, banking information
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
@@ -43,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -67,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -77,6 +81,10 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -100,10 +108,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -115,10 +119,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -128,7 +128,7 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -197,19 +197,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[New] In 2024, Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>[Updated] The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-download-premium-facebook-hd-content-anywhere/"><u>2024 Approved Download Premium Facebook HD Content Anywhere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286538929-52024/"><u>未来前5名！推出2024年最热门免费视频记录器选项</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-development-abilities-my-journey-to-mastery-in-python-through-linkedins-gratis-artificial-intelligence-training-insights-featured-by-zdnet/"><u>Boosting Development Abilities: My Journey to Mastery in Python Through LinkedIn’s Gratis Artificial Intelligence Training - Insights Featured by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-your-software-creation-flow-using-these-6-agile-strategies-for-project-triumph-zdnet/"><u>Elevate Your Software Creation Flow Using These 6 Agile Strategies for Project Triumph | ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratuit-mp4-to-swf-konvertor-en-lijn-veillez-a-la-mouvavi/"><u>Gratuit MP4-to-SWF Konvertor en Lijn - Veillez À La Mouvavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-googles-lamda-truly-sentient-or-just-another-advanced-bot/"><u>Is Google's LaMDA Truly Sentient, or Just Another Advanced Bot?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-chatgpt-for-innovative-app-development-techniques-insights-by-zdnet/"><u>Leveraging ChatGPT for Innovative App Development Techniques - Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/personalize-your-online-journey-a-comprehensive-guide-for-enabling-cookies-in-modern-browsers/"><u>Personalize Your Online Journey: A Comprehensive Guide for Enabling Cookies in Modern Browsers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-your-missing-texts-and-reminders-from-an-iphone-easily/"><u>Recovering Your Missing Texts and Reminders From an iPhone Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotting-a-stealthy-tracker-how-to-check-for-hidden-airtags-around-you/"><u>Spotting a Stealthy Tracker: How to Check for Hidden AirTags Around You</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-removing-hums-from-your-bass-speakers/"><u>Step-by-Step Instructions: Removing Hums From Your Bass Speakers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-programming-bootcamp-schools-a-comprehensive-review-by-techeducation-insider/"><u>Top 10 Programming Bootcamp Schools : A Comprehensive Review by TechEducation Insider</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gratis-business-presentation-boosting-plugins-and-templates/"><u>[New] Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-home-cinematic-wonders-fastest-tips-and-tricks/"><u>[New] In 2024, Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rofessional-level-youtube-editing-techniques-you-need-to-know-for-2024/"><u>[New] Professional-Level Youtube Editing Techniques You Need To Know for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-secure-login-for-icloud-emails-with-2fa-technology/"><u>Advanced Secure Login for iCloud Emails with 2FA Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chrome-extension-alert-securing-your-account-from-faux-chatgpt-scam-impersonating-facebook-login-feature/"><u>Chrome Extension Alert! Securing Your Account From Faux ChatGPT Scam Impersonating Facebook Login Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-time-to-switch-a-detailed-analysis-of-iphone-16-pro-and-iphone-14-pro/"><u>Is It Time to Switch? A Detailed Analysis of iPhone 16 Pro and iPhone 14 Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-glitch-like-a-pro-top-free-online-effect-generators-you-need-to-try/"><u>New In 2024, Glitch Like a Pro Top Free Online Effect Generators You Need to Try</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-6-step-approach-to-fixing-the-werfaultexe-problem-on-windows-operating-systems/"><u>The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-gamer-friendly-smartphones-expert-ranking-by-zdnet/"><u>Top 5 Gamer-Friendly Smartphones : Expert Ranking by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-notetaking-tablets-comprehensive-tests-and-reviews-techradar/"><u>Top Rated Notetaking Tablets - Comprehensive Tests & Reviews | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-roblox-fps-unlocker-mechanics/"><u>Understanding Roblox FPS Unlocker Mechanics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-storage-potential-a-step-by-step-guide-to-clear-your-iphone-clutter-and-save-gbs-learn-with-us/"><u>Unlocking Storage Potential: A Step-by-Step Guide to Clear Your iPhone Clutter & Save GBs - Learn with Us</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-1120245/"><u>Windows 11で最高のフリーボイスレコーディングツール【2024年上位5選択】</u></a></li>
 </ul></div>
 

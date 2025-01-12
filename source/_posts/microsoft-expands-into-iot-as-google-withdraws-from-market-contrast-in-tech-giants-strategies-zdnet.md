@@ -1,7 +1,7 @@
 ---
 title: Microsoft Expands Into IoT as Google Withdraws From Market, Contrast in Tech Giants' Strategies | ZDNet
-date: 2024-09-18 23:39:25
-updated: 2024-09-20 11:49:53
+date: 2025-01-09T20:40:13.745Z
+updated: 2025-01-12T19:07:56.342Z
 tags:
   - amazon
 categories:
@@ -62,11 +62,35 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/igital-dominion-for-techno-gamers-for-2024/"><u>[New] Digital Dominion for Techno Gamers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveiling-your-individual-playlist-paradise-on-youtube-for-2024/"><u>[New] Unveiling Your Individual Playlist Paradise on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cutting-costs-without-cutting-edge-experience-my-journey-from-expensive-tech-apple-vision-pro-and-meta-quest-n-to-economical-xr-solutions/"><u>Cutting Costs without Cutting Edge Experience: My Journey From Expensive Tech - Apple Vision Pro and Meta Quest N to Economical XR Solutions!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-power-play-how-apples-revolutionary-game-mode-could-redefine-mobile-entertainment-insights-inside/"><u>Discover the Power Play: How Apple's Revolutionary Game Mode Could Redefine Mobile Entertainment - Insights Inside!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/riendly-cities-redefining-urban-spaces-for-nature/"><u>Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-guide-why-securing-your-privacy-with-a-vpn-is-crucial-for-using-vision-pro-and-competing-xr-devices-insights-from-zdnet/"><u>Essential Guide: Why Securing Your Privacy with a VPN Is Crucial for Using Vision Pro and Competing XR Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-repair-steps-for-a-malfunctioning-logitech-scroll-wheel/"><u>Expert Advice: Repair Steps for a Malfunctioning Logitech Scroll Wheel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/extend-your-day-with-the-apple-watchs-low-power-feature-a-simple-guide-to-optimization-by-techexpert-zdnet/"><u>Extend Your Day with the Apple Watch's Low Power Feature – A Simple Guide to Optimization by TechExpert | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apples-groundbreaking-gaze-control-is-changing-the-game-for-iphone-and-ipad-users-with-enhanced-accessibility-options-insights-from-zdnet/"><u>How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights From ZDNET</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-6-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 6</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 14 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-music-with-precision-discover-the-professional-capabilities-of-tascam-cd-200bt/"><u>Mastering Music with Precision: Discover the Professional Capabilities of Tascam CD-200BT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pros-picks-top-10-shaky-free-cameras-for-action-for-2024/"><u>Pro's Picks Top 10 Shaky-Free Cameras for Action for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/quick-guide-installing-windows-1011-from-a-bootable-usb-stick/"><u>Quick Guide: Installing Windows 10/11 From a Bootable USB Stick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tens-of-thousands-benefit-from-apples-new-artificial-intelligence-training-initiatives/"><u>Tens of Thousands Benefit From Apple's New Artificial Intelligence Training Initiatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-iphone-se-sleeves-for-safety-and-elegance-gadgetflow/"><u>The Best iPhone SE Sleeves for Safety & Elegance | GadgetFlow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-simple-trick-to-switching-up-face-ids-on-your-apple-watch-a-comprehensive-guide/"><u>Unveiling The Simple Trick To Switching Up Face IDs On Your Apple Watch: A Comprehensive Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

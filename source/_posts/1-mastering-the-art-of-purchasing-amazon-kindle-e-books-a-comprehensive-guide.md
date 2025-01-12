@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering the Art of Purchasing Amazon Kindle E-Books: A Comprehensive Guide"
-date: 2024-09-18 21:48:23
-updated: 2024-09-20 10:23:15
+date: 2025-01-05T17:43:46.410Z
+updated: 2025-01-12T17:21:56.845Z
 tags:
   - amazon
 categories:
@@ -26,7 +26,15 @@ But how do you get the most out of your Kindle? Let's start with how to buy book
 * [How to get (great) free books on Kindle](https://www.zdnet.com/article/how-to-get-great-free-books-on-kindle/#link=%7B%22linkText%22:%22How%20to%20get%20%28great%29%20free%20books%20on%20Kindle%22,%22target%22:%22%5Fblank%22,%22href%22:%22https://www.zdnet.com/article/how-to-get-great-free-books-on-kindle/%22,%22role%22:%22standard%22,%22absolute%22:%22%22%7D)
 * [How to share or loan a Kindle book](https://www.zdnet.com/article/how-to-share-or-loan-a-kindle-book/#link=%7B%22linkText%22:%22How%20to%20share%20or%20loan%20a%20Kindle%20book%22,%22target%22:%22%5Fblank%22,%22href%22:%22https://www.zdnet.com/article/how-to-share-or-loan-a-kindle-book/%22,%22role%22:%22standard%22,%22absolute%22:%22%22%7D)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to buy books on Kindle
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Link your Kindle device to your Amazon account
 
@@ -37,6 +45,10 @@ When you buy a new Kindle, you have the option to have it already linked to [you
 The Kindle's homepage will show Your Library, which contains the books you've bought or borrowed, and the store with books to purchase. 
 
 Image: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select a book to buy
 
@@ -62,11 +74,19 @@ Image: Maria Diaz/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I sample a book?
 
 If you're not sure you're ready to buy a Kindle book, you can try a sample of it. Think of it as like reading some pages in a bookstore before committing to buy a book -- except you can do it from wherever you are with your Kindle or other device with the Kindle app.
 
 A Kindle book sample tends to be either about 10% of the book or the first chapter or two. After you're done reading the sample, you can buy the book on your Kindle to download the rest of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I buy a book for my Kindle from my iPhone?
 
@@ -124,11 +144,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-must-play-openworld-experiences/"><u>[New] 2024 Approved Must-Play Openworld Experiences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-expert-techniques-for-streamers-on-macos/"><u>[Updated] In 2024, Expert Techniques for Streamers on macOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-proart-hdr-master-the-4k-quest-continues/"><u>2024 Approved ASUS ProArt HDR Master The 4K Quest Continues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unleashing-potential-top-10-os-xwin-enhancements-for-srt/"><u>2024 Approved Unleashing Potential Top 10 OS X/Win Enhancements for SRT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-walkthrough-deploying-microsoft-office-onto-your-personal-computer/"><u>Complete Walkthrough: Deploying Microsoft Office Onto Your Personal Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-upgrade-to-faster-internet-with-the-latest-intel-dual-band-ac-3160-driver-update/"><u>Effortlessly Upgrade to Faster Internet with the Latest Intel Dual Band AC 3160 Driver Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-selected-and-testing-ultimate-ranking-for-apple-watch-band-options-zdnet/"><u>Expertly Selected & Testing: Ultimate Ranking for Apple Watch Band Options | ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-photosynth-pros-a-quick-snapchat-peek/"><u>In 2024, Photosynth Pros A Quick Snapchat Peek</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-rapidly-expanding-youtube-hubs-for-motivation/"><u>In 2024, Top 10 Rapidly Expanding YouTube Hubs for Motivation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-integrates-nfc-with-external-services-discover-how-apples-new-feature-advantages-users-techzoom/"><u>IPhone Integrates NFC with External Services: Discover How Apple's New Feature Advantages Users | TechZoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-securely-syncing-and-protecting-your-iphone-data-via-icloud-and-mac-tips/"><u>Step-by-Step Guide: Securely Syncing and Protecting Your iPhone Data via iCloud & Mac - Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-from-finewoven-to-beats-how-apple-revamps-its-accessory-offerings-according-to-zdnet/"><u>Transitioning From FineWoven to Beats: How Apple Revamps Its Accessory Offerings, According to ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-initialization-issues-with-windows-10s-configuration-system/"><u>Troubleshooting Guide: Overcoming Initialization Issues with Windows 10'S Configuration System</u></a></li>
+</ul></div>
+

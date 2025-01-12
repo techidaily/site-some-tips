@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Hurdles of Notion’s Evernote Integration: Innovative Solutions for a Seamless Workflow | ZDNet Insights"
-date: 2024-09-18 17:24:35
-updated: 2024-09-20 10:44:34
+date: 2025-01-07T17:09:14.823Z
+updated: 2025-01-12T18:01:56.080Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I started writing my blog posts for ZDNET in Evernote back in 2012\. With a few 
 
 I quite like [Evernote](https://evernote.com/) and pay for a professional plan. One of the key benefits of Evernote was (note the past tense) that I could sync between computers. I usually write my articles on my MacBook Air. Once the article is done, my wife (who has years of experience as a managing editor) does an editing pass with me from the couch, using a Mac mini that is connected to a big screen in our family room. I then submit the edited article to ZDNET's editors for review. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sync failures 
 
 But then Evernote's sync started to regularly fail. Sometimes it wouldn't sync at all. Sometimes, the edited version would be reported as a conflict, and Evernote would create two copies of the article. 
@@ -30,6 +34,10 @@ I reached out to [Evernote's support team](https://help.evernote.com/hc/en-us/re
 Not encouraging, that. Then, when Evernote decided to create three separate copies of an article, I realized it was time to find a different solution. 
 
 This kind of thing gets old after awhile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The need to import Evernote notes 
 
@@ -44,6 +52,10 @@ A whole bunch of programs import Evernote, including Apple Notes, [Obsidian](htt
 **Review:** [**Notion app: Why (and how) I rely on this powerful productivity tool**](https://www.zdnet.com/article/notion-app-review/)
 
 This did not go smoothly. Part of it was Evernote's fault. Part of it was Notion's fault. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Notion conundrum 
 
@@ -69,6 +81,10 @@ It's here we start going down the rabbit hole. It starts with the problem of spl
 
 But, as we've established, Evernote has sync reliability issues. So the idea of flinging thousands of mission-critical notes around and hoping they sync properly and don't break was a deal-breaker. But that's the only way Notion can get notes out of Evernote. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How I eventually solved the problem 
 
 Let's recap. 
@@ -90,6 +106,10 @@ Once I verified all seven parts were properly in the cloud, I went back into Not
 On each of those occasions, there was a note with graphics in it, and it was that note that killed the import. Depending on how important the note was for my records or work, I either deleted the full failing note, or removed the graphics from the failing note. In any case, after dealing with the failing notes, I was able to complete the imports into Notion. 
 
 I followed the same process with my Blogs-in-Progress notebook, but because there were fewer notes, it went faster. All told, it took about six hours of tweaking, fiddling, and waiting for syncs to complete to move the data from Evernote to Notion, but it did, eventually, work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some obvious conclusions 
 
@@ -130,11 +150,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-vault-for-internet-streams-a-recording-blueprint/"><u>[New] In 2024, Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamline-your-storage-with-these-30-great-android-video-compressors-for-2024/"><u>[New] Streamline Your Storage with These 30 Great Android Video Compressors for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-engage-audiences-with-impactful-podcast-descriptions/"><u>[Updated] In 2024, Engage Audiences with Impactful Podcast Descriptions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-photography-editing-tips-for-creating-stunning-photos-for-2024/"><u>[Updated] Photography Editing Tips for Creating Stunning Photos for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-visual-impact-discover-these-essential-font-tools-for-tiktoks-2023/"><u>2024 Approved Visual Impact Discover These Essential Font Tools for TikTok's 2023</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211152150-9781739495657-5th-dimensional-earth/"><u>5th Dimensional Earth | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/establishing-various-local-area-networks-lan-in-macos-enhancing-connectivity-flexibility-insights/"><u>Establishing Various Local Area Networks (LAN) in macOS: Enhancing Connectivity Flexibility - Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/real-strategies-how-i-cut-down-on-social-networking-by-following-these-7-practical-steps/"><u>Real Strategies: How I Cut Down on Social Networking by Following These 7 Practical Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-uninterrupted-with-the-top-vpns-of-the-year-comprehensive-expert-reviews-zdnet/"><u>Stream Uninterrupted with the Top VPNs of the Year: Comprehensive Expert Reviews | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-on-leveraging-copilot-features-within-microsoft-teams/"><u>The Ultimate Walkthrough on Leveraging Copilot Features Within Microsoft Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-vpns-for-enhanced-streaming-comprehensive-tests-and-reviews-by-experts-insights-from-zdnet/"><u>Top-Ranked VPNs for Enhanced Streaming: Comprehensive Tests & Reviews by Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-traveler-friendly-vpn-services-of-2024-comprehensive-experts-reviews-techradar/"><u>Top-Ranking Traveler Friendly VPN Services of 2024: Comprehensive Experts' Reviews | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-android-vpn-apps-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated Android VPN Apps : Comprehensive Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-travel-vpn-services-comprehensive-experts-reviews-and-comparisons-techradar/"><u>Top-Rated Travel VPN Services : Comprehensive Experts' Reviews & Comparisons - TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-vpn-service-trials-comprehensive-analysis-by-tech-specialists-zdnet-reviews/"><u>Top-Rated VPN Service Trials : Comprehensive Analysis by Tech Specialists - ZDNet Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-a-reliable-vpn-for-your-mac-insights-from-detailed-expert-reviews-zdnet/"><u>Ultimate Guide to Choosing a Reliable VPN for Your Mac - Insights From Detailed Expert Reviews | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-top-gaming-vpn-in-depth-analysis-by-tech-experts-zdnet/"><u>Ultimate Guide to Choosing the Top Gaming VPN: In-Depth Analysis by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-offscreen-patterns-on-xbox-sx-a-4-step-guide/"><u>Unveiling Offscreen Patterns on Xbox S/X: A 4-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-performance-expert-review-of-surfshark-vpn-by-zdnet-professionals/"><u>Unveiling the Performance: Expert Review of Surfshark VPN by ZDNet Professionals</u></a></li>
+</ul></div>
+

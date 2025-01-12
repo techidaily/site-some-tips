@@ -1,7 +1,7 @@
 ---
 title: Overwhelmed by Google Drive Clutter? Discover How This Powerful Tool Saved the Day! | Tech Insights
-date: 2024-09-17 20:56:34
-updated: 2024-09-20 10:54:47
+date: 2025-01-10T18:19:13.046Z
+updated: 2025-01-12T21:07:57.079Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ But even then, I still face the problem I described above -- how much storage is
 
 Fortunately, while Google doesn't offer a solution, a developer named Brett Batie in Traverse City, MI has come up with a solution. It's called [Filerev](https://filerev.com/) and it does just what you would have expected Google Drive to do. It answers questions and helps manage vast amounts of data. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Understanding (or not understanding) current storage utilization 
 
 When we [last encountered this issue](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/), I was trying to optimize my storage utilization, so that it didn't grow beyond its new 75TB bounds. 
@@ -72,6 +76,10 @@ As for the Details pane (pain?), it doesn't contain any data about size at all. 
 Screenshot by David Gewirtz/ZDNET
 
 So, how on Earth can I determine how much storage I am using in each of my folders? We're talking about an enterprise account with 58TB of storage. And yet, there's no visibility into storage utilization. It's not just bizarre, it's deeply inconvenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say hello to Filerev 
 
@@ -123,6 +131,10 @@ As it turns out, that storage category accounts for all my virtual machines. And
 
 It won't be easy to trim down those VM syncs, but it's definitely something I can look at, because I know a bunch of those VMs are very obsolete. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thoughts 
 
 I made a few interesting discoveries. My Cloud Backup share isn't the villain I thought it was. That honor goes to the Liberty Backups folder. Second, the biggest category of storage is my storage of old VMs. That's a homework assignment I need to follow up on to clear out more space. 
@@ -143,11 +155,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ecoding-the-revised-youtube-earnings-criteria-for-2024/"><u>[New] Decoding the Revised YouTube Earnings Criteria for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quickened-keys-powerpoint-presentation-capture/"><u>[New] Quickened Keys PowerPoint Presentation Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-v-purse-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor V Purse Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-fps-in-low-speed-clips/"><u>In 2024, Optimal FPS in Low-Speed Clips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-the-empty-folder-message-on-windows-11/"><u>Remedying the Empty Folder Message on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-free-vpn-services-comprehensive-review-by-experts-zdnet/"><u>Top Rated Free VPN Services - Comprehensive Review by Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-free-vpn-services-in-depth-review-by-industry-experts-zdnet/"><u>Top Rated Free VPN Services : In-Depth Review by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mac-vpn-services-comprehensive-reviews-and-comparisons-zdnet/"><u>Top Rated Mac VPN Services: Comprehensive Reviews & Comparisons | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-vpn-routers-expert-review-by-zdnet/"><u>Top Rated VPN Routers : Expert Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-tv-vpn-services-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple TV VPN Services - Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/transform-your-videos-discover-digiartys-expertise-in-dvd-and-digital-media-conversion-services/"><u>Transform Your Videos: Discover Digiarty's Expertise in DVD and Digital Media Conversion Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-premium-vpns-for-202-infobox/"><u>Ultimate Guide to Premium VPNs for 202 [Infobox]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-finest-vpn-providers-for-educational-institutions-2023-review-by-zdnet/"><u>Ultimate Guide to the Finest VPN Providers for Educational Institutions - 2023 Review by ZDNet</u></a></li>
+</ul></div>
+

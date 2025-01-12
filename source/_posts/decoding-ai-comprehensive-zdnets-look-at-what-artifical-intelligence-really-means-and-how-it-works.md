@@ -1,7 +1,7 @@
 ---
 title: "Decoding AI: Comprehensive ZDNet's Look at What Artifical Intelligence Really Means and How It Works"
-date: 2024-09-17 23:14:15
-updated: 2024-09-20 12:42:51
+date: 2025-01-09T19:27:05.051Z
+updated: 2025-01-12T19:51:55.932Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda2
 ![gettyimages-1888972727](https://www.zdnet.com/a/img/resize/ada36a8ca094a512f972578b7b4742f38ac90b5c/2024/05/28/95683789-ebda-4272-964e-ce5d1a5a000f/gettyimages-1888972727.jpg?auto=webp&width=1280)
 
 Weiquan Lin/Getty Images
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is artificial intelligence?
 
@@ -89,6 +93,10 @@ The algorithms aren't programmed in advance to pick out specific types of data; 
 
 **Also:** [**Machine learning is going real-time: Here's why and how**](https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Reinforcement learning**
 
 In reinforcement learning, the system is trained to maximize a reward based on input data, going through a trial-and-error process until it arrives at the best possible outcome.
@@ -159,6 +167,10 @@ The autopilot feature in Tesla's electric vehicles is probably what most people 
 
 [Cruise](https://www.zdnet.com/article/months-after-a-high-profile-accident-cruise-returns-to-phoenix-but-only-for-mapping/) is another robotaxi service, and auto companies like Audi, GM, and Ford are also presumably working on self-driving vehicle technology. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Robotics**
 
 The achievements of [Boston Dynamics](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) stand out in the area of AI and robotics. Though we're still a long way from creating Terminator-level AI technology, watching Boston Dyanmics' hydraulic, humanoid robots use AI to navigate and respond to different terrains is impressive. 
@@ -170,6 +182,10 @@ Google subsidiary [DeepMind](https://www.zdnet.com/article/deepmind-why-is-ai-so
 Since then, DeepMind has created [AlphaFold](https://deepmind.google/technologies/alphafold/), a system that can predict the complex 3D shapes of proteins. It has also developed programs to [diagnose eye diseases](https://deepmind.google/discover/blog/using-ai-to-predict-retinal-disease-progression/) as effectively as top doctors.
 
 **Also: [What is generative AI and why is it so popular? Here's everything you need to know](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are large language models?
 
@@ -205,6 +221,10 @@ These networks comprise interconnected layers of algorithms that feed data into 
 
 At that point, the network will have 'learned' how to carry out a particular task. The desired output could be anything from correctly labeling fruit in an image to predicting when an elevator might fail based on its sensor data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is deep learning?
 
 Deep learning is part of the ML family and involves training artificial neural networks with three or more layers to perform different tasks. These neural networks are expanded into sprawling networks with a large number of deep layers that are trained using massive amounts of data. 
@@ -215,6 +235,10 @@ Deep learning models tend to have more than three layers at least and can have h
 
 Because deep learning technology can learn to recognize complex patterns in data using AI, it is often used in natural language processing (NLP), speech recognition, and image recognition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is conversational AI?
 
 Conversational AI refers to systems programmed to have conversations with a user and are trained to listen (input) and respond (output) in a conversational manner. Conversational AI uses NLP to understand and respond naturally.
@@ -222,6 +246,10 @@ Conversational AI refers to systems programmed to have conversations with a user
 **Also: [Why conversational AI is now ready for prime time](https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/)**
 
 Some examples of conversational AI are chatbots like Gemini, smart speakers with a voice assistant like Amazon Alexa, or virtual assistants on your smartphone like Siri. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What AI services are available to use?
 
@@ -253,6 +281,10 @@ Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful ge
 
 Anthropic created [Claude](https://www.zdnet.com/article/anthropic-launches-a-free-claude-ios-app-and-team-its-first-enterprise-plan/), a powerful group of LLMs, and is considered a primary competitor of OpenAI. The company focuses on safety and ethical concerns in its AI research. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Alphabet
 
 Google's parent company, Alphabet, has its hands in several different AI systems through companies including DeepMind, Waymo, and Google. 
@@ -279,6 +311,10 @@ Microsoft has also invested heavily in OpenAI's development. The tech giant uses
 
 Apple has also entered the space most recently with its AI-upgraded [line of iPads](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/) and potential [new announcements](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/) to come at WWDC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
@@ -304,6 +340,10 @@ Neural networks can be used to realistically replicate someone's voice or likene
 Because AI makes automation so easy on a large scale, researchers and tech employees share concerns about its role in [weapons manufacturing](https://www.zdnet.com/article/despite-dall-e-military-pitch-openai-maintains-its-tools-wont-be-used-to-develop-weapons/) and warfare. 
 
 **Also: [The ethics of generative AI: How we can harness this powerful technology](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will an AI steal your job?
 
@@ -340,11 +380,30 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-4k-laptops-for-ultimate-gaming/"><u>[New] Best 4K Laptops for Ultimate Gaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-action-camera-gear-reviewed-by-hunters/"><u>[New] In 2024, Best Action Camera Gear Reviewed by Hunters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-premier-presenter-label-provider/"><u>[Updated] 2024 Approved Premier Presenter Label Provider</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-the-year-of-digital-gamer-fortunes/"><u>[Updated] 2024 The Year of Digital Gamer Fortunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-slomo-recording-app-evaluation-future-outlook/"><u>[Updated] Full SloMo Recording App Evaluation - Future Outlook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-generating-wealth-with-makeup-channels-for-2024/"><u>[Updated] Generating Wealth with Makeup Channels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-alternative-alert-new-iphone-compatible-headset-rumored-in-apples-wake-cutting-cost-of-vision-pro/"><u>Affordable Alternative Alert: New iPhone-Compatible Headset Rumored in Apple's Wake, Cutting Cost of Vision Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-of-the-year-unbeatable-best-buy-electronics-and-gadgets-2023-edition/"><u>Best-of-the-Year: Unbeatable Best Buy Electronics and Gadgets - 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-consumers-are-embracing-apple-vision-pro-again-revealed-by-reddit-discussions-zdnet/"><u>Discover Why Consumers Are Embracing Apple Vision Pro Again, Revealed by Reddit Discussions | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-enhanced-developer-program-for-upcoming-tech-delve-into-ios-17-and-beyond-with-visionos-zdnet-insights/"><u>Exploring Apple's Enhanced Developer Program for Upcoming Tech: Delve Into iOS 17 and Beyond with VisionOS | ZDNET Insights</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-set-up-a-new-user-profile-on-yl-computing-platforms/"><u>How to Set Up a New User Profile on YL Computing Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge/"><u>In 2024, Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-10-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark 10 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-a-fascinating-insight-from-an-apple-store-clerk-on-why-they-adore-the-vision-pro-featured-by-zdnet/"><u>Inside Look: A Fascinating Insight From an Apple Store Clerk on Why They Adore the Vision Pro - Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-apple-vision-pro-the-game-changing-device-unveiled-on-zdnet/"><u>Introducing Apple Vision Pro: The Game-Changing Device Unveiled on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-showdown-how-sony-surpasses-vision-pro-with-its-new-pro-xr-gear-and-integrates-two-key-capabilities-poised-to-enhance-iphonesipads-zdnet-insights/"><u>Tech Showdown: How Sony Surpasses Vision Pro with Its New 'Pro' XR Gear and Integrates Two Key Capabilities Poised to Enhance iPhones/iPads | ZDNet Insights</u></a></li>
+</ul></div>
+

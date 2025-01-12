@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mysteries of AI: Comprehensive Insights Into Artificeblle Intelligence - A Complete Guide"
-date: 2024-09-19 13:35:15
-updated: 2024-09-20 11:43:44
+date: 2025-01-11T17:33:11.263Z
+updated: 2025-01-12T16:24:46.115Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I use AI?
 
 Andriy Onufriyenko/Getty Images
@@ -69,6 +73,10 @@ When data is structured, or organized, a system can more easily detect an anomal
 
 Examples of ML include search engines, image and speech recognition, and fraud detection. Similar to Face ID, when users upload photos to Facebook, the social network's image recognition can analyze the images, recognize faces, and make recommendations to tag the friends it's identified. With time, practice, and more image data, the system hones this skill and becomes more accurate. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does machine learning work?
 
 Machine learning is generally split into two main categories: supervised and unsupervised learning.
@@ -81,6 +89,10 @@ Suppose you wanted to train an ML model to recognize and differentiate images of
 
 The algorithm would then learn from this labeled collection of images to distinguish the shapes and their characteristics: in this case, circles don't have corners, and squares have four equal-length sides. The system can then see a new image and determine the shapes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Unsupervised learning**
 
 By contrast, unsupervised learning lets algorithms try to identify patterns in unlabeled data by looking for similarities that it can use to categorize the data. 
@@ -89,6 +101,10 @@ The algorithms aren't programmed in advance to pick out specific types of data; 
 
 **Also:** [**Machine learning is going real-time: Here's why and how**](https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Reinforcement learning**
 
 In reinforcement learning, the system is trained to maximize a reward based on input data, going through a trial-and-error process until it arrives at the best possible outcome.
@@ -96,6 +112,10 @@ In reinforcement learning, the system is trained to maximize a reward based on i
 Imagine training a system to play a video game. The system can receive a positive reward if it gets a higher score and a negative reward for a low score. The system learns to analyze the game and make moves, learning solely from the rewards it receives. It can eventually play by itself and learn to achieve a high score without human intervention.
 
 Reinforcement learning is also used in research, where it can help teach autonomous robots the optimal way to behave in real-world environments. [Robots](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) learning to navigate new environments they haven't ingested data on -- like maneuvering around surprise obstacles -- is an example of more advanced ML that can be considered AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the different types of AI?
 
@@ -149,6 +169,10 @@ ChatGPT is an AI chatbot capable of generating and translating natural language 
 
 GPT stands for Generative Pre-trained Transformer, and GPT-3 was the largest language model at its 2020 launch, with 175 billion parameters. Then came GPT-3.5, which powers the free tier of ChatGPT. The largest version, GPT-4, accessible through the free version of ChatGPT, ChatGPT Plus, and Microsoft Copilot, has one trillion parameters. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Self-driving cars**
 
 Though the safety of self-driving cars is a [top concern](https://www.zdnet.com/article/tesla-to-recall-more-than-360000-vehicles-due-to-self-driving-software-problems/) for potential users, the technology continues to advance and improve with breakthroughs in AI. These vehicles use ML algorithms to combine data from sensors and cameras to perceive their surroundings and determine the best course of action. 
@@ -188,6 +212,10 @@ OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. 
 > GPT-4o is #1 in English, German, and Spanish. Gemini-1.5-Pro is #1 in Japanese, Chinese, and French. Claude-3 Opus is #1 in Russian. The competition is tight, and we need… [pic.twitter.com/RlNqh0XmMM](https://t.co/RlNqh0XmMM)
 > 
 > — lmsys.org (@lmsysorg) [June 3, 2024](https://twitter.com/lmsysorg/status/1797690251999350875?ref%5Fsrc=twsrc^tfw)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are neural networks?
 
@@ -243,6 +271,10 @@ Here are some common examples of AI available to the public, both free and for a
 
 With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### OpenAI
 
 Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful generative AI tools available for free, including ChatGPT and [Dall-E 3](https://openai.com/index/dall-e-3/), an AI image generator.
@@ -252,6 +284,10 @@ Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful ge
 ### Anthropic   
 
 Anthropic created [Claude](https://www.zdnet.com/article/anthropic-launches-a-free-claude-ios-app-and-team-its-first-enterprise-plan/), a powerful group of LLMs, and is considered a primary competitor of OpenAI. The company focuses on safety and ethical concerns in its AI research. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Alphabet
 
@@ -282,6 +318,10 @@ Apple has also entered the space most recently with its AI-upgraded [line of iPa
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How will AI change the world?
 
@@ -340,11 +380,25 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-instant-luxury-iphones-extended-shutter-mastery/"><u>[New] 2024 Approved Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>2024 Approved Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online/"><u>In 2024, Gifts That Speak Volumes A Compendium of Custom Box Shops Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kickstart-your-journey-into-the-world-of-artificial-intelligence-top-5-essential-steps-detailed-by-zdnet/"><u>Kickstart Your Journey Into the World of Artificial Intelligence: Top 5 Essential Steps Detailed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-job-market-when-times-are-tough-expert-advice-on-finding-work-amidst-recession-tips-by-zdnet/"><u>Navigating the Job Market When Times Are Tough: Expert Advice on Finding Work Amidst Recession - Tips by ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos/"><u>New MKVtoolnix for Mac The Easiest Way to Edit Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-above-pessimism-the-persistent-high-demand-in-the-technology-job-market/"><u>Rising Above Pessimism: The Persistent High Demand in the Technology Job Market</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-crisis-in-tech-talent-acquisition-how-flawed-hiring-practices-contribute-to-programmer-exhaustion-insights-from-zdnet/"><u>The Crisis in Tech Talent Acquisition: How Flawed Hiring Practices Contribute to Programmer Exhaustion - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-technology-resume-designs-expert-recommendations-by-zdnet/"><u>Top-Rated Technology Resume Designs: Expert Recommendations by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C12 Pro | Dr.fone</u></a></li>
+</ul></div>
+

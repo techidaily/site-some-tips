@@ -1,7 +1,7 @@
 ---
 title: Is the Integration of Ads by Amazon Threatening to Compromise Alexa Answers Platform?
-date: 2024-09-17 19:45:10
-updated: 2024-09-20 12:21:26
+date: 2025-01-08T20:27:59.503Z
+updated: 2025-01-12T17:28:34.986Z
 tags:
   - amazon
 categories:
@@ -22,6 +22,10 @@ I'm a product guy. Way back in the day I was actually a product marketing execut
 Generally, though, people have to think they have a need. Oh, sure, that's what marketing's about. Its job is to create demand where there might not have been any. Sometimes, it generates awareness. Sometimes, it generates leads by finding folks who might be a fit for a product. Sometimes, it just generates enough hype that the product takes off as a mere side effect of an intense hype machine. 
 
 **Also:** [Amazon's ready to announce a bunch of devices on Sept. 28](https://www.zdnet.com/home-and-office/smart-home/amazons-ready-to-announce-a-bunch-of-devices-on-sept-28/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -44,6 +48,10 @@ In 2022, Alexa is ubiquitous. A lot of families have one in practically every ro
 
 There's no doubt she's a faceless AI front for a giant corporation, but she has generally always been a friendly, helpful faceless AI front for a giant corporation. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The times they are a-changin'
 
 But that helpfulness seems like it might be about to change. Last week, [Amazon announced](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.aboutamazon.com%2Fnews%2Fsmall-business%2Falexa-can-now-help-brands-answer-customer-questions%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7aabdfac-aab9-43c2-b444-6869c004f3dd%7Cdtp&dtb=1) it's about to introduce vendor-supplied answers for common Alexa questions. Here's how Amazon describes it: 
@@ -61,6 +69,10 @@ According to Rajiv Mehta, general manager of Alexa Shopping at Amazon, "Amazon r
 Yeah, there's no way this could go wrong. 
 
 Playing to the algorithm for priority on the SERP (search engine response page) has already irrevocably changed editorial journalism. Most articles (mine included) go through an SEO review. Even if a headline would be enormously appealing to humans (or simply make the most sense), it might be nuked in favor of one that has higher Google juice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -82,6 +94,10 @@ We've all had that friend who got all caught up in a multilevel marketing scheme
 It's true that Alexa has already offered some items at random times before (Amazon Music comes to mind). We always answer with an annoyed "Ah, no. Nuh-nuh-no." Sometimes she pops up with a yellow-ringed alert that's a reminder to do something about an upcoming Subscribe and Save order. But these promos and notifications have, so far, not been specifically tied to third party vendors. They don't give vendors a way to game the system for the best SEO answer results. 
 
 This is my concern for Alexa. Amazon's engineers have managed to train Alexa for just the right balance of helpfulness and unobtrusiveness. But if she's constantly trying to push an upsell at us, it's going to get old. First it's ads on answers. Then, perhaps, it would be ads in our timers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -109,6 +125,10 @@ Okay, so that's probably an exaggeration. But how many previously wonderful webs
 
 **Also:** [How to set up motion-triggered smart lights as an Alexa routine](https://www.zdnet.com/home-and-office/smart-home/how-to-set-up-motion-triggered-smart-lights-as-an-alexa-routine/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A changing relationship
 
 I'm sad about this. Alexa has been a fantastic (and frankly unexpected) boon to many of us. At this point, she's practically a trusted member of the family. But if her essential nature is corrupted by an overreaching quest for yet more Bezos Bucks, it will be a real shame. 
@@ -129,11 +149,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-photos-with-simple-bg-removal-in-picsart/"><u>[New] Transforming Photos with Simple Bg Removal in Picsart</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-inside-look-the-full-power-of-polarr-photo-editor/"><u>[Updated] In 2024, Inside Look The Full Power of Polarr Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-augment-canon-imagery-unlimited-freebies-and-customized-purchases/"><u>2024 Approved Augment Canon Imagery Unlimited Freebies & Customized Purchases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-targets-leading-web-browser-with-unsettling-promotional-campaign-discover-how-theyre-doing-it/"><u>Apple Targets Leading Web Browser with Unsettling Promotional Campaign: Discover How They're Doing It</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-vg248qe-driver-downloads-for-windows-fast-and-free-update-solutions/"><u>Asus VG248QE Driver Downloads for Windows: Fast and Free Update Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancements-await-apples-siri-set-to-boost-cognition-by-2025-despite-delays-in-latest-developments-insights-from-zdnet/"><u>Enhancements Await: Apple's Siri Set to Boost Cognition by 2025, Despite Delays in Latest Developments – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-ahead-of-the-crowd-with-pre-ordering-the-latest-apple-watch-series-n-tips-for-savings-and-exclusive-offers/"><u>Get Ahead of the Crowd with Pre-Ordering the Latest Apple Watch Series N - Tips for Savings and Exclusive Offers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-reno-10-proplus-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Reno 10 Pro+ 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-craft-on-your-mac-a-step-by-step-tutorial-for-optimal-document-handling-insights/"><u>Harness the Power of Craft on Your Mac: A Step-by-Step Tutorial for Optimal Document Handling - Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-appreciation-roundup-premiumfree-outro-templates/"><u>In 2024, Appreciation Roundup Premium/Free Outro Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-unveiled-by-apple-direct-call-recording-feature-no-more-third-party-apps-needed-says-zdnet/"><u>IOS 18 Unveiled by Apple: Direct Call Recording Feature - No More Third-Party Apps Needed, Says ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-charger-warning-liquid-found-in-usb-port-solutions-at-hand/"><u>IPhone Charger Warning: Liquid Found in USB Port - Solutions at Hand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-ultra-efficient-ios-tricks-for-a-faster-smarter-iphone-experience/"><u>Master Ultra-Efficient iOS Tricks for a Faster, Smarter iPhone Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-maze-of-anticipation-how-to-successfully-reserve-the-latest-apple-vision-pro/"><u>Navigating the Maze of Anticipation: How to Successfully Reserve the Latest Apple Vision Pro?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-wi-fi-connection-barriers-in-microsoft-surface-pro-users/"><u>Overcoming Wi-Fi Connection Barriers in Microsoft Surface Pro Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-c02-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after C02 has been deleted</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sideways-vids-phenomenon-anomaly-or-feature-on-instagram-for-2024/"><u>Sideways Vids Phenomenon Anomaly or Feature on Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-windows-11-apps-for-high-quality-flac-file-streaming-number-one-selection/"><u>Top-Rated Windows 11 Apps for High-Quality FLAC File Streaming: Number One Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-from-itunes-how-apple-revolutionizes-digital-media-experience-for-windows-users-with-new-app-launches-detailed-report/"><u>Transitioning From iTunes: How Apple Revolutionizes Digital Media Experience for Windows Users with New App Launches - Detailed Report</u></a></li>
+</ul></div>
+

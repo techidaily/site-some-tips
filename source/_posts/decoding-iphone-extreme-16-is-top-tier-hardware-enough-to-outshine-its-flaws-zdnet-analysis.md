@@ -1,7 +1,7 @@
 ---
 title: "Decoding iPhone eXtreme (16): Is Top-Tier Hardware Enough to Outshine Its Flaws? | ZDNET Analysis"
-date: 2024-09-19 16:35:42
-updated: 2024-09-20 12:19:10
+date: 2025-01-09T20:06:34.569Z
+updated: 2025-01-12T20:11:26.821Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -70,6 +78,10 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,31 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphone-composition-choosing-right-angles/"><u>[New] 2024 Approved The Ultimate Guide to iPhone Composition Choosing Right Angles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-of-the-best-cutting-edge-hiring-videos-1-10/"><u>[Updated] 2024 Approved Best of the Best Cutting-Edge Hiring Videos #1-10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pivot-and-post-mastering-video-orientation/"><u>[Updated] In 2024, Pivot and Post Mastering Video Orientation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-prime-fareless-streaming-and-recording-software/"><u>2024 Approved Prime Fareless Streaming & Recording Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-bespoke-exerciplines-via-chatai/"><u>Crafting Bespoke Exerciplines via ChatAI</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-11-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 11 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-professional-online-broadcast-capture-methods/"><u>In 2024, Professional Online Broadcast Capture Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-project-outcomes-how-to-secure-elite-microsoft-developers-for-optimal-productivity-and-cost-efficiency/"><u>Maximizing Your Project Outcomes: How to Secure Elite Microsoft Developers for Optimal Productivity and Cost Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-nuances-tackling-inconsistent-results-and-doubts-over-precision-in-modern-ai-systems-zdnet/"><u>Navigating the Nuances: Tackling Inconsistent Results & Doubts Over Precision in Modern AI Systems | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-shift-to-remote-employment-a-comprehensive-weekly-roadmap-by-zdnet-professionals/"><u>Navigating the Shift to Remote Employment: A Comprehensive Weekly Roadmap by ZDNET Professionals</u></a></li>
+<li><a href="https://win-superb.techidaily.com/raw-drive-and-partition-restoration-with-ifind-data-rescue-by-ifind-tech/"><u>Raw Drive & Partition Restoration with IFind Data Rescue by iFinD Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/review-of-duolingo-on-zdnet-a-user-friendly-approach-to-free-language-learning-challenges-and-fun-experiences/"><u>Review of Duolingo on ZDNet - A User-Friendly Approach to Free Language Learning Challenges & Fun Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-career-path-masterful-strategies-for-creating-an-impactful-cybersecurity-cv/"><u>Securing Your Career Path: Masterful Strategies for Creating an Impactful Cybersecurity CV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artisans-shaping-tomorrow-inside-ai-development-with-leading-experts-unveiled-by-zdnet/"><u>The Artisans Shaping Tomorrow: Inside AI Development with Leading Experts - Unveiled by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-employment-in-an-ai-world-job-evolution-from-ai-trainers-to-ethical-experts-zdnet/"><u>The Future of Employment in an AI World: Job Evolution From AI Trainers to Ethical Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-complete-playbook-master-the-interview-process-to-join-leading-technology-companies/"><u>ZDNet's Complete Playbook: Master the Interview Process to Join Leading Technology Companies</u></a></li>
+</ul></div>
+

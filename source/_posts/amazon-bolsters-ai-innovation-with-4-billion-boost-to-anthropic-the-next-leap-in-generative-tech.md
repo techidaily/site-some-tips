@@ -1,7 +1,7 @@
 ---
 title: "Amazon Bolsters AI Innovation with $4 Billion Boost to Anthropic: The Next Leap in Generative Tech"
-date: 2024-09-19 12:14:58
-updated: 2024-09-20 12:37:45
+date: 2025-01-08T20:55:24.754Z
+updated: 2025-01-12T16:55:06.014Z
 tags:
   - cloud
 categories:
@@ -76,11 +76,31 @@ Commenting on the announcement, Nigel Green, CEO of financial advisory deVere Gr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-one-click-iphone-screen-capture/"><u>[Updated] One-Click Iphone Screen Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-comprehensive-guide-to-building-a-successful-tech-resume-for-google-jobs-featuring-tips-from-zdnet/"><u>A Comprehensive Guide to Building a Successful Tech Resume for Google Jobs, Featuring Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bank-cio-advocates-for-creative-thinkers-over-passive-ai-prompters-in-tech-evolution-insights-from-zdnet/"><u>Bank CIO Advocates for Creative Thinkers over Passive AI Prompters in Tech Evolution: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/confronting-modern-hurdles-with-ai-addressing-the-ambiguity-of-results-and-trust-issues-expert-analysis-on-zdnet/"><u>Confronting Modern Hurdles with AI: Addressing the Ambiguity of Results & Trust Issues | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-gratuite-des-fichiers-wmv-en-format-aiff-en-ligne-solutions-de-movavi/"><u>Conversion Gratuite Des Fichiers WMV en Format AIFF en Ligne - Solutions De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easing-the-burden-how-artificial-intelligence-alleviates-stress-and-prevents-exhaustion-for-it-specialists/"><u>Easing the Burden: How Artificial Intelligence Alleviates Stress & Prevents Exhaustion for IT Specialists</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/exceptional-advice-premium-ios-tone-makers/"><u>Exceptional Advice Premium iOS Tone Makers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonizing-multiple-clips-an-android-tutorial/"><u>Harmonizing Multiple Clips An Android Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-prime-mac-screen-capture-options/"><u>In 2024, The Prime Mac Screen Capture Options</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/simple-guide-how-to-seamlessly-move-images-from-your-iphone-onto-a-usb-drive/"><u>Simple Guide: How to Seamlessly Move Images From Your iPhone Onto a USB Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-the-workforce-how-ai-shifts-careers-from-training-to-ethics-creating-opportunities-amidst-change-zdnet/"><u>Transforming the Workforce: How AI Shifts Careers From Training to Ethics, Creating Opportunities Amidst Change | ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphones-essential-fixes-for-non-receiving-text-messages/"><u>Troubleshoot iPhones: Essential Fixes for Non-Receiving Text Messages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-free-access-a-guide-to-procuring-a-complimentary-linkedin-premium-account/"><u>Unlocking Free Access: A Guide to Procuring a Complimentary LinkedIn Premium Account</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

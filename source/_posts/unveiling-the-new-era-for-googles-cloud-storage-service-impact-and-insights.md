@@ -1,7 +1,7 @@
 ---
 title: Unveiling the New Era for Google's Cloud Storage Service – Impact and Insights
-date: 2024-09-18 23:17:53
-updated: 2024-09-20 10:30:31
+date: 2025-01-08T17:08:09.134Z
+updated: 2025-01-12T17:05:03.694Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ You can catch up on the history of my deep dive into the situation here:
 * [Re-homing G Suite storage: No, you can't find out how much storage your folders use](https://www.zdnet.com/article/re-homing-g-suite-storage-no-you-cant-find-out-how-much-storage-your-folders-use/)
 * [Re-homing G Suite storage: Enterprise plan options seem unnecessarily murky](https://www.zdnet.com/article/re-homing-g-suite-storage-why-the-enterprise-plan-options-seem-unnecessarily-murky/)
 * [Why my two-person company bought a Google Workspace Enterprise plan](https://www.zdnet.com/article/why-my-two-person-company-bought-a-google-workspace-enterprise-plan/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Backgrounder
 
@@ -83,6 +87,10 @@ And yes, I knew it might all go bad. I said as much, too:
 > In the meantime, I hope we've at least bought ourselves a couple of years before having to address the cloud storage problem again. 
 
 18 months. I got 18 months, almost to the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  SitRep (situation report) 
 
@@ -130,11 +138,19 @@ Twelve hours later, this appeared in my inbox:
 
 I tried rescheduling. It's now been four days. I've sent two additional email requests to have that phone conversation he wanted, and still no further response. That's where the situation lives right now. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rest of the story
 
 Roughly 12 hours after I first posted this article, a senior technician from Google Workspace Support reached out to tell me my storage had been increased by another 25TB and the freeze warning was shut off. I'd like to think this was just their process and not the result of my article, but we'll never know. 
 
 Nonetheless, needing 10TB+ more storage every year clearly isn't sustainable, so I'm going to audit my backup use and see if there's any way I can reduce my overall storage footprint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What I'm going to do about it 
 
@@ -167,6 +183,10 @@ Screenshot by David Gewirtz/ZDNET
 My current plan is to delete the entire Cloud Backup directory. Although I have no way of knowing how much is stored there until I delete it, I'm guessing it's probably roughly half of the overall storage footprint. I'm still backing up, in that I have mirrors of the local servers. The only thing I won't have is the ability to roll back a backup and recover older, lost data. 
 
 That's certainly not ideal, but faced with the choice of having my entire Google infrastructure frozen on August 26, or giving up on backup rollbacks, I guess I'll give up on backup rollbacks. I still have all my local backups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My one remaining worry and thoughts about what this all means 
 
@@ -209,11 +229,25 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-free-12-best-video-players-and-apps-for-pc-and-mobile-devices-for-2024/"><u>[New] FREE 12 Best Video Players and Apps for PC and Mobile Devices for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-enhancing-speech-clarity-on-skype/"><u>[Updated] In 2024, Enhancing Speech Clarity on Skype</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-five-key-strategies-for-boosting-your-appeal-as-a-top-tier-tech-talent-insights-from-zdnet/"><u>1. Five Key Strategies for Boosting Your Appeal as a Top-Tier Tech Talent - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/creative-labs-2013-sound-blaster-zxr-in-depth-analysis-and-expert-evaluation/"><u>Creative Labs' 2013 Sound Blaster ZXR - In-Depth Analysis and Expert Evaluation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/decoding-faux-support-a-guide-for-savvy-social-network-users-for-2024/"><u>Decoding Faux Support A Guide for Savvy Social Network Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-resolving-windows-service-response-errors/"><u>Guide to Resolving Windows Service Response Errors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-expertise-in-capturing-high-quality-verbal-notes/"><u>In 2024, Expertise in Capturing High-Quality Verbal Notes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/innovative-approaches-for-image-collections-acquisition/"><u>Innovative Approaches for Image Collections Acquisition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-expands-its-viva-workspace-with-new-features-a-look-at-the-latest-updates/"><u>Microsoft Expands Its Viva Workspace with New Features: A Look at the Latest Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/networking-tips-for-the-quiet-ones-building-connections-without-overwhelming-yourself/"><u>Networking Tips for the Quiet Ones: Building Connections Without Overwhelming Yourself</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-prioritizes-ai-and-iot-expertise-as-vital-talent-pools-backing-them-with-robust-infrastructure-insights-from-zdnet/"><u>Singapore Prioritizes AI and IoT Expertise as Vital Talent Pools, Backing Them With Robust Infrastructure - Insights From ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Costly Challenges Prevent Advanced AI Integration in Older iPhones: What to Expect with Apple’s Latest Innovations – Insights From ZDNet"
-date: 2025-01-03T02:00:23.134Z
-updated: 2025-01-05T19:27:51.774Z
+date: 2025-01-10T16:49:43.075Z
+updated: 2025-01-12T18:39:28.253Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,20 +120,21 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor/"><u>[New] Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-swift-playlist-dispatch-on-youtube/"><u>[New] Swift Playlist Dispatch on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-how-algorithm-changes-shape-your-youtube-visibility/"><u>2024 Approved How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-emporia-energy-ev-charging-station-with-enhanced-power-monitoring-in-depth-review-by-zdnet/"><u>Affordable Emporia Energy EV Charging Station with Enhanced Power Monitoring - In-Depth Review by ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210757190-9781956368482-in-search-of-simple/"><u>In Search of Simple | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-tech-specs-comprehensive-reviews-on-modern-computer-hardware/"><u>Inside Tech Specs: Comprehensive Reviews on Modern Computer Hardware</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mayan-culture/"><u>Mayan Culture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/selecting-the-right-lawnmower-expert-tips-and-reviews-learn-how/"><u>Selecting the Right Lawnmower: Expert Tips & Reviews - Learn How!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singapores-strategic-move-enhancing-sustainable-financial-technology-with-google-cloud-integration-the-digital-times/"><u>Singapore's Strategic Move: Enhancing Sustainable Financial Technology with Google Cloud Integration | The Digital Times</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/slideshow-magic-on-mac-easy-video-editing-for-beginners-for-2024/"><u>Slideshow Magic on Mac Easy Video Editing for Beginners for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solar-energy-takes-off-at-singapores-airports-green-initiative-in-action/"><u>Solar Energy Takes Off at Singapore's Airports - Green Initiative in Action</u></a></li>
-<li><a href="https://win-docs.techidaily.com/tecnicas-de-uso-e-alternativas-ao-rsync-no-windows-11-guia-abrangente/"><u>Técnicas De Uso E Alternativas Ao Rsync No Windows 11 - Guia Abrangente</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-best-eco-friendly-energy-storage-option-after-powerwall-exploring-anker-solix-x1-zdnet/"><u>The Best Eco-Friendly Energy Storage Option After Powerwall: Exploring Anker Solix X1 | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranked-led-torches-industry-experts-picks-tech-insights/"><u>Top-Ranked LED Torches - Industry Experts' Picks | Tech Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-explore-the-potential-of-kinemaster-and-rank-10-best-online-game-substitutes/"><u>[New] 2024 Approved Explore the Potential of KineMaster & Rank 10 Best Online Game Substitutes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-video-content-for-youtube-success/"><u>[New] 2024 Approved Mastering Video Content for YouTube Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-ways-to-record-youtube-live-stream/"><u>[Updated] In 2024, Top 5 Ways to Record YouTube Live Stream</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimize-content-delivery-on-instagram-with-these-top-8-tools/"><u>2024 Approved Optimize Content Delivery on Instagram with These Top 8 Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-new-era-of-power-comparing-the-m3-and-m1-macbook-pro-for-tech-enthusiasts-is-it-time-to-upgrade/"><u>Apple's New Era of Power: Comparing the M3 and M1 MacBook Pro for Tech Enthusiasts – Is It Time to Upgrade?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-beats-for-students-a-guide-to-affordable-apple-music-subscriptions-through-academic-discounts/"><u>Budget-Friendly Beats for Students: A Guide to Affordable Apple Music Subscriptions Through Academic Discounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-budget-friendly-beats-solo-in-ear-headphones-competing-with-airpods-under-100-insights/"><u>Discover the New Budget-Friendly Beats Solo In-Ear Headphones: Competing with AirPods Under $100 | Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-gopro-video-conversion-change-vids-to-mp4mov-formats-perfectly-for-clip-edits-uploads-and-playbacks/"><u>Easy GoPro Video Conversion - Change Vids to MP4/MOV Formats Perfectly for Clip Edits, Uploads & Playbacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-gaming-experience-strategic-placement-of-your-playstation-4-webcam/"><u>Enhancing Gaming Experience: Strategic Placement of Your PlayStation 4 Webcam</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-findings-on-dell-xps-series-a-deep-dive-into-the-latest-innovations-and-unmatched-quality/"><u>Exceptional Findings on Dell XPS Series – A Deep Dive Into the Latest Innovations and Unmatched Quality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-criacr-bluetooth-fm-transmitter-cp24-a-balance-between-miniaturization-and-functionality-reviewed/"><u>Experience the Criacr Bluetooth FM Transmitter CP24: A Balance Between Miniaturization & Functionality Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-apple-ai-how-realsenses-on-device-system-surpasses-googles-gpt-4-in-performance-says-apple-tech-news/"><u>Revolutionary Apple AI: How RealSense's On-Device System Surpasses Google's GPT-4 in Performance, Says Apple | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/september-2024-hot-deals-alert-score-big-savings-from-amazon-with-zdnets-curated-pick/"><u>September 2024 Hot Deals Alert! Score Big Savings From Amazon with ZDNET's Curated Pick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-smartwatches-comprehensive-analysis-by-tech-experts/"><u>Top-Rated Smartwatches : Comprehensive Analysis by Tech Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-12-steps-fixing-hidden-fb-video-issues-for-2024/"><u>Unlocking 12 Steps Fixing Hidden FB Video Issues for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-the-highest-quality-stylus-tablets-in-2cuary-expertly-evaluated/"><u>ZDNet's Ultimate Guide to the Highest Quality Stylus Tablets in 2Cuary - Expertly Evaluated</u></a></li>
 </ul></div>
 

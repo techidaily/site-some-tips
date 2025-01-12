@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Tech Assistance: Microsoft Introduces Two Cutting-Edge Copilot AIs for Enhanced Service and Sales Guidance | Featured on ZDNET"
-date: 2024-09-19 19:42:18
-updated: 2024-09-20 12:26:21
+date: 2025-01-09T20:06:28.226Z
+updated: 2025-01-12T20:24:32.128Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,33 @@ Also at Ignite, Microsoft emphasized new computing infrastructure for its Azure 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-masterclass-in-elegance-blurring-borders-for-zoom-for-2024/"><u>[New] Masterclass in Elegance Blurring Borders for Zoom for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-image-savers-optimizing-video-graphics/"><u>[Updated] 2024 Approved FREE Image Savers Optimizing Video Graphics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-list-of-asmr-apps-for-phones/"><u>[Updated] In 2024, Exclusive List of ASMR Apps for Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-xr-glasses-solution-beats-expensive-apple-spectacles-and-alleviates-tech-envy/"><u>Affordable XR Glasses Solution Beats Expensive Apple Spectacles & Alleviates Tech Envy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-anticipates-major-unveiling-of-new-vision-pro-device-shortly/"><u>Apple Anticipates Major Unveiling of New Vision Pro Device Shortly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beat-black-friday-prices-now-walmarts-mega-discount-on-meta-quest-2-overshadows-amazons-spring-extravaganza/"><u>Beat Black Friday Prices Now - Walmart's Mega Discount on Meta Quest 2 Overshadows Amazon's Spring Extravaganza!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ces-showdown-apple-feels-the-pressure-as-these-top-4-compannies-unveil-game-changing-tech/"><u>CES Showdown: Apple Feels The Pressure As These Top 4 Compannies Unveil Game-Changing Tech</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comment-cloner-avec-succes-un-systeme-dexploitation-windows-10-sur-un-ssd-compact/"><u>Comment Cloner Avec Succès Un Système D'Exploitation Windows 10 Sur Un SSD Compact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-the-future-how-vr-and-simulated-environments-optimize-remote-work-for-technical-roles-zdnet/"><u>Embracing the Future: How VR and Simulated Environments Optimize Remote Work for Technical Roles | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-corporate-pioneers-driving-the-future-of-the-metaverse-insights-by-zdnet/"><u>Exploring the Corporate Pioneers Driving the Future of the Metaverse - Insights by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-first-flight-drones-for-youngsters-and-new-pilots/"><u>In 2024, Best First Flight Drones for Youngsters & New Pilots</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-10-best-photo-watermarking-software-you-should-try/"><u>In 2024, Top 10 Best Photo Watermarking Software You Should Try</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-play-40c-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Play 40C Location | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixel-magic-transforming-still-images-to-video-with-pixiz/"><u>Pixel Magic Transforming Still Images to Video with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-perspective-how-iphone-15-pro-transforms-media-with-spatial-video-capabilities-for-apple-vision-pro-insights-from-zdnet/"><u>Unveiling Perspective: How iPhone 15 Pro Transforms Media with Spatial Video Capabilities for Apple Vision Pro | Insights From ZDNET</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

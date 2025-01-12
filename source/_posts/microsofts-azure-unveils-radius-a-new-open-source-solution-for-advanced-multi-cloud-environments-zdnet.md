@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Azure Unveils Radius: A New Open-Source Solution for Advanced Multi-Cloud Environments | ZDNet"
-date: 2024-09-19 22:39:34
-updated: 2024-09-20 11:48:46
+date: 2025-01-10T16:39:02.770Z
+updated: 2025-01-12T17:24:32.680Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,31 @@ Want to join in and give it a try? Radius's code, which is licensed under the Ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-cloud.techidaily.com/antivirus-limitations-and-advanced-safeguards-necessary-for-optimal-security-online/"><u>Antivirus Limitations and Advanced Safeguards Necessary for Optimal Security Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-asus-drivers-the-ultimate-guide-for-windows-systems/"><u>Download & Update Asus Drivers: The Ultimate Guide for Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-50-off-your-dream-electric-grill-top-picks-from-weber-featured-in-zdnet/"><u>Get $50 Off Your Dream Electric Grill: Top Picks From Weber Featured in ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-the-most-secure-smart-camera-at-a-great-price-the-blink-mini-2-with-25-off-this-labor-day-zdnet-insider-deals/"><u>Get the Most Secure Smart Camera at a Great Price: The Blink Mini 2 with 25% Off This Labor Day | ZDNET Insider Deals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/honor-heroes-with-savings-get-your-lawn-and-garden-supplies-for-less-at-lowes-memorial-weekend-sale/"><u>Honor Heroes With Savings: Get Your Lawn & Garden Supplies for Less at Lowe's Memorial Weekend Sale!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-a-single-test-with-facial-recognition-technology-made-traditional-alarms-obsolete-for-me-zdnet-insights/"><u>How a Single Test with Facial Recognition Technology Made Traditional Alarms Obsolete for Me | ZDNET Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-logitech-g27-gamepad-software-installed-on-windows-11107-free/"><u>How to Get Logitech G27 Gamepad Software Installed on Windows 11/10/7 (Free)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-purify-windows-ram-cache-quickly/"><u>How to Purify Windows' RAM Cache Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-handheld-power-unit-saved-the-day-in-a-blackout-explore-its-benefits-techguru/"><u>Innovative Handheld Power Unit Saved the Day in a Blackout - Explore Its Benefits | TechGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-alert-the-amazingly-affordable-ring-spotlight-cam-pro-surpasses-expectations-deal-of-the-week/"><u>Labor Day Alert: The Amazingly Affordable Ring Spotlight Cam Pro Surpasses Expectations - Deal of the Week</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/say-goodbye-to-macbook-air-discover-the-lightweight-powerful-windows-companion-featured-on-zdnet/"><u>Say Goodbye to MacBook Air: Discover the Lightweight, Powerful Windows Companion Featured on ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873592-9780954528089-soul-completion/"><u>Soul Completion | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-play-pokemon-unite-successfully/"><u>Step-by-Step Tutorial on How to Play Pokémon Unite Successfully</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Embraces IoT, As Google Divests From Internet of Things Market - Insights by ZDNet
-date: 2024-09-19 17:44:18
-updated: 2024-09-20 12:18:33
+date: 2025-01-09T21:00:20.883Z
+updated: 2025-01-12T16:34:19.625Z
 tags:
   - cloud
 categories:
@@ -62,11 +62,29 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-techniques-for-perfecting-instagram-video-loops/"><u>[New] In 2024, The Ultimate Techniques for Perfecting Instagram Video Loops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-lead-with-originality-10-tips-to-make-your-yt-shorts-shine/"><u>[Updated] Lead With Originality 10 Tips to Make Your YT Shorts Shine</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-script-to-screen-youtube-studio-editing-workshop-guide/"><u>2024 Approved From Script to Screen YouTube Studio Editing Workshop Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782275-9781620555989-a-travelers-guide-to-the-afterlife/"><u>A Traveler's Guide to the Afterlife | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/chatgptplus-integration-with-googles-gemini-unveiling-new-tools-and-a-free-upgrade-for-enhanced-conversations/"><u>ChatGPT+ Integration with Google's Gemini: Unveiling New Tools & A Free Upgrade for Enhanced Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-7-most-effective-ai-applications-for-mastering-mathematics/"><u>Discover the 7 Most Effective AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-early-bird-discounts-a-guide-to-pre-ordering-googles-latest-marvels-pixel-9-9-pro-and-9-pro-fold-tech-insights-with-zdnet/"><u>Secure Your Early Bird Discounts: A Guide to Pre-Ordering Google's Latest Marvels – Pixel 9, 9 Pro & 9 Pro Fold | Tech Insights with ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-changing-release-channels-on-a-chromebook-insights-from-zdnet/"><u>Step-by-Step Guide: Changing Release Channels on a Chromebook - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-windows-11-display-brightness-issues/"><u>Troubleshooting: Fix Windows 11 Display Brightness Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-preorder-perks-and-discounts-on-googles-latest-innovations-pixel-9-pro-duo-and-pixel-9-pro-fold-insider-tips-from-zdnet/"><u>Unlock Preorder Perks and Discounts on Google's Latest Innovations: Pixel #9, Pro Duo, & Pixel 9 Pro Fold | Insider Tips From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

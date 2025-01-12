@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Artificial Intelligence: Securing Spotlight Placement Across Top Music Streaming Platforms - Insights From ZDNet"
-date: 2024-09-18 16:58:21
-updated: 2024-09-20 11:24:17
+date: 2025-01-06T17:04:31.787Z
+updated: 2025-01-12T20:23:48.996Z
 tags:
   - cloud
 categories:
@@ -148,6 +148,10 @@ Screenshot by David Gewirtz/ZDNET
 
 Is it perfect? Probably not. If I really were an A&R executive, I'd be able to fit the tunes into their proper categories. But since I'm no expert, the AI did give me a leg up. The songs were accepted, and so far, the playlist curators who've looked at the songs didn't feel they were in the wrong genres, so I'll call this another win for the AI. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Creating a music description 
 
 My next challenge was describing the music itself. Again, I turned to ChatGPT. This time, I fed it the instrument list above and then asked it this: 
@@ -157,6 +161,10 @@ My next challenge was describing the music itself. Again, I turned to ChatGPT. T
 And here's what it told me: 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Creating a musician bio 
 
@@ -232,6 +240,10 @@ They're meant to convey an impression of the artist that's not exactly tied to t
 
 To pull it off, I spent a lot of time in [Midjourney](https://www.zdnet.com/article/how-to-use-midjourney-to-generate-amazing-images-and-art/), with the help of [Insight FaceSwap](https://insightface.ai/) and [Adobe Generative Fill](https://www.zdnet.com/article/how-to-use-photoshops-generative-fill-ai-tool-to-easily-transform-your-boring-photos/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Midjourney for the main profile image 
 
 Midjourney allows you to upload an image, which the tool will then incorporate into its AI generation of new images. I started with this basic image of me talking into a mic, which I've been using as my social media profile image. 
@@ -251,6 +263,10 @@ But then I just appended cyberpunk after the URL and I got this.
 David Gewirtz via Midjourney/ZDNET
 
 It was perfect. It somehow (I'm sure it was random chance) picked a leather jacket that looks almost exactly like the one I've been wearing for a decade now. This image became the main image on my music site, and my profile avatar for the various streaming services that require you to specify an artist image. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Photoshop (beta) Generative fill for the banner 
 
@@ -288,6 +304,10 @@ The original is on the left. The face match version is on the right. Because the
 
 David Gewirtz via Midjourney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Midjourney, FaceSwap, and Generative Fill for the car image 
 
 I wanted one more image on the bio page -- a picture of me with my car. I drive a red Dodge Challenger, which I earned the right to drive by virtue of successfully passing into midlife while managing an ongoing stream of crisis experiences. 
@@ -321,6 +341,10 @@ Notice that there's more street on both the left and right sides of the image. T
 David Gewirtz via Midjourney/ZDNET
 
 I know I just gave you a really fast description of how to do a face match, which is a problem many Midjourney users are trying to solve. Stay tuned. This article is too long for an extra in-depth how-to, but I plan to produce a guide on getting a perfect face match using Midjourney AI and FaceSwap. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Distribution, promotion, and all the rest 
 
@@ -383,11 +407,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-engagement-selective-rank-tracker-utilities-revealed/"><u>[New] 2024 Approved Maximize Engagement Selective Rank Tracker Utilities Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-streamers-checklist-for-flawless-twitch-live-recordings-for-2024/"><u>[New] A Streamer's Checklist for Flawless Twitch Live Recordings for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-definition-showdown-sj6-versus-yi-4k-innovator-for-2024/"><u>[New] High Definition Showdown SJ6 Versus Yi 4K Innovator for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transforming-film-with-vr-experience/"><u>[New] Transforming Film with VR Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-from-viral-videos-to-your-cellphone-crafting-a-unique-ringtones/"><u>2024 Approved From Viral Videos to Your Cellphone - Crafting a Unique Ringtones</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-4-display-sharing-applications-for-your-mi-device-a-comprehensive-guide/"><u>Best 4 Display Sharing Applications for Your Mi Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211444312-9783964460851-esta-e-a-minha-palavra-a-e-w/"><u>Esta é a Minha Palavra. A e Ω | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-advice-for-planning-a-memorable-labor-day-bash-secrets-revealed-by-zdnet-experts/"><u>Expert Advice for Planning a Memorable Labor Day Bash: Secrets Revealed by ZDNET Experts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-charting-a-path-to-profit-calculating-video-view-requirements/"><u>In 2024, Charting a Path to Profit Calculating Video View Requirements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-celebration-essentials-tips-and-tricks-for-a-memorable-outdoor-gathering/"><u>Labor Day Celebration Essentials: Tips & Tricks for a Memorable Outdoor Gathering</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-cod-black-ops-cold-war-error-80070057-complication/"><u>Step-by-Step Solution for 'Cod: Black Ops Cold War' Error 80070057 Complication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surprising-discovery-the-best-alternative-to-bose-and-sony-portable-speakers-evaluated-by-zdnet/"><u>Surprising Discovery: The Best Alternative to Bose and Sony Portable Speakers Evaluated by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techwise-special-offer-secure-the-ideal-family-friendly-audio-device-at-half-price-on-prime-day/"><u>TechWise Special Offer: Secure the Ideal Family-Friendly Audio Device at Half Price on Prime Day!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure Introduces AI Models as a Service and Advanced RAG Solutions for Business-Scale Generative AI - ZDNet
-date: 2024-09-19 20:18:43
-updated: 2024-09-20 12:11:40
+date: 2025-01-05T20:40:00.712Z
+updated: 2025-01-12T16:49:30.613Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Rapidly understand complex documents**
 
 Microsoft is also introducing a new type of AI model called "custom generative," a way to rapidly develop a language model to process complex documents by using templates to define the structure of a document. The approach reduces the number of "labels" a developer needs to craft, the metadata that teaches an AI model about the various fields in a document.
@@ -67,6 +71,10 @@ Microsoft emphasizes the ability to scale the RAG function with large vector siz
 
 The functions are available in Azure AI Search in a preview form now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Database enhancements**
 
 While RAG is useful in and of itself, most companies will need to retrieve data with a combination of traditional database retrieval methods. In a blog post, Shireesh Thota, who is corporate vice president in charge of Azure Databases, writes in a blog post that: "As AI applications become more mainstream, seamless database management is paramount. Trusted solutions that can scale limitlessly and autonomously, respond fast, and offer unparalleled flexibility and reliability will shape the future of coding."
@@ -78,6 +86,10 @@ For that reason, Microsoft has added to its database offerings features that are
 Azure Cosmos DB for NoSQL extends the Azure Cosmos database to perform vector search. Microsoft says it makes Cosmos the first cloud database with "lower latency vector search at cloud scale without the need to manage servers."
 
 Azure Database for PostgreSQL in-database embedding updates the Azure implementation of the venerable PostgreSQL database so it can automatically compress input data into representations the LLM understands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **On-ramp to app development** 
 
@@ -95,6 +107,10 @@ In addition to the Phi updates, Microsoft announced availability of OpenAI's new
 
 "This, along with the new capabilities of Microsoft Azure AI Enterprise Chat (previously known as On Your Data) integrated with retrieval-augmented generation (RAG), marks the beginning of an era for multimodal AI apps, providing developers with the tools to build more intuitive and interactive solutions. This update is now generally available."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Customizing the guardrails**
 
 Microsoft's rolling out tools to allow organizations to tweak what kinds of guardrails are imposed on generative AI. "Custom Categories" lets the developer create filters of their choosing to particularize content restrictions. "This new feature also includes a rapid option, enabling you to deploy new custom filters within an hour to protect against emerging threats and incidents," said Microsoft. 
@@ -102,6 +118,10 @@ Microsoft's rolling out tools to allow organizations to tweak what kinds of guar
 Another feature, in preview, "prompt shields," is meant to block jailbreak attacks against large language models, which can often be achieved via simply crafting a prompt in a clever way.
 
 Both capabilities are part of Microsoft's [Azure AI Content Safety offering](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/?ef%5Fid=%5Fk%5FCj0KCQjwjLGyBhCYARIsAPqTz18NpuoRrMlLnci02eTazSJqIEOh2gzy0dXSZ9DbQL6tB87CU-w6VEsaAqMbEALw%5FwcB%5Fk%5F&OCID=AIDcmm5edswduu%5FSEM%5F%5Fk%5FCj0KCQjwjLGyBhCYARIsAPqTz18NpuoRrMlLnci02eTazSJqIEOh2gzy0dXSZ9DbQL6tB87CU-w6VEsaAqMbEALw%5FwcB%5Fk%5F&gad%5Fsource=1&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz18NpuoRrMlLnci02eTazSJqIEOh2gzy0dXSZ9DbQL6tB87CU-w6VEsaAqMbEALw%5FwcB). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Speak the speech**
 
@@ -128,11 +148,30 @@ Following the path of models such as [Google's Gemini](https://www.zdnet.com/art
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-speedy-shutterbugs-iphones-quick-time-lapse-guide-for-2024/"><u>[New] Speedy Shutterbugs IPhone's Quick Time-Lapse Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-disentangle-focus-from-webcams-surroundings/"><u>[Updated] Disentangle Focus From Webcam's Surroundings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>2024 Approved Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-android-phones-endurance-top-10-settings-adjustments-to-maximize-battery-life-featured-on-zdnet/"><u>Boost Your Android Phone's Endurance: Top 10 Settings Adjustments to Maximize Battery Life, Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-reading-experience-the-latest-chrome-extension-enhances-your-future-reading-game/"><u>Discover the Ultimate Reading Experience: The Latest Chrome Extension Enhances Your Future-Reading Game!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2023 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-fold-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel Fold by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insightful-review-best-text-overlays-for-adobe-ae/"><u>In 2024, Insightful Review Best Text Overlays for Adobe AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-google-keep-for-effective-group-task-management-insights-and-tips-from-zdnet/"><u>Mastering Google Keep for Effective Group Task Management: Insights & Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-migrating-your-whatsapp-messages-when-upgrading-to-iphone/"><u>Step-by-Step Guide to Migrating Your WhatsApp Messages When Upgrading to iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-on-activating-proactive-email-notifications-in-gmail-zdnet/"><u>Step-by-Step Tutorial on Activating Proactive Email Notifications in Gmail | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-student-friendly-chromebooks-thorough-reviews-and-comparisons-by-industry-experts-zdnet/"><u>Top-Ranking Student-Friendly Chromebooks: Thorough Reviews & Comparisons by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-the-future-of-computing-zdnet-review-on-the-most-upgradeable-and-repairable-laptop-the-framework-chromebook/"><u>Unboxing the Future of Computing: ZDnet Review on the Most Upgradeable & Repairable Laptop - The Framework Chromebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-differences-a-side-by-side-look-at-cat5-vs-cat6-ethernet-cables/"><u>Unraveling the Differences: A Side-by-Side Look at Cat5 vs Cat6 Ethernet Cables</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-of-gif-speed-changer-apps-and-websites/"><u>Updated The Ultimate List of GIF Speed Changer Apps and Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-without-bitlocker-here-are-4-steps-to-stay-secure/"><u>Windows Without Bitlocker? Here Are 4 Steps to Stay Secure</u></a></li>
+</ul></div>
+

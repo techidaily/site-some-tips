@@ -1,7 +1,7 @@
 ---
 title: Leveraging Cloud Technology for Advanced AI Implementation in Singapore’s Government Operations
-date: 2024-09-19 20:43:41
-updated: 2024-09-20 10:55:52
+date: 2025-01-11T19:13:28.039Z
+updated: 2025-01-12T18:39:36.873Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,28 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-science-and-art-of-engaging-youtube-audiences/"><u>[New] 2024 Approved The Science and Art of Engaging YouTube Audiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-writing-habits-for-successful-fb-campaigns/"><u>[New] Essential Writing Habits for Successful FB Campaigns</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-creativity-the-ultimate-guide-to-roblox-videos-on-a-mac-for-2024/"><u>[Updated] Capturing Creativity The Ultimate Guide to Roblox Videos on a Mac for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exclusive-music-tools-for-pcs/"><u>[Updated] Exclusive Music Tools for PCs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-identifying-the-perfect-hashtag-for-your-tiktok-profile/"><u>[Updated] In 2024, Identifying the Perfect Hashtag for Your TikTok Profile</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-seamless-multitasking-via-firefoxs-pip-mode-for-2024/"><u>[Updated] Seamless Multitasking via Firefox's PIP Mode for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-efficiently-storing-instagram-reels-two-simplified-techniques/"><u>2024 Approved Efficiently Storing Instagram Reels Two Simplified Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrypt-primes-audio-subtitles-puzzle-in-windows-11-ecosystem/"><u>Decrypt Prime's Audio-Subtitles Puzzle in Windows 11 Ecosystem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-cutting-edge-design-the-impressive-visual-tech-behind-the-new-vision-pro-lenses/"><u>Exploring Apple's Cutting-Edge Design: The Impressive Visual Tech Behind the New Vision Pro Lenses.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-tech-bundle-iphone-ipad-apple-watch-airpods-and-mac-at-the-cost-of-a-single-vision-pro-unit-zdnet/"><u>Get Your Tech Bundle - iPhone, iPad, Apple Watch, AirPods & Mac at the Cost of a Single Vision Pro Unit | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immerse-yourself-in-social-media-vision-pros-new-tiktok-compatibility-boosts-scrolling-fun-zdnet/"><u>Immerse Yourself in Social Media: Vision Pro's New TikTok Compatibility Boosts Scrolling Fun - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/test-driving-the-apple-vision-pro-through-an-all-day-office-marathon/"><u>Test Driving the Apple Vision Pro Through an All-Day Office Marathon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-cost-effective-solutions-in-xr-media-why-this-game-hub-is-a-must-visit-according-to-zdnet/"><u>Unlocking Cost-Effective Solutions in XR Media - Why This Game Hub Is a Must-Visit, According to ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-tracking-shares-of-your-facebook-posts/"><u>Unlocking the Secrets: Tracking Shares of Your Facebook Posts</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Google Hikes Monthly Enterprise Space Rates Sky High by 38%% – What You Need to Know
-date: 2024-09-17 18:41:43
-updated: 2024-09-20 10:50:45
+date: 2025-01-06T20:39:52.981Z
+updated: 2025-01-12T16:26:04.156Z
 tags:
   - cloud
 categories:
@@ -53,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How this might affect you
 
 Google is very much _not_ transparent about its Enterprise pricing plans. The [main Google Workspace pricing page](https://workspace.google.com/pricing.html?source=gafb-homepage-faq-en) simply says "Contact Sales." The [Google Workspace blog](https://workspace.google.com/blog/) doesn't mention anything about a price increase, at least as of the time of this writing. 
@@ -66,6 +70,10 @@ It is possible I've been hit with a higher price increase because of the amount 
 The [Fed may think inflation is under control](https://thehill.com/business/4411344-fed-is-within-striking-distance-of-inflation-goal-top-official-says/) at 2-4% annually, but cloudflation certainly still exists. In the last year, [Hulu raised prices](https://www.zdnet.com/home-and-office/home-entertainment/hulus-streaming-bundle-prices-are-going-up-again-heres-why-i-chose-youtubetv/), [Peacock raised prices](https://www.zdnet.com/home-and-office/home-entertainment/peacock-is-raising-subscription-prices-next-month-heres-what-you-need-to-know/), [YouTube Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/youtube-premium-quietly-raises-subscription-prices/), [Spotify Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/spotify-premium-is-raising-prices-for-the-first-time-ever/), [Apple raised some of its subscription prices](https://www.zdnet.com/home-and-office/home-entertainment/apple-is-raising-the-prices-for-some-of-its-popular-subscription-services/), and [the list goes on](https://www.zdnet.com/article/google-raises-prices-for-nest-aware-subscriptions-but-there-is-good-news/). 
 
 We recently did an audit of our cloud-based monthly expenses, and it's a fairly large percentage of our overall cost of doing business. The fact that it can suddenly balloon by inflation percentages you'd only expect in countries with unstable governments will probably cause every IT manager (and anyone with a cloud budget) to lose sleep at night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to change your plan 
 
@@ -110,11 +118,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>[Updated] 2024 Approved Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-loop-like-a-pro-detailed-methods-for-youtube-enthusiasts/"><u>[Updated] Loop Like a Pro Detailed Methods for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>[Updated] The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-festive-present-picks-top-5-christmas-surprises-that-will-enchant-you-and-your-loved-ones/"><u>Best Festive Present Picks: Top 5 Christmas Surprises That Will Enchant You and Your Loved Ones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x8b-by-drfone-android/"><u>Full Guide to Unlock Your Honor X8b</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-strategies-for-documenting-ps3-matches/"><u>In 2024, Essential Strategies for Documenting PS3 Matches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>In 2024, Pinnacle of Video Quality The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp/"><u>New In 2024, Smooth Audio Transitions 2 Methods to Fade In and Out in FCP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-portable-solar-power-banks-a-comprehensive-review-by-zdnet/"><u>Top Rated Portable Solar Power Banks : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-security-cameras-discover-the-ideal-video-doorbell-features-and-reviews/"><u>Top-Ranked Security Cameras: Discover the Ideal Video Doorbell - Features and Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-electric-power-washer-models-comprehensive-reviews-and-buyers-guide-techradar/"><u>Top-Rated Electric Power Washer Models - Comprehensive Reviews & Buyer's Guide | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-inflatable-spas-ultimate-relaxation-guide-zdnet/"><u>Top-Rated Inflatable Spas : Ultimate Relaxation Guide | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-outdoor-projector-insider-tests-and-comparisons-pcmag/"><u>Ultimate Guide to Choosing the Perfect Outdoor Projector: Insider Tests & Comparisons | PCMag</u></a></li>
+</ul></div>
+

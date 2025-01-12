@@ -1,7 +1,7 @@
 ---
 title: "Adobe's Innovation Edge: Transforming Client Interactions Using Generative AI Techniques"
-date: 2024-09-19 17:43:33
-updated: 2024-09-20 12:50:24
+date: 2025-01-07T16:55:04.711Z
+updated: 2025-01-12T17:25:27.610Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ If you think [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-doe
 
 We're looking at an enormous increase in the ability of businesses to meet the unique needs of individual customers, as well as an enormous increase in the capability for businesses to target those customers with psychological and demographic precision. The application of AI to marketing and sales gives a whole new meaning to the phrase "buyer beware."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How AI is Transforming Organizations Everywhere Some of the world's most effective organizations are putting the latest AI innovations to work in smart -- and sometimes startling -- new ways. We put the spotlight on a diverse range of organizations across different parts of the economy to see how they are automating, streamlining, and transforming the ways things are done.  Read now](https://www.zdnet.com/topic/how-ai-is-transforming-organizations-everywhere/)
@@ -30,6 +34,10 @@ Rather than [general-purpose AI tools](https://www.zdnet.com/article/best-ai-cha
 **Also:** [**The 5 best AI art generators**](https://www.zdnet.com/article/best-ai-art-generator/)
 
 We'll explore what Adobe's doing with [generative AI-driven marketing](http://news.adobe.com/news/news-details/2023/Adobe-Announces-New-Sensei-GenAI-Services-to-Reimagine-End-to-End-Marketing-Workflows/default.aspx) \-- and it's big.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customer experience management and the buyer's brain 
 
@@ -58,6 +66,10 @@ When customers interact with your company, a lot goes on inside their heads. The
 Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual value benefit reduce support costs and create potential repeat customers. And companies that maximize the post-game engagement create champions, generate word of mouth, and turn customers into fans and enthusiasts. 
 
 That end-to-end experience -- pre, purchase, and post -- constitutes the customer experience. And, all of that brings us back to Adobe's set of announcements. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tapping the collective zeitgeist with the customer data platform 
 
@@ -100,6 +112,10 @@ Adobe is also pushing its game forward in healthcare, financial services, B2B, a
 **Prospecting, enriching, and activating with partners:** Adobe improves Real-Time CDP with partner enrichments, Amazon Ads, TikTok, and LiveRamp integrations to solve cookieless prospecting challenges for brands. 
 
 This collection of initiatives is how the customer experience and the customer data come together. Customer interactions generate more data. Real-time analytics changes the customer experience dynamically. Wash. Rinse. Repeat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adobe's image and text generative AI services 
 
@@ -148,11 +164,25 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-reclaim-inaccessible-watch-icon/"><u>[New] 2024 Approved Reclaim Inaccessible Watch Icon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-effortlessly-convert-youtube-videos-online/"><u>[Updated] How to Effortlessly Convert YouTube Videos Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[Updated] In 2024, Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-master-obs-on-macos-download-setup-and-get-to-work/"><u>[Updated] Master OBS on macOS Download, Setup & Get to Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/big-tech-layoffs-unveiling-hidden-factors-behind-headline-grabbing-job-reductions/"><u>Big Tech Layoffs: Unveiling Hidden Factors Behind Headline-Grabbing Job Reductions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/data-scientists-unveiled-the-hottest-job-of-our-time-are-we-ignoring-their-wisdom-zdnet/"><u>Data Scientists Unveiled: The Hottest Job of Our Time - Are We Ignoring Their Wisdom? | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-expertise-top-5-strategies-for-enhancing-skills-and-expanding-job-prospects-insights-from-zdnet/"><u>Elevate Your Expertise: Top 5 Strategies for Enhancing Skills & Expanding Job Prospects - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/examine-pimaxs-crystal-clarity-a-visual-treat-with-bugs/"><u>Examine Pimax's Crystal Clarity - A Visual Treat with Bugs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-iphoness-gif-apps-unveiled/"><u>In 2024, Top iPhones's GIF Apps Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-ai-based-image-creation-for-absolutely-no-fee-discover-your-secret-path-to-free-courses-on-udemy-via-zdnets-insider-tips/"><u>Master AI-Based Image Creation for Absolutely No Fee - Discover Your Secret Path to Free Courses on Udemy via ZDNet's Insider Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/streamlined-approaches-for-zoom-utility-on-chromebook-for-2024/"><u>Streamlined Approaches for Zoom Utility on Chromebook for 2024</u></a></li>
+</ul></div>
+

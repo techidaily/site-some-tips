@@ -1,7 +1,7 @@
 ---
 title: Thermal Expansion Must Be Accommodated in the Design Through the Use of Flexible Connectors or Expansion Loops.
-date: 2025-01-03T20:44:56.973Z
-updated: 2025-01-05T20:37:28.655Z
+date: 2025-01-11T19:02:05.423Z
+updated: 2025-01-12T16:35:18.332Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ With my local sales tax, the 512GB model, with the $199 travel case, totaled jus
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Stick with MacOS apps, if you can
@@ -59,7 +59,7 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -71,7 +71,7 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -85,7 +85,7 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -93,7 +93,7 @@ I also felt cramped sitting in one spot and trying to navigate through multiple 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -130,17 +130,18 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-story-upgrade-how-to-add-music-effectively/"><u>[New] 2024 Approved Instagram Story Upgrade How to Add Music Effectively</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-ensuring-visibility-fixing-missing-shorts-thumbnails/"><u>2024 Approved Ensuring Visibility Fixing Missing Shorts Thumbnails</u></a></li>
-<li><a href="https://some-tips.techidaily.com/before-prime-day-arrives-learn-the-essential-guide-on-upgrading-to-a-prime-student-plan-and-its-advantages-zdnet-tips/"><u>Before Prime Day Arrives, Learn the Essential Guide on Upgrading to a Prime Student Plan and Its Advantages | ZDNet Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/calculating-expenses-for-youtubers-success-for-2024/"><u>Calculating Expenses for YouTubers' Success for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-the-future-of-baseball-with-facial-recognition-entry-inside-the-newest-mlb-stadium-innovation/"><u>Experience the Future of Baseball with Facial Recognition Entry: Inside the Newest MLB Stadium Innovation</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209667335-9781547577330-meditacion-el-secreto-de-la-feliz-y-exitosa-vida-zen/"><u>Meditación: El Secreto De La Feliz Y Exitosa Vida Zen. | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pcie-interrupt-gateway-issue-sorted/"><u>PCIe Interrupt Gateway Issue Sorted</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restored-functionality-to-windows-for-broadcom-80211n-adapter/"><u>Restored Functionality to Windows for Broadcom 802.11N Adapter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-convenience-explore-the-advantages-of-apples-expanded-nfc-capabilities-on-iphones-for-app-developers-and-users-alike-zdnet/"><u>Revolutionizing Convenience: Explore the Advantages of Apple's Expanded NFC Capabilities on iPhones for App Developers and Users Alike | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-impact-of-artificial-intelligence-on-commerce-exploring-5-innovative-methods-reshaping-industry-practices-zdnet/"><u>The Impact of Artificial Intelligence on Commerce: Exploring 5 Innovative Methods Reshaping Industry Practices | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/us-and-singapore-join-forces-against-international-cyber-fraud-global-initiative/"><u>US and Singapore Join Forces Against International Cyber Fraud - Global Initiative</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>[New] 2024 Approved Adept at Editing and Disc Making The Ultimate Mac Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-a-viral-sensation-maximizing-your-youtube-reach/"><u>[New] In 2024, Become a Viral Sensation Maximizing Your YouTube Reach</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-vimeo-success-strategies-for-staff-picked-videos/"><u>2024 Approved Navigating Vimeo Success Strategies for Staff-Picked Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-elite-selection-of-apple-watches-in-depth-analysis-and-professional-ratings-cnet/"><u>2024'S Elite Selection of Apple Watches: In-Depth Analysis and Professional Ratings | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-safest-and-funniest-mobile-devices-for-your-child-expert-picks-from-zdnet/"><u>Choosing the Safest & Funniest Mobile Devices for Your Child - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-ultimate-apple-tablet-a-comparison-of-ipad-pro-models-on-zdnet/"><u>Choosing the Ultimate Apple Tablet: A Comparison of iPad Pro Models on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-ice-age-heres-how-to-revive-your-freezing-device/"><u>Computer Ice Age? Here’s How to Revive Your Freezing Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/declutter-email-overload-effortlessly-with-our-simple-tip-no-separate-accounts-needed-discover-more/"><u>Declutter Email Overload Effortlessly with Our Simple Tip, No Separate Accounts Needed - Discover More !</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-smart-7-hd-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Smart 7 HD Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-snapchat-shots-select-best-20-filters-and-effects/"><u>In 2024, Mastering Snapchat Shots Select Best 20 Filters & Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/underwhelming-but-useful-apples-new-ai-features-from-wwdc-explained-why-they-might-just-be-what-we-need-zdnet-insights/"><u>Underwhelming but Useful: Apple's New AI Features From WWDC Explained – Why They Might Just Be What We Need (ZDNet Insights)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-july-2ebst-apple-promotions-get-your-hands-on-affordable-iphones-trendy-apple-watches-and-budget-friendly-ipads-insider-tips/"><u>Unlocking July 2Ebst Apple Promotions: Get Your Hands on Affordable iPhones, Trendy Apple Watches, and Budget-Friendly iPads | Insider Tips</u></a></li>
 </ul></div>
 

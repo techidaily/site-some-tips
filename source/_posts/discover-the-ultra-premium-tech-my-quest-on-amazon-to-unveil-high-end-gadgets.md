@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultra-Premium Tech: My Quest on Amazon to Unveil High-End Gadgets"
-date: 2024-09-18 11:55:43
-updated: 2024-09-20 10:13:58
+date: 2025-01-05T19:38:01.617Z
+updated: 2025-01-12T19:22:32.476Z
 tags:
   - amazon
 categories:
@@ -27,6 +27,10 @@ They have the right to spend their money whichever way they choose, and online s
 
 I wanted to assist them too. So I tried to put myself into the minds of these more exalted types, in order to discover what happens when you ask Amazon to show you not the stuff that's good value, but the stuff that's pricey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Oh, dear  
 
 So I entered "expensive gadgets" into Amazon's little search box and pretended money was no object. When it comes to objects of technological desire, that is.
@@ -44,6 +48,10 @@ I was instantly uplifted, of course. Who doesn't dream of a vacuum cleaner with 
 Then I focused. This wasn't Amazon's actual suggestion. This was a sponsored ad "based on the product's relevance to your search query."
 
 To which I query Amazon's ability to create an advertising algorithm that has anything to do with, say, the real world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pricey, but on sale  
 
@@ -72,6 +80,10 @@ It offered the "[Hiboy KS4/KS4 Pro Electric Scooter](https://buy.geni.us/Proxy.a
 Next to it was the "[Hikmicro B1L 160 x 120 IR Resolution Thermal Imaging Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHIKMICRO-Resolution-Handheld-Infrared-Temperature%2Fdp%2FB08Z7HSBZ6%2Fref%3Dsr%5F1%5F11%3Fcrid%3D100IIDT6GJ7UP%26keywords%3Dexpensive%2Bgadgets%26qid%3D1678251194%26sprefix%3Dexpensive%2Bgadgets%2Caps%2C151%26sr%3D8-11%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cebd78c11-545f-42e8-83df-48da9623256d%7Cdtp&dtb=1) with WiFi, 25Hz Refresh Rate, 3.2" LCD Screen, Handheld 19200 Pixels Infrared Thermal Imager with High Temperature Alarm." Yet this was $429.
 
 It seemed clear that Amazon's algorithm didn't have a fine grasp of what sort of expensive gadget might tempt me. It also didn't have a fine grasp of the concept of expensive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dear, dear, dear  
 
@@ -122,11 +134,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/user-are-there-any-known-compatibility-concerns-that-i-should-be-aware-of-before-updating-my-macos-system/"><u>[[[User]]] Are There Any Known Compatibility Concerns that I Should Be Aware of Before Updating My MacOS System?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[New] 2024 Approved Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dive-into-comics-like-never-before-apple-vision-pro-opens-doors-to-the-marvel-world-on-may-30-zdnet/"><u>Dive Into Comics Like Never Before – Apple Vision Pro Opens Doors to the Marvel World on May 30 | ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-12-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi 12 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-privacy-the-methods-apple-employs-to-protect-ai-processed-information-in-the-cloud-techcrunch/"><u>Ensuring Privacy: The Methods Apple Employs to Protect AI Processed Information in the Cloud | TechCrunch</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-google-pixel-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Google Pixel 8 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-9-essential-iphone-x-hacks-for-every-user/"><u>In 2024, 9 Essential iPhone X Hacks for Every User</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/musical-beginnings-the-top-10-tracks-for-engaging-podcast-intros-for-2024/"><u>Musical Beginnings The Top 10 Tracks for Engaging Podcast Intros for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-cuestionamiento/"><u>Section Cuestionamiento</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-new-possibilities-in-code-with-apples-latest-complimentary-ai-enhancement-discover-how-zdnet/"><u>Unlock New Possibilities in Code with Apple's Latest Complimentary AI Enhancement - Discover How | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-note-12-pro-4g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi Note 12 Pro 4G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wie-man-den-windows-ebenso-wie-das-bios-fur-asus-notebooks-mithilfe-einer-schrittweisen-anleitung-startet/"><u>Wie Man Den Windows Ebenso Wie Das BIOS Für ASUS Notebooks Mithilfe Einer Schrittweisen Anleitung Startet</u></a></li>
+</ul></div>
+

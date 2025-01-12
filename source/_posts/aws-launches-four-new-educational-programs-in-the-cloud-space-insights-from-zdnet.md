@@ -1,7 +1,7 @@
 ---
 title: AWS Launches Four New Educational Programs in the Cloud Space - Insights From ZDNet
-date: 2024-09-18 23:23:58
-updated: 2024-09-20 11:56:19
+date: 2025-01-05T20:50:40.824Z
+updated: 2025-01-12T19:36:51.688Z
 tags:
   - amazon
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/93bb71ec4c18bb4a348a9b3276d0829a10
 AWS debuted four new initiatives in its ongoing goal to educate 29 million people on its cloud services platform by the end of 2025\. 
 
 First up, the company showed off its new AWS Skill Builder courses. This novel digital learning tool will be available to users in 200 countries and will provide more than 500 free, on-demand courses to start, with 60 more scheduled to be added this year. Content is available in 16 languages, with support for automatically generated recommendations from AWS on progression paths based around individualized job roles and technology areas. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -50,11 +54,27 @@ Additional information about Amazon's aforementioned educational commitment is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-decoding-monetization-how-much-creators-earn-per-ad-on-youtube-for-2024/"><u>[New] Decoding Monetization How Much Creators Earn Per Ad on YouTube for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>[Updated] Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-serenity-in-animated-worlds-top-youtube-picks/"><u>[Updated] In 2024, Finding Serenity in Animated Worlds Top YouTube Picks</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-your-sites-performance-using-cutting-edge-behavioral-analytics-tools/"><u>Boost Your Site's Performance Using Cutting-Edge Behavioral Analytics Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/enjoy-a-smooth-experience-now-discords-update-failure-temporarily-repaired/"><u>Enjoy a Smooth Experience Now - Discord's Update Failure Temporarily Repaired</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sive-insight-free-access-to-1-6-video-clips-for-2024/"><u>Exclusive Insight Free Access to #1-#6 Video Clips for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-x-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-unveils-open-source-quest-operating-system-for-compatible-wireless-headsets-from-brands-like-asus-and-lenovo/"><u>Meta Unveils Open-Source Quest Operating System for Compatible Wireless Headsets From Brands Like Asus & Lenovo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sales-pitch-or-life-lesson-discovering-loves-value-through-the-apple-vision-pro-consultation-experience-digital-gadgets-blog/"><u>Sales Pitch or Life Lesson? Discovering Love's Value Through the Apple Vision Pro Consultation Experience | Digital Gadgets Blog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods-for-2024/"><u>Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods) for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/the-ultimate-guide-to-choosing-the-top-5-android-tv-boxes-of-2019/"><u>The Ultimate Guide to Choosing the Top 5 Android TV Boxes of 2019</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-meta-quest-3-vr-system-top-choice-for-home-users-according-to-zdnet/"><u>Ultimate Guide to the Meta Quest 3 VR System - Top Choice for Home Users, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-metaverse-realm-understanding-its-structure-and-main-contributors-on-zdnet/"><u>Unveiling the Metaverse Realm: Understanding Its Structure and Main Contributors on ZDNet</u></a></li>
+</ul></div>
+

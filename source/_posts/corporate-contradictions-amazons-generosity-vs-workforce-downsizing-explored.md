@@ -1,7 +1,7 @@
 ---
 title: "Corporate Contradictions: Amazon's Generosity Vs. Workforce Downsizing Explored"
-date: 2024-09-19 12:12:27
-updated: 2024-09-20 10:38:32
+date: 2025-01-09T20:44:48.611Z
+updated: 2025-01-12T18:21:34.137Z
 tags:
   - amazon
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 Tracy King/Getty Images
 
 [The holidays are coming](https://www.zdnet.com/home-and-office/tech-gift-guide/) and, for many tech companies, the timing is a little awkward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -82,11 +86,31 @@ I wonder if every Amazon employee will agree with that this year.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-effortless-creativity-syncing-photos-and-video-in-one-device/"><u>[New] In 2024, Effortless Creativity Syncing Photos & Video in One Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-taking-your-photos-and-videos-to-new-heights/"><u>[New] Taking Your Photos and Videos to New Heights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-discover-the-top-tools-to-record-and-share-classroom-content/"><u>[Updated] 2024 Approved Discover the Top Tools to Record and Share Classroom Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-novice-to-notable-launching-a-trending-solo-show/"><u>[Updated] 2024 Approved From Novice to Notable Launching a Trending Solo Show</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ethical-download-strategies-for-youtube-to-mp4-files-for-2024/"><u>[Updated] Ethical Download Strategies for YouTube to MP4 Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-revamps-ai-with-promising-upgrades-yet-challenges-remain-an-in-depth-analysis-by-zdnet/"><u>Apple Revamps AI with Promising Upgrades, Yet Challenges Remain: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-12-premier-free-online-cinemas-in-the-world/"><u>Discover the 12 Premier Free Online Cinemas in the World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-15-assessment-top-suggestions-and-insights-for-expert-audience-techinsight/"><u>IPhone 15 Assessment: Top Suggestions and Insights for Expert Audience | TechInsight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-pro-vs-iphone-14-pro-should-you-consider-the-newest-model-insights-from-zdnet/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Should You Consider the Newest Model? Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-chapter-in-smartwatch-evolution-analyzing-the-features-of-apple-watch-serie-10-versus-serie-8-zdnet/"><u>The Next Chapter in Smartwatch Evolution: Analyzing the Features of Apple Watch Série 10 versus Série 8 | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-process-of-smartphone-analysis-and-reviewing-on-zdnets-platform/"><u>The Process of Smartphone Analysis and Reviewing on ZDNet's Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-cellphone-offers-and-discounts-for-independence-day-a-guide/"><u>Top Cellphone Offers & Discounts for Independence Day: A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbiased-evaluation-reveals-exceptional-wallet-trackers-beyond-apple-and-tile-a-comprehensive-zdnet-analysis/"><u>Unbiased Evaluation Reveals: Exceptional Wallet Trackers Beyond Apple & Tile - A Comprehensive ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmissable-savings-the-ultimate-list-of-active-prime-day-2024-tablet-specials-zdnet-insights/"><u>Unmissable Savings: The Ultimate List of Active Prime Day 2024 Tablet Specials | ZDNET Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-hugging-face-a-comprehensive-guide-to-its-purpose-and-applications/"><u>Unveiling Hugging Face: A Comprehensive Guide to Its Purpose & Applications</u></a></li>
+</ul></div>
+

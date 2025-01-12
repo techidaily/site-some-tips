@@ -1,7 +1,7 @@
 ---
 title: "Master Your To-Do List: Expert Tips & Tools to Optimize Daily Workflow, According to ZDNet Experts"
-date: 2024-09-18 16:44:55
-updated: 2024-09-20 10:20:51
+date: 2025-01-10T20:51:00.005Z
+updated: 2025-01-12T16:48:14.069Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -49,9 +53,17 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -94,6 +106,10 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -167,6 +183,10 @@ By the way, this is also a great way to think about users, which I initially was
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To-doing my to-do list
 
 By this point, I'm usually most of the way through the morning. My email has been processed and actions have been moved to my to-do list and schedule items to my calendar. I've done a considerable amount of reading, and I'm up to speed on the various issues I'm responsible for following. I've graded students and supported users (and added any bugs or key follow-up items to my to-do list). 
@@ -203,6 +223,10 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -237,11 +261,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-affordable-customizable-templates-to-elevate-your-biz-talks/"><u>[New] In 2024, Affordable, Customizable Templates to Elevate Your Biz Talks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-engagement-a-compendium-of-the-top-20-youtube-hacks/"><u>[New] Mastering Engagement A Compendium of the Top 20 YouTube Hacks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-gopro-feature-list-matchup/"><u>[New] The Ultimate Gopro Feature List Matchup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unveiling-5-must-have-mac-tools-for-effortless-sniping/"><u>[Updated] 2024 Approved Unveiling 5 Must-Have Mac Tools for Effortless Sniping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/artificial-intelligence-enhances-google-photo-search-simplifying-image-retrieval-on-zdnet/"><u>Artificial Intelligence Enhances Google Photo Search: Simplifying Image Retrieval on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-engagement-the-skillful-application-of-block-and-unblock-on-twitch/"><u>Balancing Engagement: The Skillful Application of Block & Unblock on Twitch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-brilliance-mastering-video-lighting-techniques/"><u>Cinematic Brilliance Mastering Video Lighting Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-guide-streamlining-data-collection-with-custom-google-workspace-forms-tips-and-tricks/"><u>Easy Guide: Streamlining Data Collection with Custom Google Workspace Forms - Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expand-your-ai-experience-discover-chatgptpluss-new-features-integrated-into-gemini-by-google-free-access-included/"><u>Expand Your AI Experience: Discover ChatGPT+'s New Features Integrated Into Gemini by Google - Free Access Included!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-superior-smart-thermostat-options-apart-from-ecobee-and-amazon-in-depth-review/"><u>Exploring Superior Smart Thermostat Options Apart From EcoBee & Amazon - In-Depth Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-early-access-grab-the-latest-google-gadgets-pixel-8-pixel-watch-2-and-pixel-buds-pro/"><u>Secure Your Early Access: Grab the Latest Google Gadgets - Pixel 8, Pixel Watch 2 & Pixel Buds Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switched-loyalty-how-this-top-ranked-pixel-smartwatch-became-my-new-favorite-insights-from-a-tech-guru-at-zdnet/"><u>Switched Loyalty: How This Top-Ranked Pixel Smartwatch Became My New Favorite - Insights From a Tech Guru at ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-experience-analysis-google-maps-app-for-iphones/"><u>User Experience Analysis: Google Maps App for iPhones</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: AWS Launches Complimentary SageMaker Studio Lab, Empowering Novices to Dive Into ML Effortlessly | ZDNET Insights
-date: 2024-09-17 14:24:37
-updated: 2024-09-20 12:38:40
+date: 2025-01-07T18:35:11.292Z
+updated: 2025-01-12T21:05:57.790Z
 tags:
   - amazon
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://www.zdnet.com/a/img/resize/2a25cbf9107410fa7d43c6f6737da32789
 
 Amazon Web Services on Wednesday unveiled SageMaker Studio Lab, a free version of Amazon SageMaker -- the AWS service that helps customers build, train and deploy machine learning models. Designed for machine learning novices, users can try SageMaker Studio Lab without an AWS account, credit card or any cloud configuration knowledge. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### special feature
 
 [![sf-aiml2-thumb.jpg](https://www.zdnet.com/a/img/resize/8e87b92d34389703558e4bbfba61afa3e05f3221/2019/03/27/6cefbef0-81a0-4c23-b2d1-b8d90d815b3e/sf-aiml2-thumb.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Managing AI and ML in the Enterprise The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.  Read now](https://www.zdnet.com/collection/managing-ai-and-ml-in-the-enterprise/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Studio Lab is currently available in public preview.
 
@@ -64,11 +72,33 @@ As many as 2,000 qualifying students will win a scholarship for the AI Programmi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-hassle-free-techniques-record-your-dell-screen-easily-for-2024/"><u>[Updated] Hassle-Free Techniques Record Your Dell Screen Easily for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-alternative-to-apple-vision-pro-xr-headset-curbs-foma-with-remarkable-results-insights/"><u>Affordable Alternative to Apple Vision Pro XR Headset Curbs FOMA with Remarkable Results – Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-hidden-gem-the-outstanding-iphone-feature-unveiled/"><u>Discover Apple's Hidden Gem: The Outstanding iPhone Feature Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-apples-immersive-3d-spatial-videos-on-your-meta-quest-vr-headset-a-simple-guide/"><u>Explore Apple's Immersive 3D Spatial Videos on Your Meta Quest VR Headset – A Simple Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guffaw-glory-top-downloads-of-jingles-for-2024/"><u>Guffaw Glory Top Downloads of Jingles for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-capturing-memories-efficiently-phones-screen-save-for-snaps/"><u>In 2024, Capturing Memories Efficiently Phones' Screen Save for Snaps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-apple-ignoring-the-importance-of-smartphone-cases-for-iphones-on-purpose/"><u>Is Apple Ignoring the Importance of Smartphone Cases for iPhones on Purpose?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/smart-data-collection-driven-by-innovative-cookiebot-solutions/"><u>Smart Data Collection Driven by Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/staying-with-my-iphone-14-four-key-factors-that-outweigh-the-appeal-of-the-iphone-16-pro-insights-from-a-tech-expert-on-zdnet/"><u>Staying with My iPhone 14: Four Key Factors That Outweigh the Appeal of the iPhone 16 Pro - Insights From a Tech Expert on ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209855780-9781944796051-the-big-if-in-life-discover-the-biggest-purpose-ever-guiding-you/"><u>The Big IF in Life: Discover the Biggest Purpose Ever Guiding You | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-durable-and-waterproof-smartwatches-in-depth-analysis-by-tech-experts-gizmobusters/"><u>Top-Ranking Durable & Waterproof Smartwatches : In-Depth Analysis by Tech Experts | GizmoBusters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-hidden-risks-of-airtags-battery-safety-mechanism-solutions-inside/"><u>Uncover the Hidden Risks of AirTag's Battery Safety Mechanism - Solutions Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-new-possibilities-with-macos-15-discover-top-features-and-enhancements-for-your-apple-macbook/"><u>Unlock New Possibilities with MacOS 15: Discover Top Features & Enhancements for Your Apple MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-secrets-of-macos-security-a-step-by-step-guide-to-finding-your-keychain-password/"><u>Unlocking Secrets of macOS Security: A Step-by-Step Guide to Finding Your Keychain Password</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-shrink-your-videos-10-free-online-compressors-with-no-installation-for-2024/"><u>Updated Shrink Your Videos 10 Free Online Compressors with No Installation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/visual-voyage-documenting-desktop-views-on-winos-for-2024/"><u>Visual Voyage Documenting Desktop Views on WinOS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/27572754-youtube-profile-picture-templates-free-downloads/"><u>YouTube Profile Picture Templates – Free Downloads</u></a></li>
+</ul></div>
+

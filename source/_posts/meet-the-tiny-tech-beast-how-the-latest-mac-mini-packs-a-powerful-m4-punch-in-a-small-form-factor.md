@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2025-01-02T20:18:54.698Z
-updated: 2025-01-05T21:23:00.873Z
+date: 2025-01-07T19:31:46.993Z
+updated: 2025-01-12T19:21:01.334Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,17 +146,19 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-video-longeayer-androidmac-app-utilization/"><u>[New] Enhancing Video Longeayer Android/Mac App Utilization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rime-editing-choosing-the-best-for-youtube-for-2024/"><u>[New] Prime Editing Choosing the Best For YouTube for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhancing-your-audacity-sessions-for-excellence/"><u>2024 Approved Enhancing Your Audacity Sessions for Excellence</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-for-lenovos-inoperative-touch-interface/"><u>Fix for Lenovo's Inoperative Touch Interface</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/flashing-feathersticks-short-film-characters-music-for-2024/"><u>Flashing Feathersticks Short Film Characters' Music for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-lost-sounds-a-comprehensive-fix-for-silent-hearthstone-battles/"><u>Restoring Lost Sounds: A Comprehensive Fix for Silent Hearthstone Battles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-a-new-approach-to-attracting-top-it-professionals/"><u>Revamping Recruitment Strategies: A New Approach to Attracting Top IT Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/six-key-agile-strategies-for-boosting-success-in-software-development-insights-from-zdnet/"><u>Six Key Agile Strategies for Boosting Success in Software Development - Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/727588-9781446489871-the-secret-path/"><u>The Secret Path | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-java-training-programs-of-2022-insights-from-zdnet/"><u>Top-Rated Java Training Programs of 2022: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-streamline-videography-an-in-depth-look-at-youtube-studio-editor/"><u>[New] 2024 Approved Streamline Videography An In-Depth Look at YouTube Studio Editor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-through-5-premium-stream-ready-webcams-for-2024/"><u>[New] Navigating Through 5 Premium Stream-Ready Webcams for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-workflow-with-aiseesoft-recording-tools-for-2024/"><u>[Updated] Streamline Your Workflow with Aiseesoft Recording Tools for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 3? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-bargain-apple-unveils-budget-friendly-m2-mac-mini-at-a-record-low-479/"><u>Discover the Bargain: Apple Unveils Budget-Friendly M2 Mac Mini at a Record Low $479</u></a></li>
+<li><a href="https://win-docs.techidaily.com/est-il-possible-de-restaurer-les-documents-elimines-une-verite-sur-leur-disparition-permanente/"><u>Est-Il Possible De Restaurer Les Documents Éliminés : Une Vérité Sur Leur Disparition Permanente ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-look-the-top-smartphones-preferred-by-zdnet-experts-testing-and-review/"><u>Exclusive Look: The Top Smartphones Preferred by ZDNet Experts - Testing and Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-ios-update-in-iphones-could-expose-you-learn-to-hide-your-device-from-unwanted-attention/"><u>How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-with-the-multifunctional-macbook-stand-and-charger-bundle-at-just-102-exclusive-offer/"><u>Save Big with the Multifunctional MacBook Stand & Charger Bundle at Just $102 - Exclusive Offer !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/siris-smart-leap-forward-with-new-apple-intelligence-key-updates-slated-for-aturth-unveiled-on-zdnet/"><u>Siri's Smart Leap Forward with New Apple Intelligence; Key Updates Slated for Aturth | Unveiled on ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-study-buddy-expert-tips-for-choosing-the-right-computer-for-students/"><u>Smart Study Buddy: Expert Tips for Choosing the Right Computer for Students</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-plugin-connectivity-issues-in-chatgpt/"><u>Solving Plugin Connectivity Issues in ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-choosing-your-ideal-copilotplus-laptop-spotlight-on-the-hottest-picks-from-ifa-2/"><u>The Ultimate Guide to Choosing Your Ideal Copilot+ Laptop: Spotlight on the Hottest Picks From IFA 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-2024-macbook-companion-devices-professional-insights-and-ratings-cnet/"><u>Ultimate 2024 MacBook Companion Devices: Professional Insights and Ratings | CNET</u></a></li>
 </ul></div>
 

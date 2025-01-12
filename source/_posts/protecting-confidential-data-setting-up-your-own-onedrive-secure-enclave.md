@@ -1,7 +1,7 @@
 ---
 title: "Protecting Confidential Data: Setting Up Your Own OneDrive Secure Enclave"
-date: 2024-09-17 21:49:25
-updated: 2024-09-20 10:51:46
+date: 2025-01-06T20:22:09.068Z
+updated: 2025-01-12T16:52:54.256Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 iStockphoto/Getty Images
 
 I use Microsoft OneDrive to back up and sync my documents, photos, and other files across my different PCs and mobile devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -35,6 +39,10 @@ By default, the vault remains locked until you need it. You unlock it with whate
 ## Requirements
 
 To take full advantage of the Personal Vault, you need a [Microsoft 365 Family or Personal subscription](https://www.zdnet.com/article/microsoft-launches-defender-for-individuals-for-microsoft-365-personal-and-family-subscribers/). With either plan, you can add as many files to the vault as space allows. Without a Microsoft 365 plan, you can include only three files in your vault, which likely wouldn't do the trick for most people. Further, the Personal Vault is available only with the OneDrive personal app and not with OneDrive for Business. Otherwise, the vault works the same in Windows 10 and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to secure your sensitive OneDrive files with a Personal Vault
 
@@ -56,6 +64,10 @@ Get ready to move folders and files to your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Move the files you wish to protect 
 
 The next screen then prompts you to move the files you wish to protect into the Personal Vault. Consider the files that contain the most private or confidential information, such as financial or tax data and personal ID numbers. Click the **Move from** heading at the top.
@@ -65,6 +77,10 @@ Drill through the different folders in OneDrive and select the subfolders and fi
 Select folders and files to move to your Personal Vault.
 
 Screenshot by Lance Whitney
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Wait for folders and files to sync to your local OneDrive storage
 
@@ -99,6 +115,10 @@ Confirm the authentication to unlock your Personal Vault.
 Screenshot by Lance Whitney/ZDNET
 
 **Also:** [**Two-factor authentication is a great idea. But not enough people are using it**](https://www.zdnet.com/article/two-factor-authentication-is-a-great-idea-but-not-enough-people-are-using-it/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. When you're done, wait for the vault to lock automatically or select Lock Personal Vault
 
@@ -146,11 +166,26 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-stunning-photography-10-top-grid-software/"><u>[New] 2024 Approved Stunning Photography 10 Top Grid Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-financial-frontier-acquiring-high-value-youtubes/"><u>[New] 2024 Approved The Financial Frontier Acquiring High-Value Youtubes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-exploring-basics-of-digital-narratives/"><u>[New] Exploring Basics of Digital Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/high-on-price-questionable-on-smarts-the-montblanc-wear-os-timepiece-reviewed-gadgetpundit/"><u>High on Price, Questionable on Smarts: The Montblanc Wear OS Timepiece Reviewed | GadgetPundit</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-portable-gear-for-travel-cinematography/"><u>In 2024, Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-gen-faceoff-exploring-key-distinctions-between-google-pixel-9-ultra-foldable-and-samsungs-galaxy-z-fold-6-insights-by-zdnet/"><u>Next-Gen Faceoff: Exploring Key Distinctions Between Google Pixel #9 Ultra Foldable & Samsung's Galaxy Z Fold 6 | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-solution-resolving-your-magic-mouse-tracking-issues/"><u>Quick Solution: Resolving Your Magic Mouse Tracking Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-exclusive-savings-mastering-the-art-of-early-orders-for-google-pixel-9-and-pro-models-plus-the-upcoming-pixel-9-pro-flex/"><u>Snag Exclusive Savings: Mastering the Art of Early Orders for Google Pixel 9 & Pro Models + The Upcoming Pixel 9 Pro Flex!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-on-top-of-your-studies-5-proven-strategies-for-college-learners-using-gemini-ai-insights-from-zdnet/"><u>Stay on Top of Your Studies: 5 Proven Strategies for College Learners Using Gemini AI - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-why-your-kindle-device-may-not-be-starting-properly/"><u>Troubleshooting Guide: Why Your Kindle Device May Not Be Starting Properly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-799-google-pixel-9-outshines-rivals-as-zdnets-favorite-2024-handset-choice/"><u>Why the $799 Google Pixel 9 Outshines Rivals as ZDNet's Favorite 2024 Handset Choice</u></a></li>
+</ul></div>
+

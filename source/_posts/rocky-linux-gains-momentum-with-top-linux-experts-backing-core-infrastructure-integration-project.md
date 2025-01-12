@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Gains Momentum with Top Linux Experts Backing Core Infrastructure Integration Project
-date: 2024-09-18 18:46:22
-updated: 2024-09-20 10:18:27
+date: 2025-01-07T19:06:44.653Z
+updated: 2025-01-12T18:40:27.585Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,29 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices/"><u>[Updated] The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-vision-pro-review-summary-insights-and-feedback-from-users-at-3500-price-point-technewszdnet/"><u>Apple Vision Pro Review Summary: Insights & Feedback From Users at $3,500 Price Point | TechNewsZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-virtual-realms-with-disneys-innovative-multiplayer-vr-treadmill-a-comprehensive-guide/"><u>Exploring Virtual Realms with Disney's Innovative Multiplayer VR Treadmill – A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-hot-30i-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Hot 30i Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-10-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 10 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-financial-aspects-of-youtube-promotions/"><u>In 2024, Financial Aspects of YouTube Promotions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-installation-of-hyper-v-feature-on-microsofts-latest-os/"><u>Master the Installation of Hyper-V Feature on Microsoft's Latest OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-the-art-of-remote-podcast-production-for-2024/"><u>Mastering the Art of Remote Podcast Production for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mysterious-collaboration-qualcomm-teams-up-with-samsung-and-google-on-groundbreaking-ar-glasses/"><u>Mysterious Collaboration: Qualcomm Teams Up With Samsung & Google on Groundbreaking AR Glasses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/outshining-amazon-walmart-beats-the-spring-bonanza-with-a-sweet-200-meta-quest-2-bargain-discover-how-in-our-latest-analysis/"><u>Outshining Amazon: Walmart Beats the Spring Bonanza with a Sweet $200 Meta Quest 2 Bargain – Discover How in Our Latest Analysis!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/soundwaves-on-social-a-guide-to-embedding-tracks-in-stories-for-2024/"><u>Soundwaves on Social A Guide to Embedding Tracks in Stories for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-return-of-lying-down-mode-meta-quest-2pro-welcome-it-back-quest-3-left-out-details-from-zdnet/"><u>The Return of 'Lying Down' Mode: Meta Quest 2/Pro Welcome It Back; Quest 3 Left Out – Details From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-roadmap-to-securing-an-apple-vision-pro-before-launch-a-step-by-step-guide-for-preorders-zdnet-tech-analysis/"><u>The Roadmap to Securing an Apple Vision Pro Before Launch: A Step-by-Step Guide for Preorders | ZDNet Tech Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-secrets-of-silent-sleep-in-w10w11-machines/"><u>Unlock the Secrets of Silent Sleep in W10/W11 Machines</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+</ul></div>
+

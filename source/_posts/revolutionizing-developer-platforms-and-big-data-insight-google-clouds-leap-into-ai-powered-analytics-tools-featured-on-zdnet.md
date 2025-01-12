@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Developer Platforms and Big Data Insight: Google Cloud's Leap Into AI-Powered Analytics Tools, Featured on ZDNet"
-date: 2024-09-18 23:33:56
-updated: 2024-09-20 12:22:29
+date: 2025-01-10T16:10:16.991Z
+updated: 2025-01-12T17:30:45.917Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for cloud development 
 
 In May, Google showed how Duet AI can be used for code and chat-level assistance. Since that time, "trusted developers" (their term) have been testing out the capability and providing feedback to Google's engineers. According to Google, Duet AI is intended to provide developer support across the entire development lifecycle, providing help for coding, source citation, test coverage, designing and publishing APIs, migrating and modernizing applications, and more. 
@@ -59,6 +63,10 @@ Calder says: "We have started to work with select enterprises to allow Duet Al t
 
 Another compelling feature is that Duet AI can help developers publish APIs using natural language prompts. Once again, when it works, this has the potential to be a huge time-saver. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for databases and data analytics in the cloud 
 
 Google has a laundry list of massive services for data and database management. At Google Next '23, the company indicated it's integrating Duet AI into most of them. 
@@ -75,6 +83,10 @@ Google has announced that Duet AI now supports Cloud Spanner. Duet AI can write 
 **Also: [The other shoe finally dropped on my Google Enterprise cloud storage plan](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/)**
 
 The company says Duet AI will also be available for Alloy DB and Cloud SQL, with no delivery date specified yet. Google is offering a Duet AI service to migrate Oracle to AlloyDB and Oracle to Cloud SQL-for-PostgreSQL later this year. If that last sentence lights your fire, then you're a target customer for this new AI service. Expect other legacy systems to benefit from these sort of migrations in the future. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Shifting down instead of shifting left 
 
@@ -98,6 +110,10 @@ Google has announced a number of "shifting down" efforts:
 * **Duet AI for code completion and chat:** We talked about this effort above, and it's intended to offload the work from developers to the AI.
 * **Shifting down interoperability:** Google has announced the general availability of Application Integration, a no-code integration platform-as-a-service offering, that contains a drag-and-drop interface for connecting services together. Think of it as a Zapier for enterprise-level cloud projects. Google also announced that Duet AI will help here, as well.
 * **Cloud workstations:** Although this capability has been around for a while, Google is highlighting that the use of its virtual desktop service can "shift the burden of provisioning, scaling, managing and securing developer environments down to the platform."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  David's hot take 
 
@@ -127,11 +143,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-guide-to-the-best-10-online-platforms-for-vimeo-downloading/"><u>[New] In 2024, Ultimate Guide to the Best 10 Online Platforms for Vimeo Downloading</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tiktoks-toptwitter-tweets-amassing-views/"><u>[Updated] In 2024, TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tales-before-twilight-a-review-of-video-driven-narratives/"><u>[Updated] Tales Before Twilight A Review of Video-Driven Narratives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-features-the-allure-of-filmora-editing-for-2024/"><u>Captivating Features The Allure of Filmora Editing for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/customizable-batch-email-creation-with-massmailer-suite/"><u>Customizable Batch Email Creation with MassMailer Suite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-8-tv-streaming-subscriptions-dominating-202/"><u>Discover the Leading 8 TV Streaming Subscriptions Dominating 202</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/saving-linkedin-videos-made-easy-with-this-6-app-selection-guide/"><u>Saving LinkedIn Videos Made Easy with This 6-App Selection Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/securing-your-anonymity-during-instagrams-live-feature/"><u>Securing Your Anonymity During Instagram's Live Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-portable-solar-power-banks-your-comprehensive-guide-techradar/"><u>Top-Rated Portable Solar Power Banks : Your Comprehensive Guide - TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-campers-checklist-top-tier-equipment-and-techniques-to-transform-your-wilderness-excursion-wisdom-by-zdnet/"><u>Ultimate Camper's Checklist: Top-Tier Equipment & Techniques to Transform Your Wilderness Excursion - Wisdom by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-picks-for-portable-power-solutions-in-202e-thorough-assessments-and-insights-cnet/"><u>Ultimate Picks for Portable Power Solutions in 202E: Thorough Assessments and Insights | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-exceptional-security-features-at-a-steal-explore-the-arlo-pro-5se-sale-on-zdnet/"><u>Unlock Exceptional Security Features at a Steal: Explore the Arlo Pro 5SE Sale on ZDNET!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-cross-generation-gaming-playing-ps4-titles-on-ps5-explained/"><u>Unlocking Cross-Generation Gaming: Playing PS4 Titles on PS5 Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reviews-ecoflow-river-3-exceptional-performance-for-entry-level-portable-batteries/"><u>ZDNet Reviews EcoFlow River 3: Exceptional Performance for Entry-Level Portable Batteries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-the-best-grilling-accessories/"><u>ZDNET's Ultimate Guide to the Best Grilling Accessories !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-selection-leading-lawn-riding-machines-for-a-lush-green-in-2t24/"><u>ZDNet's Ultimate Selection: Leading Lawn Riding Machines for a Lush Green in 2T24</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How Amazon's AWS Reinforced Its Market Position Through Strategies Unveiled at Re:Invent 2021 | ZDNET Analysis"
-date: 2024-09-18 11:49:36
-updated: 2024-09-20 12:53:26
+date: 2025-01-08T16:43:53.552Z
+updated: 2025-01-12T17:55:08.568Z
 tags:
   - amazon
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,28 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-optimum-handheld-gear-with-smooth-motion-control/"><u>[New] Optimum Handheld Gear with Smooth Motion Control</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>2024 Approved Transform Voice with Cloud Services Top 5 Online Chromebook Audio Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-smartwatch-samsung-galaxy-vs-apple-watch-ultra-a-comprehensive-comparison-techradar/"><u>Choosing the Right Smartwatch: Samsung Galaxy vs Apple Watch Ultra - A Comprehensive Comparison | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-iphone-15-pro-and-iphone-14-pro-assessing-features-and-enhancements-in-apples-new-release-tech-analysis/"><u>Comparing iPhone 15 Pro and iPhone 14 Pro: Assessing Features & Enhancements in Apple's New Release | Tech Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-pros-and-cons-of-apple-watch-series-10-vs-series-8-should-you-upgrade/"><u>Comparing the Pros and Cons of Apple Watch Series 10 vs Series 8 - Should You Upgrade?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-verifying-health-data-using-chatgpt-and-artificial-intelligence/"><u>Effective Strategies for Verifying Health Data Using ChatGPT & Artificial Intelligence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-find-out-if-an-airtag-is-tracking-you/"><u>How to Find Out if an AirTag Is Tracking You .</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-image-editing-ditching-backgrounds-in-affinity-photo/"><u>In 2024, Streamline Image Editing Ditching Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-potential-enhancing-your-tiktok-videos/"><u>In 2024, Unleashing Potential Enhancing Your TikTok Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-battle-reveals-unexpected-victor-full-breakdown/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Battle Reveals Unexpected Victor - Full Breakdown</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-high-temperature-resistant-plastics-like-ptfe-or-cross-linked-polyethylene-pex-would-be-appropriate-for-this-application/"><u>Solution: High-Temperature Resistant Plastics Like PTFE or Cross-Linked Polyethylene (PEX) Would Be Appropriate for This Application.</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-deleting-directories-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Deleting Directories in Windows - Tips From YL Computing</u></a></li>
+</ul></div>
+

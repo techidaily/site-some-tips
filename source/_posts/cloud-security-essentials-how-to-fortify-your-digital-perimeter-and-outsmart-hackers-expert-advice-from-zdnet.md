@@ -1,7 +1,7 @@
 ---
 title: "Cloud Security Essentials: How to Fortify Your Digital Perimeter and Outsmart Hackers | Expert Advice From ZDNET"
-date: 2024-09-18 11:14:33
-updated: 2024-09-20 11:50:28
+date: 2025-01-06T19:44:18.812Z
+updated: 2025-01-12T18:40:12.696Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,29 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-power-of-images-in-instagram-movies-for-2024/"><u>[New] Unveiling the Power of Images in Instagram Movies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>[Updated] In 2024, Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/alternative-high-quality-gaming-video-recording-solutions-for-2024/"><u>Alternative High-Quality Gaming Video Recording Solutions for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bypassing-and-correcting-driver-issues-for-the-corsair-h115i-across-different-windows-os/"><u>Bypassing and Correcting Driver Issues for the Corsair H115i Across Different Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-get-the-meta-quest-3-for-just-70-less-during-exclusive-prime-day-proven-strategies-inside/"><u>Don't Miss Out: Get the Meta Quest 3 for Just $70 Less During Exclusive Prime Day - Proven Strategies Inside!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/exploring-hidden-camera-footage-unveiling-secrets-of-the-iphone-5c-and-upcoming-low-cost-apple-phones/"><u>Exploring Hidden Camera Footage: Unveiling Secrets of the iPhone 5C and Upcoming Low-Cost Apple Phones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nubia-z50-ultra-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nubia Z50 Ultra Phone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-install-new-drivers-on-your-razer-blackwidow-controller/"><u>How to Successfully Install New Drivers on Your Razer BlackWidow Controller</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/listen-and-direct-voice-control-without-payment/"><u>Listen and Direct Voice Control Without Payment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-meta-quest-experience-streamlined-instructions-for-enjoying-apple-spatial-videos-virtualvision-insights/"><u>Master the Meta Quest Experience: Streamlined Instructions for Enjoying Apple Spatial Videos | VirtualVision Insights</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-meet-the-brilliant-minds-behind-the-best-lego-stop-motion-videos-for-2024/"><u>New Meet the Brilliant Minds Behind the Best Lego Stop Motion Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-the-loss-of-meta-quest-headset-feature-smart-solutions-unveiled-by-zdnet/"><u>Overcoming the Loss of Meta Quest Headset Feature - Smart Solutions Unveiled by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-entertainment-setup-with-affordable-400-xr-glasses-offering-an-astounding-200-inch-virtual-screen-for-games-and-films-zdnet/"><u>Revolutionize Your Entertainment Setup with Affordable $400 XR Glasses, Offering an Astounding 200-Inch Virtual Screen for Games and Films | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simple-steps-to-enjoy-apples-ar-experience-with-spatial-videos-on-meta-quest-3-learn-how/"><u>Simple Steps to Enjoy Apple's AR Experience with Spatial Videos on Meta Quest 3 - Learn How!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-apple-vision-pros-unique-199-journey-companion-a-strangely-comfortable-fitzdnet/"><u>Unboxing Apple Vision Pro's Unique $199 Journey Companion – A Strangely Comfortable Fit![ZDNET]</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Unforgettable Moment When Amazon's Thoughtful Gesture Won Me Over, as Shared on ZDNet
-date: 2024-09-18 23:51:29
-updated: 2024-09-20 11:58:44
+date: 2025-01-07T20:26:24.726Z
+updated: 2025-01-12T19:45:45.113Z
 tags:
   - amazon
 categories:
@@ -26,6 +26,10 @@ Yes, I got grouchy. What are you going to do about it?
 At times like these, I sit and read, sit, and watch sports, or sit on [my stationary bike](https://www.zdnet.com/article/the-bike-that-got-me-through-the-pandemic-its-2000-less-than-a-peloton/), read, and watch sports.
 
 Once a day, I ventured to the mailbox, just to see which nefariously-minded financial planner, mortgage broker, or realtor was trying to hawk their soiled wares.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### more Technically Incorrect
 
@@ -91,11 +95,25 @@ If only all companies could treat their employees as if they understood that.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-efficient-transitions-streamlining-zoom-video-conversion/"><u>[New] In 2024, Efficient Transitions Streamlining Zoom Video Conversion</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-safely-procure-pure-photography-collections/"><u>[Updated] How to Safely Procure Pure Photography Collections</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capturing-your-desktop-in-winoses-effortlessly/"><u>[Updated] In 2024, Capturing Your Desktop in WinOSes Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-step-by-step-guide-to-advanced-improvements-for-msi-installers-using-the-wix-technology-suite/"><u>A Step-by-Step Guide to Advanced Improvements for MSI Installers Using the WiX Technology Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-advises-alternative-methods-over-rice-for-a-drenched-iphone-discover-the-best-fix-now/"><u>Apple Advises Alternative Methods Over Rice for a Drenched iPhone - Discover the Best Fix Now!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/clipbox-vs-clipbox-plus-web/"><u>Clipbox vs Clipbox Plus: 機能の相違点と使い分け - ダウンロード可能なWEB動画サービス</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-all-compatible-apple-watches-with-watchos-11-update-and-exclusions-explained/"><u>Comprehensive Guide: All Compatible Apple Watches with WatchOS 11 Update & Exclusions Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-upcoming-innovations-apples-latest-advanc-cuements-for-iphone-ipad-mac-and-beyond-with-artificial-intelligence-enhancements-this-autumn-techwor51/"><u>Discover the Upcoming Innovations: Apple's Latest Advanc Cuements for iPhone, iPad, Mac, and Beyond with Artificial Intelligence Enhancements This Autumn | TechWorld</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-find-anything-you-want-to-know-about-instagram-video-limit/"><u>In 2024, Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revealed-the-hidden-way-to-claim-a-free-macbook-air-m3-from-best-buy-discover-how-now/"><u>Revealed: The Hidden Way to Claim a Free MacBook Air M3 From Best Buy - Discover How Now!</u></a></li>
+</ul></div>
+

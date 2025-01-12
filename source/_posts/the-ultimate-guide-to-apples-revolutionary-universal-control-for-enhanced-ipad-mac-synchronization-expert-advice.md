@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Apple's Revolutionary Universal Control for Enhanced iPad-Mac Synchronization | Expert Advice
-date: 2025-01-04T23:41:52.735Z
-updated: 2025-01-05T18:07:50.445Z
+date: 2025-01-05T17:52:31.617Z
+updated: 2025-01-12T18:02:21.049Z
 tags:
   - apple
 categories:
@@ -102,10 +102,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -119,7 +115,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -131,6 +127,10 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -138,6 +138,10 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -148,7 +152,7 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
@@ -158,10 +162,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -178,7 +178,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -239,24 +239,16 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-igtv-creation-and-monetization-the-ultimate-cheat-sheet/"><u>[Updated] 2024 Approved Mastering IGTV Creation & Monetization The Ultimate Cheat Sheet</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-masterclass-creating-alluring-vlogging-storylines/"><u>2024 Approved Masterclass Creating Alluring Vlogging Storylines</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/call-of-duty-black-ops-cold-war-pc-crashes-resolved/"><u>Call of Duty: Black Ops Cold War PC Crashes Resolved</u></a></li>
-<li><a href="https://some-tips.techidaily.com/devops-engineer-unveiling-the-pros-cons-and-challenges-insightful-guide-for-aspiring-professionals/"><u>DevOps Engineer: Unveiling the Pros, Cons, and Challenges - Insightful Guide for Aspiring Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-artificial-intelligence-with-red-hat-unveiling-openshift-lightspeed-for-enhanced-kubernetes-management-zdnet/"><u>Explore Artificial Intelligence with Red Hat: Unveiling OpenShift Lightspeed for Enhanced Kubernetes Management | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-chatgpts-memory-abilities-insightful-yet-bound-by-constraints-a-deep-dive-on-zdnet/"><u>Exploring ChatGPT's Memory Abilities: Insightful Yet Bound by Constraints - A Deep Dive on ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-xiaomi-13t-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Xiaomi 13T Pro.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-tough-markets-with-tech-savvy-the-continued-demand-for-open-source-and-linux-professionals-according-to-zdnet/"><u>Navigating Tough Markets with Tech Savvy: The Continued Demand for Open Source and Linux Professionals, According to ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-transition-utilizing-gpt-4-within-todays-chatgpt-setup/"><u>Seamless Transition: Utilizing GPT-4 Within Today's ChatGPT Setup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secure-your-containers-forever-the-game-changing-impact-of-rust-and-edera-on-container-security-zdnet/"><u>Secure Your Containers Forever: The Game-Changing Impact of Rust and Edera on Container Security | ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/settle-down-with-our-best-10-chill-titles-for-2024/"><u>Settle Down with Our Best 10 Chill Titles for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/six-agile-strategies-key-to-successful-software-development-insights-from-zdnet/"><u>Six Agile Strategies Key to Successful Software Development - Insights From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successful-resolution-how-to-restart-a-non-responsive-igfxem-unit/"><u>Successful Resolution: How to Restart a Non-Responsive IgfxEM Unit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncovering-the-extent-of-political-deepfakes-insights-from-a-leading-ai-specialist-featuring-zdnet-report/"><u>Uncovering the Extent of Political Deepfakes: Insights From a Leading AI Specialist - Featuring ZDNet Report</u></a></li>
-<li><a href="https://win-great.techidaily.com/unique-galaxy-cat-desktop-wallpapers-high-quality-backgrounds-images-and-more-by-yl-software/"><u>Unique Galaxy Cat Desktop Wallpapers: High-Quality Backgrounds, Images & More by YL Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-synergy-between-ai-advancements-and-enterprise-growth-with-visionary-tech-pioneers-zdnet/"><u>Unlocking Synergy Between AI Advancements and Enterprise Growth with Visionary Tech Pioneers | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-gaming-perk-wins-xbox-vs-playstation-premium-plans/"><u>Which Gaming Perk Wins? Xbox Vs. PlayStation Premium Plans</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-explores-ai-and-emerging-technologies-understanding-the-implications-of-gartners-2/"><u>ZDNET Explores AI & Emerging Technologies: Understanding the Implications of Gartner's 2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-efficiently-download-igtv-on-windows-and-macos/"><u>[Updated] Expert Tips Efficiently Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-6-social-sites-for-corporate-relationships/"><u>[Updated] Foremost 6 Social Sites for Corporate Relationships</u></a></li>
+<li><a href="https://fox-place.techidaily.com/a-step-by-step-tutorial-for-adding-new-languages-to-a-windows-nx-system-by-yl-software/"><u>A Step-by-Step Tutorial for Adding New Languages to a Windows nX System by YL Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-with-loved-ones-using-your-apple-watch-a-step-by-step-guide/"><u>Connecting With Loved Ones Using Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-macbook-with-new-macos-15-top-features-and-free-update-insights/"><u>Enhance Your Apple MacBook with New MacOS 15: Top Features and Free Update Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>In 2024, The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-screenshot-guide-mastering-the-art-of-screen-recording/"><u>IPhone Screenshot Guide: Mastering the Art of Screen Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premium-top-11-list-best-audio-tech-showcase/"><u>Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protect-your-memories-effortless-iphone-and-mac-backup-strategies-using-icloud-insights-by-zdnet/"><u>Protect Your Memories: Effortless iPhone & Mac Backup Strategies Using iCloud, Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-affordable-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Affordable Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

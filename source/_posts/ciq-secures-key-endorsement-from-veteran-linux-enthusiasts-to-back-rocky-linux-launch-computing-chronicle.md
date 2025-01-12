@@ -1,7 +1,7 @@
 ---
 title: CIQ Secures Key Endorsement From Veteran Linux Enthusiasts to Back Rocky Linux Launch | Computing Chronicle
-date: 2024-09-18 14:26:16
-updated: 2024-09-20 12:51:47
+date: 2025-01-10T17:19:52.703Z
+updated: 2025-01-12T20:59:26.392Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,29 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-screen-times-best-and-worst-app-reviews/"><u>[New] 2024 Approved Screen Time's Best and Worst App Reviews</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>[New] 2024 Approved Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-enhancing-instagram-visibility-with-powerful-promotions/"><u>[Updated] In 2024, Enhancing Instagram Visibility with Powerful Promotions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-review-of-the-sonos-era-300-the-ultimate-smart-speaker-minus-a-notable-shortcoming-gadgetsphere/"><u>Comprehensive Review of the Sonos Era 300: The Ultimate Smart Speaker, Minus a Notable Shortcoming | GadgetSphere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-this-enchanting-led-projection-transforms-your-living-space-the-must-have-gadget-you-never-knew-about/"><u>Discover How This Enchanting LED Projection Transforms Your Living Space: The Must-Have Gadget You Never Knew About</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-smart-home-devices-showcased-at-ces-2024-as-reviews-by-zdnet-illuminate-new-trends-in-technology/"><u>Discover the Ultimate Smart Home Devices Showcased at CES 2024, as Reviews by ZDNet Illuminate New Trends in Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-brother-hl-2240-drivers-for-pcs-running-windows/"><u>Download the Latest Version of Brother HL-2240 Drivers for PCs Running Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c02-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C02 Device SIM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-your-cinema-atmosphere-the-curved-soundbar-that-revolutionized-audio-for-modern-films-zdnet/"><u>Elevating Your Cinema Atmosphere: The Curved Soundbar That Revolutionized Audio for Modern Films | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-picks-for-ultimate-smart-home-solutions-of-year-thorough-reviews-and-ratings-zdnet/"><u>Experts' Picks for Ultimate Smart Home Solutions of [Year] - Thorough Reviews and Ratings | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-home-automation-innovations-of-2024-expert-analysis-and-verdicts-zdnet/"><u>Leading Home Automation Innovations of 2024: Expert Analysis and Verdicts | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-off-screen-windows-6-steps-for-win11/"><u>Resurrecting Off-Screen Windows: 6 Steps for Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-backyard-bashes-with-these-6-must-have-tech-tools-according-to-zdnet/"><u>Revolutionize Your Backyard Bashes with These 6 Must-Have Tech Tools, According to ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-lg-c9-oled-65-4k-television-analysis-a-dream-come-true-for-avid-viewers/"><u>Ultimate LG C9 OLED 65 4K Television Analysis - A Dream Come True for Avid Viewers</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g14-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G14 | Dr.fone</u></a></li>
+</ul></div>
+

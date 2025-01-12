@@ -1,7 +1,7 @@
 ---
 title: Next-Gen AI Integration Boosts Google Cloud's Developer Resources & Analytical Power, According to ZDNet
-date: 2024-09-19 22:33:37
-updated: 2024-09-20 11:51:16
+date: 2025-01-05T19:24:22.335Z
+updated: 2025-01-12T19:46:08.983Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for cloud development 
 
 In May, Google showed how Duet AI can be used for code and chat-level assistance. Since that time, "trusted developers" (their term) have been testing out the capability and providing feedback to Google's engineers. According to Google, Duet AI is intended to provide developer support across the entire development lifecycle, providing help for coding, source citation, test coverage, designing and publishing APIs, migrating and modernizing applications, and more. 
@@ -59,6 +63,10 @@ Calder says: "We have started to work with select enterprises to allow Duet Al t
 
 Another compelling feature is that Duet AI can help developers publish APIs using natural language prompts. Once again, when it works, this has the potential to be a huge time-saver. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for databases and data analytics in the cloud 
 
 Google has a laundry list of massive services for data and database management. At Google Next '23, the company indicated it's integrating Duet AI into most of them. 
@@ -75,6 +83,10 @@ Google has announced that Duet AI now supports Cloud Spanner. Duet AI can write 
 **Also: [The other shoe finally dropped on my Google Enterprise cloud storage plan](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/)**
 
 The company says Duet AI will also be available for Alloy DB and Cloud SQL, with no delivery date specified yet. Google is offering a Duet AI service to migrate Oracle to AlloyDB and Oracle to Cloud SQL-for-PostgreSQL later this year. If that last sentence lights your fire, then you're a target customer for this new AI service. Expect other legacy systems to benefit from these sort of migrations in the future. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Shifting down instead of shifting left 
 
@@ -98,6 +110,10 @@ Google has announced a number of "shifting down" efforts:
 * **Duet AI for code completion and chat:** We talked about this effort above, and it's intended to offload the work from developers to the AI.
 * **Shifting down interoperability:** Google has announced the general availability of Application Integration, a no-code integration platform-as-a-service offering, that contains a drag-and-drop interface for connecting services together. Think of it as a Zapier for enterprise-level cloud projects. Google also announced that Duet AI will help here, as well.
 * **Cloud workstations:** Although this capability has been around for a while, Google is highlighting that the use of its virtual desktop service can "shift the burden of provisioning, scaling, managing and securing developer environments down to the platform."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  David's hot take 
 
@@ -127,11 +143,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-the-verdict-on-screen-recording-does-obs-surpass-fraps-in-2024/"><u>[New] The Verdict on Screen Recording Does OBS Surpass Fraps, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-perfecting-slow-motion-capture-with-phantom-lens/"><u>[Updated] In 2024, Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>2024 Approved The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-analysis-of-shure-sm7-dynamic-cardioid-mic-timeless-legend-revisited/"><u>Comprehensive Analysis of Shure SM7 Dynamic Cardioid Mic: Timeless Legend Revisited</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed-for-2024/"><u>Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-fidelity-android-3d-player/"><u>In 2024, High-Fidelity Android 3D Player</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c67-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C67 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-experts-handbook-for-srt-file-conversions/"><u>In 2024, The Expert's Handbook for SRT File Conversions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154581-9781608680788-ordinary-sacred/"><u>Ordinary Sacred | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-smart-home-innovations-for-2aturbid/"><u>Top Rated Smart Home Innovations for 2Aturbid</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-outdoor-projection-screens-professional-reviews-and-ratings-techradar/"><u>Top-Rated Outdoor Projection Screens: Professional Reviews & Ratings | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-smart-home-gadgets-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets : Comprehensive Testing & Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-video-doorbell-reviews-and-comparisons-2024-edition-techradar/"><u>Top-Rated Video Doorbell Reviews & Comparisons - 2024 Edition | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-outdoor-projector-insights-from-industry-experts-on-quality-features-and-value/"><u>Ultimate Guide to Choosing the Perfect Outdoor Projector: Insights From Industry Experts on Quality, Features & Value</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-top-portable-solar-charger-picks-for-eco-friendly-traveling-techradar-insights/"><u>Ultimate Guide: Top Portable Solar Charger Picks for Eco-Friendly Traveling - TechRadar Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-top-tips-and-tricks-for-throwing-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Ultimate Guide: Top Tips & Tricks for Throwing an Unforgettable Labor Day Bash - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unanticipated-delight-how-ring-spotlight-cam-pro-exceeded-expectations-according-to-zdnet/"><u>Unanticipated Delight: How Ring Spotlight Cam Pro Exceeded Expectations, According to ZDNet</u></a></li>
+</ul></div>
+

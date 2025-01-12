@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Steps to Set Up Your Own Cloud Service at Home Within One Hour - Insights From ZDNet
-date: 2024-09-19 23:27:47
-updated: 2024-09-20 12:56:23
+date: 2025-01-05T16:30:52.730Z
+updated: 2025-01-12T17:58:48.242Z
 tags:
   - cloud
 categories:
@@ -47,21 +47,37 @@ In this series on making use of Linux at home, I now want to show you how to ins
 
 It should come as no surprise given the title of this piece that there's a very easy way to install this cloud platform -- and I'm going to show you how it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install a cloud service at home: It's easy
 
 **What you'll need:** As mentioned above, you'll need an instance of Ubuntu Server up and running on your home network to successfully install Nextcloud. Fear not, as I've already explained [how you can install this system in under 30 minutes](https://www.zdnet.com/article/how-to-install-ubuntu-server-in-less-than-30-minutes/). With that server running, you'll need a user with sudo privileges (which you create during the operating system installation).
 
 That's it. Let's do this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Log in to Ubuntu Server
 
 The first thing is to log in to your Ubuntu Server instance, which will land you at the terminal window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install Nextcloud with snap
 
 To install Nextcloud, issue the command:
 
 sudo snap install nextcloud
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Find the IP address of your server
 
@@ -76,6 +92,10 @@ ip a
 ## 4\. Access the web installer
 
 Open a web browser and point it to http://SERVER (where SERVER is the IP address of your Ubuntu server).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Create an admin user
 
@@ -145,11 +165,27 @@ Even with the installation of Ubuntu Server, you should be able to complete this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>[New] 2024 Approved The Reddit Post Playbook A Methodical Approach to Engagement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-h501x4-fpv-quadcopter-unveiled-review-breakdown-for-2024/"><u>[New] H501X4 FPV Quadcopter Unveiled - Review Breakdown for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-video-structure-chapter-integration-guide-for-2024/"><u>[New] Vimeo Video Structure Chapter Integration Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>[Updated] 2024 Approved The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-list-of-sandbox-treasures/"><u>[Updated] In 2024, The Ultimate List of Sandbox Treasures</u></a></li>
+<li><a href="https://facebook.techidaily.com/big-brother-business-profit-from-peering/"><u>Big Brother Business: Profit From Peering</u></a></li>
+<li><a href="https://article-tips.techidaily.com/expert-strategies-for-live-over-the-net-broadcast-in-vlc/"><u>Expert Strategies for Live Over-the-Net Broadcast in VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-skyboxes-to-studio-walls-top-9-drone-software-showdowns-for-2024/"><u>From Skyboxes to Studio Walls Top 9 Drone Software Showdowns for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-deal-discover-how-the-arlo-pro-5s-nearly-achieves-your-ideal-security-setup-now-at-a-steep-discount-exclusive-insights-from-zdnet/"><u>Unbeatable Deal: Discover How the Arlo Pro 5S Nearly Achieves Your Ideal Security Setup (Now at a Steep Discount) – Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/year-round-brilliance-zephyrs-budget-friendly-and-robust-smart-string-lighting-solutions-beat-the-competition/"><u>Year-Round Brilliance: Zephyr's Budget-Friendly and Robust Smart String Lighting Solutions Beat the Competition!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-essential-guide-to-the-april-2024-lunar-shadow-dance-tips-for-safe-viewing-and-required-gear-explained-insights-by-zdnet/"><u>Your Essential Guide to the April 2024 Lunar Shadow Dance: Tips for Safe Viewing & Required Gear Explained - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-review-how-the-ecoflow-river-3-became-my-favorite-entry-level-highly-reliable-portable-charger/"><u>ZDNet Review: How the EcoFlow River 3 Became My Favorite Entry-Level, Highly Reliable Portable Charger!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-newest-find-get-an-electric-bike-plus-a-bonus-portable-grill/"><u>ZDNet's Newest Find: Get an Electric Bike Plus a Bonus Portable Grill</u></a></li>
+</ul></div>
+

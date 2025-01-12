@@ -1,7 +1,7 @@
 ---
 title: "Protecting Against Prime Day Scams: My Encounter with Fraudulent Charges on Amazon and How You Can Stay Safe | ZDNET Insights"
-date: 2024-09-17 18:53:37
-updated: 2024-09-20 11:10:49
+date: 2025-01-05T19:03:51.563Z
+updated: 2025-01-12T18:23:54.827Z
 tags:
   - amazon
 categories:
@@ -29,6 +29,10 @@ Steve Bradford, Senior Vice President EMEA at identity security firm SailPoint, 
 
 It's true. My wife and I were among those targeted. In our case, it wasn't a phishing attack. The bad guys had already harvested some of our personal information. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sitrep (situation report) 
 
 On Monday, July 18, during a routine review of our bank accounts, we noticed a $193.77 charge from Amazon. This was anomalous because we never used that account to make purchases from Amazon. 
@@ -43,6 +47,10 @@ We spoke to a very helpful representative who clarified that the charge was, ind
 
 At this point, we had eliminated the risk of further fraudulent transactions and financial harm to us. But that wasn't the whole story. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The rest of the story 
 
 We had a long conversation with the bank's fraud rep, and in doing so, he determined that the charge originated from Amazon itself. This wasn't a case of a fraudster faking Amazon's identity to charge our card for cash. Instead, the crooks used our debit card to actually buy something from Amazon. 
@@ -56,6 +64,10 @@ If we weren't the only victim of this crook's activity, I'm betting they got awa
 ##  How we stayed safe 
 
 Our system works. Many years ago, we instituted what we call "banks and bills." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -78,6 +90,10 @@ That's how I recommend you keep your business and family safe as well. Do a bank
 
 If you have an issue with Amazon, you can also visit the company's [Report Something Suspicious page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3FnodeId%3DGRGRY7AQ3LMPXVCV%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6ee7670b-912d-455d-ae88-ff4981e51bfd%7Cdtp&dtb=1). They have a wealth of resources and tools for reporting fraudulent activity there. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More fraud prevention techniques 
 
 Beyond the banks and bills meeting, this is a good time to practice your financial situational awareness. Adrianus Warmenhoven, the cybersecurity expert over at [NordVPN](https://nordvpn.com), has shared some Amazon-related scams he recommends you watch out for. 
@@ -95,6 +111,10 @@ Beware of text messages or emails giving an order number and a link to track a p
 Always check through your Amazon account to see if the stated order number on the original message is genuine. That said, even if it is, don't engage with a text or email. Go to Amazon.com to confirm the package information. You might even get unsolicited packages. These are called ["brushing" scams](https://www.uspis.gov/news/scam-article/brushing-scam) and are used to inflate review scores on the e-commerce site. Follow Amazon's advice [here](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3FnodeId%3DG33XVXQPUV79Z2ZC%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6ee7670b-912d-455d-ae88-ff4981e51bfd%7Cdtp&dtb=1) if something like that arrives. 
 
 Adrianus' final advice is that things that look too good to be true often are. Amazon has not run a prize drawing for several years, so if you get a notice that says you've won such a prize from Amazon, it's undoubtedly a scam. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The bottom line 
 
@@ -131,11 +151,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-best-webcam-technology-boosting-audio-fidelity/"><u>2024 Approved Best Webcam Technology Boosting Audio Fidelity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-narrative-scripts-dialogue-excellence/"><u>2024 Approved Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-streaming-soundscapes-on-your-iphone/"><u>2024 Approved Streaming Soundscapes on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-step-by-step-guide-to-syncing-your-digital-life-controlling-your-ipad-with-a-single-click-on-your-mac-via-universal-control/"><u>A Step-by-Step Guide to Syncing Your Digital Life: Controlling Your iPad with a Single Click on Your Mac via Universal Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-embraces-ai-with-siri-taking-over-from-bing-in-the-spotlight-will-change-spark-innovation-zdnet/"><u>Apple Embraces AI with Siri Taking Over From Bing in the Spotlight – Will Change Spark Innovation? | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-tecno-spark-go-2023-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-deal-alert-apple-drops-airpods-price-by-40-for-independence-day-shop-now-on-zdnet/"><u>Exclusive Deal Alert: Apple Drops AirPods Price by 40% for Independence Day - Shop Now on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-yourself-from-apple-musics-embrace-without-itunes-expert-advice-by-zdnet-professionals/"><u>Free Yourself From Apple Music's Embrace Without iTunes: Expert Advice by ZDNet Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-quality-gear-at-discounted-rates-nomad-ready-phones-chargers-and-watch-bands-now-20-off/"><u>Get Quality Gear at Discounted Rates: Nomad-Ready Phones, Chargers, and Watch Bands - Now 20% Off</u></a></li>
+<li><a href="https://fox-search.techidaily.com/guia-paso-a-paso-para-rescatar-tu-diario-de-chats-en-wechat-como-recuperar-mensajes-viejos-o-borrados/"><u>Guía Paso a Paso Para Rescatar Tu Diario De Chats en WeChat: Cómo Recuperar Mensajes Viejos O Borrados</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-can-apple-revitalize-tophat-vision-pro-expert-tips-from-zdnets-analysis/"><u>How Can Apple Revitalize Tophat Vision Pro? Expert Tips From ZDNet's Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c12-plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia C12 Plus Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-multiple-connection-points-on-macos-a-guide-to-setting-up-various-network-spots/"><u>Mastering Multiple Connection Points on macOS: A Guide to Setting Up Various Network Spots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-transfer-images-from-google-photos-to-icloud-a-step-by-step-guide/"><u>Seamlessly Transfer Images From Google Photos to iCloud: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-smart-score-big-savings-on-apples-airtags-in-a-4-pack-for-24-less-this-labor-day-find-out-more-on-zdnet/"><u>Shop Smart: Score Big Savings on Apple's AirTags in a 4-Pack for $24 Less This Labor Day - Find Out More on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptops-comprehensive-reviews-by-tech-gurus/"><u>Top Rated 15-Inch Laptops : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y36i-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y36i Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

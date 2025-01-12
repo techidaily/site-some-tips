@@ -1,7 +1,7 @@
 ---
 title: Navigating with Ease on Google Drive's Refreshed 'Home' Page - Insights From ZDNet
-date: 2024-09-19 18:32:19
-updated: 2024-09-20 11:33:30
+date: 2025-01-09T16:55:50.175Z
+updated: 2025-01-12T17:36:19.314Z
 tags:
   - cloud
 categories:
@@ -43,9 +43,17 @@ Maybe in time.
 
 Until then, let me show you around the new Home option in Google Drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Google Drive Home
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser with which to view Drive. Let's go home, shall we?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Google Drive
 
@@ -55,6 +63,10 @@ The new Google Drive home page makes it easier to find what you need.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Choose what you want to see
 
 Say, for instance, you only want to view your folders. For that, click Folders and what you should see are the folders you access the most. This is a great option because my Drive account is packed with folders I haven't used in a long time but need to keep around (either for reference or "just in case"). For instance, by default, I see 76 folders in the root folder of my Drive account. If I go to Home and click Folders, I see only 10\. I can also click Show More Folders and Home will then allow me to modify what I see (such as by modification, people, or location).
@@ -63,6 +75,10 @@ After clicking Folders, I have quick access to my most-used folders.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The To do option
 
 One interesting option in Home is To do. This option is only revealed if you click Folders > Show More Folders. Click the To do drop-down and you can then select from Pending my approval, Requested by me, Suggestions, Comments assigned to me, and Review and accept. Interestingly enough, although the To do drop-down only appears in folders, when you select an option, it applies to both folders _and_ files. This is a great way to see all files that include changes awaiting your attention.
@@ -70,6 +86,10 @@ One interesting option in Home is To do. This option is only revealed if you cli
 The To-do drop-down gives you quick access to files and folders that need your attention.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opt out of Home
 
@@ -104,11 +124,31 @@ When I first saw the new Home default, I was certain I'd be opting out of it and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-7-ideal-monitors-for-digital-artists/"><u>[New] 7 Ideal Monitors for Digital Artists</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-infusing-instant-storytelling-with-musical-essence/"><u>[Updated] In 2024, Infusing Instant Storytelling With Musical Essence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[Updated] Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-remote-and-in-office-work-advantages-evident-yet-challenges-loom-on-horizon/"><u>Comparing Remote and In-Office Work: Advantages Evident Yet Challenges Loom on Horizon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-professional-path-top-5-strategies-for-a-career-advancement-with-insights-from-zdnet/"><u>Elevate Your Professional Path: Top 5 Strategies for a Career Advancement with Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v27-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V27 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-art-of-public-addressing-expert-techniques-for-captivating-audiences/"><u>Master the Art of Public Addressing: Expert Techniques for Captivating Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-interview-qanda-a-step-by-step-guide-to-tackling-common-inquiry-sections/"><u>Mastering Interview Q&A: A Step-by-Step Guide to Tackling Common Inquiry Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-professional-zoom-presentations-top-8-expert-techniques/"><u>Mastering the Art of Professional Zoom Presentations: Top 8 Expert Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-loneliness-at-work-insightful-book-review-on-isolation-fixes-for-hybrid-professionals-from-zdnet/"><u>Overcoming Loneliness at Work: Insightful Book Review on 'Isolation Fixes for Hybrid Professionals' From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-next-round-proven-strategies-for-excelling-in-phone-screenings-and-advancing-to-in-person-assessments-insights-from-zdnet/"><u>Securing Your Next Round: Proven Strategies for Excelling in Phone Screenings and Advancing to In-Person Assessments - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-obs-mic-issues-top-6-remedies-available/"><u>Solve Your OBS Mic Issues: Top 6 Remedies Available</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-turmoil-of-tech-talent-acquisition-and-its-role-in-burnout-epidemic-among-coders-zdnet-analysis/"><u>Unpacking the Turmoil of Tech Talent Acquisition and Its Role in Burnout Epidemic Among Coders | ZDNet Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-amazon-luna-a-deep-dive-into-its-effortlessly-fluid-gameplay/"><u>Unveiling the Potential of Amazon Luna: A Deep Dive Into Its Effortlessly Fluid Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-discord-not-working-for-me-tackling-the-voice-chat-glitches/"><u>Why Is Discord Not Working for Me? Tackling the Voice Chat Glitches</u></a></li>
+</ul></div>
+

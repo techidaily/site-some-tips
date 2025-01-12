@@ -1,7 +1,7 @@
 ---
 title: Expanding Your Social Media Presence with Several Twitter Profiles - Tips by ZDNet
-date: 2024-09-18 15:31:15
-updated: 2024-09-20 10:26:58
+date: 2025-01-05T16:00:46.284Z
+updated: 2025-01-12T18:05:41.346Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/48ad0eea0bd314613a096ec100ed2667b4
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,27 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-language-of-asmr-videos/"><u>[New] In 2024, Decoding the Language of ASMR Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-crafting-visuals-theory-to-practice-with-colors/"><u>[Updated] 2024 Approved Crafting Visuals Theory to Practice with Colors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-monitoring-frames-per-second-fps-in-csgo-a-comprehensive-guide/"><u>Easily Monitoring Frames Per Second (FPS) in CS:GO - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-above-and-beyond-bosepolk-the-ultimate-speaker-system-showdown-according-to-zdnet/"><u>Going Above and Beyond Bose/Polk - The Ultimate Speaker System Showdown According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/homepod-or-homepod-mini-an-in-depth-guide-to-determine-which-apple-echo-device-suits-your-needs/"><u>HomePod or HomePod Mini: An In-Depth Guide to Determine Which Apple Echo Device Suits Your Needs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-se-2020-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immediate-purchase-available-at-ces-2023-featured-gadgets-and-innovations-zdnet/"><u>Immediate Purchase Available at CES 2023 - Featured Gadgets and Innovations | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>In 2024, Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-online-collaboration-conjurer/"><u>In 2024, Ultimate Online Collaboration Conjurer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-technique-eliminating-unregistered-class-error-on-windows-with-proven-strategies/"><u>Master the Technique: Eliminating 'Unregistered Class' Error on Windows with Proven Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sonos-era-100-vs-sonos-one-face-off-deciding-on-your-ideal-smart-speaker-buy-cnet/"><u>Sonos Era 100 Vs. Sonos One Face-Off: Deciding on Your Ideal Smart Speaker Buy | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-non-branded-soundbar-outperforms-bose-and-sony-insider-review-from-zdnet/"><u>Top-Rated Non-Branded Soundbar Outperforms Bose and Sony: Insider Review From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-review-reveals-exceptional-sound-experience-with-highly-praised-compact-speaker-across-multiple-genres/"><u>ZDNet's Review Reveals Exceptional Sound Experience with Highly Praised Compact Speaker Across Multiple Genres</u></a></li>
+</ul></div>
+

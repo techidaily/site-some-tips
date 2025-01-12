@@ -1,7 +1,7 @@
 ---
 title: "Elite Gizmos Galore: How I Sought Out the Most Luxurious Electronics on Amazon's Shelves | ZDNET"
-date: 2024-09-18 13:27:28
-updated: 2024-09-20 10:17:48
+date: 2025-01-07T16:43:09.155Z
+updated: 2025-01-12T18:18:24.205Z
 tags:
   - amazon
 categories:
@@ -27,6 +27,10 @@ They have the right to spend their money whichever way they choose, and online s
 
 I wanted to assist them too. So I tried to put myself into the minds of these more exalted types, in order to discover what happens when you ask Amazon to show you not the stuff that's good value, but the stuff that's pricey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Oh, dear  
 
 So I entered "expensive gadgets" into Amazon's little search box and pretended money was no object. When it comes to objects of technological desire, that is.
@@ -44,6 +48,10 @@ I was instantly uplifted, of course. Who doesn't dream of a vacuum cleaner with 
 Then I focused. This wasn't Amazon's actual suggestion. This was a sponsored ad "based on the product's relevance to your search query."
 
 To which I query Amazon's ability to create an advertising algorithm that has anything to do with, say, the real world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pricey, but on sale  
 
@@ -72,6 +80,10 @@ It offered the "[Hiboy KS4/KS4 Pro Electric Scooter](https://buy.geni.us/Proxy.a
 Next to it was the "[Hikmicro B1L 160 x 120 IR Resolution Thermal Imaging Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHIKMICRO-Resolution-Handheld-Infrared-Temperature%2Fdp%2FB08Z7HSBZ6%2Fref%3Dsr%5F1%5F11%3Fcrid%3D100IIDT6GJ7UP%26keywords%3Dexpensive%2Bgadgets%26qid%3D1678251194%26sprefix%3Dexpensive%2Bgadgets%2Caps%2C151%26sr%3D8-11%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cebd78c11-545f-42e8-83df-48da9623256d%7Cdtp&dtb=1) with WiFi, 25Hz Refresh Rate, 3.2" LCD Screen, Handheld 19200 Pixels Infrared Thermal Imager with High Temperature Alarm." Yet this was $429.
 
 It seemed clear that Amazon's algorithm didn't have a fine grasp of what sort of expensive gadget might tempt me. It also didn't have a fine grasp of the concept of expensive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dear, dear, dear  
 
@@ -122,11 +134,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-squared-up-strategies-boosting-video-popularity-on-the-platform/"><u>[Updated] 2024 Approved Squared Up Strategies Boosting Video Popularity on the Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-wipe-out-facebook-story-desktopmobile-tips/"><u>2024 Approved Wipe Out Facebook Story Desktop/Mobile Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-update-your-shorts-are-visible-again/"><u>2024 Approved YouTube Update - Your Shorts Are Visible Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-offers-rare-bargain-on-apple-vision-pro-at-only-200-hurry-this-deal-wont-last-long-insights/"><u>Amazon Offers Rare Bargain on Apple Vision Pro at Only $200 - Hurry, This Deal Won't Last Long | Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-cutting-edge-technology-behind-the-ring-video-doorbell-pro/"><u>Analyzing the Cutting-Edge Technology Behind the Ring Video Doorbell Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-exclusive-new-functions-available-with-specific-apple-airpods-versions-this-fall-full-coverage/"><u>Discover the Exclusive New Functions Available with Specific Apple AirPods Versions This Fall – Full Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-update-a-comprehensive-guide-to-tailoring-your-iphones-control-center/"><u>IOS 18 Update: A Comprehensive Guide to Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-creation-made-easy-on-mac-top-rated-software-solutions/"><u>New 2024 Approved Video Creation Made Easy on Mac Top-Rated Software Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-the-look-a-guide-to-haul-video-post-production/"><u>Perfecting the Look A Guide to Haul Video Post-Production</u></a></li>
+<li><a href="https://fox-http.techidaily.com/seamless-integration-of-titles-on-videos-using-windows-photos/"><u>Seamless Integration of Titles on Videos Using Windows Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-11-must-have-applications-and-tools-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Tools for Windows/Mac Users - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-ipad-air-protection-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated iPad Air Protection - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartwatch-guide-for-2ebuary-2024-in-depth-reviews-and-expert-rankings/"><u>Ultimate Smartwatch Guide for 2Ebuary 2024: In-Depth Reviews & Expert Rankings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-boundless-creativity-with-freeform-why-this-technique-is-essential-for-your-next-brainstorming-session/"><u>Unlock Boundless Creativity with Freeform - Why This Technique Is Essential for Your Next Brainstorming Session</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-best-video-software-vlc-against-mx-for-2024/"><u>Unveiling Best Video Software VLC Against MX for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-the-best-deal-final-cut-pro-education-discount-inside/"><u>Updated Unlock the Best Deal Final Cut Pro Education Discount Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-to-know-about-apples-budget-friendly-watch-se-revamp-inside-scoop-and-new-features-revealed/"><u>What to Know About Apple's Budget-Friendly Watch SE Revamp - Inside Scoop & New Features Revealed!</u></a></li>
+</ul></div>
+

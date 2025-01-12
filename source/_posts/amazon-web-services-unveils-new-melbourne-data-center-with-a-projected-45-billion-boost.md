@@ -1,7 +1,7 @@
 ---
 title: Amazon Web Services Unveils New Melbourne Data Center with a Projected $4.5 Billion Boost
-date: 2024-09-18 14:45:23
-updated: 2024-09-20 10:21:53
+date: 2025-01-11T18:34:23.809Z
+updated: 2025-01-12T19:33:15.432Z
 tags:
   - cloud
 categories:
@@ -31,6 +31,10 @@ Amazon has 57 renewable energy initiatives across this region, including a groun
 
 AWS last February unveiled plans to [set up 10 local zones in Asia-Pacific](https://www.zdnet.com/article/aws-looks-to-tap-apac-demand-for-edge-access-with-local-zones/), as part of a global rollout to add 22 locations to the fold. It said the move to push cloud capabilities to the edge was in line with growing enterprise demand for ultra-low latency and distributed service delivery. Local zones would span six Asia-Pacific markets, including Auckland, Bangkok, Brisbane, and Bengaluru.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [AWS announces plan to launch AWS Australia for smoother billing and contracting](https://www.zdnet.com/article/aws-announces-plan-to-launch-aws-australia-for-smoother-billing-and-contracting/)
@@ -45,11 +49,29 @@ AWS last February unveiled plans to [set up 10 local zones in Asia-Pacific](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exciting-conversation-starter-ideas-for-2024/"><u>[Updated] Exciting Conversation Starter Ideas for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-fbx-game-recorder-alternatives/"><u>2024 Approved Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-boost-love-odds-expert-tips-for-compelling-tinder-profiles/"><u>2024 Approved Boost Love Odds Expert Tips for Compelling Tinder Profiles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ehensive-directory-of-inexpensive-stock-images-for-2024/"><u>Comprehensive Directory of Inexpensive Stock Images for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-login-information-for-securely-managing-your-d-link-network-july-2024-password-guide/"><u>Essential Login Information for Securely Managing Your D-Link Network: July 2024 Password Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>In 2024, Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/netgear-wi-fi-driver-update-step-by-step-installation-instructions-and-free-downloads/"><u>NETGEAR Wi-Fi Driver Update: Step by Step Installation Instructions and Free Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smart-hydroponics-savings-event-secure-a-87-discount-for-the-way-day-2022-offer/"><u>Smart Hydroponics Savings Event - Secure a $87 Discount for the Way Day 2022 Offer!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-up-to-high-brightness-durability-govees-new-range-of-permanent-outdoor-lighting-solutions-ready-for-installation-this-weekend/"><u>Step Up to High-Brightness Durability: Govee's New Range of Permanent Outdoor Lighting Solutions | Ready for Installation This Weekend</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surpassing-the-competition-how-the-waterproof-blink-mini-2-outshines-wyze-cam-for-enhanced-security-solutions/"><u>Surpassing the Competition: How the Waterproof Blink Mini 2 Outshines Wyze Cam for Enhanced Security Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/survive-power-interruptions-and-slash-your-electric-bills-by-100plus-discover-the-best-rated-portable-solar-generator-from-zdnets-picks/"><u>Survive Power Interruptions and Slash Your Electric Bills by $100+ | Discover the Best Rated Portable Solar Generator From ZDNet's Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-electric-lawnmower-picks-a-comprehensive-guide-by-techradar/"><u>Top 5 Electric Lawnmower Picks : A Comprehensive Guide by TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-ideal-gift-choices-for-grillmasters-perfect-presents-for-fathers-day/"><u>Top 5 Ideal Gift Choices for Grillmasters: Perfect Presents for Father's Day</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-must-see-halloween-animatronic-creations-insights-from-zdnet/"><u>Top 5 Must-See Halloween Animatronic Creations - Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-installation-guide-for-insignia-bluetooth-receiver-drivers-in-windows/"><u>Update & Installation Guide for Insignia Bluetooth Receiver Drivers in Windows</u></a></li>
+</ul></div>
+

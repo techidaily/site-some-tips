@@ -1,7 +1,7 @@
 ---
 title: "Bringing Your iCloud Notebooks to Linux: Easy Methods and Tools for Seamless Integration"
-date: 2024-09-17 22:59:10
-updated: 2024-09-20 12:45:50
+date: 2025-01-09T20:10:04.864Z
+updated: 2025-01-12T21:12:06.627Z
 tags:
   - cloud
 categories:
@@ -56,15 +56,27 @@ So, without further ado, let's get this app installed.
 
 **Also: [The best note-taking apps for iPad: Ditch the pen and paper](https://www.zdnet.com/article/best-note-taking-app-for-ipad/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iCloud Notes on Linux
 
 **What you'll need:** You'll need three things for this: a Linux distribution that supports Snap applications, an iCloud account, and a user with sudo privileges. You do not need to do anything from the MacOS side of things (other than authenticate the login process).
 
 That's it. Let's install!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open a terminal window
 
 The first thing to do is open your terminal window app. If your distribution has Snap support built into the GUI app store, you could search the store for iCloud Notes and install from there; otherwise, you'll need to do this from the command line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install iCloud Notes
 
@@ -80,6 +92,10 @@ When the installation finishes, you can close your terminal window.
 
 The next thing you'll need to do is log into your iCloud account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open iCloud Notes
 
 From your desktop menu, open the iCloud Notes app. You should be presented with a Sign-in button right away. Click that button and then, when prompted, type your iCloud username and password.
@@ -87,6 +103,10 @@ From your desktop menu, open the iCloud Notes app. You should be presented with 
 The sign-in process for iCloud Notes is very simple.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Authenticate your login
 
@@ -127,11 +147,25 @@ So far I've been very pleased with this app. Although it doesn't include all of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-going-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>[Updated] 2024 Approved Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fine-tune-your-visual-storytelling-in-videoleap-footage-for-2024/"><u>[Updated] Fine-Tune Your Visual Storytelling in Videoleap Footage for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-image-improvement-masterclass-top-apps-decoded/"><u>[Updated] In 2024, Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ces-2n4-forecast-the-top-3-emerging-technological-trends-you-cant-miss-according-to-zdnet-experts/"><u>CES 2N4 Forecast: The Top 3 Emerging Technological Trends You Can't Miss, According to ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embark-on-your-marvel-adventure-now-using-apple-vision-pros-revolutionary-tech-learn-how-on-zdnet/"><u>Embark On Your Marvel Adventure Now Using Apple Vision Pro's Revolutionary Tech - Learn How on ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/evaluating-djis-phantom-3-features-for-2024/"><u>Evaluating DJI's Phantom 3 Features for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-conveying-content-tweets-and-tumbleloops/"><u>In 2024, Conveying Content Tweets & Tumbleloops</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-panopticon-perspective-analysis/"><u>In 2024, Panopticon Perspective Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connectivity-issues-corsair-icue-on-new-microsoft-operating-system-windows-11/"><u>Resolving Connectivity Issues: Corsair iCUE on New Microsoft Operating System (Windows 11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/safeguarding-your-virtual-world-effective-strategies-to-preserve-data-before-metas-oculus-purge/"><u>Safeguarding Your Virtual World: Effective Strategies to Preserve Data Before Meta's Oculus Purge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-truth-about-apple-vision-pro-a-comprehensive-review-of-its-strengths-and-weaknesses-by-zdnet/"><u>Unveiling the Truth About Apple Vision Pro: A Comprehensive Review of Its Strengths and Weaknesses by ZDNET</u></a></li>
+</ul></div>
+

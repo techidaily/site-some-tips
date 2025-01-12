@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Exceptional Tech Specs Overshadowed by Competitors – Why You Might Want To Think Twice"
-date: 2024-09-19 14:33:45
-updated: 2024-09-20 11:26:25
+date: 2025-01-10T21:17:45.488Z
+updated: 2025-01-12T16:13:51.037Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -70,6 +78,10 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,33 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elite-channel-explorer-discover-prime-video-status/"><u>[New] 2024 Approved Elite Channel Explorer Discover Prime Video Status</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-step-by-step-funimate-video-retrieval-for-2024/"><u>[New] Step-by-Step Funimate Video Retrieval for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-evolution-of-editing-software-reviewed-magix-vpx/"><u>[Updated] 2024 Approved The Evolution of Editing Software Reviewed Magix VPX</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-secure-methods-for-youtube-to-mp4-conversion/"><u>2024 Approved Secure Methods for Youtube-to-MP4 Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aural-elements-in-online-visuals/"><u>Aural Elements in Online Visuals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/capturing-the-skies-an-in-depth-look-at-the-cutting-edge-dji-mavic-3-technology/"><u>Capturing the Skies: An In-Depth Look at the Cutting-Edge DJI Mavic 3 Technology</u></a></li>
+<li><a href="https://facebook.techidaily.com/collective-charisma-cultivating-a-thriving-online-band/"><u>Collective Charisma: Cultivating a Thriving Online Band</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/"><u>Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/finding-frame-frames-the-art-of-isolating-images-on-windows-10/"><u>Finding Frame Frames The Art of Isolating Images on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-art-of-anonymous-torrenting-with-these-4-superior-vpn-solutions-from-zdnets-expert-analysis/"><u>Master the Art of Anonymous Torrenting with These 4 Superior VPN Solutions From ZDNet's Expert Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-privacy-a-comprehensive-guide-on-using-opera-vpn-essential-reasons-you-need-it/"><u>Maximizing Your Privacy: A Comprehensive Guide on Using Opera VPN - Essential Reasons You Need It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-charge-entertainment-secrets-to-enjoying-netflix-for-zero-dollars/"><u>No Charge Entertainment: Secrets to Enjoying Netflix for Zero Dollars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/proton-vpn-in-depth-unmatched-cybersecurity-and-strong-data-protection-tested-by-zdnet-experts/"><u>Proton VPN in Depth - Unmatched Cybersecurity and Strong Data Protection Tested by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-internet-connection-a-tutorial-for-configuring-router-based-vpn-settings-by-experts-at-zdnet/"><u>Secure Your Internet Connection: A Tutorial for Configuring Router-Based VPN Settings by Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-setting-up-google-ones-free-vpn-for-your-android-phone-techtips/"><u>Step by Step: Setting up Google One's Free VPN for Your Android Phone | TechTips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-maximizing-your-privacy-with-the-free-and-open-source-protonvpn-browser-add-on-insights-from-zdnet/"><u>Step-by-Step Guide: Maximizing Your Privacy with the Free and Open Source ProtonVPN Browser Add-On - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-tokyo-2020-discover-the-ideal-vpn-picks-from-zdnets-thorough-testing/"><u>Streaming Tokyo 2020? Discover the Ideal VPN Picks From ZDNet's Thorough Testing!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-choosing-the-best-vpn-for-students-in-202-expert-reviews-on-zdnet/"><u>The Ultimate List: Choosing the Best VPN for Students in 202지롭 | Expert Reviews on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-3-optimal-vpn-services-for-a-flawless-olympic-stream-experience-insights-and-reviews-by-zdnet/"><u>Top 3 Optimal VPN Services for a Flawless Olympic Stream Experience: Insights & Reviews by ZDNet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Unwanted Messages: A Simple Guide to Halting Spam Texts on iOS Devices | TechToday"
-date: 2024-12-30T16:38:44.771Z
-updated: 2025-01-05T22:38:33.508Z
+date: 2025-01-05T19:36:57.104Z
+updated: 2025-01-12T17:13:44.952Z
 tags:
   - apple
 categories:
@@ -27,16 +27,12 @@ The good news is that you can stop these text messages using a feature already i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Settings
 
@@ -45,6 +41,10 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -79,10 +79,14 @@ The message inbox will now default to show messages from people in your contact 
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
 
@@ -98,10 +102,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
 
@@ -122,7 +122,7 @@ If you keep getting messages from the same sender after reporting them, you can 
 4. Select Block this caller.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why is the 'Filter Unknown Senders' option turned off?
@@ -167,15 +167,18 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-guide-advanced-techniques-for-skype-screenshots-via-obs/"><u>[Updated] In 2024, How-To Guide Advanced Techniques for Skype Screenshots via OBS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>2024 Approved Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-steady-snaps-premier-tripods-for-mobile-cameras/"><u>2024 Approved Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/can-microsofts-newest-ai-copilot-enhance-your-productivity-without-overselling-find-out-here-zdnet/"><u>Can Microsoft's Newest AI, Copilot, Enhance Your Productivity Without Overselling? Find Out Here | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cybercrime-epidemic-hits-singapore-record-501-million-lost-to-online-fraud-insights-from-zdnet/"><u>Cybercrime Epidemic Hits Singapore: Record $501 Million Lost To Online Fraud - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/embracing-a-trustworthy-experience-centric-business-era-with-zdnet/"><u>Embracing a Trustworthy, Experience-Centric Business Era with ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/empowering-small-e-commerce-vendors-through-alibabas-innovative-generative-ai-quality-control/"><u>Empowering Small E-Commerce Vendors Through Alibaba’s Innovative Generative AI Quality Control</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-18-essential-workarounds-for-ios-shortcuts-pro/"><u>Ultimate Guide: 18 Essential Workarounds for iOS Shortcuts Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>Updated In 2024, Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-how-apple-could-surpass-tech-giants-openai-microsoft-and-google-with-revolutionary-wwdc-202n-innovations-insights/"><u>1. How Apple Could Surpass Tech Giants OpenAI, Microsoft & Google with Revolutionary WWDC 202N Innovations - Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/continuous-innovation-in-the-era-of-ai-its-vow-towards-constant-modernization-insights-from-zdnet/"><u>Continuous Innovation in the Era of AI: IT's Vow Towards Constant Modernization - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-uag-devices-with-durable-apple-watch-bands-and-protective-samsung-z-fold-4-cases-explore-top-picks/"><u>Enhance Your UAG Devices with Durable Apple Watch Bands & Protective Samsung Z Fold 4 Cases - Explore Top Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-xr21-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/making-the-right-pick-for-your-needs-a-comprehensive-m3-vs-m2-macbook-air-showdown-gadgetguru/"><u>Making the Right Pick for Your Needs: A Comprehensive M3 Vs. M2 MacBook Air Showdown | GadgetGuru</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-close-ups-quick-minecraft-enhancements-for-2024/"><u>Mastering Close-Ups Quick Minecraft Enhancements for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ranking-the-best-free-passport-picture-services-worldwide-for-2024/"><u>Ranking the Best Free Passport Picture Services Worldwide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-remedies-to-combat-lag-issues-in-assassins-creed-valhalla/"><u>Rapid Remedies to Combat Lag Issues in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-icloud-note-integration-into-your-linux-environment-tips-and-tricks/"><u>Seamless iCloud Note Integration Into Your Linux Environment - Tips & Tricks!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-the-coredll-file-is-absent-issue/"><u>Solutions for Resolving the 'core.dll File Is Absent' Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-top-rated-iphone-13-pro-protective-covers/"><u>The Ultimate Selection: Top-Rated iPhone 13 Pro Protective Covers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-protective-covers-for-iphone-12-and-12-pro-2023-edition-techreview/"><u>Top-Rated Protective Covers for iPhone 12 & 12 Pro - 2023 Edition | TechReview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/when-capacitors-in-a-parallel-circuit-are-charged-to-the-same-voltage-v-each-stores-energy-proportional-to-its-capacitance/"><u>When Capacitors in a Parallel Circuit Are Charged to the Same Voltage V, Each Stores Energy Proportional to Its Capacitance.</u></a></li>
 </ul></div>
 

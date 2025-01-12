@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Tech Landscapes: Charting the Transition From Mixed Cloud Environments to Edge Computing & AI Advancements | ZDNET Insights"
-date: 2024-09-17 18:14:52
-updated: 2024-09-20 12:40:43
+date: 2025-01-09T19:55:06.563Z
+updated: 2025-01-12T16:15:33.068Z
 tags:
   - cloud
 categories:
@@ -24,6 +24,10 @@ In 1997, Professor Ramnath K. Chellappa, now of Emory University, [used the term
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 What does the future of cloud computing look like in the next 3-5 years? It's gotten even more interesting since the pandemic. Since 2020, cloud computing has taken a tremendous leap forward, with many businesses fulfilling their ten year road maps in ten months -- or, for some, even in ten weeks -- because of the massive growth in demand for digital information and e-commerce.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The meaning of cloud computing is changing
 
@@ -57,6 +61,10 @@ Expect edge devices to be more connected, and to be left unattended more often. 
 
 This is where 5G (and eventually 6G) come into play. 5G handles intermittent connections better, and has the ability to switch frequency and "[beamform](https://www.zdnet.com/article/5g-new-radio-the-technical-background/)" to reach areas traditional cellular connectivity hasn't been able to reach. 5G is also putting far more intelligence into the field, which will substantially reduce latency, allowing edge devices to communicate with "the mother ship" far more quickly and with far greater responsiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The growth of AI in cloud management
 
 Increased reliance on complex cloud environments will increase the management challenges. Here, AI can help in at least four ways:
@@ -71,6 +79,10 @@ Then, of course, there's security. With a [security skills shortage and ever-inc
 Even small companies are now managing a mind-boggling amount of information, both in motion and at rest. We're talking about terabytes, petabytes, and exabytes of both flow and storage. The only way data of that volume, moving at high velocity, can be managed is through software. But with the rapid changes and growth in bad actor sophistication, regular programming and pattern identification protection will simply not keep up.
 
 This is one of those cases where AI isn't just optional or nice to have. AI will become the bulwark required to protect businesses where nothing else can move fast enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vendors will have to change, too
 
@@ -87,6 +99,10 @@ Moving forward, expect GreenLake to offer more tools and resources, as well as b
 As we look forward 3-5 years, the watchword is "more." More connections, more power, more AI, more security challenges, more nodes, more devices, more locations, more options, more money, more efficiency, more bang-for-the-buck, more vendors – more, more, more. And, of course, more complex challenges in managing it all.
 
 ![](https://www.zdnet.com/a/img/resize/684dc5b99439a2c7dc917b4d65f353dbb9ab10fe/2022/12/20/976203f6-d704-4320-9337-9c31848a214c/getty-metamorworks-edge-computing.jpg?auto=webp&fit=cover&height=482&width=856)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Analyst: The edge-to-cloud evolution is promising, when we overcome these challenges
 
@@ -172,6 +188,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -186,11 +206,23 @@ Close Modal Dialog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-boosting-vimeo-playback-speed-for-2024/"><u>[New] Boosting Vimeo Playback Speed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>[Updated] 2024 Approved Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlock-the-secrets-of-webinar-recording-a-users-manual-macos-windows/"><u>[Updated] 2024 Approved Unlock the Secrets of Webinar Recording A User's Manual (macOS, Windows)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-streams-tips-and-tricks/"><u>[Updated] In 2024, Boosting Vimeo Streams Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-abodes-productivity-with-chatgpt-techniques/"><u>Elevate Your Abode's Productivity with ChatGPT Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-acquiring-your-apple-vision-pro-with-enhanced-face-scanning-features-unveil-the-hidden-strategies-techinsights-by-zdnet/"><u>Step-by-Step Guide to Acquiring Your Apple Vision Pro with Enhanced Face Scanning Features – Unveil the Hidden Strategies | TechInsights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-viewing-apples-immersive-spatial-content-on-oculus-quest-2-a-simple-tutorial-techexploration/"><u>Step-by-Step Guide: Viewing Apple's Immersive Spatial Content on Oculus Quest 2 - A Simple Tutorial | TechExploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-now-top-ar-and-vr-developments-from-the-monumental-ces-2023-showcase/"><u>The Future Is Now: Top AR & VR Developments From the Monumental CES 2023 Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-patient-experiences-with-apples-cutting-edge-vision-pro-applications-in-modern-medicine-zdnet-insight/"><u>Transforming Patient Experiences with Apple's Cutting-Edge Vision Pro Applications in Modern Medicine - ZDNet Insight</u></a></li>
+</ul></div>
+

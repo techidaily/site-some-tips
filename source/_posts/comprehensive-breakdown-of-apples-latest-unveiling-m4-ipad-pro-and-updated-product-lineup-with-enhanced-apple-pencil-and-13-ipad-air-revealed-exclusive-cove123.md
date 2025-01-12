@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !"
-date: 2024-12-31T00:01:10.988Z
-updated: 2025-01-05T23:31:09.073Z
+date: 2025-01-07T19:15:10.334Z
+updated: 2025-01-12T20:08:06.088Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -56,10 +56,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,6 +71,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -93,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,18 +160,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069179144-updated-2024-approved-android-without-a-wire-heres-your-free-games-list/"><u>[Updated] 2024 Approved Android Without A Wire? Here's Your Free Games List!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-convenient-viewing-setting-up-youtube-on-large-tv-panels/"><u>[Updated] 2024 Approved Convenient Viewing Setting Up YouTube on Large TV Panels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-decoding-snapchat-emoji-language/"><u>2024 Approved Decoding Snapchat Emoji Language</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>2024 Approved Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/compendium-classification-of-camera-types-for-videos-for-2024/"><u>Compendium Classification of Camera Types for Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-samsung-prime-day-savings-for-october-insider-info-from-zdnet/"><u>Discover the Ultimate Selection of Samsung Prime Day Savings for October - Insider Info From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-dual-nature-of-microsofts-copilot-ai-innovation-meets-marketing-strategy-zdnet-analysis/"><u>Exploring the Dual Nature of Microsoft's Copilot: AI Innovation Meets Marketing Strategy | ZDNet Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/five-effective-solutions-to-bypass-eos-login-errors-in-palworld-platform/"><u>Five Effective Solutions to Bypass EOS Login Errors in Palworld Platform</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-15-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 15 to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-new-age-of-dependable-expertise-in-business-perspectives-on-zdnet/"><u>Navigating the New Age of Dependable Expertise in Business - Perspectives on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-setting-up-easy-digital-downloads-plugin-in-your-wp-site/"><u>Step-by-Step Guide: Setting Up Easy Digital Downloads Plugin in Your WP Site</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-extensive-collaboration-framework-of-the-eu-and-singapore-encompasses-multiple-industries-technology-insights/"><u>The Extensive Collaboration Framework of the EU and Singapore Encompasses Multiple Industries | Technology Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-12-unbelievable-prime-day-gadget-bargains-in-october-exclusive-offers-on-zdnet/"><u>Top 12 Unbelievable Prime Day Gadget Bargains in October - Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximize-online-revenue-monetizing-on-youtube-with-500plus-viewers-for-2024/"><u>[Updated] Maximize Online Revenue Monetizing on Youtube with 500+ Viewers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-beginners-guide-to-iphone-slow-movement-videography/"><u>[Updated] The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-edge-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Edge 2023 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-stops-selling-new-watch-models-disrupts-maintenance-services-for-earlier-versions-news/"><u>Apple Stops Selling New Watch Models; Disrupts Maintenance Services for Earlier Versions News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-perfect-phone-for-children-top-suggestions-from-tech-experts/"><u>Choosing the Perfect Phone for Children: Top Suggestions From Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complete-guide-how-to-properly-initialize-your-brand-new-ipad-insights/"><u>Complete Guide: How to Properly Initialize Your Brand-New iPad - Insights</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratuit-verbale-konvertor-gebruik-de-onlineladingsbewijs-van-movavi-om-nv-3gpp-naar-wav-format-te-zetten/"><u>Gratuit Verbale Konvertor: Gebruik De Onlineladingsbewijs Van Movavi Om NV 3GPP Naar Wav-Format Te Zetten</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-vanished-wordle-streak-crash/"><u>How to Fix Vanished Wordle Streak Crash</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sprinting-to-victory-key-moments-from-2-omics-games/"><u>In 2024, Sprinting to Victory Key Moments From 2 Omics Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-through-macos-sonoma-version-144s-update-checklist-key-enhancements-and-bug-resolutions-as-reported/"><u>Navigate Through macOS Sonoma Version 14.4'S Update Checklist - Key Enhancements & Bug Resolutions as Reported</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-9-unveiled-the-trailblazer-with-built-in-satellite-emergency-calling-feature-detailed-review/"><u>Pixel 9 Unveiled: The Trailblazer with Built-In Satellite Emergency Calling Feature – Detailed Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-bot-communications-from-breaches/"><u>Securing Bot Communications From Breaches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-exciting-features-you-can-test-with-the-latest-ios-18-preview-learn-more-on-zdnet/"><u>Top 5 Exciting Features You Can Test with the Latest iOS 18 Preview - Learn More on ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-8-essential-factors-to-look-for-in-your-next-tablet-purchase/"><u>Top 8 Essential Factors to Look For in Your Next Tablet Purchase</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-issues-with-apple-family-sharing-access/"><u>Troubleshooting Steps for Issues with Apple Family Sharing Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secret-to-a-complimentary-macbook-air-m3-at-best-buy-a-step-by-step-guide-zdnet/"><u>Unlock the Secret to a Complimentary MacBook Air M3 at Best Buy: A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmissable-discounts-on-iphones-your-complete-guide-for-the-top-offers-in-july-2024-featuring-insights-from-zdnet/"><u>Unmissable Discounts on iPhones: Your Complete Guide for the Top Offers in July 2024, Featuring Insights From ZDNet</u></a></li>
 </ul></div>
 

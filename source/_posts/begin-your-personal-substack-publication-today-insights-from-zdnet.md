@@ -1,7 +1,7 @@
 ---
 title: Begin Your Personal Substack Publication Today - Insights From ZDNet
-date: 2024-09-19 23:52:40
-updated: 2024-09-20 11:33:40
+date: 2025-01-11T16:35:16.603Z
+updated: 2025-01-12T16:28:08.911Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Substack is also free to use. If you do charge for your newsletter, the company takes a 10% cut. But, if you're like me and want to do something just to connect with your readers, there's no fee. No fee for managing or emailing to a list, and no fee for hosting your content. I like that a lot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Create an account
 
@@ -97,6 +101,10 @@ I put a picture up, said a little bit about myself, and then described my plans 
 
 And that's it. Now people know what it's all about. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Prepare your first newsletter
 
 If you've ever made a post on Facebook, you're ready for Substack. It's that simple.
@@ -129,15 +137,27 @@ Finally, when you're ready to publish, press (3) Continue. That will present a s
 
 It's pretty much that simple. If you create a nice Substack, feel free to comment below or drop a comment on mine. I'd love to see what you're working on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can I import my existing lists? 
 
 Yes, but Substack is fussy. They will only import lists where they can verify that all email addresses have previously opted in. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How can I turn off the requests for pledges or subscription money? 
 
 This took me a few minutes to find. Go back to Settings on your Dashboard, scroll down to Payments, and uncheck "Allow readers to pledge subscriptions". Those payment/pledge requests will no longer be presented to new subscribers. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How does Substack make money? 
 
@@ -157,11 +177,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-essential-design-modifications-for-2024/"><u>[New] Essential Design Modifications for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unleash-creativity-the-newcomers-snapseed-tutorial/"><u>[New] Unleash Creativity The Newcomer's Snapseed Tutorial</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-content-youtubes-keyword-strategies-exposed/"><u>[Updated] 2024 Approved Elevate Your Content YouTube's Keyword Strategies Exposed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-xr-innovations-unite-samsung-google-and-qualcomm-collaborate-prior-to-apples-expected-vr-headset-launch-insights-for-tech-enthusiasts/"><u>1. 'XR Innovations Unite: Samsung, Google & Qualcomm Collaborate Prior To Apple's Expected VR Headset Launch - Insights for Tech Enthusiasts'</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>2024 Approved The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/coming-soon-a-deep-dive-into-apples-upcoming-vrar-headset-based-on-current-speculations-features-launch-date-and-more-zdnet/"><u>Coming Soon? A Deep Dive Into Apple’s Upcoming VR/AR Headset Based on Current Speculations - Features, Launch Date & More | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-myths-how-close-are-we-to-a-cost-effective-apple-vision-pro-headset/"><u>Decoding the Myths: How Close Are We to a Cost-Effective Apple Vision Pro Headset?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-printer-driver-not-found-on-your-windows-pc-fixed/"><u>How to Overcome 'Printer Driver Not Found' On Your Windows PC [FIXED]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-digital-twins-for-your-enterprise-with-ai-key-building-blocks-revealed-expert-analysis-by-zdnet/"><u>Unlocking the Potential of Digital Twins for Your Enterprise with AI - Key Building Blocks Revealed | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-top-5-insights-from-the-apple-vision-pro-dissection-by-ifixit-a-deep-dive-with-zdnet/"><u>Unveiling the Secrets: Top 5 Insights From the Apple Vision Pro Dissection by iFixit - A Deep Dive with ZDNet</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/your-ultimate-source-for-tech-comparisons-tomgearreview/"><u>Your Ultimate Source for Tech Comparisons - TomGearReview</u></a></li>
+</ul></div>
+

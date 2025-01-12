@@ -1,7 +1,7 @@
 ---
 title: Amazon's AI Experts Show Smaller Models Can Outperform Large Ones in Certain Tasks | TechInsights
-date: 2024-09-19 11:31:18
-updated: 2024-09-20 12:39:41
+date: 2025-01-10T17:13:50.393Z
+updated: 2025-01-12T17:23:36.877Z
 tags:
   - amazon
 categories:
@@ -20,6 +20,10 @@ Amazon Alexa AI 2022
 Two threads of research strongly dominate machine learning these days: making programs more general in their approach (to handle any potential task) and making them bigger.
 
 The biggest neural nets, as measured by their parameters or "weights," are clocking in at over half a trillion weights. Models such as Google's Pathways Language Model, or PaLM, and Nvidia and Microsoft's [Megatron-Turing NLG 530B](https://www.zdnet.com/article/nvidia-clarifies-megatron-turing-scale-claim/) are among the biggest, with 540 billion and 530 billion parameters, respectively. The more parameters a program has, in general, the greater the amount of computing power it consumes to train, and also to run for making predictions, what's called _inference._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Artificial Intelligence
 
@@ -94,6 +98,10 @@ In that paper, Hoffman and colleagues conclude that "current large language mode
 
 Hence, AlexaTM 20B is not just parsimonious -- it aims to prove that fewer parameters can be balanced with more training data to equal compelling performance. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Which Amazon Echo to buy? How to pick the best Alexa device for your needs Amazon now has an entire army of Echo devices. Some listen to you. Some also watch you. Which should you choose? We help you decide.  Read now](https://www.zdnet.com/article/best-amazon-echo/)
@@ -115,6 +123,10 @@ As Google authors Aakanksha Chowdhery and team [noted in April](https://arxiv.or
 The results are spelled out in specific test results. Soltan and team place a special emphasis on their success in particular tasks as opposed to _every_ task conceivable. For example, Soltan and team observe that "AlexaTM 20B performs better or in par to the largest dense decoder-only model to date (i.e., PaLM 540B) in summarization both in 1-shot and fine-tuning settings." This is specifically true in a task of summarizing paragraphs known as MLSum; in German, Spanish, and French, AlexaTM 20B beat PaLM handily. 
 
 The MLSum benchmark test, [introduced in 2020](https://aclanthology.org/2020.emnlp-main.647.pdf) by France's National Centre for Scientific Research, comprises 1.5 million articles from newspapers. The task is for a language model to output a few sentences of text that express the idea laid out in the entire article. This requires a lot of reduction, obviously, of hundreds of words down to perhaps a few dozen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Amazon
 
@@ -178,11 +190,33 @@ That may mean that being eco-conscious has in some ways become part of the objec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-clash-of-legends-5-iconic-fist-fighters-in-virtual-world/"><u>[New] In 2024, Clash of Legends 5 Iconic Fist-Fighters in Virtual World</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-brand-storytelling-through-imagery-a-podcast-designers-guide/"><u>[Updated] 2024 Approved Brand Storytelling Through Imagery A Podcast Designer's Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-video-downloader-round-up-1-5-edition/"><u>[Updated] In 2024, Facebook Video Downloader Round-Up #1-5 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-a-budget-friendly-20-anker-power-bank-solves-portability-woes-featured-experts/"><u>Discover How a Budget-Friendly $20 Anker Power Bank Solves Portability Woes, Featured Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ergoheads-top-of-the-line-anti-fatigue-mat-tested-for-sustained-productivity-benefits/"><u>Ergohead's Top-of-the-Line Anti-Fatigue Mat Tested for Sustained Productivity Benefits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-guide-to-windows-11-photovideo-importing-techniques/"><u>Essential Guide to Windows 11 Photo/Video Importing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-roundup-most-effective-tablets-of-the-year-2024-tested-and-analyzed-for-consumers-zdnet/"><u>Exclusive Roundup: Most Effective Tablets of the Year 2024 Tested & Analyzed for Consumers | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-airpods-evolution-discover-what-sets-the-new-models-apart-in-our-expert-breakdown-at-zdnet/"><u>Exploring Apple's AirPods Evolution: Discover What Sets the New Models Apart in Our Expert Breakdown at ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-win-at-watching-basketball-top-15-ways-to-stream-nba-games/"><u>In 2024, Win at Watching Basketball Top 15 Ways to Stream NBA Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mass-spectrometric-detector-ms/"><u>Mass Spectrometric Detector (MS):</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-power-reserves-on-your-apple-watch-with-these-easy-configuration-adjustments-according-to-zdnet-experts/"><u>Maximize Power Reserves on Your Apple Watch with These Easy Configuration Adjustments, According to ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-kid-friendly-ipad-models-a-comprehensive-guide-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet/"><u>Unveiling the Secrets of Enhancing Video Sessions in Google Meet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-available-enhanced-performance-for-enshrouded-on-windows-systems/"><u>Update Available! Enhanced Performance for 'Enshrouded' On Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-decision-iphone-16-vs-iphone-15-key-points-for-choosing-apples-flagship-phone/"><u>Upgrade Decision: IPhone 16 Vs. IPhone 15 – Key Points for Choosing Apple's Flagship Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-freeform-is-an-essential-tool-for-unleashing-creative-potential-a-comprehensive-guide/"><u>Why Freeform Is an Essential Tool for Unleashing Creative Potential: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/will-the-apple-vision-pro-enhance-your-flight-comfort-exploring-innovations-in-air-travel/"><u>Will the Apple Vision Pro Enhance Your Flight Comfort? Exploring Innovations in Air Travel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/guide-to-the-finest-youtube-subtitles-extractor-for-2024/"><u>Your Guide to the Finest YouTube Subtitles Extractor for 2024</u></a></li>
+</ul></div>
+

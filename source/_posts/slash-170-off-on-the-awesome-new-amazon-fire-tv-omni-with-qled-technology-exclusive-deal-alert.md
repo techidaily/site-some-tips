@@ -1,7 +1,7 @@
 ---
 title: Slash $170 Off on the Awesome New Amazon Fire TV Omni with QLED Technology - Exclusive Deal Alert!
-date: 2024-09-19 10:33:16
-updated: 2024-09-20 10:31:43
+date: 2025-01-10T18:10:16.828Z
+updated: 2025-01-12T18:30:46.681Z
 tags:
   - amazon
 categories:
@@ -39,6 +39,10 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 
 However, the biggest strike against the Omni QLED is that much of its cool functionality is locked behind Alexa. To get many of the Omni QLED's cool features -- like making voice or video calls, playing trivia, or checking the weather -- you'll have to buy an [Echo device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fsmart-home-devices%2Fb%2F%3Fie%3DUTF8%26node%3D9818047011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6293065e-8983-4aa3-a36b-81ede0213ee8%7Cdtp&dtb=1) and set up an [Alexa](https://www.zdnet.com/home-and-office/smart-home/two-unsung-ways-amazon-echos-are-actually-pretty-consumer-friendly/) profile if you don't have one already. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Screen size      | 65 inches                                                            |
@@ -52,11 +56,19 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a Prime Day sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6293065e-8983-4aa3-a36b-81ede0213ee8%7Cdtp&dtb=1), bringing the price down to $660 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -85,6 +97,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 **Also:** [**The 5 best video streaming services**](https://www.zdnet.com/home-and-office/home-entertainment/best-streaming-service/)
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
 
@@ -119,6 +135,10 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -193,11 +213,33 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-8-tripod-picks-for-exceptional-4k-footage/"><u>[New] Prime 8 Tripod Picks for Exceptional 4K Footage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-drive-engagement-tips-for-going-viral-on-instagram/"><u>[Updated] Drive Engagement Tips for Going Viral on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-funicate-mastery-for-seamless-media-access/"><u>[Updated] Funicate Mastery for Seamless Media Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-create-personalized-extensions-with-wix-toolset-your-step-by-step-guide/"><u>1. Create Personalized Extensions with WiX Toolset: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-implementing-customactions-in-wix-integrating-customactiondata-seamlessly/"><u>1. Implementing CustomActions in WiX: Integrating CustomActionData Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-the-surface-assessing-the-genuine-sustainability-of-electric-vehicles/"><u>Beyond The Surface: Assessing the Genuine Sustainability of Electric Vehicles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-asus-bw-16d1x-u-a-stylish-blu-ray-drive-with-notable-quirks/"><u>Comprehensive Guide to the Asus BW-16D1X-U: A Stylish Blu-Ray Drive with Notable Quirks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/configuring-wix-toolset-custom-actions-ensuring-execution-during-system-uninstall-only/"><u>Configuring WiX Toolset Custom Actions: Ensuring Execution During System Uninstall Only</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-fixing-class-not-registered-trouble-on-microsoft-windows/"><u>Expert Advice: Fixing ‘Class Not Registered’ Trouble on Microsoft Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-spark-10-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Spark 10 Pro Devices</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/link-your-desktops-together-under-one-net-expert-strategies-for-seamless-connectivity/"><u>Link Your Desktops Together Under One Net: Expert Strategies for Seamless Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-quiet-install-and-uninstall-on-wix-using-msi-technology/"><u>Mastering Quiet Install and Uninstall on Wix Using MSI Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-deployment-with-advanced-installer-a-superior-alternative-to-the-wix-toolset/"><u>Next-Level Deployment with Advanced Installer – A Superior Alternative to the WiX Toolset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/override-auto-suggesting-feature-for-podcasts-in-spotify/"><u>Override Auto-Suggesting Feature for Podcasts in Spotify</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-substitutes-for-inno-setup-mastering-advanced-installer/"><u>Superior Substitutes for Inno Setup: Mastering Advanced Installer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-custom-features-in-wix-installation-projects-expert-techniques/"><u>Tailoring Custom Features in WiX Installation Projects: Expert Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-on-crafting-wix-toolset-desktop-shortcuts-for-windows-users/"><u>The Ultimate Tutorial on Crafting WiX Toolset Desktop Shortcuts for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-from-inno-setup-with-top-tier-solutions-exploring-advanced-installer-techniques/"><u>Transition From Inno Setup with Top-Tier Solutions: Exploring Advanced Installer Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearth-the-hidden-potentials-in-your-conversation-ai/"><u>Unearth the Hidden Potentials in Your Conversation AI</u></a></li>
+</ul></div>
+

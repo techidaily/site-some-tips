@@ -1,7 +1,7 @@
 ---
 title: AWS Invests $8 Billion to Fuel Singapore’s AI Ambitions – The Strategic Synergy Explained | TechCrunch
-date: 2024-09-17 14:44:54
-updated: 2024-09-20 12:47:22
+date: 2025-01-08T20:37:55.508Z
+updated: 2025-01-12T20:13:19.636Z
 tags:
   - cloud
 categories:
@@ -50,6 +50,10 @@ As part of the launch of AI Spring, AWS announced an agreement to partner with n
 The cloud vendor also will work with industry regulator Infocomm Media Development Authority (IMDA) to develop an AI adoption program for local organizations to identify and scale AI use cases, running on Amazon AI platforms that include Amazon Q, Bedrock, and SageMaker. 
 
 Also, AWS will work with Institutes of Higher Learnings (IHLs) and schools such as the Institute of Technical Education (ITE) to train 5,000 individuals a year on AI skills over three years. Its GenAI services will be used to support teachers and students. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Aligning curriculum with GenAI
 
@@ -110,11 +114,30 @@ Cloud vendors play an important role in growing Singapore's digital economy ecos
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-conquer-your-brain-gaps-with-top-quiz-networks-2024-edition/"><u>[New] Conquer Your Brain Gaps with Top Quiz Networks' 2024 Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-economical-audience-expansion-buy-subscribers-not-time/"><u>[New] Economical Audience Expansion Buy Subscribers, Not Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-coding-career-top-5-techniques-for-prospective-hiring-success-revealed-by-experts-at-zdnet/"><u>Elevate Your Coding Career: Top 5 Techniques for Prospective Hiring Success, Revealed by Experts at ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-motorola-moto-g84-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-thrive-as-a-data-expert-5-key-strategies-for-success-unveiled-by-zdnet/"><u>How to Thrive as a Data Expert: 5 Key Strategies for Success Unveiled by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/immediate-screen-shotter-for-chromes-for-2024/"><u>Immediate Screen Shotter for Chromes for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-overcoming-facebook-algorithm-change-hurdles/"><u>In 2024, Overcoming Facebook Algorithm Change Hurdles</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-spark-10-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Spark 10 4G Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-boomerang-employees-a-strategic-approach-to-tackle-talent-scarcity/"><u>Leveraging Boomerang Employees: A Strategic Approach to Tackle Talent Scarcity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-social-connections-in-tech-tips-for-introverts-by-zdnet/"><u>Mastering Social Connections in Tech: Tips for Introverts by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/math-and-business-synergy-for-future-success-with-ai-perspectives-on-strategic-development-zdnet/"><u>Math and Business Synergy for Future Success with AI - Perspectives on Strategic Development | ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/playing-mpv-video-format-a-guide-on-handling-mp4v-file-types/"><u>Playing MPV Video Format: A Guide on Handling MP4V File Types</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-fix-for-teams-on-windows-pcs/"><u>Screen Fix for Teams on Windows PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-the-next-round-proven-strategies-for-excelling-in-phone-screenings-and-advancing-your-job-search-with-insights-from-zdnet/"><u>Securing the Next Round: Proven Strategies for Excelling in Phone Screenings and Advancing Your Job Search with Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplify-multitasking-on-iphone-activatedeactivate-youtubes-pip-feature/"><u>Simplify Multitasking on iPhone Activate/Deactivate YouTube's PIP Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stand-out-with-your-tech-skills-crafting-the-perfect-software-engineer-cover-letter-guided-by-industry-experts/"><u>Stand Out with Your Tech Skills: Crafting the Perfect Software Engineer Cover Letter Guided by Industry Experts</u></a></li>
+</ul></div>
+

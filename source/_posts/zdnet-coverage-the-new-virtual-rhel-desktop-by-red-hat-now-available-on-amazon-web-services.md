@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Coverage: The New Virtual RHEL Desktop by Red Hat Now Available on Amazon Web Services"
-date: 2024-09-18 14:15:17
-updated: 2024-09-20 10:52:58
+date: 2025-01-08T16:06:09.184Z
+updated: 2025-01-12T19:55:51.040Z
 tags:
   - amazon
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
 Red Hat
 
 Once upon a time, and it wasn't that long ago, "desktops" were terminals to mainframes or midrange computers running Unix. Then along came the PC, and everything changed. That is, until now. Today, Desktop-as-a-Service (DaaS) is making a comeback. And [Red Hat](https://www.redhat.com/en) is joining this trend with the general availability of [Red Hat Enterprise Linux for Workstations](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/workstations) (RHEL WS) on [Amazon Web Services](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce11bebd9-9815-4990-8ce3-cf401238218e%7Cdtp&dtb=1), announced Tuesday.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,31 @@ Want to give it a try? It's available today via the AWS Marketplace with support
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/solved-steamvr-not-working-easily-and-quickly/"><u>[SOLVED] SteamVR Not Working – Easily & Quickly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-guide-to-mass-extraction-of-tiktok-content-for-2024/"><u>[Updated] Guide to Mass Extraction of TikTok Content for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-turning-viewership-into-cash-with-carminati-ajay-for-2024/"><u>[Updated] Turning Viewership Into Cash with Carminati (Ajay) for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-fix-for-ieframedll-errors-tips-and-techniques-that-work/"><u>Comprehensive Fix for Ieframe.dll Errors: Tips and Techniques That Work</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-windows-control-with-administrator-rights/"><u>Conquering Windows Control with Administrator Rights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-apple-experience-exclusive-insights-into-the-latest-free-macos-15-upgrade-features/"><u>Elevate Your Apple Experience - Exclusive Insights Into the Latest, Free MacOS 15 Upgrade Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-new-earbuds-that-double-as-hearing-devices-today-only-exclusive-offer-from-zdnet/"><u>Enjoy 24% Discount on AirPods Pro 2 - The New Earbuds that Double as Hearing Devices, Today Only! Exclusive Offer From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-elite-comfort-with-the-finest-apple-watch-bands-exclusive-insights-from-zdnet/"><u>Experience Elite Comfort with the Finest Apple Watch Bands - Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-vision-the-enchantment-of-tech-enabled-eyewear-a-deep-dive/"><u>Exploring Apple's Vision: The Enchantment of Tech-Enabled Eyewear - A Deep Dive</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-infinix-hot-40i-by-drfone-android/"><u>In 2024, How to Bypass FRP from Infinix Hot 40i?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-high-definition-mastering-sdr-to-hdr-conversion/"><u>In 2024, Journey to High Definition Mastering SDR to HDR Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-through-macos-sonoma-version-144s-update-checklist-key-enhancements-and-bug-resolutions-as-reported-on-zdnet/"><u>Navigate Through macOS Sonoma Version 14.4'S Update Checklist - Key Enhancements & Bug Resolutions as Reported on ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-easy-the-best-3gp-video-rotators/"><u>New Free and Easy The Best 3GP Video Rotators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-mobile-phones-endorsed-authors-for-everyday-use/"><u>The Top Mobile Phones Endorsed Authors for Everyday Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ipad-applications-boosting-efficiency-streamline-task-management-and-improve-focus-insights-from-zdnet/"><u>Top iPad Applications Boosting Efficiency: Streamline Task Management & Improve Focus - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-your-ipad-expert-tips-and-setup-essentials-for-apple-enthusiasts-zdnet/"><u>Unlocking the Full Potential of Your iPad: Expert Tips and Setup Essentials for Apple Enthusiasts - ZDNet</u></a></li>
+</ul></div>
+

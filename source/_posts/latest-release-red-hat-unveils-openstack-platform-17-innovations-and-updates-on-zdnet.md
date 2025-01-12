@@ -1,7 +1,7 @@
 ---
 title: "Latest Release: Red Hat Unveils OpenStack Platform 17 - Innovations and Updates on ZDNet"
-date: 2024-09-19 19:44:41
-updated: 2024-09-20 10:41:21
+date: 2025-01-08T20:50:54.908Z
+updated: 2025-01-12T20:33:42.866Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 solarseven/Shutterstock
 
 Some people still insist that [OpenStack](https://www.openstack.org/), the open-source Infrastructure-as-a-Service (IaaS) cloud, is dead. They are so, so wrong. By [Statista](https://www.statista.com/)'s count, [OpenStack is the most popular open-source cloud of all](https://www.statista.com/statistics/511526/worldwide-survey-private-coud-services-running-application/). And what's more important for [Red Hat](https://www.redhat.com/en) is that telecoms, such as [Verizon](https://www.verizon.com/) cellular and 5G networks, live and die by OpenStack. So, it comes as no surprise when [Red Hat rolled out Red Hat OpenStack Platform (RHOP) 17](https://www.redhat.com/en/blog/25-billion-and-counting-red-hat-openstack-platform-continues-deliver-service-providers) at Mobile World Congress in Las Vegas Wednesday, the company talked up how OpenStack and telecom work hand-in-hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,11 +51,27 @@ While the new RHOP will appeal mostly to telecoms, it remains a solid platform f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>[New] 2024 Approved Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-live-sound-experience-service/"><u>[Updated] Best Live Sound Experience Service</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-recipe-rulers-youtubes-finest-food-talks/"><u>[Updated] Recipe Rulers YouTube's Finest Food Talks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Reno 8T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-editing-tools-for-vloggers-free-and-premium-options/"><u>New 2024 Approved Top Video Editing Tools for Vloggers Free and Premium Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-gen-coding-mavericks-unleashing-creativity-and-strategic-acumen-in-the-age-of-artificial-intelligence-learn-from-industry-experts-at-zdnet/"><u>Next-Gen Coding Mavericks: Unleashing Creativity and Strategic Acumen in the Age of Artificial Intelligence - Learn From Industry Experts at ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210830072-9781977219749-over-1000-beatings-spiritual-sanity-and-the-rejection-of-evil/"><u>Over 1,000 Beatings, Spiritual Sanity and the Rejection of Evil | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/slash-your-subscription-costs-by-half-for-xbox-live-gold-and-boost-your-skills-with-affordable-game-dev-classes-insights-from-zdnet/"><u>Slash Your Subscription Costs by Half for Xbox Live Gold & Boost Your Skills with Affordable Game Dev Classes - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-talk-decoded-which-will-win-in-the-iphone-vs-android-battle-for-your-preferences/"><u>Tech Talk Decoded: Which Will Win in the iPhone Vs. Android Battle for Your Preferences?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-technology-resume-layouts-expert-choices-revealed/"><u>Top-Ranked Technology Resume Layouts: Expert Choices Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-access-to-free-ai-image-learning-masterful-techniques-on-udemy-revealed-by-zdnet/"><u>Unlock Access to Free AI Image Learning: Masterful Techniques on Udemy Revealed by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips-from-zdnet/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips From ZDNet</u></a></li>
+</ul></div>
+

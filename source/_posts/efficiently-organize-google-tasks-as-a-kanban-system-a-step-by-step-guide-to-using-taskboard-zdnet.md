@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Organize Google Tasks as a Kanban System: A Step-by-Step Guide to Using TaskBoard (ZDNet)"
-date: 2024-09-17 20:47:56
-updated: 2024-09-20 11:37:57
+date: 2025-01-05T21:12:58.933Z
+updated: 2025-01-12T19:52:59.622Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-cinematographer-hub/"><u>[New] 2024 Approved Digital Cinematographer Hub</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-secrets-of-your-personalized-youtube-playlists/"><u>[New] Unlocking the Secrets of Your Personalized Youtube Playlists</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beginners-guide-to-budget-friendly-webinars-using-youtube/"><u>[Updated] Beginner's Guide to Budget-Friendly Webinars Using YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-hdr-portrait-perfection-professional-photography-techniques/"><u>2024 Approved HDR Portrait Perfection Professional Photography Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fostering-future-tech-the-synergistic-impact-of-ai-and-5g-on-advancements/"><u>Fostering Future Tech: The Synergistic Impact of AI and 5G on Advancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-restore-metas-disabled-quest-headset-functionality-with-easy-hack-tricks-zdnet-insights/"><u>How to Restore Meta's Disabled Quest Headset Functionality with Easy Hack Tricks | ZDNet Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-k11x-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo K11x to New Android? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-innovative-approaches-to-tiktok-lives-from-desktop-devices/"><u>In 2024, Innovative Approaches to TikTok Lives From Desktop Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/lenovo-thinkreality-a3-immersive-experience-with-mixed-reality-technology-insights-from-zdnet/"><u>Lenovo ThinkReality A3: Immersive Experience with Mixed Reality Technology - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pursuing-fitness-utilizing-chatgpt-for-clear-targets/"><u>Pursuing Fitness: Utilizing ChatGPT for Clear Targets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-sound-driver-in-windows-7-troubleshooting-made-easy/"><u>Reviving the Sound Driver in Windows 7 - TroubleShooting Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-workplace-an-in-depth-enterprise-guide-to-xr-digital-twins-and-3d-interfaces-for-user-experience-optimization-expert-tips-from-zdnet/"><u>Revolutionizing the Workplace: An In-Depth Enterprise Guide to XR, Digital Twins, and 3D Interfaces for User Experience Optimization | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-working-from-home-for-tech-experts-with-vr-and-digital-twins-expert-analysis-by-zdnet/"><u>The Future of Working From Home for Tech Experts with VR and Digital Twins | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-storage-solution-for-sony-a7s-ii/"><u>Ultimate Storage Solution for Sony A7S II</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-tech-enthusiasts-are-buzzing-about-apples-vision-pro-top-9-factors-influencing-purchases-of-this-high-end-3500-gear/"><u>Why Tech Enthusiasts Are Buzzing About Apple's Vision Pro - Top 9 Factors Influencing Purchases of This High-End $3,500 Gear</u></a></li>
+</ul></div>
+

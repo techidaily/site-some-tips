@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your Echo Device with Alexa-Based Smart Routines – A Step-by-Step Guide
-date: 2024-09-19 16:12:44
-updated: 2024-09-20 12:47:51
+date: 2025-01-07T19:20:12.709Z
+updated: 2025-01-12T18:29:31.029Z
 tags:
   - amazon
 categories:
@@ -35,6 +35,10 @@ Sure, you can just let her give her standard "OK" response, but that's boring. I
 
 You'll need a smartphone with the Alexa app installed, and any Echo smart speaker or smart display. The estimated time this should take is 1 to 2 minutes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Alexa app and create a new routine, or edit an existing one
 
 Either create a new routine (by tapping the **+** at the top right of the **Routines** page found under the **More** tab) or open one of your existing routines. Then tap on the last of the three primary options: **Add action**. 
@@ -44,6 +48,10 @@ This section allows you to add smart home functions, briefings, communications a
 Whether you're creating a new routine from scratch (above left) or you're editing an existing one (above right), you'll need to tap the "Add action" button to get started.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Open the Alexa Says menu
 
@@ -95,6 +103,10 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I create a routine with no other actions and still get a response?
 
 Yes. All you need to create a routine is a name, a trigger event (time of day, you asking a specific question, etc.), and at least one action, even if that action is just a verbal response from Alexa. This is particularly handy when you're mainly interested in having Alexa say something important, like in the scenarios mentioned in our next FAQ entry.
@@ -102,6 +114,10 @@ Yes. All you need to create a routine is a name, a trigger event (time of day, y
 ## What are some good ways to use customized responses? 
 
 Many customized responses to Alexa Routines are just something to make Alexa feel a little bit more human. But there are plenty of more practical applications where a customized response can actually be downright useful, or at least entertaining. Here are just a few: 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -121,6 +137,10 @@ Alexa can easily recite individual letters and numbers, but you'll have to type 
 **Also:** [**Where do tech pros go for tech support? Four fix-it strategies**](https://www.zdnet.com/article/where-do-tech-pros-go-for-tech-support-here-are-their-top-four-fix-it-strategies/)
 
 If there's a particular question you keep getting asked over and over again, turn it into a routine. Just let them know they can ask Alexa next time and set up her reply with something like, "Press the Input button on the remote and choose HDMI 1," or, "Check to see if the little switch on the top left of your phone is showing an orange dot. If so, flip it the other way." Alexa won't complain, no matter how many times they ask.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I have Alexa reply from a different device? 
 
@@ -149,11 +169,26 @@ If you open the Your Routines section of the Alexa app, you'll notice each routi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-seamless-tweet-to-facebook-video-transfers-users/"><u>[Updated] Seamless Tweet-to-Facebook Video Transfers Users</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/44cm44ol44kz44ol44kz44ob44oj44oz44on44or44gn44gk5rcx44gr5ywl44kk44gu5yuv55s744ks5a6j5ywo44gr5lplusd566h44gz44kl44gf44kb44gu44ks44kk44oj44cn/"><u>「ニコニコチャンネルでお気に入りの動画を安全に保管するためのガイド」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999305724-banished-from-worlds-and-diablo-heres-how-to-fix-your-lost-access-to-blizzard-games/"><u>Banished From Worlds and Diablo? Here's How to Fix Your Lost Access to Blizzard Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/crafting-personalized-ui-prompts-with-wix-a-guide-to-tailoring-user-input-dialogues/"><u>Crafting Personalized UI Prompts with WiX: A Guide to Tailoring User Input Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancing-edge-6-innovative-ways-to-utilize-chatgpt/"><u>Freelancing Edge: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/implementing-significant-enhancements-in-msi-packages-with-the-help-of-wix-toolset/"><u>Implementing Significant Enhancements in MSI Packages with the Help of WiX Toolset</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/million-visioners-dissecting-the-money-behind-the-numbers-for-2024/"><u>Million Visioners Dissecting the Money Behind the Numbers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-software-deployment-top-replacements-for-installshield/"><u>Next-Level Software Deployment: Top Replacements for InstallShield</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-libexec32dll-file-cannot-be-found-a-step-by-step-guide/"><u>Resolving the 'libexec32.dll' File Cannot Be Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-file-removal-during-uninstallation-with-wix-toolset/"><u>Step-by-Step Guide: File Removal During Uninstallation with WiX Toolset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-setting-your-install-directory-right-on-wix/"><u>Step-by-Step Guide: Setting Your Install Directory Right on Wix</u></a></li>
+</ul></div>
+

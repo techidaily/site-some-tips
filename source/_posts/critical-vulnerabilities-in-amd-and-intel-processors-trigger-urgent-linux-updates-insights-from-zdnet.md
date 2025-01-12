@@ -1,7 +1,7 @@
 ---
 title: Critical Vulnerabilities in AMD & Intel Processors Trigger Urgent Linux Updates - Insights From ZDNet
-date: 2024-09-19 13:28:41
-updated: 2024-09-20 11:28:54
+date: 2025-01-09T19:32:37.005Z
+updated: 2025-01-12T18:16:28.013Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,33 @@ So, what should you do? Get ready to install the new microcode as soon as it's a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-visuals-with-hyperlapse-cinematography/"><u>[New] 2024 Approved Elevating Visuals with Hyperlapse Cinematography</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-building-wealth-through-video-content-revenue/"><u>2024 Approved Building Wealth Through Video Content Revenue</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728480072657-ssd/"><u>重要SSD程序：頂尖二選和複製詳解</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beating-the-apple-vision-game-saving-big-on-corrective-eyewear-with-revolutionary-xr-glasses-tech-insights/"><u>Beating the Apple Vision Game: Saving Big on Corrective Eyewear with Revolutionary XR Glasses | Tech Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-enhance-emotional-support-systems-or-does-it-pose-a-risk-to-mental-stability/"><u>Can AI Enhance Emotional Support Systems, Or Does It Pose a Risk to Mental Stability?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/facebook-meta-halts-work-on-vr-headset-quest-pro-and-its-successor/"><u>Facebook Meta Halts Work on VR Headset 'Quest Pro' And Its Successor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco M6 Pro 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-ai-with-the-essential-6-building-blocks-of-digital-twins-for-modern-business-success-zdnet-insights/"><u>Leveraging AI with the Essential 6 Building Blocks of Digital Twins for Modern Business Success | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-htcs-entry-into-the-metaverse-realm-without-spending-a-penny-insights-for-today-zdnet/"><u>Navigating HTC's Entry Into the Metaverse Realm Without Spending a Penny - Insights for Today | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-comprehensive-guide-of-7-key-issues-for-businesses-insights-from-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twins: A Comprehensive Guide of 7 Key Issues for Businesses - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-apple-approach-to-advanced-eyewear-discover-how-much-extra-youll-spend-on-innovative-visual-aids-cutting-edge-gadgets-reviewed-at-zdnet/"><u>The Apple Approach to Advanced Eyewear: Discover How Much Extra You'll Spend on Innovative Visual Aids | Cutting Edge Gadgets Reviewed at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-strategies-suggested-by-apple-for-optimizing-user-experience-on-visionos-insights-from-zdnet/"><u>Top 7 Strategies Suggested by Apple for Optimizing User Experience on VisionOS - Insights From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

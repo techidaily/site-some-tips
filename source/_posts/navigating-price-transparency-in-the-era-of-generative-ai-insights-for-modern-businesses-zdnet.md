@@ -1,7 +1,7 @@
 ---
 title: "Navigating Price Transparency in the Era of Generative AI: Insights for Modern Businesses | ZDNet"
-date: 2024-09-18 14:17:18
-updated: 2024-09-20 11:37:35
+date: 2025-01-07T20:19:48.029Z
+updated: 2025-01-12T18:57:33.564Z
 tags:
   - cloud
 categories:
@@ -65,6 +65,10 @@ This is an issue that companies will need to be cautious about or costs can esca
 
 It also means organizations have to map out the processes, including data availability, needed to run a query and achieve the desired outcome, so they can measure the cost of applying generative AI to the use case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Letting customers create their own prompts
 
 Salesforce this week previewed new generative AI offerings that its executives said would enable enterprise customers to more easily customize these tools to support their operations. 
@@ -126,11 +130,27 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Dreamforce 2023 in San Fr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>[Updated] 2024 Approved Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pioneering-platform-potential-the-10-most-effective-igtv-strategies-for-brands/"><u>[Updated] Pioneering Platform Potential The 10 Most Effective IGTV Strategies for Brands</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1-restoring-your-lost-obs-footage-a-step-by-step-guide/"><u>1. Restoring Your Lost OBS Footage: A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-zero-30-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Zero 30 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-configuration-lost-in-windows-11/"><u>Display Configuration Lost in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/landing-a-tech-industry-internship-step-by-step-strategies-from-zdnet/"><u>Landing a Tech Industry Internship: Step-by-Step Strategies From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/large-scale-language-models-unpacked/"><u>Large-Scale Language Models Unpacked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-ai-training-without-stress-expert-tips-from-zdnet/"><u>Navigating AI Training Without Stress: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-5-pivotal-reasons-companies-want-to-limit-ai-assistants/"><u>The 5 Pivotal Reasons Companies Want to Limit AI Assistants</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-crisis-in-coding-careers-unraveling-the-impact-of-recruitment-failures-on-developer-well-being-zdnet-perspectives/"><u>The Crisis in Coding Careers: Unraveling the Impact of Recruitment Failures on Developer Well-Being | ZDNET Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-coding-schools-find-the-ideal-tech-education-according-to-zdnet/"><u>Top 10 Coding Schools : Find the Ideal Tech Education - According to ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-airpods-charge-issues-with-these-9-effective-tips/"><u>Troubleshoot AirPods Charge Issues with These 9 Effective Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-guide-to-smooth-sailing-through-ai-skill-mastery/"><u>ZDNet's Guide to Smooth Sailing Through AI Skill Mastery</u></a></li>
+</ul></div>
+

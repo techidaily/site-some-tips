@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know
-date: 2025-01-04T23:15:51.831Z
-updated: 2025-01-05T22:42:29.263Z
+date: 2025-01-07T18:33:41.669Z
+updated: 2025-01-12T16:16:41.032Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -58,6 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -70,10 +70,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -83,7 +79,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -96,15 +92,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -119,6 +115,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -137,7 +137,7 @@ I've always felt like the Control Center is slightly underrated for all the stuf
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
@@ -180,20 +180,22 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>[New] In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pixicapture-studio-winos-series/"><u>[New] In 2024, PixiCapture Studio WinOS Series</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-must-know-about-youtube-shorts-explained/"><u>[New] The Must-Know About YouTube Shorts Explained</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unearthing-sources-with-reverse-image-techniques-on-insta/"><u>[Updated] In 2024, Unearthing Sources with Reverse Image Techniques on Insta</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-must-try-top-5-mac-streaming-applications/"><u>[Updated] Must-Try Top 5 Mac Streaming Applications</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/asus-vg245h-transforming-console-gaming-with-cutting-edge-technology/"><u>Asus VG245H: Transforming Console Gaming with Cutting-Edge Technology</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/chinese-script-for-newcomers/"><u>Chinese Script for Newcomers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/crafting-tomorrows-innovation-expert-insights-into-ai-construction-zdnet/"><u>Crafting Tomorrow's Innovation: Expert Insights Into AI Construction | ZDNet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/easily-accessing-contents-of-zip-files-in-windows-expert-advice-from-yl-software-solutions/"><u>Easily Accessing Contents of .zip Files in Windows: Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/embracing-change-the-leap-in-open-source-ai-definitions-discover-the-evolution-on-zdnet/"><u>Embracing Change: The Leap in Open Source AI Definitions - Discover the Evolution on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-rising-popularity-of-openstack-and-kata-containers-in-todays-tech-landscape/"><u>Exploring the Rising Popularity of OpenStack and Kata Containers in Today's Tech Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hardworking-diligent/"><u>Hardworking - Diligent</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leading-analysts-predict-ai-as-a-game-changer-for-securing-digital-frontiers-uncover-the-potential-with-zdnet/"><u>Leading Analysts Predict AI as a Game-Changer for Securing Digital Frontiers - Uncover the Potential with ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970494230-mrsa-is-an-example-of-a-bacteria-that-has-developed-resistance-to-commonly-used-antibiotics-like-methicillin/"><u>MRSA Is an Example of a Bacteria that Has Developed Resistance to Commonly Used Antibiotics Like Methicillin</u></a></li>
-<li><a href="https://some-tips.techidaily.com/newly-released-glorious-64-bit-os-now-compatible-with-raspberry-pi-installation-guide/"><u>Newly Released Glorious 64-Bit OS Now Compatible with Raspberry Pi - Installation Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-depth-look-at-vsdc-plus-top-competitors/"><u>[New] In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pushing-the-boundaries-with-sony-discovering-4k-on-smartphones/"><u>[New] Pushing the Boundaries with Sony - Discovering 4K on Smartphones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-upside-down-up-in-popularity-the-instagram-way/"><u>[Updated] 2024 Approved Upside Down, Up in Popularity The Instagram Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-all-facets-of-adobes-storage-system-and-its-equivalents-in-the-market/"><u>[Updated] All Facets of Adobe's Storage System & Its Equivalents in the Market</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-malware-while-securing-free-and-safe-vlc-download-on-macos/"><u>2024 Approved Avoiding Malware While Securing Free & Safe VLC Download on macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-eyes-2026-release-of-camera-equipped-airpods-a-game-changer-in-wearable-tech/"><u>Apple Eyes 2026 Release of Camera-Equipped AirPods: A Game-Changer in Wearable Tech?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-airpower-charger-resurfaces-a-fresh-update-or-a-rehash-of-the-discontinued-qi-compatible-mat/"><u>Apple's AirPower Charger Resurfaces: A Fresh Update or a Rehash of the Discontinued Qi-Compatible Mat?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-upcoming-6-key-artificial-intelligence-enhancements-in-ios-18-for-iphones-plus-future-innovations/"><u>Discover the Upcoming 6 Key Artificial Intelligence Enhancements in iOS 18 for iPhones, Plus Future Innovations!</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro/"><u>In 2024, Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/431761-9781439102541-mystic-cool/"><u>Mystic Cool | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-charging-solutions-discover-how-esrs-new-qi2-magsafe-adapters-power-up-iphone-16-devices-quickly-and-coolly-exclusive/"><u>Revolutionary Charging Solutions: Discover How ESR's New Qi2 MagSafe Adapters Power Up iPhone 16 Devices Quickly and Coolly – Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-charge-routine-with-the-triple-threat-magsafe-dock-keep-apple-devices-cool-and-powered-up-read-more-at-zdnet/"><u>Revolutionize Your Charge Routine with the Triple Threat MagSafe Dock | Keep Apple Devices Cool & Powered Up – Read More at ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-apple-vision-tricks-handbook-achieve-crystal-clear-screenshots-and-recordings-without-hiccups-zdnet-exclusive/"><u>The Complete Apple Vision Tricks Handbook: Achieve Crystal Clear Screenshots and Recordings Without Hiccups | ZDNET Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-selection-of-must-have-applications-and-services-for-your-pc-or-mac-curated-by-zdnet-experts/"><u>The Ultimate Selection of Must-Have Applications & Services for Your PC or Mac, Curated by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-small-tablet-picks-comprehensive-expert-reviews/"><u>Top Rated Small Tablet Picks : Comprehensive Expert Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trustworthy-freemium-x-dvd-platform-for-safe-downloads-of-films-and-apps/"><u>Trustworthy Freemium X-DVD Platform for Safe Downloads of Films & Apps</u></a></li>
 </ul></div>
 
