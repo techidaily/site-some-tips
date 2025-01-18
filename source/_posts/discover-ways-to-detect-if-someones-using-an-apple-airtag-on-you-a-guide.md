@@ -1,7 +1,7 @@
 ---
 title: "Discover Ways to Detect If Someone's Using an Apple AirTag on You: A Guide"
-date: 2025-01-10T16:12:53.110Z
-updated: 2025-01-12T20:34:52.050Z
+date: 2025-01-16T18:29:48.830Z
+updated: 2025-01-18T03:58:08.883Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ In this article, I answer a relatively common reader question: _What does it all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Understanding the CPU
 
@@ -61,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -87,7 +83,7 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -111,7 +107,7 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -157,7 +153,7 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  M1, M2, M3, Pro, Max, and Ultra
@@ -181,6 +177,10 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -222,20 +222,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-become-a-digital-native-in-the-metaverse-now-for-2024/"><u>[New] Become a Digital Native in the Metaverse Now for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-7-dslr-cameras-for-vlogging/"><u>[Updated] 2024 Approved Best 7 DSLR Cameras for Vlogging</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-masterful-designers-top-insta-hlv-page-builders/"><u>[Updated] Masterful Designers Top Insta HLV Page Builders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-navigating-the-green-screen-landscape-for-webcam-enthusiasts/"><u>2024 Approved Navigating the Green Screen Landscape for Webcam Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-guide-iphones-that-are-set-to-integrate-with-apples-latest-artificial-intelligence-enhancements-including-a-revamped-siri/"><u>Comprehensive Guide: IPhones That Are Set to Integrate with Apple's Latest Artificial Intelligence Enhancements, Including a Revamped Siri</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decode-and-fix-understanding-and-resolving-the-steamdll-is-absent-problem/"><u>Decode and Fix: Understanding & Resolving the Steam.dll Is Absent Problem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/extend-your-day-with-the-apple-watchs-low-power-feature-a-simple-guide-to-optimization-by-techexpert/"><u>Extend Your Day with the Apple Watch's Low Power Feature – A Simple Guide to Optimization by TechExpert</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sierras-icloud-full-desktop-and-document-liberation/"><u>In 2024, Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maintain-a-natural-flow-with-those-keywords-while-adhering-to-readability-guidelines-eebtween-50-60-characters/"><u>Maintain a Natural Flow with Those Keywords While Adhering to Readability Guidelines (e.ebtween 50-60 Characters).</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pros-and-cons-of-switching-to-the-iphone-16-insights-from-zdnet-experts/"><u>Pros & Cons of Switching to the iPhone 16 - Insights From ZDNet Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-apple-watch-experience-with-these-simple-setup-tweaks-for-extended-battery-life-insights-from-zdnet/"><u>Revolutionize Your Apple Watch Experience with These Simple Setup Tweaks for Extended Battery Life - Insights From ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-apple-vision-pro-transforming-business-efficiency-across-various-industries-insights-from-5-successful-case-studies-zdnet/"><u>The Apple Vision Pro: Transforming Business Efficiency Across Various Industries - Insights From 5 Successful Case Studies (ZDNET)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-straps-of-2024-professional-reviews-and-comparisons-zdnet/"><u>Top-Rated Apple Watch Straps of 2024: Professional Reviews & Comparisons - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-from-iphone-to-pixel-made-simpler-thanks-to-new-apple-policy-changes-zdnet-insights/"><u>Transition From iPhone to Pixel Made Simpler Thanks to New Apple Policy Changes - ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-defense-for-iphone-se-top-cases-for-safeguarding-your-smartphone-techradar/"><u>Ultimate Defense for iPhone SE : Top Cases for Safeguarding Your Smartphone | TechRadar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-art-of-kinemaster-made-memes/"><u>[New] 2024 Approved The Art of KineMaster-Made Memes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-moviemakerpro-insights-full-analysis/"><u>[New] MovieMakerPro Insights – Full Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-professional-camera-choices-complete-360-guide-2023/"><u>[New] Top Professional Camera Choices - Complete 360 Guide 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-full-screen-mastery-achieved-in-obs/"><u>[Updated] Full Screen Mastery Achieved in Obs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-virtual-safari-androids-ultimate-animals-game-list/"><u>[Updated] In 2024, Virtual Safari Android's Ultimate Animals Game List</u></a></li>
+<li><a href="https://win-premium.techidaily.com/backdoor-threats-explained-effective-measures-for-safeguarding-your-electronic-gadgets-from-cyber-attacks/"><u>Backdoor Threats Explained: Effective Measures for Safeguarding Your Electronic Gadgets From Cyber Attacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/govees-intelligent-space-heater-now-just-40-cheaper-learn-more-on-zdnet/"><u>Govee's Intelligent Space Heater Now Just $40 Cheaper - Learn More on ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-enhance-vfx-artistry-in-your-videos-with-integrated-free-lut-support-from-obs/"><u>In 2024, Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-latest-google-nest-smart-thermostat-comprehensive-guide-on-capabilities-technical-details-costing-and-additional-insights-techradar59/"><u>In-Depth Analysis of the Latest Google Nest Smart Thermostat: Comprehensive Guide on Capabilities, Technical Details, Costing & Additional Insights - TechRadar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-14-evaluation-by-zdnet-shows-just-the-right-balance-of-quality-and-functionality/"><u>IPhone 14 Evaluation by ZDNET Shows Just the Right Balance of Quality and Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-the-ultimate-guide-to-using-manycam-as-your-go-to-live-streaming-and-remote-camera-tool/"><u>Real-Time Broadcasting: The Ultimate Guide to Using ManyCam as Your Go-To Live Streaming and Remote Camera Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-solar-powered-lighting-options-expert-reviews-and-comparisons/"><u>Top 5 Solar Powered Lighting Options - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-expert-picked-best-flashlights-featured-on-zdnet/"><u>Top Expert-Picked Best Flashlights - Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-recommended-space-heaters-expert-review-by-zdnet/"><u>Top Recommended Space Heaters - Expert Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-electric-vehicle-home-charging-stations-industry-experts-picks-zdnet/"><u>Top-Rated Electric Vehicle Home Charging Stations : Industry Experts' Picks - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-rugged-outdoor-power-solutions-professional-insights-on-portable-generators-for-campers-pcmag/"><u>Ultimate Guide to Rugged Outdoor Power Solutions: Professional Insights on Portable Generators for Campers | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-travel-power-banks-of-2024-comprehensive-analysis-and-rankings-cnet/"><u>Ultimate Guide to the Best Travel Power Banks of 2024: Comprehensive Analysis and Rankings | CNET</u></a></li>
 </ul></div>
 

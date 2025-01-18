@@ -1,7 +1,7 @@
 ---
 title: "Amazon Introduces Humor as Key Ingredient in Boosting Interest on Cybersecurity: Meet Their Novel Approach!"
-date: 2024-09-19 15:36:53
-updated: 2024-09-20 10:38:14
+date: 2025-01-15T00:44:51.573Z
+updated: 2025-01-18T09:56:05.475Z
 tags:
   - amazon
 categories:
@@ -22,6 +22,10 @@ Chris Matyszczyk/screenshot
 It's easy to blame tech companies for the world's parlous state.
 
 It's somewhat accurate, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -88,11 +92,25 @@ This security thing is hard, isn't it?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-secrets-to-compelling-youtube-live-thumbnails-for-2024/"><u>[New] Unlocking Secrets to Compelling YouTube Live Thumbnails for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-mplayer-xtreme-next-gen-media-player/"><u>[Updated] 2024 Approved MPlayer Xtreme Next-Gen Media Player</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-ideal-12-vlogging-cameras-with-seamless-screen-control/"><u>[Updated] 2024 Approved Unveiling the Ideal 12 Vlogging Cameras with Seamless Screen Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-how-to-install-non-app-store-applications-on-your-iphone-safely-without-jailbreak/"><u>1. How To Install Non-App Store Applications On Your iPhone Safely Without Jailbreak</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-hidden-gem-an-outstanding-iphone-function-you-might-not-know-about/"><u>Discover Apple's Hidden Gem: An Outstanding iPhone Function You Might Not Know About</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a34-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A34 5G Device SIM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-latest-visionos-enhancements-transforming-personas-and-beyond-discover-the-updates-on-zdnet/"><u>Exploring Apple's Latest VisionOS Enhancements: Transforming Personas and Beyond - Discover the Updates on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/extract-ip-addresses-from-the-captured-output-using-regex-and-check-if-they-are-in-a-private-range-10xxx-17216-31xxx-or-192168xx/"><u>Extract IP Addresses From the Captured Output Using Regex and Check if They Are in a Private Range (10.x.x.x, 172.16-31.x.x.x, or 192.168.x.x).</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-troubleshoot-and-resolve-a-non-responsive-scanning-issue-expert-advice-from-yl-computing/"><u>How to Troubleshoot and Resolve a Non-Responsive Scanning Issue: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/passo-passo-per-il-recupero-dei-file-dopo-un-ripristino-di-sistema-su-windows-7/"><u>Passo Passo per Il Recupero Dei File Dopo Un Ripristino Di Sistema Su Windows 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pricey-reality-behind-exclusive-ai-tech-in-new-iphones-leaving-older-devices-behind/"><u>The Pricey Reality Behind Exclusive AI Tech in New iPhones, Leaving Older Devices Behind</u></a></li>
+</ul></div>
+

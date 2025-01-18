@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2025-01-09T19:49:20.855Z
-updated: 2025-01-12T16:05:43.408Z
+date: 2025-01-13T06:23:44.083Z
+updated: 2025-01-18T06:08:17.058Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -50,12 +50,16 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,6 +68,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -74,7 +82,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -95,17 +103,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -157,16 +157,14 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-hidden-whatsapp-gems-top-tricks-to-enhance-your-messaging-experience/"><u>[New] Hidden WhatsApp Gems Top Tricks to Enhance Your Messaging Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-close-up-mastery-in-video-production-via-videoleap/"><u>2024 Approved Close-Up Mastery in Video Production via Videoleap</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-shots-with-ios-a-guide-to-iphone-cropping-features/"><u>2024 Approved Perfect Shots with iOS A Guide to iPhone Cropping Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciding-on-your-ideal-tablet-in-depth-comparison-of-apples-latest-ipad-pro-models-with-m1-and-m2-processors-expert-review-by-zdnet/"><u>Deciding on Your Ideal Tablet: In-Depth Comparison of Apple's Latest iPad Pro Models with M1 & M2 Processors | Expert Review by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-high-tech-2023-gift-ideas-perspective/"><u>Discover the Ultimate List of High-Tech 2023 Gift Ideas Perspective</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-enhancements-top-new-functionalities-of-apples-watchos-11-revealed-zdnet/"><u>Exciting Enhancements: Top New Functionalities of Apple's WatchOS 11 Revealed | ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/macbook-air-showdown-which-is-better-the-new-m3-or-last-years-m2-deciding-on-apples-latest-laptops-cnet/"><u>MacBook Air Showdown: Which Is Better, The New M3 or Last Year's M2? Deciding on Apple’s Latest Laptops | CNET</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-audio-editing-essentials-learn-l-cuts-and-j-cuts-for-2024/"><u>New FCPX Audio Editing Essentials Learn L-Cuts and J-Cuts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-im-choosing-the-new-iphone-16-pro-instead-of-max-apples-persuasive-argument-unveiled-tech-insights-by-zdnet/"><u>Why I'm Choosing the New iPhone 16 Pro Instead of Max : Apple's Persuasive Argument Unveiled | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolutionizes-apple-developers-toolkit-now-free-discover-the-upgrade-with-tech-news-from-zdnet/"><u>AI Revolutionizes Apple Developers' Toolkit - Now FREE: Discover the Upgrade with Tech News From ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/businesses-can-now-personalize-googles-vector-ai-for-internal-use-thanks-to-recent-updates/"><u>Businesses Can Now Personalize Google's Vector AI for Internal Use, Thanks to Recent Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/canonical-unveils-distroless-a-groundbreaking-approach-to-secure-streamlined-linux-environments-for-large-scale-businesses-zdnet/"><u>Canonical Unveils 'Distroless': A Groundbreaking Approach to Secure, Streamlined Linux Environments for Large-Scale Businesses | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-future-with-nvidias-presentation-on-ai-computing-at-ces-2nw-2024-tech-analysis-by-zdnet/"><u>Exploring the Future with Nvidia's Presentation on AI Computing at CES 2Nw 2024 | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-12-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus 12 Phone?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-superior-methods-obs-streaming-onto-facebook/"><u>In 2024, Superior Methods OBS Streaming Onto Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-sign-in-hurdles-with-ease/"><u>Navigating ChatGPT Sign-In Hurdles with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-guide-converting-videos-to-mobile-friendly-format-in-seconds/"><u>Quick & Simple Guide: Converting Videos to Mobile-Friendly Format in Seconds!</u></a></li>
 </ul></div>
 

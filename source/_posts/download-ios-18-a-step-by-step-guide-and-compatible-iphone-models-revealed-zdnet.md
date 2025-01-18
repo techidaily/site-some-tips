@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2025-01-10T19:36:57.994Z
-updated: 2025-01-12T20:07:11.777Z
+date: 2025-01-11T10:10:30.177Z
+updated: 2025-01-17T20:40:14.829Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -37,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -52,10 +48,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -63,17 +55,21 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,20 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>[New] Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-6-best-4k-full-frame-camera/"><u>[Updated] 2024 Approved Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-prevent-thumbnail-absence-in-shorts-uploads-for-2024/"><u>[Updated] How to Prevent Thumbnail Absence in Shorts Uploads for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-11-year-olds-financial-rise-via-youtube-stardom/"><u>[Updated] In 2024, 11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/connective-horizons-proven-methods-for-intercultural-conversation/"><u>Connective Horizons: Proven Methods for Intercultural Conversation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/dive-into-comics-like-never-before-apple-vision-pro-opens-doors-to-the-marvel-world-on-may-30/"><u>Dive Into Comics Like Never Before – Apple Vision Pro Opens Doors to the Marvel World on May 30</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-guide-capturing-screenshots-and-recording-video-clips-on-iphones/"><u>Easy Guide: Capturing Screenshots and Recording Video Clips on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-ways-to-stay-connected-messaging-loved-ones-from-your-apple-watch/"><u>Effortless Ways to Stay Connected: Messaging Loved Ones From Your Apple Watch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortlessly-enhance-your-systems-graphics-speed-upgrade-intel-drivers-in-windows/"><u>Effortlessly Enhance Your System's Graphics Speed, Upgrade Intel Drivers in WIndows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-guide-how-to-get-your-new-ipad-up-and-running-perfectly-tips/"><u>Essential Guide: How To Get Your New iPad Up & Running Perfectly - Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-dialogue-with-the-release-of-tvos-18-elevate-your-apple-tvs-auditory-experience-news/"><u>Experience Enhanced Dialogue with the Release of TVOS 18 - Elevate Your Apple TV's Auditory Experience News</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-peek-at-all-shared-images-and-videos-in-chats/"><u>In 2024, Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://win-popular.techidaily.com/professionelle-raw-drive-rettungstechniken-keine-formatierung-erforderlich-garantiert-schnell-und-sicher/"><u>Professionelle RAW-Drive-Rettungstechniken - Keine Formatierung Erforderlich, Garantiert Schnell Und Sicher</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-pc-brands-ranked-apple-dell-and-others-face-off-insights-from-zdnet/"><u>Top PC Brands Ranked: Apple, Dell & Others Face-Off - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-how-the-rarely-spotted-ipad-pro-bargains-lead-up-to-prime-day-insights/"><u>Unlocking the Secrets: How the Rarely-Spotted iPad Pro Bargains Lead Up to Prime Day - Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-synergy-integrating-linktree-into-your-tiktok-profile/"><u>[Updated] Achieving Synergy Integrating Linktree Into Your TikTok Profile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-software-purchasers-demand-immediate-access-to-artificial-intelligence-insights-from-a-zdnet-analysis/"><u>1. 'Software Purchasers Demand Immediate Access to Artificial Intelligence: Insights From a ZDNet Analysis'</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-imaginedge-coder/"><u>2024 Approved ImaginEdge Coder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-full-stack-web-dev-bootcamps-a-comprehensive-guide-to-the-top-training-programs-and-key-insights/"><u>Best Full-Stack Web Dev Bootcamps - A Comprehensive Guide to the Top Training Programs & Key Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-talent-retention-by-adopting-low-code-platforms-according-to-zdnets-analysis/"><u>Boost Talent Retention by Adopting Low-Code Platforms, According to ZDNet's Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-future-insights-from-gartners-2-input/"><u>Decoding the Future: Insights From Gartner's 2 [Input]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-next-level-gaming-with-asuss-rog-swift-pg34wcdm-a-thorough-review-of-its-exquisite-240hz-oled-visual-experience-and-top-tier-gameplay-dynamics/"><u>Discover Next-Level Gaming with ASUS's ROG Swift PG34WCDM: A Thorough Review of Its Exquisite 240Hz OLED Visual Experience & Top-Tier Gameplay Dynamics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/does-googles-lamda-ai-show-genuine-sentience-or-just-mimics-conversational-skills-insights-for-seo-from-zdnet/"><u>Does Google's LaMDA AI Show Genuine Sentience or Just Mimics Conversational Skills? Insights for SEO From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-laptop-with-enhanced-4k-support-via-innovative-gadget-discover-how-zdnet/"><u>Elevate Your Laptop with Enhanced 4K Support via Innovative Gadget - Discover How! [ZDNET]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/googles-latest-ai-lamda-more-than-meets-the-eye-of-an-ordinary-chatbot/"><u>Google's Latest AI LaMDA – More Than Meets the Eye of an Ordinary Chatbot</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p40-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-content-restrictions-on-youtube-videos-for-2024/"><u>Mastering Content Restrictions on YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/maximizing-viewing-experience-in-android-for-2024/"><u>Maximizing Viewing Experience in Android for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-iphone-the-ringtone-alteration-process-for-2024/"><u>Navigating iPhone The Ringtone Alteration Process for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-4200-cves-annually-in-linux-expert-tips-to-keep-your-system-secure-and-unfazed/"><u>Navigating Through 4200 CVEs Annually in Linux: Expert Tips to Keep Your System Secure and Unfazed</u></a></li>
+<li><a href="https://win-special.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-software-malfunction-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Software Malfunction - Insights From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-top-picks-for-excellence-in-web-development-education/"><u>ZDNet's Top Picks for Excellence in Web Development Education</u></a></li>
 </ul></div>
 

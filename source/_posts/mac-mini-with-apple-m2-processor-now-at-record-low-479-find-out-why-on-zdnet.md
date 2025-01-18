@@ -1,7 +1,7 @@
 ---
 title: Mac Mini with Apple M2 Processor Now at Record Low $479 - Find Out Why on ZDNet
-date: 2025-01-07T17:01:21.206Z
-updated: 2025-01-12T17:37:40.024Z
+date: 2025-01-16T07:06:14.429Z
+updated: 2025-01-18T10:45:30.611Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Just like its predecessor the M1 Mac Mini, the M2 Mac Mini doesn't have an overa
 If you're looking to snag the M2 Mac mini for school, work, or personal use, there's no better time than right now, when it is available for $120 off and its lowest price yet. Shop this deal at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHGHGXR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce79e294a-7f52-4035-8d5b-4c43c97df560%7Cdtp&dtb=1) while stock and these savings last. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-screen-decoder-for-2024/"><u>[New] Capture Screen Decoder for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-step-by-step-process-for-screening-web-tv-episodes/"><u>[New] The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-channel-potential-across-diverse-digital-venues/"><u>[Updated] Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-showcase-misses-major-ai-developments-teasing-future-innovations-zdnet/"><u>Apple's Showcase Misses Major AI Developments, Teasing Future Innovations | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoiding-excessive-data-usage-essential-sms-strategies/"><u>Avoiding Excessive Data Usage: Essential SMS Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-mp3-player-of-the-year-comprehensive-review-for-2n4-engadget/"><u>Best MP3 Player of the Year: Comprehensive Review for 2N4 | Engadget</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/developing-apples-augmented-reality-eyewear-an-insider-look-at-future-affordable-vision-tech/"><u>Developing Apple's Augmented Reality Eyewear: An Insider Look at Future Affordable Vision Tech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-windows-and-mac-tools-discover-the-top-11-must-have-applications-for-your-computer/"><u>Essential Windows & Mac Tools: Discover the Top 11 Must-Have Applications for Your Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-legitimacy-of-truthgpt-tokens/"><u>Evaluating the Legitimacy of TruthGPT Tokens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-groundbreaking-synergy-between-artifice-intelligence-and-the-new-m4-ipad-pro-at-wwdc-zdnet/"><u>Exploring the Groundbreaking Synergy Between Artifice Intelligence and the New M4 iPad Pro at WWDC | ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Camon 30 Pro 5G?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-solved-obs-full-screen-anomaly/"><u>In 2024, Solved OBS Full Screen Anomaly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/leveraging-adobe-connect-for-exceptional-video-capture-and-editing-for-2024/"><u>Leveraging Adobe Connect for Exceptional Video Capture & Editing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-your-inbox-how-one-simple-email-strategy-can-clear-the-chaos-without-extra-accounts-or-rigid-regulations-zdnet/"><u>Simplify Your Inbox: How One Simple Email Strategy Can Clear the Chaos Without Extra Accounts or Rigid Regulations | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-your-creativity-with-craft-on-macos-a-step-by-step-walkthrough-of-microsofts-powerful-document-tool-for-apple-enthusiasts/"><u>Unleash Your Creativity with Craft on macOS: A Step-by-Step Walkthrough of Microsoft's Powerful Document Tool for Apple Enthusiasts!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-meta-quest-3s-future-with-ai-features-before-apple-vision-pro-arrives-setup-guide-zdnet/"><u>Unlocking Meta Quest 3'S Future with AI Features Before Apple Vision Pro Arrives: Setup Guide | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-enhanced-in-store-testing-of-apples-vision-pro-learn-why-it-excels-and-how-to-book-yours-gadgetguru/"><u>Unveiling the Enhanced In-Store Testing of Apple's Vision Pro - Learn Why It Excels and How to Book Yours | GadgetGuru</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-blur-background-in-zoom-with-ease-an-ultimate-guide/"><u>[New] In 2024, How to Blur Background in Zoom with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[New] In 2024, The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-trouble-laughter-league/"><u>[New] Tweeting Trouble Laughter League</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-evolution-from-previous-to-the-new-huawei-p10-model/"><u>[Updated] In 2024, The Evolution From Previous to the New Huawei P10 Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-rewind-to-save-incorporating-80s-vhs-in-todays-cinematic-edits/"><u>2024 Approved From Rewind to Save Incorporating 80S VHS in Today's Cinematic Edits</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition/"><u>An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cheap-and-efficient-openai-enhances-accessibility-of-affordable-gpt-4-minimalist-version-for-custom-tuning-insights-from-zdnet/"><u>Cheap and Efficient: OpenAI Enhances Accessibility of Affordable GPT-4 Minimalist Version for Custom Tuning – Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/choosing-the-right-ev-charging-station-mobile-apps-a-guide-to-optimize-your-electric-car-experience/"><u>Choosing the Right EV Charging Station Mobile Apps: A Guide to Optimize Your Electric Car Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-gartners-2024-hype-cycle-predictions-insights-into-the-evolution-of-artificial-intelligence-and-emerging-technologies-zdnet/"><u>Decoding Gartner's 2024 Hype Cycle Predictions: Insights Into the Evolution of Artificial Intelligence & Emerging Technologies - ZDNet</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhanced-django-admin-experience-using-softui-and-bootstrap-nix-a-creatively-timed-solution/"><u>Enhanced Django Admin Experience Using SoftUI and Bootstrap Nix | A Creatively Timed Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-conflicts-between-artificial-intelligence-development-and-agile-approaches-latest-findings-revealed-zdnet-feature/"><u>Exploring the Conflicts Between Artificial Intelligence Development and Agile Approaches, Latest Findings Revealed | ZDNet Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/first-attempt-successfully-crashes-googles-gemini-15-ai-tool-insights-on-zdnet/"><u>First Attempt Successfully Crashes Google's Gemini 1.5 AI Tool | Insights on ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-12-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 12</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intels-ai-head-wei-li-on-democratizing-advanced-artificnial-intelligence-for-everyday-use/"><u>Intel's AI Head Wei Li on Democratizing Advanced Artificnial Intelligence for Everyday Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/outdated-manual-methods-vs-advanced-ai-techniques-the-future-of-intelligent-software-development-unveiled-on-zdnet/"><u>Outdated Manual Methods Vs. Advanced AI Techniques: The Future of Intelligent Software Development Unveiled on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/programming-languages-a-2016-present-trend-analysis-of-their-popularity-shifts-and-insights-for-the-future/"><u>Programming Languages: A 2016-Present Trend Analysis of Their Popularity Shifts & Insights for the Future</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-the-future-of-attracting-top-tier-technology-professionals/"><u>Revamping Recruitment Strategies: The Future of Attracting Top-Tier Technology Professionals</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reviving-your-iphone-without-a-backup-a-step-by-step-guide/"><u>Reviving Your iPhone Without a Backup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-demand-for-coders-meets-elevated-expectations-from-tech-employers-insights-from-zdnet/"><u>Rising Demand for Coders Meets Elevated Expectations From Tech Employers - Insights From ZDNet</u></a></li>
 </ul></div>
 

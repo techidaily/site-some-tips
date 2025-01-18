@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate Ubuntu & Xcode: A Step-by-Step Guide to Running Linux Inside Mac with an Easy Hack | ZDNet"
-date: 2025-01-10T17:11:36.767Z
-updated: 2025-01-12T16:26:32.919Z
+date: 2025-01-12T12:34:35.432Z
+updated: 2025-01-18T03:03:33.258Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
@@ -43,6 +39,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -74,10 +74,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -103,7 +99,7 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -119,9 +115,17 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -133,10 +137,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -144,10 +144,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,24 +197,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-thrilling-adventures-captured-pro-hero5-and-super-sj7/"><u>[New] 2024 Approved Thrilling Adventures Captured Pro Hero5 & Super SJ7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[New] In 2024, Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-preserve-your-display-win-os-snapshots-explained/"><u>[Updated] Preserve Your Display Win OS Snapshots Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-bargains-for-august-2023-unveiling-the-hottest-deals-featured-on-zdnet/"><u>Amazon Bargains for August 2023: Unveiling the Hottest Deals Featured on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-349-ipad-takes-center-stage-at-unpredictable-event-covered-by-zdnet/"><u>Apple's Latest $349 iPad Takes Center Stage at Unpredictable Event Covered by ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-startup-crashes-in-atomic-heart-effective-strategies-explored/"><u>Diagnosing and Fixing Startup Crashes in Atomic Heart - Effective Strategies Explored</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-alternative-to-appleankers-magsafe-wallets-on-steep-discount-zdnet-review/"><u>Discover the Ultimate Alternative to Apple/Anker's Magsafe Wallets on Steep Discount - ZDNet Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-steps-to-fix-your-discord-setup-hurdles/"><u>Effortless Steps to Fix Your Discord Setup Hurdles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-mac-for-longevity-the-step-by-step-process-of-enabling-low-power-mode-in-macos-monterey-tips-and-tricks/"><u>Optimize Your Mac for Longevity: The Step-by-Step Process of Enabling Low Power Mode in macOS Monterey | Tips and Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protecting-your-privacy-in-virtual-reality-the-essential-role-of-vpns-with-devices-like-vision-pro/"><u>Protecting Your Privacy in Virtual Reality: The Essential Role of VPNs with Devices Like Vision Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reverting-windows-errors-curb-dwarf-fortress-haltings/"><u>Reverting Windows Errors: Curb Dwarf Fortress Haltings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-assistive-technology-apple-unveils-eye-control-capabilities-for-ios-devices-learn-how-on-zdnet/"><u>Revolutionizing Assistive Technology: Apple Unveils Eye-Control Capabilities for iOS Devices - Learn How on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/set-up-apple-vision-pro-with-a-vpn-essential-guide-and-benefits-explore-easier-methods/"><u>Set Up Apple Vision Pro with a VPN: Essential Guide & Benefits - Explore Easier Methods</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y27-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y27 5G.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-wallet-reviews-of-2024-comprehensive-guide-by-tech-experts/"><u>Top-Rated AirTag Wallet Reviews of 2024 - Comprehensive Guide by Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-victors-in-depth-comparison-of-pixel-9-pro-xl-vs-iphone-15-pro-cameras-ends-in-unexpected-results/"><u>Unveiling the Victors: In-Depth Comparison of Pixel 9 Pro XL vs iPhone 15 Pro Cameras Ends in Unexpected Results!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726028916245-windowsmacdvd/"><u>WindowsとMacでのDVD動画データ抽出手順ガイド</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-identify-8-proven-video-promotion-tactics-for-success/"><u>[Updated] 2024 Approved Identify 8 Proven Video Promotion Tactics for Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[Updated] A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pioneering-podcast-titling-with-leading-ai-driven-apps/"><u>[Updated] In 2024, Pioneering Podcast Titling with Leading AI-Driven Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-gap-intels-ai-leader-wei-li-on-democratizing-advanced-ai-supercomputing-for-everyday-use-insights-from-zdnet/"><u>Bridging the Gap: Intel's AI Leader Wei Li on Democratizing Advanced AI Supercomputing for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-trio-mastering-the-top-3-languages-for-landing-your-dream-coding-role-insights-from-zdnet/"><u>Essential Trio: Mastering the Top 3 Languages for Landing Your Dream Coding Role - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-from-startup-to-giant-the-journey-of-a-stack-overflow-cto-in-managing-growth-on-zdnet/"><u>Evolution From Startup to Giant: The Journey of a Stack Overflow CTO in Managing Growth on ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/high-ranking-12-cameras-onboard-gps-for-motion-capture/"><u>High-Ranking 12 Cameras Onboard GPS for Motion Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-your-youtube-presence-key-tips-for-popularity/"><u>In 2024, Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unraveling-the-apple-podcast-app-submission-system/"><u>In 2024, Unraveling the Apple Podcast App Submission System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-gen-ai-landscape-the-emerging-dominance-of-rag-zdnet-insights/"><u>Navigating the Gen AI Landscape: The Emerging Dominance of RAG | ZDNet Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-spotify-not-replying-on-pcs-with-windows-11/"><u>Quick Fixes for Spotify Not Replying on PCs with Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12r-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ripple-effect-of-conflict-how-war-in-ukraine-poses-risks-to-information-technology-insights-from-zdnet/"><u>The Ripple Effect of Conflict: How War in Ukraine Poses Risks to Information Technology | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-future-tech-identifying-iphones-eligible-for-apples-latest-update-ios-18-zdnet-insights/"><u>Unveiling Future Tech: Identifying iPhones Eligible for Apple's Latest Update, iOS 18 | ZDNet Insights</u></a></li>
 </ul></div>
 

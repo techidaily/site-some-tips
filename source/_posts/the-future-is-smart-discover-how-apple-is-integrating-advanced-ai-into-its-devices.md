@@ -1,7 +1,7 @@
 ---
 title: The Future Is Smart - Discover How Apple Is Integrating Advanced AI Into Its Devices
-date: 2025-01-11T16:49:20.529Z
-updated: 2025-01-12T20:59:27.172Z
+date: 2025-01-11T04:00:45.873Z
+updated: 2025-01-17T20:47:41.718Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +53,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -73,7 +73,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -92,6 +92,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Periscope lenses push cameras to further distances
 
 The iPhone 15 Pro Max features Apple's first true telephoto lens, which the company calls "Tetraprism". 
@@ -109,10 +113,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,18 +168,14 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-transformative-voice-techniques-enhance-your-oratory-with-these-tools/"><u>[New] In 2024, Transformative Voice Techniques – Enhance Your Oratory with These Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-directors-weaving-visual-auditory-tapestries/"><u>[Updated] 2024 Approved Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-apple-macbook-air-showdown-choosing-between-the-powerful-m3-and-efficient-m2-models-a-comprehensive-guide-techradar/"><u>1. Apple MacBook Air Showdown: Choosing Between the Powerful M3 and Efficient M2 Models – A Comprehensive Guide | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-reviving-app-store-favorite-three-crucial-steps-apple-needs-to-rejuvenate-vision-pro-techwire/"><u>1. Reviving App Store Favorite: Three Crucial Steps Apple Needs to Rejuvenate 'Vision Pro' | TechWire</u></a></li>
-<li><a href="https://some-tips.techidaily.com/accelerated-iphone-16-charging-esrs-latest-qi2-magsafe-series-features-cold-efficiency-tech-for-swift-power-ups-insights/"><u>Accelerated iPhone 16 Charging: ESR's Latest Qi2 MagSafe Series Features Cold-Efficiency Tech for Swift Power Ups - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-most-affordable-and-eco-friendly-apple-airtag-substitutes-with-recharging-capabilities-zdnet-insights/"><u>Discover the Most Affordable & Eco-Friendly Apple AirTag Substitutes with Recharging Capabilities | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-apple-macbook-with-macos-15-top-new-features-unveiled-zdnet-exclusive/"><u>Enhance Your Apple MacBook with macOS 15: Top New Features Unveiled - ZDNet Exclusive</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtube-copyright-recordings-and-their-permissibility/"><u>In 2024, YouTube Copyright Recordings and Their Permissibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keep-your-pc-running-post-gpu-crashes-with-these-fixes/"><u>Keep Your PC Running Post-GPU Crashes with These Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-hdmi-connection-issues-restore-sound-from-computers-to-monitors-and-televisions/"><u>Solve HDMI Connection Issues - Restore Sound From Computers to Monitors and Televisions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-video-editing-using-luts-with-obs-studio/"><u>Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranking-mac-models-of-2024-expert-picks-by-zdnet/"><u>Top-Ranking Mac Models of 2024: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-issues-with-amazon-prime-video-streams/"><u>Troubleshooting Guide: Fixing Issues with Amazon Prime Video Streams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-injecting-spark-into-your-unique-podcast-format/"><u>[New] Injecting Spark Into Your Unique Podcast Format</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-beginners-guide-to-iphone-slow-movement-videography/"><u>[New] The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accessing-the-latest-deal-free-vmware-virtualization-software-for-personal-users-a-step-by-step-guide-by-zdnet/"><u>Accessing the Latest Deal: Free VMware Virtualization Software for Personal Users - A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agile-vs-artificial-intelligence-projects-compatibility-issues-highlighted-by-new-study-zdnet/"><u>Agile Vs. Artificial Intelligence Projects: Compatibility Issues Highlighted by New Study | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-red-magic-8s-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Red Magic 8S Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-skills-without-overemphasizing-ai-discover-edge-innovations-at-zdnet/"><u>Boost Your Skills Without Overemphasizing AI: Discover Edge Innovations at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bring-back-retro-gaming-run-doom-on-the-compact-raspberry-pi-pico-unit-with-easy-setup-guide/"><u>Bring Back Retro Gaming: Run Doom on the Compact Raspberry Pi Pico Unit with Easy Setup Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enjoy-dvd-movies-on-your-hdtv-top-three-wireless-and-wired-solutions/"><u>How To Enjoy DVD Movies On Your HDTV – Top Three Wireless and Wired Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-ranking-smartwatches-to-buy-a-comprehensive-guide/"><u>Top-Ranking Smartwatches to Buy : A Comprehensive Guide</u></a></li>
 </ul></div>
 

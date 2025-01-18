@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2025-01-10T21:03:37.437Z
-updated: 2025-01-12T19:56:34.645Z
+date: 2025-01-12T16:20:31.603Z
+updated: 2025-01-18T03:30:18.088Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-iphone-speech-recordings/"><u>[Updated] The Complete Guide to iPhone Speech Recordings</u></a></li>
-<li><a href="https://fox-making.techidaily.com/como-transferir-videos-de-iphone-a-ordenador-y-solucionar-problemas-comunes/"><u>Cómo Transferir Videos De iPhone a Ordenador Y Solucionar Problemas Comunes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/compact-innovation-unveiled-is-the-new-mac-minis-m4-chip-a-match-for-its-tiny-form-factor-tech-insights-by-zdnet/"><u>Compact Innovation Unveiled: Is the New Mac Mini's M4 Chip a Match for Its Tiny Form Factor? | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-affordable-rechargeable-wallet-trackers-that-outperform-apple-airtags-your-ultimate-guide/"><u>Discover Affordable, Rechargeable Wallet Trackers That Outperform Apple AirTags - Your Ultimate Guide .</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-new-era-of-visual-search-how-iphone-16-integrates-ai-capabilities-akin-to-google-lens-in-depth-analysis-for-zdnet-readers/"><u>Exploring the New Era of Visual Search: How iPhone 16 Integrates AI Capabilities Akin to Google Lens | In-Depth Analysis for ZDNet Readers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apples-revolutionary-ai-realm-beats-gpt-4-in-performance-exclusive-analysis/"><u>How Apple's Revolutionary AI, ReaLM, Beats GPT-4 in Performance | Exclusive Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-the-cause-of-random-device-shutdowns-troubleshooting-steps-inside-out/"><u>Identifying the Cause of Random Device Shutdowns: Troubleshooting Steps Inside Out</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-affordable-android-chat-top-free-app-alternatives/"><u>In 2024, Affordable Android Chat Top Free App Alternatives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-fundamentals-of-e-narrative-creation/"><u>In 2024, Fundamentals of E-Narrative Creation</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-10-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark 10 Pro FRP Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/initiating-an-oculus-meta-quest-quest-2-journey-with-ease-account-creation-tips-and-tricks/"><u>Initiating an Oculus Meta Quest / Quest 2 Journey With Ease - Account Creation Tips & Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-hotel-wide-apple-airplay-connectivity-the-ultimate-guide-for-seamless-media-streaming-experience/"><u>Introducing Hotel-Wide Apple AirPlay Connectivity - The Ultimate Guide for Seamless Media Streaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/preventing-counter-strike-2-crashes-on-pc-expert-tips-and-solutions/"><u>Preventing Counter-Strike 2 Crashes on PC - Expert Tips & Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-effective-solutions-when-overwatch-2-continuously-crashes-on-your-pc/"><u>Solving the Problem: Effective Solutions When Overwatch 2 Continuously Crashes on Your PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-kid-friendly-ipad-models-your-comprehensive-guide/"><u>Top 4 Kid-Friendly iPad Models : Your Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranking-mac-software-a-comprehensive-list/"><u>Top-Ranking Mac Software : A Comprehensive List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbelievable-bargain-get-the-apple-m2-macbook-air-for-half-price-at-800-pre-october-amazon-prime-day-tech-news-flash/"><u>Unbelievable Bargain! Get the Apple M2 MacBook Air for Half Price at $800 Pre-October Amazon Prime Day | Tech News Flash!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlock-fb-seo-potential-with-keyword-rich-strategies-for-2024/"><u>Unlock FB SEO Potential with Keyword-Rich Strategies for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmissable-discounts-on-iphones-your-complete-guide-for-the-top-offers-in-july-2024-featuring-insights/"><u>Unmissable Discounts on iPhones: Your Complete Guide for the Top Offers in July 2024, Featuring Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-moment-mastery-the-best-cams-for-extended-shutter-times/"><u>[New] Moment Mastery The Best Cams for Extended Shutter Times</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-towards-an-official-definition-of-open-source-ai-faces-challenges-and-opposition/"><u>Advancing Towards an Official Definition of Open Source AI Faces Challenges and Opposition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-to-leading-full-stack-web-dev-bootcamps-and-key-insights/"><u>Comprehensive Guide to Leading Full-Stack Web Dev Bootcamps & Key Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/critical-shim-exploit-leaves-majority-of-linux-environments-at-risk-insights-from-zdnet/"><u>Critical Shim Exploit Leaves Majority of Linux Environments at Risk - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/deconstructing-power-play-the-new-strategy-against-big-tech-and-silicon-valley/"><u>Deconstructing Power Play: The New Strategy Against Big Tech and Silicon Valley</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-the-current-pontiff-pope-francis-utilize-electronic-mail-services/"><u>Does the Current Pontiff, Pope Francis, Utilize Electronic Mail Services?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-xiaomi-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Xiaomi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-doctor-utility-with-ai-powered-medical-data-integration-insights-from-zdnet/"><u>Enhancing Doctor Utility with AI-Powered Medical Data Integration - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolving-dynamics-in-generation-ai-the-rising-influence-of-rag-and-its-impact-on-the-tech-landscape-insights-from-zdnet/"><u>Evolving Dynamics in Generation AI: The Rising Influence of RAG and Its Impact on the Tech Landscape - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-recharge-despite-feeling-burnt-out-in-tech-careers-encouraging-news-for-it-experts-zdnet/"><u>How to Recharge Despite Feeling Burnt Out in Tech Careers – Encouraging News for IT Experts | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-cerebras-mega-scale-wse-3-redefining-the-future-of-generative-ai-detailed-analysis-by-zdnet/"><u>Meet Cerebras' Mega-Scale WSE-3: Redefining the Future of Generative AI - Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-file-transfer-capability-to-utorrent-on-win/"><u>Restoring File Transfer Capability to uTorrent on Win</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/snapback-the-ultimate-data-retrieval-tool-for-macs/"><u>SnapBack: The Ultimate Data Retrieval Tool for Macs</u></a></li>
 </ul></div>
 

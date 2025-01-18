@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2025-01-06T21:12:26.408Z
-updated: 2025-01-12T19:17:07.459Z
+date: 2025-01-10T23:43:45.288Z
+updated: 2025-01-18T00:07:55.847Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -38,7 +38,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -52,22 +52,18 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -94,6 +90,10 @@ Let's say you want to convert that JPG to a PNG image. From the sub-menu, click 
 Configuring your converted image in the Finder pop-up.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
 
@@ -145,21 +145,24 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-defeating-youtube-short-issues/"><u>[New] Mastering the Art of Defeating YouTube Short Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-paving-digital-pathways-for-ig-and-tiktok/"><u>2024 Approved Paving Digital Pathways for IG & TikTok</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/7-users-learn-how-with-these-dual-techniques/"><u>7 Users: Learn How with These Dual Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-iphone-experience-awaits-unveiling-the-budget-friendly-iphone-with-long-lasting-power-and-more/"><u>Affordable iPhone Experience Awaits - Unveiling the Budget-Friendly iPhone with Long-Lasting Power and More!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-revamps-personas-with-the-arrival-of-visionos-update-discover-additional-improvements-detailed-by-zdnet/"><u>Apple Revamps Personas with the Arrival of VisionOS Update - Discover Additional Improvements Detailed by ZDNET</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-aeiusns-compact-solar-power-solution-with-pure-sine-wave-inverter-essential-for-health-equipment/"><u>Comprehensive Guide to AEIUSN's Compact Solar Power Solution with Pure Sine Wave Inverter - Essential for Health Equipment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-effortlessly-using-your-apple-watch-for-real-time-chats-with-loved-ones-insights-by-zdnet/"><u>Connecting Effortlessly: Using Your Apple Watch for Real-Time Chats with Loved Ones - Insights by ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/honing-skills-for-hiring-best-filmmakers-for-2024/"><u>Honing Skills for Hiring Best Filmmakers for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-type-errors-corrected-enjoy-smooth-typing-once-again/"><u>Keyboard Type Errors Corrected: Enjoy Smooth Typing Once Again</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-8-hour-experience-with-the-apple-vision-pro-headset-highs-and-lows-explored-zdnet-review/"><u>My 8-Hour Experience with the Apple Vision Pro Headset - Highs and Lows Explored | ZDNet Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-2024s-best-smartwatches-professional-ratings-and-in-depth-analysis/"><u>The Ultimate Guide to 2024'S Best Smartwatches: Professional Ratings & In-Depth Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/through-the-lens-of-technology-evaluating-the-apple-vision-pro-for-full-workday-use-uncovering-limitations/"><u>Through the Lens of Technology: Evaluating the Apple Vision Pro for Full Workday Use | Uncovering Limitations</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/transcodage-gratuit-dun-fichier-m4v-vers-wav-en-ligne-avec-movavi/"><u>Transcodage Gratuit D'un Fichier M4V Vers WAV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-apples-vision-pro-in-february-redefining-luxury-with-an-ultra-sophisticated-buying-journey/"><u>Unveiling Apple's Vision Pro in February - Redefining Luxury with an Ultra-Sophisticated Buying Journey</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-download-vimeo-video-to-mp4-for-2024/"><u>[New] How To Download Vimeo Video to MP4 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>[New] In 2024, GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>2024 Approved The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adjusting-the-compass-forecasted-changes-in-the-data-science-and-ai-sector-zdnet/"><u>Adjusting the Compass: Forecasted Changes in the Data Science & AI Sector | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-team-efficiency-master-the-developer-mindset-with-expert-tips-from-zdnet/"><u>Boost Team Efficiency: Master the Developer Mindset with Expert Tips From ZDNet!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-enterprise-intelligence-utilizing-rag-principles-to-synergize-with-generative-ai-and-your-companys-expertise-zdnet/"><u>Enhancing Enterprise Intelligence: Utilizing RAG Principles to Synergize with Generative AI and Your Company's Expertise | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-myth-why-more-advanced-amazon-alexa-tech-doesnt-always-mean-improved-performance-zdnet-insights/"><u>Exploring the Myth: Why More Advanced Amazon Alexa Tech Doesn't Always Mean Improved Performance | ZDNet Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y02t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y02T is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-enhancing-visuals-the-role-of-a-tripod-in-video-content/"><u>In 2024, Enhancing Visuals The Role of a Tripod in Video Content</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/journey-into-windows-11s-core-understanding-the-registry/"><u>Journey Into Windows 11'S Core: Understanding the Registry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kickstart-your-tech-journey-with-these-5-starter-coding-positions-as-recommended-by-zdnet/"><u>Kickstart Your Tech Journey with These 5 Starter Coding Positions, as Recommended by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-raspberry-pi-zero-2-w-experience-up-to-5x-more-power-at-an-unbeatable-price-learn-how-it-outperforms-the-original-model-tech-insights/"><u>Revolutionary Raspberry Pi Zero 2 W: Experience Up to 5X More Power at an Unbeatable Price - Learn How It Outperforms the Original Model | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-future-in-tech-master-the-top-3-languages-every-developer-needs-according-to-zdnet/"><u>Securing Your Future in Tech: Master the Top 3 Languages Every Developer Needs, According to ZDNet</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728469670251-sk-hynix-ssd/"><u>SK Hynix SSD 克隆專家: 理解移動系統及數據備份</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-ai-enigma-the-critical-role-of-data-in-formulating-a-complete-picture-tech-insights/"><u>Solving the AI Enigma: The Critical Role of Data in Formulating a Complete Picture | Tech Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-playing-dvd-content-on-a-samsung-smart-tv-without-hassle/"><u>Step-by-Step Tutorial: Playing DVD Content on a Samsung Smart TV Without Hassle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-e-commerce-platforms-of-2022-create-your-store-with-these-tools-insights-from-zdnet/"><u>Top E-Commerce Platforms of 2022: Create Your Store with These Tools - Insights From ZDNet</u></a></li>
 </ul></div>
 

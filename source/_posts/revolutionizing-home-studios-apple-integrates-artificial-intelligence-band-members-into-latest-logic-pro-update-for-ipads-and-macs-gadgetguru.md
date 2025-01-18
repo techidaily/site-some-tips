@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Home Studios, Apple Integrates Artificial Intelligence Band-Members Into Latest Logic Pro Update for iPads and Macs | GadgetGuru
-date: 2024-11-12T10:43:36.819Z
-updated: 2024-11-16T18:00:37.993Z
+date: 2025-01-11T07:59:37.135Z
+updated: 2025-01-18T10:47:08.731Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -55,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -84,10 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -102,13 +107,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -121,13 +119,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,6 +130,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,18 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-initiate-interactive-storytelling-with-windows-11s-movie-maker/"><u>[New] 2024 Approved Initiate Interactive Storytelling with Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[New] Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-rated-screen-capture-software-top-11-selections-for-2024/"><u>[New] Pro-Rated Screen Capture Software Top 11 Selections for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unlocking-the-power-of-android-time-lapses-for-2024/"><u>[New] Unlocking the Power of Android Time-Lapses for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-remove-yourself-from-discord-ecosystem/"><u>[Updated] 2024 Approved Remove Yourself From Discord Ecosystem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>[Updated] Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-azure-guide-to-speech-to-text-integration/"><u>2024 Approved The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-spreading-online-jokes-fast/"><u>2024 Approved The Key to Spreading Online Jokes Fast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions/"><u>2024 Approved Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-f14-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy F14 5G Device SIM</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/streaming-success-starts-here-8-tips-for-beginners/"><u>Streaming Success Starts Here - 8 Tips for Beginners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-the-art-of-gesture-tracking/"><u>[New] 2024 Approved Mastering the Art of Gesture Tracking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-channel-dominance-plan-studio-protocol-vs-beta-update-for-2024/"><u>[Updated] Channel Dominance Plan Studio Protocol Vs. Beta Update for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-a-complete-guide-to-translate-video-with-google/"><u>2024 Approved A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-financial-frontier-achieving-video-monetization-mastery/"><u>2024 Approved YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-unusual-career-opportunities-discovering-the-latest-and-most-innovative-job-positions-shaped-by-ai-advancements/"><u>Exploring Unusual Career Opportunities: Discovering the Latest and Most Innovative Job Positions Shaped by AI Advancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fundamental-fashion-for-cybersecurity-enthusiasts-tips-from-a-tech-expert-zdnets-clothing-chronicles/"><u>Fundamental Fashion for Cybersecurity Enthusiasts – Tips From a Tech Expert | ZDnet's Clothing Chronicles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977703451-get-the-latest-version-of-intel-hd-graphics-4400-drivers-now/"><u>Get the Latest Version of Intel® HD Graphics 4400 Drivers Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-non-developers-can-enhance-employment-opportunities-with-technical-skills-zdnet/"><u>How Non-Developers Can Enhance Employment Opportunities with Technical Skills | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-methods-to-access-apples-podcast-library/"><u>Innovative Methods to Access Apple's Podcast Library</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/master-the-art-of-ps4-camera-placement-for-improved-streaming-quality/"><u>Master the Art of PS4 Camera Placement for Improved Streaming Quality</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/optimize-meetings-using-snap-camera-for-better-communication-in-teams/"><u>Optimize Meetings Using Snap Camera for Better Communication in Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-code-the-dawn-of-a-new-era-in-software-development/"><u>Revolutionizing Code: The Dawn of a New Era in Software Development</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-higher-paying-roles-the-power-of-tech-abilities-for-non-programmers-zdnet/"><u>Securing Higher-Paying Roles: The Power of Tech Abilities for Non-Programmers | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-workflow-create-multiple-folders-fast-using-excel-techniques/"><u>Streamline Your Workflow: Create Multiple Folders Fast Using Excel Techniques.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-analysis-leading-tech-jobs-and-programming-tools-shaping-tomorrows-software-industry/"><u>ZDNet Analysis: Leading Tech Jobs and Programming Tools Shaping Tomorrow's Software Industry</u></a></li>
 </ul></div>
 

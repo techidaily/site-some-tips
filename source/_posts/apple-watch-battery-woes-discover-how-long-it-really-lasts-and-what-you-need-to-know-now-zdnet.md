@@ -1,7 +1,7 @@
 ---
 title: Apple Watch Battery Woes? Discover How Long It Really Lasts & What You Need to Know Now | ZDNET
-date: 2024-12-15T02:02:16.934Z
-updated: 2024-12-20T22:20:37.720Z
+date: 2025-01-11T05:55:39.637Z
+updated: 2025-01-18T04:51:08.105Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,20 +191,20 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-professional-videographers-guide-to-efficient-color-keying/"><u>[New] 2024 Approved Professional Videographer's Guide to Efficient Color-Keying</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unrivaled-guide-to-no-cost-photography-archives/"><u>[New] Unrivaled Guide to No-Cost Photography Archives</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>[Updated] The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-potential-the-power-of-lut-transformations/"><u>[Updated] Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tomorrows-scrutiny-innovative-perspectives/"><u>2024 Approved Tomorrow’s Scrutiny Innovative Perspectives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-pictures-reversed-color-method/"><u>2024 Approved Transforming Pictures Reversed Color Method</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-mobiles-for-cutting-and-enhancing-dji-media/"><u>2024 Approved Ultimate Mobiles for Cutting & Enhancing DJi Media</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-unbeatable-chatgpt-plugins-to-transform-your-site-today/"><u>5 Unbeatable ChatGPT Plugins to Transform Your Site Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-seamless-gaming-experience-on-steam-by-clearing-titles/"><u>Achieve Seamless Gaming Experience on Steam by Clearing Titles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-make-a-youtube-reaction-video/"><u>How to Make a YouTube Reaction Video?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y27-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y27 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-image-enhancement-pivotal-pixlr-insights/"><u>In 2024, The Art of Image Enhancement Pivotal Pixlr Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>In 2024, The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>In 2024, The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
-<li><a href="https://driver-download.techidaily.com/usb-webcam-driver-setup-made-easy-fast-download-options/"><u>USB Webcam Driver Setup Made Easy - Fast Download Options</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>[New] 2024 Approved The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-craft-your-future-with-instagram-video-marketing-step-by-step-guide/"><u>[New] Craft Your Future with Instagram Video Marketing Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app-for-2024/"><u>[New] Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-core-kit-video-equipment-every-creator-needs/"><u>[Updated] The Core Kit Video Equipment Every Creator Needs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-burnout-shocking-factors-prompting-mass-quits-among-workers-analyzed-by-zdnet-experts/"><u>Beyond Burnout: Shocking Factors Prompting Mass Quits Among Workers - Analyzed by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discreetly-securing-new-opportunities-a-guide-for-job-hunting-while-employed/"><u>Discreetly Securing New Opportunities: A Guide for Job Hunting While Employed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-professional-status-top-5-strategies-for-a-significant-career-advancement-insights-from-zdnet/"><u>Elevate Your Professional Status: Top 5 Strategies for a Significant Career Advancement - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-ai-proficiencies-how-your-expertise-can-determine-the-demand-from-hiring-companies-zdnet/"><u>Essential AI Proficiencies: How Your Expertise Can Determine the Demand From Hiring Companies | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209242986-how-to-get-your-lost-invisible-desktop-windows-back/"><u>How To Get Your Lost, Invisible Desktop Windows Back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-informational-interview-requests-approaching-professionals-without-being-forced-insights-from-zdnet/"><u>Mastering the Art of Informational Interview Requests: Approaching Professionals Without Being Forced | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nurses-transitioning-into-technology-a-comprehensive-guide/"><u>Nurses Transitioning Into Technology: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-real-scoop-on-becoming-a-devops-professional-benefits-challenges-and-myths-debunked-expert-advice-from-zdnet/"><u>The Real Scoop on Becoming a DevOps Professional: Benefits, Challenges, and Myths Debunked | Expert Advice From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c12-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia C12 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

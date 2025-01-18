@@ -1,7 +1,7 @@
 ---
 title: "July's Exclusive Apple Product Deals: IPhones, Watches, and Tablets at Unbeatable Prices | Discover the Best Offers"
-date: 2025-01-06T18:04:45.292Z
-updated: 2025-01-12T17:26:30.887Z
+date: 2025-01-16T05:54:19.549Z
+updated: 2025-01-18T05:51:54.294Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ We rounded up the best Apple Watch deals available now so you can shop and save 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Apple Watch deals of July 2024
@@ -95,10 +95,6 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -115,6 +111,10 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
 If you're buying your first Apple Watch or upgrading from a Series 6 or earlier, ZDNET recommends buying the Series 9 this year because it features a big upgrade in accuracy for tracking your health and fitness. 
@@ -127,13 +127,13 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
 
@@ -146,7 +146,7 @@ Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loo
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
@@ -158,7 +158,7 @@ When participating in a trade-in offer, you are providing your previously used i
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -205,21 +205,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-audio-wizardry-in-action-techniques-for-professional-video-sound-recording/"><u>[New] In 2024, Audio Wizardry in Action Techniques for Professional Video Sound-Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-restarting-disrupted-streams-on-fb-fixes-for-todays-broadcasters-for-2024/"><u>[New] Restarting Disrupted Streams on FB Fixes for Today's Broadcasters for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence-for-2024/"><u>Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-roundup-apex-list-of-apple-watch-bands-in-202n-expert-analysis-and-reviews-zdnet/"><u>Comprehensive Roundup: Apex List of Apple Watch Bands in 202N - Expert Analysis & Reviews | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-videography-on-tiktok-2-ways/"><u>Elevate Your Videography on TikTok (2 Ways)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-brilliant-a-complete-hdr-portrait-guide/"><u>In 2024, From Basic to Brilliant A Complete HDR Portrait Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ipad-release-faces-challenges-a-closer-look-at-apples-oversight-and-potential-remedies-zdnet/"><u>New iPad Release Faces Challenges: A Closer Look at Apple's Oversight and Potential Remedies | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/october-release-for-new-intelligent-features-in-apple-products-insights-from-zdnet-coverage/"><u>October Release for New 'Intelligent' Features in Apple Products - Insights From ZDNet Coverage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723807988834-resolving-frame-rate-fluctuations-and-dropping-items-in-diablo-n-pc-troubleshooting-tips-and-tweaks/"><u>Resolving Frame Rate Fluctuations & Dropping Items in Diablo N: PC Troubleshooting Tips and Tweaks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streaming-google-meet-a-step-by-step-youtube-tutorial/"><u>Streaming Google Meet A Step-By-Step YouTube Tutorial</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlined-process-step-by-step-telegram-web-guide-for-2024/"><u>Streamlined Process Step-by-Step Telegram Web Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-end-of-the-road-for-iphone-13-and-15-pros-your-next-smartphone-picks/"><u>The End of the Road for iPhone 13 & 15 Pros: Your Next Smartphone Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-ipad-air-protectors-comprehensive-review-by-tech-gurus-techdigest/"><u>Top Rated iPad Air Protectors - Comprehensive Review by Tech Gurus | TechDigest</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mac-software-the-ultimate-list-zdnet/"><u>Top Rated Mac Software : The Ultimate List - ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unraveling-the-mystery-why-my-eccentric-rice-cooker-pods-just-dont-leave-me-behind/"><u>Unraveling the Mystery: Why My Eccentric Rice-Cooker Pods Just Don't Leave Me Behind</u></a></li>
-<li><a href="https://some-tips.techidaily.com/visionpro-unexpected-failures-decoded-expert-advice-and-steps-to-resolve-issues-learn/"><u>VisionPro Unexpected Failures Decoded: Expert Advice and Steps to Resolve Issues | Learn</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-visualmeld-crafting-multimedia-narratives-for-sierra/"><u>[New] In 2024, VisualMeld Crafting Multimedia Narratives for Sierra</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-discover-ultimate-asmr-microphones-for-clear-sounds/"><u>[Updated] 2024 Approved Discover Ultimate ASMR Microphones for Clear Sounds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-turning-still-shots-into-audio-visual-narratives-for-2024/"><u>[Updated] Turning Still Shots Into Audio-Visual Narratives for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>2024 Approved Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-premium-free-fb-photovid-creation-suite/"><u>2024 Approved Premium Free FB Photo/Vid Creation Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-leap-forward-with-llama-v31-by-meta-how-genai-is-evolving-a-zdnet-analysis/"><u>Exploring the Leap Forward with LLaMA v3.1 by Meta: How GenAI Is Evolving – A ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-proof-your-team-transforming-traditional-strategies-for-acquiring-tech-professionals/"><u>Future-Proof Your Team: Transforming Traditional Strategies for Acquiring Tech Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-access-to-ais-power-openai-launches-affordable-gpt-4-light-version-for-cutting-application-development-expenses/"><u>Get Access to AI's Power: OpenAI Launches Affordable GPT-4 Light Version for Cutting Application Development Expenses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-persistent-error-0x803f8001-on-your-minecraft-launcher-for-windows-11-and-windows-10-users/"><u>How to Fix the Persistent 'Error 0X803f8001' On Your Minecraft Launcher for Windows 11 and Windows 10 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-affordable-high-resolution-monitors-for-pc-and-laptop-games/"><u>In 2024, Affordable, High-Resolution Monitors for PC & Laptop Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-intels-revolutionary-hala-point-powering-the-future-with-a-neuromorphic-beast-of-115-billions-neurons/"><u>Inside Intel's Revolutionary Hala Point: Powering the Future with a Neuromorphic Beast of 1.15 Billions Neurons</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-restrictions-for-larger-posts/"><u>Navigating Instagram's Restrictions for Larger Posts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-journey-into-ai-discover-how-superduperdb-makes-it-effortless-zdnet-insights/"><u>Streamlining Your Journey Into AI - Discover How SuperDuperDB Makes It Effortless | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolutionary-journey-of-a-tech-leader-steering-stack-overflows-expansion-under-the-zdnet-lens-a-ctos-story/"><u>The Evolutionary Journey of a Tech Leader: Steering Stack Overflow's Expansion Under the ZDNet Lens - A CTO’s Story</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-nokia-105-classic-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Nokia 105 Classic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-apples-strategy-why-reducing-senior-roles-to-associate/"><u>Unraveling Apple's Strategy: Why Reducing Senior Roles to 'Associate'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-guide-to-winning-with-agility-in-software-design-unveiling-six-essential-principles/"><u>ZDNet's Guide to Winning with Agility in Software Design: Unveiling Six Essential Principles</u></a></li>
 </ul></div>
 

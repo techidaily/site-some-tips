@@ -1,7 +1,7 @@
 ---
 title: "Embrace Your Remote Routine: How Alexa's Insight Is Sparking Efficiency in Work-From-Home Life | ZDNET"
-date: 2024-09-18 10:50:51
-updated: 2024-09-20 11:30:46
+date: 2025-01-11T04:50:51.297Z
+updated: 2025-01-17T16:03:24.011Z
 tags:
   - amazon
 categories:
@@ -43,6 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Building a modern busy light 
 
 Back in 2014, just about the only smart bulb was the Philips Hue. Now, of course, everything is Alexa-enabled. Not just bulbs, but all sorts of light fixtures. And Alexa can easily assign colors. That ability makes setting up a busy light system now just about as easy as setting up any smart light. 
@@ -54,6 +58,10 @@ We chose the [Govee Night Light](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5
 It sits on a furniture unit in our family room and can be seen from every vantage point, not only in the room, but in the hall and passing by. There's no way to miss the signals. 
 
 Speaking of signals, we use the same red, green, and yellow we used before, except we decided we liked the color that was displayed by, "Alexa, set busy light to orange," more than the one for yellow. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Configuring the busy light 
 
@@ -72,6 +80,10 @@ Screenshot by David Gewirtz/ZDNET
 Finally, you give the item a name. Usually, the name is assigned in the vendor's app and then it propagates through the skill and into the Alexa app. In our case, we named the Govee Night Light as "busy light" and that's how it shows up in the Alexa device inventory. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The busy light in daily use 
 
@@ -103,11 +115,23 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-clipmaster-software/"><u>[New] ClipMaster Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-cross-platform-players-top-10-open-source-selections/"><u>[Updated] In 2024, Cross-Platform Players Top 10 Open Source Selections</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-subtitles-made-simple-top-10-zero-cost-downloaders/"><u>[Updated] Subtitles Made Simple Top 10 Zero-Cost Downloaders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-deal-save-24-on-airpods-pro-2-with-built-in-hearing-aid-support-shop-today/"><u>Exclusive Deal: Save 24% on AirPods Pro 2 with Built-In Hearing Aid Support - Shop Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-most-innovative-apple-macintosh-computers-of-2024-insights-from-zdnet/"><u>Exploring the Most Innovative Apple Macintosh Computers of 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-potential-channel-building-mastery/"><u>In 2024, Unleashing Potential Channel Building Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/integrating-california-state-licenses-into-digital-wallets-tips-for-using-apple-and-google-services/"><u>Integrating California State Licenses Into Digital Wallets - Tips for Using Apple & Google Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-value-the-incredible-opportunity-to-score-a-discount-on-apples-latest-ipad-pro-just-in-time-for-prime-day-expert-analysis/"><u>Maximizing Value: The Incredible Opportunity to Score a Discount on Apple's Latest iPad Pro Just in Time for Prime Day – Expert Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-pick-for-kids-fun-expert-evaluation-of-the-maisto-rc-rock-crawler/"><u>Top Pick for Kid's Fun - Expert Evaluation of the Maisto RC Rock Crawler</u></a></li>
+</ul></div>
+

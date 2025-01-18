@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated iPhone 12 & Pro Protective Covers: Expert Picks"
-date: 2025-01-07T17:17:27.108Z
-updated: 2025-01-12T16:57:37.943Z
+date: 2025-01-13T21:29:57.800Z
+updated: 2025-01-18T09:34:55.346Z
 tags:
   - apple
 categories:
@@ -43,6 +43,10 @@ Pros
 
 Cons 
 * Slightly pricey
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pela case
 
@@ -92,11 +96,11 @@ Pros
 Cons 
 * Clear design may yellow
 
-## Bodyguardz Ace Pro
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Bodyguardz Ace Pro
 
 ### Best budget iPhone 12 case
 
@@ -122,7 +126,7 @@ Cons
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Casetify cases
@@ -149,6 +153,10 @@ Cons
 * May still yellow over time
 
 ## ESR Air Armor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best clear iPhone 12 case
 
@@ -197,15 +205,7 @@ Pros
 Cons 
 * May show scratches easily
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Rugged case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -230,10 +230,6 @@ Pros
 Cons 
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Speck Presidio Edition
 
@@ -265,7 +261,7 @@ Cons
 ## Totallee case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best slim iPhone 12 case
@@ -277,7 +273,7 @@ The case has a camera lens "lip" to make sure that the camera does not get scrat
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone case?
@@ -296,10 +292,6 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone case is right for you?
 
 Each case on this list has unique pros and cons. One case might be a better choice for you, depending on the features you can't live without. 
@@ -316,6 +308,10 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -329,6 +325,10 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which case is best for iPhone 12?
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
@@ -341,13 +341,13 @@ Yes. OtterBox cases are durable, and I added an OtterBox option to my list of fa
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -389,18 +389,22 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-demystifying-the-world-of-youtube-shorts/"><u>[Updated] 2024 Approved Demystifying the World of YouTube Shorts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-full-vision-media-the-smart-mcn-selection-process/"><u>2024 Approved Full Vision Media The Smart MCN Selection Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tsvob-movavi/"><u>網路直接無成本改變TS文件成VOB格式 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-unveils-vision-pro-a-revolutionary-arvr-headset-coming-soon-with-exclusive-600-app-catalog-tech-news/"><u>Apple Unveils Vision Pro: A Revolutionary AR/VR Headset Coming Soon With Exclusive 600-App Catalog | Tech News</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessment-of-dji-phantom-3-aerial-tech-for-2024/"><u>Assessment of DJI Phantom 3 Aerial Tech for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhancing-audience-experience-four-ways-to-livestream-on-tv/"><u>Enhancing Audience Experience Four Ways to Livestream on TV</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-features-and-performance-of-cleanmymac-x-in-our-zdnet-reviews/"><u>Exploring the Features and Performance of CleanMyMac X in Our ZDNet Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-can-apple-turn-around-topvisionpro-zdnet-shares-three-key-strategies-for-revival/"><u>How Can Apple Turn Around TopVisionPro? ZDNet Shares Three Key Strategies for Revival</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-c300-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia C300</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-x5-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco X5 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-the-msvbvm50dll-file-cannot-be-located-issue/"><u>Solutions for Resolving the 'Msvbvm50.dll' File Cannot Be Located Issue</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-photographers-guide-to-digital-cropting/"><u>The Photographer's Guide to Digital Cropting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-the-definitive-guide-insights/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : The Definitive Guide - Insights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/access-the-latest-ios-18-pre-release-version-today-download-guide-and-compatible-iphone-models-revealed/"><u>Access the Latest iOS 18 Pre-Release Version Today: Download Guide and Compatible iPhone Models Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-takeaways-from-microsofts-build-2024-conference-for-app-creators-zdnet/"><u>Essential Takeaways From Microsoft's Build 2024 Conference for App Creators | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-premier-full-stack-development-bootcamps-detailed-overview-of-leading-courses-and-what-participants-should-prepare-for/"><u>Exploring Premier Full-Stack Development Bootcamps: Detailed Overview of Leading Courses & What Participants Should Prepare For</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-enhanced-functionality-of-linux-kernel-v65-a-deep-dive-into-its-latest-innovations-techworld/"><u>Exploring the Enhanced Functionality of Linux Kernel v6.5: A Deep Dive Into Its Latest Innovations | TechWorld</u></a></li>
+<li><a href="https://some-tips.techidaily.com/highly-sought-after-expertise-in-open-source-and-linux-thrives-amidst-challenging-economic-times-insights-from-zdnet/"><u>Highly Sought-After: Expertise in Open Source & Linux Thrives Amidst Challenging Economic Times - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-challenges-in-harnessing-googles-leading-edge-ai-technology-insights-for-programmers-zdnet/"><u>Navigating Challenges in Harnessing Google's Leading Edge AI Technology - Insights for Programmers | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-development-with-ease-discover-the-power-of-googles-gemini-ai-for-accelerated-and-cost-effective-creation/"><u>Revolutionizing Development with Ease: Discover the Power of Google's Gemini AI for Accelerated and Cost-Effective Creation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-instructions-for-disabling-enhanced-audio-settings-in-windows-11/"><u>Step-by-Step Instructions for Disabling Enhanced Audio Settings in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-making-your-laptop-trackpad-work-again-on-different-versions-of-windows/"><u>Step-by-Step Solution: Making Your Laptop Trackpad Work Again on Different Versions of Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tackling-the-crisis-of-developer-exhaustion-innovative-company-solutions-unveiled-on-zdnet/"><u>Tackling the Crisis of Developer Exhaustion - Innovative Company Solutions Unveiled on ZDNet</u></a></li>
+<li><a href="https://win-best.techidaily.com/transform-your-videos-mastering-the-switch-from-mpeg-to-wmv-using-movavis-converter-tool/"><u>Transform Your Videos - Mastering the Switch From MPEG to WMV Using Movavi's Converter Tool!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/tutorial-pemulihan-file-di-windows-dengan-menggunakan-photorec/"><u>Tutorial Pemulihan File Di Windows Dengan Menggunakan PhotoRec</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/understanding-the-difference-between-rdbms-and-general-purpose-dbms-for-optimal-data-management-strategy/"><u>Understanding the Difference Between RDBMS and General-Purpose DBMS for Optimal Data Management Strategy</u></a></li>
 </ul></div>
 

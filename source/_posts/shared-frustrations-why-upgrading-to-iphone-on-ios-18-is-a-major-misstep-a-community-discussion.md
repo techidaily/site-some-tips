@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Why Upgrading to iPhone on iOS 18 Is a Major Misstep - A Community Discussion"
-date: 2025-01-11T16:46:47.102Z
-updated: 2025-01-12T21:05:27.844Z
+date: 2025-01-11T17:31:02.554Z
+updated: 2025-01-18T02:09:29.671Z
 tags:
   - apple
 categories:
@@ -28,12 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -44,10 +48,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -57,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,17 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-blizzard-brilliance-olympic-peaks-in-beijing/"><u>[Updated] Blizzard Brilliance Olympic Peaks in Beijing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-avi-visionary-player-compatible-with-pcmobile/"><u>2024 Approved Avi Visionary Player Compatible with PC/Mobile</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook/"><u>2024 Approved Social Media Wiz How to Create Captivating Slideshow Stories for Facebook</u></a></li>
-<li><a href="https://win-great.techidaily.com/essential-dj-hack-unforgettable-performances-learn-to-never-miss-a-beat-or-song-in-this-ultimate-tutorial-video/"><u>Essential DJ Hack: Unforgettable Performances - Learn to Never Miss a Beat or Song in This Ultimate Tutorial (Video)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-productivity-strategies-and-software-to-streamline-your-everyday-tasks-insights-from-zdnet/"><u>Essential Productivity Strategies & Software to Streamline Your Everyday Tasks - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-test-results-the-best-alternative-to-apple-and-tiles-wallet-airtags-revealed/"><u>Exclusive Test Results: The Best Alternative to Apple and Tile's Wallet AirTags Revealed</u></a></li>
-<li><a href="https://facebook.techidaily.com/monetize-masterfully-unveiling-5-innovative-earning-ideas-on-ig-and-fb/"><u>Monetize Masterfully: Unveiling 5 Innovative Earning Ideas on IG and FB</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-simplify-your-storytelling-easy-movie-making-techniques/"><u>New 2024 Approved Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-starfield-startup-dilemma-fixes-for-steam-and-xbox-users/"><u>Overcoming the Starfield Startup Dilemma: Fixes for Steam & Xbox Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protect-and-preserve-the-best-3-accessories-for-a-timeless-look-of-your-iphone-cu13-featured-by-zdnet/"><u>Protect and Preserve: The Best 3 Accessories for a Timeless Look of Your iPhone Cu13, Featured by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-3-essential-gadgets-to-maintain-the-fresh-look-of-your-iphone-13-a-guide/"><u>Top 3 Essential Gadgets to Maintain the Fresh Look of Your iPhone 13: A Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-savings-alert-unbeatable-offers-on-iphone-and-apple-accessories-for-july-2024-exclusive-insights-from-zdnet/"><u>Top Savings Alert: Unbeatable Offers on iPhone & Apple Accessories for July 2024 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-alluring-vlog-narratives/"><u>[New] Unlocking the Secrets of Alluring Vlog Narratives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>[Updated] 4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-experts-challenge-conventional-wisdom-on-large-language-models-the-latest-perspectives-featured-on-zdnet/"><u>AI Experts Challenge Conventional Wisdom on Large Language Models - The Latest Perspectives Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-specialist-reveals-alarming-prevalence-of-hidden-political-deepfakes-zdnet-insights/"><u>AI Specialist Reveals Alarming Prevalence of Hidden Political Deepfakes | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-permanent-container-safety-using-rust-framework-introducing-edera/"><u>Ensuring Permanent Container Safety Using Rust Framework - Introducing Edera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-intels-leading-ai-expert-wei-li-plans-to-make-powerful-ai-supercomputing-accessible-to-all-zdnet/"><u>How Intel's Leading AI Expert, Wei Li Plans to Make Powerful AI Supercomputing Accessible to All | ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-2-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze 2 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-capture-showdown-obs-vs-shadow/"><u>Screen Capture Showdown OBS vs Shadow</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/securing-your-fb-conversations-with-recordings-for-2024/"><u>Securing Your FB Conversations with Recordings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-innovator-radia-perlman-recognized-as-networking-legend-in-pioneering-ethernet-developer-spotlight/"><u>Tech Innovator Radia Perlman Recognized as Networking Legend in Pioneering Ethernet Developer Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-work-deciphering-the-mysterious-new-roles-created-by-artifice-intelligence-zdnet-insights/"><u>The Future of Work: Deciphering the Mysterious New Roles Created by Artifice Intelligence - ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-on-latest-gadgets/"><u>Tom's Tech Review: In-Depth Insights on Latest Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-launch-calculator-quickly/"><u>Windows 11: Launch Calculator Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wise-sagacious/"><u>Wise - Sagacious</u></a></li>
 </ul></div>
 

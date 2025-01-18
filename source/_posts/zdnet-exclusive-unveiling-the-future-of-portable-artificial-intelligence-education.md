@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Unveiling the Future of Portable Artificial Intelligence Education"
-date: 2025-01-05T21:27:12.692Z
-updated: 2025-01-12T16:31:36.785Z
+date: 2025-01-16T05:04:25.785Z
+updated: 2025-01-18T11:26:21.554Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -60,7 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -92,7 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -120,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -134,6 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -150,10 +154,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,19 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-optimize-your-communication-scheduling-and-planning-with-ease-google/"><u>[New] 2024 Approved Optimize Your Communication Scheduling & Planning with Ease (Google)</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-stream-video-freely-on-any-os-no-cost-video-player/"><u>[New] 2024 Approved Stream Video Freely on Any OS No-Cost VIDEO Player</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-reach-broader-audiences-link-your-twitch-live-streams-to-facebook/"><u>2024 Approved Reach Broader Audiences Link Your Twitch Live Streams to Facebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/continue-to-save-on-apple-watch-se-gen-2-following-prime-day-deals-exclusive-info-by-zdnet/"><u>Continue to Save on Apple Watch SE (Gen 2) Following Prime Day Deals – Exclusive Info by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-not-found-ssleay32dll-detailed-troubleshooting-processes/"><u>Fixing the Not Found 'ssleay32.dll': Detailed Troubleshooting Processes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-convenience-a-comprehensive-guide-to-using-apple-pay-both-in-store-and-online-zdnet/"><u>Maximizing Convenience: A Comprehensive Guide to Using Apple Pay Both In-Store and Online | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-forcing-printer-deletion-in-win-1011/"><u>Quick Guide: Forcing Printer Deletion in Win 10/11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-innovations-the-top-3-game-changing-iphone-16-enhancements-awaiting-your-attention-tech-insights-by-zdnet/"><u>Revolutionary Innovations: The Top 3 Game-Changing iPhone 16 Enhancements Awaiting Your Attention - Tech Insights by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/satellite-emergency-communication-now-available-on-the-revolutionary-google-pixel-9-a-breakthrough-in-mobile-safety/"><u>Satellite Emergency Communication Now Available on the Revolutionary Google Pixel 9: A Breakthrough in Mobile Safety</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-strategies-for-apples-triumph-over-rivals-outshining-microsoft-and-google-in-the-upcoming-wwdc-2023-showcase-insights/"><u>Top Strategies for Apple's Triumph Over Rivals: Outshining Microsoft & Google in the Upcoming WWDC 2023 Showcase - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-tech-reveal-rumors-swirl-around-apple-crafting-budget-ar-glasses-says-zdnet-report/"><u>Upcoming Tech Reveal? Rumors Swirl Around Apple Crafting Budget AR Glasses, Says ZDNet Report</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-updates-now-successfully-installed-fix-guide/"><u>Windows Updates Now Successfully Installed: Fix Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/bers-unleashed-a-guide-to-creating-memorable-music-reaction-vids/"><u>Youtubers Unleashed A Guide to Creating Memorable Music Reaction Vids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-record-vlc-webcam-footage-recording/"><u>[New] In 2024, Record VLC Webcam Footage Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-short-sensation-keywords-for-enhancing-video-shows-virality/"><u>[New] In 2024, Short Sensation Keywords for Enhancing Video Shows' Virality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-starting-out-key-equipment-and-software-for-vlogging/"><u>[New] Starting Out Key Equipment & Software for Vlogging</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultra-hd-4k-display-benq-sw320-review/"><u>[Updated] 2024 Approved Ultra HD 4K Display BenQ SW320 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-comprehensive-analysis-strengths-and-weaknesses-of-the-new-open-source-security-legislation/"><u>A Comprehensive Analysis: Strengths and Weaknesses of the New Open Source Security Legislation</u></a></li>
+<li><a href="https://win-latest.techidaily.com/das-problem-des-itunes-verbundes-bei-iphone-1413-und-wie-man-es-behebt-ein-blick-auf-fonebackup/"><u>Das Problem Des iTunes-Verbundes Bei iPhone 14/13 Und Wie Man Es Behebt - Ein Blick Auf FoneBackup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-shifts-in-coding-language-trends-from-2016-onwards-a-comprehensive-analysis-techbits/"><u>Decoding the Shifts in Coding Language Trends From 2016 Onwards – A Comprehensive Analysis | TechBits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-narzo-60x-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Narzo 60x 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-free-srt-translation-leaders-a-select-8-guide/"><u>In 2024, Free SRT Translation Leaders A Select 8 Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-rag-technology-integration-with-enterprise-intelligence-strategies-from-zdnet/"><u>Mastering RAG Technology Integration with Enterprise Intelligence - Strategies From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-linux-vulnerabilities-can-we-secure-our-systems-if-every-kernel-bug-puts-us-at-risk/"><u>Navigating Linux Vulnerabilities: Can We Secure Our Systems If Every Kernel Bug Puts Us at Risk?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tech-success-how-stack-overflows-cto-scaled-one-of-the-internets-largest-communities-insights-on-zdnet/"><u>Navigating Tech Success: How Stack Overflow's CTO Scaled One of the Internet’s Largest Communities, Insights on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-printer-service-offline-errors/"><u>Resolving Windows Printer Service Offline Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-future-in-tech-master-the-top-3-programming-languages-employers-crave/"><u>Secure Your Future in Tech: Master the Top 3 Programming Languages Employers Crave</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-blueprint-for-configuring-a-zoom-space-for-2024/"><u>The Essential Blueprint for Configuring a Zoom Space for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-choosing-the-best-raspberry-pi-kits-top-picks-and-in-depth-analysis-pcmag-online/"><u>The Ultimate Guide to Choosing the Best Raspberry Pi Kits : Top Picks & In-Depth Analysis | PCMag Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/whats-next-for-winamp-exploring-its-new-direction-beyond-the-open-source-pathway-insights-from-zdnet/"><u>What's Next for Winamp? Exploring Its New Direction Beyond the Open Source Pathway - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Automattic Eyes Future with Beeper Takeover, Plans to Revolutionize Messaging Platforms
-date: 2024-11-10T05:22:23.625Z
-updated: 2024-11-17T08:57:46.971Z
+date: 2025-01-12T01:32:33.168Z
+updated: 2025-01-17T17:33:36.435Z
 tags:
   - apple
 categories:
@@ -71,27 +71,25 @@ In October 2023, Automattic acquired Texts.com, another messaging app, for $50 m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-guide-best-free-instagram-to-mp4-tools-windowsmac/"><u>[New] In 2024, Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software/"><u>[New] Unveiling the Best 10 Online Background Variant Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-techniques-saving-google-meets-on-phones/"><u>[Updated] Efficient Techniques Saving Google Meets on Phones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-design-channels-get-free-visuals-now/"><u>[Updated] In 2024, Design Channels - Get Free Visuals Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-high-quality-sound-recording-via-audacity/"><u>[Updated] The Art of High-Quality Sound Recording via Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>2024 Approved Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/charting-a-course-for-connected-social-networks-in-the-xbox-ecosystem/"><u>Charting a Course for Connected Social Networks in the Xbox Ecosystem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-successful-strategies-for-navigating-lg-channels/"><u>Decoding Successful Strategies for Navigating LG Channels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-optimal-sonic-selections-android-centric/"><u>In 2024, Optimal Sonic Selections, Android-Centric</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y55s-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y55s 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-from-tweet-vids-to-mp3-audio-files-for-2024/"><u>The Ultimate Guide From Tweet Vids to MP3 Audio Files for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-your-laptop-or-desktop-into-a-wireless-internet-source/"><u>Turn Your Laptop or Desktop Into a Wireless Internet Source</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-android-photo-fixes-for-2024/"><u>Ultimate Guide to Android Photo Fixes for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[New] Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-golivebeam-simplified-method-to-broadcast-a-podcast-live-for-2024/"><u>[New] GoLiveBeam Simplified Method to Broadcast a Podcast Live for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlock-flawless-selfies-with-these-top-iphone-free-tools/"><u>[Updated] 2024 Approved Unlock Flawless Selfies with These Top iPhone Free Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>[Updated] In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-masterclass-flawlessly-attaching-your-tiktok-profile-url/"><u>[Updated] Masterclass Flawlessly Attaching Your TikTok Profile URL</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-smart-audio-excellence-with-the-sonos-era-n-review-zdnet-less-than-300-innovation/"><u>Affordable Smart Audio Excellence with the Sonos Era N Review | ZDNET – Less Than $300 Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrate-labor-day-in-style-expert-advice-on-throwing-a-memorable-holiday-event-featuring-zdnet-strategies/"><u>Celebrate Labor Day in Style: Expert Advice on Throwing a Memorable Holiday Event - Featuring ZDNET Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-apples-homepod-and-homepod-mini-a-comprehensive-guide/"><u>Choosing Between Apple's HomePod and HomePod Mini: A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-and-reviews-the-razer-leviathan-v2-a-spectacular-blend-of-design-and-audio-quality/"><u>In-Depth Analysis & Reviews: The Razer Leviathan V2 - A Spectacular Blend of Design & Audio Quality</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-web-free-online-video-editors-ranked/"><u>New Best of the Web Free Online Video Editors Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-movie-night-woes-how-an-unusual-shape-soundbar-perfected-cinema-experience-at-home-tech-digest/"><u>Solving Movie Night Woes: How an Unusual Shape Soundbar Perfected Cinema Experience at Home | Tech Digest</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-speaker-systems-for-vinyl-enthusiasts-insider-picks-by-experts/"><u>Top-Rated Speaker Systems for Vinyl Enthusiasts: Insider Picks by Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-audio-performance-a-review-of-top-tier-portable-speaker-excelling-in-diverse-musical-styles/"><u>Unmatched Audio Performance: A Review of Top-Tier Portable Speaker Excelling in Diverse Musical Styles</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

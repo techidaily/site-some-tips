@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2025-01-07T19:31:46.993Z
-updated: 2025-01-12T19:21:01.334Z
+date: 2025-01-10T21:48:47.442Z
+updated: 2025-01-17T23:04:50.418Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,19 +146,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-streamline-videography-an-in-depth-look-at-youtube-studio-editor/"><u>[New] 2024 Approved Streamline Videography An In-Depth Look at YouTube Studio Editor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-through-5-premium-stream-ready-webcams-for-2024/"><u>[New] Navigating Through 5 Premium Stream-Ready Webcams for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-workflow-with-aiseesoft-recording-tools-for-2024/"><u>[Updated] Streamline Your Workflow with Aiseesoft Recording Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-lava-yuva-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Lava Yuva 3? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-bargain-apple-unveils-budget-friendly-m2-mac-mini-at-a-record-low-479/"><u>Discover the Bargain: Apple Unveils Budget-Friendly M2 Mac Mini at a Record Low $479</u></a></li>
-<li><a href="https://win-docs.techidaily.com/est-il-possible-de-restaurer-les-documents-elimines-une-verite-sur-leur-disparition-permanente/"><u>Est-Il Possible De Restaurer Les Documents Éliminés : Une Vérité Sur Leur Disparition Permanente ?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-look-the-top-smartphones-preferred-by-zdnet-experts-testing-and-review/"><u>Exclusive Look: The Top Smartphones Preferred by ZDNet Experts - Testing and Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apple-ios-update-in-iphones-could-expose-you-learn-to-hide-your-device-from-unwanted-attention/"><u>How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention</u></a></li>
-<li><a href="https://some-tips.techidaily.com/save-big-with-the-multifunctional-macbook-stand-and-charger-bundle-at-just-102-exclusive-offer/"><u>Save Big with the Multifunctional MacBook Stand & Charger Bundle at Just $102 - Exclusive Offer !</u></a></li>
-<li><a href="https://some-tips.techidaily.com/siris-smart-leap-forward-with-new-apple-intelligence-key-updates-slated-for-aturth-unveiled-on-zdnet/"><u>Siri's Smart Leap Forward with New Apple Intelligence; Key Updates Slated for Aturth | Unveiled on ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smart-study-buddy-expert-tips-for-choosing-the-right-computer-for-students/"><u>Smart Study Buddy: Expert Tips for Choosing the Right Computer for Students</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-plugin-connectivity-issues-in-chatgpt/"><u>Solving Plugin Connectivity Issues in ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-choosing-your-ideal-copilotplus-laptop-spotlight-on-the-hottest-picks-from-ifa-2/"><u>The Ultimate Guide to Choosing Your Ideal Copilot+ Laptop: Spotlight on the Hottest Picks From IFA 2</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-2024-macbook-companion-devices-professional-insights-and-ratings-cnet/"><u>Ultimate 2024 MacBook Companion Devices: Professional Insights and Ratings | CNET</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-safe-surveillance-strategies-blurring-sensitive-content/"><u>[Updated] 2024 Approved Safe Surveillance Strategies Blurring Sensitive Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creating-continuous-viewing-pleasure-on-television/"><u>[Updated] Creating Continuous Viewing Pleasure on Television</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-appoints-new-chief-technology-officer-current-ceo-takes-over-temporary-cloud-role-zdnet/"><u>Alibaba Appoints New Chief Technology Officer; Current CEO Takes Over Temporary Cloud Role - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-plans-separate-ipo-for-cloud-business-and-initiates-public-offering-of-two-subsidiaries/"><u>Alibaba Plans Separate IPO for Cloud Business & Initiates Public Offering of Two Subsidiaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-aws-launches-innovative-trainium-ai-processor-and-graviton-4-enhanced-collaboration-with-nvidia-announced/"><u>Amazon's AWS Launches Innovative Trainium AI Processor & Graviton-4: Enhanced Collaboration with Nvidia Announced</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-of-western-digitals-data-lifeguard-a-diagnostic-software-evaluation/"><u>Comprehensive Analysis of Western Digital's Data Lifeguard: A Diagnostic Software Evaluation</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/ford-mustang-65-vintage-design-high-quality-hd-backgrounds-and-wallpapers-from-yl-computing/"><u>Ford Mustang '65 Vintage Design: High-Quality HD Backgrounds & Wallpapers From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-missing-mcuicnt-executable-in-microsoft-os/"><u>How To Address Missing McUICnt Executable in Microsoft OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oneplus-nord-ce-3-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from OnePlus Nord CE 3 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-cloud-sidestep-these-critical-errors-with-tips-from-zdnet/"><u>Mastering the Cloud: Sidestep These Critical Errors with Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-and-amazon-web-services-join-forces-for-greater-pytorch-penetration-cloudcomputing-news/"><u>Meta and Amazon Web Services Join Forces for Greater PyTorch Penetration | CloudComputing News</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-user-manual-to-facetunes-photo-fixes-for-2024/"><u>The Complete User Manual to Facetune's Photo Fixes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-hook-up-guide-scripts-to-seduce-listeners/"><u>The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-changes-in-my-google-cloud-storage-strategy-insights-and-impact-a-zdnet-expose/"><u>Unveiling the Hidden Changes in My Google Cloud Storage Strategy: Insights & Impact - A ZDNet Expose</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-st/"><u>Updated In 2024, Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others</u></a></li>
 </ul></div>
 

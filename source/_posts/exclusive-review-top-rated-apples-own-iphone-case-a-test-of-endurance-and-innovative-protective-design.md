@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review: Top-Rated Apple's Own iPhone Case - A Test of Endurance & Innovative Protective Design"
-date: 2024-12-18T00:10:39.412Z
-updated: 2024-12-21T17:35:32.302Z
+date: 2025-01-12T17:33:43.194Z
+updated: 2025-01-18T02:49:48.478Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -90,7 +90,7 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,18 +129,18 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>[New] In 2024, Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-mobile-camera-best-android-practices/"><u>[Updated] 2024 Approved Mastering Mobile Camera Best Android Practices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-12-proplus-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparando-a-eficiencia-de-extracao-7-zip-winrar-e-winzip-explicados/"><u>Comparando a Eficiência De Extração: 7-Zip, WinRAR E WinZip Explicados</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guia-facil-de-reproducir-archivos-mp4-en-sistemas-operativos-windows-10-8-y-7/"><u>Guía Fácil De Reproducir Archivos MP4 en Sistemas Operativos Windows 10, 8 Y 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-zoom-beszelgetesek-bevezetesenek-szuksegtelen-gyakorlati-tizenletenek-tanacsa/"><u>Movavi Zoom Beszélgetések Bevezetésének Szükségtelen Gyakorlati Tizenlétének Tanácsa</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/wing-down-the-video-platform-wars-youtube-shorts-against-tiktok-for-2024/"><u>Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-record-your-desktop-like-a-pro-a-filmora-scrn-guide/"><u>New Record Your Desktop Like a Pro A Filmora Scrn Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformer-un-fichier-aiff-en-format-wmv-gratuitement-facile-et-rapide-avec-movavi/"><u>Transformer Un Fichier AIFF en Format WMV Gratuitement - Facile Et Rapide Avec Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-your-video-potential-with-free-enhancers-for-2024/"><u>Unleash Your Video Potential with Free Enhancers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-teleconference-recordings/"><u>[New] In 2024, Teleconference Recordings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-media-savvy-crafting-your-best-self-with-top-tips-for-bios/"><u>[Updated] 2024 Approved Social Media Savvy Crafting Your Best Self with Top Tips for Bios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-climbing-the-youtube-search-rankings-key-seo-strategies-unveiled/"><u>[Updated] Climbing the YouTube Search Rankings Key SEO Strategies Unveiled</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leveraging-dual-screen-capabilities-to-boost-your-facebook-presence-for-2024/"><u>[Updated] Leveraging Dual-Screen Capabilities to Boost Your Facebook Presence for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-graphics-an-examination-of-cg318-4k-by-eizo/"><u>[Updated] Revolutionizing Graphics An Examination of CG318-4K by EIZO</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-live-broadcasting-demystified-for-2024/"><u>[Updated] YouTube Live Broadcasting Demystified for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/deciding-between-googles-pixel-9-pro-and-regular-pixel-fold-compare-features-and-find-out-which-one-wins-on-zdnet/"><u>Deciding Between Google's Pixel #9 Pro and Regular Pixel Fold? Compare Features & Find Out Which One Wins on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-craft-your-own-electronic-american-passport-using-google-wallet-step-by-step-instructions-included/"><u>How To Craft Your Own Electronic American Passport Using Google Wallet, Step-By-Step Instructions Included</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-vitas-editing-world-complete-review-and-tutorial-for-2024/"><u>Navigating Vita's Editing World Complete Review & Tutorial for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-illustrators-toolkit-making-text-pop-in-3d/"><u>The Illustrator's Toolkit Making Text Pop in 3D</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unfolding-the-battle-comparative-analysis-of-google-pixel-9-pro-and-samsung-galaxy-z-fold-6-a-closer-look/"><u>Unfolding the Battle: Comparative Analysis of Google Pixel 9 Pro and Samsung Galaxy Z Fold 6 - A Closer Look</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-xs-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone XS Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-im-seriously-considering-the-switch-to-google-pixel-after-testing-their-premium-android-watch-exclusive-review-on-zdnet/"><u>Why I'm Seriously Considering the Switch to Google Pixel After Testing Their Premium Android Watch | Exclusive Review on ZDNET</u></a></li>
 </ul></div>
 

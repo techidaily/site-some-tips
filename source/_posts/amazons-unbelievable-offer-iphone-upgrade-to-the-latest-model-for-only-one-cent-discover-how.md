@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Unbelievable Offer: IPhone 지Upgrade to the Latest Model for Only One Cent! Discover How"
-date: 2024-12-16T01:08:33.234Z
-updated: 2024-12-22T01:23:22.679Z
+date: 2025-01-12T23:12:24.844Z
+updated: 2025-01-17T17:32:35.273Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,22 +114,17 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[New] In 2024, Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>[New] Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-composers-guide-to-imovie-soundscape/"><u>[New] The Composer's Guide to iMovie Soundscape</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-alter-twitter-video-headline-image/"><u>[Updated] In 2024, Alter Twitter Video Headline Image</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-motion-blur-effects-in-images/"><u>[Updated] Master iPhone Motion-Blur Effects in Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-zeo-startup-showcase/"><u>[Updated] The Ultimate Zeo-Startup Showcase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tier-eighth-edition-of-image-blender-tool/"><u>[Updated] Top Tier Eighth Edition of Image Blender Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved Utilization of Unused Film Clips Tips and Tricks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/bio-essentials-the-ultimate-guide-to-crafting-impactful-social-media-profiles-for-2024/"><u>Bio Essentials The Ultimate Guide to Crafting Impactful Social Media Profiles for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-methods-to-enhance-complexity-on-your-apple-watch-insights-from-zdnet/"><u>Effortless Methods to Enhance Complexity on Your Apple Watch: Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-the-best-low-cost-mobile-plans-available/"><u>Explore the Best Low-Cost Mobile Plans Available</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-very-best-8-game-news-plus-sites/"><u>Explore: The Very Best 8 Game News + Sites</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-simplify-4k-video-post-production-the-top-proxy-video-editing-apps/"><u>Updated Simplify 4K Video Post-Production The Top Proxy Video Editing Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[New] 2024 Approved Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-creative-potential-smart-b-roll-incorporation/"><u>[Updated] 2024 Approved Unlock Creative Potential Smart B Roll Incorporation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-melodies-secrets-to-adding-soundtracks-on-insta/"><u>[Updated] Master the Melodies Secrets to Adding Soundtracks on Insta</u></a></li>
+<li><a href="https://win-premium.techidaily.com/exploring-various-cryptocurrency-classifications-insights-by-yl-computing-and-yl-software/"><u>Exploring Various Cryptocurrency Classifications: Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-vision-to-life-best-1080p-video-editing-software-reviewed/"><u>In 2024, Bring Your Vision to Life Best 1080P Video Editing Software Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dynamic-image-narration-toolbox/"><u>In 2024, Dynamic Image Narration Toolbox</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-legal-footprints-in-the-digital-age-photowatermarking-for-instagram/"><u>In 2024, Legal Footprints in the Digital Age Photowatermarking for Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-shift-from-remote-work-to-office-return-potential-gains-and-challenges-explored-by-zdnet/"><u>Navigating the Shift From Remote Work to Office Return: Potential Gains and Challenges Explored by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rise-to-the-top-as-an-ai-executive-understanding-and-pursuing-the-role-of-chief-ai-officer/"><u>Rise to the Top as an AI Executive: Understanding and Pursuing the Role of Chief AI Officer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-from-culinary-careers-a-step-by-step-guide-to-entering-the-tech-industry/"><u>Transitioning From Culinary Careers: A Step-by-Step Guide to Entering the Tech Industry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-upcoming-pay-transparency-changes-and-their-effect-on-employees-zdnet-analysis/"><u>Understanding Upcoming Pay Transparency Changes and Their Effect on Employees | ZDNet Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-multiscreen-woes/"><u>Understanding Windows Multiscreen Woes</u></a></li>
 </ul></div>
 

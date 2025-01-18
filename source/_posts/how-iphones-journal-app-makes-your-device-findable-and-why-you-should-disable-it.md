@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2025-01-08T21:23:13.962Z
-updated: 2025-01-12T20:30:13.974Z
+date: 2025-01-12T07:32:55.890Z
+updated: 2025-01-17T22:31:53.934Z
 tags:
   - apple
 categories:
@@ -40,16 +40,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
@@ -58,21 +54,25 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -85,16 +85,12 @@ Maria Diaz/ZDNET
 ## **FAQ**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -109,6 +105,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,20 +148,16 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10-for-2024/"><u>[New] Innovative Strategies to Enhance Video Craftsmanship on Windows 10 for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ips-for-quickly-locating-the-epicenter-of-youtubes-video-creation-for-2024/"><u>[New] Tips for Quickly Locating the Epicenter of YouTube's Video Creation for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-behind-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>[Updated] In 2024, Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-review-of-freewatch-webcam-recorder-app/"><u>[Updated] Review of Freewatch Webcam Recorder App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-stealthy-release-fresh-charismatic-gadgets-unveiled-this-week-discover-the-details-on-zdnet/"><u>Apple's Stealthy Release: Fresh, Charismatic Gadgets Unveiled This Week – Discover the Details on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avoid-losing-your-airpods-forever-effective-strategies-for-finding-and-securing-them-gadget-savvy/"><u>Avoid Losing Your AirPods Forever: Effective Strategies for Finding and Securing Them | Gadget Savvy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/delving-deep-into-high-dynamic-range-with-adobe-ps/"><u>Delving Deep Into High Dynamic Range with Adobe PS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-iphone-upgraded-with-the-newly-released-ios-official-release-announced-how-to-download-and-which-iphones-are-supported-insights/"><u>Get Your iPhone Upgraded with the Newly-Released IOS # Official Release Announced: How to Download and Which iPhones Are Supported | Insights</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Pro Lock Screen with Notifications?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphoneandroid-the-best-slo-mo-camera-app-compilation/"><u>In 2024, Mastering iPhone/Android The Best Slo-Mo Camera App Compilation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/orthodox-jewish-law-halacha-and-philosophy-with-a-focus-on-bioethical-issues-from-an-orthodox-perspective-including-abortion-fertility-treatment-transplants136/"><u>Orthodox Jewish Law (Halacha) and Philosophy; with a Focus on Bioethical Issues From an Orthodox Perspective Including Abortion, Fertility Treatment, Transplants and Brain Death.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tested-apples-push-is-it-time-to-upgrade-your-iphone-insights/"><u>Tested Apple's Push: Is It Time To Upgrade Your iPhone? Insights</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-15-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 15 screen lock</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-apples-universal-control-expert-tips-for-effortless-ipad-and-mac-integration-insights/"><u>Unlock the Power of Apple's Universal Control: Expert Tips for Effortless iPad & Mac Integration | Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-apple-skips-older-models-for-upcoming-ai-innovations-an-economic-perspective-reported-by-zdnet/"><u>Why Apple Skips Older Models for Upcoming AI Innovations: An Economic Perspective | Reported by ZDNET</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-standout-1980s-visual-techniques-in-media-editing-for-2024/"><u>[Updated] Standout 1980S Visual Techniques in Media Editing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-enterprise-ai-capabilities-with-microsoft-azures-latest-offerings-models-as-a-service-and-enhanced-rag-solutions/"><u>Boosting Enterprise AI Capabilities with Microsoft Azure's Latest Offerings: Models as a Service and Enhanced RAG Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/charting-new-territories-in-ai-development-with-open-source-innovations-the-journey-is-rife-with-debates-zdnet/"><u>Charting New Territories in AI Development with Open Source Innovations – The Journey Is Rife With Debates | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cost-effective-ai-tailoring-budget-version-of-gpt-4o-model-now-cheaper-to-customize-according-to-zdnet/"><u>Cost-Effective AI Tailoring: Budget Version of GPT-4o Model Now Cheaper to Customize, According to ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/current-landscape-of-popular-coding-languages-definitions-and-implications/"><u>Current Landscape of Popular Coding Languages: Definitions and Implications.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-ios-181-developer-preview-next-gen-apple-intelligence-for-iphone-devices-insights-and-analysis-by-zdnet/"><u>Discover iOS 18.1 Developer Preview: Next-Gen Apple Intelligence for iPhone Devices | Insights & Analysis by ZDNet</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/harnessing-artificial-intelligence-for-enhanced-insurance-risk-assessment/"><u>Harnessing Artificial Intelligence for Enhanced Insurance Risk Assessment</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a58-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A58 4G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-driver-recognition-for-older-amd-adapters-on-windows/"><u>No Driver Recognition for Older AMD Adapters on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-itel-s23-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Itel S23 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961749205-update-your-canon-pixma-ts3222-drivers-free-downloads-available/"><u>Update Your Canon PIXMA TS3222 Drivers - Free Downloads Available!</u></a></li>
 </ul></div>
 

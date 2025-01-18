@@ -1,7 +1,7 @@
 ---
 title: "Top Privacy Offenders Revealed: Mozilla's 'Naughty' List Exposes Amazon & Facebook Amongst Worst"
-date: 2024-09-17 11:11:51
-updated: 2024-09-20 12:51:43
+date: 2025-01-13T16:42:32.698Z
+updated: 2025-01-17T16:21:18.785Z
 tags:
   - amazon
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 ## Top Privacy Offenders Revealed: Mozilla's 'Naughty' List Exposes Amazon & Facebook Amongst Worst
 
 Mozilla has [released](https://foundation.mozilla.org/en/privacynotincluded/) the latest edition of its \*Privacy Not Included shopping guide, aiming to provide holiday buyers with a concrete list of how the most popular items handle privacy issues. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -66,11 +70,30 @@ The report notes that because of privacy laws passed in California, many compani
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>[New] 2024 Approved Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-turn-every-instagram-moment-into-a-shareable-mp4-file/"><u>[New] In 2024, Turn Every Instagram Moment Into a Shareable MP4 File</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-visual-voice-choir-discovering-video-driven-music-for-2024/"><u>[Updated] Visual Voice Choir Discovering Video-Driven Music for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-approval-of-sideloading-on-ios-devices-understanding-new-eu-regulations-and-limitations/"><u>Apple's Approval of Sideloading on iOS Devices: Understanding New EU Regulations and Limitations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/battle-of-the-smartwatch-giants-assessing-the-pros-and-cons-of-samsungs-ultra-vs-apples-ultra-making-an-informed-purchase-decision/"><u>Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-iphone-videos-a-simple-guide/"><u>Blending iPhone Videos A Simple Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/endless-humor-best-free-meme-designs/"><u>Endless Humor Best Free Meme Designs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/impressive-image-sequence-on-instagram-for-2024/"><u>Impressive Image Sequence on Instagram for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y56 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>In 2024, Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-a-step-by-step-guide-to-tailoring-the-control-center-on-your-iphone/"><u>IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-vs-apple-comparing-the-latest-in-smartwatch-tech-google-pixel-watch-2-against-apple-watch-series-9/"><u>Pixel Vs. Apple: Comparing the Latest in Smartwatch Tech - Google Pixel Watch 2 Against Apple Watch Series 9</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-listing-sierras-best-video-maker-apps-for-2024/"><u>Premier Listing Sierra's Best Video Maker Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/putting-apples-premium-phone-guard-to-the-test-exceptional-durability-and-a-one-of-a-kind-safety-element-unveiled/"><u>Putting Apple’s Premium Phone Guard to the Test: Exceptional Durability and a One-of-a-Kind Safety Element Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-notch-laptop-offers-in-july-2024-exclusive-picks/"><u>Top Notch Laptop Offers in July 2024: Exclusive Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-choosing-the-best-magsafe-wallets-of-2024-expert-opinions-and-analysis/"><u>ZDNet's Ultimate Guide to Choosing the Best MagSafe Wallets of 2024: Expert Opinions and Analysis</u></a></li>
+</ul></div>
+

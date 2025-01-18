@@ -1,7 +1,7 @@
 ---
 title: "ZDNet: Samsung Overtakes Apple in Phone Sales Volume as New Market Contenders Close the Gap"
-date: 2025-01-10T17:26:21.391Z
-updated: 2025-01-12T20:37:18.067Z
+date: 2025-01-11T21:24:47.683Z
+updated: 2025-01-18T11:33:41.707Z
 tags:
   - apple
 categories:
@@ -77,24 +77,23 @@ We'll see if Apple can continue its grip on the global market share, but with th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-get-tech-savvy-expert-guide-for-mac-screen-recording-via-shortcuts/"><u>[New] 2024 Approved Get Tech-Savvy Expert Guide for Mac Screen Recording via Shortcuts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-midland-lxt500vp3-radio-a-wealth-of-features-yet-falls-short-in-performance/"><u>Comprehensive Analysis of Midland LXT500VP3 Radio: A Wealth of Features, Yet Falls Short in Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-1067-explained-steps-to-prevent-unexpected-windows-process-terminations/"><u>Error Code 1067 Explained: Steps to Prevent Unexpected Windows Process Terminations</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-fix-your-pc-when-it-keeps-crashing-and-freezing-tips-from-yl-computings-expert-software-solutions/"><u>How to Fix Your PC When It Keeps Crashing and Freezing: Tips From YL Computing's Expert Software Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-upcoming-apple-pay-later-transactions-may-impact-your-experian-credit-score-insights/"><u>How Upcoming Apple Pay Later Transactions May Impact Your Experian Credit Score - Insights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-past-facebook-feed-exploration-for-laptops-and-phones/"><u>Mastering Past Facebook Feed Exploration for Laptops and Phones</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-vhs-vibes-made-easy-a-final-cut-pro-tutorial/"><u>New VHS Vibes Made Easy A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/qualified-macbook-users-receive-payouts-from-apples-recent-class-action-agreement-tech-insider/"><u>Qualified MacBook Users Receive Payouts From Apple's Recent Class Action Agreement | Tech Insider</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-ultimate-substitute-for-deezify-on-all-platforms-meet-allavsoft/"><u>The Ultimate Substitute for Deezify on All Platforms - Meet Allavsoft</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-companions-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated AirTag Companions : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-models-thoroughly-tested-by-experts-zdnet/"><u>Top-Rated Apple Watch Models - Thoroughly Tested by Experts | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-leading-wireless-charging-devices-in-depth-analysis-from-cnet/"><u>Ultimate Guide to the Leading Wireless Charging Devices : In-Depth Analysis From CNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unboxing-apple-vision-pro-the-unusually-comfortable-199-travel-companion-insights/"><u>Unboxing Apple Vision Pro: The Unusually Comfortable $199 Travel Companion - Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-advanced-features-at-half-price-obtain-the-winx-dvd-copy-version-396-license-for-less/"><u>Unlock Advanced Features at Half Price! Obtain the WinX DVD Copy Version 3.9.6 License for Less.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-apple-introduces-m3-powered-13-and-15-macbook-air-key-features-revealed/"><u>Unveiling the Latest: Apple Introduces M3-Powered 13 & 15 MacBook Air - Key Features Revealed!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>[New] 2024 Approved Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-press-record-with-just-one-click-on-win11-for-2024/"><u>[Updated] Press 'Record' With Just One Click on Win11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-ai-knowledge-divide-the-crucial-role-of-data-and-solutions-by-top-thought-leaders-at-zdnet/"><u>Bridging the AI Knowledge Divide: The Crucial Role of Data and Solutions by Top Thought Leaders at ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-6s-plus-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 6s Plus screen turns black? | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortlessly-integrate-ai-tools-in-your-workflow-using-superduperdb-featured-on-zdnet/"><u>Effortlessly Integrate AI Tools in Your Workflow Using SuperDuperDB - Featured on ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lava-yuva-2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lava Yuva 2 Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-10-gaming-youtubers-you-may-want-to-subscribe/"><u>In 2024, Top 10 Gaming YouTubers You May Want to Subscribe</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-tech-game-with-the-newest-100-inch-ar-laptop-say-goodbye-to-monitors-now-zdnet/"><u>Revolutionize Your Tech Game with the Newest 100-Inch AR Laptop - Say Goodbye to Monitors Now | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-must-have-cybersecurity-certifications-a-comprehensive-guide-by-zdnet/"><u>Top 7 Must-Have Cybersecurity Certifications : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-trending-coding-languages-and-their-impact-on-the-tech-world-insights-from-zdnet/"><u>Top Trending Coding Languages and Their Impact on the Tech World – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/twitters-looming-crisis-and-demise-predicted-by-experts-at-zdnet/"><u>Twitter's Looming Crisis and Demise Predicted by Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-apples-associates-move-the-reason-behind-lowering-ex-staff-ranks/"><u>Understanding Apple's Associates Move - The Reason Behind Lowering Ex-Staff Ranks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

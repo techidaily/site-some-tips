@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2025-01-05T20:01:56.523Z
-updated: 2025-01-12T18:06:45.018Z
+date: 2025-01-16T02:54:42.317Z
+updated: 2025-01-17T22:00:13.700Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-iphone-luminance-mastering-dark-imagery-for-2024/"><u>[New] IPhone Luminance Mastering Dark Imagery for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-selection-of-christian-streaming-sites/"><u>[Updated] 2024 Approved The Ultimate Selection of Christian Streaming Sites</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp33gp-movavi/"><u>「フリーオンラインMP3ファイルを3GPから効果的に変換 - Movavi」</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-install-lenovo-x220-driver-pack-get-started-now/"><u>Effortlessly Install Lenovo X220 Driver Pack - Get Started Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-basic-understanding-of-animate-graphic-content/"><u>In 2024, Basic Understanding of Animate Graphic Content</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>In 2024, BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hide-identity-in-images-best-face-cutting-apps-revealed/"><u>In 2024, Hide Identity in Images Best Face-Cutting Apps Revealed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/price-barrier-alert-how-your-previous-iphone-models-will-skip-on-apples-latest-artificial-intelligence-enhancements/"><u>Price Barrier Alert: How Your Previous iPhone Models Will Skip on Apple's Latest Artificial Intelligence Enhancements</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-choice-tablet-assessment-why-apples-new-ipad-with-m2-chip-is-your-ideal-purchase-insights-from-zdnet/"><u>Top Choice Tablet Assessment: Why Apple's New iPad with M2 Chip Is Your Ideal Purchase - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-apples-vision-pro-in-february-redefining-luxury-with-an-ultra-sophisticated-buying-journey-zdnet/"><u>Unveiling Apple's Vision Pro in February - Redefining Luxury with an Ultra-Sophisticated Buying Journey | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-ios-16-beta-learn-how-to-upgrade-your-iphone-today-or-consider-holding-off-tech-insights/"><u>Unveiling iOS 16 Beta: Learn How to Upgrade Your iPhone Today (or Consider Holding Off) | Tech Insights</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windows-11-8-and-7rollback-rx/"><u>Windows 11, 8 & 7向け最適なRollBack Rxフリー代用品 - 優秀選び方法</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigate-to-the-premier-android-tools-for-ps2-games/"><u>[New] Navigate to the Premier Android Tools for PS2 Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-boosting-remote-work-engagement-with-4-tactics/"><u>[Updated] Boosting Remote Work Engagement with 4 Tactics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tips-for-fixing-stalled-video-posts-on-the-social-media-platform-iosandroid/"><u>[Updated] Tips for Fixing Stalled Video Posts on the Social Media Platform iOS/Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-visual-data-extractor-for-2024/"><u>[Updated] Visual Data Extractor for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-best-love-stories-perfectly-captured-weddings/"><u>[Updated] YouTube's Best Love Stories Perfectly Captured Weddings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-apples-podcast-listings/"><u>2024 Approved Best Practices for Apple's Podcast Listings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-what-everyone-should-know-about-youtube-tv-before-you-stream/"><u>2024 Approved What Everyone Should Know About YouTube TV Before You Stream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-power-station-trials-cost-savvy-and-perfect-for-road-trips-reviewed-by-zdnet/"><u>Affordable Power Station Trials - Cost Savvy and Perfect for Road Trips, Reviewed by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-memory-retention-organized-photo-albums-and-icloud-coordination/"><u>Enhancing Memory Retention Organized Photo Albums and iCloud Coordination</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-enhanced-climate-control-with-googles-new-nest-thermostat-insights-on-features-pricing-and-specifications-zdnet-analysis/"><u>Explore Enhanced Climate Control with Google's New Nest Thermostat: Insights on Features, Pricing & Specifications - ZDNet Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-the-finest-electrically-powered-lawn-mowers-on-wired-magazines-list/"><u>Explore the Finest Electrically Powered Lawn Mowers on WIRED Magazine's List</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207184627-reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-energy-needs-experience-the-solar-generators-extended-seven-hours-of-power-on-one-charge-zdnet/"><u>Revolutionize Your Energy Needs: Experience the Solar Generator's Extended Seven Hours of Power on One Charge | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-skills-with-a-50-off-deal-on-engineering-bootcamp-for-sustainable-power-systems-zdnet/"><u>Revolutionize Your Skills with a 50% Off Deal on Engineering Bootcamp for Sustainable Power Systems | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-cutting-edge-smart-thermostats-a-comprehensive-guide-by-techradar/"><u>Top 5 Cutting-Edge Smart Thermostats : A Comprehensive Guide by TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-long-lasting-rechargeable-batteries-expert-picks-and-comparisons/"><u>Top Rated Long-Lasting Rechargeable Batteries : Expert Picks and Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-portable-solar-power-banks-the-ultimate-guide-techradar/"><u>Top-Rated Portable Solar Power Banks - The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-ultimate-productivity-with-zendure-superbase-pro-2n-a-comprehensive-review-on-zdnet/"><u>Unleash Ultimate Productivity with Zendure SuperBase Pro 2N: A Comprehensive Review on ZDNet</u></a></li>
 </ul></div>
 

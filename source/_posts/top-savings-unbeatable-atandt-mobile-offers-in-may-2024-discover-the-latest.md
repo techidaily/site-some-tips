@@ -1,7 +1,7 @@
 ---
 title: "Top Savings: Unbeatable AT&T Mobile Offers in May 2024 - Discover the Latest"
-date: 2024-12-20T04:44:10.670Z
-updated: 2024-12-21T01:43:11.868Z
+date: 2025-01-16T16:38:23.316Z
+updated: 2025-01-18T11:10:59.547Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad Holiday deals
@@ -43,6 +43,10 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro (2021,12.9-inch, Wi-Fi + Cellular, 128GB)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://computers.woot.com/offers/new-apple-2021-12-9-ipad-pro-wifi-cellular-16): $810 (save $390 at W00t!)
 * [Apple iPad Pro (M2 Chip, 12.9-inch, Late 2022, 128GB, Wi-Fi)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731115-REG%2Fapple%5Fmnxp3ll%5Fa%5F12%5F9%5Fipad%5Fpro%5Fm2.html): $999 (save $100 at B&H)
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
 
@@ -101,7 +105,7 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc01fb5f7-64bc-474b-b1e9-85c8acd171ee%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -110,16 +114,12 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best iPad?
 
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best iPad for kids?
@@ -127,7 +127,7 @@ ZDNET editors have gone hands-on with every iPad model, and named the latest iPa
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -198,19 +198,14 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text/"><u>[New] Breaking Down the ABCD A Guide to Crafting Compelling FB Text</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-setting-and-changing-personalized-iphone-tones/"><u>[New] In 2024, Setting & Changing Personalized iPhone Tones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>[New] The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-strategies-maximizing-efficiency-in-windows-10/"><u>[New] Top Strategies Maximizing Efficiency in Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-androids-best-music-video-apps/"><u>[Updated] The Ultimate List of Android's Best Music Video Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-for-applying-luts-in-film-color-grading/"><u>[Updated] Tips for Applying LUTs in Film Color Grading</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y02t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y02T</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-vlogging-gear-the-best-15-cameras-ranked-for-2024/"><u>Ideal Vlogging Gear The Best 15 Cameras Ranked for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-webcams-elevating-audio-quality-in-podcasts/"><u>In 2024, Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/synology-rt2600ac-wifi-router-review-securely-connect-over-distance-with-advanced-parental-oversight/"><u>Synology RT2600ac WiFi Router Review - Securely Connect Over Distance with Advanced Parental Oversight</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-dynamic-image-backdrops-viewer-for-2024/"><u>Top 10 Dynamic Image Backdrops Viewer for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-recommended-2023-dual-function-device-with-hidden-workplace-perks-unveiled-by-zdnet/"><u>Top Recommended 2023 Dual-Function Device with Hidden Workplace Perks - Unveiled by ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>2024 Approved Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/crafting-a-top-notch-linkedin-image-for-2024/"><u>Crafting a Top-Notch LinkedIn Image for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y78t-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y78t for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-6s-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 6s Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/paradox-unveiled-how-no-code-solutions-empower-tech-teams-yet-trap-them-in-new-webs-of-complications-zdnet/"><u>Paradox Unveiled: How No-Code Solutions Empower Tech Teams Yet Trap Them in New Webs of Complications | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-strategy-for-landing-a-tech-company-internship-ultimate-guide-by-zdnet/"><u>Step-by-Step Strategy for Landing a Tech Company Internship: Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-dynamics-of-quick-transformation-exploring-the-concepts-behind-disruptive-innovation-innovative-strategies/"><u>The Dynamics of Quick Transformation: Exploring the Concepts Behind Disruptive Innovation | Innovative Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-factors-a-deeper-look-into-major-layoffs-in-top-tech-firms-the-misleading-metrics-exposed-by-zdnet/"><u>Unveiling the Hidden Factors: A Deeper Look Into Major Layoffs in Top Tech Firms - The Misleading Metrics Exposed by ZDNet</u></a></li>
 </ul></div>
 

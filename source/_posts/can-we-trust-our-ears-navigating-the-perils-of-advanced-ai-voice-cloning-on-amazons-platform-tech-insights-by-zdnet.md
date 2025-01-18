@@ -1,7 +1,7 @@
 ---
 title: Can We Trust Our Ears? Navigating the Perils of Advanced AI Voice Cloning on Amazon's Platform | Tech Insights by ZDNet
-date: 2024-09-17 13:24:28
-updated: 2024-09-20 12:23:13
+date: 2025-01-11T05:41:57.787Z
+updated: 2025-01-18T07:18:11.630Z
 tags:
   - amazon
 categories:
@@ -21,6 +21,10 @@ Last week, we ran a news article entitled, "[Amazon's Alexa reads a story in the
 
 In the presentation, Amazon's Alexa AI Senior VP Rohit Prasad showed a clip of a young boy asking an Echo device, "Alexa, can grandma finish reading me 'The Wizard of Oz'?" The video then showed the Echo reading the book using what Prasad said was the voice of the child's dead grandmother. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### must read
 
 [Ethics of AI: Benefits and risks of artificial intelligence The increasing scale of AI is raising the stakes for major ethical questions.  Read now](https://www.zdnet.com/article/ethics-of-ai-the-benefits-and-risks-of-artificial-intelligence/)
@@ -30,6 +34,10 @@ Hard stop. Did the hairs on the back of your neck just raise up? 'Cause that's n
 Prasad, though, characterized it as beneficial, saying "Human attributes of empathy and affect are key for building trust. They have become even more important in these times of the ongoing pandemic, when so many of us have lost someone we love. While AI can't eliminate that pain of loss, it can definitely make their memories last." 
 
 Hmm. Okay. So let's deconstruct this, shall we? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I hear dead people 
 
@@ -75,6 +83,10 @@ The _Times_ described how these devices are "being used as a means for harassmen
 
 The _American Public University Edge_ also talks about digital gaslighting. The article [explains](https://apuedge.com/smart-devices-used-by-abusers-for-digital-gaslighting/), "This type of activity allows an abuser to easily demonstrate control over the victim, no matter where the abuser may be. It is another method that the abuser uses to slowly chip away at a victim's self-esteem and further exacerbate the victim's stress." 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smart speakers Here are your best options from Google, Apple, and more.  Read now](https://www.zdnet.com/article/best-smart-speaker/)
@@ -107,6 +119,10 @@ Luke's image was [digitally created](https://gizmodo.com/book-of-boba-fett-episo
 
 Another possible application might be in smart assistants (and smart assistance) for dementia sufferers. While it might be a very fine line between gaslighting someone with diminished mental capacity and helping them cope, under proper psychiatric care, voice recreation might have positive applications. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Which Amazon Echo to buy? How to pick the best Alexa device for your needs Amazon now has an entire army of Echo devices. Some listen to you. Some also watch you. Which should you choose? We help you decide.  Read now](https://www.zdnet.com/article/best-amazon-echo/)
@@ -114,6 +130,10 @@ Another possible application might be in smart assistants (and smart assistance)
 My wife and I had a great time traveling across the country with the wise guidance of Yoda. We had added his voice to our old GPS. During our travels, we had Yoda's voice guiding us, turn by turn. It was comforting, especially during those long open and empty stretches, to have Yoda's calming voice and statements like "left, you must turn" to keep us on track. 
 
 Sadly, the Yoda Positioning System is no longer available, which may (or may not) say something about the market viability for celebrity character voices in personal electronics. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Stopping to think 
 
@@ -172,11 +192,25 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-immerse-in-tiktok-entertainment-with-ease-and-grace/"><u>[New] Immerse in TikTok Entertainment with Ease and Grace</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-streamlining-your-podcast-for-apple-platform-access/"><u>[New] Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-analysis-best-valheim-seeds-for-growth/"><u>[Updated] 2024 Approved In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-samsung-and-apple-ultra-edition-smartwatches-an-in-depth-comparison-for-your-purchase-decision-techradar/"><u>Choosing Between the Samsung and Apple Ultra Edition Smartwatches: An In-Depth Comparison for Your Purchase Decision | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-comparison-ipad-pro-with-m1-chip-vs-m2-upgrade-which-suits-you-best/"><u>Comprehensive Comparison: IPad Pro with M1 Chip Vs. M2 Upgrade – Which Suits You Best?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/streamline-your-computers-boot-time-expert-guide-to-cleaning-up-startup-programs-with-yl-software-solutions/"><u>Streamline Your Computer's Boot Time: Expert Guide to Cleaning Up Startup Programs with YL Software Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-great-deal-hisense-50-hdr-tv-review/"><u>The Ultimate Guide to Choosing a Great Deal: Hisense 50 HDR TV Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-ipad-pro-evaluation-why-its-distinct-role-from-macbook-is-a-win-for-users-digital-gadget-review/"><u>The Ultimate iPad Pro Evaluation: Why Its Distinct Role From MacBook Is a Win for Users | Digital Gadget Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-desktops-and-laptops-an-in-depth-comparison-of-apple-dell-hp-and-others-insights/"><u>Top-Ranking Desktops & Laptops : An In-Depth Comparison of Apple, Dell, HP, and Others - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-recovering-lost-airpods-and-preventative-tips-zdnet/"><u>Ultimate Guide to Recovering Lost AirPods & Preventative Tips - ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-typing-troubles-heres-how-to-eliminate-keyboard-delay/"><u>Windows 10 Typing Troubles? Here's How to Eliminate Keyboard Delay!</u></a></li>
+</ul></div>
+

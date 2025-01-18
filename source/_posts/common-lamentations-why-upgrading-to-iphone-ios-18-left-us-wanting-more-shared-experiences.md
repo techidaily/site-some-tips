@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2025-01-09T18:29:36.418Z
-updated: 2025-01-12T19:33:14.097Z
+date: 2025-01-11T01:36:56.022Z
+updated: 2025-01-17T22:50:39.065Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-camera-troubles-no-more-with-obs/"><u>[New] 2024 Approved Camera Troubles No More with OBS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-video-treasures-top-5-list/"><u>[New] Facebook Video Treasures - Top 5 List</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-scooping-strategies-review-rundown/"><u>[New] SCOOPING STRATEGIES Review Rundown</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-windows-10-two-monitor-blankness/"><u>Addressing Windows 10 Two-Monitor Blankness</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-siris-capabilities-how-apples-latest-ai-model-transforms-your-desktop-experience-exclusive/"><u>Boosting Siri's Capabilities: How Apple's Latest AI Model Transforms Your Desktop Experience Exclusive</u></a></li>
-<li><a href="https://fox-http.techidaily.com/bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-insights-on-the-ipad-pro-embracing-its-unique-strength-as-a-top-tier-tablet-separate-from-macbook-a-comprehensive-review-by-zdnet/"><u>Expert Insights on the iPad Pro: Embracing Its Unique Strength as a Top-Tier Tablet Separate From MacBook - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/find-the-hottest-june-2024-discounts-and-deals-at-best-buy-insider-tips-revealed/"><u>Find the Hottest June 2024 Discounts and Deals at Best Buy – Insider Tips Revealed</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-nova-y71-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei Nova Y71 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-turning-twitter-media-into-interactive-expressive-animated-gifs/"><u>In 2024, Turning Twitter Media Into Interactive, Expressive Animated GIFs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-11-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 11 Pro 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-cycling-adventures-with-photochromic-glasses-and-hud-technology-a-game-changing-review-by-zdnet/"><u>Transforming Cycling Adventures with Photochromic Glasses & HUD Technology | A Game-Changing Review by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-securing-your-data-by-syncing-iphone-and-mac-with-icloud-tips/"><u>Ultimate Guide: Securing Your Data by Syncing iPhone & Mac with iCloud - Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>[New] Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-immersion-top-vr-options-reviewed/"><u>Economical Immersion: Top VR Options Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-gpus-ready-for-ethereum-mining-with-the-latest-windows-drivers/"><u>Get Your AMD GPUs Ready for Ethereum Mining with the Latest Windows Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-realme-narzo-n53-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Realme Narzo N53? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-adventures-with-ecoflow-river-3-the-premier-portable-battery-reviewed-by-tech-expert-at-zdnet/"><u>Master Your Adventures with EcoFlow River ^3 - The Premier Portable Battery Reviewed by Tech Expert at ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-finest-11-streaming-sound-recorders-for-2024/"><u>The Finest 11 Streaming Sound Recorders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/theres-a-woman/"><u>There's a Woman</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-affordable-portable-power-station-picks-meticulously-tested-by-tech-gurus-zdnet/"><u>Top Affordable Portable Power Station Picks , Meticulously Tested by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-handheld-lights-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Handheld Lights : Industry Experts' Picks Featured on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-successfully-connect-your-android-device-with-bluetooth-to-a-laptop/"><u>Ultimate Guide: Successfully Connect Your Android Device with Bluetooth to a Laptop</u></a></li>
 </ul></div>
 

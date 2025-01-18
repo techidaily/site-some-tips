@@ -1,7 +1,7 @@
 ---
 title: "AWS Elevates Cloud Competition with New Innovations at Re:Invent 2021 - ZDNet Insights"
-date: 2024-09-18 12:31:31
-updated: 2024-09-20 12:52:58
+date: 2025-01-11T12:37:38.074Z
+updated: 2025-01-18T00:30:04.067Z
 tags:
   - amazon
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,33 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-interactive-photography-sharing-immersive-360-photos-via-mobile-devices/"><u>[New] 2024 Approved Interactive Photography Sharing Immersive 360 Photos via Mobile Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecoding-youtubes-intricate-view-count-mechanics/"><u>[New] Decoding YouTube's Intricate View Count Mechanics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-converting-vids-on-pinterest-into-audible-format-for-2024/"><u>[Updated] Mastering the Art of Converting Vids on Pinterest Into Audible Format for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tailored-video-edits-for-exceptional-vimeo-content/"><u>[Updated] Tailored Video Edits for Exceptional Vimeo Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/computational-welding-mechanics-cwm-models-simulate-the-welding-process-to-predict-and-optimize-for-minimal-distortion-outcomes/"><u>Computational Welding Mechanics (CWM) Models Simulate the Welding Process to Predict and Optimize for Minimal Distortion Outcomes.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/diy-approach-ending-your-apple-music-membership-without-using-itunes-tips-by-zdnet-experts/"><u>DIY Approach: Ending Your Apple Music Membership Without Using iTunes – Tips by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-asrock-motherboards-up-to-date-essential-driver-downloads-and-tips/"><u>Get Your ASRock Motherboards Up-to-Date: Essential Driver Downloads and Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-easily-unlock-gionee-screen-by-drfone-android/"><u>How To Easily Unlock Gionee Screen?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-7-tech-choices-prepping-for-the-metaverse-frontier/"><u>In 2024, Top 7 Tech Choices Prepping for the Metaverse Frontier</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/migrating-your-whatsapp-chat-history-from-android-device-to-ios-step-by-step-guide/"><u>Migrating Your WhatsApp Chat History From Android Device to iOS - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reimagining-the-corporate-environment-to-maximize-employee-potential/"><u>Reimagining the Corporate Environment to Maximize Employee Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-apple-airtags-on-sale-save-24-with-walmarts-labor-day-discount-shop-the-4-pack-today/"><u>Snag Apple AirTags on Sale: Save $24 with Walmart's Labor Day Discount – Shop the 4-Pack Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-reasons-why-sticking-with-my-iphone-14-beats-switching-to-the-iphone-16-pro-insights-from-tech-analyst-at-zdnet/"><u>Top 4 Reasons Why Sticking with My iPhone 14 Beats Switching to the iPhone 16 Pro - Insights From Tech Analyst at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-must-have-features-of-the-apple-watch-insights-from-industry-experts/"><u>Top 6 Must-Have Features of the Apple Watch: Insights From Industry Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-iphone-15-insights-and-pros-a-must-read-guide-for-tech-enthusiasts/"><u>Top iPhone 15 Insights and Pros: A Must-Read Guide for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-compact-tablets-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Compact Tablets : Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-6s-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 6s Plus Without Passcode Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-apples-strategic-move-indications-of-an-ai-enhanced-iphone-in-the-works/"><u>ZDNet Explores Apple's Strategic Move: Indications of an AI Enhanced iPhone in the Works</u></a></li>
+</ul></div>
+

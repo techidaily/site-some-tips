@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Inbox with This Single-Step Email Hack – No Junk, Just Essentials!
-date: 2024-12-15T20:31:01.744Z
-updated: 2024-12-21T21:14:24.772Z
+date: 2025-01-14T20:01:52.042Z
+updated: 2025-01-18T10:00:53.087Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,19 +126,17 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-10-games-like-ghost-of-tsushima-for-2024/"><u>[New] Top 10 Games Like Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-wmv-and-m4a-video-formats-for-free-on-the-web-with-moveave/"><u>Convert WMV & M4A Video Formats for Free on the Web with Moveave</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-from-flac-to-mp3-by-movavi/"><u>Free Online Converter From FLAC to MP3 by Movavi</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-from-compression-to-clarity-the-zip-srt-conversion/"><u>In 2024, From Compression to Clarity The ZIP-SRT Conversion</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-outperforming-vimeo-with-these-superior-alternatives/"><u>In 2024, Outperforming Vimeo with These Superior Alternatives</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-a14-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy A14 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/no-charge-image-editing-easily-change-orf-format-using-moveavis-online-tools/"><u>No Charge Image Editing: Easily Change ORF Format Using MoveAVI's Online Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-transforming-mp4-audio-tracks-into-mp3-files-with-the-movavi-app-on-mac-computers/"><u>Step-by-Step Tutorial: Transforming MP4 Audio Tracks Into MP3 Files with the Movavi App on Mac Computers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-supercharging-srt-with-macwindows/"><u>The Ultimate Guide to Supercharging SRT with Mac/Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-best-free-video-to-dvd-converters-of-2024-a-comprehensive-guide/"><u>Top 7 Best Free Video-to-DVD Converters of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-tecno-spark-20-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Tecno Spark 20 Pro+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforma-audio-units-au-a-formatos-mp4-por-internet-gratis-con-movavi/"><u>Transforma Audio Units (AU) a Formatos MP4 Por Internet Gratis Con Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-speedy-windows-inspecting/"><u>[Updated] The Essential Guide to Speedy Windows Inspecting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>[Updated] The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-iconic-movie-moments-to-inspire-your-edits-for-2024/"><u>10 Iconic Movie Moments to Inspire Your Edits for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-start-with-new-epson-xp-640-driver-update-for-windows-1087/"><u>Fresh Start with New Epson XP-640 Driver Update - For Windows 10/8/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-enhances-its-calendar-with-easy-bookable-slots-for-seamless-scheduling-what-you-need-to-know-zdnet/"><u>Google Enhances Its Calendar with Easy Bookable Slots for Seamless Scheduling - What You Need to Know | ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-bridging-identities-with-100-creative-and-empowering-insta-captions/"><u>In 2024, Bridging Identities with 100 Creative and Empowering Insta Captions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-9-pro-fold-vs-standard-pixel-fold-choosing-the-right-smartphone-for-your-needs-insights-from-zdnet/"><u>Pixel 9 Pro Fold Vs. Standard Pixel Fold: Choosing the Right Smartphone for Your Needs - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-results-and-champion/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Results & Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-power-up-should-you-go-from-7-pro-to-8-pro-on-zdnets-comparison/"><u>Pixel Power-Up! Should You Go From 7 Pro to 8 Pro on ZDNet's Comparison?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-accessing-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>Solution Guide: Accessing Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-to-reducing-energy-expenses-through-schneider-electric-solutions-zdnet/"><u>Unlock the Secrets to Reducing Energy Expenses Through Schneider Electric Solutions | ZDNet</u></a></li>
 </ul></div>
 

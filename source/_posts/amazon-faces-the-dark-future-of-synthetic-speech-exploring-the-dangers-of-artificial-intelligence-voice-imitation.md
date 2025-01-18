@@ -1,7 +1,7 @@
 ---
 title: "Amazon Faces the Dark Future of Synthetic Speech: Exploring the Dangers of Artificial Intelligence Voice Imitation"
-date: 2024-09-18 14:21:44
-updated: 2024-09-20 11:58:22
+date: 2025-01-17T12:09:35.408Z
+updated: 2025-01-18T08:28:59.570Z
 tags:
   - amazon
 categories:
@@ -20,6 +20,10 @@ Getty Images
 Last week, we ran a news article entitled, "[Amazon's Alexa reads a story in the voice of a child's deceased grandma](https://www.zdnet.com/article/amazon-demos-alexa-reading-a-bedtime-story-in-the-voice-of-a-boys-deceased-grandma/)." In it, ZDNet's Stephanie Condon discussed an Amazon presentation at its re:MARS conference (Amazon's annual confab on topics like machine learning, automation, robotics, and space). 
 
 In the presentation, Amazon's Alexa AI Senior VP Rohit Prasad showed a clip of a young boy asking an Echo device, "Alexa, can grandma finish reading me 'The Wizard of Oz'?" The video then showed the Echo reading the book using what Prasad said was the voice of the child's dead grandmother. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### must read
 
@@ -51,6 +55,10 @@ It is odd that Amazon chose to show voice replication from a deceased relative, 
 
 That brings us to the discussion of voice replication overall. With a few limited constructive applications, I'm not sure releasing voice replication AI technology into the wild is a good idea. Amazon says they can take a short sample and construct an entire dialog from that short sample. There's something about this that seems terribly, horribly wrong. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What could possibly go wrong? 
 
 It almost sounds like how you'd describe a superpower in a show like _The Umbrella Academy_: upon hearing less than a minute of a person's voice, someone is able to say _anything_ and make it sound _exactly_ like that person had been the one to say it. 
@@ -75,6 +83,10 @@ The _Times_ described how these devices are "being used as a means for harassmen
 
 The _American Public University Edge_ also talks about digital gaslighting. The article [explains](https://apuedge.com/smart-devices-used-by-abusers-for-digital-gaslighting/), "This type of activity allows an abuser to easily demonstrate control over the victim, no matter where the abuser may be. It is another method that the abuser uses to slowly chip away at a victim's self-esteem and further exacerbate the victim's stress." 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smart speakers Here are your best options from Google, Apple, and more.  Read now](https://www.zdnet.com/article/best-smart-speaker/)
@@ -97,6 +109,10 @@ Obviously, the quality of the grift will determine some of the believability of 
 
 In combination with deepfake video technology, the potential for creating fake videos of individuals increases considerably. Whether that video is used by teenagers to bully a schoolmate, or by a disinformation campaign to convince a populace that a leader is up to no good, the idea of deepfakes with accurate voice representation is very troubling. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Constructive applications 
 
 There are some entertainment industry applications where voice replication can add value. It's only fair to say that this sort of technology has some positive potential as well. 
@@ -106,6 +122,10 @@ For example, we've recently seen a young Luke Skywalker in 2021 Disney+ series _
 Luke's image was [digitally created](https://gizmodo.com/book-of-boba-fett-episode-6-luke-voice-hamill-1848491617) over actor Graham Hamilton, but Mark Hamill was credited in [_Episode 6: From the Desert Comes a Stranger_](https://www.imdb.com/title/tt14525206/), even though he didn't provide Luke's voice. Instead, the producers used a tool called [Respeecher](https://www.respeecher.com/case-studies/respeecher-synthesized-younger-luke-skywalkers-voice-disneys-mandalorian), which used a sound bank of old Mark Hamill recordings that were pieced together for the episode. 
 
 Another possible application might be in smart assistants (and smart assistance) for dementia sufferers. While it might be a very fine line between gaslighting someone with diminished mental capacity and helping them cope, under proper psychiatric care, voice recreation might have positive applications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -172,11 +192,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-dissecting-the-utility-of-sns-hdr-for-hdri-tasks-for-2024/"><u>[New] Dissecting the Utility of SNS HDR for HDRI Tasks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-the-best-9-mobile-video-conferencing-apps-androidiphone/"><u>[New] In 2024, Discover The Best 9 Mobile Video Conferencing Apps (Android/iPhone)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-innovative-insights-for-streaming-success-on-tiktoks-computer-interface/"><u>[New] In 2024, Innovative Insights for Streaming Success on TikTok's Computer Interface</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-leading-oculus-rift-gaming-titles-of-the-year/"><u>[Updated] The Leading Oculus Rift Gaming Titles of the Year</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/building-your-own-portable-backup-application-a-step-by-step-guide/"><u>Building Your Own Portable Backup Application: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-detecting-and-eliminating-viruses-on-roblox-a-three-part-solution/"><u>Comprehensive Guide to Detecting and Eliminating Viruses on Roblox - A Three-Part Solution!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-budget-powerhouse-the-newly-affordable-m2-mac-mini-for-just-479-exclusive-insights-from-zdnet/"><u>Discover Apple's Budget Powerhouse: The Newly Affordable M2 Mac Mini for Just $479 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/fast-resolution-wanted-file-transfer-blocked-by-existing-onedrive-folder-how-to-fix-quickly/"><u>Fast Resolution Wanted: File Transfer Blocked by Existing Onedrive Folder - How to Fix Quickly?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-m1-at-unbeatable-discount-save-big-and-grab-yours-now-for-only-649-exclusive-deal-on-zdnet/"><u>MacBook Air M1 at Unbeatable Discount: Save Big and Grab Yours Now for Only $649 – Exclusive Deal on ZDNet!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/steps-for-retrieving-files-after-your-pc-suffers-a-viral-attack-guidance-by-yl-software-experts/"><u>Steps for Retrieving Files After Your PC Suffers a Viral Attack: Guidance by YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-as-reviewed-by-experts-zdnet/"><u>The Ultimate Guide , as Reviewed by Experts! (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tech-picks-comprehensive-review-and-comparisons-of-apple-dell-hp-lenovo-and-other-leading-brands-zdnet-insights/"><u>Top Tech Picks : Comprehensive Review & Comparisons of Apple, Dell, HP, Lenovo & Other Leading Brands | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-innovation-apple-integrates-advanced-persona-detection-into-vision-pro-learn-how-to-utilize-it/"><u>Unveiling the Latest Innovation: Apple Integrates Advanced Persona Detection Into Vision Pro, Learn How to Utilize It</u></a></li>
+</ul></div>
+

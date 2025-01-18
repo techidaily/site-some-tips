@@ -1,7 +1,7 @@
 ---
 title: The Definitive History of the 2Cuationary Collision Between CrowdStrike & Windows Meltdown , as Covered by ZDNET
-date: 2025-01-10T20:58:13.718Z
-updated: 2025-01-12T16:02:11.965Z
+date: 2025-01-12T08:22:32.040Z
+updated: 2025-01-17T18:20:27.988Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,20 +176,19 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/"><u>[New] In 2024, Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-latest-web-and-plugin-innovations-via-chatgpt/"><u>Accessing Latest Web & Plugin Innovations via ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-labor-day-blowout-score-a-high-quality-ipad-at-only-199-techradar/"><u>Amazon Labor Day Blowout: Score a High-Quality iPad at Only $199! | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-how-the-new-camera-button-in-iphone-1n-models-enhances-photography-experience-insights/"><u>Discover How the New Camera Button in iPhone 1N Models Enhances Photography Experience – Insights .</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-artificial-intelligence-boosts-academic-study-top-4-methods/"><u>How Artificial Intelligence Boosts Academic Study: Top 4 Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-much-would-you-pay-for-advanced-apple-knowledge-the-potential-of-a-monthly-fee-cap-at-20-according-to-experts-on-zdnet/"><u>How Much Would You Pay for Advanced Apple Knowledge? The Potential of a Monthly Fee Cap at $20 According to Experts on ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-revolutionize-gaming-sounds-ps5ps4-edition/"><u>In 2024, Revolutionize Gaming Sounds PS5/PS4 Edition</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-step-by-step-guide-how-to-translate-twitter-video-easily/"><u>In 2024, Step-by-Step Guide How to Translate Twitter Video Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-ultra-efficient-ios-tricks-for-a-faster-smarter-iphone-experience-zdnet/"><u>Master Ultra-Efficient iOS Tricks for a Faster, Smarter iPhone Experience | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-image-overlays-in-videos-three-effective-strategies-explored/"><u>Mastering the Art of Image Overlays in Videos: Three Effective Strategies Explored</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-the-fixes-overcoming-asus-pce-ac56-driver-challenges-across-windows-platforms/"><u>Mastering the Fixes: Overcoming ASUS PCE-AC56 Driver Challenges Across Windows Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-mobile-audio-exploring-the-iphone-16-pros-advanced-mixing-features-for-professional-grade-sound/"><u>Revolutionizing Mobile Audio: Exploring the iPhone 16 Pro's Advanced Mixing Features for Professional-Grade Sound</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-a-stylus-enabled-tablet-expert-picks-for-2eplus24-zdnet/"><u>Ultimate Guide to Choosing a Stylus-Enabled Tablet: Expert Picks for 2E+24 | ZDNET</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unveiling-best-free-3d-vids-experience-on-pcmac-systems-for-2024/"><u>Unveiling Best Free 3D Vids Experience on PC/Mac Systems for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-the-iphone-n-model-stands-out-for-tech-enthusiasts-and-power-users-insights-from-a-detailed-zdnet-assessment/"><u>Why the iPhone N-Model Stands Out for Tech Enthusiasts & Power Users: Insights From a Detailed ZDNET Assessment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effective-youtube-banners-pros-and-cons-to-avoid/"><u>[New] 2024 Approved Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-edgy-escapes-tips-on-avoiding-edgenuity-videos-quickly-for-2024/"><u>[New] Edgy Escapes Tips on Avoiding Edgenuity Videos Quickly for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>[Updated] 2024 Approved The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-needle-speed-of-videos-in-snapchat/"><u>[Updated] In 2024, Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/clevetura-clvx-1-wi-fi-keyboard-evaluation-featuring-tactile-response/"><u>Clevetura CLVX 1 Wi-Fi Keyboard Evaluation - Featuring Tactile Response</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-hp-officejet-3830-drivers-on-windows-systems/"><u>Complete Guide: Installing HP OfficeJet 3830 Drivers on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-it-qualifications-a-comprehensive-guide-across-various-career-phases-by-zdnet/"><u>Essential IT Qualifications: A Comprehensive Guide Across Various Career Phases by ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-adequate-lighting-in-youtube-videos/"><u>In 2024, Strategies for Adequate Lighting in YouTube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamline-your-digital-footprint-the-ultimate-screen-recording-manual-for-2024/"><u>Streamline Your Digital Footprint The Ultimate Screen Recording Manual for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-storage-solutions-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Cloud Storage Solutions : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-hosting-solutions-industry-experts-ranked-selections-techreview/"><u>Top-Rated Cloud Hosting Solutions: Industry Experts' Ranked Selections | TechReview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-for-success-how-ciq-became-the-cornerstone-sponsor-behind-rocky-linux-endorsed-by-veteran-linux-professionals-zdnet-insights/"><u>Uniting for Success: How CIQ Became the Cornerstone Sponsor Behind Rocky Linux, Endorsed by Veteran Linux Professionals | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-fees-the-true-cost-of-discounted-lifetime-cloud-storage-plans/"><u>Unveiling the Hidden Fees: The True Cost of Discounted Lifetime Cloud Storage Plans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vibratory-pad-or-ground-rollers-are-particularly-effective-for-cohesive-soils-that-respond-poorly-to-static-pressure-alone/"><u>Vibratory Pad or Ground Rollers Are Particularly Effective for Cohesive Soils that Respond Poorly to Static Pressure Alone.</u></a></li>
 </ul></div>
 

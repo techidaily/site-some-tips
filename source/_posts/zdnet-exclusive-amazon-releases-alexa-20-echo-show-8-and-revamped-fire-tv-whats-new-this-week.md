@@ -1,7 +1,7 @@
 ---
 title: "ZDNET Exclusive: Amazon Releases Alexa 2.0, Echo Show 8 & Revamped Fire TV – What's New This Week?"
-date: 2024-09-19 14:36:51
-updated: 2024-09-20 10:43:27
+date: 2025-01-16T00:02:26.001Z
+updated: 2025-01-18T06:44:43.843Z
 tags:
   - amazon
 categories:
@@ -30,6 +30,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Generative AI for Alexa
 
@@ -204,11 +208,31 @@ The Fire HD 10 Kids tablets are available to preorder today starting at $190.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>[New] Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-profits-youtubes-studio-monetization-simplified/"><u>[New] Elevate Your Profits YouTube's Studio Monetization Simplified</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-creative-twists-on-image-captions/"><u>[Updated] Creative Twists on Image Captions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-replay-redux-mastering-iphones-videography-backwards/"><u>2024 Approved Replay Redux Mastering iPhone's Videography Backwards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-tips-for-youtube-video-shooting/"><u>2024 Approved Tips for YouTube Video Shooting</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-iphone-14-max-enduring-all-day-performance-and-more-features-youll-adore-insights-by-zdnet/"><u>Affordable iPhone 14 Max: Enduring All-Day Performance & More Features You'll Adore - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-stands-firm-on-no-case-policy-for-iphones-are-customers-concerned-technews/"><u>Apple Stands Firm on No-Case Policy for iPhones: Are Customers Concerned? - TechNews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bibliotheques-de-streaming-enregistrer-des-films-dvd-et-les-stocker-dans-le-nuage-avec-des-services-comme-apple-icloud/"><u>Bibliothèques De Streaming : Enregistrer Des Films DVD Et Les Stocker Dans Le Nuage Avec Des Services Comme Apple iCloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-discover-why-apple-insists-on-the-iphone-15-upgrade-technews/"><u>Don't Miss Out - Discover Why Apple Insists on the iPhone 15 Upgrade | TechNews</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-new-release-faces-setback-understanding-the-error-and-proposed-solutions-by-apple-digitalinsights/"><u>IPad New Release Faces Setback: Understanding the Error & Proposed Solutions by Apple | DigitalInsights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-complexity-on-the-go-upgrading-your-apple-watch-made-simple/"><u>Mastering Complexity on the Go: Upgrading Your Apple Watch Made Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/siri-gets-smarter-apples-ai-enhancements-coming-insights/"><u>Siri Gets Smarter: Apple's AI Enhancements Coming - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-essential-steps-apple-needs-to-take-to-revitalize-the-vision-pro-insights/"><u>Three Essential Steps Apple Needs to Take to Revitalize the Vision Pro - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-minecraft-crashes-a-step-by-step-guide/"><u>Troubleshooting Minecraft Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-presents-unbeatable-christmas-promotions-for-airpods-top-picks-revealed/"><u>ZDNet Presents: Unbeatable Christmas Promotions for AirPods, Top Picks Revealed!</u></a></li>
+</ul></div>
+

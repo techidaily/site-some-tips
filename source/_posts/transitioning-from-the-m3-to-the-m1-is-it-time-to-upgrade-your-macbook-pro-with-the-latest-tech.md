@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech"
-date: 2025-01-05T21:08:08.223Z
-updated: 2025-01-12T20:43:51.052Z
+date: 2025-01-14T10:44:08.642Z
+updated: 2025-01-17T21:40:49.800Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,15 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-role-of-lighting-in-professional-youtube-content-creation-for-2024/"><u>[New] The Role of Lighting in Professional YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-envisioning-the-future-strategies-for-metaverse-brands/"><u>[Updated] 2024 Approved Envisioning the Future Strategies for Metaverse Brands</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-nostalgia-edition-revisiting-goofy-film/"><u>[Updated] In 2024, The Nostalgia Edition Revisiting Goofy Film</u></a></li>
-<li><a href="https://some-tips.techidaily.com/349-ipad-steals-the-spotlight-at-apples-bold-release-unveiling/"><u>$349 iPad Steals the Spotlight at Apple’s Bold Release Unveiling</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/drone-lineages-and-lines/"><u>Drone Lineages and Lines</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-from-zero-to-million-in-minutes-rapidly-rise-as-an-instagram-influencer-with-these-top-tips/"><u>In 2024, From Zero to Million in Minutes Rapidly Rise as an Instagram Influencer with These Top Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-ipad-air-analysis-surprisingly-superior-to-the-ipad-pro-a-users-takeaway/"><u>In-Depth IPad Air Analysis: Surprisingly Superior to the iPad Pro - A User's Takeaway</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-productivity-with-smart-strategies-and-key-resources-an-expert-guide-s-top-tips-for-workflow-mastery/"><u>Maximizing Productivity with Smart Strategies and Key Resources – An Expert Guide 'S Top Tips for Workflow Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/personalizing-the-ios-18-control-center-on-your-iphone-a-comprehensive-guide/"><u>Personalizing the iOS 18 Control Center on Your iPhone - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/safe-and-secure-teen-cell-phones-comprehensive-ranking/"><u>Safe and Secure Teen Cell Phones: Comprehensive Ranking</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/snappy-solution-seconds-for-ssgnature-bg-purge-for-2024/"><u>Snappy Solution Seconds for Ssgnature BG Purge for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-smart-pick-for-tech-enthusiasts-iphone-1er-pro-vs-max-model-a-closer-look-at-zdnets-choice/"><u>The Smart Pick for Tech Enthusiasts: IPhone 1Er Pro Vs. Max Model | A Closer Look at ZDNET's Choice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-expert-picks-for-apple-watch-guards-in-2-reviews-and-comparisons/"><u>Ultimate Selection: Expert Picks for Apple Watch Guards in 2# Reviews & Comparisons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-charger-holder-in-my-tests-now-at-a-steep-discount-featuring-the-wallet-of-choice/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Charger Holder in My Tests Now at a Steep Discount - Featuring the Wallet of Choice!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-release-the-next-generation-airpods-everything-you-need-to-know-and-how-to-secure-your-order-now/"><u>Upcoming Release: The Next Generation AirPods - Everything You Need to Know & How to Secure Your Order Now!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-crafting-superior-customer-journeys-with-square-insights-from-zdnet/"><u>1. Crafting Superior Customer Journeys with Square: Insights From ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-live-action-to-toon-town-how-to-turn-videos-into-cartoons/"><u>2024 Approved From Live-Action to Toon Town How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sharing-success-replicating-content-on-insta/"><u>2024 Approved Sharing Success Replicating Content on Insta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/error-free-strategies-for-artificial-intelligence-craftsmen/"><u>Error-Free Strategies for Artificial Intelligence Craftsmen</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-yuva-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reigniting-your-silent-printer/"><u>Reigniting Your Silent Printer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-up-to-the-plate-discover-how-mlb-parks-are-revolutionizing-admission-with-cutting-edge-face-scanning-technology/"><u>Step Up to the Plate: Discover How MLB Parks Are Revolutionizing Admission with Cutting-Edge Face Scanning Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-oddball-gadgets-on-black-friday-exclusive-octobers-steal-of-the-season-insights-from-zdnet/"><u>Top 12 Oddball Gadgets on Black Friday: Exclusive Octobers' Steal of the Season - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unexpected-warmth-from-big-business-a-heartwarming-tale-of-generospectacle-involving-amazon-featured-on-zdnet/"><u>Unexpected Warmth From Big Business: A Heartwarming Tale of Generospectacle Involving Amazon, Featured on ZDNet!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-voice-eradication-suite-handpicking-the-top-7-tools-for-online-and-offline-use-for-2024/"><u>Updated The Ultimate Voice Eradication Suite Handpicking the Top 7 Tools for Online & Offline Use for 2024</u></a></li>
 </ul></div>
 

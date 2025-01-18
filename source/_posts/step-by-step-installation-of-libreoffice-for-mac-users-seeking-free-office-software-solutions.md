@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2025-01-10T16:22:53.941Z
-updated: 2025-01-12T16:25:46.746Z
+date: 2025-01-12T05:30:17.404Z
+updated: 2025-01-18T06:44:53.050Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -48,6 +48,10 @@ The only thing you'll need is a macOS device (MacBook or iMac). With that in han
 
 ## Installing LibreOffice
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Download the installer
 
 You cannot install LibreOffice from the macOS App Store. Instead, open your default web browser and point it to [www.libreoffice.org](http://www.libreoffice.org). Click Download Now. This will take you to the download page.
@@ -59,7 +63,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -77,10 +81,6 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -92,7 +92,7 @@ Image: Jack Wallen
 ## How to open LibreOffice
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
@@ -108,7 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -151,24 +151,24 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-photo-and-film-capture-apps-iphone-and-android-edition-for-2024/"><u>[New] Essential Photo & Film Capture Apps IPhone & Android Edition for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-guide-to-leveraging-youtube-video-endings/"><u>[Updated] In 2024, The Ultimate Guide to Leveraging YouTube Video Endings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-future-with-tomtom-bandit-2023/"><u>[Updated] In 2024, Unveiling the Future with TomTom Bandit 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bypassing-the-high-price-tag-of-apple-vision-pro-with-cost-effective-xr-glasses-my-eye-opening-experience-zdnet/"><u>Bypassing the High Price Tag of Apple Vision Pro with Cost-Effective XR Glasses - My Eye-Opening Experience | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-the-newest-apple-watches-ultra-vs-series-prise-8-the-comprehensive-guide-by-techradar/"><u>Choosing Between the Newest Apple Watches: Ultra vs Series Prise 8 - The Comprehensive Guide by TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-new-era-of-smartphones-with-iphone-16s-best-features-unveiled/"><u>Discover the New Era of Smartphones with iPhone 16'S Best Features | Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-compatibility-implement-the-newest-intel-iris-graphics-am-540-driver-today/"><u>Effortless Compatibility: Implement the Newest Intel Iris Graphics Am 540 Driver Today</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-insights-on-the-ipad-pro-embracing-its-unique-strength-as-a-top-tier-tablet-separate-from-macbook-a-comprehensive-review/"><u>Expert Insights on the iPad Pro: Embracing Its Unique Strength as a Top-Tier Tablet Separate From MacBook - A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-latest-apple-innovations-from-wwdc-today-a-guide-to-where-and-how-you-can-preorder-them/"><u>Get Your Hands on the Latest Apple Innovations From WWDC Today: A Guide to Where and How You Can Preorder Them</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-using-the-messages-app-to-access-imessage-features-on-windows-insights-from-zdnet/"><u>Guide: Using the Messages App to Access iMessage Features on Windows - Insights From ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-xs-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone XS or iPad?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-x9a-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor X9a Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-experience-apples-revolutionary-3d-videos-with-meta-quest-3-the-ultimate-tutorial/"><u>How to Experience Apple's Revolutionary 3D Videos with Meta Quest 3: The Ultimate Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-16-vs-iphone-15-comparison-essential-considerations-when-choosing-apples-newest-base-model/"><u>IPhone 16 Vs. IPhone 15 Comparison: Essential Considerations When Choosing Apple's Newest Base Model</u></a></li>
-<li><a href="https://some-tips.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-the-best-buy-of-the-year-revealed-by-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - The Best Buy of the Year Revealed by ZDNet!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-8-best-multi-subtitles-translators-you-shouldnt-miss/"><u>New 8 Best Multi-Subtitles Translators You Shouldnt Miss</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snapchats-feature-the-spotlight-guide-for-2024/"><u>Snapchat's Feature The Spotlight Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/vision-pro-upgrade-on-horizon-discover-apples-plans-for-innovative-respiration-tracking-technology-as-reported/"><u>Vision Pro Upgrade on Horizon? Discover Apple's Plans for Innovative 'Respiration Tracking' Technology, as Reported</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-makes-prompt-engineering-a-practical-career-choice/"><u>What Makes Prompt Engineering a Practical Career Choice?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-redefining-collaboration-the-power-of-immersive-vr/"><u>[New] 2024 Approved Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techniques-in-archiving-web-based-music-tracks/"><u>[New] In 2024, Techniques in Archiving Web-Based Music Tracks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>[New] The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-youtube-premium-complete-information-inside-for-2024/"><u>[Updated] Decoding YouTube Premium Complete Information Inside for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-future-adopting-macos-11-big-sur-for-growth/"><u>2024 Approved Unveiling The Future Adopting macOS 11 Big Sur for Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cross-border-funds-made-easier-singapore-collaborates-with-india-on-enhanced-transfer-protocols-tech-news/"><u>Cross-Border Funds Made Easier: Singapore Collaborates with India on Enhanced Transfer Protocols | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-collection-of-affordable-amazon-offers-to-kickstart-back-to-school-shopping-with-ease/"><u>Discover the Ultimate Collection of Affordable Amazon Offers to Kickstart Back-to-School Shopping with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-capabilities-of-djis-high-end-42000-drone-model-revealed/"><u>Exploring the Capabilities of DJI's High-End $42,000 Drone Model Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazon-continues-to-dominate-even-as-brick-and-mortar-stores-close-analysis-by-zdnet/"><u>How Amazon Continues to Dominate Even as Brick-and-Mortar Stores Close | Analysis by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-y36i-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Y36i Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-excellent-free-webcam-video-snapper-app/"><u>In 2024, Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-pova-5-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Pova 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/joint-anti-online-deceit-initiative-launched-by-singapore-and-the-usa-a-step-towards-global-security/"><u>Joint Anti-Online Deceit Initiative Launched by Singapore & the USA - A Step Towards Global Security</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/livegaze-app-reviews-and-ratings/"><u>LiveGaze App Reviews & Ratings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mobile-friendly-url-structure/"><u>Mobile-Friendly URL Structure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/slash-your-wardrobe-expenses-using-this-handy-chrome-add-on-insights-from-techexplorer/"><u>Slash Your Wardrobe Expenses Using This Handy Chrome Add-On - Insights From TechExplorer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-credit-card-reader-picks-expert-insights-from-zdnet/"><u>Top 4 Credit Card Reader Picks - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secret-of-temus-low-prices-a-detailed-analysis/"><u>Unlocking the Secret of Temu's Low Prices – A Detailed Analysis</u></a></li>
 </ul></div>
 

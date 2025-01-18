@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Microsoft Surface Pro 8 Evaluation: Insights for Enterprises - ZDNet Analysis"
-date: 2024-12-19T04:06:33.923Z
-updated: 2024-12-21T21:34:32.410Z
+date: 2025-01-15T12:30:06.701Z
+updated: 2025-01-18T08:37:37.736Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -51,6 +51,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,7 +79,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -102,10 +106,6 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### More Microsoft
 
 * [Is Microsoft really going to cut off security updates for your 'unsupported' Windows 11 PC?](https://www.zdnet.com/article/is-microsoft-really-going-to-cut-off-security-updates-for-my-unsupported-windows-11-pc/)
@@ -131,6 +131,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -153,10 +157,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -169,11 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,22 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-video-transmission-from-twitters-to-whatsapp/"><u>[New] In 2024, Direct Video Transmission From Twitters to WhatsApp</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>[Updated] 2024 Approved Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-complete-hand-tracking-encyclopedia/"><u>[Updated] The Complete Hand-Tracking Encyclopedia</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-hidden-reasons-behind-imovies-cuts/"><u>[Updated] The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-side-with-best-collage-apps-android/"><u>[Updated] Unleash Your Creative Side with Best Collage Apps, Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-hp-envy-27s-4k-features/"><u>2024 Approved The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>2024 Approved Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>2024 Approved Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-most-powerful-and-sleek-17-inch-laptop-selection/"><u>2024'S Most Powerful and Sleek 17-Inch Laptop Selection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-free-match-mastery-how-to-stream-and-slice/"><u>Cost-Free Match Mastery How to Stream and Slice</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-moto-g04-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Moto G04 Data? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-premier-ai-driven-picture-editing-suite/"><u>In 2024, Premier AI-Driven Picture Editing Suite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-superior-supplements-for-superior-gopro-performance/"><u>In 2024, Superior Supplements for Superior Gopro Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-luts-for-adobe-lightroom/"><u>In 2024, Top 10 LUTs for Adobe LightRoom</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-fltrmgrsys-blue-screen-of-death-bsod-for-a-smoother-windows-experience/"><u>Overcoming Fltrmgr.sys Blue Screen of Death (BSOD) for a Smoother Windows Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-find-x6-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Find X6 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flamenco-finch-frolic/"><u>[New] Flamenco Finch Frolic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-seamlessly-integrate-music-stickers-into-instacafe/"><u>[Updated] 2024 Approved How to Seamlessly Integrate Music Stickers Into InstaCafe</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-elevating-your-game-with-top-10-tiktok-analytics-instruments/"><u>[Updated] In 2024, Elevating Your Game with Top 10 TikTok Analytics Instruments</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-5-social-sites-redefining-connectivity/"><u>2024 Approved Superior 5 Social Sites, Redefining Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-showdown-comparing-top-chatbots-chatgpt-microsoft-copilot-and-gemini/"><u>AI Showdown: Comparing Top Chatbots - ChatGPT, Microsoft Copilot & Gemini</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-walkthrough-on-updating-usernames-in-windows-11-os/"><u>Complete Walkthrough on Updating Usernames in Windows 11 OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/designing-tailored-ai-companions-using-geminis-powerful-gems-expert-insights-from-zdnet/"><u>Designing Tailored AI Companions Using Geminis' Powerful Gems | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-ai-is-revolutionizing-google-photo-organization-and-accessibility-insights-from-zdnet/"><u>Discover How AI Is Revolutionizing Google Photo Organization and Accessibility - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-language-tools-how-to-contribute-words-to-google-dicts-glossary/"><u>Enhancing Language Tools: How to Contribute Words to Google Dict's Glossary</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone XS Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-to-successfully-obtain-windows-movie-maker-6-for-2024/"><u>Secrets to Successfully Obtain Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-top-airtags-choices-for-android-enthusiasts-discover-whats-new-on-zdnet/"><u>The Ultimate Guide: Top AirTags Choices for Android Enthusiasts - Discover What's New on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-google-pixel-smartphones-comprehensive-reviews-by-tech-gurus-at-zdnet/"><u>Top-Ranking Google Pixel Smartphones - Comprehensive Reviews by Tech Gurus at ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-education-with-instructional-videos-for-2024/"><u>Transforming Education with Instructional Videos for 2024</u></a></li>
 </ul></div>
 

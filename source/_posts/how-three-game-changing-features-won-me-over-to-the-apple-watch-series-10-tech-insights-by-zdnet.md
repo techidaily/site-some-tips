@@ -1,7 +1,7 @@
 ---
 title: How Three Game-Changing Features Won Me Over to the Apple Watch Series 10 | Tech Insights by ZDNet
-date: 2025-01-09T18:20:00.868Z
-updated: 2025-01-12T20:52:06.205Z
+date: 2025-01-11T22:39:43.217Z
+updated: 2025-01-18T05:39:23.512Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Many features come with the Apple Watch's new upgrade, which marks the company's
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. One of the biggest Apple Watch redesigns ever
@@ -43,7 +43,7 @@ The Apple Watch Series 10 got its first big redesign since the launch of the Ser
 We didn't get a redesigned Apple Watch Ultra, as Apple is expected to focus on internal updates rather than the physical look, but we did see a new Satin Black finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Extra health tracking: sleep apnea
@@ -60,6 +60,10 @@ The Apple Watch's sleep apnea detection isn't expected to be immediately availab
 
 Apple also announced new WatchOS 11 features for the Apple Watch, including offline maps and water features like Depth, Water Temperature, and Tides. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. New Apple Watch finishes
 
 The [Apple Watch SE](https://www.zdnet.com/article/the-apple-watch-se-2nd-gen-is-still-80-off-after-amazon-prime-day/) is due for an upgrade -- but while we expected Apple to release new versions of all Apple Watch models for the first time in a couple of years, Apple only announced a new Apple Watch Series 10 and the new Apple Watch Ultra 2 color and band. 
@@ -71,16 +75,12 @@ The Apple Watch Series 10 is available in Jet Black, Rose Gold, and Silver Alumi
 The Apple Watch Series 10 starts at $399, available for pre-order today, with general availability on September 20\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What we didn't get with the Apple Watch Series 10
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Blood oxygen tracking has yet to return
 
@@ -93,7 +93,7 @@ Unfortunately, the new Apple Watch models didn't bring back the blood oxygen mon
 Currently, the Apple Watch Series 9 and Ultra don't have the blood oxygen sensor enabled, so users looking to upgrade from an older model (Apple Watch Series 6, 7, 8, and Ultra) should know they'll likely lose that feature until Apple resolves its issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. No hypertension capabilities yet
@@ -134,18 +134,24 @@ Many users have expected Apple to release blood pressure monitoring on the Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>[New] 2024 Approved Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-passport-photo-creator-access-to-top-quality-portraits-for-desktoponline-use/"><u>[New] Passport Photo Creator – Access to Top Quality Portraits for Desktop/Online Use</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-path-to-success-utilizing-youtube-metrics-effectively/"><u>[New] The Path to Success Utilizing YouTube Metrics Effectively</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-digital-screen-capture-techniques/"><u>[Updated] In 2024, Mastering Digital Screen Capture Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-ultimate-guide-why-the-qi2-magsafe-3-in-1-charging-pad-stands-out-as-a-must-have-for-smartphone-enthusiasts/"><u>1. Ultimate Guide: Why the QI2 MagSafe 3-in-1 Charging Pad Stands Out as a Must-Have for Smartphone Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insider-tips-the-best-5-cameras-for-extended-zoom/"><u>2024 Approved Insider Tips The Best 5 Cameras for Extended Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-zen-closing-virtual-horizons/"><u>2024 Approved Total Zen Closing Virtual Horizons</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions/"><u>A Step-by-Step Guide to MP4 and Beyond VLC Conversions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/airpods-lost-heres-how-to-find-them-and-tips-for-keeping-track-from-now-on-zdnet-insights/"><u>AirPods Lost? Here's How to Find Them & Tips for Keeping Track From Now On | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-sneak-peek-into-the-elite-iphones-of-2-cuy2024-in-depth-analysis-and-ratings-zdnet/"><u>Exclusive Sneak Peek Into the Elite iPhones of 2 Cuy2024: In-Depth Analysis & Ratings | ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-se-2020-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone SE (2020) After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/implementing-a-system-whereby-certain-goods-from-the-colonies-had-to-be-shipped-to-england-before-being-re-exported-to-other-european-countries-or-other-par41/"><u>Implementing a System Whereby Certain Goods From the Colonies Had to Be Shipped to England Before Being Re-Exported to Other European Countries or Other Parts of the World.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-comprehensive-guide-to-facebooks-full-screen-feature-for-2024/"><u>[New] A Comprehensive Guide to Facebook's Full Screen Feature for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecoding-the-art-of-engaging-in-youtube-short-forms/"><u>[New] Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-drone-cinematography-team-the-best-10/"><u>[New] In 2024, Ultimate Drone Cinematography Team The Best 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-direct-to-your-library-simple-windows-and-mac-techniques-for-downloading-igtv-for-2024/"><u>[Updated] Direct to Your Library Simple Windows & Mac Techniques for Downloading IGTV for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quintessential-10-fight-royale-games/"><u>[Updated] Quintessential 10 Fight Royale Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-beta-release-anthropics-innovative-claude-ai-offers-enhanced-tool-utilization-for-smart-interaction-zdnet-insights/"><u>Beyond Beta Release: Anthropic's Innovative Claude AI Offers Enhanced Tool Utilization for Smart Interaction | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-insights-on-ssh-protocol-and-practical-usage-the-ultimate-starter-kit-for-safeguarding-your-data-transfers-cyberguardianhub/"><u>Essential Insights on SSH Protocol and Practical Usage: The Ultimate Starter Kit for Safeguarding Your Data Transfers | CyberGuardianHub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unprecedented-cinematic-brilliance-with-hps-innovative-imax-certified-envy-x360-exclusive-insights-and-details/"><u>Experience Unprecedented Cinematic Brilliance with HP's Innovative IMAX-Certified Envy X360: Exclusive Insights and Details</u></a></li>
+<li><a href="https://some-tips.techidaily.com/from-disorderly-to-decisive-streamlining-linux-and-open-source-manuals-for-easy-access-expertise-at-zdnet/"><u>From Disorderly to Decisive: Streamlining Linux and Open-Source Manuals for Easy Access | Expertise at ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-discover-the-premier-screen-recording-tools-for-mac/"><u>In 2024, Discover the Premier Screen Recording Tools for Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-100-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor 100 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intel-predicts-the-integration-of-artificial-intelligence-into-business-operations-within-three-to-five-years-zdnet-insights/"><u>Intel Predicts the Integration of Artificial Intelligence Into Business Operations Within Three to Five Years | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-white-house-document-advocates-for-open-source-artificial-intelligence-insights-from-zdnet/"><u>Latest White House Document Advocates for Open Source Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-generative-ai-and-large-language-models-llm-for-enhanced-business-insights-an-experts-guide/"><u>Leveraging Generative AI and Large Language Models (LLM) for Enhanced Business Insights - An Expert's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-ai-integration-reasons-for-embracing-rust-in-linux-and-his-philosophy-on-kernel-development-with-zdnet/"><u>Linus Torvalds Discusses AI Integration, Reasons for Embracing Rust in Linux, and His Philosophy on Kernel Development with ZDNet</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/seamless-transition-to-windows-11-expert-ranked-apps-for-data-and-folder-moving/"><u>Seamless Transition to Windows 11: Expert Ranked Apps for Data and Folder Moving</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-beginner-programmer-roles-that-launch-careers-insights-from-zdnet/"><u>Top 5 Beginner Programmer Roles That Launch Careers: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-stack-overflow-the-journey-from-bootstrapping-to-managing-a-top-tier-tech-property-insights-by-zdnet/"><u>Transforming Stack Overflow: The Journey From Bootstrapping to Managing a Top-Tier Tech Property - Insights by ZDNet</u></a></li>
 </ul></div>
 

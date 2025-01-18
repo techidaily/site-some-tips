@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16 Launch: Exclusive Look at Cutting-Edge Spatial Recording and Redesigned Thin Bezels | Tech News"
-date: 2024-12-19T04:14:42.975Z
-updated: 2024-12-21T16:48:58.959Z
+date: 2025-01-11T16:11:40.956Z
+updated: 2025-01-18T01:39:06.999Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -74,7 +74,15 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy S21 Ultra
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
@@ -98,10 +106,6 @@ Pros
 Cons 
 * Long battery life Strong performance The camera is very impressive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro Max
 
 ### Matthew Miller
@@ -113,6 +117,10 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -140,11 +148,11 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-## iPhone 12
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 12
 
 ### Chris Matyszczyk
 
@@ -174,10 +182,6 @@ Show Expert Take Show less
 
 ## Ulefone Armor 9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adrian Kingsley-Hughes
 
 **Adrian Kingsley-Hughes:** OK, I use my iPhone 11 Pro Max a lot, but the Ulefone Armor 9 is a tough, ruggedized Android smartphone with a built-in thermal camera. Not only can I recreate scenes from Predator in my garden, but that FLIR camera is great for diagnosing problems, from overheating components, high-resistance in vehicle wiring, and problems with plumbing systems. I've also dropped the phone so many times that I've lost count, and it still looks like new. It's a tank!
@@ -193,7 +197,7 @@ Cons
 * Strong battery life Good performance More affordable
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Pixel 2
@@ -212,15 +216,7 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Huawei P20 Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Federico Guerrini
 
@@ -237,6 +233,10 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 ## iPhone XR
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -282,6 +282,10 @@ Cons
 
 ## iPhone XS Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -298,11 +302,11 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
-## iPhone 6s Plus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 6s Plus
 
 ### David Gewirtz and Iliana Meir
 
@@ -326,11 +330,11 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -339,10 +343,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -376,17 +376,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-auditory-aspects-in-inshot-video-creation/"><u>[New] Auditory Aspects in InShot Video Creation</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-how-to-check-tiktok-video-copyright-before-uploading/"><u>[New] How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-a-clearer-sight-youtube-watching-tweets-at-1080p/"><u>[New] In 2024, A Clearer Sight YouTube, Watching Tweets at 1080P</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-transformation-mp4-plus-srt-success/"><u>[New] The Ultimate Transformation MP4 + SRT Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>[Updated] 2024 Approved Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-podcast-platforms-for-macbook-aficionados/"><u>[Updated] The Most Acclaimed Podcast Platforms for macBook Aficionados</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-beginners-guide-to-youtube-image-sharing/"><u>2024 Approved The Beginner's Guide to YouTube Image Sharing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>2024 Approved Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
-<li><a href="https://win-superb.techidaily.com/adjusting-your-display-settings-a-step-by-step-guide-to-changing-screen-resolution-via-control-panel-tips-by-yl-computing/"><u>Adjusting Your Display Settings: A Step-by-Step Guide to Changing Screen Resolution via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effective-strategies-to-overcome-non-functional-music-playback-on-itunes/"><u>Effective Strategies to Overcome Non-Functional Music Playback on iTunes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-8t-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 8T 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-advanced-color-correction-mastering-luts-in-after-effects/"><u>[New] Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[Updated] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://discover-best.techidaily.com/best-family-friendly-yule-classics-top-10-holiday-films-perfect-for-children/"><u>Best Family-Friendly Yule Classics: Top 10 Holiday Films Perfect for Children</u></a></li>
+<li><a href="https://facebook.techidaily.com/intuitive-interface-for-the-modern-social-feed/"><u>Intuitive Interface for the Modern Social Feed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-productivity-with-top-tools-and-techniques-to-streamline-your-daily-routine-expert-tips-by-zdnet/"><u>Maximizing Productivity with Top Tools & Techniques to Streamline Your Daily Routine | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-chaos-leveraging-google-docs-versioning-for-data-safety-and-recovery/"><u>Navigating Through Chaos: Leveraging Google Docs Versioning for Data Safety and Recovery</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-essential-tips-for-shooting-talking-head-videos/"><u>New In 2024, Essential Tips for Shooting Talking Head Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-google-drive-hurdles-a-comprehensive-guide-to-successful-file-downloads/"><u>Overcoming Google Drive Hurdles: A Comprehensive Guide to Successful File Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-home-comfort-top-alternatives-to-ecobee-and-amazons-offerings-in-smart-thermostats-unveiled-by-zdnet/"><u>Revolutionizing Home Comfort: Top Alternatives to Ecobee and Amazon's Offerings in Smart Thermostats Unveiled by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stop-overlooking-crucial-emails-with-simple-gmail-notification-tweaks-expert-guide/"><u>Stop Overlooking Crucial Emails with Simple Gmail Notification Tweaks – Expert Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-mobile-gaming-apps-you-cant-miss/"><u>Top 8 Mobile Gaming Apps You Can't Miss</u></a></li>
 </ul></div>
 

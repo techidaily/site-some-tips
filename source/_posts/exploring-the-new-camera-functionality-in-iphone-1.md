@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Camera Functionality in iPhone 1
-date: 2025-01-11T17:29:33.039Z
-updated: 2025-01-12T17:03:17.184Z
+date: 2025-01-16T03:24:47.906Z
+updated: 2025-01-18T07:46:32.130Z
 tags:
   - apple
 categories:
@@ -30,9 +30,17 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -46,10 +54,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -61,10 +65,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -88,10 +88,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
@@ -107,7 +103,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -119,7 +115,7 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -127,6 +123,10 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,22 +168,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-download-and-conversion-mastery-vimeo-to-mp4-guide-for-2024/"><u>[New] Download and Conversion Mastery Vimeo to MP4 Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-elite-selection-advanced-vehicle-monitoring-systems-for-2024/"><u>[New] Elite Selection Advanced Vehicle Monitoring Systems for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-instructors-blueprint-for-video-assisted-learning-for-2024/"><u>[New] The Instructor's Blueprint for Video-Assisted Learning for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/anticipated-release-date-new-ipad-models-expected-in-late-spring-of-2024-insights/"><u>Anticipated Release Date: New iPad Models Expected in Late Spring of 2024 - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-upcoming-february-launch-of-the-advanced-vision-pro-reimagining-retail-with-cutting-edge-purchase-innovations/"><u>Apple’s Upcoming February Launch of the Advanced Vision Pro - Reimagining Retail with Cutting-Edge Purchase Innovations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enterprise-device-management-enhanced-with-the-new-apple-vision-pro-insights-and-updates-from-zdnet/"><u>Enterprise Device Management Enhanced with the New Apple Vision Pro: Insights and Updates From ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-abbyy-powers-up-as-the-go-to-cognitive-tech-for-arsenal-womens-football-supporters/"><u>How ABBYY Powers Up as the Go-To Cognitive Tech for Arsenal Womens Football Supporters</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-upgrade-to-ios-18-on-your-iphone-featuring-eligible-device-list-and-step-by-step-setup-process-zdnet/"><u>How To Upgrade To iOS 18 On Your iPhone? Featuring Eligible Device List and Step-by-Step Setup Process | ZDNET</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-seamless-srt-file-engagement-for-os-users/"><u>In 2024, Seamless SRT File Engagement for OS Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-your-device-settings-how-to-adjust-and-customize-the-new-control-center-in-ios-18-for-an-enhanced-user-experience-mobileexpert-guides/"><u>Mastering Your Device Settings: How to Adjust and Customize the New Control Center in iOS 18 for an Enhanced User Experience | MobileExpert Guides</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/perfect-your-gif-game-on-windows-nine-best-capture-software-for-2024/"><u>Perfect Your GIF Game on Windows Nine Best Capture Software for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-app-store-picks-apples-favorites-unveiled/"><u>Top App Store Picks : Apple's Favorites Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-benefits-of-apple-pay-a-comprehensive-walkthrough-for-shoppers-and-e-commerce-platforms-zdnet-insights/"><u>Unlock the Benefits of Apple Pay: A Comprehensive Walkthrough for Shoppers and E-Commerce Platforms | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secret-to-a-free-macbook-air-m3-at-best-buy-step-by-step-guide-zdnet/"><u>Unlock the Secret to a FREE MacBook Air M3 at Best Buy - Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-igniting-online-trends-crafting-viral-facebook-posts/"><u>[New] Igniting Online Trends Crafting Viral Facebook Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-games-effortlessly-with-nvidia-for-2024/"><u>[Updated] Capture Games Effortlessly with NVIDIA for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-to-iphone-compatibility-with-apples-latest-ios-cuffie-which-devices-will-and-wont-update/"><u>Comprehensive Guide to iPhone Compatibility with Apple's Latest iOS Cuffie: Which Devices Will & Won't Update?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-quick-and-simple-guide-to-installing-easycap-driver/"><u>Free Download: Quick & Simple Guide to Installing EasyCap Driver</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-moto-g84-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Moto G84 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-googles-lamda-truly-sentient-or-just-another-ai-chatbot-techdigest/"><u>Is Google's LaMDA Truly Sentient or Just Another AI Chatbot? | TechDigest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-generative-ai-llms-in-business-strategy-mastering-the-insights-of-rag/"><u>Leveraging Generative AI LLMs in Business Strategy: Mastering the Insights of RAG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-reliable-ai-watermarks-expert-analysis-on-zdnet/"><u>Mastering Reliable AI Watermarks: Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-a-quantum-future-collaborative-efforts-by-the-linux-foundation-to-enhance-post-quantum-security/"><u>Navigating a Quantum Future: Collaborative Efforts by the Linux Foundation to Enhance Post-Quantum Security</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-raspberry-pi-shortage-strategies-and-solutions-for-avid-tech-enthusiasts-zdnet/"><u>Navigating the Raspberry Pi Shortage: Strategies & Solutions for Avid Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/photographic-prose-weaving-words-into-images-across-operating-systems-for-2024/"><u>Photographic Prose Weaving Words Into Images Across Operating Systems for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailored-tips-for-maximizing-vlc-playback-potential-for-2024/"><u>Tailored Tips for Maximizing VLC Playback Potential for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-and-maturation-of-chrome-os-with-native-linux-integration-insights-from-zdnet/"><u>The Rise and Maturation of Chrome OS with Native Linux Integration: Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-asus-rog-phone-8-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Asus ROG Phone 8 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-living-rooms-how-google-converts-tvs-into-universal-home-centers-for-developers-discover-the-impact-on-over-600m-smart-gadgets/"><u>Transforming Living Rooms: How Google Converts TVs Into Universal Home Centers for Developers - Discover the Impact on Over 600M Smart Gadgets!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-gaming-glitches-a-deep-dive-into-initiating-play-with-yl-software-solutions/"><u>Troubleshooting Gaming Glitches: A Deep Dive Into Initiating Play with YL Software Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmuzzling-magic-how-to-fix-world-of-warcraft-sound-problems/"><u>Unmuzzling Magic: How to Fix World of Warcraft Sound Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Potential of Free AI Education with Amazon: My Inspirational Journey | ZDNET Insights"
-date: 2024-09-18 13:25:30
-updated: 2024-09-20 12:13:13
+date: 2025-01-15T23:23:12.439Z
+updated: 2025-01-17T23:27:56.617Z
 tags:
   - amazon
 categories:
@@ -45,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free AI courses for non-technical learners
 
 Screenshot by David Gewirtz/ZDNET
@@ -56,6 +60,10 @@ Unlike the DeepLearning stuff I previously spotlighted which was aimed primarily
 * [**Introduction to Generative AI - Art of the Possible**](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)**:** This distinguishes [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) from machine learning and provides an introduction to generative AI, with details on use cases, risks and benefits.
 * [**Generative AI for Executives**](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16666/generative-ai-for-executives)**:** This is a collection of free, brief, and easy-to-follow videos to help C-suite executives understand how generative AI can help address their business challenges and drive business growth. Each course is only a couple of minutes, and if you're willing to give up less than half an hour of your day, you'll come out knowing a lot more about what all the fuss is about.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Beginner AI resources for developers and other techies 
 
 These resources are suitable for folks starting out with AI. You'll need some quality tech and coding skills to understand what's going on here, but you can get a lot out of it even if you're completely new to AI. 
@@ -64,6 +72,10 @@ These resources are suitable for folks starting out with AI. You'll need some qu
 * [Amazon's Machine Learning University](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fmachine-learning%2Fmlu%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18e41889-b843-4938-881a-84d39acf5b01%7Cdtp&dtb=1)**:** This is a big win for learning. Amazon offers anyone, anywhere the opportunity to access the same machine learning courses used to train Amazon's own developers on machine learning. MLU provides a free, comprehensive self-service pathway to understanding the foundations of machine learning.
 * [**Amazon CodeWhisperer – Getting Started**](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16405/amazon-codewhisperer-getting-started)**:** This is a free, self-paced digital course introducing learners to Amazon CodeWhisperer, an AI coding companion designed to help developers get more done, faster. Learners are taught its capabilities, how to set it up, and how to begin using it in their programming language of choice. I didn't know too much about CodeWhisperer before I took this course, but I found out (a) it works with PHP and PhpStorm, my development language and IDE, and (b) it's free for individual use. This has all the signs of becoming a future rabbit hole.
 * [**Amazon Bedrock -- Getting Started**](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17508/amazon-bedrock-getting-started)**:** This is a free self-paced digital course introducing learners to Amazon's service for building generative AI applications. This one-hour course will introduce developers and technical audiences to Amazon Bedrock's benefits, features, use cases, and technical concepts. Bedrock was once an Amazon-only internal tool that's now available to anyone, so it's definitely worth spending the hour learning what it can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Intermediate AI resources for developers and other techies 
 
@@ -74,6 +86,10 @@ Now, we move on to what Amazon considers intermediate-level courses. There's a l
 * [**Twitch Series: AWS Power Hour Introduction to Machine Learning for Developers**](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1854/twitch-series-aws-power-hour-introduction-to-machine-learning-for-developers)**:** This is a recording of a Twitch-based learning chat series. It helps you learn the foundations of machine learning and get a practical perspective on what developers really need to know to get started with machine learning. It also teaches how you can leverage the power of machine learning and deep learning to make your applications more intelligent.
 * [**Generative AI Foundations on AWS**](https://www.youtube.com/playlist?list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF)**:** This is the course I describe above, the one that ate my Saturday. It's a free, on-demand technical deep-dive course designed for technologists already familiar with AI modeling. The course includes conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond
 * [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms?utm%5Fcampaign=WebsiteCoursesGAIA&utm%5Fmedium=institutions&utm%5Fsource=deeplearning-ai)**:** Now we come full circle. This is a hands-on course that AWS jointly developed with [DeepLearning.AI](http://DeepLearning.AI) and Andrew Ng, a pioneer in machine learning and education. Those are the folks who created the course I spotlighted in [my last free AI learning roundup](https://www.zdnet.com/article/i-took-this-free-ai-course-for-developers-in-one-weekend-and-highly-recommend-it/). This is a three-week course that prepares data scientists and engineers to become experts in selecting, training, fine-tuning, and deploying large language models (LLMs) for real-world applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Go ahead. Learn something - for free!
 
@@ -95,11 +111,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android/"><u>[New] Kinetic Gameplay Reimagined A Comprehensive Analysis of KineMaster on Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-step-by-step-guide-on-using-gaming-youtube-banner-templates/"><u>[Updated] 2024 Approved Step-By-Step Guide on Using Gaming YouTube Banner Templates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-enhancing-iphone-image-clarity-and-focus/"><u>[Updated] Enhancing iPhone Image Clarity and Focus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-group-chat-and-webcams-the-best-selection/"><u>[Updated] In 2024, Elite Group Chat & Webcams The Best Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breaking-news-for-the-first-time-ever-apple-outpaces-samsung-in-worldwide-smartphone-deliveries-analysis/"><u>Breaking News: For the First Time Ever, Apple Outpaces Samsung in Worldwide Smartphone Deliveries Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-markets-elite-aquaproof-smartwatches-of-2024-thorough-testing-and-analysis/"><u>Exploring the Market's Elite Aquaproof Smartwatches of 2024: Thorough Testing and Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-ultimate-portable-music-player-selection-insights-from-zdnet/"><u>Exploring the Ultimate Portable Music Player Selection - Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-upgrade-showdown-m3-or-m2-model-find-out-which-is-best-for-your-tech-needs/"><u>MacBook Air Upgrade Showdown: M3 or M2 Model – Find Out Which Is Best for Your Tech Needs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-steps-to-restore-sound-on-laptop-or-desktop/"><u>Quick Troubleshooting Steps to Restore Sound on Laptop or Desktop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-network-interfaces-on-macos-for-enhanced-connectivity-options-tech-advice/"><u>Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options | Tech Advice</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/techniques-for-non-linear-eq-curves/"><u>Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-web-sites-becoming-win-desktops/"><u>The Art of Web Sites Becoming Win Desktops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-gadgets-and-enhancements-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MacBook Gadgets & Enhancements of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-effective-one-channel-streaming-techniques/"><u>Unlocking Effective One-Channel Streaming Techniques</u></a></li>
+</ul></div>
+

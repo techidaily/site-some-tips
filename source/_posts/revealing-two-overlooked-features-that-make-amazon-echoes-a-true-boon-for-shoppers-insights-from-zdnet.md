@@ -1,7 +1,7 @@
 ---
 title: Revealing Two Overlooked Features That Make Amazon Echoes a True Boon for Shoppers - Insights From ZDNet
-date: 2024-09-17 15:16:41
-updated: 2024-09-20 10:59:38
+date: 2025-01-15T20:57:23.356Z
+updated: 2025-01-18T11:55:21.415Z
 tags:
   - amazon
 categories:
@@ -22,6 +22,10 @@ I woke up at 7 am to the sound of my alarm blaring. There's nothing unusual abou
 That bedroom Alexa is the one we call Alexa Prime since it was the first one we got. It's the old Pringles can-style Amazon OG Echo, ordered from Amazon as soon as the company started accepting orders. [Alexa Prime](https://www.zdnet.com/article/amazon-echo-it-sucks-its-awesome-it-sucks-we-want-two-more/) has been with us since Jan. 13, 2015, and she has been waking me every one of the 2,828 days since. 
 
 **Live blog:** [**The best deals from Amazon's October Prime Early Access Sale**](https://www.zdnet.com/article/amazon-prime-day-october-sale-deals-live-blog/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -46,6 +50,10 @@ I've since had to purchase replacements for all of those devices. With iOS 16, A
 But Alexas just work. That's the first underappreciated way Alexa devices are consumer-friendly. Day in, day out. In my case, nearly 3,000 days. They just work. I've never had to replace a single Echo device because it was obsoleted by the company. Although not all features are available for older devices (you need a more recent device such as a [third-generation Echo Dot](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEcho-Dot%2Fdp%2FB07FZ8S74R%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C94ca289e-4237-425d-b82a-6f1cb71b7ca4%7Cdtp&dtb=1) or [newer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-New-release-Smart-speaker-Charcoal%2Fdp%2FB09B8V1LZ3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C94ca289e-4237-425d-b82a-6f1cb71b7ca4%7Cdtp&dtb=1) to make it [bilingual in Spanish](https://www.zdnet.com/article/did-you-know-alexa-is-bilingual-heres-why-it-matters/), for example), in my personal experience so far, I haven't noticed any loss of support or functionality. Each incarnation of the helpful AI just sits there, waiting for us to ask or command something. 
 
 Now, sure. As Amazon introduces [new Echo models](https://www.zdnet.com/home-and-office/smart-home/new-echo-2022-release-date-price-features-how-to-buy-amazon/), they do more and sound better. But I'm not terribly concerned with media-center-quality sound when I'm blasted out of sleep in the morning. I just want to be able to get to work on time. And Alexa does that. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -83,11 +91,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-master-image-transformations-today/"><u>[New] Master Image Transformations Today</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-mobile-audio-iphone-voice-memos-made-easy-for-2024/"><u>[New] Mastering Mobile Audio IPhone Voice Memos Made Easy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-apple-laptop-a-detailed-comparison-of-macbook-pro-vs-macbook-air-zdnet/"><u>Choosing the Right Apple Laptop: A Detailed Comparison of MacBook Pro Vs. MacBook Air | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-top-4-convincing-arguments-for-upgrading-to-the-latest-ipad-air-tech-innovations/"><u>Discover Apple's Top 4 Convincing Arguments for Upgrading to the Latest iPad Air | Tech Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-apple-vision-pro-like-never-before-secrets-to-an-unforgettable-demo-and-reservation-guide-techreview/"><u>Experience the Apple Vision Pro Like Never Before - Secrets to an Unforgettable Demo & Reservation Guide | TechReview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-on-revising-task-manager-for-accurate-cpu-assessments/"><u>Guide on Revising Task Manager for Accurate CPU Assessments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-gt-5-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme GT 5 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/meilleure-lecture-video-h265-hevc-en-ultra-hd-logiciel-gratuit-pour-windows-and-mac-2020/"><u>Meilleure Lecture Video H.265 HEVC en Ultra HD - Logiciel Gratuit Pour Windows & Mac, 2020</u></a></li>
+<li><a href="https://some-tips.techidaily.com/most-popular-kid-friendly-tablets-as-voted-by-moms-and-dads/"><u>Most Popular Kid-Friendly Tablets as Voted by Moms and Dads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/outlook-vs-gmail-showdown-choosing-the-superior-email-provider/"><u>Outlook Vs. Gmail Showdown: Choosing the Superior Email Provider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-stylus-tablets-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Stylus Tablets : In-Depth Analysis & Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-work-experience-unveiling-intels-groundbreaking-ai-processor-for-next-gen-laptops-zdnet/"><u>Transform Your Work Experience: Unveiling Intel's Groundbreaking AI Processor for Next-Gen Laptops | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-apple-discontinues-itunes-introduces-alternative-apps-for-managing-music-and-videos-on-windows-pcs/"><u>ZDNet Exclusive: Apple Discontinues iTunes, Introduces Alternative Apps for Managing Music and Videos on Windows PCs</u></a></li>
+</ul></div>
+

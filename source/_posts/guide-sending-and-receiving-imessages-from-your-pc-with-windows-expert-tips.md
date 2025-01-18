@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending and Receiving iMessages From Your PC with Windows - Expert Tips"
-date: 2025-01-09T18:18:57.252Z
-updated: 2025-01-12T16:52:18.666Z
+date: 2025-01-12T07:45:40.271Z
+updated: 2025-01-17T18:43:57.405Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -62,10 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -75,10 +75,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -92,6 +88,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -99,7 +99,7 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -119,7 +119,7 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -153,7 +153,7 @@ Compose and send your message. Wait for the other person to respond. You can the
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Receive a message
@@ -192,24 +192,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-speed-capturing-screens-with-sound/"><u>[New] 2024 Approved Speed Capturing Screens With Sound</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/70278932-new-download-all-youtube-images-for-free/"><u>[New] Download All YouTube Images for Free</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>[Updated] Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-finest-selection-of-magsafe-wallets-in-depth-expert-testing-and-ratings/"><u>2024'S Finest Selection of MagSafe Wallets: In-Depth Expert Testing & Ratings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-ultimate-selection-of-apple-watch-bands-thoroughly-tested-and-evaluated-cnet/"><u>2024'S Ultimate Selection of Apple Watch Bands: Thoroughly Tested & Evaluated | CNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-intensifies-artificial-intelligence-prowess-exploring-functionalities-of-newly-released-models-analysis-by-zdnet/"><u>Apple Intensifies Artificial Intelligence Prowess: Exploring Functionalities of Newly Released Models | Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-smart-tech-on-demand-understanding-the-prospect-of-monthly-payments-up-to-20-for-advanced-features-insights/"><u>Apple's Smart Tech on Demand: Understanding the Prospect of Monthly Payments Up to $20 for Advanced Features | Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audible-allure-choosing-background-beats-for-videos-for-2024/"><u>Audible Allure Choosing Background Beats for Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/broadcast-mastery-mobile-livestraning-on-facebook-unveiled/"><u>Broadcast Mastery Mobile Livestraning on Facebook Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciding-on-the-perfect-apple-audio-companion-comparing-features-of-the-homepod-vs-homepod-mini/"><u>Deciding on the Perfect Apple Audio Companion: Comparing Features of the HomePod Vs. HomePod Mini</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-lg-televisions-roll-out-enhanced-sound-features-perfectly-matching-the-apple-experience-discover-now/"><u>Exclusive: LG Televisions Roll Out Enhanced Sound Features, Perfectly Matching the Apple Experience - Discover Now</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wav-files-to-mp4-movavi-video-editor/"><u>Free Online Converter: Change WAV Files to MP4 - Movavi Video Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-fix-iphones-poor-battery-performance-post-ios-1751-update-a-guide-with-7-effective-strategies/"><u>How to Fix iPhone's Poor Battery Performance Post-iOS 17.5.1 Update: A Guide with 7 Effective Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-techniques-for-insta-photo-cover-highlights/"><u>In 2024, Essential Techniques for Insta Photo Cover Highlights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-g54-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola G54 5G Phone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlock-your-fb-videos-instant-mp4-download/"><u>In 2024, Unlock Your FB Videos - Instant MP4 Download</u></a></li>
-<li><a href="https://some-tips.techidaily.com/lossless-audio-in-modern-earbuds-a-myth-debunked-the-real-reasons-explained/"><u>Lossless Audio in Modern Earbuds: A Myth Debunked - The Real Reasons Explained</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-privacy-stopping-followers-on-ig-for-2024/"><u>Mastering Privacy Stopping Followers on IG for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secure-the-new-ipad-9th-generation-at-a-bargain-price-of-250-following-apples-most-recent-launch-tech-news-on-zdnet/"><u>Secure the New iPad (9Th Generation) at a Bargain Price of $250 Following Apple’s Most Recent Launch | Tech News on ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-converging-worlds-effortlessly-incorporate-linktree-on-tiktok/"><u>[New] Converging Worlds Effortlessly Incorporate Linktree on TikTok</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-birdie-ballet-bounce/"><u>[Updated] Birdie Ballet Bounce</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-introduction-for-2024/"><u>[Updated] Introduction for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1-to-10-superior-4k-screen-selections-for-2024/"><u>1 to #10 Superior 4K Screen Selections for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-12-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi 12 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-rag-metrics-by-amazon-for-enhanced-ai-testing-and-evaluation-on-zdnet-coverage/"><u>Innovative RAG Metrics by Amazon for Enhanced AI Testing and Evaluation on ZDNet Coverage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/latest-android-automotive-update-enhances-user-experience-with-added-bluetooth-headphone-compatibility-tech-news-by-zdnet/"><u>Latest Android Automotive Update Enhances User Experience with Added Bluetooth Headphone Compatibility - Tech News by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-synergy-of-rag-and-generative-ai-llms-enhancing-your-business-expertise-for-success-zdnet-insights/"><u>Mastering the Synergy of RAG and Generative AI LLMs: Enhancing Your Business Expertise for Success | ZDNet Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-ultimate-canon-temporal-capture/"><u>Mastering Ultimate Canon Temporal Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-advances-in-open-source-ai-unveiled-introducing-llama-31-insights-from-zdnet/"><u>Meta Advances in Open-Source AI Unveiled: Introducing LLaMA 3.1 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/red-hat-elevates-enterprise-solutions-with-cutting-edge-linux-ai-features-expert-analysis-on-zdnet/"><u>Red Hat Elevates Enterprise Solutions with Cutting-Edge Linux AI Features | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stack-overflow-warnings-on-profile-suspension-due-to-ai-protests-insights-from-zdnet/"><u>Stack Overflow Warnings on Profile Suspension Due to AI Protests - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Upgrading Your Apple Watch to WatchOS 11 – Eligible and Excluded Models Explained by ZDNet
-date: 2024-11-12T02:21:14.705Z
-updated: 2024-11-16T22:56:58.734Z
+date: 2025-01-16T08:09:59.452Z
+updated: 2025-01-18T03:04:39.573Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -42,6 +46,10 @@ Serious athletes will likely be drawn to these features since this is the first 
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Better support for pregnancy
 
 WatchOS 11 will help those who are pregnant log their physical and mental health during their pregnancy, as well as display their gestational age and log any symptoms they frequently feel. Your watch will also advise you to review features like high heart rate notifications since, when pregnant, your heart rate tends to increase.
@@ -51,13 +59,6 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -69,18 +70,15 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -90,15 +88,16 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -106,13 +105,6 @@ With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
@@ -160,17 +152,21 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[New] 2024 Approved The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-maximize-traffic-essential-youtube-seo-equipment/"><u>[New] Maximize Traffic - Essential YouTube SEO Equipment</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-captivating-ae-titles/"><u>[Updated] Innovative Techniques for Captivating AE Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-sound-guide-for-your-android-devices-customization/"><u>[Updated] The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list/"><u>[Updated] Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-tomtom-actioncam-2023-for-adventure-seekers/"><u>2024 Approved TomTom ActionCam 2023 for Adventure Seekers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-from-webp-to-jpeg/"><u>2024 Approved Ultimate Tutorial From WebP to JPEG</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-helldivers-2-crashing-issues-on-windows-computers-for-a-smooth-experience/"><u>How to Fix Helldivers 2 Crashing Issues on Windows Computers for a Smooth Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-decreasing-decibels-in-logic-pro-projects-for-2024/"><u>Subtlety in Sound Decreasing Decibels in Logic Pro Projects for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unravel-facebooks-online-mysteries-what-to-expect/"><u>Unravel Facebook's Online Mysteries – What to Expect</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-5-compelling-literary-video-tts-for-2024/"><u>Unveiling 5 Compelling Literary Video TTs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-websites-to-find-3d-gold-text-effects/"><u>[New] Best Websites to Find 3D Gold Text Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-transformative-techniques-for-capturing-on-iphone/"><u>[New] In 2024, Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-connectivity-made-simple-easy-to-use-youtube-buttons/"><u>[Updated] 2024 Approved Channel Connectivity Made Simple Easy-to-Use YouTube Buttons</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-your-success-a-step-by-step-guide-to-earning-for-2024/"><u>[Updated] Stream Your Success A Step-by-Step Guide to Earning for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-resolving-obs-fullscreen-not-functional/"><u>2024 Approved Resolving OBS Fullscreen Not Functional</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-everything-about-samsungs-smart-tv-applications/"><u>Essential Guide: Everything About Samsung's Smart TV Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-above-and-beyond-bosepolk-the-ultimate-speaker-system-showdown-according-to-zdnet/"><u>Going Above and Beyond Bose/Polk - The Ultimate Speaker System Showdown According to ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-xc10100bf-file-errors/"><u>Guide to Resolve XC10100BF File Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/homepod-or-homepod-mini-an-in-depth-guide-to-determine-which-apple-echo-device-suits-your-needs/"><u>HomePod or HomePod Mini: An In-Depth Guide to Determine Which Apple Echo Device Suits Your Needs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immediate-purchase-available-at-ces-2023-featured-gadgets-and-innovations-zdnet/"><u>Immediate Purchase Available at CES 2023 - Featured Gadgets and Innovations | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-maneuverability-with-driver-easy-on-any-device/"><u>Mastering Maneuverability with Driver Easy on Any Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sonos-era-100-vs-sonos-one-face-off-deciding-on-your-ideal-smart-speaker-buy-cnet/"><u>Sonos Era 100 Vs. Sonos One Face-Off: Deciding on Your Ideal Smart Speaker Buy | CNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208059729-step-by-step-troubleshooting-keep-your-mouse-connected-finally/"><u>Step-by-Step Troubleshooting: Keep Your Mouse Connected, Finally</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-vinyl-turntable-speakers-professional-picks-you-cant-miss/"><u>Top Rated Vinyl Turntable Speakers: Professional Picks You Can't Miss!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-non-branded-soundbar-outperforms-bose-and-sony-insider-review-from-zdnet/"><u>Top-Rated Non-Branded Soundbar Outperforms Bose and Sony: Insider Review From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-review-reveals-exceptional-sound-experience-with-highly-praised-compact-speaker-across-multiple-genres/"><u>ZDNet's Review Reveals Exceptional Sound Experience with Highly Praised Compact Speaker Across Multiple Genres</u></a></li>
 </ul></div>
 

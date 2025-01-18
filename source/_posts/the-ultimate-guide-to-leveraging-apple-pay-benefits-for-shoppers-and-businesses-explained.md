@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2025-01-11T19:04:01.487Z
-updated: 2025-01-12T17:39:51.300Z
+date: 2025-01-13T11:09:40.131Z
+updated: 2025-01-18T12:24:57.993Z
 tags:
   - apple
 categories:
@@ -28,13 +28,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -43,10 +43,6 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -70,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -81,10 +73,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -108,6 +96,10 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -119,6 +111,10 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -128,7 +124,7 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -140,6 +136,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -197,18 +197,16 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gratis-business-presentation-boosting-plugins-and-templates/"><u>[New] Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-home-cinematic-wonders-fastest-tips-and-tricks/"><u>[New] In 2024, Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rofessional-level-youtube-editing-techniques-you-need-to-know-for-2024/"><u>[New] Professional-Level Youtube Editing Techniques You Need To Know for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advanced-secure-login-for-icloud-emails-with-2fa-technology/"><u>Advanced Secure Login for iCloud Emails with 2FA Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chrome-extension-alert-securing-your-account-from-faux-chatgpt-scam-impersonating-facebook-login-feature/"><u>Chrome Extension Alert! Securing Your Account From Faux ChatGPT Scam Impersonating Facebook Login Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-it-time-to-switch-a-detailed-analysis-of-iphone-16-pro-and-iphone-14-pro/"><u>Is It Time to Switch? A Detailed Analysis of iPhone 16 Pro and iPhone 14 Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-glitch-like-a-pro-top-free-online-effect-generators-you-need-to-try/"><u>New In 2024, Glitch Like a Pro Top Free Online Effect Generators You Need to Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-6-step-approach-to-fixing-the-werfaultexe-problem-on-windows-operating-systems/"><u>The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-gamer-friendly-smartphones-expert-ranking-by-zdnet/"><u>Top 5 Gamer-Friendly Smartphones : Expert Ranking by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-notetaking-tablets-comprehensive-tests-and-reviews-techradar/"><u>Top Rated Notetaking Tablets - Comprehensive Tests & Reviews | TechRadar</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-roblox-fps-unlocker-mechanics/"><u>Understanding Roblox FPS Unlocker Mechanics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-storage-potential-a-step-by-step-guide-to-clear-your-iphone-clutter-and-save-gbs-learn-with-us/"><u>Unlocking Storage Potential: A Step-by-Step Guide to Clear Your iPhone Clutter & Save GBs - Learn with Us</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-1120245/"><u>Windows 11で最高のフリーボイスレコーディングツール【2024年上位5選択】</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-tips-for-unlocking-youtube-video-comments/"><u>[Updated] In 2024, Tips for Unlocking YouTube Video Comments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-year-end-curation-of-youtubes-most-compelling-stories/"><u>A Year-End Curation of YouTube’s Most Compelling Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-lightspeed-by-red-hat-the-ultimate-ai-solution-for-kubernetes-administrators-detailed-insight-from-zdnet/"><u>Discover Lightspeed by Red Hat: The Ultimate AI Solution for Kubernetes Administrators - Detailed Insight From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-software-projects-with-these-6-agile-tactics-a-guide-to-effective-design-processes-by-zdnet-experts/"><u>Elevate Your Software Projects with These 6 Agile Tactics: A Guide to Effective Design Processes by ZDNet Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unable-to-open-shares-on-windows-1011s-geforce/"><u>Fixing Unable to Open Shares on Windows 10/11'S GeForce</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-xs-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone XS Space | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-devops-skills-without-breaking-the-bank-linux-foundations-special-offer-unveiled-discover-by-zdnet/"><u>Master DevOps Skills Without Breaking the Bank: Linux Foundation's Special Offer Unveiled | Discover by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-gen-ai-boosted-by-nvidias-new-nimble-interconnect-modules-for-cutting-edge-computing-speed/"><u>Next-Gen AI Boosted by Nvidia's New 'Nimble Interconnect Modules' For Cutting-Edge Computing Speed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taming-the-chaos-streamlining-linux-and-open-source-documentation-with-ease-insights-from-zdnet/"><u>Taming the Chaos: Streamlining Linux & Open Source Documentation with Ease | Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-covert-projector-peering-at-facebooks-wearable-ambition/"><u>The Covert Projector: Peering at Facebook’s Wearable Ambition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-nine-game-streaming-haven-explored/"><u>Top Nine Game Streaming Haven Explored</u></a></li>
 </ul></div>
 

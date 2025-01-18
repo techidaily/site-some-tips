@@ -1,7 +1,7 @@
 ---
 title: "Costly Challenges Prevent Advanced AI Integration in Older iPhones: What to Expect with Apple’s Latest Innovations – Insights From ZDNet"
-date: 2025-01-10T16:49:43.075Z
-updated: 2025-01-12T18:39:28.253Z
+date: 2025-01-12T06:08:01.635Z
+updated: 2025-01-18T04:03:17.451Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,21 +120,17 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-explore-the-potential-of-kinemaster-and-rank-10-best-online-game-substitutes/"><u>[New] 2024 Approved Explore the Potential of KineMaster & Rank 10 Best Online Game Substitutes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-video-content-for-youtube-success/"><u>[New] 2024 Approved Mastering Video Content for YouTube Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-ways-to-record-youtube-live-stream/"><u>[Updated] In 2024, Top 5 Ways to Record YouTube Live Stream</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimize-content-delivery-on-instagram-with-these-top-8-tools/"><u>2024 Approved Optimize Content Delivery on Instagram with These Top 8 Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-new-era-of-power-comparing-the-m3-and-m1-macbook-pro-for-tech-enthusiasts-is-it-time-to-upgrade/"><u>Apple's New Era of Power: Comparing the M3 and M1 MacBook Pro for Tech Enthusiasts – Is It Time to Upgrade?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/budget-friendly-beats-for-students-a-guide-to-affordable-apple-music-subscriptions-through-academic-discounts/"><u>Budget-Friendly Beats for Students: A Guide to Affordable Apple Music Subscriptions Through Academic Discounts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-new-budget-friendly-beats-solo-in-ear-headphones-competing-with-airpods-under-100-insights/"><u>Discover the New Budget-Friendly Beats Solo In-Ear Headphones: Competing with AirPods Under $100 | Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-gopro-video-conversion-change-vids-to-mp4mov-formats-perfectly-for-clip-edits-uploads-and-playbacks/"><u>Easy GoPro Video Conversion - Change Vids to MP4/MOV Formats Perfectly for Clip Edits, Uploads & Playbacks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhancing-gaming-experience-strategic-placement-of-your-playstation-4-webcam/"><u>Enhancing Gaming Experience: Strategic Placement of Your PlayStation 4 Webcam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exceptional-findings-on-dell-xps-series-a-deep-dive-into-the-latest-innovations-and-unmatched-quality/"><u>Exceptional Findings on Dell XPS Series – A Deep Dive Into the Latest Innovations and Unmatched Quality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-the-criacr-bluetooth-fm-transmitter-cp24-a-balance-between-miniaturization-and-functionality-reviewed/"><u>Experience the Criacr Bluetooth FM Transmitter CP24: A Balance Between Miniaturization & Functionality Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-apple-ai-how-realsenses-on-device-system-surpasses-googles-gpt-4-in-performance-says-apple-tech-news/"><u>Revolutionary Apple AI: How RealSense's On-Device System Surpasses Google's GPT-4 in Performance, Says Apple | Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/september-2024-hot-deals-alert-score-big-savings-from-amazon-with-zdnets-curated-pick/"><u>September 2024 Hot Deals Alert! Score Big Savings From Amazon with ZDNET's Curated Pick</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-smartwatches-comprehensive-analysis-by-tech-experts/"><u>Top-Rated Smartwatches : Comprehensive Analysis by Tech Experts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-12-steps-fixing-hidden-fb-video-issues-for-2024/"><u>Unlocking 12 Steps Fixing Hidden FB Video Issues for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-the-highest-quality-stylus-tablets-in-2cuary-expertly-evaluated/"><u>ZDNet's Ultimate Guide to the Highest Quality Stylus Tablets in 2Cuary - Expertly Evaluated</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-brief-video-joust-the-showdown-between-youtubes-shorts-and-tiktoks-flavor/"><u>[Updated] In 2024, Brief Video Joust The Showdown Between YouTubes Shorts and TikTok's Flavor</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-captivate-your-audience-professional-end-screen-creations/"><u>[Updated] In 2024, Captivate Your Audience Professional End Screen Creations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ethical-approaches-to-achieve-one-million-youtube-subscribers/"><u>[Updated] In 2024, Ethical Approaches to Achieve One Million YouTube Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-hurry-up-and-shop-top-retailers-offering-late-gift-delivery-services-before-the-clock-runs-out/"><u>1. Hurry Up and Shop: Top Retailers Offering Late Gift Delivery Services Before the Clock Runs Out!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-novices-companion-to-crypto-understanding-and-navigating-blockchain-technology-with-ease/"><u>A Novice’s Companion to Crypto: Understanding and Navigating Blockchain Technology with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-transactions-predictions-to-reach-16-trillion-zdnet-insights/"><u>Asia Spearheads the Surge in Non-Cash Transactions: Predictions to Reach $1.6 Trillion | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combating-fraudulent-business-fronts-in-digital-and-physical-realms-tech-insights/"><u>Combating Fraudulent Business Fronts in Digital & Physical Realms | Tech Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-leading-online-communities-the-powerhouses-of-facebook-twitter-instagram-youtube/"><u>Exploring Leading Online Communities: The Powerhouses of Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/find-your-perfect-game-recorder-top-10-free-apps/"><u>Find Your Perfect Game Recorder Top 10 Free Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-ace-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Ace 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/must-see-upgrades-in-vr-armor/"><u>Must-See Upgrades in VR Armor</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-handbook-for-hosting-zoom-events-on-youtube/"><u>The Ultimate Handbook for Hosting Zoom Events on YouTube</u></a></li>
 </ul></div>
 

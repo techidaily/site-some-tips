@@ -1,7 +1,7 @@
 ---
 title: Discover How macOS 15 Transforms Your Apple MacBook - A Comprehensive Review and Feature Breakdown
-date: 2024-11-15T11:32:43.790Z
-updated: 2024-11-17T12:33:03.092Z
+date: 2025-01-17T04:59:52.479Z
+updated: 2025-01-18T02:38:08.783Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,10 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -84,16 +85,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -108,6 +100,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -117,13 +113,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 **Also: [ChatGPT privacy tips: Two important ways to limit the data you share with OpenAI](https://www.zdnet.com/article/chatgpt-privacy-tips-two-important-ways-to-limit-the-data-you-share-with-openai/)** 
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
 
@@ -136,10 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -176,22 +162,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-cross-platform-sharing-tweeting-videos-across-fb/"><u>[New] 2024 Approved Cross-Platform Sharing Tweeting Videos Across FB</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-pictorial-word-constructor/"><u>[New] In 2024, Pictorial Word Constructor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>[New] Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>[Updated] Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-dive-deeper-into-life-advanced-strategies-for-capturing-the-essence-of-your-sims-adventures-in-sims-4-for-2024/"><u>[Updated] Dive Deeper Into Life Advanced Strategies for Capturing the Essence of Your Sim's Adventures in Sims 4 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-youtube-to-insta-a-video-posting-guide/"><u>[Updated] In 2024, From YouTube to Insta A Video Posting Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pure-pitch-perception-recording-in-mac-studios/"><u>[Updated] Pure Pitch Perception Recording in Mac Studios</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-movements-intova-xs-video-excellence/"><u>2024 Approved Mastering Movements Intova X's Video Excellence</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-incorporating-s2t-features-into-ppt/"><u>2024 Approved The Art of Incorporating S2T Features Into PPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved The Artisan's Selection Best Photo Frame Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-top-hdr-camera-brands-and-features/"><u>2024 Approved Unraveling Top HDR Camera Brands and Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>Tales Before Twilight A Review of Video-Driven Narratives for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation-for-2024/"><u>The Year's Finest Photo Framers & Organizers Compilation for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-smooth-transitioning-from-zoom-to-fb-live-events-for-2024/"><u>Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-the-past-a-step-by-step-for-downloadable-facebook-logs/"><u>Unlocking the Past: A Step-by-Step for Downloadable Facebook Logs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-strengths-and-weaknesses-a-detailed-review-of-apple-m1-ipad-pro/"><u>Unveiling Strengths and Weaknesses - A Detailed Review of Apple M1 iPad Pro</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-mac-video-editors-of-reviews-and-comparisons/"><u>Updated Top Mac Video Editors of Reviews and Comparisons</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-spy-on-fb-chronicles-unseen/"><u>[New] In 2024, Spy on FB Chronicles, Unseen</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-realizing-youre-off-the-friends-list/"><u>[New] Realizing You're Off the Friends List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazing-16-features-of-alexa-in-your-amazon-echo-device-insights-from-zdnet/"><u>Amazing 16 Features of Alexa in Your Amazon Echo Device - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/approach-compare-the-rights-of-employers-in-both-scenarios-as-outlined-by-federal-law/"><u>Approach: Compare the Rights of Employers in Both Scenarios as Outlined by Federal Law.</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-magic-of-devhome-in-win11-landscape/"><u>Deciphering the Magic of DevHome in Win11 Landscape</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/driven-by-cookiebot-enhanced-user-experience-and-data-management/"><u>Driven by Cookiebot: Enhanced User Experience and Data Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unmatched-audio-quality-with-the-tribit-xsound-megablast-bluetooth-speaker-powerful-30w-performance-and-wide-sound-reach/"><u>Experience Unmatched Audio Quality with the Tribit XSound Megablast Bluetooth Speaker - Powerful 30W Performance & Wide Sound Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/homepod-vs-homepod-mini-comprehensive-sound-quality-analysis-revealed-by-zdnet/"><u>HomePod vs HomePod Mini: Comprehensive Sound Quality Analysis Revealed by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-top-ideas-to-spice-up-your-daily-snapchat-routine/"><u>In 2024, Top Ideas to Spice Up Your Daily Snapchat Routine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-8-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-groundbreaking-smart-device-seamless-switching-between-alexa-and-google-voice-assistant-now-available/"><u>Introducing the Groundbreaking Smart Device: Seamless Switching Between Alexa & Google Voice Assistant Now Available</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-gadgets-from-ces-202-available-immediately-exclusive-offers-on-zdnet/"><u>Latest Gadgets From CES 202# Available Immediately - Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-unexpected-journey-from-premium-soundbars-to-jbl-a-pleasantly-surprising-experience-zdnet/"><u>My Unexpected Journey From Premium Soundbars to JBL: A Pleasantly Surprising Experience | ZDNET</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimizing-video-content-for-igtv-uploading-strategies-revealed/"><u>Optimizing Video Content for IGTV Uploading Strategies Revealed</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/pcdj-mastery-series-kickstart-your-mixes-essential-video-tips-from-dex-3s-top-techniques/"><u>PCDJ Mastery Series: Kickstart Your Mixes – Essential Video Tips From DEX 3'S Top Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-winning-over-trustedinstaller-in-windows-10/"><u>Step-by-Step Strategies for Winning Over TrustedInstaller in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-childrens-earbuds-and-headsets-in-depth-reviews-by-tech-gurus-zdnet/"><u>Top Rated Children's Earbuds & Headsets : In-Depth Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-standalone-loudspeakers-find-the-ideal-sound-experience-on-zdnet/"><u>Top-Rated Standalone Loudspeakers : Find the Ideal Sound Experience on ZDNet</u></a></li>
 </ul></div>
 

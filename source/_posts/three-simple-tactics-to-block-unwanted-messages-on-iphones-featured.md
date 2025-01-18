@@ -1,7 +1,7 @@
 ---
 title: Three Simple Tactics to Block Unwanted Messages on iPhones, Featured
-date: 2024-12-17T04:39:27.046Z
-updated: 2024-12-22T03:41:35.451Z
+date: 2025-01-13T11:30:38.522Z
+updated: 2025-01-18T11:05:42.978Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -51,6 +47,10 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -74,10 +74,14 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
@@ -95,6 +99,10 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -105,7 +113,7 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -117,19 +125,11 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,16 +167,15 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-3dr-a-solo-traverse-into-future-tech-world/"><u>[New] In 2024, '3DR' A Solo Traverse Into Future Tech World</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-who-are-tiktoks-best-known-gamers/"><u>[New] In 2024, Who Are TikTok's Best-Known Gamers?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-on-the-go-gyroscopic-footage-smoother-for-2024/"><u>[Updated] On-the-Go Gyroscopic Footage Smoother for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-10-open-source-video-player-for-linux-windows-and-mac/"><u>2024 Approved 10 Open Source Video Player for Linux, Windows and Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-comparison-7-zip-vs-winrar-vs-winzip-determining-the-best-archive-tool/"><u>Comprehensive Comparison: 7-Zip vs WinRAR vs WinZip - Determining the Best Archive Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-best-12-device-specific-4k-recording-solutions-with-movavi-technology/"><u>Discover the Best 12 Device-Specific 4K Recording Solutions with Movavi Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267433717-expert-iphone-data-rescue-options-get-yours-today/"><u>Expert iPhone Data Rescue Options - Get Yours Today!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/m2ts-para-mkv-conversao-online-gratuita-com-a-ferramenta-de-software-movavi/"><u>M2TS Para MKV: Conversão Online Gratuita Com a Ferramenta De Software Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-oferece-uma-ferramenta-de-conversao-gratuita-flac-to-ogg-online-faca-o-upgrade/"><u>Movavi Oferece Uma Ferramenta De Conversão Gratuita FLAC to OGG Online - Faça O Upgrade!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-zoomview-partition-inspection/"><u>[New] 2024 Approved ZoomView Partition Inspection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media/"><u>[New] Unveiling the Best Practices in Cds Ripping & Burning with Win, Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>2024 Approved Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-artistic-transformation-tool-for-photos-pcs-and-macs-alike/"><u>In 2024, Artistic Transformation Tool for Photos, PCs & Macs Alike</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-gen-faceoff-exploring-key-distinctions-between-google-pixel-9-ultra-foldable-and-samsungs-galaxy-z-fold-6-insights-by-zdnet/"><u>Next-Gen Faceoff: Exploring Key Distinctions Between Google Pixel #9 Ultra Foldable & Samsung's Galaxy Z Fold 6 | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/simple-strategies-for-capturing-your-pcs-display-with-ease/"><u>Simple Strategies for Capturing Your PC's Display with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-exclusive-savings-mastering-the-art-of-early-orders-for-google-pixel-9-and-pro-models-plus-the-upcoming-pixel-9-pro-flex/"><u>Snag Exclusive Savings: Mastering the Art of Early Orders for Google Pixel 9 & Pro Models + The Upcoming Pixel 9 Pro Flex!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-on-top-of-your-studies-5-proven-strategies-for-college-learners-using-gemini-ai-insights-from-zdnet/"><u>Stay on Top of Your Studies: 5 Proven Strategies for College Learners Using Gemini AI - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-799-google-pixel-9-outshines-rivals-as-zdnets-favorite-2024-handset-choice/"><u>Why the $799 Google Pixel 9 Outshines Rivals as ZDNet's Favorite 2024 Handset Choice</u></a></li>
 </ul></div>
 

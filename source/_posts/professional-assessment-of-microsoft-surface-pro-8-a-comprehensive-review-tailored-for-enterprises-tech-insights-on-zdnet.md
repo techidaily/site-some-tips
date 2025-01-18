@@ -1,7 +1,7 @@
 ---
 title: "Professional Assessment of Microsoft Surface Pro 8: A Comprehensive Review Tailored for Enterprises | Tech Insights on ZDNet"
-date: 2024-12-15T00:44:04.350Z
-updated: 2024-12-21T20:27:13.320Z
+date: 2025-01-16T00:47:41.347Z
+updated: 2025-01-18T09:24:55.850Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -71,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -99,7 +103,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -136,7 +140,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -151,6 +155,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -163,15 +171,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -210,16 +210,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-easy-photo-fixes-an-introduction-to-snapseed-for-2024/"><u>[Updated] Easy Photo Fixes An Introduction to Snapseed for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[Updated] Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-smooth-transitions/"><u>[Updated] The Ultimate Checklist for Smooth Transitions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>[Updated] Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-stop-screen-blackouts-with-obs-game-recordings/"><u>2024 Approved Stop Screen Blackouts with OBS Game Recordings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/impact-of-dojs-legal-action-against-apple-consequences-for-iphone-enthusiasts-and-app-creators-techdigest/"><u>Impact of DOJ's Legal Action Against Apple: Consequences for iPhone Enthusiasts & App Creators | TechDigest</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-virtual-meetings-in-google-mail/"><u>In 2024, Streamlining Virtual Meetings in Google Mail</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-future-of-computing-a-look-at-2024s-most-outstanding-brand-names/"><u>Navigating the Future of Computing: A Look at 2024'S Most Outstanding Brand Names</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-3d-lut-magic-a-deep-dive-into-photoshop-for-2024/"><u>Unveiling 3D LUT Magic A Deep Dive Into Photoshop for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/au-cddvd/"><u>無限量自由發佈 - AU CD/DVD移動流傳</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028134021-wma/"><u>効果的なWMAオーディオコントロール - フリーソフトウェアの使用方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breaking-into-the-tech-industry-with-a-background-in-healthcare-tips-and-strategies/"><u>Breaking Into the Tech Industry with a Background in Healthcare: Tips and Strategies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-advanced-web-engagement-tools/"><u>Cookiebot: Your Key to Advanced Web Engagement Tools</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-6-plusipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 6 Plus/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-python-skills-through-linkedins-gratis-ai-course-an-empowering-experience-zdnet/"><u>Elevating Python Skills Through LinkedIn's Gratis AI Course: An Empowering Experience | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-linguistic-adventure-on-duolingo-a-zdnet-insightful-analysis-of-user-friendly-learning/"><u>Free Linguistic Adventure on Duolingo - A ZDNet Insightful Analysis of User-Friendly Learning!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-hiring-guide-top-tips-and-essential-advice-for-launching-a-successful-tech-career-at-google-according-to-zdnet-experts/"><u>Google Hiring Guide: Top Tips and Essential Advice for Launching a Successful Tech Career at Google, According to ZDNet Experts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-6s-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 6s Plus Smoothly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/july-2024-exclusive-apple-sales-guide-unbeatable-prices-on-iphones-apple-watches-and-ipads-zdnet/"><u>July 2024 Exclusive Apple Sales Guide: Unbeatable Prices on iPhones, Apple Watches & iPads | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-journey-from-professional-to-chief-ai-officer-explained/"><u>Navigating the Journey: From Professional to Chief AI Officer Explained</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pc-gaming-solved-effective-ways-to-keep-house-flipper-2-running-smoothly/"><u>PC Gaming Solved: Effective Ways to Keep House Flipper 2 Running Smoothly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/syncing-your-soundtrack-import-music-into-inshot/"><u>Syncing Your Soundtrack Import Music Into InShot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-desirable-careers-is-the-role-of-a-prompt-engineer-outshining-the-traditional-data-scientist-analysis-on-zdnet/"><u>The Evolution of Desirable Careers: Is the Role of a Prompt Engineer Outshining the Traditional Data Scientist? | Analysis on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ins-and-outs-of-changing-your-ip-address-pros-cons-and-timely-strategies-explored-by-zdnet/"><u>The Ins and Outs of Changing Your IP Address – Pros, Cons, and Timely Strategies Explored by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-landing-a-virtual-software-engineer-role-cio-magazine/"><u>The Ultimate Guide to Landing a Virtual Software Engineer Role | CIO Magazine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-tech-professionals-blueprint-for-crafting-an-impeccable-job-proposal-insights-from-zdnet/"><u>The Ultimate Tech Professional's Blueprint for Crafting an Impeccable Job Proposal - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-connectivity-seamless-integration-of-atheros-drivers-on-windows-11/"><u>Upgraded Connectivity: Seamless Integration of Atheros Drivers on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zero-to-hero-coding-paradox-streamlining-tech-workloads-while-weaving-a-web-of-new-challenges-zdnet/"><u>Zero to Hero Coding Paradox: Streamlining Tech Workloads While Weaving a Web of New Challenges | ZDNet</u></a></li>
 </ul></div>
 

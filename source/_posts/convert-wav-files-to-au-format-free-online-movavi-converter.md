@@ -1,7 +1,7 @@
 ---
 title: Convert WAV Files to AU Format Free Online - Movavi Converter
-date: 2024-09-12 10:30:19
-updated: 2024-09-13 12:24:44
+date: 2025-01-13T11:34:26.248Z
+updated: 2025-01-17T16:23:53.555Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddebe9cf76be61f42eab18cd22c.jpg
@@ -152,9 +152,17 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
@@ -278,6 +286,10 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -305,6 +317,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -334,6 +350,10 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
@@ -352,6 +372,10 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -361,6 +385,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -395,6 +423,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -410,6 +442,10 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -458,6 +494,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -536,11 +576,30 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-financial-potential-how-to-earn-with-youtube-shorts/"><u>2024 Approved Unlocking Financial Potential How to Earn with YouTube Shorts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-s18-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo S18</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/comparative-analysis-of-plex-and-kodi-determining-the-ultimate-home-theater-software/"><u>Comparative Analysis of Plex and Kodi: Determining the Ultimate Home Theater Software.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-addressing-lag-and-connection-glitches-for-a-flawless-new-world-experience/"><u>Expert Advice on Addressing Lag & Connection Glitches for a Flawless 'New World' Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-camon-20-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Camon 20 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-tech-meltdhrenous-analyzing-factors-of-the-major-microsoft-suite-outage-event/"><u>Inside the Tech Meltdhrenous: Analyzing Factors of the Major Microsoft Suite Outage Event</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-aristas-latest-network-solutions-tailored-for-businesses-embracing-the-cloud-insights-from-zdnet/"><u>Introducing Arista's Latest Network Solutions Tailored for Businesses Embracing the Cloud - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-devops-skills-at-a-bargain-enroll-in-the-linux-foundations-latest-bootcamp-offering-low-cost-entry-technews-today/"><u>Master DevOps Skills at a Bargain: Enroll in the Linux Foundation's Latest Bootcamp Offering Low Cost Entry | TechNews Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-task-repetition-and-tracking-progress-a-guide-to-using-todoist-efficiently-insights-by-zdnet/"><u>Mastering Task Repetition & Tracking Progress: A Guide to Using Todoist Efficiently | Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-revamps-onedrive-introducing-a-sleeker-interface-enhanced-file-accessibility-and-advanced-ai-features-tech-news/"><u>Microsoft Revamps OneDrive: Introducing a Sleeker Interface, Enhanced File Accessibility & Advanced AI Features | Tech News</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-sierra-icloud-for-seamless-access/"><u>Navigating Sierra iCloud for Seamless Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-setup-integrating-playstation-vr-into-your-pc-gaming-rig/"><u>Seamless Setup: Integrating PlayStation VR Into Your PC Gaming Rig</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-a-chipset-key-aspects-for-your-pc-build/"><u>Selecting a Chipset: Key Aspects for Your PC Build</u></a></li>
+<li><a href="https://some-tips.techidaily.com/similar-to-title-1-the-mention-of-zdnet-adds-authority-and-relevance-while-maintaining-consistency-with-seo-best-practices/"><u>Similar to Title 1, the Mention of ZDNet Adds Authority and Relevance While Maintaining Consistency with SEO Best Practices.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-companies-struggle-as-ransomware-and-phishing-hacks-persist-insights-from-zdnet/"><u>Singapore Companies Struggle as Ransomware & Phishing Hacks Persist: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-innovations-with-tom-a-comprehensive-hardware-review/"><u>Unveiling the Latest Innovations with Tom - A Comprehensive Hardware Review</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Free Methods for Adding Video Captions: An Online Guide"
-date: 2024-09-11 12:30:30
-updated: 2024-09-13 12:17:49
+date: 2025-01-16T07:03:42.327Z
+updated: 2025-01-18T10:12:20.894Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/787eeaa7ff322b9215aaa10fafb3d58916c322d18ab57de64728f0cbbe83b061.png
@@ -28,6 +28,10 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 [Télécharger](https://tools.techidaily.com/movavi/products/)
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -166,6 +170,10 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -181,6 +189,10 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -213,6 +225,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -306,6 +322,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -338,6 +358,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -361,6 +385,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -411,6 +439,10 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -423,6 +455,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -454,6 +490,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +576,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-sound-logging-our-selection-of-11-precision-gadgets/"><u>[New] 2024 Approved Mastering Sound Logging Our Selection of 11 Precision Gadgets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-walking-dead-an-insiders-guide-to-best-zombie-experiences/"><u>[New] Walking Dead An Insider's Guide to Best Zombie Experiences</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-hero-vs-hero-a-technological-comparison/"><u>[Updated] 2024 Approved Hero Vs Hero A Technological Comparison</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pinpoint-and-eliminate-android-video-glitches/"><u>[Updated] 2024 Approved Pinpoint & Eliminate Android Video Glitches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-mastery-creating-quality-videos-on-phones/"><u>[Updated] 2024 Approved YouTube Mastery Creating Quality Videos on Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-central-node-of-youtube-video-management-for-2024/"><u>[Updated] Finding the Central Node of YouTube Video Management for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-resilience-thriving-amidst-retail-shutdowns-insights-from-zdnet/"><u>Amazon's Resilience: Thriving Amidst Retail Shutdowns - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-strategy-for-equipping-users-with-future-ready-ai-expertise/"><u>Amazon's Strategy for Equipping Users with Future-Ready AI Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/are-amazon-primes-early-bird-specials-genuinely-bargains-or-just-hype-insights-from-zdnet/"><u>Are Amazon Prime's Early Bird Specials Genuinely Bargains or Just Hype? Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-elevates-cloud-competition-with-new-innovations-at-reinvent-2021-zdnet-insights/"><u>AWS Elevates Cloud Competition with New Innovations at Re:Invent 2021 - ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-we-trust-our-ears-navigating-the-perils-of-advanced-ai-voice-cloning-on-amazons-platform-tech-insights-by-zdnet/"><u>Can We Trust Our Ears? Navigating the Perils of Advanced AI Voice Cloning on Amazon's Platform | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-freedom-discover-the-plans-of-top-technology-firms-honoring-juneteenth/"><u>Celebrating Freedom: Discover the Plans of Top Technology Firms Honoring Juneteenth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/commemorating-progress-an-insight-into-seven-leading-tech-giants-juneteenth-tribute-strategies/"><u>Commemorating Progress: An Insight Into Seven Leading Tech Giants' Juneteenth Tribute Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/digital-timekeeping-triumphs-why-you-should-appreciate-the-value-of-digital-clocks-gadget-geeks/"><u>Digital Timekeeping Triumphs: Why You Should Appreciate the Value of Digital Clocks | Gadget Geeks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-enhanced-home-security-with-blinks-advanced-floodlight-camera-and-mounting-solutions-for-the-blink-mini-pan-tilt-exclusive-features-revealed-by-zdn3/"><u>Discover Enhanced Home Security with Blink's Advanced Floodlight Camera and Mounting Solutions for the Blink Mini Pan-Tilt – Exclusive Features Revealed by ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-wi-fiethernet-card-updates-compatible-with-windows-11-7-and-8/"><u>Get Your HP Wi-Fi/Ethernet Card Updates: Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/spyros-rebirth-triumph-assessing-worth-and-enchantment-in-the-new-classics/"><u>Spyro's Rebirth Triumph: Assessing Worth and Enchantment in the New Classics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11/"><u>Step-by-Step Instructions for Activating High Dynamic Range in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tactical-approach-to-effortless-ipad-screen-records-for-2024/"><u>Tactical Approach to Effortless iPad Screen Records for 2024</u></a></li>
+</ul></div>
+

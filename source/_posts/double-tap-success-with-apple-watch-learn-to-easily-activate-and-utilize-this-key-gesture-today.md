@@ -1,7 +1,7 @@
 ---
 title: "Double-Tap Success with Apple Watch: Learn to Easily Activate and Utilize This Key Gesture Today!"
-date: 2024-11-12T19:35:33.946Z
-updated: 2024-11-16T22:43:43.717Z
+date: 2025-01-17T09:37:00.124Z
+updated: 2025-01-18T08:02:54.544Z
 tags:
   - apple
 categories:
@@ -39,10 +39,7 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -70,6 +67,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -79,10 +80,7 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -98,10 +96,7 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,10 +104,7 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,24 +141,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[New] 2024 Approved Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-lut-applications-in-photoshop-cs6/"><u>[New] The Essential Guide to LUT Applications in Photoshop CS6</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-path-to-perfected-morphvox-control/"><u>[New] The Ultimate Path to Perfected MorphVOX Control</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-crimson-codec-update/"><u>[Updated] Crimson Codec Update</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-engaging-sims-4-experience-through-recording-for-2024/"><u>[Updated] Engaging Sims 4 Experience Through Recording for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secure-the-best-a-list-of-top-free-mac-screen-recorders/"><u>[Updated] In 2024, Secure the Best A List of Top Free Mac Screen Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-optimal-strategy-for-broadcasting-via-obs-on-fb-live-for-2024/"><u>[Updated] Optimal Strategy for Broadcasting via OBS on FB Live for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-windows-photo-inspector-fast-edition/"><u>[Updated] Top Windows Photo Inspector, Fast Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[Updated] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-route-for-finding-visual-gold-on-pexels/"><u>2024 Approved The Essential Route for Finding Visual Gold on Pexels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-time-travel-regain-control-over-streams/"><u>2024 Approved Twitch Time Travel Regain Control Over Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-audience-attention-top-6-video-styles/"><u>2024 Approved Unlock Audience Attention Top 6 Video Styles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725284691026-dvd/"><u>DVDセキュリティ突破できないコレクションの管理と解析法</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15 Plus? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ustream-overview-plus-similar-services/"><u>In 2024, Ustream Overview + Similar Services</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-se-2020-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone SE (2020)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-a14-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-extra-memory-solution-for-sony-a7c/"><u>Superior Extra Memory Solution for Sony A7C</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-case-for-high-dynamic-range-in-modern-videography-for-2024/"><u>The Case for High Dynamic Range in Modern Videography for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-profile-picture-templates-free-downloads/"><u>[New] 2024 Approved YouTube Profile Picture Templates – Free Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-storage-exploration-how-many-vids-can-64128gb-hold/"><u>[New] Storage Exploration How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-virtual-sessions-with-these-top-10-tools-for-2024/"><u>[Updated] Streamline Your Virtual Sessions with These Top 10 Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-to-quicken-vimeo-videos-for-2024/"><u>[Updated] Techniques to Quicken Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-launch-a-captivating-livestream-with-minimal-subscribers/"><u>2024 Approved Launch a Captivating Livestream with Minimal Subscribers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>2024 Approved The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-ultimate-soundbar-lineup-expertly-tested-recommendations-and-guides-zdnet/"><u>2024'S Ultimate Soundbar Lineup: Expertly Tested Recommendations & Guides | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-powerful-audio-with-tribit-stormbox-micro-2s-compact-design-a-detailed-review-on-zdnet/"><u>Experience Powerful Audio with Tribit Stormbox Micro 2'S Compact Design - A Detailed Review on ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-top-strategies-for-exceptional-tiktok-beginnings-with-macos/"><u>In 2024, Top Strategies For Exceptional TikTok Beginnings With MacOS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-vllo-on-mac-your-ultimate-guide-to-downloads-and-alternatives/"><u>New In 2024, VLLO on Mac Your Ultimate Guide to Downloads and Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tested-soundbar-non-sony-non-bose-audio-experience-that-beats-them-both-zdnet/"><u>Top Tested Soundbar: Non-Sony, Non-Bose Audio Experience That Beats Them Both - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-sound-at-unbeatable-prices-discover-the-most-economical-loudspeakers-tested-by-zdnet/"><u>Top Tier Sound at Unbeatable Prices: Discover the Most Economical Loudspeakers Tested by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tricks-to-reinstate-firewall-in-windows-os/"><u>Top Tricks to Reinstate Firewall in Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-travel-friendly-audio-a-non-bose-non-sony-surprise-featured-on-zdnet/"><u>Top-Rated Travel-Friendly Audio: A Non-Bose, Non-Sony Surprise Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-the-best-solar-bluetooth-audio-systems-for-eco-friendly-audiophiles-cnet/"><u>Ultimate List of the Best Solar Bluetooth Audio Systems for Eco-Friendly Audiophiles | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-sonic-boom-discover-the-hidden-strength-of-this-compact-bluetooth-speaker-zdnet/"><u>Unleashing Sonic Boom: Discover the Hidden Strength of This Compact Bluetooth Speaker | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-new-dimensions-in-sound-the-incomparable-performance-of-beats-revolutionary-pill-speaker-uncovered-on-zdnet/"><u>Unveiling New Dimensions in Sound - The Incomparable Performance of Beats' Revolutionary Pill Speaker Uncovered on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-marshall-motif-anc-expert-evaluation-of-sound-quality-and-noise-cancellation-on-zdnet/"><u>Unveiling the Marshall Motif ANC: Expert Evaluation of Sound Quality and Noise Cancellation on ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/z2-mobile-a-cutting-edge-device-analysis/"><u>Z2 Mobile A Cutting-Edge Device Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Apple Watch Series 10 and Series Eight: Should You Consider an Upgrade?"
-date: 2025-01-07T16:02:59.072Z
-updated: 2025-01-12T18:40:51.282Z
+date: 2025-01-14T23:27:19.352Z
+updated: 2025-01-17T17:23:25.018Z
 tags:
   - apple
 categories:
@@ -51,7 +51,7 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,6 +69,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
@@ -76,7 +80,7 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
@@ -115,13 +119,13 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -132,7 +136,7 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cca6de9db-ba96-4a70-9e3a-95fc0e026b4c%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
@@ -140,10 +144,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,17 +179,20 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pivot-between-pro-dji-action-and-gopro-max-360/"><u>2024 Approved Pivot Between Pro DJi Action & GoPro Max 360</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024s-must-have-recording-applications-for-aspiring-and-seasoned-guitar-players/"><u>2024S Must-Have Recording Applications for Aspiring and Seasoned Guitar Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bmw-car-owners-rejoice-how-ios-17-fixes-previous-issues-with-wireless-chargers-for-iphone-15-insights/"><u>BMW Car Owners Rejoice: How iOS 17 Fixes Previous Issues with Wireless Chargers for iPhone 15 - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-airpods-pro-2-with-original-is-the-upgrade-worth-your-patience/"><u>Comparing AirPods Pro 2 with Original: Is The Upgrade Worth Your Patience?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-safest-and-most-fun-mobile-phones-for-children-recommended/"><u>Discover the Safest & Most Fun Mobile Phones for Children | Recommended</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-x-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone X i Do? Get Answers here</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-8-hour-experience-with-the-apple-vision-pro-headset-highs-and-lows-explored-review/"><u>My 8-Hour Experience with the Apple Vision Pro Headset - Highs and Lows Explored Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/october-expectations-rise-as-apple-postpones-release-of-cutting-edge-intellectual-features-insights-from-zdnet/"><u>October Expectations Rise as Apple Postpones Release of Cutting-Edge Intellectual Features - Insights From ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-no-sound-device-error-in-windows-os/"><u>Rectifying No Sound Device Error in Windows OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/social-sites-for-effective-youtube-video-promotion-for-2024/"><u>Social Sites for Effective YouTube Video Promotion for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/steps-for-writing-engaging-video-blogging-content/"><u>Steps for Writing Engaging Video Blogging Content</u></a></li>
-<li><a href="https://win-premium.techidaily.com/strategie-3-2-1-pour-la-sauvegarde-des-donnees-etapes-claires-pour-une-protection-efficace/"><u>Stratégie 3-2-1 Pour La Sauvegarde Des Données : Étapes Claires Pour Une Protection Efficace</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer/"><u>[New] Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-surf-cam-excellence-the-best-for-2024/"><u>[New] Surf Cam Excellence - The Best for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-art-of-kinemaster-use-top-10-alternative-online-games-ranked/"><u>[New] Unveiling the Art of KineMaster Use Top 10 Alternative Online Games Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-breaking-down-zoom-session-division/"><u>[Updated] In 2024, Breaking Down Zoom Session Division</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-transferring-media-pc-files-to-your-ios-device/"><u>[Updated] Transferring Media PC Files To Your iOS Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-combatting-developer-burnout-innovative-strategies-adopted-by-tech-firms-insights-from-zdnet/"><u>1) Combatting Developer Burnout: Innovative Strategies Adopted by Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>In 2024, The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-ais-future-the-role-of-open-source-in-ethical-advancements-insights-from-zdnet/"><u>Navigating AI's Future: The Role of Open Source in Ethical Advancements - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinvigorate-your-iphones-mindfulness-with-these-fixes-to-try/"><u>Reinvigorate Your iPhone's Mindfulness with These Fixes to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-7-leading-cybersecurity-credentials-ranked-by-zdnet/"><u>The Ultimate Guide: 7 Leading Cybersecurity Credentials Ranked by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cod-addressing-and-correcting-the-wwii-game-bug-error-4220/"><u>Troubleshooting Cod: Addressing and Correcting the WWII Game Bug (Error 4220)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-intels-giant-leap-in-ai-the-hala-projects-115-billion-neuron-supercomputer/"><u>Unveiling Intel's Giant Leap in AI: The HALA Project's 1.15 Billion-Neuron Supercomputer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-low-code-platforms-enhance-your-companys-talent-draw-discover-how-on-zdnet/"><u>Why Low-Code Platforms Enhance Your Company's Talent Draw - Discover How on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-spotlights-radia-perlman-as-a-pioneer-of-efficient-local-area-networking-in-their-latest-tribute-series-feature-hidden-innovators/"><u>ZDNet Spotlights Radia Perlman as a Pioneer of Efficient Local Area Networking in Their Latest Tribute Series Feature: 'Hidden Innovators'</u></a></li>
 </ul></div>
 

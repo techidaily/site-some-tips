@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Picks for the Ultimate Compact Tablet Collection of 202Amelioxide (C5H6O3), a Compound Where Oxygen Is in Its -Ate Form, as Part of an Organic Molecule that Could Be Used in Pharmaceuticals or Polymers.
-date: 2024-09-18 23:46:59
-updated: 2024-09-20 11:45:47
+date: 2025-01-12T18:27:00.833Z
+updated: 2025-01-18T05:32:40.994Z
 tags:
   - amazon
 categories:
@@ -16,6 +16,10 @@ The saying, "big things come in small packages" is true, especially when it come
 **Also:** [**The best large tablets**](https://www.zdnet.com/article/best-large-tablet/)
 
 The display sizes of small tablets can range from six to 10 inches, with eight inches being the average "small" size. Despite the size, these devices still offer big battery lives, vibrant displays, impressive cameras, and plenty of customizable features for ease of use, no matter what you need a small tablet for. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
 
@@ -35,6 +39,10 @@ Pros
 Cons 
 * Cellular connectivity is additional cost
 * Expensive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple iPad Mini 6th Generation
 
@@ -240,6 +248,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we test these small tablets?
 
 When choosing the best small tablets, ZDNET editors considered our own experiences testing and using these tablets. We do extensive hands-on testing of tablets, including ease using them for work and entertainment, and paying attention to specs like display, battery life, and overall experience while using the tablet.
@@ -247,6 +259,10 @@ When choosing the best small tablets, ZDNET editors considered our own experienc
 For products that we recommend, we write a product spotlight review that we update periodically with new features and pricing information.
 
 For the small tablets we have not gone hands-on with, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -262,6 +278,10 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
@@ -271,6 +291,10 @@ And their lightweight body and compact design make them perfect traveling compan
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -309,11 +333,30 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-comprehensive-guide-ps4-recording-via-obs-studio/"><u>[New] 2024 Approved Comprehensive Guide PS4 Recording via OBS Studio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfecting-the-art-of-capturing-spoken-words-digitally-for-2024/"><u>[New] Perfecting the Art of Capturing Spoken Words Digitally for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-with-loved-ones-easily-sending-messages-via-apple-watch/"><u>Connecting With Loved Ones: Easily Sending Messages via Apple Watch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-top-upgrades-to-every-apple-airpod-model-released-by-cupertino-giants-gadgetguru-exclusive/"><u>Discover the Top Upgrades to Every Apple AirPod Model Released by Cupertino Giants | GadgetGuru Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-strategies-for-developing-visually-stunning-applications-in-the-era-of-apples-visionos-insights-by-zdnet/"><u>Essential Strategies for Developing Visually Stunning Applications in the Era of Apple's VisionOS - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-three-impressive-apple-watch-series-10-features-won-me-over-a-comprehensive-review/"><u>How Three Impressive Apple Watch Series 10 Features Won Me Over - A Comprehensive Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enthralling-soundscapes-win/"><u>In 2024, Enthralling Soundscapes, WIN</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>In 2024, Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>In 2024, Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maximizing-visibility-on-twitter-campaigns-for-2024/"><u>Maximizing Visibility on Twitter Campaigns for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/netgear-nighthawk-c7000-an-authoritative-review-for-unparalleled-wi-fi-experience/"><u>Netgear Nighthawk C7000: An Authoritative Review for Unparalleled Wi-Fi Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-tips-for-saving-the-world-with-a-smile-for-2024/"><u>Quick Tips for Saving the World with a Smile for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-productivity-and-journeying-adventures-discover-our-favorite-xr-visionaries-just-received-3-game-changing-upgrades-expert-analysis/"><u>Transform Your Productivity and Journeying Adventures: Discover Our Favorite XR Visionaries Just Received 3 Game-Changing Upgrades | Expert Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-the-latest-fixes-in-macos-sonoma-144-essential-updates-and-patch-notes-reviewed/"><u>Uncovering the Latest Fixes in macOS Sonoma 14.4: Essential Updates and Patch Notes Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-ios-177-release-could-offer-enhanced-security-over-future-ios-18-update-insights/"><u>Upcoming IOS 17.7 Release Could Offer Enhanced Security Over Future iOS 18 Update Insights</u></a></li>
+</ul></div>
+

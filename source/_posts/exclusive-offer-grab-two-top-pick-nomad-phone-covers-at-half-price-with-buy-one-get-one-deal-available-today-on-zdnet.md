@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Grab Two Top Pick Nomad Phone Covers at Half Price with 'Buy One, Get One' Deal - Available Today on ZDNet!"
-date: 2025-01-11T20:53:49.286Z
-updated: 2025-01-12T16:38:49.914Z
+date: 2025-01-16T16:17:12.256Z
+updated: 2025-01-17T22:34:15.337Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ The promo event includes all of Nomad's [iPhone cases for all models](https://sh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Nomad iPhone cases to shop during the BOGO free event
@@ -49,7 +49,7 @@ ZDNET's Editor-in-Chief Jason Hiner says that the Sport Case for iPhone is prote
 [Leather iPhone Skin View now at Nomad Goods](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fleather-skin-horween-rustic-brown-iphone-13)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,18 +98,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-discover-the-1-5-editors-perfect-for-your-macos-sierra-setup/"><u>[New] Discover the #1-#5 Editors Perfect for Your MacOS Sierra Setup</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-seamless-transformation-from-youtube-to-engaging-personalized-gifs/"><u>2024 Approved Seamless Transformation From YouTube to Engaging, Personalized GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-how-the-latest-iphone-sixteen-elevates-photography-with-its-exclusive-camera-feature-zdnet/"><u>Discover How the Latest iPhone ˈSixteen Elevates Photography with Its Exclusive Camera Feature | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-a-deal-on-your-trackers-24-off-apples-airtag-bundle-at-walmart-for-labor-day-dont-miss-out/"><u>Get a Deal on Your Trackers: $24 Off Apple's AirTag Bundle at Walmart for Labor Day - Don't Miss Out!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-streamlining-audio-gradients-in-ableton/"><u>In 2024, Streamlining Audio Gradients in Ableton</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-technology-with-toms-expertise/"><u>Mastering Technology with Tom’s Expertise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-airpod-resets-essential-tips-and-timely-advice/"><u>Mastering the Art of AirPod Resets: Essential Tips & Timely Advice</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-youtube-watching-iphone-and-android-edition/"><u>Mobile YouTube Watching IPhone & Android Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionize-your-memes-with-these-7-top-gif-creation-techniques/"><u>Revolutionize Your Memes with These 7 Top GIF Creation Techniques</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/step-by-step-installation-of-fight-club-extension-in-kodi-stream-your-favorite-boxing-matches-and-pay-per-view-events/"><u>Step-by-Step Installation of Fight Club Extension in Kodi - Stream Your Favorite Boxing Matches and Pay-Per-View Events</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/thrifty-aetherspace-vault-massive-files-affordably-for-2024/"><u>Thrifty Aetherspace Vault Massive Files Affordably for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-im-not-upgraded-to-an-iphone-16-pro-from-my-iphone-14-yet-a-detailed-look-by-a-zdnet-expert/"><u>Why I'm Not Upgraded To An iPhone 16 Pro From My iPhone 14 Yet: A Detailed Look by a ZDNET Expert</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphoneipad-overheating-solutions-and-prevention-tips/"><u>Why Is My iPhone/iPad Overheating? Solutions & Prevention Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-triggering-instant-play-for-youtube-videos-on-social-media/"><u>[New] 2024 Approved Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instaboomtown-building-community-with-loop-videos/"><u>[New] InstaBoomtown Building Community with Loop Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-smirk-spectacle-catching-the-funniest-twitter-talents/"><u>[New] Smirk Spectacle Catching the Funniest Twitter Talents</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-use-movie-maker-on-windows-11/"><u>[Updated] In 2024, How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-youtube-to-mpeg-format-change/"><u>2024 Approved Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-dll-not-located-top-strategies-for-quick-recovery/"><u>Dealing with 'DLL Not Located': Top Strategies for Quick Recovery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-whats-next-for-apple-in-october-spotlight-on-upcoming-m4-mac-mini-enhanced-ipad-lineup-and-ai-advancements/"><u>Exploring What's Next for Apple in October: Spotlight on Upcoming M4 Mac Mini, Enhanced iPad Lineup, and AI Advancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/huge-savings-await-philips-smart-lighting-now-at-steeply-reduced-prices-on-amazon-get-the-deal-breakdown-with-zdnet/"><u>Huge Savings Await: Philips Smart Lighting Now at Steeply Reduced Prices on Amazon | Get the Deal Breakdown with ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-avoid-social-stress-how-to-unfollow-people/"><u>In 2024, Avoid Social Stress How to Unfollow People</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>In 2024, Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
+<li><a href="https://some-tips.techidaily.com/massive-discount-alert-philips-hue-leds-slashed-by-over-half-on-amazon-exclusive-insight-from-zdnet/"><u>Massive Discount Alert: Philips Hue LEDs Slashed by Over Half on Amazon – Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nhl-partners-with-sap-to-enhance-green-initiatives-through-revolutionary-arena-analytics-software-tech-news/"><u>NHL Partners with SAP to Enhance Green Initiatives Through Revolutionary Arena Analytics Software | Tech News</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-5-best-apps-to-skyrocket-your-productivity-on-windows-10-or-11/"><u>The 5 Best Apps to Skyrocket Your Productivity on Windows 10 or 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-solar-powered-lanterns-reviews-and-buying-guide-techradar/"><u>Top 5 Solar-Powered Lanterns - Reviews & Buying Guide | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-affordable-space-heaters-expert-reviews-and-comparison/"><u>Top 6 Affordable Space Heaters - Expert Reviews & Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726808749474-top-rated-electric-space-heaters-a-comprehensive-review-by-zdnet/"><u>Top-Rated Electric Space Heaters - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-portable-power-station-reviews-and-comparisons-2024s-ultimate-list-techradar/"><u>Top-Rated Portable Power Station Reviews & Comparisons - 2024'S Ultimate List | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-right-portable-generators-for-campers-insider-tips-and-evaluations-by-gearsavvy/"><u>Ultimate Guide to Choosing the Right Portable Generators for Campers: Insider Tips & Evaluations by GearSavvy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-review-on-jackery-explorer-2000-pro-extensive-backup-capacity-vs-portability-concerns/"><u>ZDNet Review on Jackery Explorer 2000 Pro: Extensive Backup Capacity Vs. Portability Concerns</u></a></li>
 </ul></div>
 

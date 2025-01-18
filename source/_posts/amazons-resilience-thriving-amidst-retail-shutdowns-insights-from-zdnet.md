@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Resilience: Thriving Amidst Retail Shutdowns - Insights From ZDNet"
-date: 2024-09-19 19:50:19
-updated: 2024-09-20 12:13:12
+date: 2025-01-15T17:17:54.711Z
+updated: 2025-01-17T17:15:47.187Z
 tags:
   - amazon
 categories:
@@ -11,9 +11,17 @@ thumbnail: https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982
 
 ## Amazon's Resilience: Thriving Amidst Retail Shutdowns - Insights From ZDNet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Amazon Prime cardboard box delivery yellow background](https://www.zdnet.com/a/img/resize/5338a1ecb8fa94e7cae779eb59aec8a9aaf75351/2020/09/18/04cae6ef-b365-4e87-b126-dd3d938ea2cb/rotated-1645547092-istock-1055021000.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Amazon Prime alternatives Not satisfied with the latest Amazon Prime price hike? These alternatives are cheaper, just as fast, and, in many ways, better.  Read now](https://www.zdnet.com/article/best-amazon-prime-alternatives/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the early days of Amazon.com, the faceoff between the e-commerce pioneer and Barnes & Noble was reduced first to a showdown between online pure plays vs. brick-and-mortar retail, and then, after the [launch of Barnesandnoble.com](https://www.cnet.com/tech/services-and-software/barnes-noble-launches-book-site/), online pure plays vs. "bricks and clicks." Fast-forward a few decades and Amazon had become what Bloomberg technology editor Brad Stone popularized as "[the everything store](https://www.cnet.com/tech/services-and-software/bezos-wife-gives-1-star-review-for-the-everything-store-book/)" as Barnes & Noble became one of many retail category leaders to [struggle mightily](https://www.cnet.com/news/can-barnes-noble-save-the-bookstore/).
 
@@ -50,11 +58,26 @@ However, there are at least three reasons why they may stick around for a while,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-sharing-on-social-making-instagram-stories-explode/"><u>[New] 2024 Approved The Art of Sharing on Social Making Instagram Stories Explode</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-video-communication-in-laptop-using-whatsapp-desktop/"><u>[New] In 2024, Streamlining Video Communication in Laptop Using WhatsApp Desktop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>2024 Approved Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-final-cut-pro-x-the-ultimate-guide-for-vertical-video-posts/"><u>2024 Approved Final Cut Pro X The Ultimate Guide for Vertical Video Posts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-high-quality-discover-how-beats-latest-solo-buds-compete-with-sub-100-airpods/"><u>Affordable High-Quality: Discover How Beats' Latest Solo Buds Compete with Sub-$100 AirPods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-review-of-the-apple-macbook-pro-13-with-m2-chip-are-users-with-m1-tech-feeling-left-behind-zdnet-insights/"><u>Comprehensive Review of the Apple MacBook Pro 13 with M2 Chip : Are Users With M1 Tech Feeling Left Behind? | ZDNET Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-digital-art-the-ultimate-2024-picsart-review/"><u>Mastering Digital Art The Ultimate 2024 PicsArt Review</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/multimedia-designers-space/"><u>Multimedia Designer's Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shooting-pro-level-vids-made-easy-apple-integrates-final-cut-into-iphones-a-revolution-in-mobile-filmmaking-techcrunch/"><u>Shooting Pro-Level Vids Made Easy: Apple Integrates Final Cut Into iPhones - A Revolution in Mobile Filmmaking | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-and-improvements-for-apple-vision-pro-to-dominate-the-business-world-according-to-experts-at-zdnet/"><u>Strategies and Improvements for Apple Vision Pro to Dominate the Business World, According to Experts at ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-free-smartphone-photo-enhancers-for-stunning-iphone-selfies-for-2024/"><u>Top FREE Smartphone Photo Enhancers for Stunning iPhone Selfies for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Pro Max</u></a></li>
+</ul></div>
+

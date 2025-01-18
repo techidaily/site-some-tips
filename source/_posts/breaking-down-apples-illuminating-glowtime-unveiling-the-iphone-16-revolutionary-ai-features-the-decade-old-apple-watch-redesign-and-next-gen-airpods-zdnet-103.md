@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods | ZDNET Insights"
-date: 2025-01-06T19:47:33.445Z
-updated: 2025-01-12T16:42:31.721Z
+date: 2025-01-11T21:33:42.077Z
+updated: 2025-01-18T07:59:59.935Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -49,6 +45,10 @@ Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Note
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -64,12 +64,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Mail assistance
@@ -94,31 +98,27 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What will come later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,18 +158,20 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-instagram-videos-online-strategies-for-faster-views/"><u>[New] 2024 Approved Boosting Instagram Videos Online Strategies for Faster Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-content-youtube-movie-maker-101/"><u>[Updated] 2024 Approved Elevate Your Content YouTube Movie Maker 101</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-leading-digital-background-switchers-shutterfix-excellence/"><u>2024 Approved Leading Digital Background Switchers ShutterFix Excellence</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/approach-evaluate-each-factors-relevance-to-seawater-transportation-and-identify-which-is-least-critical/"><u>Approach: Evaluate Each Factor's Relevance to Seawater Transportation and Identify Which Is Least Critical.</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-jokes-new-regulations-from-facebook/"><u>Deciphering Jokes: New Regulations From Facebook</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-revitalizing-past-moments-with-instagram-filters/"><u>In 2024, Revitalizing Past Moments with Instagram Filters</u></a></li>
-<li><a href="https://techidaily.com/is-your-itel-s23plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel S23+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/penning-powerful-film-prospectus-for-2024/"><u>Penning Powerful Film Prospectus for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-triple-function-magsafe-station-power-and-chill-your-ipad-iphone-and-mac-simultaneously/"><u>Revolutionary Triple-Function MagSafe Station: Power and Chill Your iPad, iPhone & Mac Simultaneously</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-for-iphone-cloud-backup-on-apples-services-icloud-mac-digitalsavvy-blog/"><u>Step-by-Step Tutorial for iPhone Cloud Backup on Apple's Services (iCloud, Mac) | DigitalSavvy Blog</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-essential-upgrades-required-for-android-to-challenge-ios-as-the-preferred-smartphone-os/"><u>Top 5 Essential Upgrades Required for Android to Challenge iOS as the Preferred Smartphone OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-skyrocket-engagement-optimizing-videos-for-peak-views/"><u>[New] 2024 Approved Skyrocket Engagement Optimizing Videos for Peak Views</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-precision-adjustments-for-premium-zoom-audio/"><u>[Updated] In 2024, Precision Adjustments for Premium Zoom Audio</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-ig-videos-for-marketing-blueprint-for-victory/"><u>[Updated] Mastering IG Videos for Marketing Blueprint for Victory</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-checklist-for-instagram-popularity-surge/"><u>[Updated] The Ultimate Checklist for Instagram Popularity Surge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leaping-from-low-quality-to-hdri-mastery-your-ultimate-guide/"><u>2024 Approved Leaping From Low Quality to HDRI Mastery - Your Ultimate Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/exploring-service-options-for-cryptocurrency-portfolio-maintenance-a-guide-by-yl-computing/"><u>Exploring Service Options for Cryptocurrency Portfolio Maintenance: A Guide by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-ready-for-the-rise-of-agent-ecosystems-how-ai-powered-systems-will-revolutionize-future-service-industries-zdnet/"><u>Get Ready for the Rise of Agent Ecosystems: How AI-Powered Systems Will Revolutionize Future Service Industries | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/goldman-sachs-chief-technology-officer-predicts-hybrid-ai-and-application-growth-insights-from-zdnet/"><u>Goldman Sachs' Chief Technology Officer Predicts Hybrid AI & Application Growth: Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-your-cpu-slowing-down-your-pc-uncover-the-truth/"><u>Is Your CPU Slowing Down Your PC? Uncover the Truth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/launch-of-anthropics-advanced-tool-utility-for-ai-claude-elevating-virtual-assistant-capabilities/"><u>Launch of AnthroPiC's Advanced Tool Utility for AI 'Claude': Elevating Virtual Assistant Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-e-store-creation-software-how-to-build-and-launch-online-shops-effectively-zdnet-reviews/"><u>Leading E-Store Creation Software : How to Build and Launch Online Shops Effectively | ZDNET Reviews</u></a></li>
+<li><a href="https://fox-links.techidaily.com/logo-innovations-branding-your-podcast-visually/"><u>Logo Innovations Branding Your Podcast Visually</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-ops-strategies-revolutionize-enterprise-tech-environments-amidst-emerging-challenges-insights-for-zdnet-readers/"><u>Rising Ops Strategies Revolutionize Enterprise Tech Environments Amidst Emerging Challenges - Insights for ZDNet Readers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-ecommerce-platforms-of-2022-creating-successful-online-shops-with-expert-tips-zdnet/"><u>Top-Ranked ECommerce Platforms of 2022: Creating Successful Online Shops with Expert Tips - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-2024-predictions-insights-from-gartners-hype-cycle-and-the-future-trajectory-of-artificnial-intelligence-analysis-for-tomorrows-tech-zdnet/"><u>Unveiling the 2024 Predictions: Insights From Gartner's Hype Cycle and the Future Trajectory of Artificnial Intelligence - Analysis for Tomorrow's Tech | ZDNet</u></a></li>
 </ul></div>
 

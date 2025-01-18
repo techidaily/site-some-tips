@@ -1,7 +1,7 @@
 ---
 title: "Digital Timekeeping Triumphs: Why You Should Appreciate the Value of Digital Clocks | Gadget Geeks"
-date: 2024-09-18 10:23:34
-updated: 2024-09-20 10:15:18
+date: 2025-01-10T22:37:04.844Z
+updated: 2025-01-18T02:13:35.463Z
 tags:
   - amazon
 categories:
@@ -21,6 +21,10 @@ Not only does it perform all the usual Alexa features, but it has also solved tw
 
 **Also:** [**The 12 best Echo speakers**](https://www.zdnet.com/home-and-office/home-entertainment/best-amazon-echo/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Setup was easy and friendly 
 
 If you've never set up an Alexa, there's not much to it. You plug the device in. 
@@ -34,6 +38,10 @@ This Dot has a small display, so once it starts up, it says "Hello." This thing'
 It had me at Hello.
 
 David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It's a digital clock 
 
@@ -62,6 +70,10 @@ David Gewirtz/ZDNET
 
 That's where the Alexa clock comes in. I didn't even realize how useful it would be until I set it up after Amazon sent me one to test. I've moved it to a shelf right in my line of sight, and now I have a clock for meetings and I'm not broadcasting that I'm juggling a lot of appointments. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Battery-powered temperature sensors 
 
 My office is upstairs. As a general rule, it's often five to ten degrees warmer upstairs than in the rest of the house. I usually set the temperature to be cozy in the main part of the house, but crank it down during the hot months when I'm heading up to work in my office. 
@@ -77,6 +89,10 @@ I later brought up one of my little [SensorPush trackers](https://buy.geni.us/Pr
 Finally, I brought up a [SmartThings Multipurpose Sensor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAeotec-SmartThings-Window-Sensor-Multipurpose%2Fdp%2FB095TPSQ3S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33e26b2b-887e-4f06-a55a-a3190fea59a0%7Cdtp&dtb=1), which does respond to Alexa and would tell me the temperature upstairs when I asked her. 
 
 But… All three of these use little watch batteries. Those batteries run out fairly often. While they're not hard to change, I found that I just didn't get around to changing them, and so, despite having three temperature sensors in my office, Alexa still couldn't tell me the upstairs temperature. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Always plugged-in Alexa temperature sensor joy 
 
@@ -95,6 +111,10 @@ David Gewirtz/ZDNET
 Now, I can ask, "Alexa, what's the upstairs temperature" from anywhere in the house. Right now, Alexa tells me, "The upstairs temperature is 67.8 degrees."
 
 **Review:** [**Google Nest Learning Thermostat: Can new tech work in an old house?**](https://www.zdnet.com/home-and-office/smart-home/google-nest-learning-thermostat-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A few final thoughts 
 
@@ -137,11 +157,28 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-djs-directive-seamless-shuffling-between-services/"><u>[New] In 2024, DJ's Directive Seamless Shuffling Between Services</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy-for-2024/"><u>[New] Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-20-best-practices-for-facebook-video-advertising/"><u>[Updated] 20 Best Practices for Facebook Video Advertising</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpower-video-update-raises-questions-is-apple-bringing-back-its-previous-wireless-charging-solution-using-qi-technology/"><u>AirPower Video Update Raises Questions - Is Apple Bringing Back Its Previous Wireless Charging Solution Using Qi Technology?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/are-apples-2022-airpods-pro-holding-up-after-two-years-a-comprehensive-review-by-techexpert/"><u>Are Apple's 2022 AirPods Pro Holding Up After Two Years? A Comprehensive Review by TechExpert</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-group-of-16-couch-game-pairings-for-xbox-series/"><u>Elite Group of 16 Couch Game Pairings for XBox Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-new-horizons-in-tablet-technology-with-apples-let-loose-event-discover-the-power-of-m4-ipad-pro-13-inch-ipad-air-and-improved-apple-pencil-pro-gad1/"><u>Exploring New Horizons in Tablet Technology with Apple's 'Let Loose' Event – Discover the Power of M4 iPad Pro, 13-Inch iPad Air, and Improved Apple Pencil Pro | Gadget Roundup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/high-end-faceoff-samsung-galaxy-book-3-ultra-battles-apples-macbook-pro-an-elite-comparison-review/"><u>High-End Faceoff: Samsung Galaxy Book 3 Ultra Battles Apple's MacBook Pro - An Elite Comparison Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-through-youtubes-top-favorite-shorters/"><u>In 2024, Navigating Through YouTube’s Top Favorite Shorters</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-lg-gram-17-large-display-meets-ultraportability/"><u>In-Depth Examination of the LG Gram 17: Large Display Meets Ultraportability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-advanced-siri-shortcuts-for-an-enhanced-iphone-experience-as-revealed-by-zdnet/"><u>Mastering Advanced Siri Shortcuts for an Enhanced iPhone Experience as Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-ios-18-a-step-by-step-guide-to-personalizing-your-iphones-control-center-tips-from-tech-experts/"><u>Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips From Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-clear-advantages-of-going-for-a-2-in-1-tabletlaptop-hybrid-instead-of-a-conventional-notebook/"><u>The Clear Advantages of Going for a 2-in-1 Tablet/Laptop Hybrid Instead of a Conventional Notebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-sticking-with-my-iphone-14-beats-the-hype-of-upgrading-to-an-iphone-16-pro-insights-from-zdnet/"><u>Why Sticking with My iPhone 14 Beats the Hype of Upgrading to an iPhone 16 Pro - Insights From ZDNet</u></a></li>
+</ul></div>
+

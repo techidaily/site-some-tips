@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Hype: Secure Your Apple Watch Series 10 Today with Savings Tips Inside - Learn More on ZDNet"
-date: 2025-01-10T19:54:59.226Z
-updated: 2025-01-12T19:57:35.715Z
+date: 2025-01-10T21:30:01.667Z
+updated: 2025-01-17T19:22:58.235Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-methods-for-saving-google-voice-communication/"><u>[New] 2024 Approved Quick Methods for Saving Google Voice Communication</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-video-boost-the-essential-handbook-for-vce-22/"><u>[New] Mastering Video Boost The Essential Handbook for VCE 2.2</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-superhero-sprouts-top-kid-friendly-gaming-stories-for-2024/"><u>[New] Superhero Sprouts Top Kid-Friendly Gaming Stories for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-twitter-video-snippets-to-lively-animated-gifs/"><u>[Updated] In 2024, From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-introduction-to-plot-and-character-dynamics/"><u>2024 Approved Introduction to Plot and Character Dynamics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-pixelprodigy-smart-ai-driven-photo-edits/"><u>2024 Approved PixelProdigy Smart AI-Driven Photo Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/anticipated-absences-the-missing-titans-of-tomorrows-apple-vision-pro-lineup/"><u>Anticipated Absences: The Missing Titans of Tomorrow's Apple Vision Pro Lineup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-deciding-between-the-powerful-m3-and-efficient-m2-macbook-air-zdnet-expert-analysis/"><u>Apple's Latest: Deciding Between the Powerful M3 and Efficient M2 MacBook Air - ZDNet Expert Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnet/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-your-ideal-apple-thin-client-m3-vs-m2-macbook-air-compared-techadvisor/"><u>Choosing Your Ideal Apple Thin-Client: M3 Vs. M2 MacBook Air Compared | TechAdvisor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-comparison-of-refund-policies-insights-on-amazon-walmart-and-targets-holiday-rules/"><u>Comprehensive Comparison of Refund Policies: Insights on Amazon, Walmart & Target's Holiday Rules</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-secure-boot-the-ultimate-rufus-guidebook/"><u>Conquering Secure Boot: The Ultimate Rufus Guidebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-the-ultimate-collection-of-2023s-best-apps-and-games-selected/"><u>Explore the Ultimate Collection of 2023'S Best Apps & Games Selected</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2010-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2010 document online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-best-microsoft-enterprise-applications-on-iphoneipad/"><u>The Ultimate Guide to the Best Microsoft Enterprise Applications on iPhone/iPad</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-protective-accessories-the-ultimate-guide-to-iphone-12-and-pro-cases-techadvisor/"><u>Top-Rated Protective Accessories: The Ultimate Guide to iPhone 12 & Pro Cases - TechAdvisor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-easy-fixes-apples-enhanced-self-service-repair-with-iphone-15-and-m2-mac-support-tech-insights/"><u>Unlocking Easy Fixes: Apple's Enhanced Self Service Repair with iPhone 15 and M2 Mac Support | Tech Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-world-of-ai-chatbots-why-are-they-preferred-by-users/"><u>Unveiling the World of AI Chatbots: Why Are They Preferred by Users?</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oneplus-11r-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your OnePlus 11R Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] 2024 Approved Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-spectacular-8-cameras-for-professional-live-viewers/"><u>[Updated] 2024 Approved Spectacular 8 Cameras for Professional Live Viewers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-capture-your-linkinscape-content-top-6-tools-for-it/"><u>[Updated] How to Capture Your Linkinscape Content Top 6 Tools for It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-27-significant-metaverse-demonstrations-unveiled/"><u>2024 Approved 27 Significant Metaverse Demonstrations Unveiled</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-6-must-have-tools-for-successful-game-streaming/"><u>2024 Approved 6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>2024 Approved Stay Incognito How to Stream Unnoticed on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerate-programming-tasks-with-generative-ai-understand-the-advantages-and-hidden-dangers-zdnet-perspectives/"><u>Accelerate Programming Tasks with Generative AI: Understand the Advantages & Hidden Dangers | ZDNET Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-towards-consensus-in-open-source-ai-standards-faces-opposition/"><u>Advancing Towards Consensus in Open-Source AI Standards Faces Opposition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/data-science-and-ai-industry-on-the-brink-of-transformation-insights-from-zdnet/"><u>Data Science and AI Industry on the Brink of Transformation – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-mac-pros-unveiling-the-complimentary-ai-upgrade-for-programming-tools-exclusive-news-on-zdnet/"><u>Empowering Mac Pros: Unveiling the Complimentary AI Upgrade for Programming Tools | Exclusive News on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-security-of-linux-vendor-kernels-critical-findings-and-solutions-for-safer-operations-tech-innovate/"><u>Evaluating the Security of Linux Vendor Kernels: Critical Findings and Solutions for Safer Operations | Tech Innovate</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-8-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 8 in the Best Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-mind-of-linux-creator-linus-torvalds-embracing-rust-managing-time-and-a-macbook-air-review-cnet/"><u>Inside the Mind of Linux Creator Linus Torvalds: Embracing Rust, Managing Time & a MacBook Air Review | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-confluence-of-rag-generative-ai-and-business-insight-strategies-from-tech-visionaries-zdnet/"><u>Mastering the Confluence of RAG, Generative AI, and Business Insight: Strategies From Tech Visionaries | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-keeping-windows-time-unchanged/"><u>Mastery over Keeping Windows Time Unchanged</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-companion-for-high-fps-filming-yi-hero/"><u>The Ultimate Companion for High FPS Filming Yi Hero</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-web-development-training-programs-zdnet-exclusive/"><u>Top-Rated Web Development Training Programs | ZDNet Exclusive</u></a></li>
 </ul></div>
 

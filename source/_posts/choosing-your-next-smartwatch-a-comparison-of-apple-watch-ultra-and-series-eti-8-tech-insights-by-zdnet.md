@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Next Smartwatch: A Comparison of Apple Watch Ultra and Series ˈeɪtiː 8 | Tech Insights by ZDNet"
-date: 2025-01-08T19:57:44.859Z
-updated: 2025-01-12T16:00:57.331Z
+date: 2025-01-16T17:57:04.372Z
+updated: 2025-01-18T02:59:34.741Z
 tags:
   - apple
 categories:
@@ -46,13 +46,13 @@ So, if you're eyeing a new smartwatch from one of the big tech giants, which exa
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel Watch if...
 
 Matthew Miller/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You prefer the Google/Android ecosystem
 
@@ -61,10 +61,6 @@ It should come as no surprise that Google intends to build an ecosystem of produ
 As an added bonus, Google will bundle three free months of YouTube Music Premium when you purchase a Pixel Watch. 
 
 **Also:** [**Pixel 7 and Pixel 7 Pro hands-on: The start of Google's walled garden**](https://www.zdnet.com/article/pixel-7-and-pixel-7-pro-hands-on-the-start-of-googles-walled-garden/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want Fitbit's technology for health tracking
 
@@ -83,16 +79,12 @@ Perhaps one of the biggest differences between the Pixel Watch and Apple Watch S
 [Buy the Google Pixel Watch $349 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-watch-black-stainless-steel-smartwatch-41mm-with-obsidian-active-band-wifi-bt-black-obsidian%2F6521697.p%3FskuId%3D6521697&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if...
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You prefer Apple's ecosystem
 
@@ -107,18 +99,26 @@ The Apple Watch Series 8 introduced a new suite of health features geared toward
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want a bigger smartwatch
 
 Besides the distinctive squircle design, the Apple Watch Series 8 comes in [41mm and 45mm sizes](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), while the Google Pixel Watch only comes in a 41mm model. If you want a larger display for scanning text and swift interaction, the Apple Watch is the bigger and better option. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  4\. You want crash detection
 
 Another feature that is exclusive to the Apple Watch Series 8 is its [crash detection feature](https://www.zdnet.com/article/apple-announces-a-brand-new-life-saving-feature-crash-detection/). With built-in accelerometers and G force detection, the Apple Watch Series 8 can detect if you've been in a car crash and will even contact emergency services. While the Google Pixel Watch says a fall detection feature is coming this winter, Apple's crash detection is already up and working for more severe instances. If you want your watch to double as a life-alert tool, the Series 8 is the one to buy. 
 
 [Buy the Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,24 +156,17 @@ Another feature that is exclusive to the Apple Watch Series 8 is its [crash dete
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-synthesize-sounds-and-images-in-ppts/"><u>[New] 2024 Approved Synthesize Sounds and Images in PPTS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-harness-high-quality-artwork-at-no-cost/"><u>[New] How to Harness High-Quality Artwork at No Cost</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-formulating-engaging-visual-strategies-in-fb-marketing-for-2024/"><u>[Updated] Formulating Engaging Visual Strategies in FB Marketing for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-tech-for-distance-casting-for-2024/"><u>[Updated] Navigating the Tech for Distance Casting for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-unexpected-liquid-found-in-iphone-charger-port-solutions-and-fixes/"><u>1. Unexpected Liquid Found in iPhone Charger Port: Solutions and Fixes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-high-performance-tablets-in-2-cups-6-x-34-cup-butter-softened/"><u>Affordable High-Performance Tablets in 2 Cups (6 X 3/4 Cup) Butter, Softened</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-ogg-audio-to-high-quality-aiff-for-free-with-movavis-web-service/"><u>Convert OGG Audio to High-Quality AIFF for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-2nd-gen-apple-pencil-now-limited-labor-day-offer-price-caps-at-only-95-shop-smart-with-zdnet/"><u>Get Your Hands on the 2Nd Gen Apple Pencil Now! Limited Labor Day Offer Price Caps at Only $95 – Shop Smart with ZDNET.</u></a></li>
-<li><a href="https://discover-community.techidaily.com/hd-freddy-krueger-wallpapers-and-imagery-high-quality-graphics-by-yl-computing/"><u>HD Freddy Krueger Wallpapers and Imagery - High-Quality Graphics by YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-mini-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 mini With 7 Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/huge-discount-alert-apple-m2-powered-macbook-air-now-just-800-before-october-non-prime-deals-unveiled-techbargains/"><u>Huge Discount Alert: Apple M2-Powered MacBook Air Now Just $800 Before October - Non-Prime Deals Unveiled! | TechBargains</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hybrid-work-environments-the-ideal-thinkpad-picks-that-arent-just-brand-new-models/"><u>Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-15-insider-analysis-exceptional-performance-and-features-that-impress-both-novices-and-experts-zdnet-exclusive/"><u>IPhone 15 Insider Analysis: Exceptional Performance & Features That Impress Both Novices and Experts - ZDNet Exclusive</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>New In 2024, The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-communication-how-ios-18-allows-phone-calls-to-be-recorded-in-app-expert-analysis-by-zdnet/"><u>Revolutionizing Communication: How iOS 18 Allows Phone Calls to Be Recorded In-App | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-integrating-your-icloud-notes-into-linux-systems/"><u>Step-by-Step Tutorial: Integrating Your iCloud Notes Into Linux Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/study-smart-with-technology-the-9-best-electronic-tools-and-accessories-for-learners/"><u>Study Smart with Technology: The 9 Best Electronic Tools and Accessories for Learners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/through-the-lens-of-a-day-long-apple-vision-pro-experience-expectations-vs-reality-on-zdnet/"><u>Through the Lens of a Day-Long Apple Vision Pro Experience: Expectations Vs. Reality on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-in-apples-product-portfolio-saying-goodbye-to-finewoven-cases-and-embracing-the-new-era-of-beats-accessories-as-covered/"><u>Transition in Apple's Product Portfolio: Saying Goodbye to FineWoven Cases and Embracing the New Era of Beats Accessories as Covered</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-broadcast-software-beyond-standard-obs/"><u>[New] Broadcast Software Beyond Standard OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-how-to-record-share-and-edit-mobile-content-for-2024/"><u>[New] Snapchat How to Record, Share & Edit Mobile Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-start-small-livestreaming-on-youtube-with-fewer-than-1k-followers/"><u>[New] Start Small Livestreaming on YouTube with Fewer Than 1K Followers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-effective-system-to-integrate-gopro-video-into-fully-rotational-cinematic-pieces/"><u>[Updated] In 2024, Effective System to Integrate GoPro Video Into Fully Rotational Cinematic Pieces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-hardware-choices-for-uhd-editors/"><u>2024 Approved Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/approaching-a-milestone-in-open-source-ai-agreement-facing-opposition-amongst-experts-zdnet/"><u>Approaching a Milestone in Open Source AI Agreement - Facing Opposition Amongst Experts | ZDNet</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/revive-broken-mov-movies-in-minutes-with-these-4-effective-repair-techniques/"><u>Revive Broken MOV Movies in Minutes with These 4 Effective Repair Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-road-to-standardizing-open-source-ai-is-paved-with-disagreements-the-latest-developments-explained-zdnet/"><u>The Road to Standardizing Open Source AI Is Paved with Disagreements: The Latest Developments Explained | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-living-rooms-how-google-evolves-televisions-into-centralized-home-hubs-for-developers-targeting-over-half-a-billion-smart-products-insights-fro44/"><u>Transforming Living Rooms: How Google Evolves Televisions Into Centralized Home Hubs for Developers Targeting Over Half a Billion Smart Products - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-shift-a-review-of-programming-language-trends-from-2016-onwards-and-insights-for-the-future/"><u>Understanding the Shift: A Review of Programming Language Trends From 2016 Onwards & Insights for the Future</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-career-potential-in-tech-with-learning-these-critical-3-programming-languages-zdnet/"><u>Unlock Your Career Potential in Tech with Learning These Critical 3 Programming Languages | ZDNet</u></a></li>
 </ul></div>
 

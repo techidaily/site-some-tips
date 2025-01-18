@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Download Instructions and Device Checker | CNET
-date: 2024-12-15T23:22:15.976Z
-updated: 2024-12-22T03:20:40.292Z
+date: 2025-01-17T03:00:42.633Z
+updated: 2025-01-17T22:08:16.535Z
 tags:
   - apple
 categories:
@@ -26,19 +26,23 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -47,6 +51,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -60,15 +68,15 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -77,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -94,7 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,24 +161,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guiding-iphone-and-android-owners-to-fix-video-sending-problems-in-fb-chat/"><u>[New] Guiding iPhone & Android Owners to Fix Video Sending Problems in FB Chat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>[New] Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-experts-handbook-for-srt-file-conversions-for-2024/"><u>[New] The Expert's Handbook for SRT File Conversions for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-boost-creativity-how-to-use-movie-maker-on-windows-8/"><u>[Updated] Boost Creativity How to Use Movie Maker on Windows 8</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-fb-video-conversion-to-mp3-format/"><u>[Updated] Step-by-Step FB Video Conversion to MP3 Format</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-artists-chromatic-companion/"><u>[Updated] The Artist's Chromatic Companion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-process-making-high-impact-educational-videos-on-youtube/"><u>[Updated] Unveiling the Process Making High-Impact Educational Videos on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-zoom-on-chrome-devices/"><u>2024 Approved Top Tips for Zoom on Chrome Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tuneful-texts-musical-infusion-on-whatsapp/"><u>2024 Approved Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>2024 Approved Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975121669-access-the-newest-compatible-gigabyte-network-drivers-download-now/"><u>Access the Newest Compatible Gigabyte Network Drivers – Download Now</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-c65-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco C65 Phone that is Locked?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-reimagining-mobile-photoshopping-iphone-x-insights/"><u>In 2024, Reimagining Mobile Photoshopping IPhone X Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tweaking-video-speed-settings-on-netflix-mobile-and-desktop-app/"><u>In 2024, Tweaking Video Speed Settings on Netflix Mobile & Desktop App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-with-our-selection-of-18-premier-cam-recording-apps/"><u>In 2024, Unleash Creativity with Our Selection of #18 Premier Cam Recording Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/filmed-flair-tips-for-captivating-solo-videos-for-2024/"><u>Self-Filmed Flair Tips for Captivating Solo Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/swinging-sparrow-suites-for-2024/"><u>Swinging Sparrow Suites for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-creative-potential-with-top-rated-gif-makers-for-2024/"><u>Unlocking Creative Potential with Top-Rated GIF Makers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-money-smart-sports-photography-innovation-on-a-dime/"><u>[New] Money-Smart Sports Photography - Innovation on a Dime</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-techniques-screen-recording-in-google-meet/"><u>[Updated] 2024 Approved Efficient Techniques Screen Recording in Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pro-video-recording-software-for-mp4/"><u>2024 Approved Pro Video Recording Software for MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/android-users-face-a-new-era-as-gemini-takes-over-from-google-assistant-insights-from-zdnet-analysis/"><u>Android Users Face a New Era as Gemini Takes Over From Google Assistant, Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capturing-adventures-a-close-look-at-panasonics-hx-a1-for-2024/"><u>Capturing Adventures A Close Look at Panasonic's HX-A1 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/cutting-edge-tools-for-online-subtitle-editing-for-2024/"><u>Cutting-Edge Tools for Online Subtitle Editing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-to-start-using-googles-gemini-chatbot-immediately-at-no-cost-a-comprehensive-guide-on-zdnet/"><u>Discover How to Start Using Google's Gemini Chatbot Immediately at No Cost – A Comprehensive Guide on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-instructions-for-setting-up-im-away-messages-in-gmail-webhow/"><u>Easy Instructions for Setting Up 'I'm Away' Messages in Gmail | WebHow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-productivity-on-the-go-a-step-by-step-guide-to-building-google-doc-templates-for-free-with-g-suite-workspace-tips-by-zdnet/"><u>Enhance Productivity on the Go: A Step-by-Step Guide to Building Google Doc Templates for Free with G Suite Workspace – Tips by ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends-for-2024/"><u>Farming Fun & Friendship The Best AgriGames to Bond With Friends for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/galaxy-fold-vs-google-pixel-samsungs-answer-to-innovation-pcmag-review/"><u>Galaxy Fold Vs. Google Pixel: Samsung's Answer to Innovation | PCMag Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-infuse-your-slides-with-clear-voice-communication/"><u>In 2024, Infuse Your Slides with Clear Voice Communication</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-x-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone X Is Unlocked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-connecting-your-google-drive-to-slack-tips-and-tricks-from-zdnet/"><u>Seamlessly Connecting Your Google Drive to Slack | Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-email-experience-with-this-one-effortless-technique-say-goodbye-to-messy-inboxes-no-rules-required/"><u>Transform Your Email Experience with This One Effortless Technique - Say Goodbye to Messy Inboxes, No Rules Required!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-iphone-xs-advanced-photography-tools/"><u>Unveiling iPhone X's Advanced Photography Tools</u></a></li>
 </ul></div>
 

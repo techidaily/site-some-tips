@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2025-01-08T17:15:54.038Z
-updated: 2025-01-12T19:24:24.236Z
+date: 2025-01-13T19:02:17.115Z
+updated: 2025-01-17T22:39:04.811Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,16 +120,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-optimizing-board-use-on-zoom-desktopiosandroid-techniques/"><u>2024 Approved Optimizing Board Use on Zoom - Desktop/iOS/Android Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/bluestacks-stability-solutions-a-step-by-step-guide-for-swift-fixes-in-5-steps/"><u>BlueStacks Stability Solutions: A Step-by-Step Guide for Swift Fixes in 5 Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-enhanced-airpods-top-4-improved-features-revealed-by-tech-giant/"><u>Discover Apple's Enhanced AirPods: Top 4 Improved Features Revealed by Tech Giant</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eager-to-switch-on-vision-pros-journey-setting-essential-tips-and-expectations-you-should-know-beforehand-exploration/"><u>Eager To Switch On Vision Pro's Journey Setting? Essential Tips & Expectations You Should Know Beforehand Exploration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-steps-to-enhance-complexity-in-your-apple-watch-insights/"><u>Easy Steps to Enhance Complexity in Your Apple Watch - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exposed-and-protected-how-to-discover-if-an-airtag-has-been-used-for-stalking/"><u>Exposed & Protected: How To Discover If An AirTag Has Been Used For Stalking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-gebaseerd-mkv-in-mp4-omzetten-onlinerevisie-met-movavi/"><u>Gratuit Gebaseerd MKV-In MP4 Omzetten - Onlinerevisie Met Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipados-18-unveiled-at-wwdc-2024-the-game-changing-feature-that-could-convert-you-to-apple/"><u>IPadOS 18 Unveiled at WWDC 2024: The Game-Changing Feature That Could Convert You to Apple!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/prestigious-music-archives-for-vfx-artists-for-2024/"><u>Prestigious Music Archives for VFX Artists for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-roadmap-for-success-boosting-vision-pros-appeal-with-apple-insights/"><u>The Roadmap for Success: Boosting Vision Pro's Appeal with Apple - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-worth-reconsidering-before-purchase-insights-by-zdnet/"><u>Top 4 Apple Devices Worth Reconsidering Before Purchase - Insights by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>[New] Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>[Updated] Accelerating Your Creative Process A Guide to Crafting Fast Google Collage Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-remove-black-bars-from-existing-youtube-videos/"><u>[Updated] How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-swift-google-collage-compilation/"><u>[Updated] The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-x100-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo X100 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hurry-up-top-shops-for-same-day-gift-dispatch-highlighted-by-zdnet/"><u>Hurry Up! Top Shops for Same-Day Gift Dispatch Highlighted by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-google-pixel-fold-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Google Pixel Fold Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/joint-efforts-by-singapore-and-the-us-to-thwart-international-online-scams-insights-from-zdnet/"><u>Joint Efforts by Singapore and the US to Thwart International Online Scams – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-amazon-prime-day-deals-for-profit-a-guide-to-earning-cash-with-online-shares-insights-from-zdnet/"><u>Leverage Amazon Prime Day Deals for Profit: A Guide to Earning Cash with Online Shares - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-experience-with-temus-off-brand-tech-gadgets-surprisingly-satisfactory/"><u>My Experience with Temu's Off-Brand Tech Gadgets - Surprisingly Satisfactory!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-to-tiktoks-post-upload-quality-issues-revolutionary-fixes-and-insights/"><u>Say Goodbye to TikTok's Post-Upload Quality Issues: Revolutionary Fixes and Insights!</u></a></li>
 </ul></div>
 

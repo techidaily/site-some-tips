@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Benefits of Amazon Business: A Comprehensive Guide by ZDNet"
-date: 2024-09-18 14:12:29
-updated: 2024-09-20 11:48:23
+date: 2025-01-11T19:27:13.889Z
+updated: 2025-01-17T22:18:06.308Z
 tags:
   - amazon
 categories:
@@ -25,6 +25,10 @@ Read on for our breakdown of Amazon Business' -- and Business Prime's -- unique 
 
 Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Amazon Business works: An overview   
 
 As the name suggests, [Amazon Business](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fbusiness.amazon.com%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C19cf1428-fbaa-4068-9053-3504ddb5449b%7Cdtp&dtb=1) works best for businesses and serves customers in the US, Canada, Japan, India, Germany, Spain, United Kingdom, France, and Italy. 
@@ -32,6 +36,10 @@ As the name suggests, [Amazon Business](https://buy.geni.us/Proxy.ashx?TSID=3682
 Amazon Business is best for businesses that want direct access to bulk items, restricted sellers, controls and monitoring of spending across multi-users, and spending analytics to follow. 
 
 **Also:** [**Amazon Prime vs. Amazon Business Prime: Everything you need to know**](https://www.zdnet.com/article/amazon-prime-vs-amazon-business-prime-price-cost-benefits-perks-how-to-get/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the difference between traditional Amazon and the Business platform? 
 
@@ -44,6 +52,10 @@ Amazon Business and its premium Business Prime strive to be a one-stop shop that
 You can even watch a livestream via Amazon Business. 
 
 Shutterstock
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Business key features' benefits...and costs
 
@@ -65,6 +77,10 @@ When it comes to pricing, Amazon Business customers also get exclusive discounts
 * **Progressive discounts:** A rewards-program concept, Amazon Business offers progressive discounts on products, determined by the company's order-volume over the past calendar year. Beware that these deals are restricted to certain items of certain quantities.
 * **Repeat deliveries:** You can get a 5% discount on any usual monthly deliveries.
 * **Negotiation still works:** Like with many traditional business supply partnerships, Amazon Business also allows for negotiation. If you have a pre-existing relationship, or fall into a particular customer niche (licensed hairdresser, for example), you can work with the seller directly to negotiate a price not listed on the Business storefront.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Business Prime benefits and signing up
 
@@ -141,6 +157,10 @@ Since Amazon Business is designed for customers to order in bulk, if your order 
 
 If you're convinced that Amazon Business is a productive tool worth the investment, here's how to get set up. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Amazon Business webpage
 
 To get started, head to the [Amazon Business Website](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fbusiness%2Fregister%2Forg%2Flanding%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C19cf1428-fbaa-4068-9053-3504ddb5449b%7Cdtp&dtb=1). 
@@ -169,6 +189,10 @@ Once you're signed into your business account, select "Account settings" from th
 
 If you want a detailed report on shipping, product, and seller information, make sure to click the "Orders" menu option directly OR select "Business analytics." 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Manage multiple in groups
 
 On your Amazon Business Prime interface, go to the "people" page to manage how many people have access, and to what extent they have control. 
@@ -179,11 +203,19 @@ On your Amazon Business Prime interface, go to the "people" page to manage how m
 * Select the person's username (must already be registered), and then select "Add to another group."
 * From there, you can assign the applicable roles in that group and then select "Add to group" to seal the deal. Of course, you can always repeat the process to make further edits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Browse and shop
 
 Once you get your settings squared away, you're free to browse and shop. As with Amazon's regular website, you can shop by seller credentials, meaning you can shop and support Black, women-owned, and local businesses directly through Amazon. After adding your products to your cart, the check-out process is indistinguishable from Amazon's typical process. 
 
 Make sure that the address is correct and payment information is set up in a way that's easiest for your business. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -194,6 +226,10 @@ Signing up for Amazon Business is free, but Business Prime costs an annual fee a
 ## How do I join Amazon Business?
 
 Head to the Amazon Business website, enter the email address you want to be linked to your business account -- usually use your work address. Within 24 hours, Amazon will notify you that your account has been verified
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Amazon Business service?
 
@@ -224,11 +260,31 @@ Different than Amazon Business or Business Prime, an Amazon Storefront is part o
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-accelerating-ar-development-leveraging-custom-luts/"><u>[New] Accelerating AR Development Leveraging Custom LUTs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-captivating-captions-elevate-your-pages-popularity/"><u>[Updated] Crafting Captivating Captions Elevate Your Page's Popularity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-gold-standard-of-livestream-performances-for-2024/"><u>[Updated] Gold Standard of Livestream Performances for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-11-pro-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/esr-halolock-the-ultimate-multi-card-iphone-wallet-with-a-dual-functional-adjustable-phone-support-system-review/"><u>ESR HaloLock: The Ultimate Multi-Card iPhone Wallet with a Dual Functional Adjustable Phone Support System Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721391744762-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-moto-g14-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Moto G14 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/kostenlose-dvd-extrahierungssoftware-keine-wdr-beeintrachtigung-bei-dvd-formatumwandlung/"><u>Kostenlose DVD Extrahierungssoftware - Keine WDR-Beeinträchtigung Bei DVD Formatumwandlung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-parallels-desktop-18-seamless-windows-11-integration-for-your-m1-and-intel-mac-expert-tutorial-by-zdnet/"><u>Mastering Parallels Desktop 18: Seamless Windows 11 Integration for Your M1 and Intel Mac - Expert Tutorial by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-pressure-cooker2-not-opening-diagnose-and-repair-your-gaming-setup/"><u>Modern Warfare Pressure Cooker2 Not Opening - Diagnose and Repair Your Gaming Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-apples-portables-expert-advice-compared-between-macbook-pro-and-macbook-air/"><u>Navigating Through Apple's Portables: Expert Advice Compared Between MacBook Pro and MacBook Air</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-adobe-premiere-pro-cs6-mac-version-get-it-free-for-2024/"><u>New Adobe Premiere Pro CS6 Mac Version Get It Free for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-groundbreaking-google-pixel-9-leading-the-charge-with-satellite-emergency-calling-feature/"><u>The Groundbreaking Google Pixel 9: Leading the Charge with Satellite Emergency Calling Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-adapters-expert-testing-and-in-depth-reviews-by-techradar/"><u>Top Rated MagSafe Adapters - Expert Testing & In-Depth Reviews by TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-transforming-your-home-office-with-ipad-pro-insights-and-tips-from-zdnet/"><u>Ultimate Guide: Transforming Your Home Office with iPad Pro - Insights & Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-tg-pro-get-75-off-on-cyber-monday-the-ultimate-deal-for-your-m3-mac-zdnet/"><u>Unlock the Power of TG Pro: Get 75% Off on Cyber Monday – The Ultimate Deal for Your M3 Mac | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-iphone-14-plus-is-your-best-bet-exclusive-features-and-cost-benefits-explained-insights/"><u>Why iPhone 14 Plus Is Your Best Bet: Exclusive Features & Cost Benefits Explained - Insights</u></a></li>
+</ul></div>
+

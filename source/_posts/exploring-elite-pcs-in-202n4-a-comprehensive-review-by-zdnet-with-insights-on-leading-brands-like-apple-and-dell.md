@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elite PCs in 202N4: A Comprehensive Review by ZDNet with Insights on Leading Brands Like Apple and Dell"
-date: 2025-01-10T16:04:10.531Z
-updated: 2025-01-12T18:12:28.449Z
+date: 2025-01-12T21:20:50.091Z
+updated: 2025-01-18T11:09:15.111Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -39,10 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -63,10 +59,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -83,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -95,6 +91,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -106,6 +106,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -120,7 +124,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -134,10 +138,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -210,16 +210,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-professional-insights-top-10-igtv-pros/"><u>[New] 2024 Approved Professional Insights Top 10 IGTV Pros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-speedy-sonic-tuning-devices-index-pc-tablet/"><u>2024 Approved Speedy Sonic Tuning Devices Index (PC, Tablet)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enjoy-apples-innovative-3d-spatial-content-on-your-meta-quest-vr-headset-a-step-by-step-guide-to-viewing/"><u>Enjoy Apple's Innovative 3D Spatial Content on Your Meta Quest VR Headset: A Step-by-Step Guide to Viewing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-ios-181-preview-version-featuring-enhanced-apple-algorithms-start-testing-today/"><u>Get Your Hands on the IOS 18.1 Preview Version Featuring Enhanced Apple Algorithms - Start Testing Today!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-guide-to-recording-gotomeet-sessions/"><u>In 2024, Essential Guide to Recording GoToMeet Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-14-evaluation-adequate-performance-for-users-needs-as-analyzed-reviewers/"><u>IPhone 14 Evaluation: Adequate Performance for Users' Needs, as Analyzed Reviewers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211268467-9798893959512-mining-for-meaning/"><u>Mining for Meaning | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-strategy-facebook-enables-music-earnings-exchange/"><u>New Strategy: Facebook Enables Music Earnings Exchange</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamped-apple-carplay-unveiled-top-features-revealed-during-wwdc-2024-highlights-tech-news/"><u>Revamped Apple CarPlay Unveiled: Top Features Revealed During WWDC 2024 Highlights - Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/thin-is-in-testing-out-apples-slimmest-ipads-ever-at-an-official-store-zdnet-insights/"><u>Thin Is In: Testing Out Apple’s Slimmest iPads Ever at an Official Store | ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-perfecting-your-tiktok-duet-skills/"><u>Unlocking the Secrets: Perfecting Your TikTok Duet Skills</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-youtube-income-lessons-from-sourav-joshi/"><u>[New] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-filmmaker-mode-crafting-viral-tiktok-reactions-with-filmora/"><u>[Updated] 2024 Approved Mastering Filmmaker Mode Crafting Viral TikTok Reactions with Filmora</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-simple-steps-for-a-memorable-youtube-channel-url/"><u>2024 Approved Simple Steps for a Memorable YouTube Channel URL</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723032933461-displacement-pumps-move-a-fixed-volume-of-fluid-with-each-cycle-providing-a-consistent-flow-rate/"><u>Displacement Pumps Move a Fixed Volume of Fluid with Each Cycle, Providing a Consistent Flow Rate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-product-quests-unveiling-amazons-new-features-to-revolutionize-your-online-experience-zdnet/"><u>Effortless Product Quests: Unveiling Amazon's New Features to Revolutionize Your Online Experience | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-package-collection-and-delivery-with-doordash-a-comprehensive-guide/"><u>Free Package Collection & Delivery with DoorDash: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-mcdonalds-revolutionized-customer-experience-for-a-few-a-deep-dive-by-zdnet/"><u>How McDonald’s Revolutionized Customer Experience for a Few - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-6s-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 6s and iPad?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95689785-9781440536519-love-astrology-pisces/"><u>Love Astrology: Pisces | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsofts-copilot-balancing-user-assistance-with-sales-tactics-insights-from-zdnet/"><u>Microsoft's Copilot: Balancing User Assistance with Sales Tactics - Insights From ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-how-to-edit-audio-of-a-video-on-fcp/"><u>Updated 2024 Approved How to Edit Audio of a Video on FCP</u></a></li>
 </ul></div>
 

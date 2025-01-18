@@ -1,7 +1,7 @@
 ---
 title: 5 Convinced Myself and My Child of Smart Displays | Tech Insights From ZDNet
-date: 2024-09-19 13:39:17
-updated: 2024-09-20 12:16:15
+date: 2025-01-16T20:24:09.307Z
+updated: 2025-01-17T20:21:31.787Z
 tags:
   - amazon
 categories:
@@ -83,6 +83,10 @@ Lastly, the latest version of the Amazon Show has an additional microphone for i
 
 Asking Alexa to "make ice" on any of my other devices immediately springs [my fancy ice maker](https://www.zdnet.com/home-and-office/kitchen-household/i-bought-a-600-smart-ice-maker-and-its-as-luxurious-as-id-hoped/) to life. When I asked the Show to do the same thing, Alexa either didn't respond at all or happily chirped "Sure!," only for nothing to happen. And many times, when I was only a few feet away from my Show in the kitchen, I found my living room Echo, a good 20 feet away, responding instead. That's certainly not a deal-breaker, but it was a tad frustrating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Overall though, I couldn't be happier with the latest [Amazon Echo Show](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAll-new-release-display-clearer-Glacier%2Fdp%2FB09B2QTGFY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb5e622ef-ca3d-4afd-baa3-abc9a1c12826%7Cdtp&dtb=1). Prior to actually using the device, I wasn't entirely sold on the visual side of Amazon's devices and was perfectly content with audio only. But now, the Show's screen has become a daily part of my routine whether it's pausing to look at a photo scrolling on the screensaver, video chatting with my parents while I cook dinner, or seeing my calendar for the day. 
@@ -108,11 +112,23 @@ Overall though, I couldn't be happier with the latest [Amazon Echo Show](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-from-ordinary-to-stunning-photo-tile-magic-for-2024/"><u>[New] From Ordinary to Stunning Photo Tile Magic for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-detailed-guide-to-whatsapps-audio-chat-features/"><u>[Updated] Detailed Guide to WhatsApp's Audio Chat Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-eliminated-non-display-of-shorts-videos-for-2024/"><u>[Updated] Eliminated Non-Display of Shorts Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-behind-the-scenes-look-at-dji-inspire-2/"><u>2024 Approved Behind-the-Scenes Look at DJI Inspire 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-grab-tg-pro-at-a-steep-discount-of-75-this-cyber-monday-a-game-changer-for-your-m3-mac-spotted-by-zdnet/"><u>Don't Miss Out: Grab TG Pro at a Steep Discount of 75% This Cyber Monday - A Game-Changer for Your M3 Mac, Spotted by ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-6-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 6 Plus without Apple Account</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-showdown-in-depth-comparison-of-macbook-pro-vs-macbook-air-to-determine-which-suits-you-best-zdnet/"><u>MacBook Showdown: In-Depth Comparison of MacBook Pro Vs. MacBook Air to Determine Which Suits You Best | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-vpn-profiles-on-macos-for-enhanced-connectivity-options-tips-and-tricks/"><u>Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secrets-behind-apples-robust-defense-of-user-ai-information-in-the-cloud-explored/"><u>The Secrets Behind Apple's Robust Defense of User AI Information in the Cloud - Explored</u></a></li>
+</ul></div>
+

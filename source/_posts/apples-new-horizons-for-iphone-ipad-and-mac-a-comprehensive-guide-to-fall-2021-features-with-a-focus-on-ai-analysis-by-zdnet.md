@@ -1,7 +1,7 @@
 ---
 title: "Apple's New Horizons for iPhone, iPad & Mac: A Comprehensive Guide to Fall 2021 Features with a Focus on AI | Analysis by ZDNET"
-date: 2025-01-10T18:59:46.452Z
-updated: 2025-01-12T16:48:02.922Z
+date: 2025-01-14T22:27:04.387Z
+updated: 2025-01-18T02:08:09.693Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ more buying choices
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -47,10 +47,6 @@ With a portable feel and increased base storage, the versatile [iPad Air (2024)]
 **Also: [iPad Pro (2024) review: Apple's most advanced tablet is no MacBook, and I'm okay with that](https://www.zdnet.com/article/ipad-pro-2024-review/)**
 
 That said, while this iPad Air certainly doesn't outperform the iPad Pro -- it shouldn't -- it doesn't significantly outshine the previous Air model or other cheaper iPads. But if you want a lightweight, big-screen iPad with most of the Apple fix-ins, this year's model may be the most reasonable option for consumers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -67,9 +63,17 @@ That said, while this iPad Air certainly doesn't outperform the iPad Pro -- it s
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPad Air (2024)
 
 I tested the iPad Air daily for a few weeks, using various productivity apps to write and work, browse, play games, and more. Benchmark testing included performance comparisons with an older iPad (8th generation) and the Samsung Galaxy Tab S9 Ultra. My review unit is the 11-inch model, though Apple also sells a larger 13-inch size this year. It helps that Apple kept the specifications across both configurations mostly the same, including the processor, RAM and storage, rated battery life, and cameras.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPad Air's (2024) best features?
 
@@ -116,7 +120,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -137,10 +141,6 @@ Maria Diaz/ZDNET
 
 You can set up Touch ID with both hands so that you don't have to reach over with the same hand whenever you need to unlock it, but I'd prefer to lift my tablet and have it recognize my face to unlock in a seamless manner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Final thought
 
 After testing the latest [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-11-inch-ipad-pro-4th-generation-m2-chip-wi-fi-128gb-silver%2F5498402.p%3FskuId%3D5498402&publisher_slug=itechdaily19598&exclusive=1), the biggest reason to upgrade from an older model, is the larger 13-inch size option. What was once an iPad Pro benefit has now come downmarket to a price tier that's much more accessible.
@@ -148,7 +148,7 @@ After testing the latest [iPad Air](https://shop-links.co/link/?url=https%3A%2F%
 I also recommend that existing users, including those who own the 2022 model, hold off on upgrading. Besides the larger screen configuration, there's no generational difference between this year's iPad and the one from two years ago.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -185,20 +185,24 @@ I also recommend that existing users, including those who own the 2022 model, ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-videography-101-editing-essentials-taught/"><u>[New] 2024 Approved YouTube Videography 101 Editing Essentials Taught</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-evaluating-video-editing-tools-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Evaluating Video Editing Tools Bandicam vs Camtasia</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment/"><u>[Updated] In 2024, Pushing the Boundaries Animated FB Ads That Increase Return on Investment</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-role-of-cdn-in-reducing-web-page-load-times/"><u>[Updated] The Role of CDN in Reducing Web Page Load Times</u></a></li>
-<li><a href="https://some-tips.techidaily.com/349-ipad-steals-the-show-at-apples-exciting-set-free-launch-insider-details-by-zdnet/"><u>$349 iPad Steals the Show at Apple's Exciting 'Set Free' Launch - Insider Details by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-complete-guide-restoring-apple-watch-settings-tips-and-tricks-from-zdnet/"><u>1. Complete Guide: Restoring Apple Watch Settings - Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-experts-choice-androids-best-large-group-calling/"><u>2024 Approved Expert's Choice Android's Best Large Group Calling</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-80-pro-straight-screen-edition-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor 80 Pro Straight Screen Edition FRP Bypass Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-airpower-revival-unveiling-new-evidence-on-qi-wireless-charging-mat-comeback-engadget-news/"><u>Apple's AirPower Revival: Unveiling New Evidence on Qi Wireless Charging Mat Comeback | Engadget News</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/einfache-anleitung-zum-erstellen-einer-windows-11-boot-festplatte-mit-rufus/"><u>Einfache Anleitung Zum Erstellen Einer Windows 11 Boot-Festplatte Mit Rufus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-guide-to-choosing-an-ipad-featuring-apples-latest-m2-tablet-marvel-techradar/"><u>Expert Analysis: The Ultimate Guide to Choosing an iPad, Featuring Apple’s Latest M2 Tablet Marvel | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/section-4a-dielectric-materials-in-capacitors/"><u>Section 4A: Dielectric Materials in Capacitors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y100i-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y100i</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights-from-zdnet/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upgrading-your-wrist-tech-comparing-the-apple-watch-series-10-vs-series-8-whats-new-and-improved/"><u>Upgrading Your Wrist Tech: Comparing the Apple Watch Series 10 Vs. Series 8 - What's New and Improved?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels-for-2024/"><u>[New] The Savvy Seeker's Guide to Spotting Superb Photos on Pexels for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-streamlining-the-process-of-updating-tiktok-profile-age/"><u>[Updated] In 2024, Streamlining the Process of Updating TikTok Profile Age</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assisted-poem-writing-techniques-using-chatgpt/"><u>AI-Assisted Poem Writing Techniques Using ChatGPT</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-analytics-optimized-by-cookiebot-solutions/"><u>Elevate Your Analytics: Optimized by Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-with-linus-torvalds-embracing-rust-and-the-significance-of-the-linux-kernel-insights-from-a-tech-visionary/"><u>Exploring AI with Linus Torvalds: Embracing Rust & The Significance of the Linux Kernel - Insights From a Tech Visionary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-boundaries-of-ai-my-experience-with-chatgpts-memorization-abilities-insights-and-limitations/"><u>Exploring the Boundaries of AI: My Experience with ChatGPT’s Memorization Abilities – Insights & Limitations</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guide-to-completely-removing-files-and-folders-for-good-with-yl-computings-pro-tips/"><u>Guide to Completely Removing Files and Folders for Good with YL Computing's Pro Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix GT 10 Pro Lock Screen Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-machine-intelligence-with-kubernetes-latest-version-innovations-for-efficient-ai-deployments/"><u>Mastering Machine Intelligence with Kubernetes' Latest Version – Innovations for Efficient AI Deployments</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/al-tag-selection-elevate-your-videos-online-presence/"><u>Optimal Tag Selection Elevate Your Video's Online Presence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-restore-your-oculus-rift-s-mic-functionality-expert-advice/"><u>Quick Solutions to Restore Your Oculus Rift S Mic Functionality - Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/red-hat-revolutionizes-cloud-computing-with-newly-integrated-ai-features-for-enterprise-linux-insights-from-zdnet/"><u>Red Hat Revolutionizes Cloud Computing with Newly Integrated AI Features for Enterprise Linux - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/soaring-expenses-in-gen-ai-education-as-risk-assessment-lags-according-to-new-stanford-study-insights-for-tech-leaders/"><u>Soaring Expenses in Gen AI Education as Risk Assessment Lags According to New Stanford Study - Insights for Tech Leaders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/suse-elevates-distribution-longevity-offers-unmatched-19-year-support-exclusive-in-linux-world-zdnet/"><u>SUSE Elevates Distribution Longevity, Offers Unmatched 19-Year Support – Exclusive in Linux World | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tackling-chaos-in-linux-and-open-source-manuals-discover-zdnets-strategic-fix-for-clearer-documentation/"><u>Tackling Chaos in Linux & Open-Source Manuals: Discover ZDNet’s Strategic Fix for Clearer Documentation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-remote-cs-programs-ranked-by-us-news-find-your-perfect-match/"><u>Top 10 Remote CS Programs Ranked by U.S. News - Find Your Perfect Match</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-your-macbooks-webcam-potential-for-2024/"><u>Unlocking Your MacBook's Webcam Potential for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/widespread-shim-security-flaw-threatens-numerous-linux-servers-analysis-by-zdnet-reveals/"><u>Widespread Shim Security Flaw Threatens Numerous Linux Servers, Analysis by ZDNet Reveals</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/windows-11-20248/"><u>Windows 11用最高のメディアプレイヤー: 2024年バージョンオススメ8つ！すべてフリー申し上げます</u></a></li>
 </ul></div>
 

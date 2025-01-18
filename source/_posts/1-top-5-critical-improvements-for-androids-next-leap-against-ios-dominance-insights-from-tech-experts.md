@@ -1,7 +1,7 @@
 ---
 title: "1. Top 5 Critical Improvements for Android's Next Leap Against iOS Dominance: Insights From Tech Experts"
-date: 2025-01-11T18:39:15.403Z
-updated: 2025-01-12T17:35:09.593Z
+date: 2025-01-11T18:34:27.522Z
+updated: 2025-01-18T06:27:49.518Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,16 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-uploading-videos-to-instagram-on-desktop/"><u>[New] In 2024, Step-by-Step Uploading Videos to Instagram on Desktop</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-expert-level-recording-app-clean-and-clear/"><u>[Updated] Expert-Level Recording App - Clean and Clear</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instagrams-role-in-distributing-your-podcast-episodes/"><u>[Updated] Instagram's Role in Distributing Your Podcast Episodes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/circular-engine-kit/"><u>Circular Engine Kit</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c32-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C32 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigate-and-explore-on-two-wheels-the-impact-of-heads-up-display-in-photochromic-biking-lenses-review/"><u>Navigate and Explore on Two Wheels: The Impact of Heads-Up Display in Photochromic Biking Lenses Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-mobile-interaction-apple-introduces-eye-controlled-commands-for-iphone-and-ipad-insights-from-zdnet/"><u>Revolutionizing Mobile Interaction: Apple Introduces Eye-Controlled Commands for iPhone and iPad - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-how-to-get-a-compatible-keyboard-driver-for-windows-7-instantly/"><u>Seamless Installation: How to Get a Compatible Keyboard Driver for Windows 7 Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-m4-ipad-pros-latest-capabilities-showcased-at-wwdc-discover-how-ai-elevates-its-performance/"><u>The M4 iPad Pro's Latest Capabilities Showcased at WWDC – Discover How AI Elevates Its Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/what-to-purchase-post-apples-iphone-13-and-15-pro-retirement-expert-recommendations-tech-insights-by-zdnet/"><u>What to Purchase Post-Apple's iPhone 13 and 15 Pro Retirement - Expert Recommendations | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlock-the-best-top-9-gamers-hubs/"><u>[New] In 2024, Unlock the Best Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-online-no-cost-fb-sound-archive/"><u>[New] Online, No Cost FB Sound Archive</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-beautifying-videos-for-youtube-viewers-for-2024/"><u>[Updated] Beautifying Videos for YouTube Viewers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-jocular-joke-crafting-a-step-by-step-guide-to-memelore/"><u>[Updated] Jocular Joke-Crafting A Step-by-Step Guide to Memelore</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-tips-and-tricks-for-iphone-low-light-photography/"><u>[Updated] Tips and Tricks for iPhone Low Light Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-authenticity-how-synthetic-customer-reviews-could-influence-your-next-purchase-on-amazon/"><u>AI Authenticity: How Synthetic Customer Reviews Could Influence Your Next Purchase on Amazon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-delta-sky-rocked-its-passengers-worlds-exclusive-insights-from-zdnet/"><u>How Delta Sky-Rocked Its Passengers' Worlds – Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-internet-enabled-tvs-work-and-why-you-should-consider-one/"><u>How Do Internet-Enabled TVs Work and Why You Should Consider One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-save-with-doordash-fee-free-package-collection-and-drop-off-services-explained/"><u>How to Save with DoorDash: Fee-Free Package Collection and Drop-Off Services Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-google-lead-the-way-in-ai-innovation-others-struggle-to-keep-up-zdnet/"><u>Microsoft, Google Lead the Way in AI Innovation - Others Struggle to Keep Up | ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-gen-windows-features-that-revolutionize-your-experience-for-2024/"><u>Next-Gen Windows Features that Revolutionize Your Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/oca5-caused-by-mutations-in-either-the-matp-or-similar-genes-responsible-for-transporting-substrates-necessary-for-melanin-production-into-melanosomes/"><u>OCA5 - Caused by Mutations in Either the MATP or Similar Genes, Responsible for Transporting Substrates Necessary for Melanin Production Into Melanosomes.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/october-prime-day-alerts-with-amazon-alexa-setting-up-notifications-made-easy/"><u>October Prime Day Alerts with Amazon Alexa – Setting Up Notifications Made Easy</u></a></li>
+<li><a href="https://article-files.techidaily.com/picture-perfect-best-apps-for-framing-your-memories/"><u>Picture Perfect Best Apps for Framing Your Memories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-alexa-for-alerts-on-the-biggest-amazon-discounts-a-step-by-step-guide/"><u>Setting Up Alexa for Alerts on the Biggest Amazon Discounts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-informed-how-amazon-now-alerts-you-about-product-recalls-from-your-purchase-history-insights-on-zdnet/"><u>Stay Informed: How Amazon Now Alerts You About Product Recalls From Your Purchase History - Insights on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-new-format-of-amazon-customer-ratings-why-less-is-more-detramining/"><u>The New Format of Amazon Customer Ratings - Why Less Is More Detramining</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-dji-phantom-3-a-complete-technical-review/"><u>Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-printer-experience-hassle-free-epson-driver-downloads-and-updates/"><u>Upgrade Your Printer Experience: Hassle-Free Epson Driver Downloads & Updates</u></a></li>
 </ul></div>
 

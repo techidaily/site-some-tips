@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Convenience: A Comprehensive Guide to Using Apple Pay Both In-Store and Online"
-date: 2025-01-11T21:23:02.829Z
-updated: 2025-01-12T19:09:04.586Z
+date: 2025-01-10T16:14:05.169Z
+updated: 2025-01-18T01:39:02.096Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -41,7 +41,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -79,10 +79,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -107,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -119,10 +119,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -134,6 +130,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -152,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -210,18 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[New] Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-your-android-experience-with-screen-and-video-tech/"><u>[Updated] Perfect Your Android Experience with Screen & Video Tech</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-streamlining-conversational-data-with-azure-speech-to-text/"><u>[Updated] Streamlining Conversational Data with Azure Speech to Text</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-innovations-propel-ai-forward-progress-and-potential-gaps-explored-on-zdnet/"><u>Apple's Latest Innovations Propel AI Forward: Progress and Potential Gaps Explored on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-the-wow-factors-of-the-apple-watch-10-the-three-traits-that-clinched-its-approval/"><u>Discovering the Wow Factors of the Apple Watch 10 - The Three Traits that Clinched Its Approval</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-exceptional-wallet-airtags-beyond-apple-and-tile-a-comprehensive-zdnet-analysis-of-market-contenders/"><u>Exploring Exceptional Wallet AirTags Beyond Apple and Tile: A Comprehensive ZDNET Analysis of Market Contenders</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-driververifierdetectedviolation-bsod-error-on-windows-11-solved/"><u>Fix DRIVER_VERIFIER_DETECTED_VIOLATION BSOD Error on Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-separate-your-apple-music-membership-from-itunes-a-comprehensive-guide-on-zdnet/"><u>How To Separate Your Apple Music Membership From iTunes: A Comprehensive Guide on ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oneplus-ace-3-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of OnePlus Ace 3?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-fcp-download-hack-get-it-for-free/"><u>In 2024, FCP Download Hack Get It for Free?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-x-flip-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo X Flip Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-compelling-case-for-going-small-iphone-16-pro-takes-on-the-max-s-smartphone-showdown-gizmodotech/"><u>The Compelling Case for Going Small: IPhone 16 Pro Takes on the Max 'S Smartphone Showdown | GizmodoTech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-you-wont-find-the-latest-ai-innovations-on-your-aging-iphone-the-costly-truth-behind-apples-strategy/"><u>Why You Won't Find the Latest AI Innovations on Your Aging iPhone: The Costly Truth Behind Apple's Strategy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-windows-10-capture-miniapp/"><u>[New] Windows 10 Capture MiniApp</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-8-premium-filters-to-upgrade-your-cam-feeds-for-2024/"><u>[Updated] Discover 8 Premium Filters to Upgrade Your Cam Feeds for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-freefire-the-30-best-tag-strategies-to-increase-views-for-2024/"><u>[Updated] Mastering FreeFire The 30 Best Tag Strategies to Increase Views for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-toward-consensus-on-open-source-ai-framework-despite-ongoing-disputes-and-concerns-zdnet/"><u>Advancing Toward Consensus on Open Source AI Framework, Despite Ongoing Disputes and Concerns | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-towards-consensus-on-open-source-artificial-intelligence-progress-and-opposition-explored-by-zdnet/"><u>Advancing Towards Consensus on Open-Source Artificial Intelligence: Progress and Opposition Explored by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-s18-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-your-pc-cant-project-to-another-screen-error-on-windows/"><u>How to Fix the “Your PC Can’t Project to Another Screen” Error on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-blackout-issue-in-discord-when-sharing-your-screen-a-solution-guide/"><u>How to Overcome the Blackout Issue in Discord when Sharing Your Screen – A Solution Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-performance-and-protection-with-ubuntu-2n04-lts-the-ultimate-leap-forward-for-linux-enthusiasts/"><u>Mastering Performance & Protection with Ubuntu 2N.04 LTS: The Ultimate Leap Forward for Linux Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-the-enhanced-raspberry-pi-zero-eb-a-15-game-changer-delivering-fivefold-performance-boost-compared-to-its-predecessor-innovation-spotlight/"><u>Meet the Enhanced Raspberry Pi Zero Eb: A $15 Game-Changer Delivering Fivefold Performance Boost Compared to Its Predecessor | Innovation Spotlight</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y200e-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y200e 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-longevous-play-why-physical-is-prevailing/"><u>The Longevous Play: Why Physical Is Prevailing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-truth-ais-strength-in-code-writing-with-significant-limitations-explored-by-zdnet/"><u>Unveiling the Truth: AI's Strength in Code Writing with Significant Limitations - Explored by ZDNet</u></a></li>
 </ul></div>
 

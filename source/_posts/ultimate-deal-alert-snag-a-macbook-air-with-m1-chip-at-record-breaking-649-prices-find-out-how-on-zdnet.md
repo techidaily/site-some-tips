@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2025-01-07T17:04:20.237Z
-updated: 2025-01-12T19:10:29.746Z
+date: 2025-01-15T18:07:02.578Z
+updated: 2025-01-18T02:45:59.810Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,21 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-linkedin-account-termination-procedures/"><u>[New] Navigating Through LinkedIn Account Termination Procedures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-diving-into-4k-luxury-a-comprehensive-look-at-the-p2715q-monitor-for-2024/"><u>[Updated] Diving Into 4K Luxury - A Comprehensive Look at the P2715Q Monitor for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-expert-strategies-for-choosing-effective-podcast-names-plus-inspirations/"><u>2024 Approved Expert Strategies for Choosing Effective Podcast Names, Plus Inspirations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-13c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi 13C to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-iphone-communication-experience-with-advanced-sound-optimization-techniques/"><u>Boost Your iPhone Communication Experience with Advanced Sound Optimization Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-ax8-the-ultimate-wi-fi-6-mesh-range-extender/"><u>Comprehensive Analysis of the Netgear Nighthawk AX8 - The Ultimate Wi-Fi 6 Mesh Range Extender</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-enhanced-airpods-top-4-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods: Top 4 Improved Features Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-m2-powered-mac-mini-at-a-record-low-only-479-detailed-analysis/"><u>Discover Apple's M2-Powered Mac Mini at a Record Low: Only $479 - Detailed Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-sons-of-the-forest-freezes-and-crashes-on-your-pc-guide/"><u>Effortless Fixes for 'Sons of the Forest' Freezes and Crashes on Your PC - Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-digitize-and-store-your-drivers-license-in-the-iphone-wallet-app-customized-processes-for-various-regions/"><u>How to Digitize and Store Your Driver's License in the iPhone Wallet App - Customized Processes for Various Regions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 90 Lite?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-8-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-an-unexpectedly-free-macbook-air-m3-at-best-buy-master-the-secret-strategy-here-insights/"><u>Score an Unexpectedly Free MacBook Air M3 at Best Buy - Master the Secret Strategy Here | Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-pick-for-mac-maintenance-expertly-selected-optimization-tools-reviewed-by-zdnet/"><u>Top Pick for Mac Maintenance : Expertly Selected Optimization Tools Reviewed by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbelievable-deal-for-tech-lovers-up-to-700-off-the-revolutionary-2022-ipad-pro-this-labor-day-season-zdnet/"><u>Unbelievable Deal for Tech Lovers! Up to $700 Off the Revolutionary 2022 iPad Pro This Labor Day Season | ZDNET</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-bypassing-barriers-privately-share-youtube-video-via-google/"><u>[Updated] Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] In 2024, Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-seamless-iphone-to-iphone-data-transfer-without-using-icloud/"><u>1. Seamless iPhone-to-iPhone Data Transfer Without Using iCloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-integrates-grubhub-for-seamless-meal-delivery-get-tasty-takeout-today/"><u>Amazon Integrates Grubhub for Seamless Meal Delivery - Get Tasty Takeout Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-you-trust-tiktok-shopping-experiences-a-positive-purchase-story-revealed-by-zdnet/"><u>Can You Trust TikTok Shopping Experiences? A Positive Purchase Story Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-newly-released-whatsapp-channels-feature-across-specific-countries-in-depth-tutorial-zdnet-technology-insights/"><u>Exploring the Newly Released WhatsApp Channels Feature Across Specific Countries - In-Depth Tutorial | ZDNet Technology Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guida-istantanea-creare-una-slow-motion-masterpiece-su-android-con-semplici-4-fasi-scatti-di-movavi/"><u>Guida Istantanea: Creare Una Slow-Motion Masterpiece Su Android Con Semplici 4 Fasi - Scatti Di Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-effortlessly-update-your-hp-envy-5660s-system-with-the-latest-drivers/"><u>How to Effortlessly Update Your HP Envy 5660'S System with the Latest Drivers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-c65-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco C65</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-garmins-ultra-30-action-camera-revealed-in-full-detail/"><u>In 2024, Garmin's Ultra 30 Action Camera Revealed in Full Detail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-s22-and-s22plus-face-off-with-iphone-13-detailed-specs-and-performance-metrics-zdnet/"><u>Samsung Galaxy S22 & S22+ Face-Off with iPhone 13: Detailed Specs and Performance Metrics | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-access-to-events-and-services-using-google-wallets-new-pass-feature-your-ultimate-how-to-nexttechtrends/"><u>Streamline Access to Events and Services Using Google Wallet's New Pass Feature: Your Ultimate How-To | NextTechTrends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-television-into-a-social-media-platform-with-new-youtube-functionality-watch-and-buy/"><u>Transform Your Television Into a Social Media Platform with New YouTube Functionality: Watch & Buy!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-cross-site-savings-with-amazon-prime-rewards-a-comprehensive-strategy-for-online-shoppers-techradar/"><u>Unlock Cross-Site Savings with Amazon Prime Rewards - A Comprehensive Strategy for Online Shoppers | TechRadar</u></a></li>
 </ul></div>
 

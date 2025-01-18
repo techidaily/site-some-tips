@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2025-01-09T20:04:27.419Z
-updated: 2025-01-12T19:08:46.432Z
+date: 2025-01-13T02:18:18.654Z
+updated: 2025-01-18T02:11:15.095Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,22 +119,18 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>[Updated] Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-freeze-laughs-select-the-best-templates/"><u>[Updated] Freeze Laughs Select the Best Templates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-watch-notifications-and-calls-stay-connected-to-friends-and-family-easily/"><u>Apple Watch Notifications and Calls: Stay Connected to Friends & Family Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-why-the-iphone-14-hits-the-perfect-balance-of-functionality-and-quality/"><u>Comprehensive Evaluation: Why the iPhone 14 Hits the Perfect Balance of Functionality and Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/converting-from-android-how-the-new-iphone-16-could-change-my-mind-techinsider/"><u>Converting From Android: How the New iPhone 16 Could Change My Mind | TechInsider</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-rechargeable-wallet-tracker-beyond-apples-airtag-smart-tech-comparisons/"><u>Discover the Ultimate Rechargeable Wallet Tracker: Beyond Apple's AirTag | Smart Tech Comparisons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-why-this-is-the-ultimate-choice-for-a-durable-apple-watch-titanium-band-top-picks/"><u>Discover Why This Is the Ultimate Choice for a Durable Apple Watch Titanium Band - Top Picks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apples-new-on-device-ai-system-realm-outshines-gpt-4-innovations-on-tech/"><u>How Apple's New On-Device AI System ReaLM Outshines GPT-4 | Innovations on Tech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a38-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A38</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-currency-fluctuations-leveraging-the-consumer-price-index-for-effective-forex-risk-management-on-mt4/"><u>Mastering Currency Fluctuations: Leveraging the Consumer Price Index for Effective Forex Risk Management on MT4</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigate-and-conquer-with-fitbit-versa-3-embrace-the-power-of-inbuilt-gps-plus-health-apps-for-unmatched-exercise-motivation/"><u>Navigate & Conquer with Fitbit Versa 3 - Embrace the Power of Inbuilt GPS + Health Apps for Unmatched Exercise Motivation!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-pc-game-glitches-fixed-guide-to-no-more-dauntless-crashes/"><u>Overcome PC Game Glitches: Fixed Guide to No More Dauntless Crashes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-smart-how-ai-will-transform-iphone-mac-and-ipad-experience-with-apples-latest-features-zdnet-insights/"><u>The Future Is Smart: How AI Will Transform iPhone, Mac, and iPad Experience with Apple’s Latest Features | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-meta-quest-3-for-viewing-apples-cutting-edge-3d-content-insights-from-zdnet/"><u>Unlocking the Full Potential of Meta Quest 3 for Viewing Apple's Cutting-Edge 3D Content | Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deep-dive-the-economy-and-impact-of-online-stars/"><u>[New] In 2024, Deep Dive The Economy and Impact of Online Stars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inshot-app-how-to-integrate-external-songs-easily/"><u>[New] InShot App How to Integrate External Songs Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/a-quick-fix-for-inadvertent-chrome-tab-openings-on-pc/"><u>A Quick Fix for Inadvertent Chrome Tab Openings on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/before-prime-day-arrives-learn-the-essential-guide-on-upgrading-to-a-prime-student-plan-and-its-advantages-zdnet-tips/"><u>Before Prime Day Arrives, Learn the Essential Guide on Upgrading to a Prime Student Plan and Its Advantages | ZDNet Tips</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/connect-with-our-experts-for-detailed-information-on-aomeis-data-recovery-solutions/"><u>Connect with Our Experts for Detailed Information on AOMEI's Data Recovery Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-future-of-baseball-with-facial-recognition-entry-inside-the-newest-mlb-stadium-innovation/"><u>Experience the Future of Baseball with Facial Recognition Entry: Inside the Newest MLB Stadium Innovation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-camon-20-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Camon 20 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-art-of-editing-reimagined-by-vidas-innovations/"><u>In 2024, The Art of Editing Reimagined by Vida's Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-convenience-acquire-secondhand-vehicles-with-a-tap-on-your-mobile-device/"><u>Next-Level Convenience: Acquire Secondhand Vehicles with a Tap on Your Mobile Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-convenience-explore-the-advantages-of-apples-expanded-nfc-capabilities-on-iphones-for-app-developers-and-users-alike-zdnet/"><u>Revolutionizing Convenience: Explore the Advantages of Apple's Expanded NFC Capabilities on iPhones for App Developers and Users Alike | ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-for-converting-windows-10-system-into-dlna-compatible-server/"><u>Step-by-Step Tutorial for Converting Windows 10 System Into DLNA Compatible Server</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-artificial-intelligence-on-commerce-exploring-5-innovative-methods-reshaping-industry-practices-zdnet/"><u>The Impact of Artificial Intelligence on Commerce: Exploring 5 Innovative Methods Reshaping Industry Practices | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/us-and-singapore-join-forces-against-international-cyber-fraud-global-initiative/"><u>US and Singapore Join Forces Against International Cyber Fraud - Global Initiative</u></a></li>
 </ul></div>
 

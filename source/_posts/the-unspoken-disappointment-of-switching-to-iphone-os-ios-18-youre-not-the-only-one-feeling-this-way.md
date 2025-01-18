@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2025-01-05T20:35:35.727Z
-updated: 2025-01-12T16:13:05.432Z
+date: 2025-01-15T20:01:05.616Z
+updated: 2025-01-18T11:36:23.717Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled/"><u>[New] 2024 Approved The Mechanics of Modern Photography Auto, Smart HDR 3 & 4 Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-novices-guide-to-building-a-youtube-studio-setup/"><u>[New] The Novice's Guide to Building a YouTube Studio Setup</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-cheat-sheet-to-gameplay-screencasts-in-overwatch-for-2024/"><u>[New] The Ultimate Cheat Sheet to Gameplay Screencasts in Overwatch for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-increase-your-social-media-reach-with-these-top-30-tiktok-nicknames/"><u>[Updated] Increase Your Social Media Reach with These Top 30 TikTok Nicknames</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-guide-crafting-authentic-3d-characters-in-ps/"><u>2024 Approved Pro's Guide Crafting Authentic 3D Characters in PS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-alternative-to-apples-xr-vision-therapy-beats-high-end-models-in-effectiveness/"><u>Affordable Alternative to Apple's XR Vision Therapy Beats High-End Models in Effectiveness</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news-from-zdnet/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News From ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-watch-ultra-companion-product-now-available-again-and-nope-its-not-from-apple-zdnet/"><u>Apple Watch Ultra Companion Product Now Available Again - And Nope, It's Not From Apple! | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-rice-cubes-apples-expert-tips-for-rescuing-your-water-damaged-iphone/"><u>Beyond Rice Cubes: Apple's Expert Tips for Rescuing Your Water-Damaged iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/breakdown-voltage-is-a-critical-parameter-for-capacitors-indicating-the-maximum-voltage-that-can-be-applied-before-dielectric-failure-occurs/"><u>Breakdown Voltage Is a Critical Parameter for Capacitors, Indicating the Maximum Voltage that Can Be Applied Before Dielectric Failure Occurs.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-deal-apple-m2-macbook-air-now-just-800-before-october-prime-day-available-on-amazon-insights-by-zdnet/"><u>Discover the Deal: Apple M2 MacBook Air Now Just $800 Before October Prime Day - Available on Amazon, Insights by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-top-4-cutting-edge-features-of-the-new-iphone-16-making-it-a-must-have-upgrade-wired/"><u>Discover the Top 4 Cutting-Edge Features of the New iPhone 16, Making It a Must-Have Upgrade | Wired</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-and-updating-your-hp-elitebook-asterisk-8460p-drivers-in-windows-fixed/"><u>Effortless Guide to Downloading & Updating Your HP EliteBook Asterisk 8460P Drivers in Windows [FIXED]</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-gaming-bonuses-on-series-xs/"><u>Exclusive Gaming Bonuses on Series X|S</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-174-update-unveiled-by-apple-featuring-podcast-transcriptions-fresh-emoji-options-and-noteworthy-adjustments-to-the-european-app-store-insights-on-zdnet63/"><u>IOS 17.4 Update Unveiled by Apple: Featuring Podcast Transcriptions, Fresh Emoji Options & Noteworthy Adjustments to the European App Store - Insights on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-your-inbox-how-one-simple-email-strategy-can-clear-the-chaos-without-extra-accounts-or-rigid-regulations/"><u>Simplify Your Inbox: How One Simple Email Strategy Can Clear the Chaos Without Extra Accounts or Rigid Regulations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-battery-solutions-in-2nndr-comprehensive-reviews-by-tech-gurus-appleaccessoriespro/"><u>Top Rated MagSafe Battery Solutions in 2Nndr: Comprehensive Reviews by Tech Gurus - AppleAccessoriesPro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-techniques-of-premium-vr-gametime-captures-for-2024/"><u>Unveiling the Techniques of Premium VR Gametime Captures for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-ai-innovations-such-as-chatgpt-disrupt-current-search-engine-models/"><u>Will AI Innovations Such as ChatGPT Disrupt Current Search Engine Models?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-the-maze-of-facebook-story-networking/"><u>[New] In 2024, Navigating the Maze of Facebook Story Networking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lens-legends-best-video-cameras-for-professional-use/"><u>[New] Lens Legends Best Video Cameras for Professional Use</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-simply-your-way-of-capturing-igtv-on-devices/"><u>[Updated] 2024 Approved Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combating-digital-deceit-the-war-on-counterfeit-corporations-by-zdnet/"><u>Combating Digital Deceit: The War on Counterfeit Corporations by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-to-easily-unsubscribing-from-junk-mail-in-your-inboxes-like-gmail-and-outlook/"><u>Comprehensive Guide to Easily Unsubscribing From Junk Mail in Your Inboxes Like Gmail & Outlook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-amazons-new-10month-all-you-can-eat-grocery-delivery-plan-does-it-deliver-value/"><u>Exploring Amazon's New $10/Month All-You-Can-Eat Grocery Delivery Plan – Does It Deliver Value?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-note-30-5g-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Note 30 5G Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-inside-track-understanding-sound-rights-on-instagram/"><u>In 2024, Inside Track Understanding Sound Rights on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-corsair-icue-available-for-free-download-windows-compatibility-and-tutorials/"><u>Latest Version of Corsair iCUE Available for Free Download: Windows Compatibility & Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-experience-with-affordable-tech-goodies-from-temu-a-surprisingly-positive-review/"><u>My Experience with Affordable Tech Goodies From Temu: A Surprisingly Positive Review!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-threat-emerges-how-southwest-united-and-american-airlines-face-off-against-the-webs-worst-design/"><u>New Threat Emerges: How Southwest, United & American Airlines Face Off Against the Web's Worst Design</u></a></li>
+<li><a href="https://win-dash.techidaily.com/realtek-wi-fi-driver-compatibility-fixes-for-windows-11107-what-you-need-to-know/"><u>Realtek Wi-Fi Driver Compatibility Fixes for Windows 11/10/7: What You Need To Know</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y200-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y200 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-and-usa-unite-against-cyber-fraud-with-transnational-initiative-zdnet/"><u>Singapore & USA Unite Against Cyber Fraud with Transnational Initiative – ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-mastering-apple-pay-usage-both-in-store-and-digitally-reasons-and-steps/"><u>The Ultimate Guide: Mastering Apple Pay Usage Both In-Store & Digitally - Reasons & Steps!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/thrifty-finds-on-temu-unboxing-geeky-gadgets-without-breaking-the-bank-zdnet-insights/"><u>Thrifty Finds on Temu - Unboxing Geeky Gadgets Without Breaking the Bank (ZDNet Insights)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-how-to-fix-the-no-server-error-in-pc-apex-legends-(156-chars/"><u>Unveiling Secrets: How to Fix the No-Server Error in PC Apex Legends (<156 Chars)</u></a></li>
 </ul></div>
 

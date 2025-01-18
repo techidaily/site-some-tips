@@ -1,7 +1,7 @@
 ---
 title: "Boost Your MacBook Experience: Top Features of macOS 15 Unveiled by ZDNet"
-date: 2024-12-16T21:00:10.945Z
-updated: 2024-12-22T03:02:39.015Z
+date: 2025-01-13T09:38:49.211Z
+updated: 2025-01-17T16:36:50.811Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,18 +114,19 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-decoding-youtubes-payment-scheme/"><u>[New] In 2024, Decoding YouTube's Payment Scheme</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>[Updated] 2024 Approved Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>2024 Approved Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210711700-9781454915416-a-little-bit-of-crystals/"><u>A Little Bit of Crystals | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-wav-a-mov-online-con-movavi/"><u>Conversión Gratuita De Archivos WAV a MOV Online Con Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-the-features-of-pcdj-dex-3-with-a-comprehensive-browser-walkthrough-preview-insight-video/"><u>Exploring the Features of PCDJ Dex 3 with a Comprehensive Browser Walkthrough – Preview Insight Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuit-gebaseerd-konvertor-voor-caf-naar-m4a-formaten-online-tool-van-movavi/"><u>Gratuit Gebaseerd Konvertor Voor CAF Naar M4A-Formaten - Online Tool Van Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/konvertereen-webm-in-een-gif-volopvullend-veiligheid-gratis-en-gemakkelijk-met-movavi-online-tool/"><u>Konvertereen WebM in Een GIF Volopvullend: Veiligheid, Gratis en Gemakkelijk Met Movavi Online-Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726228162859-movavi-mxfmkv/"><u>Movaviの無料サービス: ウェブ上でMXFからMKVへ簡単なファイル変換</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/optimize-your-gaming-by-learning-ps3-video-capture-techniques-for-2024/"><u>Optimize Your Gaming by Learning PS3 Video Capture Techniques for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-start-with-portable-driver-easy-your-essential-guide-to-a-hassle-free-download/"><u>Quick Start with Portable Driver Easy: Your Essential Guide to a Hassle-Free Download</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-remove-drums-from-a-song-online-easy-tips-and-tricks/"><u>Updated 2024 Approved Remove Drums From a Song Online Easy Tips and Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-road-to-flawless-screen-recording-with-recmeister/"><u>[New] The Road to Flawless Screen Recording with Recmeister</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-easy-start-8-great-beginner-friendly-filming-cameras/"><u>[Updated] 2024 Approved Easy Start 8 Great Beginner-Friendly Filming Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-analysis-why-the-ecoflow-river-3-stands-out-among-portable-power-bank-options/"><u>Expert Analysis: Why the EcoFlow River 3 Stands Out Among Portable Power Bank Options.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-c55-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme C55 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-nord-ce-3-lite-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus Nord CE 3 Lite 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-ev-charge-efficiency-with-affordable-emporia-smart-charger-an-in-depth-review-and-price-breakdown-on-zdnet/"><u>Maximizing EV Charge Efficiency with Affordable Emporia Smart Charger: An In-Depth Review and Price Breakdown on ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-startup-hurdles-for-origin-on-windows-11-computers/"><u>Overcoming Startup Hurdles for 'Origin' On Windows 11 Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/restoring-the-sounds-of-desolation-tackling-fallout-4s-no-sound-dilemma-on-pc-machines/"><u>Restoring the Sounds of Desolation: Tackling Fallout 4’S No-Sound Dilemma on PC Machines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-the-budget-friendly-anker-power-station-model-555-for-a-steal-at-only-799-limited-time-offer/"><u>Secure the Budget-Friendly Anker Power Station Model 555 for a Steal at Only $799 - Limited Time Offer!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-a-dreamy-beginning-the-ultimate-starter-pack-for-your-first-rental-curated-by-zdnet/"><u>Setting Up a Dreamy Beginning: The Ultimate Starter Pack for Your First Rental, Curated by ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques-for-2024/"><u>The Filmmaker's Blueprint to Panoramic Perfection 9 Key Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-portable-power-solutions-comprehensive-evaluation-by-tech-experts-zdnet/"><u>Top-Ranking Portable Power Solutions : Comprehensive Evaluation by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-savings-secure-your-ultimate-power-strip-at-20-discount-only-on-amazon-featured-by-zdnet/"><u>Unleash Savings: Secure Your Ultimate Power Strip at 20% Discount Only on Amazon - Featured by ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/go-to-list-asmr-on-phone-platforms-for-2024/"><u>Your Go-To List ASMR on Phone Platforms for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky
-date: 2024-09-10 12:40:14
-updated: 2024-09-13 12:30:15
+date: 2025-01-12T22:14:23.177Z
+updated: 2025-01-17T20:38:04.922Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f848cf8becd199a47e930b0cb.jpg
@@ -176,6 +176,10 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -236,9 +240,17 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -253,6 +265,10 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -306,6 +322,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -338,6 +358,10 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -361,6 +385,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -411,6 +439,10 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -419,6 +451,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -454,6 +490,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +576,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] 2024 Approved Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unlock-creator-studio-secrets-a-step-by-step-tutorial/"><u>[New] 2024 Approved Unlock Creator Studio Secrets A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-podcastpioneer-diving-beyond-dacast/"><u>[New] PodcastPioneer Diving Beyond DaCast</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-effortless-photo-series-display-on-ig/"><u>[Updated] In 2024, Effortless Photo Series Display on IG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery/"><u>[Updated] Photoshop's Secret Weapon Advanced Techniques for 3D Lut Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamlining-audio-interpretation-a-comprehensive-guide-for-google-for-2024/"><u>[Updated] Streamlining Audio Interpretation A Comprehensive Guide for Google for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-leads-with-launch-of-innovative-private-5g-offering-at-reinvent-2021-dive-into-the-details-on-zdnet/"><u>AWS Leads with Launch of Innovative Private 5G Offering at Re:invent 2021 - Dive Into the Details on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparative-analysis-amazon-echo-studio-vs-sonos-era-insights-and-purchase-recommendations/"><u>Comparative Analysis: Amazon Echo Studio Vs. Sonos Era - Insights & Purchase Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/corporate-contradictions-amazons-generosity-vs-workforce-downsizing-explored/"><u>Corporate Contradictions: Amazon's Generosity Vs. Workforce Downsizing Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-hidden-perks-of-amazon-echos-enhancing-consumer-satisfaction-expert-analysis-by-zdnet/"><u>Discover the Hidden Perks of Amazon Echos Enhancing Consumer Satisfaction | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-management-features-in-amazons-aws-lake-formation-a-dive-into-advanced-configurability/"><u>Enhanced Management Features in Amazon's AWS Lake Formation: A Dive Into Advanced Configurability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-prime-video-ad-integration-could-it-persuade-subscribers-to-unsubscribe/"><u>Exploring Prime Video Ad Integration - Could It Persuade Subscribers to Unsubscribe?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-a-small-act-of-kindness-by-amazon-surprised-and-touched-my-heart-insights-from-zdnet/"><u>How a Small Act of Kindness by Amazon Surprised and Touched My Heart - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazon-prepares-you-for-tomorrows-ai-demands-with-tailored-training-solutions/"><u>How Amazon Prepares You for Tomorrow's AI Demands with Tailored Training Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazon-stays-ahead-of-the-game-with-inventory-despite-widespread-store-closures-analysis-by-zdnet/"><u>How Amazon Stays Ahead of the Game with Inventory Despite Widespread Store Closures | Analysis by ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-before-you-fly-drone-purchase-tips-and-considerations/"><u>In 2024, Before You Fly Drone Purchase Tips and Considerations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-v2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic V2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-f5-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco F5 Pro 5G</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-neon-text-maker-top-picks-for-creating-eye-catching-designs-for-2024/"><u>Updated Neon Text Maker Top Picks for Creating Eye-Catching Designs for 2024</u></a></li>
+</ul></div>
+

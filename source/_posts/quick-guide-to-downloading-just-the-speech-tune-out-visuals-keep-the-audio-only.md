@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide to Downloading Just the Speech: Tune Out Visuals, Keep the Audio Only!"
-date: 2024-09-11 23:51:20
-updated: 2024-09-13 12:46:34
+date: 2025-01-14T22:35:20.242Z
+updated: 2025-01-18T00:51:54.425Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35c13c96d34e093f48763187e.jpg
@@ -45,6 +45,10 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -162,6 +166,10 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -214,6 +222,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,6 +233,10 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -239,6 +255,10 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -278,6 +298,10 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -286,6 +310,10 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -297,6 +325,10 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -323,6 +355,10 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -510,6 +546,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +576,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1-unleash-creativity-with-freeform-discover-the-ultimate-technique-for-innovative-idea-generation-insights-from-zdnet/"><u>1. Unleash Creativity with Freeform: Discover the Ultimate Technique for Innovative Idea Generation - Insights From ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>2024 Approved Snapchat Emojis The Real Meaning You May Not Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722062038169-ai-detection-tools-on-trial-how-zerogpt-and-companions-fail-to-deliver-4-examples-revealed/"><u>AI Detection Tools on Trial: How ZeroGPT & Companions Fail to Deliver - 4 Examples Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-for-extended-battery-performance-insights-from-zdnet/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks for Extended Battery Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-perfect-ipad-for-your-child-check-out-these-top-picks-from-2022-on-zdnet/"><u>Choosing the Perfect iPad for Your Child? Check Out These Top Picks From 2022 on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/do-you-still-need-an-iphone-case-discover-how-apples-persistent-stance-might-change-the-game/"><u>Do You Still Need an iPhone Case? Discover How Apple's Persistent Stance Might Change the Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-content-caution-alerts-during-voice-communication-failures/"><u>How to Solve Content Caution Alerts During Voice Communication Failures</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-architects-crafting-fantasy-realms-for-marvel/"><u>In 2024, Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-mac-efficiency-the-ultimate-guide-to-setting-up-and-utilizing-hot-corners-boost-your-productivity/"><u>Mastering Mac Efficiency: The Ultimate Guide to Setting Up & Utilizing Hot Corners - Boost Your Productivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-voice-calls-capture-on-ios-devices-a-comprehensive-guide-with-legal-considerations-by-region/"><u>Mastering Voice Calls Capture on iOS Devices: A Comprehensive Guide with Legal Considerations by Region</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-video-focus-in-virtual-collaboration-spaces-google-meet-edition-for-2024/"><u>Optimizing Video Focus in Virtual Collaboration Spaces Google Meet Edition for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quickstart-guide-to-utilizing-8-advanced-customized-gpt-systems-now/"><u>Quickstart Guide to Utilizing 8 Advanced Customized GPT Systems Now</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/transform-your-desktop-with-the-lasher-symbiote-image-series-by-yl-software-captivating-visuals-and-free-downloads/"><u>Transform Your Desktop with the Lasher Symbiote Image Series by YL Software – Captivating Visuals and Free Downloads!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-iphone-15-for-you-regular-plus-pro-and-pro-max-reviewed-in-detail-gadgetsavvy/"><u>Unveiling the Best iPhone 15 for You: Regular, Plus, Pro, and Pro Max Reviewed in Detail | GadgetSavvy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-to-youtube-success-12-proven-methods-for-2024/"><u>Unveiling the Secrets to YouTube Success 12 Proven Methods for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-sound-editing-shorten-audio-sections-in-imovie-for-mac-and-iphone/"><u>Updated 2024 Approved Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-easily-accessible-websites-ranked-where-to-get-your-free-ding-noise-sounds-for-2024/"><u>Updated Easily Accessible Websites Ranked Where to Get Your Free Ding Noise Sounds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-to-iphone-16-pros-and-cons-insight-from-zdnet-experts/"><u>Upgrading to iPhone 16: Pros & Cons - Insight From ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-with-the-iphone-16-top-3-game-changing-features-unveiled-by-zdnet/"><u>Upgrading with the iPhone 16: Top 3 Game-Changing Features Unveiled by ZDNet</u></a></li>
+</ul></div>
+

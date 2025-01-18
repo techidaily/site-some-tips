@@ -1,7 +1,7 @@
 ---
 title: "Commemorating Progress: An Insight Into Seven Leading Tech Giants' Juneteenth Tribute Strategies"
-date: 2024-09-18 14:14:28
-updated: 2024-09-20 12:44:25
+date: 2025-01-12T08:21:51.503Z
+updated: 2025-01-18T01:18:01.699Z
 tags:
   - amazon
 categories:
@@ -23,7 +23,15 @@ President Abraham Lincoln began the process of freeing enslaved people in Americ
 
 Also known as Jubilee Day, celebrations on June 19 grew and spread nationwide over time. In fact, Texas made Juneteenth — short for "June nineteenth" — a state holiday in 1979\. But the holiday didn't gain widespread attention until America faced a 21st-century civil rights movement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Companies compelled to action during 2020 summer of unrest
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -34,6 +42,10 @@ America's most recent reckoning with our complicated, oppressive, and sometimes 
 President Joe Biden signed the bill making Juneteenth a federal holiday into law just two days before the holiday's inaugural federal observance on June 19, 2021\. The change became effective so quickly that some large organizations, including the Postal Service, said they didn't have time to pause their business operations or plan any events to commemorate the holiday.
 
 In response, many organizations said they'd have more to offer next year and going forward. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Here's what top tech companies are doing for Juneteenth
 
@@ -111,11 +123,19 @@ The company says its Alliance of Black Leaders for Excellence (ABLE) employee re
 
 In a corporate blog post, Jared Williams, an Oracle [UX researcher](https://www.zdnet.com/education/bootcamps/ux-bootcamps/), said everyone should seek to understand how America's current social injustices have direct ties to slavery. Regardless of Juneteenth's official holiday status, the day should serve "as some deeper call to action toward an aspiration, more equitable future."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## In conclusion
 
 Most of the action for Juneteenth at tech companies centers on conversations about the experiences of people who are different. And often conversations about race, identity, and injustice are hard. Check out our roundup of [12 professional organizations advancing DEI values in tech](https://www.zdnet.com/education/computers-tech/professional-organizations-for-diversity-and-inclusion-in-tech/) if you want or need some ideas or advice.
 
 And finally, there's positive news for Postal Service workers. Starting this year, full and part-time post office employees will be eligible to observe Juneteenth National Independence Day as one of 11 paid holidays.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### This article was reviewed by Laila Abdalla, Ph.D.
 
@@ -150,11 +170,29 @@ _Last reviewed May 25, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube/"><u>[New] 2024 Approved A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-comprehensively-understanding-azure-speech-to-text-for-2024/"><u>[New] Comprehensively Understanding Azure Speech to Text for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-enhance-your-stream-the-top-5-cameras-to-stand-out-on-twitch/"><u>2024 Approved Enhance Your Stream The Top 5 Cameras to Stand Out on Twitch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-apples-latest-powerhouses-m2-chip-mac-studio-vs-m1-powered-mac-mini-which-tech-champion-emerges/"><u>Comparing Apple's Latest Powerhouses: M2-Chip Mac Studio Vs. M1-Powered Mac Mini - Which Tech Champion Emerges?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-inside-the-popularity-of-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: Inside The Popularity of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-ai-enhancements-for-ios-18-that-would-bring-it-on-par-with-androids-capabilities-insights-from-zdnet/"><u>Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-assistance-online-all-your-fixes-for-winx-dvd-ripper-and-conversion-issues/"><u>Expert Assistance Online - All Your Fixes for WinX DVD Ripper and Conversion Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-connect-two-displays-with-your-new-m3-macbook-pro-just-like-the-popular-m3-macbook-air-zdnet/"><u>Maximize Productivity: Connect Two Displays with Your New M3 MacBook Pro, Just Like the Popular M3 MacBook Air | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-apple-experience-with-watchos-11s-latest-upgrade-features-explored-by-zdnet/"><u>Maximizing Your Apple Experience with WatchOS 11'S Latest Upgrade - Features Explored by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-2024-showdown-how-did-crowdstrike-collide-with-windows-security-a-look-back-at-events-that-shaped-cybersecurity-history/"><u>The 2024 Showdown: How Did CrowdStrike Collide With Windows Security? A Look Back at Events That Shaped Cybersecurity History</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-craft-of-loom-seamless-screen-recording-guide-for-2024/"><u>The Craft of Loom Seamless Screen Recording Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-breakdown-of-the-502-bad-gateway-problem-and-fixing-it-quickly/"><u>The Definitive Breakdown of the 502 Bad Gateway Problem and Fixing It Quickly</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-c67-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from C67 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-capabilities-how-apple-must-rise-to-match-the-power-of-openai-and-googles-ai-innovations-insights-from-zdnet/"><u>Top 10 Capabilities: How Apple Must Rise to Match the Power of OpenAI and Google's AI Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-daily-dose-of-anime-magic-from-15-top-web-sources-for-2024/"><u>Your Daily Dose of Anime Magic From 15 Top Web Sources for 2024</u></a></li>
+</ul></div>
+

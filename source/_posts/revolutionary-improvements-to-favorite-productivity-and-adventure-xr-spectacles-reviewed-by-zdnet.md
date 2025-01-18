@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Improvements to Favorite Productivity and Adventure XR Spectacles Reviewed by ZDNet.
-date: 2025-01-10T20:23:29.284Z
-updated: 2025-01-12T18:36:41.531Z
+date: 2025-01-17T06:45:31.140Z
+updated: 2025-01-17T22:45:27.890Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -90,7 +90,7 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,18 +129,17 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-become-a-yt-hub-pro-complete-guide-revealed/"><u>[New] In 2024, Become a YT Hub Pro Complete Guide Revealed</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-cutting-edge-artificial-intelligence-now-edits-pics-based-on-user-prompts-exclusive-coverage-by-zdnet/"><u>Apple's Cutting-Edge Artificial Intelligence Now Edits Pics Based on User Prompts – Exclusive Coverage by ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/balancing-act-a-comprehensive-guide-to-drone-gimbals-for-2024/"><u>Balancing Act A Comprehensive Guide to Drone Gimbals for 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/enhanced-singing-experience-to-attract-those-looking-for-a-better-karaoke-software-experience-and-includes-relevant-keywords-such-as-lyrx-karaoke-software-u82/"><u>Enhanced Singing Experience to Attract Those Looking for a Better Karaoke Software Experience and Includes Relevant Keywords Such as LYRX Karaoke Software Update.</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-best-of-the-best-unlimited-recorders-top12/"><u>In 2024, Best of the Best Unlimited Recorders, #Top12</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-flawless-free-android-snapmaker/"><u>In 2024, Flawless Free Android SnapMaker</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-the-art-of-monetization-with-ajey-carryminati/"><u>Mastering the Art of Monetization with Ajey (CarryMinati)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-the-ios-18-control-center-on-your-iphone-a-step-by-step-guide/"><u>Tailoring the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-next-generation-of-display-technology-how-ipad-pros-tandem-oled-paves-the-way-for-future-gadgets-analysis-by-zdnet/"><u>The Next Generation of Display Technology: How iPad Pro's Tandem OLED Paves the Way for Future Gadgets | Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965824999-the-seat-of-arbitration-determines-the-procedural-law-that-governs-the-arbitration-process-and-can-affect-the-degree-of-court-intervention/"><u>The Seat of Arbitration Determines the Procedural Law that Governs the Arbitration Process and Can Affect the Degree of Court Intervention.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-essential-ipad-add-ons-reviewed/"><u>The Ultimate Guide to Essential iPad Add-Ons Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-department-of-justice-vs-apple-lawsuit-potential-impact-on-iphone-enthusiasts-and-ios-creators-digital-frontier-analysis/"><u>Understanding the Department of Justice Vs. Apple Lawsuit: Potential Impact on iPhone Enthusiasts and iOS Creators | Digital Frontier Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-the-essentials-in-zooming-for-youtube-broadcasts/"><u>[New] From Novice to Pro The Essentials in Zooming for YouTube Broadcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-strategies-for-perfect-screenshots-at-your-fingertips/"><u>[New] In 2024, Strategies for Perfect Screenshots at Your Fingertips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlock-your-devices-full-potential-with-io-screener-for-2024/"><u>[Updated] Unlock Your Device's Full Potential with IO Screener for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-look-back-at-10-years-with-kubernetes-its-role-in-shaping-modern-cloud-computing-and-anticipated-trends-featured-on-zdnet/"><u>A Look Back at 10 Years with Kubernetes: Its Role in Shaping Modern Cloud Computing and Anticipated Trends | Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anthropic-unveils-innovative-claude-beta-feature-set-paving-way-for-next-gen-smart-assistants-zdnet-insights/"><u>Anthropic Unveils Innovative Claude Beta Feature Set, Paving Way for Next-Gen Smart Assistants - ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/averted-disaster-for-linux-world-the-detailed-breakdown-of-xz-utils-security-scare-exposed-by-zdnet/"><u>Averted Disaster for Linux World: The Detailed Breakdown of XZ Utils Security Scare | Exposed by ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-linguistic-labyrinth-meta-faces-hurdles-in-greek-armenian-and-oromo-language-support/"><u>Navigating the Linguistic Labyrinth: Meta Faces Hurdles in Greek, Armenian and Oromo Language Support</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speak-up-enhancing-interactions-with-youtube-viewers-for-2024/"><u>Speak Up Enhancing Interactions with YouTube Viewers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-x100-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo X100 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

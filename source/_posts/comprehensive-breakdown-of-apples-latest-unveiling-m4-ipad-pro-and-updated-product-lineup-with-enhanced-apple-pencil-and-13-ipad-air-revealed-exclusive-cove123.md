@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !"
-date: 2025-01-07T19:15:10.334Z
-updated: 2025-01-12T20:08:06.088Z
+date: 2025-01-17T09:28:52.379Z
+updated: 2025-01-18T11:12:18.100Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -35,6 +35,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -73,7 +77,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -92,10 +96,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,22 +160,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-maximize-online-revenue-monetizing-on-youtube-with-500plus-viewers-for-2024/"><u>[Updated] Maximize Online Revenue Monetizing on Youtube with 500+ Viewers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-beginners-guide-to-iphone-slow-movement-videography/"><u>[Updated] The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-motorola-edge-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Motorola Edge 2023 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-stops-selling-new-watch-models-disrupts-maintenance-services-for-earlier-versions-news/"><u>Apple Stops Selling New Watch Models; Disrupts Maintenance Services for Earlier Versions News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-perfect-phone-for-children-top-suggestions-from-tech-experts/"><u>Choosing the Perfect Phone for Children: Top Suggestions From Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/complete-guide-how-to-properly-initialize-your-brand-new-ipad-insights/"><u>Complete Guide: How to Properly Initialize Your Brand-New iPad - Insights</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/gratuit-verbale-konvertor-gebruik-de-onlineladingsbewijs-van-movavi-om-nv-3gpp-naar-wav-format-te-zetten/"><u>Gratuit Verbale Konvertor: Gebruik De Onlineladingsbewijs Van Movavi Om NV 3GPP Naar Wav-Format Te Zetten</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-vanished-wordle-streak-crash/"><u>How to Fix Vanished Wordle Streak Crash</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sprinting-to-victory-key-moments-from-2-omics-games/"><u>In 2024, Sprinting to Victory Key Moments From 2 Omics Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigate-through-macos-sonoma-version-144s-update-checklist-key-enhancements-and-bug-resolutions-as-reported/"><u>Navigate Through macOS Sonoma Version 14.4'S Update Checklist - Key Enhancements & Bug Resolutions as Reported</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-9-unveiled-the-trailblazer-with-built-in-satellite-emergency-calling-feature-detailed-review/"><u>Pixel 9 Unveiled: The Trailblazer with Built-In Satellite Emergency Calling Feature – Detailed Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-bot-communications-from-breaches/"><u>Securing Bot Communications From Breaches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-exciting-features-you-can-test-with-the-latest-ios-18-preview-learn-more-on-zdnet/"><u>Top 5 Exciting Features You Can Test with the Latest iOS 18 Preview - Learn More on ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-8-essential-factors-to-look-for-in-your-next-tablet-purchase/"><u>Top 8 Essential Factors to Look For in Your Next Tablet Purchase</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-issues-with-apple-family-sharing-access/"><u>Troubleshooting Steps for Issues with Apple Family Sharing Access</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secret-to-a-complimentary-macbook-air-m3-at-best-buy-a-step-by-step-guide-zdnet/"><u>Unlock the Secret to a Complimentary MacBook Air M3 at Best Buy: A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmissable-discounts-on-iphones-your-complete-guide-for-the-top-offers-in-july-2024-featuring-insights-from-zdnet/"><u>Unmissable Discounts on iPhones: Your Complete Guide for the Top Offers in July 2024, Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-avoidance-of-windows-10-photos-application-hang-ups/"><u>[New] In 2024, Avoidance of Windows 10 Photos Application Hang-Ups</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-captivating-spokesperson-appraisal-8th-analysis/"><u>[New] In 2024, Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-of-recording-video-without-distracting-noise/"><u>[New] In 2024, Secrets of Recording Video without Distracting Noise</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-potential-in-virtual-collaboration-platforms-for-2024/"><u>[New] Unleashing Potential in Virtual Collaboration Platforms for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/vobmp4-5/"><u>「オンラインですぐに - VOBからMP4への最適なコンバーター ベスト5ピックアップ！」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-rolls-out-affordable-monthly-unlimited-grocery-service-for-999plus-is-it-a-game-changer-in-online-shopping/"><u>Amazon Rolls Out Affordable Monthly Unlimited Grocery Service for $9.99+ - Is It a Game Changer in Online Shopping?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/building-successful-businesses-with-ai-opportunities-unveiled-by-industry-experts-zdnet/"><u>Building Successful Businesses with AI: Opportunities Unveiled by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-reels-syncing-audio-to-images-for-2024/"><u>Crafting Captivating Reels Syncing Audio to Images for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-the-functionality-of-icominterface-in-software-development/"><u>Exploring the Functionality of IComInterface in Software Development</u></a></li>
+<li><a href="https://some-tips.techidaily.com/galaxy-s22-and-s22plus-versus-iphone-13-side-by-side-comparison-features-breakdown/"><u>Galaxy S22 & S22+ Versus iPhone 13 Side-by-Side Comparison: Features Breakdown</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guardians-of-the-screen-the-best-webcam-cover-options-for-2024/"><u>Guardians of the Screen - The Best Webcam Cover Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-automation-is-taking-over-unwanted-jobs-preparing-for-an-economic-downturn/"><u>How Automation Is Taking Over Unwanted Jobs - Preparing for an Economic Downturn</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mcdonalds-rival-outshines-with-latest-revelation-burger-kings-humiliating-blow/"><u>McDonald's Rival Outshines with Latest Revelation: Burger King's Humiliating Blow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-a-bargain-secure-your-new-echo-dot-at-only-18-on-amazon-prime-day-special/"><u>Snag a Bargain: Secure Your New Echo Dot at Only $18 on Amazon – Prime Day Special!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-your-figma-project-with-clean-backgrounds-for-2024/"><u>Streamlining Your Figma Project with Clean Backgrounds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-how-singapore-is-testing-smart-digital-currencies-in-the-real-world-a-closer-look-at-innovation-trials/"><u>ZDNet: How Singapore Is Testing Smart Digital Currencies in the Real World - A Closer Look at Innovation Trials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-crusade-againnst-phony-businesses-in-the-virtual-and-physical-realm-of-fraud-protection/"><u>ZDNet's Crusade Againnst Phony Businesses in the Virtual & Physical Realm of Fraud Protection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2025-01-08T20:44:48.010Z
-updated: 2025-01-12T18:44:26.000Z
+date: 2025-01-15T00:41:23.443Z
+updated: 2025-01-18T01:54:03.049Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfect-your-content-with-vimeo-on-instagram/"><u>[New] 2024 Approved Perfect Your Content with Vimeo on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide/"><u>[New] In 2024, Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-ups-the-game-in-audio-entertainment-with-innovative-spotify-playlist-import-feature/"><u>Apple Ups the Game in Audio Entertainment with Innovative Spotify Playlist Import Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-immersive-tech-vr-explained-simply/"><u>Exploring Immersive Tech VR Explained Simply</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apple-is-executing-the-macbook-owner-payoff-plan-under-class-action-agreement-wired/"><u>How Apple Is Executing the MacBook Owner Payoff Plan Under Class Action Agreement | Wired</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x9b-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X9b to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/install-macos-15-sequoia-beta-today-easy-step-by-step-tutorial-to-upgrade-your-macbook-or-mac-with-the-new-update-zdnet/"><u>Install macOS 15 Sequoia Beta Today! Easy Step-by-Step Tutorial to Upgrade Your MacBook or Mac with the New Update | ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/key-10-plug-ins-for-elevating-your-fcp-workflow/"><u>Key 10 Plug-Ins for Elevating Your FCP Workflow</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/slomo-visual-delight-thorough-assessment-release/"><u>SloMo Visual Delight Thorough Assessment Release</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-academic-potential-effective-note-taking-and-chatgpt/"><u>Unlock Academic Potential: Effective Note Taking & ChatGPT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-adding-visual-time-indicators-to-your-youtube-links/"><u>[New] 2024 Approved Adding Visual Time Indicators to Your YouTube Links</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-highlighted-top-5-minimalist-action-camera-picks/"><u>[New] 2024 Approved Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028260708-losslesscut/"><u>同じ機能を持つLosslessCut以外のオプションでファイル結合テクニック</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts-for-2024/"><u>Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-shifts-in-programming-languages-demand-since-2016-and-implications-for-developers-analysis-by-zdnet/"><u>Decoding the Shifts in Programming Languages' Demand Since 2016 and Implications for Developers - Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-deploy-multiple-artificial-intelligence-models-locally-tips-for-mac-and-windows-users-without-cloud-services/"><u>Efficiently Deploy Multiple Artificial Intelligence Models Locally: Tips for MAC and Windows Users Without Cloud Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-langchain-for-effective-generative-ai-assistance-unveiling-the-tactics-at-zdnet/"><u>Harnessing LangChain for Effective Generative AI Assistance - Unveiling the Tactics at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-safeguard-your-system-against-60-weekly-vulnerabilities-spotted-by-the-linux-security-team-zdnet-insights/"><u>How to Safeguard Your System Against 60 Weekly Vulnerabilities Spotted by The Linux Security Team | ZDNET Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi 14 Pro Phone Without Password?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-content-top-10-mobile-and-desktop-friendly-editors/"><u>In 2024, Enhance Content Top 10 Mobile & Desktop-Friendly Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-x50iplus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor X50i+ Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-red-hats-new-enterprise-linux-ai-capabilities-zdnet-insights/"><u>Revolutionizing Business with Red Hat's New Enterprise Linux AI Capabilities | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-sysadmin-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Sysadmin Efficiency</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/slash-size-of-windows-screen-in-win-10/"><u>Slash Size of Windows Screen in WIN 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987995473-troubleshoot-your-apex-legends-network-issues-effective-solutions-revealed/"><u>Troubleshoot Your Apex Legends Network Issues - Effective Solutions Revealed</u></a></li>
 </ul></div>
 

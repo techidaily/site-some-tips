@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers Featured by ZDNet
-date: 2024-09-18 14:27:52
-updated: 2024-09-20 10:32:34
+date: 2025-01-14T07:05:46.495Z
+updated: 2025-01-18T08:09:17.981Z
 tags:
   - amazon
 categories:
@@ -32,6 +32,10 @@ Jason Hiner/ZDNET
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $1,300 (save $500)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Amazon tech deals
 
 Jason Hiner/ZDNET
@@ -55,6 +59,10 @@ Jason Hiner/ZDNET
 * [Samsung 55-inch QLED 4K The Terrace TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-55-inch-Terrace-Outdoor-Built%2Fdp%2FB089B5X28G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $2,498 (save $1,002)
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $1,197 (save $203)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Amazon robot vacuum deals 
 
@@ -81,13 +89,25 @@ Maria Diaz/ZDNET
 * [Jackery Explorer 240 v2 Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJackery-v2-Versatile-Scenarios-Outdoor-Emergency%2Fdp%2FB0D2L1B7PK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $189 (save $60)
 * [Bluetti EB3A Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBLUETTI-Portable-EB3A-Recharge-Generator%2Fdp%2FB09WW3CTF4%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB09WW3CTF4%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cabaac2f9-784e-4ccd-b780-db8028a3194c%7Cdtp&dtb=1) for $198 (save $102)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Amazon deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -132,11 +152,26 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-dive-into-the-world-of-lengthened-images-with-iphone/"><u>[Updated] Dive Into the World of Lengthened Images with iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-10-final-cut-pro-plugins-ever/"><u>[Updated] The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-goes-big-with-low-cost-tech-deals-secure-an-ipad-for-just-199-dollars-this-labor-day-exclusive-scoop/"><u>Amazon Goes Big with Low-Cost Tech Deals: Secure an iPad for Just 199 Dollars This Labor Day – Exclusive Scoop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/breaking-down-crossfade-audio-dynamics-in-production-for-2024/"><u>Breaking Down Crossfade Audio Dynamics in Production for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ultra-thin-tech-how-008-inches-redefine-portability-in-new-ipad-models-insights-from-an-apple-store-visit-zdnet/"><u>Exploring Ultra-Thin Tech: How 0.08 Inches Redefine Portability in New iPad Models - Insights From an Apple Store Visit | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-asus-rog-phone-8-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Asus ROG Phone 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/join-the-pantheon-play-ascendingly-thrilling-god-of-war-fps-on-pc-platforms/"><u>Join the Pantheon: Play Ascendingly Thrilling God of War FPS on PC Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leveraging-tools-for-top-tier-video-captures-in-adobe-presenter/"><u>Leveraging Tools for Top-Tier Video Captures in Adobe Presenter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-25-unbeatable-christmas-tablet-offers-explore-the-hottest-ipad-savings/"><u>Top 25 Unbeatable Christmas Tablet Offers: Explore the Hottest iPad Savings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-slash-120-from-two-in-one-mobile-workstation-display-by-teamgee-exclusive-insights-and-reviews-on-zdnet/"><u>Unbeatable Offer: Slash $120 From Two-in-One Mobile Workstation Display by TeamGee - Exclusive Insights & Reviews on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-extended-apple-watch-battery-life-with-these-simple-adjustments-discover-the-power-of-8-key-setting-changes-on-zdnet/"><u>Unlock Extended Apple Watch Battery Life with These Simple Adjustments! Discover the Power of 8 Key Setting Changes on ZDNet</u></a></li>
+</ul></div>
+

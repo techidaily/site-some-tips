@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Save Big on Laptops with Prime Day Deals From Leading Brands Like HP, Apple & More | ZDNET Insights"
-date: 2025-01-11T19:29:48.561Z
-updated: 2025-01-12T20:55:58.660Z
+date: 2025-01-17T06:15:19.224Z
+updated: 2025-01-17T21:53:02.976Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -91,6 +95,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -106,10 +114,6 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -120,7 +124,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -131,19 +135,15 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -160,7 +160,7 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -230,18 +230,21 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-understanding-video-storage-in-24-hours/"><u>[Updated] Understanding Video Storage in 24-Hours</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-file-management-unlocking-the-power-of-quick-actions-in-macos-finder/"><u>Effortless File Management: Unlocking the Power of Quick Actions in macOS Finder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-selection-of-leading-waterproof-wearables-in-depth-analysis-and-ratings-zdnet/"><u>Exclusive Selection of Leading Waterproof Wearables : In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-ahead-with-ios-16-beta-step-by-step-installation-tips-for-early-adopters-zdnet/"><u>Get Ahead with iOS 16 Beta - Step-by-Step Installation Tips for Early Adopters | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-cut-costs-on-your-computer-build-tips-for-saving-money-on-processors/"><u>How to Cut Costs on Your Computer Build: Tips for Saving Money on Processors</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-narzo-60-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme Narzo 60 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s18-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S18</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>In 2024, Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-productivity-with-custom-focus-modes-in-macos-monterey-expert-advice/"><u>Optimize Your Productivity with Custom Focus Modes in macOS Monterey | Expert Advice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/presidential-bargain-extravaganza-secure-your-202n3-m2-macbook-air-with-a-whopping-300-markdown/"><u>Presidential Bargain Extravaganza: Secure Your 202N3 M2 MacBook Air with a Whopping $300 Markdown!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/professional-workstation-assessment-on-the-new-microsoft-surface-pro-eight-by-zdnet-experts/"><u>Professional Workstation Assessment on the New Microsoft Surface Pro Eight by ZDNet Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/rally-the-friends-unveiling-the-most-exciting-sports-apps-iosandroid/"><u>Rally the Friends: Unveiling the Most Exciting Sports Apps (iOS/Android)</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-stuttering-in-mass-effect-legendary-edition/"><u>Resolved: Troubleshooting Stuttering in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-automating-the-creation-of-youtube-subscriber-links/"><u>[New] Automating the Creation of YouTube Subscriber Links</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reative-command-center-studio-for-youtubers/"><u>[New] Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-final-word-on-vegaspro-2019/"><u>2024 Approved The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>2024 Approved The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agility-vs-ai-growth-why-they-struggle-together-according-to-recent-research-insights-from-zdnet/"><u>Agility vs AI Growth: Why They Struggle Together According to Recent Research - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creating-unique-titles-for-your-online-flash-novels-using-flipbuilder-a-step-by-step-guide/"><u>Creating Unique Titles for Your Online Flash Novels Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-innovation-how-citizen-developers-are-leading-the-charge-in-ai-mastery-zdnet/"><u>Empowering Innovation: How Citizen Developers Are Leading the Charge in AI Mastery | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gemini-ai-enhanced-with-stack-overflow-insights-via-google-cloud-integration-techcrunch/"><u>Gemini AI Enhanced with Stack Overflow Insights via Google Cloud Integration | TechCrunch</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-flex-3-on-black-friday-steal-the-show-at-just-99-exclusive-before-cyber-monday-tech-news/"><u>Lenovo Flex 3 on Black Friday: Steal the Show at Just $99 - Exclusive Before Cyber Monday! | Tech News</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-11x-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme 11X 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-popularity-of-ai-agents-increases-associated-dangers-academic-experts-warn/"><u>Rising Popularity of AI Agents Increases Associated Dangers: Academic Experts Warn</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-dream-developer-role-master-the-essential-trio-of-coding-languages-insights-from-zdnet/"><u>Secure Your Dream Developer Role: Master the Essential Trio of Coding Languages - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-paradox-of-productivity-how-generative-ai-could-be-adding-to-our-to-do-lists-according-to-zdnet/"><u>The Paradox of Productivity: How Generative AI Could Be Adding to Our To-Do Lists, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-trending-tech-tongues-decoding-the-hype-around-todays-leading-programming-languages/"><u>Top Trending Tech Tongues: Decoding the Hype Around Today's Leading Programming Languages</u></a></li>
 </ul></div>
 

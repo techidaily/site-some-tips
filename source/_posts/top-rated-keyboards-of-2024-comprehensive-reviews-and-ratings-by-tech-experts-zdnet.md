@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts | ZDNet"
-date: 2025-01-07T19:09:01.249Z
-updated: 2025-01-12T19:08:57.627Z
+date: 2025-01-16T16:16:30.790Z
+updated: 2025-01-17T23:05:30.405Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ After hands-on testing the Logitech MX Keys S Wireless Keyboard and being blown 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best keyboards of 2024
 
 Show less 
@@ -45,11 +41,11 @@ Cons
 * Limited customization
 * Only one height setting
 
-## Logitech MX Keys S Wireless Keyboard
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Logitech MX Keys S Wireless Keyboard
 
 ### Best keyboard overall
 
@@ -81,6 +77,10 @@ Pros
 Cons 
 * Lacks number pad
 * Restricted compatibility
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Magic Keyboard
 
@@ -114,7 +114,7 @@ Cons
 ## Corsair K100 RGB Keyboard
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best gaming keyboard
@@ -143,10 +143,14 @@ Cons
 * Lacks backlighting
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best ergonomic keyboard
 
@@ -205,6 +209,10 @@ To see how it compares, here is a look at the best keyboards.
 | Microsoft Sculpt Ergonomic Desktop Keyboard | $93      | Split design | 104                |
 | Razer Pro Type Ultra Keyboard               | $160     | Mechanical   | 104                |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the best keyboard for you?
 
 It can be a little tricky differentiating between the different keyboards, even when you have a list of best keyboards from which to choose. To make the decision a little easier, here are some additional considerations to help you find the best keyboard for you.
@@ -226,10 +234,6 @@ In my search for the best keyboards, I considered several different factors.
 * **Connectivity:** There are both wired and wireless keyboards available, depending on your preference.
 * **Price:** The cost of keyboards can vary significantly, depending on the model and brand that you choose. For example, the Razer and Corsair models will cost you significantly more than the Apple keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What size keyboard should you buy?
 
 There are a few different types of keyboard sizes from which to choose. 
@@ -241,10 +245,6 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -253,13 +253,13 @@ Buzzetta adds, "Wired keyboards are slightly more responsive and are the best wh
 
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much do the best keyboards cost?
 
 The cost of keyboards can really run the gamut based on factors like manufacturer, size, type, and features. However, we found that the best keyboards that you can buy range in cost from $83 to $185, depending on the brand and model that you choose. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative best keyboards worth considering?
 
@@ -318,24 +318,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-comprehending-instagrams-max-video-length/"><u>[New] 2024 Approved Comprehending Instagram's Max Video Length</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-your-video-impact-with-slow-motion-on-ig/"><u>[Updated] 2024 Approved Enhance Your Video Impact with Slow Motion on IG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-intelligence-and-the-iphone-16-uncovering-why-it-might-not-be-worth-your-investment/"><u>Apple Intelligence and the iPhone 16: Uncovering Why It Might Not Be Worth Your Investment</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-camon-20-premier-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Camon 20 Premier 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/complete-guide-aomei-centralized-servers-backup-solutions-frequently-asked-questions/"><u>Complete Guide: AOMEI Centralized Servers Backup Solutions - Frequently Asked Questions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fall-innovations-on-apple-products-find-out-whats-new-for-iphone-ipad-and-mac-from-advanced-ai-integration-zdnet-report/"><u>Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration | ZDNET Report</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ideal-8-desktop-images-to-personalize-your-mbp/"><u>Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-present-ppt-on-google-meet-laptop-and-mobile-devices/"><u>In 2024, How to Present PPT on Google Meet? [Laptop and Mobile Devices]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-se-2022-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone SE (2022) SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/non-apple-non-anker-excellent-magsafe-compatible-wallets-top-picks-and-discount-alert/"><u>Non-Apple, Non-Anker Excellent MagSafe Compatible Wallets - Top Picks and Discount Alert!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-great-iphone-swap-challenge-debunking-apples-urge-for-the-latest-model-insights-by-zdnet/"><u>The Great iPhone Swap Challenge: Debunking Apple's Urge for the Latest Model | Insights by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-hidden-perils-behind-budget-windows-activation-codes/"><u>The Hidden Perils Behind Budget Windows Activation Codes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-gadgets-and-add-ons-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated AirTag Gadgets & Add-Ons of 2024 - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-wallet-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated MagSafe Wallet Picks - Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-your-passion-for-apple-sports-with-the-top-rated-complimentary-iphone-application-the-ultimate-guide-on-zdnet/"><u>Unlock Your Passion for Apple Sports with the Top-Rated, Complimentary iPhone Application - The Ultimate Guide on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-apple-vision-pro-in-depth-analysis-of-costs-capabilities-and-user-experience-explore/"><u>Unveiling the Apple Vision Pro: In-Depth Analysis of Costs, Capabilities & User Experience | Explore</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-voice-capturing-made-easy-an-in-depth-look-at-vocaroos-functionality/"><u>Updated Voice Capturing Made Easy An In-Depth Look at Vocaroos Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-the-new-iphone-15-surpasses-expectations-an-in-depth-review-for-power-users-gadgetguide/"><u>Why the New iPhone 15 Surpasses Expectations - An In-Depth Review for Power Users | GadgetGuide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-high-quality-passport-pictures-download-and-print-in-seconds-for-2024/"><u>[New] Free High-Quality Passport Pictures - Download & Print in Seconds for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[New] Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-effortless-methods-to-document-console-gaming/"><u>[Updated] In 2024, Effortless Methods to Document Console Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breaking-down-barriers-intel-ai-leader-wei-li-advocates-for-widespread-access-to-supercomputing-technology/"><u>Breaking Down Barriers: Intel AI Leader Wei Li Advocates for Widespread Access to Supercomputing Technology.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/building-a-local-ai-model-workstation-run-dozens-with-zero-cloud-reliance-insights-for-mac-and-pc-users-zdnet/"><u>Building a Local AI Model Workstation: Run Dozens with Zero Cloud Reliance - Insights for Mac and PC Users | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/compare-and-choose-the-ultimate-guide-to-virtual-webcams-and-live-video-editors-like-manycam/"><u>Compare and Choose: The Ultimate Guide to Virtual Webcams & Live Video Editors Like ManyCam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-open-source-frameworks-are-paving-a-smooth-path-for-advancements-in-ai-according-to-zdnet-experts/"><u>How Open-Source Frameworks Are Paving a Smooth Path for Advancements in AI, According to ZDNet Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-14-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi 14 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-approach-to-resolve-borderlands-3-stuttering-issues-seamlessly/"><u>Step-by-Step Approach to Resolve Borderlands 3 Stuttering Issues Seamlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-journey-of-stack-overflows-cto-in-transforming-the-platforms-scale-and-influence-an-experts-tale-featured-on-zdnet/"><u>The Journey of Stack Overflow’s CTO in Transforming the Platform's Scale and Influence – An Expert's Tale Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-open-source-experts-seek-beyond-compensation-in-career-moves-a-zdnet-perspective/"><u>What Open Source Experts Seek Beyond Compensation in Career Moves: A ZDNet Perspective</u></a></li>
 </ul></div>
 

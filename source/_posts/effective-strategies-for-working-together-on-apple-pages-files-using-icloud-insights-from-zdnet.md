@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Working Together on Apple Pages Files Using iCloud - Insights From ZDNet
-date: 2025-01-08T20:40:15.211Z
-updated: 2025-01-12T16:02:06.431Z
+date: 2025-01-17T09:15:00.046Z
+updated: 2025-01-18T06:27:06.664Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -34,12 +38,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -48,10 +56,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -62,13 +66,13 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -86,10 +90,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -149,16 +149,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-integrating-audio-elements-into-facebooks-visual-stories-for-2024/"><u>[New] Integrating Audio Elements Into Facebook's Visual Stories for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inverting-screen-time-with-android-videos/"><u>[Updated] Inverting Screen Time with Android Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>2024 Approved 5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
-<li><a href="https://some-tips.techidaily.com/an-in-depth-look-how-apple-vision-pro-affected-my-productivity-during-an-8-hour-workday-tech-insights-at-zdnet/"><u>An In-Depth Look: How Apple Vision Pro Affected My Productivity During an 8-Hour Workday | Tech Insights at ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/boost-your-gameplay-the-best-3-software-solutions-for-real-time-pc-gaming-stats-analysis/"><u>Boost Your Gameplay: The Best 3 Software Solutions for Real-Time PC Gaming Stats Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-guide-to-the-ideal-kid-friendly-tablets-as-voted-by-parents-zdnet-review/"><u>Essential Guide to the Ideal Kid-Friendly Tablets as Voted by Parents (ZDNet Review)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-leap-worth-it-insights-on-moving-up-to-iphone-16-from-seasoned-editors-at-zdnet/"><u>Is the Leap Worth It? Insights on Moving Up to iPhone 16 From Seasoned Editors at ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opening-windows-exe-files-a-simple-fix-guide/"><u>Opening Windows .exe Files: A Simple Fix Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-workspace-the-ultimate-guide-to-leveraging-an-ipad-pro-for-a-home-office-setup-insights-by-zdnet/"><u>Revolutionize Your Workspace: The Ultimate Guide to Leveraging an iPad Pro for a Home Office Setup - Insights by ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-found-playing-sounds-again-on-your-firefox-webpage-visits/"><u>Solution Found: Playing Sounds Again on Your Firefox Webpage Visits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-reliable-mac-vpns-in-depth-analysis-and-comparisons-techradar-insights/"><u>Ultimate Guide to the Most Reliable Mac VPNs - In Depth Analysis & Comparisons | TechRadar Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-film-potential-on-instagram-with-these-3-edges/"><u>[Updated] Unleash Film Potential on Instagram with These 3 Edges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-one-of-a-kind-ai-pictures-using-microsofts-innovative-image-creator-tool/"><u>Crafting One-of-a-Kind AI Pictures Using Microsoft's Innovative Image Creator Tool</u></a></li>
+<li><a href="https://extra-information.techidaily.com/critical-top-10-camera-gimbals-evaluation-iphoneandroiddslr-analysis/"><u>Critical Top 10 Camera Gimbals Evaluation IPhone/Android/DSLR Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-personalization-openais-custom-gpt-solutions/"><u>Cutting-Edge Personalization: OpenAI’s Custom GPT Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-it-certificates-at-any-professional-level-expert-guidance-by-zdnet/"><u>Essential IT Certificates at Any Professional Level: Expert Guidance by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/evaluating-inshots-capabilities-against-market-leaders/"><u>Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazons-new-ai-solutions-are-set-to-compete-with-chatgpt-and-dominate-the-market-like-microsoft-and-google-exclusive-on-zdnet/"><u>How Amazon's New AI Solutions Are Set To Compete With ChatGPT and Dominate the Market Like Microsoft and Google | Exclusive on ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kanbanize-your-google-to-do-list-master-tips-for-integrating-tasksboard-zdnet/"><u>Kanbanize Your Google To-Do List: Master Tips for Integrating TasksBoard (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-art-of-visual-task-management-convert-google-tasks-to-kanban-boards-with-ease-on-tasksboard-insights-by-zdnet/"><u>Master the Art of Visual Task Management: Convert Google Tasks to Kanban Boards With Ease on TasksBoard | Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-home-office-efficiency-a-guide-to-network-optimization-for-seamless-remote-working-and-learning-zdnet/"><u>Maximizing Home Office Efficiency: A Guide to Network Optimization for Seamless Remote Working and Learning | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-new-horizons-in-tech-professions-through-cloud-innovation-explored-on-zdnet/"><u>Navigating New Horizons in Tech Professions Through Cloud Innovation | Explored on ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/next-gen-social-media-tactics-youtube-content-on-facebook-for-2024/"><u>Next-Gen Social Media Tactics YouTube Content on Facebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reinstating-deleted-items-in-google-drive-for-pc-step-by-step-strategies-unveiled/"><u>Reinstating Deleted Items in Google Drive for PC: Step-by-Step Strategies Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singaporean-enterprises-struggle-against-ongoing-ransomware-and-phishing-threats-insights-from-zdnet/"><u>Singaporean Enterprises Struggle Against Ongoing Ransomware & Phishing Threats: Insights From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-unwanted-bluescreen-errors-post-windows-10-update/"><u>Troubleshooting Unwanted Bluescreen Errors Post-Windows 10 Update</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11</u></a></li>
 </ul></div>
 

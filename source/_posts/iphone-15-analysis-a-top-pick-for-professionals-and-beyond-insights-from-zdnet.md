@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Analysis: A Top Pick for Professionals and Beyond – Insights From ZDNet"
-date: 2025-01-06T16:16:56.502Z
-updated: 2025-01-12T19:04:32.925Z
+date: 2025-01-12T01:36:15.194Z
+updated: 2025-01-18T04:10:03.229Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,6 +48,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -65,7 +69,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -73,10 +77,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -132,10 +132,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -150,6 +146,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -163,7 +163,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -204,22 +204,21 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-exitingmycam-entry-to-exceptionalcameras/"><u>[Updated] 2024 Approved ExitingMyCam Entry to ExceptionalCameras</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/3-googleonedrive/"><u>「3つの効果的な方法: GoogleドライブをOnedriveにシームレスにバックアップ」</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-leap-the-349-ipad-shines-bright-in-let-loose-event-reviews/"><u>Apple’s Latest Leap: The $349 iPad Shines Bright in 'Let Loose' Event Reviews</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-c33-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme C33 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/defying-apples-recommendation-a-real-life-iphone-upgrade-trial/"><u>Defying Apple's Recommendation: A Real-Life iPhone Upgrade Trial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-news-lg-televisions-receive-premium-sound-enhancements-a-hit-with-apple-fans/"><u>Exciting News: LG Televisions Receive Premium Sound Enhancements, A Hit with Apple Fans</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-a-guide-to-cutting-edge-technology-evaluations/"><u>Inside Tom's Electronics: A Guide to Cutting-Edge Technology Evaluations</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revived-post-windows-update-printer-workflow/"><u>Revived Post Windows Update Printer Workflow</u></a></li>
-<li><a href="https://some-tips.techidaily.com/supercharge-your-macos-productivity-with-customized-hot-corners-explained-pro-tips-from-zdnet/"><u>Supercharge Your macOS Productivity with Customized Hot Corners Explained – Pro Tips From ZDNET</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-into-your-favorite-superhero-using-apple-vision-pro-learn-more-on-may-ve/"><u>Transform Into Your Favorite Superhero Using Apple Vision Pro - Learn More on May Ve</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ate-screener-tech-the-choice-of-top-youtube-creators/"><u>Ultimate Screener Tech The Choice of Top YouTube Creators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unboxing-the-latest-zdnets-picks-for-the-most-impressive-iphone-16-pro-features/"><u>Unboxing the Latest: ZDNet's Picks for the Most Impressive iPhone 16 Pro Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978290438-update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/what-to-expect-from-todays-apple-event-at-wwdc-advanced-insights-on-apple-intelligence-and-siri-enhancements-plus-ios-18-features-revealed-tech-news/"><u>What to Expect From Today's Apple Event at WWDC: Advanced Insights on Apple Intelligence & Siri Enhancements, Plus iOS 18 Features Revealed | Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-users-learn-how-to-use-imessage-like-a-pro-insights-by-zdnet/"><u>Windows Users, Learn How To Use iMessage Like A Pro! Insights by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-your-stories-alive-techniques-for-animation-in-text/"><u>2024 Approved Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/asia-spearheads-the-surge-in-non-monetary-payments-projected-value-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Monetary Payments: Projected Value of 1.6 Trillion</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effective-strategies-to-minimize-background-processes-and-boost-your-pcs-performance-tips-from-yl-computing/"><u>Effective Strategies to Minimize Background Processes and Boost Your PC's Performance - Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazon-employs-generative-ai-to-synthesize-user-feedback-insights-from-zdnet/"><u>How Amazon Employs Generative AI to Synthesize User Feedback: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-the-giant-google-antitrust-accord-benefits-android-devotees-and-innovators-the-inside-scoop/"><u>How the Giant Google Antitrust Accord Benefits Android Devotees & Innovators - The Inside Scoop</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-frequent-freezes-in-firefox-updated-tips/"><u>How to Fix Frequent Freezes in Firefox - Updated Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-6-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-with-expert-advice-from-toms-system-insights/"><u>Mastering PC Building with Expert Advice From Tom's System Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mobile-revolution-in-auto-sales-simplifying-the-process-of-acquiring-a-used-car-according-to-zdnet/"><u>Mobile Revolution in Auto Sales: Simplifying the Process of Acquiring a Used Car, According to ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/monetize-your-amazon-prime-day-deals-a-guide-to-profiting-from-your-top-picks-shared-online-insights-for-earnings/"><u>Monetize Your Amazon Prime Day Deals: A Guide to Profiting From Your Top Picks Shared Online - Insights for Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-the-global-digital-currency-frontier-singapores-strategic-initiatives-detailed-by-zdnet/"><u>Pioneering the Global Digital Currency Frontier: Singapore's Strategic Initiatives Detailed by ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/premium-talker-alteration-tech-for-bloggers-and-streamers/"><u>Premium Talker Alteration Tech for Bloggers and Streamers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/profit-from-publishing-shopping-reviews-for-2024/"><u>Profit From Publishing Shopping Reviews for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reddit-introduces-sponsored-content-resembling-user-submissions-zdnet-insight/"><u>Reddit Introduces Sponsored Content Resembling User Submissions | ZDNet Insight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revive-flawed-movies-quickly-stellar-phoenix-for-mac/"><u>Revive Flawed Movies Quickly: Stellar Phoenix for Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
 
