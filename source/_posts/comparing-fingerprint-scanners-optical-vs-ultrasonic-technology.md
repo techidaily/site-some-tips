@@ -1,7 +1,7 @@
 ---
 title: "Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology"
-date: 2024-09-19T18:47:55.939Z
-updated: 2024-09-22T18:15:52.941Z
+date: 2025-01-21T17:34:08.863Z
+updated: 2025-01-24T19:54:08.084Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ## Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * In-display fingerprint scanners vary, with ultrasonic scanners being more reliable and secure, working even with wet or dirty fingers.
@@ -19,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
  The fingerprint scanner hidden under your Android phone’s screen is a marvelous piece of engineering. Some of the first phones to feature in-display fingerprint scanners used visible light to scan your finger, but the technology has gotten better over the years. Here's what you need to know about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Not All In-display Fingerprint Readers Are Made Equal
 
 ![Galaxy A51 in-screen fingerprint sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/28b922ec.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Michael Crider / How-To Geek
 
@@ -53,16 +65,13 @@ OnePlus
 
  It has since been patched, but [a researcher once spoofed optical fingerprint security](https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/) on multiple phone models with nothing more than a reflective plastic sheet. Placing the reflective sheet on top of a leftover fingerprint on the display unlocked the phone. As far as bypassing biometric security goes, this hack is as low tech as it gets.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Ultrasonic Fingerprint Scanner
 
 ![Under display fingerprint scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Under-Display-Fingerprint-Scanner.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [TPROduction / Shutterstock.com](https://www.shutterstock.com/image-photo/unlocking-phone-finger-on-digital-fingerprint-1527126299)
 
@@ -77,10 +86,7 @@ OnePlus
  Plus, they’re more secure because it's harder to fool a 3D model than a 2D image. Ultrasonic scanners aren’t unbreakable though. Instead of a 2D printout, an attacker could clone a detailed model of the fingerprint using a 3D printer. Someone created a 3D print of their own fingerprint lifted off a wine glass (I say "lifted" but they just took a picture of it with a phone) and successfully [unlocked a flagship Samsung Galaxy phone with the false fingerprint](https://imgur.com/gallery/i-attempted-to-fool-new-samsung-galaxy-s10s-ultrasonic-fingerprint-scanner-by-using-3d-printing-i-succeeded-8aGqsSu).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Who is the Winner?
@@ -104,5 +110,21 @@ OnePlus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-enablingdisabling-picture-in-picture-a-step-by-step-guide-for-iphones/"><u>[New] In 2024, Enabling/Disabling Picture-in-Picture A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[Updated] 2024 Approved Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-essential-imovie-steps-for-squaring-up-instagram-posts/"><u>[Updated] 2024 Approved The Essential iMovie Steps for Squaring Up Instagram Posts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>2024 Approved Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-the-industrial-metaverse-the-revolutionary-partnership-between-sony-and-siemens-transforming-innovative-design-techcrunch/"><u>Discovering the Industrial Metaverse: The Revolutionary Partnership Between Sony & Siemens Transforming Innovative Design | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-virtual-realms-with-disneys-innovative-multiplayer-vr-treadmill-a-comprehensive-guide/"><u>Exploring Virtual Realms with Disney's Innovative Multiplayer VR Treadmill – A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-12plus-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 12+ 5G Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-web-app-convert-ppm-images-into-png-format-for-free/"><u>Movavi's Web App: Convert PPM Images Into PNG Format for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mysterious-collaboration-qualcomm-teams-up-with-samsung-and-google-on-groundbreaking-ar-glasses/"><u>Mysterious Collaboration: Qualcomm Teams Up With Samsung & Google on Groundbreaking AR Glasses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/outshining-amazon-walmart-beats-the-spring-bonanza-with-a-sweet-200-meta-quest-2-bargain-discover-how-in-our-latest-analysis/"><u>Outshining Amazon: Walmart Beats the Spring Bonanza with a Sweet $200 Meta Quest 2 Bargain – Discover How in Our Latest Analysis!</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/streamline-your-music-library-by-transforming-wave-audio-tracks-into-premium-flac-format-at-no-cost-tunemagic-solutions/"><u>Streamline Your Music Library by Transforming WAVE Audio Tracks Into Premium FLAC Format at No Cost - TuneMagic Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-return-of-lying-down-mode-meta-quest-2pro-welcome-it-back-quest-3-left-out-details-from-zdnet/"><u>The Return of 'Lying Down' Mode: Meta Quest 2/Pro Welcome It Back; Quest 3 Left Out – Details From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-roadmap-to-securing-an-apple-vision-pro-before-launch-a-step-by-step-guide-for-preorders-zdnet-tech-analysis/"><u>The Roadmap to Securing an Apple Vision Pro Before Launch: A Step-by-Step Guide for Preorders | ZDNet Tech Analysis</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Working Together on Apple Pages Files Using iCloud - Insights From ZDNet
-date: 2025-01-17T09:15:00.046Z
-updated: 2025-01-18T06:27:06.664Z
+date: 2025-01-20T17:23:16.515Z
+updated: 2025-01-24T16:58:00.492Z
 tags:
   - apple
 categories:
@@ -28,7 +28,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -37,17 +37,9 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -56,6 +48,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -66,14 +62,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -90,6 +82,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -108,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,22 +149,21 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-film-potential-on-instagram-with-these-3-edges/"><u>[Updated] Unleash Film Potential on Instagram with These 3 Edges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-one-of-a-kind-ai-pictures-using-microsofts-innovative-image-creator-tool/"><u>Crafting One-of-a-Kind AI Pictures Using Microsoft's Innovative Image Creator Tool</u></a></li>
-<li><a href="https://extra-information.techidaily.com/critical-top-10-camera-gimbals-evaluation-iphoneandroiddslr-analysis/"><u>Critical Top 10 Camera Gimbals Evaluation IPhone/Android/DSLR Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-personalization-openais-custom-gpt-solutions/"><u>Cutting-Edge Personalization: OpenAI’s Custom GPT Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-it-certificates-at-any-professional-level-expert-guidance-by-zdnet/"><u>Essential IT Certificates at Any Professional Level: Expert Guidance by ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/evaluating-inshots-capabilities-against-market-leaders/"><u>Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-amazons-new-ai-solutions-are-set-to-compete-with-chatgpt-and-dominate-the-market-like-microsoft-and-google-exclusive-on-zdnet/"><u>How Amazon's New AI Solutions Are Set To Compete With ChatGPT and Dominate the Market Like Microsoft and Google | Exclusive on ZDNET</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/kanbanize-your-google-to-do-list-master-tips-for-integrating-tasksboard-zdnet/"><u>Kanbanize Your Google To-Do List: Master Tips for Integrating TasksBoard (ZDNet)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-the-art-of-visual-task-management-convert-google-tasks-to-kanban-boards-with-ease-on-tasksboard-insights-by-zdnet/"><u>Master the Art of Visual Task Management: Convert Google Tasks to Kanban Boards With Ease on TasksBoard | Insights by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-home-office-efficiency-a-guide-to-network-optimization-for-seamless-remote-working-and-learning-zdnet/"><u>Maximizing Home Office Efficiency: A Guide to Network Optimization for Seamless Remote Working and Learning | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-new-horizons-in-tech-professions-through-cloud-innovation-explored-on-zdnet/"><u>Navigating New Horizons in Tech Professions Through Cloud Innovation | Explored on ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/next-gen-social-media-tactics-youtube-content-on-facebook-for-2024/"><u>Next-Gen Social Media Tactics YouTube Content on Facebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/reinstating-deleted-items-in-google-drive-for-pc-step-by-step-strategies-unveiled/"><u>Reinstating Deleted Items in Google Drive for PC: Step-by-Step Strategies Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singaporean-enterprises-struggle-against-ongoing-ransomware-and-phishing-threats-insights-from-zdnet/"><u>Singaporean Enterprises Struggle Against Ongoing Ransomware & Phishing Threats: Insights From ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-unwanted-bluescreen-errors-post-windows-10-update/"><u>Troubleshooting Unwanted Bluescreen Errors Post-Windows 10 Update</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels-for-2024/"><u>[New] The Ultimate List 8 Key Steps for Irresistible Unboxing Reels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-swiftly-switch-songs-in-yt-playlist-heres-how/"><u>[Updated] Swiftly Switch Songs in YT Playlist, Here's How</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-tablet-showdown-of-2024-in-depth-comparisons-and-ratings/"><u>Affordable Tablet Showdown of 2024: In-Depth Comparisons and Ratings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoid-game-disruptions-6-proven-fixes-to-keep-street-fighter-amoored-and-running-smoothly/"><u>Avoid Game Disruptions: 6 Proven Fixes to Keep Street Fighter Amoored and Running Smoothly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-video-frames-to-photos-top-7-techniques-by-movavi/"><u>Convert Video Frames to Photos: Top 7 Techniques by Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-gpt-3-experience-crafting-your-own-restrictions-free-chatbot-using-freedomgpt-on-windows-os/"><u>DIY GPT-3 Experience: Crafting Your Own Restrictions-Free Chatbot Using FreedomGPT on Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-10-4g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 10 4G Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-at-apples-bold-leap-forward-the-impressive-launch-of-m4-ipad-pro-expansive-13-inch-ipad-air-and-enhanced-apple-pencil-pro-features-tech-digest-z113/"><u>Inside Look at Apple's Bold Leap Forward: The Impressive Launch of M4 iPad Pro, Expansive 13-Inch iPad Air, and Enhanced Apple Pencil Pro Features | Tech Digest ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-vs-apple-wrist-tech-showdown-picking-the-right-smartwatch-insights-from-zdnet/"><u>Pixel Vs. Apple Wrist Tech Showdown: Picking the Right Smartwatch – Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-strategies-to-amplify-zoomed-participants-in-google-meet-for-2024/"><u>Proven Strategies to Amplify Zoomed Participants in Google Meet for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-your-apple-watch-made-easy-step-by-step-instructions-by-zdnet/"><u>Setting Up Your Apple Watch Made Easy: Step-by-Step Instructions by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-get-your-windows-10-monitors-brightness-working-again/"><u>Step-by-Step Solutions to Get Your Windows 10 Monitor's Brightness Working Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-leap-in-home-automation-apples-vision-of-a-robot-assistant-revealed-insights-from-zdnet/"><u>The Next Leap in Home Automation: Apple’s Vision of a Robot Assistant Revealed | Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fix-rogue-company-pc-stability-issues/"><u>Troubleshooting Tips: Fix Rogue Company PC Stability Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unify-your-tunes-how-to-sync-and-share-playlist-content-from-apple-music-to-youtube-music-effortlessly/"><u>Unify Your Tunes: How to Sync and Share Playlist Content From Apple Music to YouTube Music Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmasking-the-weakness-in-apples-device-security-update-essential-tips-for-optimal-protection/"><u>Unmasking the Weakness in Apple’s Device Security Update: Essential Tips for Optimal Protection</u></a></li>
 </ul></div>
 

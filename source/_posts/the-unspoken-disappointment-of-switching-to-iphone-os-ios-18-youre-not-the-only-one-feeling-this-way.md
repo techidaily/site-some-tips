@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2025-01-15T20:01:05.616Z
-updated: 2025-01-18T11:36:23.717Z
+date: 2025-01-18T18:03:39.097Z
+updated: 2025-01-24T16:15:06.610Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,14 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-the-maze-of-facebook-story-networking/"><u>[New] In 2024, Navigating the Maze of Facebook Story Networking</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-lens-legends-best-video-cameras-for-professional-use/"><u>[New] Lens Legends Best Video Cameras for Professional Use</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-simply-your-way-of-capturing-igtv-on-devices/"><u>[Updated] 2024 Approved Simply Your Way of Capturing IGTV on Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/combating-digital-deceit-the-war-on-counterfeit-corporations-by-zdnet/"><u>Combating Digital Deceit: The War on Counterfeit Corporations by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-guide-to-easily-unsubscribing-from-junk-mail-in-your-inboxes-like-gmail-and-outlook/"><u>Comprehensive Guide to Easily Unsubscribing From Junk Mail in Your Inboxes Like Gmail & Outlook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-amazons-new-10month-all-you-can-eat-grocery-delivery-plan-does-it-deliver-value/"><u>Exploring Amazon's New $10/Month All-You-Can-Eat Grocery Delivery Plan – Does It Deliver Value?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-note-30-5g-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Note 30 5G Phone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-inside-track-understanding-sound-rights-on-instagram/"><u>In 2024, Inside Track Understanding Sound Rights on Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-corsair-icue-available-for-free-download-windows-compatibility-and-tutorials/"><u>Latest Version of Corsair iCUE Available for Free Download: Windows Compatibility & Tutorials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-experience-with-affordable-tech-goodies-from-temu-a-surprisingly-positive-review/"><u>My Experience with Affordable Tech Goodies From Temu: A Surprisingly Positive Review!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-threat-emerges-how-southwest-united-and-american-airlines-face-off-against-the-webs-worst-design/"><u>New Threat Emerges: How Southwest, United & American Airlines Face Off Against the Web's Worst Design</u></a></li>
-<li><a href="https://win-dash.techidaily.com/realtek-wi-fi-driver-compatibility-fixes-for-windows-11107-what-you-need-to-know/"><u>Realtek Wi-Fi Driver Compatibility Fixes for Windows 11/10/7: What You Need To Know</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-vivo-y200-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y200 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singapore-and-usa-unite-against-cyber-fraud-with-transnational-initiative-zdnet/"><u>Singapore & USA Unite Against Cyber Fraud with Transnational Initiative – ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-mastering-apple-pay-usage-both-in-store-and-digitally-reasons-and-steps/"><u>The Ultimate Guide: Mastering Apple Pay Usage Both In-Store & Digitally - Reasons & Steps!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/thrifty-finds-on-temu-unboxing-geeky-gadgets-without-breaking-the-bank-zdnet-insights/"><u>Thrifty Finds on Temu - Unboxing Geeky Gadgets Without Breaking the Bank (ZDNet Insights)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-secrets-how-to-fix-the-no-server-error-in-pc-apex-legends-(156-chars/"><u>Unveiling Secrets: How to Fix the No-Server Error in PC Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-10-text-manipulators-boosting-affects-craft/"><u>[New] 2024 Approved Top 10 Text Manipulators Boosting Affects Craft</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-instagrams-video-sharing-limits/"><u>[New] Unlocking Instagram's Video Sharing Limits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-t5s-ability-to-capture-excitement-and-adventure/"><u>[Updated] In 2024, Unveiling T5's Ability to Capture Excitement and Adventure</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-f54-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy F54 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-for-windows-latest-version-setup-tips-common-error-fixes-and-backup-options-for-1087-users/"><u>ITunes for Windows: Latest Version Setup Tips, Common Error Fixes, and Backup Options for 10/8/7 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-ipad-potential-with-leading-productivity-tools-boost-your-daily-output-guided-by-zdnet-experts/"><u>Maximizing iPad Potential with Leading Productivity Tools: Boost Your Daily Output | Guided by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-market-trends-what-insights-can-we-gain-from-monitoring-apple-xr-headsets-delivery-schedules/"><u>Understanding Market Trends: What Insights Can We Gain From Monitoring Apple XR Headsets Delivery Schedules?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-to-expect-from-apple-watchs-new-version-unveiling-watchos-n-11s-improved-features-insights-by-zdnet/"><u>What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-you-cant-get-the-latest-apple-ai-on-your-old-iphone-the-pricey-reasons-unveiled-by-zdnet/"><u>Why You Can't Get the Latest Apple AI on Your Old iPhone: The Pricey Reasons Unveiled by ZDNET</u></a></li>
 </ul></div>
 

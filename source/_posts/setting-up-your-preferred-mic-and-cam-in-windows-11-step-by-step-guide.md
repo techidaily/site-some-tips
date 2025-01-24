@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide
-date: 2024-09-18T19:17:43.601Z
-updated: 2024-09-22T17:13:20.879Z
+date: 2025-01-19T18:27:58.892Z
+updated: 2025-01-24T18:54:33.716Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * To change your default camera, disable all other camera devices except the one you want to use.
 
  If you have multiple microphones or webcams connected to your Windows 11 computer and want to use a particular device automatically, without having to mess around in the settings each time, you have to set your preferred device as default. We'll show you how to do just that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Change Your Default Microphone on Windows 11
 
@@ -45,13 +53,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Selecting the primary microphone as default for communications in sound settings on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-the-primary-microphone-as-default-for-communications-in-sound-settings-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have multiple audio output devices connected, you can easily [set the best speaker as default](https://youtube-stream.techidaily.com/learn-the-process-of-capturing-your-watched-youtube-content-without-spending-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Change Your Default Camera on Windows 11
@@ -62,16 +71,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the camera settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-camera-settings-from-the-settings-app-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Simply open the settings of the camera that you want to disable, click "Disable", and then click "Yes" in the confirmation box.
 
 ![Disabling a camera device in the camera settings on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/disabling-a-camera-device-in-the-camera-settings-on-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Repeat this process for other camera devices you want to disable. 
 
@@ -92,5 +98,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discovering-the-most-engaging-facebook-vids/"><u>[New] 2024 Approved Discovering the Most Engaging Facebook Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-understanding-io-recorded-visual-data-storage/"><u>[New] Understanding IO Recorded Visual Data Storage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-content-that-captivates-the-square-video-formula-on-fb-for-2024/"><u>[Updated] Crafting Content That Captivates The Square Video Formula on FB for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-lightened-screen-entry-for-2024/"><u>[Updated] Lightened Screen Entry for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-stops-selling-new-watch-models-disrupts-maintenance-services-for-earlier-versions-zdnet-news/"><u>Apple Stops Selling New Watch Models; Disrupts Maintenance Services for Earlier Versions | ZDNET News</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-syma-n107g-mini-rc-helicopter-for-home-flyers/"><u>Comprehensive Review of the Syma N_107G Mini RC Helicopter for Home Flyers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-universal-streams-for-youtube-and-beyond-networks/"><u>Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/legal-yet-cost-free-ultimate-soundtracks-sites/"><u>Legal, Yet Cost-Free Ultimate Soundtracks Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-informed-on-the-go-configuring-slack-push-alerts-on-ios-devices-and-apple-smartwatches/"><u>Stay Informed On The Go: Configuring Slack Push Alerts on iOS Devices & Apple Smartwatches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-mastering-the-comeback-of-apples-vision-pro-insights-from-zdnet/"><u>Step-by-Step Guide: Mastering the Comeback of Apple's Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-and-rankings-by-tech-experts/"><u>Top-Rated Magsafe Power Solutions : Comprehensive Reviews & Rankings by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-into-your-favorite-superhero-using-apple-vision-pro-learn-more-on-may-ve-zdnet/"><u>Transform Into Your Favorite Superhero Using Apple Vision Pro - Learn More on May Ve| ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-iphone-experience-with-latest-anker-charger-and-accessories-a-must-have-before-next-weeks-release-zdnet/"><u>Upgrade Your iPhone Experience with Latest Anker Charger & Accessories: A Must-Have Before Next Week's Release | ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2025-01-15T11:55:58.848Z
-updated: 2025-01-18T02:18:04.155Z
+date: 2025-01-21T19:26:52.458Z
+updated: 2025-01-24T16:44:03.153Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,21 +161,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-harness-the-power-of-picture-in-progressive-screen-with-chrome/"><u>[New] 2024 Approved Harness the Power of Picture in Progressive Screen with Chrome</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-interactive-interface-for-podcasters/"><u>[New] Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-snapchats-boomerangs-for-2024/"><u>[New] Master the Art of Snapchat's Boomerangs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-global-music-stream-service/"><u>[Updated] Best Global Music Stream Service</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-decoding-off-facebook-data-privacy-and-safety-considerations/"><u>[Updated] Decoding Off-Facebook Data Privacy & Safety Considerations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/agile-limitations-in-big-it-companies-navigating-challenges-of-size-and-complexity-explored-by-zdnet/"><u>Agile Limitations in Big IT Companies: Navigating Challenges of Size and Complexity | Explored by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enterprise-tech-firms-embrace-ops-opportunities-and-challenges-arise-with-the-adoption-of-operational-excellence/"><u>Enterprise Tech Firms Embrace 'Ops': Opportunities and Challenges Arise with the Adoption of Operational Excellence</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/explore-the-power-of-vce-22-for-impeccable-video-clarity-for-2024/"><u>Explore the Power of VCE 2.2 for Impeccable Video Clarity for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 15 Pro Activation Lock</u></a></li>
-<li><a href="https://some-tips.techidaily.com/install-the-latest-glorious-64-bit-operating-system-on-your-raspberry-pi-a-step-by-step-tutorial-zdnet/"><u>Install the Latest Glorious 64-Bit Operating System on Your Raspberry Pi: A Step-by-Step Tutorial | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/redefining-strategies-for-sourcing-top-tier-technology-professionals-in-the-hiring-process/"><u>Redefining Strategies for Sourcing Top-Tier Technology Professionals in the Hiring Process</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shifting-sands-in-the-ai-arena-understanding-generation-alpha-and-its-impact-on-tech-dominance-zdnet/"><u>Shifting Sands in the AI Arena: Understanding Generation Alpha and Its Impact on Tech Dominance | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-race-for-rapid-deployment-why-enterprises-are-clamoring-for-instant-ai-integration-according-to-zdnet/"><u>The Race for Rapid Deployment: Why Enterprises Are Clamoring for Instant AI Integration, According to ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-work-life-the-rise-of-ai-agents-as-tomorrows-game-changer-insights-by-zdnet/"><u>Transforming Work Life: The Rise of AI Agents as Tomorrow's Game-Changer - Insights by ZDNet</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlocking-full-multitasking-in-apple-browsers/"><u>Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os/"><u>[New] Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[New] In 2024, How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-pixel-perfection-in-image-integration/"><u>[New] In 2024, Pixel Perfection in Image Integration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>2024 Approved Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-meal-planning-creating-healthy-menus-using-chatgpt/"><u>AI-Driven Meal Planning: Creating Healthy Menus Using ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-store-insider-shares-unbelievable-appeal-of-vision-pro/"><u>Apple Store Insider Shares Unbelievable Appeal of Vision Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-access-problems-with-windows-smartscreen-technology/"><u>Diagnosing and Fixing Access Problems with Windows SmartScreen Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-origins-of-the-2024-crowdstrike-windows-crisis-insights-and-lessons-from-a-retrospective-analysis/"><u>Exploring the Origins of the 2024 CrowdStrike-Windows Crisis: Insights and Lessons From a Retrospective Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fortifying-imessage-security-apples-proactive-measures-against-emerging-threats-insights/"><u>Fortifying iMessage Security: Apple's Proactive Measures Against Emerging Threats - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-tech-unveiled-apple-aims-to-introduce-camera-enabled-airpods-by-2026-exclusive-details-revealed/"><u>Future Tech Unveiled: Apple Aims to Introduce Camera-Enabled AirPods by 2026 – Exclusive Details Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11/"><u>In 2024, Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-insight-into-final-cut-pro-editing-for-2024/"><u>In-Depth Insight Into Final Cut Pro Editing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-a-booking-with-apple-support-the-genius-bar-experience/"><u>Navigating a Booking with Apple Support - The Genius Bar Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-setup-instructions-for-your-fresh-ipad-device-insights-expert-team/"><u>Step-by-Step Setup Instructions for Your Fresh iPad Device – Insights Expert Team</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-bargain-on-tech-grab-an-iphone-15-pro-max-for-free-with-amazons-incredible-one-cent-offer-details-revealed/"><u>Ultimate Bargain on Tech: Grab an iPhone 15 Pro Max for Free with Amazon's Incredible One Cent Offer – Details Revealed!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-ais-understanding-why-only-recent-iphones-qualify-the-price-factor-explored-by-zdnet/"><u>Unlocking New AIs: Understanding Why Only Recent iPhones Qualify - The Price Factor Explored by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expertly Testing the Ultimate List of 2024'S Best Notetaking Tablets: Detailed Analysis"
-date: 2025-01-11T10:35:00.430Z
-updated: 2025-01-17T22:34:05.230Z
+date: 2025-01-21T19:47:35.916Z
+updated: 2025-01-24T20:16:10.107Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ If you're shopping for an iPhone, you may be asking yourself a combination (or a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best iPhone right now?
 
 ZDNET's mobile experts [carefully test](https://www.zdnet.com/article/how-we-test-phones/) every iPhone model at release, putting them through their paces to provide you with the best advice on which model to buy and the key features to look out for when you do. Currently, our pick for the best iPhone of 2024 overall is the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), thanks to its vivid-looking display, 5x zoom camera, and Action button for easier app access. Should you prefer a smaller, easy-to-handle form factor, consider the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). 
@@ -27,10 +31,6 @@ ZDNET's mobile experts [carefully test](https://www.zdnet.com/article/how-we-tes
 However, we haven't yet gotten to test the new iPhone 16 line, which was unveiled September 9 at [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/) and will be released September 20\. We will test all of the new iPhone 16 models, and will add our buying advice to this page as soon as we do.
 
 Read on for the rest of our top picks for the best iPhones you can buy today. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best iPhones of 2024
 
@@ -49,11 +49,11 @@ Cons
 * May feel unwieldy for some users
 * No major battery life improvement over its predecessor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 15 Pro Max
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone overall
 
@@ -84,10 +84,6 @@ Pros
 Cons 
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple iPhone 15
 
@@ -122,11 +118,11 @@ Cons
 * Shorter software update schedule
 * Need to buy refurbished
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPhone 13 Mini
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small iPhone
 
@@ -157,6 +153,10 @@ Cons
 * Outdated design
 * Display may come off as cramped for some
 * Not the most flexible camera system
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple iPhone SE (2022)
 
@@ -189,10 +189,14 @@ Cons
 * Doesn't have a telephoto lens
 * U.S. customers are locked to eSIM
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPhone 14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best old-generation iPhone
@@ -212,7 +216,7 @@ The iPhone 14's dual camera system at the rear has been carried over from the iP
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone?
@@ -274,15 +278,7 @@ ZDNET's review team spends upwards of a year testing the ins and outs of every m
 
 For a more extensive breakdown, check out our comprehensive [phone testing methodology page](https://www.zdnet.com/article/how-we-test-phones/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I take care of my new iPhone?
 
@@ -297,6 +293,10 @@ There are several ways you can keep your iPhone clean and pristine.
 The upcoming software version for the iPhone is currently in its [public beta phase](https://www.zdnet.com/article/you-can-download-ios-18-beta-on-your-iphone-right-now-heres-how-and-which-models-support-it/), meaning it's open for any users to test. The official software will be available to download on September 16, alongside the [new iPhone 16 series](https://www.zdnet.com/article/iphone-16-three-changes-i-want-to-see-on-the-next-apple-handsets/) that arrives September 20.
 
 Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS 18 update](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/). The list includes the iPhone 11 to iPhone 15 series and the iPhone SE (2nd generation or later). What's not included is the iPhone X and iPhone 8 series. Those, unfortunately, won't be receiving any more operating system updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the new iPhone?
 
@@ -335,13 +335,13 @@ It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones w
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Should I trade in my old iPhone?
 
 Trading in an old iPhone is one of the easiest (and safest) ways to replace an otherwise unwanted device with a new, more capable one. Most retailers, including Apple, accept trade-ins of older iPhone models, with store credit ranging from as low as $50 to $800; it all depends on which generation your iPhone is, the condition, and whether it turns on or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Do I really need an iPhone case?
 
@@ -371,10 +371,6 @@ All models within the iPhone 15, 14, and 13 line, as well as select iPhone 12 mo
 
 Even more importantly, the 5G iPhone models have Qualcomm chipsets inside that are proving to provide better RF reception than we saw in past iPhones that had Intel chipsets. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Which iPhone models support wireless charging or MagSafe?
 
 All of the iPhone models in this list support Qi wireless charging technology. Wireless charging is becoming an expected feature for modern smartphones from all manufacturers.
@@ -394,6 +390,10 @@ While this number varies greatly depending on how you handle a smartphone -- per
 Then, you'll likely experience more frequent app crashes, lag, storage problems, and more. Those are common issues that any piece of technology will inhibit, not just the iPhone, after years of constant usage. 
 
 If you'd like to prolong that time, I'd recommend visiting your local Apple store to have the phone's battery replaced every three to four years and also consider backing up files to an [external hard drive](https://www.zdnet.com/article/best-external-hard-drive/) for safekeeping. As a last resort, [a factory reset](https://www.zdnet.com/article/how-to-factory-reset-your-iphone/), followed by data restoration, should give your phone a brand-new feel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other iPhone models we tested
 
@@ -441,16 +441,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/amazon-prime-day-bargain-mastery-top-10-tips-to-prevent-overindulgence-and-save-big/"><u>Amazon Prime Day Bargain Mastery: Top 10 Tips to Prevent Overindulgence and Save Big</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-world-warfare-ps5-vs-inexpensive-pc-gamers/"><u>Game World Warfare: PS5 V/S Inexpensive PC Gamers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-youtube-management-by-studio-techniques/"><u>In 2024, The Art of YouTube Management by Studio Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-sales-during-amazon-prime-day-with-newly-enhanced-google-shopping-features-a-comprehensive-guide/"><u>Maximizing Sales During Amazon Prime Day with Newly Enhanced Google Shopping Features - A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revitalizing-family-enterprise-with-a-quick-social-media-move-a-mother-daughter-success-story/"><u>Revitalizing Family Enterprise with a Quick Social Media Move: A Mother-Daughter Success Story</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-photography-restoration-companies-in-2er-2024-benefits-and-drawbacks-revealed/"><u>Top 10 Photography Restoration Companies in 2Er 2024 - Benefits and Drawbacks Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/triumph-over-technology-glitches-your-definitive-solution-for-cmos-checksum-correction/"><u>Triumph Over Technology Glitches: Your Definitive Solution for CMOS Checksum Correction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-southeast-asias-digital-economy-through-data-analytics-expert-analysis-by-zdnet/"><u>Unlocking the Potential of Southeast Asia's Digital Economy Through Data Analytics | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-united-airways-believes-choosing-southwest-is-unwise-insights-from-zdnet/"><u>Why United Airways Believes Choosing Southwest Is Unwise: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-become-a-youtube-earning-expert-universal-device-strategies/"><u>[Updated] 2024 Approved Become a YouTube Earning Expert Universal Device Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-guide-to-self-supported-youtube-earnings-strategies/"><u>[Updated] 2024 Approved The Ultimate Guide to Self-Supported YouTube Earnings Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-live-screen-record-on-chrome-pcs/"><u>2024 Approved Live Screen Record on Chrome PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-family-adventure-with-the-maisto-rock-crawler-an-in-depth-review-of-the-reliable-rc-car/"><u>Best Family Adventure with the Maisto Rock Crawler: An In-Depth Review of the Reliable RC Car</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-the-apple-vision-pro-enhance-your-economy-flight-experience-insights-from-zdnet/"><u>Can the Apple Vision Pro Enhance Your Economy Flight Experience? Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-gameplay-experience-on-a-samsung-cf591-monitor-review/"><u>Evaluating the Gameplay Experience on a Samsung CF591 Monitor Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-to-know-gptzero-the-definitive-guide-for-distinguishing-ai-creations/"><u>Get to Know GPTZero: The Definitive Guide for Distinguishing AI Creations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-worth-the-upgrade-expert-insights-from-zdnet/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Worth the Upgrade? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-bargain-snag-the-second-gen-apple-pencil-at-a-steep-discount-only-95/"><u>Labor Day Bargain: Snag the Second-Gen Apple Pencil at a Steep Discount - Only $95!</u></a></li>
+<li><a href="https://windows11.techidaily.com/masking-task-view-button-on-win-11-bar/"><u>Masking Task View Button on Win 11 Bar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/risk-of-multi-organ-failure/"><u>Risk of Multi-Organ Failure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-beats-guide-to-transferring-playlists-between-apple-music-and-youtube-music-services-tech-insights/"><u>Streamlining Your Beats: Guide to Transferring Playlists Between Apple Music and YouTube Music Services | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/student-savings-on-apple-music-streaming-tips-and-tricks-for-scoring-a-budget-friendly-plan/"><u>Student Savings on Apple Music Streaming: Tips and Tricks for Scoring a Budget-Friendly Plan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-choice-presents-when-unsure-of-the-perfect-gift-insights-from-zdnet/"><u>Top Choice Presents When Unsure of the Perfect Gift: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-highest-quality-magsafe-wallets-reviewed-by-experts/"><u>Ultimate Guide to the Highest Quality MagSafe Wallets Reviewed by Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-discontinuing-your-subscription-to-apple-music-without-using-itunes-insights/"><u>Ultimate Guide: Discontinuing Your Subscription to Apple Music Without Using iTunes - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-deal-alert-apples-macbook-air-with-m2-chip-hits-all-time-low-on-cyber-monday-detailed-analysis/"><u>Unbeatable Deal Alert: Apple's MacBook Air with M2 Chip Hits All-Time Low on Cyber Monday - Detailed Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y78plus-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

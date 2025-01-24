@@ -1,7 +1,7 @@
 ---
 title: "Discover Ways to Detect If Someone's Using an Apple AirTag on You: A Guide"
-date: 2025-01-16T18:29:48.830Z
-updated: 2025-01-18T03:58:08.883Z
+date: 2025-01-19T16:05:32.771Z
+updated: 2025-01-24T17:29:22.275Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ In this article, I answer a relatively common reader question: _What does it all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Understanding the CPU
 
@@ -57,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -83,7 +87,7 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -107,7 +111,7 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -152,10 +156,6 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  M1, M2, M3, Pro, Max, and Ultra
 
 M1 was the first Apple Silicon processor model that Apple used inside its computers. As of this writing, Apple has shipped an M2 generation of processors, and [just announced the M3 generation](https://www.zdnet.com/article/m3-apple-silicon-is-here-and-theres-more-to-it-than-new-laptops-and-all-in-ones/). In addition to the base-model processors, Apple has created higher performance versions, which are labeled Pro, Max, and -- for the M1 and M2 -- Ultra. We haven't seen the Ultra on the M3 family, at least yet.
@@ -179,7 +179,7 @@ The M-series processors are SoCs, so memory and storage come right on the chip. 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -222,22 +222,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-art-of-kinemaster-made-memes/"><u>[New] 2024 Approved The Art of KineMaster-Made Memes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-moviemakerpro-insights-full-analysis/"><u>[New] MovieMakerPro Insights – Full Analysis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-professional-camera-choices-complete-360-guide-2023/"><u>[New] Top Professional Camera Choices - Complete 360 Guide 2023</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-full-screen-mastery-achieved-in-obs/"><u>[Updated] Full Screen Mastery Achieved in Obs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-virtual-safari-androids-ultimate-animals-game-list/"><u>[Updated] In 2024, Virtual Safari Android's Ultimate Animals Game List</u></a></li>
-<li><a href="https://win-premium.techidaily.com/backdoor-threats-explained-effective-measures-for-safeguarding-your-electronic-gadgets-from-cyber-attacks/"><u>Backdoor Threats Explained: Effective Measures for Safeguarding Your Electronic Gadgets From Cyber Attacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/govees-intelligent-space-heater-now-just-40-cheaper-learn-more-on-zdnet/"><u>Govee's Intelligent Space Heater Now Just $40 Cheaper - Learn More on ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-enhance-vfx-artistry-in-your-videos-with-integrated-free-lut-support-from-obs/"><u>In 2024, Enhance VFX Artistry in Your Videos with Integrated, Free LUT Support From OBS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-latest-google-nest-smart-thermostat-comprehensive-guide-on-capabilities-technical-details-costing-and-additional-insights-techradar59/"><u>In-Depth Analysis of the Latest Google Nest Smart Thermostat: Comprehensive Guide on Capabilities, Technical Details, Costing & Additional Insights - TechRadar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-14-evaluation-by-zdnet-shows-just-the-right-balance-of-quality-and-functionality/"><u>IPhone 14 Evaluation by ZDNET Shows Just the Right Balance of Quality and Functionality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-the-ultimate-guide-to-using-manycam-as-your-go-to-live-streaming-and-remote-camera-tool/"><u>Real-Time Broadcasting: The Ultimate Guide to Using ManyCam as Your Go-To Live Streaming and Remote Camera Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-solar-powered-lighting-options-expert-reviews-and-comparisons/"><u>Top 5 Solar Powered Lighting Options - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-expert-picked-best-flashlights-featured-on-zdnet/"><u>Top Expert-Picked Best Flashlights - Featured on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-recommended-space-heaters-expert-review-by-zdnet/"><u>Top Recommended Space Heaters - Expert Review by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-electric-vehicle-home-charging-stations-industry-experts-picks-zdnet/"><u>Top-Rated Electric Vehicle Home Charging Stations : Industry Experts' Picks - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-rugged-outdoor-power-solutions-professional-insights-on-portable-generators-for-campers-pcmag/"><u>Ultimate Guide to Rugged Outdoor Power Solutions: Professional Insights on Portable Generators for Campers | PCMag</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-travel-power-banks-of-2024-comprehensive-analysis-and-rankings-cnet/"><u>Ultimate Guide to the Best Travel Power Banks of 2024: Comprehensive Analysis and Rankings | CNET</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-digital-display-delights-top-plugins-and-apps-for-photo-frames/"><u>[New] In 2024, Digital Display Delights Top Plugins & Apps for Photo Frames</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-kinemaster-app-for-android-a-comprehensive-insight-review/"><u>[Updated] In 2024, KineMaster App for Android A Comprehensive Insight Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-guide-to-combining-zoom-and-fb-live/"><u>[Updated] In 2024, The Ultimate Guide to Combining ZOOM & FB Live</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-magic-behind-film-plots/"><u>[Updated] In 2024, Unveiling the Magic Behind Film Plots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolution-at-apple-embracing-the-future-of-technology-by-following-in-microsofts-bing-footsteps-zdnet-exclusive/"><u>AI Revolution at Apple: Embracing the Future of Technology by Following in Microsoft's Bing Footsteps | ZDNET Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-grants-green-light-to-refurbish-certain-iphone-components-a-new-era-of-eco-friendly-tech-support/"><u>Apple Grants Green Light to Refurbish Certain iPhone Components: A New Era of Eco-Friendly Tech Support</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-value-of-alcatels-joy-tab-2-in-depth-budget-lte-tablet-insights/"><u>Exploring the Value of Alcatel's Joy Tab 2: In-Depth Budget LTE Tablet Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-se-2022-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone SE (2022)? Heres the Best Fixes</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/quick-and-easy-iso-to-mp3-converter-master-the-art-of-transforming-files-with-precision/"><u>Quick & Easy ISO to MP3 Converter: Master the Art of Transforming Files with Precision</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/renowned-experts-exquisite-insta-highlight-creators-for-2024/"><u>Renowned Experts Exquisite Insta Highlight Creators for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-own-apple-vision-pro-today-with-choices-of-512gb-or-1tb-exclusive-pre-order-available-on-zdnet/"><u>Secure Your Own Apple Vision Pro Today with Choices of 512GB or 1TB - Exclusive Pre-Order Available on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-in-touch-effortlessly-contacting-family-and-friends-via-apple-watch-the-ultimate-guide/"><u>Stay in Touch Effortlessly: Contacting Family & Friends via Apple Watch - The Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mac-software-the-ultimate-guide-featuring-insights-from-zdnet/"><u>Top-Rated Mac Software : The Ultimate Guide - Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-from-iphone-to-pixel-made-simpler-thanks-to-new-apple-policy-changes-zdnet-insights/"><u>Transition From iPhone to Pixel Made Simpler Thanks to New Apple Policy Changes - ZDNet Insights</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-enrich-your-music-the-ultimate-photo-audio-integration-guide-sonic-visualization-for-2024/"><u>Updated Enrich Your Music The Ultimate Photo-Audio Integration Guide Sonic Visualization for 2024</u></a></li>
 </ul></div>
 

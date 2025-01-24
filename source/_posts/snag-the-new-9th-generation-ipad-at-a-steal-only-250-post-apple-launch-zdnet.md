@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2025-01-10T19:18:28.189Z
-updated: 2025-01-18T09:40:13.375Z
+date: 2025-01-20T17:54:46.794Z
+updated: 2025-01-24T19:39:19.515Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,19 +69,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-kickstarting-your-youtube-journey-building-and-earning/"><u>[New] 2024 Approved Kickstarting Your YouTube Journey Building & Earning</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/inimovie-magician-for-2024/"><u>[New] MiniMovie Magician for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-controlling-bitrate-overload-in-obs/"><u>[Updated] Controlling Bitrate Overload in OBS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-complete-user-manual-how-to-use-screen-recording-on-mac/"><u>[Updated] The Complete User Manual How To Use Screen Recording on Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>2024 Approved Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/at-ces-2024-nvidia-advocates-the-power-of-ai-enabled-pcs-insights-from-zdnet/"><u>At CES 2024, Nvidia Advocates the Power of AI-Enabled PCs - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-12-video-channels-at-your-command-seamless-viewing/"><u>In 2024, 12 Video Channels at Your Command – Seamless Viewing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-ways-of-shooting-with-a-fisheye-lens/"><u>In 2024, Cutting-Edge Ways of Shooting with a Fisheye Lens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-metas-new-generation-of-ai-chips-enhanced-training-and-inferencing-capabilities-insights-from-zdnet/"><u>Introducing Meta's New Generation of AI Chips: Enhanced Training & Inferencing Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-tomorrows-digital-landscape-the-rise-of-next-gen-software-developers/"><u>Navigating Tomorrow's Digital Landscape: The Rise of Next-Gen Software Developers</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/probleme-mit-der-installation-von-windows-nicht-bootfahigem-usb-tipps-zur-fehlerbehebung-und-wiederherstellung/"><u>Probleme Mit Der Installation Von Windows Nicht Bootfähigem USB: Tipps Zur Fehlerbehebung Und Wiederherstellung</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tackling-the-challenge-managing-over-60-daily-cves-with-linux-security-effective-alternatives-from-zdnet/"><u>Tackling the Challenge: Managing Over 60 Daily CVEs with Linux Security - Effective Alternatives From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-future-with-linux-creator-linus-torvalds-exploring-artificial-intelligence-and-rusts-role-in-todays-technology-landscape-zdnet-features/"><u>Unlocking the Future with Linux Creator Linus Torvalds: Exploring Artificial Intelligence and Rust's Role in Today’s Technology Landscape | ZDNet Features</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users-for-2024/"><u>Updated Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-embark-on-a-virtual-journey-with-iphone-vr-videos-for-2024/"><u>[New] Embark on a Virtual Journey with iPhone VR Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-minecraft-through-optimal-ram-assignment/"><u>[Updated] Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-apples-latest-mac-mini-with-m1-and-mac-studio-with-m2-which-performs-superiorly/"><u>Comparing Apple's Latest: Mac Mini with M1 and Mac Studio with M2 – Which Performs Superiorly?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/considering-the-leap-to-iphone/"><u>Considering the Leap to iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oneplus-ace-3-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On OnePlus Ace 3</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-finding-legal-music-a-producers-manual/"><u>In 2024, Finding Legal Music A Producer's Manual</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-edge-40-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Edge 40 online without jailbreak</u></a></li>
+<li><a href="https://some-tips.techidaily.com/late-marchearly-april-202/"><u>Late March/Early April 202</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-playlist-streaming-your-mp3-music-library-online/"><u>Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-iphone-n16-phenomenon-most-popular-variants-and-their-availability-timelines-as-analyzed-by-zdnet/"><u>The iPhone #N#16 Phenomenon: Most Popular Variants and Their Availability Timelines as Analyzed by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-improvements-android-must-make-to-challenge-ios-effectively-insights-from-tech-experts-at-zdnet/"><u>Top 5 Improvements Android Must Make to Challenge iOS Effectively: Insights From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-incompatibility-how-to-resolve-your-scanners-os-conflicts-expertise-from-yl-computing/"><u>Troubleshooting Incompatibility: How to Resolve Your Scanner's OS Conflicts - Expertise From YL Computing</u></a></li>
 </ul></div>
 

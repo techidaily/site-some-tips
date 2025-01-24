@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know
-date: 2025-01-11T09:24:27.417Z
-updated: 2025-01-18T11:28:51.815Z
+date: 2025-01-23T20:13:48.981Z
+updated: 2025-01-24T16:06:57.807Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,6 +35,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -58,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -70,6 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -79,7 +87,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -92,19 +100,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -120,6 +120,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -127,10 +131,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -180,16 +180,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ideo-color-correction-for-youtube-beauty-for-2024/"><u>[New] Video Color Correction for YouTube Beauty for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-whats-new-in-youtube-tv-updates-and-features-for-2024/"><u>[Updated] What's New in YouTube TV Updates & Features for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-the-hype-around-leading-code-languages-and-why-they-matter-expert-analysis-from-zdnet/"><u>Decoding the Hype Around Leading Code Languages and Why They Matter | Expert Analysis From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-trends-in-coding-language-popularity-since-2016-analysis-and-predictions-zdnet/"><u>Decoding Trends in Coding Language Popularity Since 2016 – Analysis & Predictions | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-fold-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel Fold Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-sound-trailblazers-guide-kicking-off-with-fade-in-techniques/"><u>In 2024, The Sound Trailblazer’s Guide Kicking Off with Fade-In Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/join-the-forefront-of-augmented-reality-with-apple-vision-pro-via-testflight-tips-from-zdnet/"><u>Join the Forefront of Augmented Reality with Apple Vision Pro via TestFlight – Tips From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-the-power-of-ai-red-hat-revolutionizes-enterprise-linux-with-innovative-features-techzn/"><u>Leveraging the Power of AI: Red Hat Revolutionizes Enterprise Linux with Innovative Features | TechZN</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-system-admin-efficiency-with-windows-powershell-learn-the-secrets-for-only-16-zdnet/"><u>Master System Admin Efficiency with Windows PowerShell - Learn the Secrets for Only $16! | ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-essential-portable-tire-inflator-a-detailed-look-at-the-dependable-and-user-friendly-kensun-model/"><u>The Essential Portable Tire Inflator: A Detailed Look at the Dependable and User-Friendly Kensun Model</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-expert-strategies-for-seamless-clip-composition/"><u>[New] 2024 Approved Expert Strategies for Seamless Clip Composition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-joyful-journeys-in-cinema-summers-top-10-for-families/"><u>[New] Joyful Journeys in Cinema Summer's Top 10 for Families</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-template-transformations-build-unique-logos-for-pennies/"><u>[New] Template Transformations Build Unique Logos for Pennies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-professionals-guide-to-precision-with-morphvox-technology/"><u>[Updated] A Professional's Guide to Precision with MorphVOX Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-unveils-vision-pro-with-native-microsoft-office-support-including-word-and-excel-on-arrival-gadgetflow/"><u>Apple Unveils Vision Pro with Native Microsoft Office Support Including Word and Excel on Arrival | GadgetFlow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/breakthrough-in-accessibility-how-apples-latest-feature-enables-eye-gestures-to-command-your-ios-devices-analysis/"><u>Breakthrough in Accessibility: How Apple's Latest Feature Enables Eye Gestures to Command Your iOS Devices | Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/detailed-insights-into-lg-watch-style-a-deep-dive-into-established-wear-os-technology/"><u>Detailed Insights Into LG Watch Style – A Deep Dive Into Established Wear OS Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-selected-ultimate-guide-to-the-best-note-taking-tablets-of-2e-tested-compared-and-reviewed-zdnet/"><u>Expertly Selected Ultimate Guide to the Best Note-Taking Tablets of 2E - Tested, Compared, and Reviewed | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explore-cool-features-top-5-cmd-tricks-revealed/"><u>Explore Cool Features: Top 5 Cmd Tricks Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-typing-less-lag-quick-win-1011-input-fixes-7/"><u>Faster Typing, Less Lag: Quick WIN 10/11 Input Fixes (#7)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grab-the-cheapest-apple-watch-series-n9-ever-special-offer-ends-soon-dont-miss-out-zdnet/"><u>Grab the Cheapest Apple Watch Series N9 Ever! Special Offer Ends Soon, Don't Miss Out | ZDNET.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuito-online-convertidor-de-archivos-3gp-a-mp3-con-movavi/"><u>Gratuito Online: Convertidor De Archivos 3GP a MP3 Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-lenovo-thunderbolt-3-docking-station-drivers/"><u>How to Install the Latest Lenovo Thunderbolt 3 Docking Station Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-revolutionary-apple-airpods-pro-now-with-enhanced-tracking-and-usb-c-charging-features-detailed-review/"><u>Introducing the Revolutionary Apple AirPods Pro: Now with Enhanced Tracking & USB-C Charging Features - Detailed Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/order-your-apple-watch-series-10-in-advance-tips-and-tricks-on-pre-ordering-plus-savings-techniques-insights-from-zdnet/"><u>Order Your Apple Watch Series 10 in Advance: Tips & Tricks on Pre-Ordering Plus Savings Techniques – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-timepiece-discover-the-exciting-advantages-of-watchos-n-version-in-apple-watch-gadget-zone/"><u>Revamping Your Timepiece: Discover the Exciting Advantages of WatchOS N Version in Apple Watch | Gadget Zone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-apple-gift-card-save-150-when-purchasing-a-new-macipad-for-school-easy-steps-to-claim/"><u>Secure Your Apple Gift Card: Save $150 When Purchasing a New Mac/iPad for School - Easy Steps to Claim!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-tutorial-record-on-hangouts-for-2024/"><u>Tech Tutorial Record on Hangouts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-comprehensive-guide-how-to-get-started-with-your-brand-new-ipad-setup-process/"><u>ZDNet's Comprehensive Guide: How to Get Started with Your Brand-New iPad Setup Process</u></a></li>
 </ul></div>
 

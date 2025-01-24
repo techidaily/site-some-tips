@@ -1,7 +1,7 @@
 ---
 title: "Top Tech Picks : How Apple & Dell Stack Up Against Competitors - Insights From ZDNet"
-date: 2025-01-13T08:33:36.622Z
-updated: 2025-01-17T21:31:13.681Z
+date: 2025-01-17T19:22:44.110Z
+updated: 2025-01-24T19:18:08.144Z
 tags:
   - apple
 categories:
@@ -49,6 +49,10 @@ Graphics tested  Apple M2 8‑core
 
 ## Apple MacBook Air M2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best laptop computer
 
 **Apple MacBook Air M2 t** **ech specs:** **OS:** macOS 13.0 Ventura | **CPU:** Apple M2 chip with 8-core CPU | **GPU:** 8-core or 10-core GPU | **RAM:** 8GB, 16GB or 24GB | **Storage:** 256GB, 512GB, 1TB or 2TB | **Screen:** 13.6-inch Liquid Retina display with 500 nits brightness and True Tone technology | **Ports and slots:** MagSafe 3 charging port, 3.5mm headphone jack, 2 Thunderbolt/USB 4 ports | **Camera:** 1080p FaceTime HD camera | **Battery:** 15-18 hours | **Dimensions:** 11.97 x 8.46 x .44 inches | **Weight:** 2.7lbs | **Price:** Starting at$1,199
@@ -80,6 +84,10 @@ Cons
 * Loud operation when the computer runs hot
 * Battery life could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dell XPS 15 (2022)
 
 ### Best Windows laptop computer
@@ -109,10 +117,6 @@ Cons
 
 ## M1 iMac 24-inch
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Mac computer
 
 **M1 iMac 24-inc** **h t** **ech specs: OS:** MacOS (Monterey)| **CPU:** M1 or 10th Gen. Intel Core i5 | **GPU:** 7-core GPU or AMD Radeon Pro 5300 | **RAM:** 8GB or up to 128GB | **Storage:** 256GB or 512GB | **Screen:** 24-inch 4.5K Retina display, 4480-by-2520 resolution, 500 nits | **Wireless:** Bluetooth 5.0, 802.11ax (Wi-Fi 6) | **Ports and slots**: 2 Thunderbolt/USB 4 ports, 2 USB 3 Ports | **Camera:** 1080p FaceTime HD camera **| Audio**: Six-speaker system with wide stereo sound and spatial audio support, 3.5mm headphone jack | **Dimensions:** 54.7 x 14.7 x 46.1cm (21.5 x 5.8 x 18.1in.) | **Weight:** 4.46kg/9.83lbs | **Price:** $1,299 (8-Core CPU, 7-Core GPU), $1,499 (8-Core CPU, 8-Core GPU), $1,699 (8-Core CPU, 8-Core GPU, and 512GB SSD)
@@ -141,15 +145,7 @@ Pros
 Cons 
 * Limited USB-C ports
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Chromebook Spin 714
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Chromebook laptop computer
 
@@ -204,14 +200,10 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MSI Stealth GS76
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best gaming laptop computer
 
@@ -248,10 +240,14 @@ Processor tested  Intel Core i7-1185G7
 Graphics tested  Intel Iris Xe Graphics
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Surface Pro 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best large tablet computer
 
@@ -305,6 +301,10 @@ Since picking and choosing the right computer is a tall task, I looked at our be
 
 To choose the best product from each category, I looked at factors like price, power and speed, display, and more. To see more products in the categories listed above, check out the accompanying best list page at the bottom of every product. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the difference between Windows and Mac operating systems?
 
 The age-old [debate between Windows and Mac](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/) is a tricky one. When it comes down to operating systems (OS), it's all about preference. Mac OS is great if you already have an iPhone since it integrates all your iCloud data right into your new computer. Macs are also historically known for better privacy and fewer Malware threats than Windows devices. Mac OS is straightforward for the average tech user, making it super popular for people of all ages to become familiar with.
@@ -315,10 +315,6 @@ On the other hand, Windows is much better for gamers and lets you choose differe
 
 However, since so many different brands and makers widely use Windows, there are sometimes inconsistencies with the OS depending on the device you purchase. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do you need to have a touchscreen?
 
 Although most of the world is touchscreen-based these days, your computer definitely does not have to have a touchscreen. 
@@ -326,6 +322,10 @@ Although most of the world is touchscreen-based these days, your computer defini
 **Also: [The 5 best touchscreen laptops](https://www.zdnet.com/article/best-touchscreen-laptop/)**
 
 Of course, a touchscreen is helpful if you're an artist or work a lot with graphics and must draw on a screen, but the average person can forgo the touchscreen feature on a computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative computers for worth considering?
 
@@ -373,24 +373,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-compelling-videos-youtubes-best-thumbnail-practices/"><u>[New] In 2024, Crafting Compelling Videos YouTube's Best Thumbnail Practices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-supreme-audiovisual-hints-pack/"><u>[New] In 2024, Supreme Audiovisual Hints Pack</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snapchat-three-simple-steps-for-calls-and-chats/"><u>[Updated] Mastering Snapchat Three Simple Steps for Calls and Chats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>2024 Approved Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/empowering-synergy-how-ai-enhances-teamwork-between-programmers-and-corporate-stakeholders-insights-from-zdnet/"><u>Empowering Synergy: How AI Enhances Teamwork Between Programmers & Corporate Stakeholders - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/enjoy-endless-entertainment-explore-these-9-free-trial-subscription-services-online/"><u>Enjoy Endless Entertainment: Explore These 9 FREE Trial Subscription Services Online!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c65-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C65 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hybrid-team-dynamics-a-comprehensive-book-review-on-overcoming-remote-work-isolation/"><u>Hybrid Team Dynamics: A Comprehensive Book Review on Overcoming Remote Work Isolation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-infinix-hot-40-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Infinix Hot 40 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-blaze-2-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Blaze 2 5G Through Google Earth?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-ai-integration-and-rust-expansion-in-linux-reveals-core-importance-of-the-linux-kernel-techzoom/"><u>Linus Torvalds Discusses AI Integration & Rust Expansion in Linux; Reveals Core Importance of the Linux Kernel | TechZoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-artificial-intelligence-and-embracing-rust-unveiling-his-insights-on-the-linux-kernels-pivotal-role-techdigest/"><u>Linus Torvalds on Artificial Intelligence & Embracing Rust: Unveiling His Insights on the Linux Kernel's Pivotal Role | TechDigest</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-windows-10-privileges-a-comprehensive-guide-to-modifying-trustedinstaller-settings/"><u>Navigating Windows 10 Privileges: A Comprehensive Guide to Modifying TrustedInstaller Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-the-ultimate-fix-guide-zdnet-insights/"><u>Tidying Up Linux & Open Source Manuals: The Ultimate Fix Guide - ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranking-microsoft-certification-programs-the-best-choice-for-professional-growth-zdnet/"><u>Top Ranking Microsoft Certification Programs: The Best Choice for Professional Growth | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tech-careers-and-coding-languages-in-demand-the-latest-trends-explained-by-zdnet/"><u>Top Tech Careers & Coding Languages in Demand: The Latest Trends Explained by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranked-online-sql-training-programs-discover-expert-led-lessons/"><u>Top-Ranked Online SQL Training Programs – Discover Expert-Led Lessons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-rising-stars-in-coding-a-look-at-modern-popularity-among-programming-languages-via-zdnet-insights/"><u>Understanding the Rising Stars in Coding: A Look at Modern Popularity Among Programming Languages via ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-experience-unprecedented-performance-boosts-with-raspberry-pis-newest-creation-the-zero-2-w-priced-at-a-steal/"><u>ZDNet Exclusive: Experience Unprecedented Performance Boosts with Raspberry Pi's Newest Creation, the Zero 2 W - Priced at a Steal!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-10-youtube-music-rippers-for-android-and-ios/"><u>[New] In 2024, 10 YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>[Updated] 2024 Approved Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-update-top-benefits-await-selected-apple-airpod-models-in-the-upcoming-release-insider-tips/"><u>Exclusive Update: Top Benefits Await Selected Apple AirPod Models in the Upcoming Release - Insider Tips!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-newly-released-gen-3-apple-airpods-notable-advancements-reviewed-zdnet/"><u>In-Depth Analysis of Newly Released Gen 3 Apple AirPods - Notable Advancements Reviewed | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-15-insider-analysis-exceptional-performance-and-features-that-impress-both-novices-and-experts-zdnet-exclusive/"><u>IPhone 15 Insider Analysis: Exceptional Performance & Features That Impress Both Novices and Experts - ZDNet Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-on-apple-a-firsthand-review-of-why-upgrading-my-iphone-isnt-necessary/"><u>Taking on Apple: A Firsthand Review of Why Upgrading My iPhone Isn't Necessary</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-long-awaited-debut-it-takes-two-is-out/"><u>The Long-Awaited Debut: 'It Takes Two' Is Out!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/guide-to-instantaneously-add-closed-captions-to-youtube-clips/"><u>Your Guide to Instantaneously Add Closed Captions to YouTube Clips</u></a></li>
 </ul></div>
 

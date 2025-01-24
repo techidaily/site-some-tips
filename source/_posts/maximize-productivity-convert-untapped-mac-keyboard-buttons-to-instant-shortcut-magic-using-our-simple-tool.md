@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool"
-date: 2024-09-20T19:03:41.743Z
-updated: 2024-09-22T19:27:57.715Z
+date: 2025-01-22T20:20:01.322Z
+updated: 2025-01-24T18:58:58.195Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
  There's probably at least one key on your keyboard that you hardly ever use. Wouldn't it be nice to turn this into a more functional key, one you can use regularly to do things faster? Hyperkey is a free Mac app I use to do this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Hyperkey?
 
 [Hyperkey](http://hyperkey.app/) is a simple keyboard remapping tool that lets you put unused modifier keys on your Mac keyboard to better use. It does this in two ways.
@@ -36,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
  Hence, you can use it to create custom keyboard shortcuts for various apps and functionalities without worrying about them interfering with the existing ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Can You Do With Hyperkey?
 
  Hyperkey serves two purposes, but there are multiple ways you can put this to use. Let's jump in to see how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Remap the Caps Lock Key
 
@@ -50,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![Hyperkey app settings with the Remap Caps Lock To option turned on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Remap a Modifier Key to a Hyper Key
 
  While the ability to remap Caps Lock to another key is nice, the more useful application for Hyperkey is to turn Caps Lock (or any other modifier key) into a hyper key.
@@ -58,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![Hyper key enabled and set to Caps Lock key in the Hyperkey app on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't want to use Caps Lock as the hyper key, you can select another modifier key. Simply click the drop-down next to "Remap Physical Key to Hyper Key" and select your preferred key from the list.
 
 ![Hyper key enabled and set to Right Option key in the Hyperkey app on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-3.jpg) 
@@ -72,20 +81,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  You can also include the Shift key in your hyper key combination if you want. For this, all you've to do is tick the checkbox next to "Include Shift in Hyper Key" in the Hyperkey app.
 
 ![Include Shift in Hyper Key option enabled in Hyperkey app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-5.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Remap Caps Lock and Set Up a Hyper Key
 
@@ -99,14 +94,11 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![Hyperkey app settings with hyper key enabled and Caps Lock remapped to delete forward action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Consequently, you can press Caps Lock to mimic the key you remapped it to and use the other modifier key—you set as the hyper key—in combination with other keys to set up new shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Continue to Use Caps Lock for Its Default Function
 
@@ -117,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ##  What Should You Use Hyperkey For?
 
  Now that you're familiar with what Hyperkey is capable of, let me tell you what I use it for to give you an idea of how to use it on your Mac. You'll need to set up these keyboard shortcuts inside individual apps like Raycast or Shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Using Hyperkey With Raycast to Simplify System Operations
 
@@ -131,10 +127,7 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Edit a shortcut within the Shortcuts app and use the "Add Keyboard Shortcut" button to do this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Using Hyperkey With Automator to Quickly Run Your Quick Actions
@@ -170,5 +163,21 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-open-access-to-the-masters-oeuvre/"><u>[New] In 2024, Open Access to the Masters' Oeuvre</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-interactive-narratives-basics-and-beyond-for-2024/"><u>[Updated] Interactive Narratives Basics and Beyond for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-masterclass-in-visualization-perfectly-cropped-instagram-videos/"><u>[Updated] Masterclass in Visualization Perfectly Cropped Instagram Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-tiktok-downloading-the-blueprint-for-mass-media-capture-for-2024/"><u>[Updated] TikTok Downloading The Blueprint for Mass Media Capture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-create-personalized-extensions-with-wix-toolset-your-step-by-step-guide/"><u>1. Create Personalized Extensions with WiX Toolset: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-implementing-customactions-in-wix-integrating-customactiondata-seamlessly/"><u>1. Implementing CustomActions in WiX: Integrating CustomActionData Seamlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/configuring-wix-toolset-custom-actions-ensuring-execution-during-system-uninstall-only/"><u>Configuring WiX Toolset Custom Actions: Ensuring Execution During System Uninstall Only</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crack-the-code-to-crystal-clear-sounds-in-cod-warzone-pc-solutions/"><u>Crack the Code to Crystal Clear Sounds in COD: Warzone - PC Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-guide-to-the-10-greatest-pc-cameras/"><u>In 2024, Expert Guide to the 10 Greatest PC Cameras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-extraction-stabilized-for-pc-gaming-no-more-unwanted-interruptions/"><u>Rainbow Six Extraction Stabilized for PC Gaming: No More Unwanted Interruptions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-substitutes-for-inno-setup-mastering-advanced-installer/"><u>Superior Substitutes for Inno Setup: Mastering Advanced Installer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-on-crafting-wix-toolset-desktop-shortcuts-for-windows-users/"><u>The Ultimate Tutorial on Crafting WiX Toolset Desktop Shortcuts for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-from-inno-setup-with-top-tier-solutions-exploring-advanced-installer-techniques/"><u>Transition From Inno Setup with Top-Tier Solutions: Exploring Advanced Installer Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+</ul></div>
 

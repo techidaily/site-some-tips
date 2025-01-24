@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2025-01-13T02:18:18.654Z
-updated: 2025-01-18T02:11:15.095Z
+date: 2025-01-21T17:19:04.913Z
+updated: 2025-01-24T19:05:42.846Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,18 +119,21 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deep-dive-the-economy-and-impact-of-online-stars/"><u>[New] In 2024, Deep Dive The Economy and Impact of Online Stars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inshot-app-how-to-integrate-external-songs-easily/"><u>[New] InShot App How to Integrate External Songs Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/a-quick-fix-for-inadvertent-chrome-tab-openings-on-pc/"><u>A Quick Fix for Inadvertent Chrome Tab Openings on PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/before-prime-day-arrives-learn-the-essential-guide-on-upgrading-to-a-prime-student-plan-and-its-advantages-zdnet-tips/"><u>Before Prime Day Arrives, Learn the Essential Guide on Upgrading to a Prime Student Plan and Its Advantages | ZDNet Tips</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/connect-with-our-experts-for-detailed-information-on-aomeis-data-recovery-solutions/"><u>Connect with Our Experts for Detailed Information on AOMEI's Data Recovery Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-the-future-of-baseball-with-facial-recognition-entry-inside-the-newest-mlb-stadium-innovation/"><u>Experience the Future of Baseball with Facial Recognition Entry: Inside the Newest MLB Stadium Innovation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-camon-20-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Camon 20 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-art-of-editing-reimagined-by-vidas-innovations/"><u>In 2024, The Art of Editing Reimagined by Vida's Innovations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/next-level-convenience-acquire-secondhand-vehicles-with-a-tap-on-your-mobile-device/"><u>Next-Level Convenience: Acquire Secondhand Vehicles with a Tap on Your Mobile Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-convenience-explore-the-advantages-of-apples-expanded-nfc-capabilities-on-iphones-for-app-developers-and-users-alike-zdnet/"><u>Revolutionizing Convenience: Explore the Advantages of Apple's Expanded NFC Capabilities on iPhones for App Developers and Users Alike | ZDNet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-for-converting-windows-10-system-into-dlna-compatible-server/"><u>Step-by-Step Tutorial for Converting Windows 10 System Into DLNA Compatible Server</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-impact-of-artificial-intelligence-on-commerce-exploring-5-innovative-methods-reshaping-industry-practices-zdnet/"><u>The Impact of Artificial Intelligence on Commerce: Exploring 5 Innovative Methods Reshaping Industry Practices | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/us-and-singapore-join-forces-against-international-cyber-fraud-global-initiative/"><u>US and Singapore Join Forces Against International Cyber Fraud - Global Initiative</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-deciphering-streamer-dominance-twitch-vs-youtube-showdown/"><u>[New] In 2024, Deciphering Streamer Dominance Twitch vs YouTube Showdown</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/adjust-your-android-images-right-here-for-2024/"><u>Adjust Your Android Images Right Here for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-introduces-enhanced-airpods-4-with-innovative-find-my-functionality-and-modern-usb-c-interface-insights/"><u>Apple Introduces Enhanced AirPods 4 with Innovative Find My Functionality and Modern USB-C Interface - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-apple-discover-the-best-rechargeable-airtag-compatible-with-iphones-featured-review-by-zdnet/"><u>Beyond Apple: Discover the Best Rechargeable AirTag Compatible With iPhones | Featured Review by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-apples-laptop-evolution-m3-vs-m1-macbook-pro-is-an-upgrade-worthwhile/"><u>Comparing Apple's Laptop Evolution: M3 Vs. M1 MacBook Pro - Is an Upgrade Worthwhile?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-qi2-fast-charging-for-your-iphone-12-no-magsafe-required-guide/"><u>Effortless Qi2 Fast Charging for Your iPhone 12, No MagSafe Required Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-tv-experience-with-easy-to-attach-airtag-trackers-discover-how/"><u>Enhance Your Apple TV Experience with Easy-to-Attach AirTag Trackers - Discover How!</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-web-based-converter-transform-opus-to-wma-using-moveai/"><u>Free Web-Based Converter: Transform Opus to WMA Using Move.ai</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-razr-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Razr 40</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone 8 Plus</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>In 2024, The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphones-dominate-securing-the-leading-positions-as-worlds-best-selling-phones-for-the-first-time-insights/"><u>IPhones Dominate: Securing the Leading Positions as World's Best-Selling Phones for the First Time - Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/monetization-face-off-analyzing-dailymovement-and-youtube-profits/"><u>Monetization Face-Off Analyzing DailyMovement and Youtube Profits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-connected-on-the-go-receive-friend-and-family-updates-via-apple-watch-notifications/"><u>Stay Connected on the Go: Receive Friend and Family Updates via Apple Watch Notifications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-10-youtube-makeup-gurus-for-stunning-looks-for-2024/"><u>Top 10 YouTube Makeup Gurus for Stunning Looks for 2024</u></a></li>
 </ul></div>
 

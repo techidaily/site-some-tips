@@ -1,7 +1,7 @@
 ---
 title: Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience
-date: 2024-09-17T18:17:28.976Z
-updated: 2024-09-22T17:34:27.013Z
+date: 2025-01-22T16:54:52.217Z
+updated: 2025-01-24T18:19:57.813Z
 tags:
   - cutting-edge
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  One caution though. [AI chatbots can hallucinate](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/). So while it's easier to learn Linux using these tools, you shouldn't believe everything they say without verifying it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Getting Familiar With Complex Linux Concepts
 
  When I first ventured into the Linux world, I realized that there was a whole bag of new things to learn. Concepts like kernel modules, file system hierarchy, [permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/), [security](https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/), system management, and shell scripting were difficult to get my head around.
@@ -43,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Linux file system explained by ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-file-system-explained-by-chatgpt-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It talked about [inodes](https://fox-http.techidaily.com/enthralling-examination-and-replacement-ideas-for-2024/), which I wasn't quite familiar with. So I asked for more explanation on that point.
 
 ![Inodes being explained by ChatGPT-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/inodes-being-explained-by-chatgpt-1.png) 
@@ -50,6 +58,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The great thing about this is that you can revisit this conversation anytime in the future and recall the key points. No need to do multiple Google searches. If you think something is going over your head, you can ask ChatGPT to explain it simply. Here's an example where I asked ChatGPT to [explain kernels](https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/).
 
 ![ChatGPT explaining what is kernel in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explain-what-is-kernel-in-linux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unlike other resources, I can tailor ChatGPT responses to my level of knowledge and understanding, making my learning more effective and easy.
 
@@ -62,13 +74,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you don't understand a command, you can ask ChatGPT to explain it, describe its use cases, and show you real-life examples of what you can do with it. You can continue asking about each option or flag that comes with a command to fully grasp its usage. For example, I'd like to learn how to use [the mkfs command](https://remote-screen-capture.techidaily.com/2024-approved-optimized-obs-operations-on-android-platforms/). I start by asking what this command is for and when I need it.
 
 ![ChatGPT explaning the mkfs command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaning-the-mkfs-command.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a Linux user, there will be many times you'll have to copy and paste large commands from the internet. Sometimes, there will be no explanation of what that command does. You can copy the command and ask ChatGPT what it does before you run it on your Linux system.
 
@@ -87,10 +92,7 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 ![ChatGPT acting as a Linux terminal where the user can input Linux commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-acting-as-a-linux-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Linux Errors
@@ -102,6 +104,10 @@ find /var/log -type f -mtime +30 -exec rm {} \;
  The best way to start troubleshooting an error is to know what that error is and what's causing it. You can start your conversation with ChatGPT by asking about these things.
 
 ![ChatGPT explaining the Waiting for cache lock error on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-the-waiting-for-cache-lock-error-on-linux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, of course, you can ask ChatGPT for different methods of solving the issue. Another great use I've found for ChatGPT when resolving errors is that sometimes you may find the solution for one distro. You can share that solution with ChatGPT and ask it to tweak the solution for your distro. Here's a simple example where I provided it with a command for installing software on Ubuntu and asked it to show the same command on openSUSE.
 
@@ -118,10 +124,7 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 ![ChatGPT giving Linux alternatives of Windows Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-giving-linux-alternatives-of-windows-task-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So it gives you all the Linux alternatives to Task Manager. Likewise, you can ask ChatGPT for any step-by-step process of doing an activity on Linux, and it'll show you how to do that.
@@ -133,13 +136,6 @@ find /var/log -type f -mtime +30 -exec rm {} \;
  For example, I asked ChatGPT to write a Bash script that would log memory and CPU usage every minute.
 
 ![ChatGPT creating a Bash script for monitoring memory and CPU usage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-bash-script-for-monitoring-memory-and-cpu-usage.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It created a Bash script with proper comments on what's happening in the code. It went further and also provided instructions on using the script, customizing it, and running it in the background. Pretty neat!
 
@@ -164,5 +160,24 @@ find /var/log -type f -mtime +30 -exec rm {} \;
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] In 2024, The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-advanced-cards-for-crystal-clear-output/"><u>[Updated] 2024 Approved Advanced Cards for Crystal Clear Output</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[Updated] In 2024, Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-quick-guide-activatingdeactivating-picture-in-picture-pip-for-youtube-for-2024/"><u>[Updated] Quick Guide Activating/Deactivating Picture In Picture (PIP) for YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grab-these-new-apple-devices-showcased-at-wwdc-now-your-guide-to-instant-purchase-options-and-preorders-gadgetflow/"><u>Grab These New Apple Devices Showcased at WWDC Now – Your Guide to Instant Purchase Options & Preorders | GadgetFlow</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-y100-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo Y100 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/learn-how-to-effortlessly-install-and-use-libreoffice-as-a-cost-free-alternative-to-ms-office-on-macos/"><u>Learn How To Effortlessly Install and Use LibreOffice as a Cost-Free Alternative to MS Office on macOS!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-9xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-champion/"><u>Pixel 9XL Vs. IPhone 15 Pro Photography Face-Off Reveals Unexpected Champion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/pump-up-your-income-smart-tips-to-profit-from-social-media-videos-for-2024/"><u>Pump Up Your Income Smart Tips to Profit From Social Media Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sharing-your-macbook-or-imac-location-seamlessly-tips-and-reasons-a-guide-for-apple-users/"><u>Sharing Your MacBook or iMac Location Seamlessly: Tips & Reasons – A Guide for Apple Users</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-ram-issues-expert-tips-and-strategies-from-yl-computing/"><u>Solving Your PC's RAM Issues: Expert Tips and Strategies From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-leading-microsoft-enterprise-solutions-for-ios-reviews/"><u>Top 10 Leading Microsoft Enterprise Solutions for iOS Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mp3-audio-devices-expert-reviews/"><u>Top Rated MP3 Audio Devices - Expert Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-how-to-fix-error-code-0xc00d6d60-on-your-pc-running-windows-1011/"><u>Troubleshooting Guide: How to Fix Error Code 0Xc00d6d60 on Your PC Running Windows 10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-power-play-discover-the-leading-game-phones-of-2022-reviewed-by-zdnet/"><u>Unleashing Power Play: Discover the Leading Game Phones of 2022 Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-iphone-14-still-wins-over-the-new-iphone-16-pro-insights/"><u>Why the iPhone 14 Still Wins Over the New iPhone 16 Pro - Insights</u></a></li>
+</ul></div>
 

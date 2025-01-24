@@ -1,7 +1,7 @@
 ---
 title: "Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades"
-date: 2025-01-16T06:49:26.680Z
-updated: 2025-01-17T22:08:15.675Z
+date: 2025-01-22T18:01:16.212Z
+updated: 2025-01-24T18:58:52.580Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A less-distracting extension of your iPhone
 
 Jason Hiner/ZDNET
@@ -58,10 +62,6 @@ The watch is also a great way to reduce distractions. When you have your phone o
 
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. A truly great fitness-tracking experience
 
 Jason Hiner/ZDNET
@@ -75,7 +75,7 @@ From the concept of "closing your rings" every day (and the various awards you c
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Notifications you want to interact with
@@ -87,7 +87,7 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
@@ -101,7 +101,7 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Navigating with Apple Maps
@@ -115,7 +115,7 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
@@ -166,21 +166,19 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-fabricate-viral-gifs-via-giphy-portal-for-2024/"><u>[Updated] Fabricate Viral Gifs via Giphy Portal for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/5-best-mesh-wi-fi-network-kits-dominating-the-market-this-year/"><u>5 Best Mesh Wi-Fi Network Kits Dominating the Market This Year</u></a></li>
-<li><a href="https://some-tips.techidaily.com/celebrating-60-years-of-basic-how-simple-design-propelled-success-and-presented-challenges/"><u>Celebrating 60 Years of BASIC: How Simple Design Propelled Success & Presented Challenges</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-photography-game-choose-the-best-selfie-stick-with-these-6-insights/"><u>Elevate Your Photography Game: Choose the Best Selfie Stick with These 6 Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expanding-developer-tools-discover-how-googles-project-indexed-idx-now-includes-ios-and-android-emulators-with-enhanced-template-options-zdnet-insights/"><u>Expanding Developer Tools: Discover How Google's Project Indexed (IDX) Now Includes iOS & Android Emulators with Enhanced Template Options - ZDNet Insights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unfreezing-frozen-obs-stream-input/"><u>In 2024, Unfreezing Frozen OBS Stream Input</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-roi-with-generative-ai-seamlessly-merging-large-language-models-into-existing-corporate-insights-the-ultimate-guide-for-zdnet-readers/"><u>Maximizing ROI with Generative AI: Seamlessly Merging Large Language Models Into Existing Corporate Insights - The Ultimate Guide for ZDNet Readers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-debates-in-defining-open-source-ai-major-strides-and-dissenting-voices-featured-on-zdnet/"><u>Navigating the Debates in Defining Open Source AI: Major Strides & Dissenting Voices | Featured on ZDNET</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/no-cost-m4v-and-webm-file-conversion-using-movavis-tools/"><u>No Cost M4V and WebM File Conversion Using Movavi's Tools</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/transform-your-pdf-into-an-attractive-ebook-upload-and-showcase-on-flipbuilder/"><u>Transform Your PDF Into an Attractive eBook - Upload & Showcase on FlipBuilder</u></a></li>
-<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-resolving-windows-media-creation-tool-errors-and-enhancing-your-experience/"><u>Ultimate Guide to Resolving Windows Media Creation Tool Errors and Enhancing Your Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ultimate-list-of-ae-title-enhancement-methods-for-2024/"><u>Ultimate List of AE Title Enhancement Methods for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726808666644-understanding-immutable-linux-distributions-benefits-and-use-cases/"><u>Understanding Immutable Linux Distributions - Benefits and Use Cases</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-latest-online-scam-targeting-twitter-metas-launch-of-official-verification-feature-and-a-deep-dive-into-chatgpt-4-functionality/"><u>Unveiling the Latest Online Scam Targeting Twitter, Meta's Launch of Official Verification Feature, and A Deep Dive Into ChatGPT-4 Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wei-li-head-of-intel-artificial-intelligence-discusses-democratizing-supercomputing-power-for-all/"><u>Wei Li, Head of Intel Artificial Intelligence, Discusses Democratizing Supercomputing Power for All</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-openstack-and-kata-containers-are-catching-on-again-the-new-era-of-enterprise-compute-solutions-zdnet-insights/"><u>Why OpenStack and Kata Containers Are Catching On Again - The New Era of Enterprise Compute Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-efficient-windows-file-review-methods/"><u>[New] Efficient Windows File Review Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unblemished-visuals-buying-high-quality-images-for-2024/"><u>[New] Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-standout-moments-of-snowspeedcross-22/"><u>[Updated] In 2024, Standout Moments of Snowspeedcross '22</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anticipation-builds-for-latest-apples-airpods-insights-launch-timeline-and-how-to-secure-your-preorder/"><u>Anticipation Builds for Latest Apple's AirPods - Insights, Launch Timeline & How to Secure Your Preorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-showdown-comparing-the-m3-and-m2-macbook-air-models-best-choice-for-your-purchase/"><u>Apple's Latest Showdown: Comparing the M3 and M2 MacBook Air Models - Best Choice for Your Purchase</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/conquer-new-heights-the-definitive-guide-to-the-dji-mavic-3s-sky-high-imaging-capabilities/"><u>Conquer New Heights: The Definitive Guide to the DJI Mavic 3'S Sky-High Imaging Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-top-5-exciting-features-of-the-newly-released-ios-18-preview-tech-innovations/"><u>Explore Top 5 Exciting Features of the Newly Released iOS 18 Preview | Tech Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-latest-ai-innovations-whats-missing-and-the-future-of-machine-intelligence-techdigest/"><u>Exploring Apple's Latest AI Innovations: What's Missing and the Future of Machine Intelligence | TechDigest</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-13t-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi 13T Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-plus-shift-plus-s-functionality-problems-in-windows-1110-operating-systems/"><u>Resolved: How to Fix 'Windows + Shift + S' Functionality Problems in Windows 11/10 Operating Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-privacy-unveiling-apples-methods-to-protect-your-ai-powered-cloud-data-insights/"><u>Securing Your Privacy: Unveiling Apple's Methods to Protect Your AI-Powered Cloud Data - Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151873699-share-fb-content-embrace-transfers-to-top-3-platforms/"><u>Share FB Content: Embrace Transfers to Top 3 Platforms!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trailblazing-with-tech-top-6-innovations-from-code-conductor/"><u>Trailblazing with Tech - Top 6 Innovations From Code Conductor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshooting-iphones-poor-battery-life-post-ios-1751-update-discover-7-effective-solutions-techadvice/"><u>Troubleshooting iPhone's Poor Battery Life Post-iOS 17.5.1 Update: Discover 7 Effective Solutions | TechAdvice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming AI Art with Simple Tweaks: Unlock Potential Using These Essential 8 Midjourney Commands"
-date: 2024-09-16T17:07:19.039Z
-updated: 2024-09-22T16:54:14.031Z
+date: 2025-01-21T16:49:29.370Z
+updated: 2025-01-24T18:44:21.770Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 ---
 
 ## Transforming AI Art with Simple Tweaks: Unlock Potential Using These Essential 8 Midjourney Commands
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,13 +42,25 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![Image of a cyberpunk dog created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-cyberpunk-dog-created-using-midjourney.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Image of a magical aether eagle created using Midjourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-magical-aether-eagle-created-using-midjourney.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
  And got this blended result:
 
 ![Midjourney blended image of a Steampunk lion with a cyberpunk dog with a magical eagle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-blended-image-of-a-steampunk-lion-with-a-cyberpunk-dog-with-a-magical-eagle.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, /blend generates square images with a 1:1 aspect ratio. You can customize this by going into Options > Dimension, in the prompt window and specifying the aspect ratio to Portrait, Square, or Landscape. You can also add suffixes and parameters to your blend command just like with /imagine, to further customize the results.
 
@@ -74,19 +90,6 @@ summer picnic scene without trees
 
 ![Midjourney image of a picnic scene that ignores the prompt asking to generate without trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-picnic-scene-that-ignores-the-prompt-asking-to-generate-without-trees.png) 
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Still, the generated images include trees. But you can stop this from happening by using the “no” parameter and specifying what you want removed. The modified prompt becomes:
 
 summer picnic scene --no tree, branches, leaves, trunks.
@@ -96,10 +99,7 @@ summer picnic scene --no tree, branches, leaves, trunks.
 ![Midjourney image using no parameter to avoid trees successfully when generating a picnic scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-using-no-parameter-to-avoid-trees-successfully-when-generating-a-picnic-scene.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yes, trees are still present in the composition, but their presence is significantly reduced.
@@ -137,10 +137,7 @@ a child’s painting of a house with a car and a pool --s 900
 ![Midjourney image of a child's painting with stylize at 900](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-900.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  The Repeat Parameters: Fast Visual Exploration 
@@ -157,6 +154,10 @@ two friends sitting at the beach, sunset, --r 5
 
  Basic users can do 2-4 repeats, Standard users can do 2-10, and Pro/Mega users can go wild with 2-40 repeats. Also, the repeat parameter only works with Fast or Turbo GPU models, not Relax, and will eat up a fair amount of GPU hours very quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  The Weird Parameter: Make Images Stranger 
 
  If you’ve used Midjourney long enough, you’ll soon realize it has a distinct style and aesthetic preference. If you want to force it to move away from the default styling, you can use the "weird"parameter. To do so, append your prompt with "--weird" (or "--w") at the end of your prompt along with a number between 0-3000, with 0 being the default value, meaning no weirdness.
@@ -166,6 +167,10 @@ two friends sitting at the beach, sunset, --r 5
 a steampunk cyborg
 
 ![Midjourney image of a steampunk Cyborg](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is exactly how you'd expect Midjourney to create images. Now, let’s set weird to 100:
 
@@ -179,18 +184,15 @@ a steampunk cyborg --2 1000
 
 ![Midjourney image of a steampunk Cyborg with weird parameter at 1000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-1000.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And finally, this is with weird cranked up to 2500
 
 a steampunk cyborg --w 2500
 
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7  The Video Parameter: Capture the Creation Process 
 
@@ -224,24 +226,15 @@ a pattern of autumn leaves --tile
 
 ![Midjourney generates a pattern using the tile parameter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-generates-a-pattern-using-the-tile-parameter.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ensure to mention "pattern"in the prompt or else the generated image will have absurd cuts and breaks in the image.
 
  You can now use the [Seamless Texture Checker](https://www.pycheung.com/checker/) to see the tile repeat and download it to your system. Whereas, if you want to use it as wallpaper like I do, follow these steps. On your Windows 11 system, go to Settings > Personalize > Background. Pick "Picture" under the option "Personalize Your Background" and select the image under "Choose A Photo field." Then, select “Tile” under "Choose A Fit for your desktop image," and voilà!
 
 ![Creating a Desktop wallpaper using Midjourney image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/creating-a-desktop-wallpaper-using-midjourney-image-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -260,5 +253,26 @@ a pattern of autumn leaves --tile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-snapshotgenius-comprehensive-windowsmac-photo-software-for-2024/"><u>[New] SnapshotGenius Comprehensive Windows/Mac Photo Software for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-archives-live-version-for-2024/"><u>[New] Social Media Archives - Live Version for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-alternative-cinema-choices-for-every-fan/"><u>[Updated] In 2024, Alternative Cinema Choices for Every Fan</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-9-free-youtube-logo-makers/"><u>[Updated] In 2024, Best 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-insightful-reviews-from-vllo-users/"><u>[Updated] In 2024, Insightful Reviews From VLLO Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-maximize-your-hd-vids-experience-the-ultimate-android-apps-list-for-2024/"><u>[Updated] Maximize Your Hd Vids Experience The Ultimate Android Apps List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-endeavor-discover-whats-brewing-with-its-new-game-mode-top-3-insights-revealed/"><u>Apple's Latest Endeavor: Discover What's Brewing with Its New Game Mode - Top 3 Insights Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-enchanting-on-device-ai-photo-generator-outshining-dall-e-with-seamless-magic/"><u>Discover Apple's Enchanting On-Device AI Photo Generator: Outshining DALL-E with Seamless Magic!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-entertainment-free-quality-memes-galore/"><u>Effortless Entertainment FREE, Quality Memes Galore</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-tv-remote-with-this-innovative-airtag-compatible-accessory-a-detailed-review/"><u>Enhance Your Apple TV Remote with This Innovative AirTag-Compatible Accessory: A Detailed Review</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-virtualization-at-no-cost-discover-the-steps-to-downloading-vmwares-latest-free-personal-edition-for-fusion-pro-and-workstation-pro-insights-from88/"><u>Experience Virtualization at No Cost: Discover the Steps to Downloading VMware's Latest Free Personal Edition for Fusion Pro and Workstation Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-next-wave-of-smart-tech-how-ai-is-revolutionizing-iphone-macbook-and-ipad-insights-from-zdnet/"><u>Exploring the Next Wave of Smart Tech: How AI Is Revolutionizing iPhone, MacBook, and iPad - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-f34-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy F34 5G Without PUK Codes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-messaging-update-how-ios-18-enhances-your-iphone-safety-without-ai-discovered-by-zdnet/"><u>Revolutionary Messaging Update: How iOS 18 Enhances Your iPhone Safety Without AI, Discovered by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/satellite-emergency-texts-now-possible-on-the-newly-released-google-pixel-9-a-breakthrough-in-safety-technology/"><u>Satellite Emergency Texts Now Possible on the Newly Released Google Pixel 9 - A Breakthrough in Safety Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-sides-how-the-new-iphone-16-could-convert-this-android-devotee/"><u>Switching Sides: How the New iPhone 16 Could Convert This Android Devotee</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-savings-on-amazon-exclusive-offers-of-august-2024-featured-by-zdnet/"><u>Top Savings on Amazon - Exclusive Offers of August 2024 Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-to-the-latest-tech-a-detailed-look-at-ipad-air-4-versus-ipad-air-up-or-stick-with-what-youve-got/"><u>Upgrading to the Latest Tech: A Detailed Look at iPad Air 4 Versus iPad Air 지 Up or Stick With What You've Got?</u></a></li>
+</ul></div>
 

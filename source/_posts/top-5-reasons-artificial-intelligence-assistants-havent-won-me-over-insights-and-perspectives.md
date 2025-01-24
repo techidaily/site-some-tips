@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives"
-date: 2024-09-18T16:24:26.195Z
-updated: 2024-09-22T17:26:58.926Z
+date: 2025-01-21T16:54:39.210Z
+updated: 2025-01-24T18:53:04.050Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ---
 
 ## Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 * [Personalized AI Tech Looks More Promising](https://howto.techidaily.com/best-methods-for-vivo-t2-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 
  Are you wondering what all the ChatGPT fuss is about? Have you yet to find any real-world uses for large language models and image generators? You’re not alone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AI Is Just Another Buzzword
 
@@ -35,7 +43,15 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 ![Facebook AI interpreting a joke badly and offering up nonsense AI-generated suggestions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_7249.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So you’re forgiven for feeling jaded when you see the term “AI” splashed around as a mark of quality or genuine innovation. Facebook’s Meta AI is a good example that's garnered a lot of eye-rolls since being foisted upon users. It has invaded the search box across multiple apps, it bugs you like a clingy ex, and still manages to miss the mark entirely (as you can see above).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I Struggle to Integrate AI Into My Work Life
 
@@ -49,18 +65,15 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
  If you’re able to integrate tools like ChatGPT into your work life, I salute you. Formal letters are sterile and time-consuming, I bet ChatGPT is great for that. You could generate a CV using such a tool, then spice it up with your own words to stand out from the crowd. This is just a selection of the [basic tasks that ChatGPT is good for](https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/), but few of them get me particularly excited.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  My Life Isn't Complicated Enough Outside of Work
 
  Call me boring, but I don’t need an AI tool to summarize my emails or help me draft new ones. I’m perfectly fine with ignoring my inbox, thanks. I don’t run a _Dungeons & Dragons_ group where I need help coming up with characters or scenarios, and even if I did I’m not sure I’d defer the more enticing creative aspects of running a campaign to a word prediction machine.
 
 ![AI-generated image of Jesus made from plastic bottles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ptdlxoo.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I’m not an artist, and I have my own ethical concerns about using generative AI trained on other people's work. I still find it relatively easy to [spot AI-generated images](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/) thanks to hallucinations like extra fingers, noisy fine details, and ghastly uncanny valley expressions.
 
@@ -73,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
  My other issue with ChatGPT and similar tools is that I have a hard time trusting them. This is one of the reasons [I don’t think you should use ChatGPT as a substitute for web search](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/). I like to source my own information and decide what’s trustworthy and what’s not, or at the very least where the bias may lie.
 
 ![Asking ChatGPT what its knowledge cut-off date is.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-18-at-09-56-26.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT has been particularly bad for this in the past. Things have improved and the current free version of ChatGPT is able to interpret web results, but the knowledge cutoff is still nearly a year out of date in terms of training data. There are many examples of [ChatGPT getting simple sums wrong](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/), and the LLM is known to make things up if it lacks the training data to make a decision.
 
@@ -122,5 +128,20 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-propel-your-instagram-videos-into-the-public-eye-for-2024/"><u>[New] Propel Your Instagram Videos Into the Public Eye for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-excellent-webcam-recorders-on-windows-10/"><u>[Updated] In 2024, Excellent Webcam Recorders on Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortless-pathways-to-scour-for-mass-video-downloads-on-tiktok/"><u>2024 Approved Effortless Pathways to Scour for Mass Video Downloads on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-enhances-security-with-new-ai-optimized-operating-system-for-data-centers-tech-insights/"><u>Apple Enhances Security with New AI-Optimized Operating System for Data Centers | Tech Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>In 2024, Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-sale-get-a-stunning-85-tcl-tv-at-an-unbeatable-discount-of-25-zdnet-tech-deals/"><u>Labor Day Sale: Get a Stunning 85 TCL TV at an Unbeatable Discount of 25%! | ZDNet Tech Deals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-your-pcs-visual-performance-with-newest-amd-gpu-software-on-windows-11/"><u>Optimize Your PC's Visual Performance with Newest AMD GPU Software on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-your-inbox-discover-the-simple-method-to-clear-out-messages-without-needing-separate-accounts-techtips-by-zdnet/"><u>Simplify Your Inbox: Discover the Simple Method to Clear Out Messages Without Needing Separate Accounts! | TechTips by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-apple-watch-ultra-2-my-ideal-smartwatch-at-a-labor-day-discount-of-100-tech-insights/"><u>The Apple Watch Ultra 2 - My Ideal Smartwatch at a Labor Day Discount of $100! | Tech Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/creener-solution-for-flawless-youtube-content-creation/"><u>Top Screener Solution For Flawless YouTube Content Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transferring-whatsapp-messages-comprehensive-tutorial-for-going-from-android-to-ios/"><u>Transferring WhatsApp Messages: Comprehensive Tutorial for Going From Android to iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-multi-monitor-support-for-your-m3-macbook-pro-inspired-by-the-versatile-m3-macbook-air-insights-from-zdnet/"><u>Unlocking Multi-Monitor Support for Your M3 MacBook Pro, Inspired by the Versatile M3 MacBook Air | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/visionos-2-the-fresh-upgrades-from-wwdc-that-have-us-thrilled-and-baffled-a-deep-dive-techworldzdnet/"><u>VisionOS 2: The Fresh Upgrades From WWDC That Have Us Thrilled and Baffled – A Deep Dive | TechWorldZDNet</u></a></li>
+</ul></div>
 

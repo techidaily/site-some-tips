@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2025-01-11T20:50:29.385Z
-updated: 2025-01-18T06:51:57.451Z
+date: 2025-01-22T19:16:07.986Z
+updated: 2025-01-24T17:30:46.791Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -74,10 +74,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -95,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -132,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -169,10 +165,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,21 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-free-count-down-timers/"><u>[New] Best Free Count Down Timers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-comprehensive-overview-of-final-cut-pro-techniques-for-2024/"><u>[New] Comprehensive Overview of Final Cut Pro Techniques for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-twilight-portraiture-techniques-your-guide-to-stunning-images-for-2024/"><u>[New] Twilight Portraiture Techniques Your Guide to Stunning Images for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/8-most-popular-instagram-after-effects-packs-for-2024/"><u>8 Most Popular Instagram After Effects Packs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/adopting-operations-excellence-in-corporate-it-spaces-progress-and-pitfalls-on-the-horizon-analysis-by-zdnet/"><u>Adopting Operations Excellence in Corporate IT Spaces: Progress and Pitfalls on the Horizon | Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/agility-vs-artificial-intelligence-evolution-unpacking-the-latest-findings-in-a-new-study/"><u>Agility Vs. Artificial Intelligence Evolution: Unpacking the Latest Findings in a New Study</u></a></li>
-<li><a href="https://some-tips.techidaily.com/artificial-intelligence-revolutionizes-code-creation-pace-quantifying-progress-remains-difficult/"><u>Artificial Intelligence Revolutionizes Code Creation Pace; Quantifying Progress Remains Difficult</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciphering-code-craze-the-leading-language-lineup-explained-byteinsights/"><u>Deciphering Code Craze: The Leading Language Lineup Explained | ByteInsights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/echoing-giggles-ultimate-ringtone-vaults/"><u>Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-enhanced-ai-task-management-in-the-newest-kubernetes-update-insights-and-implications/"><u>Exploring Enhanced AI Task Management in the Newest Kubernetes Update: Insights & Implications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fandango-at-home-the-ultimate-guide-to-streaming-3d-movies/"><u>Fandango at Home: The Ultimate Guide to Streaming 3D Movies</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-high-cpu-drain-by-tiworkerexe/"><u>Tackling High CPU Drain by TiWorker.exe</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos-for-2024/"><u>The Ultimate List of Online Animation Creators for Jaw-Dropping Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/thriving-in-the-world-of-instavids-design-an-impactful-strategy-for-2024/"><u>Thriving in the World of InstaVids Design an Impactful Strategy for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-tech-or-lazy-convenience-how-bank-chief-information-officers-favor-bold-ai-challenges-over-simplistic-prompt-writing-strategies-zdnet/"><u>Transformative Tech or Lazy Convenience? How Bank Chief Information Officers Favor Bold AI Challenges Over Simplistic Prompt Writing Strategies | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-career-success-the-essential-trio-of-languages-for-aspiring-programmers/"><u>Unlocking Career Success: The Essential Trio of Languages for Aspiring Programmers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>[New] In 2024, Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ackling-teal-turmoil-eliminate-green-screen-glitches-mac-edition/"><u>[New] Tackling Teal Turmoil Eliminate Green Screen Glitches (Mac Edition)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-ps4-screens-with-obs-full-steps/"><u>[Updated] 2024 Approved Mastering PS4 Screens with OBS Full Steps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/42937483-updated-2024-approved-youtube-snippets-guide-essential-info-inside/"><u>[Updated] 2024 Approved YouTube Snippets Guide Essential Info Inside!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlock-the-secrets-of-building-budget-friendly-youtube-ads/"><u>[Updated] In 2024, Unlock the Secrets of Building Budget-Friendly YouTube Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-paint-perfection-experts-guide-to-color-transformation/"><u>[Updated] Paint Perfection Expert's Guide to Color Transformation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>2024 Approved Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-latest-tech-google-pixel-watch-2-vs-apple-watch-series-9-which-offers-more-value-for-money/"><u>Comparing the Latest Tech: Google Pixel Watch 2 Vs. Apple Watch Series 9 - Which Offers More Value for Money?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cyber-satirist-studio/"><u>Cyber Satirist Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-next-frontier-apples-involvement-in-developing-affordable-ar-glasses-insights/"><u>Exploring the Next Frontier: Apple's Involvement in Developing Affordable AR Glasses - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-is-executing-the-macbook-owner-payoff-plan-under-class-action-agreement-wired/"><u>How Apple Is Executing the MacBook Owner Payoff Plan Under Class Action Agreement | Wired</u></a></li>
+<li><a href="https://some-tips.techidaily.com/install-macos-15-sequoia-beta-today-easy-step-by-step-tutorial-to-upgrade-your-macbook-or-mac-with-the-new-update-zdnet/"><u>Install macOS 15 Sequoia Beta Today! Easy Step-by-Step Tutorial to Upgrade Your MacBook or Mac with the New Update | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-transforms-iphone-14-into-a-creative-powerhouse-for-seamless-content-making-insights/"><u>IOS 18 Transforms iPhone 14 Into a Creative Powerhouse for Seamless Content Making - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ready-to-upgrade-your-iphone-discover-the-latest-anker-charger-gadgets-exclusive-tips/"><u>Ready to Upgrade Your iPhone? Discover the Latest Anker Charger Gadgets - Exclusive Tips</u></a></li>
 </ul></div>
 

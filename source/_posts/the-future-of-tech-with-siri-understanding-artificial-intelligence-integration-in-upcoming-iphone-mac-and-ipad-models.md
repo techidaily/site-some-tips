@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2025-01-15T17:20:00.720Z
-updated: 2025-01-18T07:42:28.818Z
+date: 2025-01-19T17:42:58.879Z
+updated: 2025-01-24T16:57:56.041Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,24 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-quick-capture-deep-insight-time-lapse-techniques-for-samsung-users/"><u>[New] In 2024, Quick Capture, Deep Insight Time-Lapse Techniques for Samsung Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2-decluttering-tech-knowledge-revolutionary-approaches-for-streamlining-linuxopen-source-documentation-zdnet/"><u>2. Decluttering Tech Knowledge: Revolutionary Approaches for Streamlining Linux/Open-Source Documentation | ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-jittery-audio-output-in-microsofts-legacy-operating-systems-windows-107-upgrades/"><u>Effective Remedies for Jittery Audio Output in Microsoft's Legacy Operating Systems - Windows 10/7 Upgrades</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/hasty-handlings-of-slideshow-documentation-for-2024/"><u>Hasty Handlings of Slideshow Documentation for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-pitaka-magez-automotive-mobile-dock-revolutionizing-your-iphones-travel-experience/"><u>In-Depth Analysis of Pitaka MagEZ Automotive Mobile Dock - Revolutionizing Your iPhone's Travel Experience.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/infinite-playground-top-10-affordable-online-adventures-for-2024/"><u>Infinite Playground Top 10 Affordable Online Adventures for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-apples-reorganization-the-motive-behind-downgraded-employee-titles/"><u>Inside Apple's Reorganization: The Motive Behind Downgraded Employee Titles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/instant-transcription-absolutely-complimentary/"><u>Instant Transcription, Absolutely Complimentary</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-melodies-on-minimal-money-how-college-kids-score-spotifys-discounted-downloads/"><u>Maximizing Melodies on Minimal Money: How College Kids Score Spotify's Discounted Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/metas-genai-transformation-from-predictive-models-to-complex-chess-dynamics-expert-analysis-on-zdnet/"><u>Meta's GenAI Transformation: From Predictive Models to Complex Chess Dynamics | Expert Analysis on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/moving-beyond-rote-coding-how-ai-enhances-smart-software-creation-in-the-modern-era-insights-from-zdnet/"><u>Moving Beyond Rote Coding: How AI Enhances Smart Software Creation in the Modern Era - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-double-edged-sword-of-enterprise-tech-adoption-the-ops-boon-and-its-subsequent-pitfalls-a-zdnet-perspective/"><u>Navigating the Double-Edged Sword of Enterprise Tech Adoption: The Ops Boon and Its Subsequent Pitfalls - A ZDNET Perspective</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixel-pushers-boost-phone-photography-for-free/"><u>Pixel Pushers Boost Phone Photography for Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quickly-master-programming-discover-the-best-linux-tools-for-beginners-as-featured-on-zdnet/"><u>Quickly Master Programming: Discover the Best Linux Tools for Beginners as Featured on ZDNet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sculpt-your-memories-with-iphone-burst-shots-for-2024/"><u>Sculpt Your Memories with iPhone Burst Shots for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/sleek-line-up-best-7-fps-arenas/"><u>Sleek Line-Up Best 7 FPS Arenas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-trending-coding-languages-of-today-understanding-their-popularity-and-significance-tech-analysis-by-zdnet/"><u>Top Trending Coding Languages of Today: Understanding Their Popularity and Significance | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-microsofts-github-copilot-strategy-for-maximizing-ai-efficiency-in-coding-insights-from-zdnet/"><u>Unveiling Microsoft's GitHub Copilot Strategy for Maximizing AI Efficiency in Coding - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-explores-the-friction-between-progressive-ai-strategies-and-agile-practices-in-recent-study/"><u>ZDNet Explores the Friction Between Progressive AI Strategies and Agile Practices in Recent Study</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-essential-steps-for-starting-a-channel-on-discord/"><u>[New] Essential Steps for Starting a Channel on Discord</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-insta-meets-tiktok-connectors-handbook-for-2024/"><u>[New] Insta Meets TikTok Connector's Handbook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoid-potential-problems-essential-information-on-ios-18s-impact-on-ipads-detailed/"><u>Avoid Potential Problems: Essential Information on iOS 18'S Impact on iPads Detailed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994674542-disco-elysium-pc-game-errors-resolved-smooth-sailing-now/"><u>Disco Elysium PC Game Errors Resolved: Smooth Sailing Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-horizons-customizing-games-via-steams-workshop/"><u>Expanding Horizons: Customizing Games via Steam's Workshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-the-power-of-craft-a-comprehensive-tutorial-on-leveraging-macoss-premier-document-management-software/"><u>Explore the Power of Craft: A Comprehensive Tutorial on Leveraging macOS's Premier Document Management Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-recovering-lost-icon-links-on-windows-10-desktop/"><u>Guide to Recovering Lost Icon Links on Windows 10 Desktop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-se-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone SE (4 Methods) | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-5-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic 5 Pro Phone Screen?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>In 2024, The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-14-showdown-unlocking-features-of-pro-vs-pro-max-for-smart-shoppers/"><u>IPhone 14 Showdown: Unlocking Features of Pro Vs. Pro Max for Smart Shoppers!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surpassing-rivals-how-apples-innovations-could-outshine-openai-microsoft-and-google-during-the-2024-worldwide-developers-conference-insights/"><u>Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-11-unbeatable-apple-watch-promotions-in-july-2024-features-and-reviews/"><u>Top 11 Unbeatable Apple Watch Promotions in July 2024 - Features and Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-tablet-reviews-and-comparisons-of-2024-comprehensive-guide-by-experts-techradar/"><u>Top-Rated Tablet Reviews & Comparisons of 2024 - Comprehensive Guide by Experts | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-savings-on-the-apple-watch-se-2nd-gen-how-much-youll-pay-after-prime-day-ends-expert-analysis/"><u>Unlocking Savings on the Apple Watch SE, 2Nd Gen: How Much You'll Pay After Prime Day Ends | Expert Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-mystery-the-underlying-reasons-behind-the-windows-meltdown-involving-crowdstrike-in-2n4-a-historical-perspective-on-cybersecurity-incidents.m195/"><u>Unraveling the Mystery: The Underlying Reasons Behind the Windows Meltdown Involving CrowdStrike in 2N4 - A Historical Perspective on Cybersecurity Incidents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-victors-in-depth-comparison-of-pixel-9-pro-xl-vs-iphone-15-pro-cameras-ends-in-unexpected-results/"><u>Unveiling the Victors: In-Depth Comparison of Pixel 9 Pro XL vs iPhone 15 Pro Cameras Ends in Unexpected Results!</u></a></li>
 </ul></div>
 

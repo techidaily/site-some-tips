@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424
-date: 2024-09-15T19:41:18.796Z
-updated: 2024-09-22T18:51:13.757Z
+date: 2025-01-19T18:34:46.273Z
+updated: 2025-01-24T17:07:11.828Z
 tags:
   - web
 categories:
@@ -38,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The unsorted words for August 9 Connections game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-9-connections-game.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Not Present
@@ -45,15 +49,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Rock Genres
 * **Purple:** Shock \_\_\_\_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![The words for August 9 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-9-sorted-into-the-correct-groups.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Not Present (Yellow):** 
@@ -72,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Horror, Jock, Value, Wave
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  August 9th wasn't too bad, but I did have to shuffle a bit more than usual to get the answers. 
@@ -85,10 +94,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left horror, jock, value, and wave in the Purple group. Try as I might, I couldn't really find any connection or word that made the group work. It turned out that the group was "Shock \_\_\_\_\_\_," making the terms in Purple horror shock, shock jock, shock value, and shock wave. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -117,5 +123,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-capture-and-store-fb-conversations-best-methods-summarized/"><u>[New] Capture & Store FB Conversations - Best Methods Summarized</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exploring-magix-music-creators-capabilities-for-2024/"><u>[Updated] Exploring Magix Music Creator's Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-expansion-sharing-your-show-across-30-platforms/"><u>2024 Approved Channel Expansion Sharing Your Show Across 30 Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-revolutionary-vision-pro-glasses-delayed-beyond-initial-release-schedule/"><u>Apple's Revolutionary Vision Pro Glasses Delayed Beyond Initial Release Schedule</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-motorola-moto-g13-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Motorola Moto G13? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-whats-next-from-apple-a-deep-dive-into-wwdc-announcements-featuring-vision-pro-headset-and-revamped-mac-pro-zdnet/"><u>Discover What's Next From Apple: A Deep Dive Into WWDC Announcements Featuring Vision Pro Headset & Revamped Mac Pro | ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-legitimacy-of-your-youtube-sign-in-for-2024/"><u>Ensuring Legitimacy of Your YouTube Sign-In for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-cutting-edge-enhancements-vision-pro-boosted-with-top-apple-features-at-a-competitive-rate-insights-from-zdnet/"><u>Experience Cutting-Edge Enhancements: Vision Pro Boosted with Top Apple Features at a Competitive Rate - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-v29-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo V29 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/integrating-enterprise-solutions-with-apple-vision-pro-a-closer-look-by-zdnet/"><u>Integrating Enterprise Solutions with Apple Vision Pro: A Closer Look by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-3d-creations-with-elegoo-saturn-4-ultra-an-in-depth-assessment/"><u>Mastering the Art of 3D Creations with Elegoo Saturn 4 Ultra: An In-Depth Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-vision-limitations-with-budget-friendly-xr-glasses-bypassing-the-expensive-appeal-of-high-end-devices/"><u>Overcoming Vision Limitations with Budget-Friendly XR Glasses | Bypassing the Expensive Appeal of High-End Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tcls-bold-entry-into-augmented-and-virtual-reality-tech-showcased-at-ces-202/"><u>TCL's Bold Entry Into Augmented and Virtual Reality Tech Showcased at CES 202#</u></a></li>
+<li><a href="https://some-tips.techidaily.com/third-party-manufacturers-can-now-integrate-with-metas-newly-released-open-source-quest-os-supported-by-asus-and-lenovo/"><u>Third-Party Manufacturers Can Now Integrate with Meta's Newly Released, Open Source Quest OS – Supported by Asus and Lenovo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-apple-endorsed-techniques-for-optimizing-uiux-in-visionos-environments-insights-from-zdnet/"><u>Top 7 Apple-Endorsed Techniques for Optimizing UI/UX in VisionOS Environments: Insights From ZDNet</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/yl-computings-exclusive-bear-mood-background-collection-colorful-imagery-for-your-desktop-and-more/"><u>YL Computing's Exclusive Bear Mood Background Collection – Colorful Imagery for Your Desktop and More!</u></a></li>
+</ul></div>
 

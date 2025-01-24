@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !"
-date: 2025-01-17T09:28:52.379Z
-updated: 2025-01-18T11:12:18.100Z
+date: 2025-01-21T20:09:02.574Z
+updated: 2025-01-24T19:44:35.690Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -37,7 +33,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -77,7 +73,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -102,12 +98,16 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,22 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-avoidance-of-windows-10-photos-application-hang-ups/"><u>[New] In 2024, Avoidance of Windows 10 Photos Application Hang-Ups</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-captivating-spokesperson-appraisal-8th-analysis/"><u>[New] In 2024, Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-of-recording-video-without-distracting-noise/"><u>[New] In 2024, Secrets of Recording Video without Distracting Noise</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-potential-in-virtual-collaboration-platforms-for-2024/"><u>[New] Unleashing Potential in Virtual Collaboration Platforms for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/vobmp4-5/"><u>「オンラインですぐに - VOBからMP4への最適なコンバーター ベスト5ピックアップ！」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-rolls-out-affordable-monthly-unlimited-grocery-service-for-999plus-is-it-a-game-changer-in-online-shopping/"><u>Amazon Rolls Out Affordable Monthly Unlimited Grocery Service for $9.99+ - Is It a Game Changer in Online Shopping?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/building-successful-businesses-with-ai-opportunities-unveiled-by-industry-experts-zdnet/"><u>Building Successful Businesses with AI: Opportunities Unveiled by Industry Experts | ZDNet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-reels-syncing-audio-to-images-for-2024/"><u>Crafting Captivating Reels Syncing Audio to Images for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-the-functionality-of-icominterface-in-software-development/"><u>Exploring the Functionality of IComInterface in Software Development</u></a></li>
-<li><a href="https://some-tips.techidaily.com/galaxy-s22-and-s22plus-versus-iphone-13-side-by-side-comparison-features-breakdown/"><u>Galaxy S22 & S22+ Versus iPhone 13 Side-by-Side Comparison: Features Breakdown</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/guardians-of-the-screen-the-best-webcam-cover-options-for-2024/"><u>Guardians of the Screen - The Best Webcam Cover Options for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-automation-is-taking-over-unwanted-jobs-preparing-for-an-economic-downturn/"><u>How Automation Is Taking Over Unwanted Jobs - Preparing for an Economic Downturn</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mcdonalds-rival-outshines-with-latest-revelation-burger-kings-humiliating-blow/"><u>McDonald's Rival Outshines with Latest Revelation: Burger King's Humiliating Blow</u></a></li>
-<li><a href="https://some-tips.techidaily.com/snag-a-bargain-secure-your-new-echo-dot-at-only-18-on-amazon-prime-day-special/"><u>Snag a Bargain: Secure Your New Echo Dot at Only $18 on Amazon – Prime Day Special!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-your-figma-project-with-clean-backgrounds-for-2024/"><u>Streamlining Your Figma Project with Clean Backgrounds for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-how-singapore-is-testing-smart-digital-currencies-in-the-real-world-a-closer-look-at-innovation-trials/"><u>ZDNet: How Singapore Is Testing Smart Digital Currencies in the Real World - A Closer Look at Innovation Trials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-crusade-againnst-phony-businesses-in-the-virtual-and-physical-realm-of-fraud-protection/"><u>ZDNet's Crusade Againnst Phony Businesses in the Virtual & Physical Realm of Fraud Protection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creativity-through-intense-iphone-photos/"><u>[New] Unlocking Creativity Through Intense iPhone Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-expertise-in-cutting-edge-encoders-for-live-media/"><u>[Updated] 2024 Approved Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-memetic-mastery-creating-viral-content-on-facebook-and-insta/"><u>[Updated] Memetic Mastery Creating Viral Content on Facebook and Insta</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frosty-flourishes-at-the-winter-games/"><u>2024 Approved Frosty Flourishes at the Winter Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-productivity-with-smart-strategies-and-key-resources-an-expert-guide-s-top-tips-for-workflow-mastery/"><u>Maximizing Productivity with Smart Strategies and Key Resources – An Expert Guide 'S Top Tips for Workflow Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/safe-and-secure-teen-cell-phones-comprehensive-ranking/"><u>Safe and Secure Teen Cell Phones: Comprehensive Ranking</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808218555-simple-guide-switching-your-pcs-system-language-in-windows-11-step-by-step/"><u>Simple Guide: Switching Your PC's System Language in Windows 11 – Step by Step!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-impact-of-monterey-a-comparative-analysis/"><u>The Impact of Monterey: A Comparative Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-impactful-power-of-customer-testimonials-on-sales-for-2024/"><u>The Impactful Power of Customer Testimonials on Sales for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-laptop-bargains-in-july-2024-insider-picks-from-zdnet/"><u>Top-Rated Laptop Bargains in July 2024 - Insider Picks From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-expert-picks-for-apple-watch-guards-in-2-reviews-and-comparisons/"><u>Ultimate Selection: Expert Picks for Apple Watch Guards in 2# Reviews & Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-charger-holder-in-my-tests-now-at-a-steep-discount-featuring-the-wallet-of-choice/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Charger Holder in My Tests Now at a Steep Discount - Featuring the Wallet of Choice!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/uncovering-expert-video-making-talents-for-2024/"><u>Uncovering Expert Video Making Talents for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-release-the-next-generation-airpods-everything-you-need-to-know-and-how-to-secure-your-order-now/"><u>Upcoming Release: The Next Generation AirPods - Everything You Need to Know & How to Secure Your Order Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-watchos-ebeauty-11-update-brings-fantastic-additions-to-your-apple-watch-discover-the-highlights-gadgetguru/"><u>Upcoming WatchOS Ebeauty 11 Update Brings Fantastic Additions to Your Apple Watch - Discover the Highlights | GadgetGuru</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elite PCs in 202N4: A Comprehensive Review by ZDNet with Insights on Leading Brands Like Apple and Dell"
-date: 2025-01-12T21:20:50.091Z
-updated: 2025-01-18T11:09:15.111Z
+date: 2025-01-21T19:48:29.149Z
+updated: 2025-01-24T19:11:21.300Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -59,6 +55,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -75,10 +75,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -107,10 +103,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -124,7 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -155,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,16 +210,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aximizing-youtube-income-lessons-from-sourav-joshi/"><u>[New] Maximizing YouTube Income Lessons From Sourav Joshi</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-filmmaker-mode-crafting-viral-tiktok-reactions-with-filmora/"><u>[Updated] 2024 Approved Mastering Filmmaker Mode Crafting Viral TikTok Reactions with Filmora</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simple-steps-for-a-memorable-youtube-channel-url/"><u>2024 Approved Simple Steps for a Memorable YouTube Channel URL</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1723032933461-displacement-pumps-move-a-fixed-volume-of-fluid-with-each-cycle-providing-a-consistent-flow-rate/"><u>Displacement Pumps Move a Fixed Volume of Fluid with Each Cycle, Providing a Consistent Flow Rate</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-product-quests-unveiling-amazons-new-features-to-revolutionize-your-online-experience-zdnet/"><u>Effortless Product Quests: Unveiling Amazon's New Features to Revolutionize Your Online Experience | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-package-collection-and-delivery-with-doordash-a-comprehensive-guide/"><u>Free Package Collection & Delivery with DoorDash: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-mcdonalds-revolutionized-customer-experience-for-a-few-a-deep-dive-by-zdnet/"><u>How McDonald’s Revolutionized Customer Experience for a Few - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-6s-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 6s and iPad?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95689785-9781440536519-love-astrology-pisces/"><u>Love Astrology: Pisces | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsofts-copilot-balancing-user-assistance-with-sales-tactics-insights-from-zdnet/"><u>Microsoft's Copilot: Balancing User Assistance with Sales Tactics - Insights From ZDNet</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-how-to-edit-audio-of-a-video-on-fcp/"><u>Updated 2024 Approved How to Edit Audio of a Video on FCP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-steps-to-record-films-on-computersmacs-and-phones/"><u>[New] Essential Steps to Record Films on Computers/Macs & Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bypassing-the-high-price-tag-of-apple-vision-pro-with-cost-effective-xr-glasses-my-eye-opening-experience-zdnet/"><u>Bypassing the High Price Tag of Apple Vision Pro with Cost-Effective XR Glasses - My Eye-Opening Experience | ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chucklechief-easy-meme-design-tool/"><u>ChuckleChief Easy Meme Design Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-era-of-smartphones-with-iphone-16s-best-features-unveiled/"><u>Discover the New Era of Smartphones with iPhone 16'S Best Features | Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-windows-update-issue-error-0x8024002e-successfully/"><u>Fixing the Persistent Windows Update Issue (Error 0X8024002e) Successfully</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-vs-iphone-15-comparison-essential-considerations-when-choosing-apples-newest-base-model/"><u>IPhone 16 Vs. IPhone 15 Comparison: Essential Considerations When Choosing Apple's Newest Base Model</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-ai-for-your-daily-life-siris-upcoming-evolution-revealed-in-2e15-analysis/"><u>Next-Level AI for Your Daily Life: Siri's Upcoming Evolution Revealed in 2E15 Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/path-pursuit-6-efficient-strategies-for-copying-file-and-folder-paths-in-windows-11/"><u>Path Pursuit: 6 Efficient Strategies for Copying File and Folder Paths in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/razones-para-evitar-la-copia-de-un-dvd-directo-a-su-disco-duro-sin-archivo-ripearlo-primero/"><u>Razones Para Evitar La Copia De Un DVD Directo a Su Disco Duro Sin Archivo Ripearlo Primero</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-nce-advanced-topics-in-welding-metallurgy-residual-stresses-and-distortion-control/"><u>Section Nce: Advanced Topics in Welding Metallurgy - Residual Stresses and Distortion Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-revolutionary-ios-18-innovations-unveiled-at-apple-wwdc-2023-the-rise-of-ai-features-zdnet/"><u>Top 5 Revolutionary iOS 18 Innovations Unveiled at Apple WWDC 2023: The Rise of AI Features | ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915390444-top-online-platforms-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Online Platforms: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-the-future-the-iphone-15-reviewed-by-tech-pros-zdnets-comprehensive-guide/"><u>Unboxing the Future: The iPhone 15 Reviewed by Tech Pros | ZDNET's Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-premier-defense-ready-email-solutions-on-the-market/"><u>Uncover the Premier Defense-Ready Email Solutions on the Market</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-review-how-this-innovative-bluetooth-adapter-solves-check-engine-warning-issues/"><u>ZDNET Review: How This Innovative Bluetooth Adapter Solves Check Engine Warning Issues</u></a></li>
 </ul></div>
 

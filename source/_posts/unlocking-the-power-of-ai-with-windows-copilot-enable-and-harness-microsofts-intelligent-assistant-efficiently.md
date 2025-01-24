@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of AI with Windows Copilot - Enable & Harness Microsoft’s Intelligent Assistant Efficiently
-date: 2024-09-21T16:31:28.891Z
-updated: 2024-09-22T19:37:19.867Z
+date: 2025-01-22T16:24:16.229Z
+updated: 2025-01-24T19:48:10.267Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Enable Copilot Through Alternate Methods](https://on-screen-recording.techidaily.com/in-2024-optimal-sound-systems-under-100-for-immersive-gameplay/)
 
  Microsoft is bringing a new AI assistant (like Clippy) called Copilot that is designed to help you make the Windows PC easier to use. The AI assistant is supposed to work just like Bing Chat, but it is still a new feature that needs a lot of work and integration with other apps. However, if you still want to try out Windows Copilot, here's how you can get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Update your Windows to Get the Copilot Feature
 
@@ -40,34 +44,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  There are many ways in which you can use the Copilot feature to make the Windows experience even better. However, there are a few basic settings that you might want to check out.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Show the Windows Copilot Shortcut
 
  If Windows Copilot is not showing on your Taskbar by default go to Settings > Personalization > Taskbar > Enable Copilot. You can now launch Windows Copilot chat directly from the taskbar or by using the Windows+C shortcut key (For Microsoft Edge this shortcut changed to Ctrl+Shift+. \[period\]).
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How to Connect Windows Copilot to Microsoft Edge
 
@@ -77,22 +59,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Change Windows Copilot Settings and enable it to see Microsoft Edge content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-141803.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to Settings and enable "Let Copilot in Windows use Microsoft Edge content"
 
 ![Enable Let Copilot in Windows use Microsoft Edge Content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-141833.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now use Windows Copilot with Microsoft Edge. Try asking the [AI powered assistant](https://windows11.techidaily.com/fixing-the-freeze-troubleshooting-windows-obs-not-starting/) to manage your PC settings or organize your windows via snap assist.
 
 ![Windows Copilot organizing tabs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-11.png) 
 
  Additional features will also be added later on that will allow Windows Copilot to interact with other apps. However, for now it is limited to interacting with Windows settings and Microsoft Edge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enable Copilot Through Alternate Methods
 
@@ -103,6 +86,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 microsoft-edge://?ux=copilot&tcp=1&source=taskbar
 
 ![Paste the Windows Copilot shortcut location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click Next and give the shortcut a name. Once you have created the shortcut, you can use it to access Windows Copilot. Again, this shortcut will only work if you have updated your Windows to the latest version through the Insider Program.
 
@@ -119,5 +106,19 @@ microsoft-edge://?ux=copilot&tcp=1&source=taskbar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-brief-blueprints-sending-ios-videos-and-images/"><u>[Updated] Brief Blueprints Sending iOS Videos & Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-targets-top-browsers-with-unsettling-ad-campaign-witness-the-strategy-firsthand/"><u>Apple Targets Top Browsers with Unsettling Ad Campaign – Witness the Strategy Firsthand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-compatible-apple-watch-models-with-watchos-11-updates-and-exclusions/"><u>Comprehensive List of Compatible Apple Watch Models with WatchOS 11: Updates and Exclusions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-apples-vision-pro-revolutionizes-home-entertainment-declared-the-ultimate-device-by-tech-experts-at-zdnet/"><u>Discover How Apple's Vision Pro Revolutionizes Home Entertainment, Declared the 'Ultimate Device' By Tech Experts at ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-digital-file-to-physical-disc-mastering-the-art-of-dvd-burning-for-downloaded-series-and-films/"><u>From Digital File to Physical Disc: Mastering the Art of DVD Burning for Downloaded Series and Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grab-the-latest-tech-bargains-on-ipad-pro-ipad-air-and-enhanced-apple-pencil-spot-the-best-preorder-deals-now/"><u>Grab the Latest Tech Bargains on iPad Pro, iPad Air & Enhanced Apple Pencil - Spot the Best Preorder Deals Now !</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-online-method-for-altering-video-proportions/"><u>In 2024, Online Method for Altering Video Proportions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spectral-footage-innovation-in-cams/"><u>In 2024, Spectral Footage Innovation in Cams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-review-of-the-apple-m3-macbook-air-the-3-key-enhancements-that-caught-my-attention/"><u>In-Depth Review of the Apple M3 MacBook Air: The 3 Key Enhancements That Caught My Attention</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-macpaw-strategy-an-innovative-solution-for-iphones-app-marketplace-amidst-updated-rules-insights/"><u>New MacPaw Strategy: An Innovative Solution for iPhones' App Marketplace Amidst Updated Rules - Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-checklist-for-successful-reddit-threads-for-2024/"><u>The Ultimate Checklist for Successful Reddit Threads for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-5-simple-methods-convert-and-download-your-favorite-vimeo-videos-as-mp4-for-free/"><u>Top 5 Simple Methods: Convert & Download Your Favorite Vimeo Videos as MP4 - For Free!</u></a></li>
+</ul></div>
 

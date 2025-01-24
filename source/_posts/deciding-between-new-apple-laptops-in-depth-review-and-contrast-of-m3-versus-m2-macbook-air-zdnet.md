@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet"
-date: 2025-01-17T02:30:53.751Z
-updated: 2025-01-17T22:48:17.678Z
+date: 2025-01-17T17:35:03.117Z
+updated: 2025-01-24T17:23:39.917Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -65,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -73,6 +73,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -129,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,10 +150,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -162,13 +162,13 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,19 +204,15 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-gentle-request-for-a-greater-genuine-community/"><u>[New] 2024 Approved Gentle Request for a Greater, Genuine Community</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-inside-look-fundamentals-of-asmr-videos/"><u>[New] Inside Look Fundamentals of ASMR Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-approaches-to-logging-lol-rallies/"><u>[New] Pioneering Approaches to Logging LOL Rallies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciding-between-amazons-echo-pop-and-echo-dot-which-superior-smart-speaker-powered-by-alexa-fits-your-needs-insights-from-zdnet/"><u>Deciding Between Amazon's Echo Pop & Echo Dot: Which Superior Smart Speaker Powered by Alexa Fits Your Needs? (Insights From ZDNET)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/great-updates-from-southwest-airlines-a-win-win-for-all-but-not-mr-microsoft/"><u>Great Updates From Southwest Airlines: A Win-Win for All, But Not Mr. Microsoft!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-12-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi 12 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-s17e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo S17e Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://some-tips.techidaily.com/repeat-offense-burger-king-faces-backlash-for-publicly-critiquing-complaints-insights-from-zdnet/"><u>Repeat Offense? Burger King Faces Backlash for Publicly Critiquing Complaints - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stay-alert-top-temu-schemes-on-the-rise-across-social-networks-insights-from-zdnet/"><u>Stay Alert: Top Temu Schemes on the Rise Across Social Networks - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-revolution-of-e-commerce-through-generative-artificial-intelligence-unveiling-5-key-shifts-in-business-strategy-zdnet/"><u>The Revolution of E-Commerce Through Generative Artificial Intelligence: Unveiling 5 Key Shifts in Business Strategy | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-vivo-y56-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo Y56 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-your-computer-when-its-stuck-at-the-getting-windows-ready-screen/"><u>Troubleshooting Steps: How to Fix Your Computer When It's Stuck at the 'Getting Windows Ready' Screen</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-the-fixed-football-manager-2022-pc-freezing-problems/"><u>Troubleshooting Tips for the Fixed Football Manager 2022 PC Freezing Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-truth-is-amazons-prime-early-access-sale-worthwhile-or-just-hype-insights-by-techreview/"><u>Unlocking the Truth: Is Amazon's Prime Early Access Sale Worthwhile or Just Hype? - Insights by TechReview</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-uavs-the-basics-of-drone-operations/"><u>[New] Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simplified-methods-for-saving-screen-share-talks/"><u>[Updated] 2024 Approved Simplified Methods for Saving Screen-Share Talks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-craft-your-channel-studio-or-beta-innovation-comparison/"><u>2024 Approved Craft Your Channel Studio or Beta Innovation Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-device-ipad-pro-vs-macbook-air-a-comprehensive-comparison/"><u>Choosing the Right Device: IPad Pro vs MacBook Air – A Comprehensive Comparison</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/comment-effectuer-la-reconversion-de-limage-systeme-windows-11-vers-un-nouvel-hardware/"><u>Comment Effectuer La Reconversion De L'Image Système Windows 11 Vers Un Nouvel Hardware ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-new-ai-tech-from-wwdc-will-it-impress-or-disappoint/"><u>Exploring Apple's New AI Tech From WWDC: Will It Impress or Disappoint?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-instant-access-to-macos-15-sequoia-beta-step-by-step-tutorial-for-your-macbook-and-mac-computers/"><u>Get Instant Access to MacOS 15 Sequoia Beta - Step-by-Step Tutorial for Your MacBook and Mac Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-overcoming-missing-comctl32dll-error-in-windows-systems/"><u>Guide: Overcoming Missing comctl32.dll Error in Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nurturing-nature-in-valheim-top-seed-selection-tips/"><u>Nurturing Nature in Valheim Top Seed Selection Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-4-new-ipados-16-enhancements-from-apples-wwdc-2024-compatibility-breakdown-for-all-ipads-techsavvy/"><u>Unveiling the Top 4 New iPadOS 16 Enhancements From Apple's WWDC 2024: Compatibility Breakdown for All iPads | TechSavvy</u></a></li>
 </ul></div>
 

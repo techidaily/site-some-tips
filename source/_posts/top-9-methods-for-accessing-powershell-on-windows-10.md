@@ -1,7 +1,7 @@
 ---
 title: Top 9 Methods for Accessing PowerShell on Windows 10
-date: 2024-09-16T19:33:54.881Z
-updated: 2024-09-22T17:49:57.670Z
+date: 2025-01-21T16:21:05.695Z
+updated: 2025-01-24T17:29:04.097Z
 tags:
   - desktop
 categories:
@@ -40,13 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While you can open PowerShell from the Start menu, this list includes some (potentially) easier and lesser-known ways you can launch this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open PowerShell From the Power Users Menu
 
  The Power Users menu appears in the taskbar when you press Windows+X. It's an easy way to access a multitude of settings, utilities, and system programs from one menu.
@@ -65,22 +58,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the Search icon and type &quot;powershell&quot; in the text box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h02_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, click "Open" or "Run as Administrator" to open PowerShell either normally or with [administrative privileges](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/).
 
 ![Click &quot;Open&quot; or &quot;Run As Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_13h52_39.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  By Scrolling Through All Apps in the Start Menu
@@ -95,15 +82,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the &quot;Windows PowerShell&quot; folder, and then click &quot;Windows PowerShell.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h22_29.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To run PowerShell with admin privileges, right click the icon, and then click "Run as Administrator" in the context menu that appears.
 
 ![Right-click &quot;Windows PowerShell,&quot; and then click &quot;Run as Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h34_16.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From the Run Box
 
  Press Windows+R to open the Run dialog box, and then type "powershell" in the text box. You can either click "OK" (or press the Enter) to open a regular PowerShell window, or press Ctrl+Shift+Enter to open an elevated PowerShell window.
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_15h56_56.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Launch PowerShell From the File Explorer File Menu
 
@@ -118,13 +117,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click &quot;File,&quot; hover over &quot;Open Windows PowerShell,&quot; and then click your preferred option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h12_38.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that this method doesn't work from the "Quick Access" directory. You'll find the option to open PowerShell grayed out when you click "File."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  From the File Explorer Address Bar
@@ -136,6 +136,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  PowerShell will open with the path of the current folder already set.
 
 ![PowerShell open in Windows Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From Task Manager
 
@@ -153,18 +157,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you want to run PowerShell with administrator permissions, make sure the "Create This Task with Administrator Privileges" option is selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  From the Right-Click Context Menu
 
  Another way you can open Windows PowerShell from wherever you are is via the right-click context menu. If you simply right click the folder, though, you won't see the option. Instead, press Shift as you right click. This opens the context menu and includes the "Open PowerShell Window Here" option.
 
 ![Click &quot;Open PowerShell Window Here.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h29_34.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also permanently add PowerShell to the right-click context menu with [this registry hack](https://win-amazing.techidaily.com/1722976989163-get-your-insignia-usbvga-driver-installed-step-by-step-guide/).
 
@@ -185,6 +186,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Name your shortcut, and then click "Finish" to create it.
 
 ![Type a name for your shortcut in the text box, and then click &quot;Finish.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h58_05.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, whenever you double click the icon, PowerShell will open.
 
@@ -221,5 +226,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-100-killer-facebook-bios-to-make-profile-attractive2/"><u>[New] 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-learn-the-low-cost-way-of-designing-winning-youtube-ad-campaigns/"><u>[New] 2024 Approved Learn the Low-Cost Way of Designing Winning YouTube Ad Campaigns</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-techs-browser-recording-software-roundup-2023-edition/"><u>[Updated] In 2024, Leading Tech's Browser Recording Software Roundup, 2023 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-beyond-whats-visible-insights-into-instagram-story-consumers/"><u>2024 Approved Beyond What's Visible Insights Into Instagram Story Consumers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-win-for-macbook-users-understanding-apples-payout-plan-under-the-latest-settlement-insights-from-zdnet/"><u>A Win for MacBook Users: Understanding Apple's Payout Plan Under the Latest Settlement - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-alternative-to-apple-vision-pro-how-xr-glasses-overcame-my-tech-envy-and-saved-money/"><u>Affordable Alternative to Apple Vision Pro: How XR Glasses Overcame My Tech Envy & Saved Money!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-solution-beats-expensive-optometry-my-life-with-budget-friendly-xr-glasses/"><u>Affordable Solution Beats Expensive Optometry - My Life with Budget-Friendly XR Glasses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-iphone-14-plus-with-extended-battery-life-and-top-reasons-to-choose-it-expert-review-by-zdnet/"><u>Budget-Friendly iPhone 14 Plus with Extended Battery Life and Top Reasons to Choose It | Expert Review by ZDNET</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-your-mov-files-into-asf-format-for-free-with-movavis-reliable-web-tool/"><u>Convert Your MOV Files Into ASF Format for Free with Movavi's Reliable Web Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-ios-181-beta-update-with-advanced-intelligence-tools-learn-how-to-participate-in-the-early-access-experience/"><u>Discover Apple's IOS 18.1 Beta Update with Advanced Intelligence Tools - Learn How to Participate in the Early Access Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-fix-iphones-poor-battery-performance-post-ios-1751-update-top-7-solutions/"><u>How to Fix iPhone's Poor Battery Performance Post-iOS 17.5.1 Update: Top 7 Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immerse-in-apples-virtual-reality-experience-watch-their-latest-3d-videos-using-a-meta-quest-device-tips-and-tricks-zdnet/"><u>Immerse in Apple's Virtual Reality Experience: Watch Their Latest 3D Videos Using a Meta Quest Device - Tips & Tricks | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-11-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 11 Pro Max to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/mac2024/"><u>Mac錄音軟體推薦：2024新春四款不可小看的好用選擇</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-discounts-on-amazon-exclusive-offers-available-in-august-2024-tech-insights/"><u>Top Discounts on Amazon - Exclusive Offers Available in August 2024 | Tech Insights</u></a></li>
+<li><a href="https://win-great.techidaily.com/uncovering-concealed-text-in-word-doc-images-a-step-by-step-guide/"><u>Uncovering Concealed Text in Word Doc Images: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

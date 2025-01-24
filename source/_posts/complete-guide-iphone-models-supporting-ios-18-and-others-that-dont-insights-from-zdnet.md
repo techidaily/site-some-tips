@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet"
-date: 2025-01-10T20:40:53.741Z
-updated: 2025-01-17T21:50:46.385Z
+date: 2025-01-23T16:53:31.926Z
+updated: 2025-01-24T17:30:23.727Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get iOS 18?
@@ -93,7 +93,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -105,7 +105,7 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -116,6 +116,10 @@ A software beta is a version of a program or operating system initially released
 
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone models will get Apple Intelligence?
 
 While many iPhone models support iOS 18, very few will support Apple Intelligence, Apple's AI features. Apple Intelligence is now available in a beta version for the iPhone 15 Pro series and iPhone 16 series, as well as iPads and Macs with an M1 chip or later. 
@@ -125,16 +129,12 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
 
@@ -176,24 +176,17 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-explore-gbs-best-in-class-emulation-software-for-pc-users/"><u>[New] 2024 Approved Explore GB's Best in Class Emulation Software for PC Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-spark-interest-with-unique-channel-names/"><u>[New] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-game-recording-a-comprehensive-review-for-2024/"><u>[Updated] In-Game Recording A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-sprinting-into-the-digital-age-picks-on-vr-treadmills-for-2024/"><u>[Updated] Sprinting Into the Digital Age Picks on VR Treadmills for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-moto-g73-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola Moto G73 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/burger-king-reacts-to-customer-complaints-twice-on-public-platform-a-deep-dive-by-zdnet/"><u>Burger King Reacts to Customer Complaints Twice on Public Platform - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-amazon-prime-and-business-prime-features-prices-and-advantages-insights-from-zdnet/"><u>Comparing Amazon Prime & Business Prime: Features, Prices, and Advantages - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cross-border-payment-facilitation-accord-among-five-asean-nations-announced-by-zdnet/"><u>Cross-Border Payment Facilitation Accord Among Five ASEAN Nations Announced by ZDNet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/digital-self-portrait-designing-your-animated-profile-for-2024/"><u>Digital Self-Portrait Designing Your Animated Profile for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ftc-accuses-amazon-of-deceptive-tactics-leading-to-forced-prime-memberships-insights-from-zdnet/"><u>FTC Accuses Amazon of Deceptive Tactics Leading to Forced Prime Memberships: Insights From ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-save-and-convert-your-favorite-videos-into-mp4avi-using-mojoclip-tool/"><u>How to Save and Convert Your Favorite Videos Into MP4/AVI Using MojoClip Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/india-and-singapore-forge-partnership-to-simplify-international-money-transfer-systems/"><u>India and Singapore Forge Partnership to Simplify International Money Transfer Systems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-edge-uninterruptible-power-supply-systems-expert-picks/"><u>Leading Edge Uninterruptible Power Supply Systems - Expert Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/month-of-exclusion-unraveling-the-mystery-behind-my-blocked-entry-to-best-buys-services/"><u>Month of Exclusion: Unraveling the Mystery Behind My Blocked Entry to Best Buy's Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-digital-money-an-essential-intro-to-crypto-by-experts-at-zdnet/"><u>Navigating the World of Digital Money: An Essential Intro to Crypto by Experts at ZDNet</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-speed-up-or-slow-down-top-gif-editing-software-and-apps/"><u>New 2024 Approved Speed Up or Slow Down Top GIF Editing Software and Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/temu-reviewed-is-it-trustworthy-key-insights-for-your-initial-purchase-decision/"><u>Temu Reviewed: Is It Trustworthy? Key Insights for Your Initial Purchase Decision</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-gifting-carbon-offset-credits-this-festive-period-tips-from-zdnet/"><u>The Ultimate Guide to Gifting Carbon Offset Credits This Festive Period - Tips From ZDNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-does-it-mean-when-your-find-my-iphone-app-shows-offline-and-solutions-to-locate-it/"><u>What Does It Mean When Your Find My iPhone App Shows 'Offline' And Solutions to Locate It</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eyond-the-leading-films-hidden-cinema-treasures-for-2024/"><u>[New] Beyond the Leading Films Hidden Cinema Treasures for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-what-is-the-difference-between-youtube-and-dailymotion/"><u>[Updated] In 2024, What Is the Difference Between YouTube and Dailymotion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-shooting-the-best-sports-moments-iphone-burst-mode-for-2024/"><u>[Updated] Shooting the Best Sports Moments IPhone Burst Mode for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-revolutionize-your-digital-photography/"><u>2024 Approved Revolutionize Your Digital Photography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-how-to-setting-up-and-sharing-your-xbox-game-library-with-friends/"><u>A Comprehensive How-To: Setting Up and Sharing Your Xbox Game Library with Friends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-leap-the-349-ipad-shines-bright-in-let-loose-event-reviews/"><u>Apple’s Latest Leap: The $349 iPad Shines Bright in 'Let Loose' Event Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-news-lg-televisions-receive-premium-sound-enhancements-a-hit-with-apple-fans/"><u>Exciting News: LG Televisions Receive Premium Sound Enhancements, A Hit with Apple Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3aac-audio-transformation-download-our-no-cost-web-service-for-immediate-flac-format-conversion/"><u>MP3/AAC Audio Transformation: Download Our No-Cost Web Service for Immediate FLAC Format Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-human-edge-in-excel-3-tasks-only-you-can-perform-not-chatgpt/"><u>The Human Edge in Excel: 3 Tasks Only You Can Perform, Not ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-25-unbeatable-christmas-ipad-offers-zdnets-comprehensive-guide/"><u>Top 25 Unbeatable Christmas iPad Offers - ZDNet's Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-into-your-favorite-superhero-using-apple-vision-pro-learn-more-on-may-ve/"><u>Transform Into Your Favorite Superhero Using Apple Vision Pro - Learn More on May Ve</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-users-learn-how-to-use-imessage-like-a-pro-insights-by-zdnet/"><u>Windows Users, Learn How To Use iMessage Like A Pro! Insights by ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung"
-date: 2024-09-20T18:03:20.550Z
-updated: 2024-09-22T18:06:34.671Z
+date: 2025-01-18T17:46:01.072Z
+updated: 2025-01-24T18:50:35.034Z
 tags:
   - mobile
 categories:
@@ -15,6 +15,10 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [AT&T Lost Your Phone Records to Hackers](https://ai-vdieo-software.techidaily.com/in-2024-best-adobe-premiere-elements-replacements-for-video-editing/) 
 
  Even if you aren't an AT&T customer, this breach probably affects you.
@@ -25,11 +29,23 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mozilla
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
 
@@ -43,28 +59,12 @@ Mozilla
 
  A new comments system encourages influencer culture on Spotify.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Samsung Galaxy Z Fold 6 Has a Much Better External Screen](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/) 
 
  Samsung's new book-style folding phone has arrived, with an updated aspect ratio and some hardware improvements.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Samsung's Galaxy Z Flip 6 Gets the Upgrade We Wanted](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/) 
@@ -75,40 +75,23 @@ Mozilla
 
 Justin Duino / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [T-Mobile Home Internet Reverses Its Recent Price Increase](https://buynow-info.techidaily.com/the-epicurean-pandemonium-of-overcooked-2-demystified-in-our-latest-review/) 
 
  The affordable 5G internet service is back down to $50 a month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Winamp Music Player Is Now on iPhone and Android](https://facebook.techidaily.com/broaden-your-reach-upload-fb-material-to-popular-app-platforms-now/) 
 
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
  The new Galaxy Watch Ultra takes some inspiration from the Apple Watch Ultra.
 
 ![Person holding the Samsung Galaxy Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-watch-ultra.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -137,5 +120,23 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-nba-live-action-your-guide-to-15-effective-livestream-tips-for-2024/"><u>[New] NBA Live Action Your Guide to 15 Effective Livestream Tips for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-get-crystal-clear-iphone-photos-with-our-free-red-eye-toolkit-for-2024/"><u>[Updated] Get Crystal Clear iPhone Photos with Our Free Red-Eye Toolkit for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snicker-snapshots-jokeframe/"><u>2024 Approved Snicker Snapshots JokeFrame</u></a></li>
+<li><a href="https://win-hot.techidaily.com/allegez-vos-soucis-une-solution-de-sauts-dactualites-quotidiens-automatises-pour-un-futur-plus-simple/"><u>Allégez Vos Soucis : Une Solution De Sauts D'Actualités Quotidiens Automatisés Pour Un Futur Plus Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoiding-critical-errors-with-your-apple-vision-pro-headset-protect-your-investment/"><u>Avoiding Critical Errors with Your Apple Vision Pro Headset - Protect Your Investment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-productivity-during-prime-day-with-triple-screen-vr-experience-from-discounted-xr-glasses-read-more-on-zdnet/"><u>Boost Your Productivity During Prime Day With Triple-Screen VR Experience From Discounted XR Glasses – Read More on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-yet-impressive-a-worthy-rival-to-apples-vision-pro-case-revealed-by-zdnet/"><u>Budget-Friendly Yet Impressive: A Worthy Rival to Apple’s Vision Pro Case, Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bypass-expensive-apple-vision-pro-with-budget-friendly-xr-glasses-and-say-goodbye-to-tech-envy/"><u>Bypass Expensive Apple Vision Pro with Budget-Friendly XR Glasses and Say Goodbye to Tech Envy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaborative-breakthroughs-how-ai-and-5g-are-revolutionizing-innovation/"><u>Collaborative Breakthroughs: How AI & 5G Are Revolutionizing Innovation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/obscure-watching-methods-5-unique-stories-apps-for-2024/"><u>Obscure Watching Methods 5 Unique Stories Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-your-soundtracks-essential-edits-for-crafting-podcasts-in-garageband-for-2024/"><u>Perfect Your Soundtracks Essential Edits for Crafting Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-medical-care-the-top-vision-pro-tools-from-apple-set-to-reshape-the-future-of-healthtech/"><u>Revolutionizing Medical Care: The Top Vision Pro Tools From Apple Set to Reshape the Future of HealthTech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-rpc-service-failures-in-windows-environments/"><u>Step-by-Step Guide: Repairing RPC Service Failures in Windows Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-se-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone SE on MetroPCS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-ces-2023-overview-top-four-inquiries-set-to-define-the-events-trajectory-techwise/"><u>Upcoming CES 2023 Overview: Top Four Inquiries Set to Define the Event's Trajectory | TechWise</u></a></li>
+</ul></div>
 

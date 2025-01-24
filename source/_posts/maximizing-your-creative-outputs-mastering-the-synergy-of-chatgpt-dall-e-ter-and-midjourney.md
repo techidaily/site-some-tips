@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney"
-date: 2024-09-19T17:15:21.554Z
-updated: 2024-09-22T18:46:16.689Z
+date: 2025-01-21T16:45:05.538Z
+updated: 2025-01-24T18:59:30.105Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,10 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
  I've tried to generate prompts with plain vanilla ChatGPT (both the free and paid version), and while it will create a prompt for use with MidJourney, those prompts don't seem anywhere near as good as the ones created by the specialized DALL-E mode for ChatGPT. I don't know if that's just the placebo effect in action, but it stands to reason that OpenAI would have done some fine-tuning with this mode of ChatGPT to produce better images.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How DALL-E 3 Works in ChatGPT
 
  To understand why you can get such good prompts from DALL-E 3, it's necessary to briefly explain how generating images using ChatGPT and DALL-E 3 works, and how it differs from MidJourney.
@@ -33,15 +37,27 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
  This means the AI chatbot is taking over the job of prompt engineer, and that gives us the opportunity to use its prompt engineering prowess in MidJourney.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Porting ChatGPT's DALL-E 3 Prompts Back into MidJourney
 
  It's not immediately obvious where the actual prompts are that DALL-E 3 has used to create the images you asked for, but all you have to do is click on one of the images in the results to open the gallery.
 
 ![DALL-E 3 Output of Space Octopuses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-20.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To the right of the image is the prompt, although you'll likely not see it all in the preview. Click the "Copy" button below the prompt to copy it to the clipboard.
 
 ![DALL-E 3 Copy Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-15.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, in MidJourney, paste the prompt into Discord where you would [usually type your prompt](https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/). Add any parameters that are MidJourney-specific (such as the [aspect ratio](https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/)) and send the instructions to the AI.
 
@@ -50,6 +66,10 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
  Next, enjoy the results!
 
 ![MidJourney Results from DALL-E 3 Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Keep in mind that each of the (up to) four images that DALL-E 3 produces in ChatGPT will have their own unique prompt, so use the one that resulted in the best result according to your own taste.
 
@@ -70,12 +90,24 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>[New] In 2024, Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ransforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing-for-2024/"><u>[New] Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>2024 Approved Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hands-on-guide-fixing-sensor-problems-with-your-magic-mouse-quickly/"><u>Hands-On Guide: Fixing Sensor Problems with Your Magic Mouse Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-look-at-newly-released-gen-3-airpods-from-apple-spotlighting-key-upgrades-zdnet/"><u>In-Depth Look at Newly Released Gen 3 AirPods From Apple: Spotlighting Key Upgrades | ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-icd-driver-identity-crisis/"><u>Intel ICD Driver Identity Crisis?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-15-guide-easily-terminate-apple-app-store-charges-via-iphone-tips-from-zdnet/"><u>IOS 15 Guide: Easily Terminate Apple App Store Charges via iPhone - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-upgrades-on-the-horizon-march-or-april-2024-launch-dates-anticipated-for-latest-version-tech-news-by-zdnet/"><u>IPad Upgrades on the Horizon? March or April 2024 Launch Dates Anticipated for Latest Version | Tech News by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-ipad-insider-tips-and-key-settings-every-apple-user-should-understand-explore/"><u>Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand Explore</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11s-tool-accessibility-settings/"><u>Mastering Windows 11'S Tool Accessibility Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-insights-microsoft-surface-pro-8-evaluation-a-comprehensive-business-analysis-zdnet/"><u>Professional Insights: Microsoft Surface Pro 8 Evaluation - A Comprehensive Business Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/recovering-your-lost-windows-pro-license-after-a-system-restore-techadvice/"><u>Recovering Your Lost Windows Pro License After a System Restore | TechAdvice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-playing-with-bugs-fix-constant-freezes-and-crashes-in-new-world-for-a-smoother-gaming-experience/"><u>Stop Playing with Bugs: Fix Constant Freezes and Crashes in 'New World' For a Smoother Gaming Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-savings-at-best-buy-exclusive-offers-and-discounts-in-june-2024-spotted/"><u>Top Savings at Best Buy: Exclusive Offers & Discounts in June 2024 - Spotted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-kid-friendly-tablets-as-endorsed-by-parents-techradar/"><u>Top-Rated Kid-Friendly Tablets as Endorsed by Parents | TechRadar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-cost-effective-clouds-for-the-budget-conscious-for-2024/"><u>Unlocking Cost-Effective Clouds for the Budget-Conscious for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-latest-iphone-16s-unique-features-highlighted-by-zdnet-make-now-the-perfect-time-to-upgrade/"><u>Why the Latest iPhone 16'S Unique Features, Highlighted by ZDNet, Make Now the Perfect Time to Upgrade!</u></a></li>
+</ul></div>
 

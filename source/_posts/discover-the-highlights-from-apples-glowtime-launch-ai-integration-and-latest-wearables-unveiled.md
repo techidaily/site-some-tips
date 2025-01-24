@@ -1,7 +1,7 @@
 ---
 title: "Discover the Highlights From Apple's Glowtime Launch: AI Integration & Latest Wearables Unveiled"
-date: 2025-01-11T09:41:01.517Z
-updated: 2025-01-18T05:46:06.672Z
+date: 2025-01-22T20:09:29.082Z
+updated: 2025-01-24T18:55:51.941Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,19 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[New] 2024 Approved From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-photo-retouch-erase-backgrounds-effectively/"><u>[Updated] 2024 Approved Mastering Photo Retouch Erase Backgrounds Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-companys-appeal-with-low-code-development-insights-from-zdnet/"><u>Boost Your Company's Appeal with Low-Code Development: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-browsers-conversational-power-our-top-7-plugin-lists/"><u>Boosting Browsers' Conversational Power: Our Top 7 Plugin Lists</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-an-unbreakable-artificial-intelligence-watermark-insights-from-zdnet/"><u>Discovering an Unbreakable Artificial Intelligence Watermark - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gemini-ai-enhancement-with-stack-overflow-data-powers-developer-solutions-on-the-google-cloud-platform/"><u>Gemini AI Enhancement with Stack Overflow Data Powers Developer Solutions on the Google Cloud Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/google-enhances-vector-ai-for-business-use-enabling-self-training-on-company-datasets-zdnet-update/"><u>Google Enhances Vector AI for Business Use, Enabling Self-Training on Company Datasets | ZDNET Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-ai-agent-technology-redefines-future-workspaces-the-inescapable-revolution/"><u>How AI Agent Technology Redefines Future Workspaces – The Inescapable Revolution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-find-n3-flip-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Find N3 Flip Phone Now with These Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-editors-lifeline-essential-responses-to-filmora-queries/"><u>In 2024, The Editor's Lifeline Essential Responses to Filmora Queries</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/navigating-the-nuances-of-twitters-video-policies/"><u>Navigating the Nuances of Twitter's Video Policies</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/scripting-the-final-push-for-your-tiktok-series/"><u>Scripting the Final Push for Your TikTok Series</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-ceremorphics-revolutionary-ai-processor-technology-exiting-the-shadows-with-promising-potential/"><u>Unveiling Ceremorphic's Revolutionary AI Processor Technology: Exiting the Shadows with Promising Potential</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>[New] The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-keeping-your-virtual-circle-true-not-tainted-by-tricks/"><u>[Updated] 2024 Approved Keeping Your Virtual Circle True, Not Tainted by Tricks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-transforming-social-media-videography-to-hd-clarity-fb/"><u>[Updated] 2024 Approved Transforming Social Media Videography to HD Clarity (FB)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-tiktok-twitter-syncing-method-for-2024/"><u>[Updated] The Ultimate TikTok-Twitter Syncing Method for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-how-apple-could-surpass-microsoft-and-google-in-ai-innovation-with-six-strategies-at-the-2024-worldwide-developers-conference-insights-for-tech-enthusiast119/"><u>1. How Apple Could Surpass Microsoft & Google in AI Innovation with Six Strategies at the 2024 Worldwide Developers Conference - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-facetime-simplified-a-compreited-guide-for-android-users/"><u>2024 Approved FaceTime Simplified A Compreited Guide for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-next-innovation-introducing-camera-equipped-airpods-expected-in-2026-sources-say/"><u>Apple's Next Innovation: Introducing Camera-Equipped AirPods Expected in 2026, Sources Say</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-on-selecting-your-ideal-apple-notebook/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide on Selecting Your Ideal Apple Notebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-opinion-on-iphone-15-a-must-have-device-for-professionals-and-beyond-insights/"><u>Expert Opinion on iPhone 15: A Must-Have Device for Professionals and Beyond - Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-showdown-evaluating-the-advantages-of-upgrading-from-iphone-14-pro-to-iphone-16-pro/"><u>IPhone Showdown: Evaluating the Advantages of Upgrading From iPhone 14 Pro to iPhone 16 Pro</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/ninety-percent-of-businesses-miss-out-on-prospective-buyers-due-to-inadequate-online-onboarding-experiences/"><u>Ninety Percent of Businesses Miss Out on Prospective Buyers Due to Inadequate Online Onboarding Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727789964217-top-10-ways-apple-can-enhance-ai-capabilities-to-match-rivals-like-openai-and-google-insights-from-zdnet/"><u>Top 10 Ways Apple Can Enhance AI Capabilities to Match Rivals Like OpenAI & Google: Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-new-era-youtube-hits-past-vidcon-for-2024/"><u>Unveiling New Era YouTube Hits Past VidCon for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-ultimate-guide-to-the-most-reliable-and-innovative-airtag-devices-as-vetted-by-tech-pros/"><u>Your Ultimate Guide to the Most Reliable & Innovative AirTag Devices , as Vetted by Tech Pros!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Thermal Expansion Must Be Accommodated in the Design Through the Use of Flexible Connectors or Expansion Loops.
-date: 2025-01-13T06:48:31.443Z
-updated: 2025-01-18T07:08:58.315Z
+date: 2025-01-20T17:01:40.906Z
+updated: 2025-01-24T20:22:24.066Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ With my local sales tax, the 512GB model, with the $199 travel case, totaled jus
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Stick with MacOS apps, if you can
@@ -59,7 +59,7 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -71,7 +71,7 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -85,7 +85,7 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -93,7 +93,7 @@ I also felt cramped sitting in one spot and trying to navigate through multiple 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -130,18 +130,22 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>[New] 2024 Approved How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-analyzing-the-post-upload-process-in-youtubes-ecosystem/"><u>[New] In 2024, Analyzing the Post-Upload Process in YouTube's Ecosystem</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[New] Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/celebrating-raspberry-pis-decade-of-innovation-how-the-miniature-powerhouse-changed-computing/"><u>Celebrating Raspberry Pi's Decade of Innovation: How the Miniature Powerhouse Changed Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-evaluation-of-google-maps-for-apples-mobile-platform/"><u>In-Depth Evaluation of Google Maps for Apple's Mobile Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-oracles-advanced-ai-solutions-elevate-your-data-management-experience/"><u>Introducing Oracle's Advanced AI Solutions: Elevate Your Data Management Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mozillas-decline-how-the-venerable-firefox-fades-from-prominence-in-todays-browsing-landscape-insights-from-zdnet/"><u>Mozilla's Decline: How the Venerable Firefox Fades From Prominence in Today’s Browsing Landscape - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-features-in-recent-kubernetes-update-enhanced-support-for-ai-tasks-and-additional-improvements-zdnet/"><u>New Features in Recent Kubernetes Update: Enhanced Support for AI Tasks & Additional Improvements | ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/play-for-free-the-top-10-game-download-sites-you-need-to-know-pc-android-2024/"><u>Play for Free The Top 10 Game Download Sites You Need to Know PC, Android, 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revival-in-the-clouds-exploring-the-rising-popularity-of-openstack-and-kata-containers/"><u>Revival in the Clouds: Exploring the Rising Popularity of OpenStack & Kata Containers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-essentials-of-youtubes-cc-license-for-filmakers/"><u>The Essentials of YouTube's CC License for Filmakers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c210-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C210 Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-top-trending-coding-languages-insights-and-implications/"><u>Unveiling the Top Trending Coding Languages: Insights & Implications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-11-ranked-audio-recorders-of-the-year-for-2024/"><u>[Updated] 11 Ranked Audio Recorders of the Year for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-demystifying-ez-grabber-a-beginners-guide/"><u>[Updated] Demystifying EZ Grabber A Beginner's Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-record-professional-audio-in-audacity/"><u>2024 Approved How To Record Professional Audio In Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-uag-devices-with-durable-apple-watch-bands-and-protective-samsung-z-fold-4-cases-explore-top-picks/"><u>Enhance Your UAG Devices with Durable Apple Watch Bands & Protective Samsung Z Fold 4 Cases - Explore Top Picks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y78-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo Y78 5G?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/identifying-ideal-pace-for-premium-slow-motion-cinematography-for-2024/"><u>Identifying Ideal Pace for Premium Slow Motion Cinematography for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-gt-5-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme GT 5 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/making-the-right-pick-for-your-needs-a-comprehensive-m3-vs-m2-macbook-air-showdown-gadgetguru/"><u>Making the Right Pick for Your Needs: A Comprehensive M3 Vs. M2 MacBook Air Showdown | GadgetGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/massive-700-discount-on-the-newest-2022-ipad-pro-exclusive-labor-day-sale-alert/"><u>Massive $700 Discount on the Newest 2022 iPad Pro - Exclusive Labor Day Sale Alert</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-icloud-note-integration-into-your-linux-environment-tips-and-tricks/"><u>Seamless iCloud Note Integration Into Your Linux Environment - Tips & Tricks!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-voicemicrophone-problems-during-warzone-matches-on-pc-and-consoles/"><u>Step-by-Step Fixes for Voice/Microphone Problems During Warzone Matches on PC and Consoles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/summit-series-of-ultimate-4k-touch-screens/"><u>Summit Series of Ultimate 4K Touch Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-12-case-options-reviews/"><u>Top-Rated iPhone 12 Case Options : Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-protective-covers-for-iphone-12-and-12-pro-2023-edition-techreview/"><u>Top-Rated Protective Covers for iPhone 12 & 12 Pro - 2023 Edition | TechReview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-tablets-of-2024-in-depth-analysis-and-ratings-by-industry-leaders-zdnet/"><u>Ultimate Guide to the Best Tablets of 2024 - In-Depth Analysis and Ratings by Industry Leaders | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guides-and-reviews-on-windows-11-features-key-insights-into-new-os-for-home-and-tablet-use/"><u>Ultimate Guides & Reviews on Windows 11 Features | Key Insights Into New OS - For Home and Tablet Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/when-capacitors-in-a-parallel-circuit-are-charged-to-the-same-voltage-v-each-stores-energy-proportional-to-its-capacitance/"><u>When Capacitors in a Parallel Circuit Are Charged to the Same Voltage V, Each Stores Energy Proportional to Its Capacitance.</u></a></li>
 </ul></div>
 

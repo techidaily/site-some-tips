@@ -1,7 +1,7 @@
 ---
 title: "Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform"
-date: 2024-09-20T18:33:03.472Z
-updated: 2024-09-22T18:13:14.009Z
+date: 2025-01-18T19:03:23.051Z
+updated: 2025-01-24T16:01:12.179Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
  Now, before generative AI, search engines (like Google) provided you with a list of potential answers, such as articles or blog posts. You had to manually check those answers till you found something that solved your problem. However, in some instances when a single source wasn't enough, you had to browse multiple articles to get the complete picture.
 
  Now, with Google's recently [launched AI-powered Search Generative Experience (SGE)](https://fox-cloud.techidaily.com/2024-approved-powering-up-your-action-footage-one-gadget-at-a-time/), we have a potential solution to this issue. SGE will try to understand your search query and then reference a few articles to generate an answer to your question. The only thing is, [Perplexity does this a lot better](https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-recording-on-your-macbook/)!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Google Wishes Search Generative Experience (SGE) Was as Good as Perplexity
 
@@ -62,10 +66,7 @@ Close
  Perplexity is not reading through every single article end-to-end to generate the answers. Instead, it's just reading through the excerpts of the source articles for a search, cross-referencing it with what it knows already, and then generating a response from there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Did I Switch To Perplexity?
@@ -87,15 +88,16 @@ Close
  I generally start any search set to "All," so Perplexity searches the entire web and fetches all possible results. If I don't like the referenced source, then I search again with a focused search, either set to Reddit or Academic, depending on the search intent.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Follow-Up Questions and Related Search
 
 ![Use Perplexity to Ask Follow up Questions and Related Searches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/use-perplexity-to-ask-follow-up-questions-and-related-searches.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perplexity generates a list of Related questions (or search queries) following the generated answer, so you can dive into the topic further. This is similar to Google's People Also Ask feature. Each of these new answers is related to the original search term, forming a thread of questions and answers resembling a chat. That said, if you don't like any of the predefined Related questions, you can also enter your own question as a follow-up.
 
@@ -114,10 +116,7 @@ Close
 ![Showcasing Perplexity Pro Search feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/showcasing-perplexity-pro-search-feature.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On paper, this feature is amazing, but in my time using it, I found a few drawbacks. For instance, with Pro Search enabled, Perplexity struggles with contextual questions, and tends to overlook parts of the previous conversation in a running thread. As such, I only use Pro Search for one-off complicated search queries, when I'm struggling to articulate my thoughts, and I'm unsure what to search for, and need help to steer the search in the right direction.
@@ -130,26 +129,10 @@ Close
 
 ![Google Search Speed Showcase](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/google-search-speed-showcase.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perplexity isn't that fast. It takes a moment to fetch the sources and, from there, generate the response. However, it's fast enough. I usually get the source list within 1–2 seconds. Also, the AI answer is generated faster than my reading speed, so I never had this break my flow. It usually takes a similar amount of time as other AI tools like ChatGPT or Microsoft Copilot.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  But Google Is Free, and Perplexity is Paid
@@ -186,5 +169,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-selective-picks-for-audible-transformation-technologies-for-2024/"><u>[New] Selective Picks for Audible Transformation Technologies for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/44cm5asx44gp44gx44gf44ov44o844oj5pah5pu444gu5zue5b6p5rov77ya5lia5rwb44gu44og44kv44ol44od44kv44gn5pyq5p2l5rc45yqr5lplusd6k2377yb44cn/"><u>「失くしたワード文書の回復法：一流のテクニックで未来永劫保護！」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>In 2024, 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/savings-alert-the-unbeatable-80-off-on-apple-watch-series-se-2nd-gen-post-prime-day-exclusive-analysis-by-zdnet/"><u>Savings Alert: The Unbeatable $80 Off on Apple Watch Series SE (2Nd Gen) Post-Prime Day | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-hassles-of-portable-charging-how-a-simple-20-anker-battery-made-all-the-difference-review/"><u>Solving the Hassles of Portable Charging: How a Simple $20 Anker Battery Made All the Difference Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-now-holding-advanced-ai-tech-in-your-hands-by-2024-as-predicted-insights/"><u>The Future Is Now: Holding Advanced AI Tech in Your Hands by 2024 as Predicted Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-soundtrack-to-instagram-fame/"><u>The Soundtrack to Instagram Fame</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-discounts-on-apple-products-for-july-2024-iphone-apple-watch-and-ipad-bargains-zdnet-insights/"><u>Top Discounts on Apple Products for July 2024: IPhone, Apple Watch & iPad Bargains | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-wireless-connection-errors-fixing-not-connected-to-network-messages-in-samsung-phones/"><u>Troubleshooting Wireless Connection Errors: Fixing 'Not Connected to Network' Messages in Samsung Phones</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-trouble-resetting-your-iphone-without-the-original-code-explained/"><u>Unlocking Trouble: Resetting Your iPhone Without the Original Code Explained</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-15-free-video-editing-tools-for-starters-no-experience-needed/"><u>Updated In 2024, 15 Free Video Editing Tools for Starters No Experience Needed</u></a></li>
+</ul></div>
 

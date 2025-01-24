@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Latest Tech: Apple Watch Series 10 Vs. Series 8 – Which One Elevates Your Wrist Game?"
-date: 2025-01-11T10:43:29.610Z
-updated: 2025-01-18T02:52:45.652Z
+date: 2025-01-23T17:31:07.604Z
+updated: 2025-01-24T17:39:13.393Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -66,7 +70,7 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 \*Original MSRP
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -77,9 +81,17 @@ Kerry Wan/ZDNET
 
 ## You should buy the Apple Watch Series 10 if...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -88,10 +100,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 **Also:** [**The best smart rings: Expert tested**](https://www.zdnet.com/article/best-smart-ring/)
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
 
@@ -104,7 +112,7 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
@@ -119,10 +127,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
@@ -134,10 +138,6 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 **Also:** [**Apple Watch Series 9 vs. Series 8: Which model should you buy?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/)
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb8b7dbc-bcc1-47cf-8fc0-13b0b2496459%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
 
@@ -179,22 +179,17 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-audiovisual-excellence-ranking-the-top-5-zoom-transcription-apps/"><u>[New] 2024 Approved Audiovisual Excellence Ranking the Top 5 Zoom Transcription Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-empower-everyday-narratives-free-extensions-and-mobile-magic/"><u>[New] 2024 Approved Empower Everyday Narratives – Free Extensions & Mobile Magic</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevate-your-images-with-gorgeous-mosaics-for-2024/"><u>[New] Elevate Your Images with Gorgeous Mosaics for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-new-perspectives-streaming-aerial-content-on-facebook-for-2024/"><u>[New] Unveiling New Perspectives Streaming Aerial Content on Facebook for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>2024 Approved Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/agnes-ro-unveiling-the-changing-landscape-of-developer-roles-at-atlassian-insights-from-zdnet/"><u>Agnes Ro: Unveiling the Changing Landscape of Developer Roles at Atlassian - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/and-graviton-4-ai-silicon-technologies/"><u>And Graviton 4 AI Silicon Technologies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/aw6-amazons-aws-establishes-presence-in-australia-with-melbourne-region-launch-and-a-45b-dollar-investment-commitment/"><u>AW6: Amazon's AWS Establishes Presence in Australia with Melbourne Region Launch and a 4.5B Dollar Investment Commitment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-advanced-aws-lake-formation-capabilities-unveiled-by-amazon-for-greater-data-oversight-tech-news-on-zdnet/"><u>Discover Advanced AWS Lake Formation Capabilities Unveiled by Amazon for Greater Data Oversight - Tech News on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-simplified-path-to-ai-with-amazon-web-services-get-started-for-zero-cost-using-sagemaker-studio-lab-zdnet/"><u>Discover the Simplified Path to AI with Amazon Web Services: Get Started for Zero Cost Using SageMaker Studio Lab | ZDNET</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/duel-for-motorsport-dominance-black-gopro-vs-ghost-s-drift/"><u>Duel for Motorsport Dominance Black GoPro Vs. Ghost-S Drift</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/iently-broadcasting-your-videos-as-shorts-via-computers-and-mobile/"><u>Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-lightning-fast-connectivity-with-our-comprehensive-review-of-the-google-nest-wi-fi-system/"><u>Experience Lightning Fast Connectivity with Our Comprehensive Review of the Google Nest Wi-Fi System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-enhanced-ai-capabilities-in-the-newest-kubernetes-update-insights-from-zdnet/"><u>Exploring Enhanced AI Capabilities in the Newest Kubernetes Update – Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-ai-skills-for-better-paychecks-in-tech-positions-role-based-analysis-zdnet/"><u>Leveraging AI Skills for Better Paychecks in Tech Positions - Role-Based Analysis | ZDNet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplified-steps-to-successful-screenshotsrecording-on-imac-for-2024/"><u>Simplified Steps to Successful Screenshots/Recording on iMac for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sustainability-is-increasingly-becoming-an-integral-part-of-soil-mechanics-with-research-focusing-on-minimizing-environmental-impacts-while-ensuring-constru18/"><u>Sustainability Is Increasingly Becoming an Integral Part of Soil Mechanics, with Research Focusing on Minimizing Environmental Impacts While Ensuring Construction Safety and Durability.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facesave-quickly-grab-facebook-media/"><u>[New] In 2024, FaceSave Quickly Grab Facebook Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-champion-top-titles-best-free-video-caption-grabs/"><u>[Updated] 2024 Approved Champion Top Titles Best Free Video Caption Grabs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-success-in-podcasts-with-seo-know-how-for-2024/"><u>[Updated] Unlocking Success in Podcasts with SEO Know-How for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/creality-unveils-release-schedule-and-price-points-for-the-powerhouse-k1c-3d-printer-with-detailed-specifications/"><u>Creality Unveils Release Schedule & Price Points for the Powerhouse K1C 3D Printer with Detailed Specifications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-a-tiny-fit-for-your-apple-device-a-quicker-smaller-choice-featured-by-zdnet/"><u>Discover a Tiny Fit for Your Apple Device: A Quicker, Smaller Choice Featured by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-apple-discounts-for-prime-day-top-36-picks-and-deals-you-cant-miss/"><u>Discover the Ultimate Selection of Apple Discounts for Prime Day: Top 36 Picks & Deals You Can't Miss!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-future-of-apples-smart-innovations-unveiling-ai-capabilities-in-your-next-iphone-macbook-and-ipad-learn-everything-here/"><u>Exploring the Future of Apple's Smart Innovations: Unveiling AI Capabilities in Your Next iPhone, MacBook, and iPad - Learn Everything Here!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-ddpai-mini3-where-functionality-meets-enjoyment-in-dashcams/"><u>Review of the Ddpai Mini3 - Where Functionality Meets Enjoyment in Dashcams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-journey-with-the-ultimate-qi2-compatible-3-in-1-magsafe-battery-pack-a-must-have-for-tech-enthusiasts/"><u>Revolutionize Your Journey with the Ultimate Qi2-Compatible 3-in-1 MagSafe Battery Pack - A Must-Have for Tech Enthusiasts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/trailblazing-excellence-evaluating-the-performance-of-top-races-robust-rc-rock-crawler/"><u>Trailblazing Excellence: Evaluating the Performance of Top Race's Robust RC Rock Crawler</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-highest-quality-magsafe-wallets-reviewed-by-experts-zdnet/"><u>Ultimate Guide to the Highest Quality MagSafe Wallets Reviewed by Experts | ZDNet</u></a></li>
 </ul></div>
 

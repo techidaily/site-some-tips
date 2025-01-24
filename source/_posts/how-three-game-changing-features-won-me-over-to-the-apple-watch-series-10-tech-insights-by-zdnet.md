@@ -1,7 +1,7 @@
 ---
 title: How Three Game-Changing Features Won Me Over to the Apple Watch Series 10 | Tech Insights by ZDNet
-date: 2025-01-11T22:39:43.217Z
-updated: 2025-01-18T05:39:23.512Z
+date: 2025-01-20T19:08:12.121Z
+updated: 2025-01-24T20:27:55.130Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Many features come with the Apple Watch's new upgrade, which marks the company's
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. One of the biggest Apple Watch redesigns ever
@@ -41,10 +41,6 @@ The Apple Watch Series 10 got its first big redesign since the launch of the Ser
 **Also: [Apple's most affordable Watch SE model may be getting a revamp soon. Here's what's new](https://www.zdnet.com/article/apples-most-affordable-watch-se-model-may-be-getting-a-revamp-soon-heres-whats-new/)**
 
 We didn't get a redesigned Apple Watch Ultra, as Apple is expected to focus on internal updates rather than the physical look, but we did see a new Satin Black finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Extra health tracking: sleep apnea
 
@@ -61,7 +57,7 @@ The Apple Watch's sleep apnea detection isn't expected to be immediately availab
 Apple also announced new WatchOS 11 features for the Apple Watch, including offline maps and water features like Depth, Water Temperature, and Tides. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New Apple Watch finishes
@@ -75,12 +71,16 @@ The Apple Watch Series 10 is available in Jet Black, Rose Gold, and Silver Alumi
 The Apple Watch Series 10 starts at $399, available for pre-order today, with general availability on September 20\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What we didn't get with the Apple Watch Series 10
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Blood oxygen tracking has yet to return
 
@@ -93,7 +93,7 @@ Unfortunately, the new Apple Watch models didn't bring back the blood oxygen mon
 Currently, the Apple Watch Series 9 and Ultra don't have the blood oxygen sensor enabled, so users looking to upgrade from an older model (Apple Watch Series 6, 7, 8, and Ultra) should know they'll likely lose that feature until Apple resolves its issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. No hypertension capabilities yet
@@ -134,24 +134,24 @@ Many users have expected Apple to release blood pressure monitoring on the Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-a-comprehensive-guide-to-facebooks-full-screen-feature-for-2024/"><u>[New] A Comprehensive Guide to Facebook's Full Screen Feature for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ecoding-the-art-of-engaging-in-youtube-short-forms/"><u>[New] Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-drone-cinematography-team-the-best-10/"><u>[New] In 2024, Ultimate Drone Cinematography Team The Best 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-direct-to-your-library-simple-windows-and-mac-techniques-for-downloading-igtv-for-2024/"><u>[Updated] Direct to Your Library Simple Windows & Mac Techniques for Downloading IGTV for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quintessential-10-fight-royale-games/"><u>[Updated] Quintessential 10 Fight Royale Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-beta-release-anthropics-innovative-claude-ai-offers-enhanced-tool-utilization-for-smart-interaction-zdnet-insights/"><u>Beyond Beta Release: Anthropic's Innovative Claude AI Offers Enhanced Tool Utilization for Smart Interaction | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-insights-on-ssh-protocol-and-practical-usage-the-ultimate-starter-kit-for-safeguarding-your-data-transfers-cyberguardianhub/"><u>Essential Insights on SSH Protocol and Practical Usage: The Ultimate Starter Kit for Safeguarding Your Data Transfers | CyberGuardianHub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-unprecedented-cinematic-brilliance-with-hps-innovative-imax-certified-envy-x360-exclusive-insights-and-details/"><u>Experience Unprecedented Cinematic Brilliance with HP's Innovative IMAX-Certified Envy X360: Exclusive Insights and Details</u></a></li>
-<li><a href="https://some-tips.techidaily.com/from-disorderly-to-decisive-streamlining-linux-and-open-source-manuals-for-easy-access-expertise-at-zdnet/"><u>From Disorderly to Decisive: Streamlining Linux and Open-Source Manuals for Easy Access | Expertise at ZDNET</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-discover-the-premier-screen-recording-tools-for-mac/"><u>In 2024, Discover the Premier Screen Recording Tools for Mac</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-100-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor 100 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/intel-predicts-the-integration-of-artificial-intelligence-into-business-operations-within-three-to-five-years-zdnet-insights/"><u>Intel Predicts the Integration of Artificial Intelligence Into Business Operations Within Three to Five Years | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/latest-white-house-document-advocates-for-open-source-artificial-intelligence-insights-from-zdnet/"><u>Latest White House Document Advocates for Open Source Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-generative-ai-and-large-language-models-llm-for-enhanced-business-insights-an-experts-guide/"><u>Leveraging Generative AI and Large Language Models (LLM) for Enhanced Business Insights - An Expert's Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-ai-integration-reasons-for-embracing-rust-in-linux-and-his-philosophy-on-kernel-development-with-zdnet/"><u>Linus Torvalds Discusses AI Integration, Reasons for Embracing Rust in Linux, and His Philosophy on Kernel Development with ZDNet</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/seamless-transition-to-windows-11-expert-ranked-apps-for-data-and-folder-moving/"><u>Seamless Transition to Windows 11: Expert Ranked Apps for Data and Folder Moving</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-beginner-programmer-roles-that-launch-careers-insights-from-zdnet/"><u>Top 5 Beginner Programmer Roles That Launch Careers: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-stack-overflow-the-journey-from-bootstrapping-to-managing-a-top-tier-tech-property-insights-by-zdnet/"><u>Transforming Stack Overflow: The Journey From Bootstrapping to Managing a Top-Tier Tech Property - Insights by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flashing-feathersticks-short-film-characters-music/"><u>[New] 2024 Approved Flashing Feathersticks Short Film Characters' Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-step-by-step-approach-for-effective-spotify-marketing/"><u>[Updated] A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-zte-nubia-flip-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your ZTE Nubia Flip 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/5ogi5asn56gs55uy5lik5rc45lmf5yig6zmk5pww5o2u55qe5pya5paw5pa55rov/"><u>恢复硬盘上永久删除数据的最新方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-bargains-for-august-2023-unveiling-the-hottest-deals-featured/"><u>Amazon Bargains for August 2023: Unveiling the Hottest Deals Featured</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-apple-watch-ultra-and-apple-watch-series-8-a-comprehensive-guide-zdnet/"><u>Choosing Between the Apple Watch Ultra and Apple Watch Series 8: A Comprehensive Guide | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-m3-and-m1-macbook-pro-models-is-it-time-to-switch-to-apples-newest-laptop-innovation-tech-insights/"><u>Comparing the M3 and M1 MacBook Pro Models: Is It Time to Switch to Apple's Newest Laptop Innovation? | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-the-ios-181-preview-release-featuring-enhanced-ai-capabilities-by-apple-get-started-here/"><u>Download the iOS 18.1 Preview Release Featuring Enhanced AI Capabilities by Apple – Get Started Here!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211439121--entering-hekates-cauldron/"><u>Entering Hekate's Cauldron | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/esr-unveils-enhanced-qi2-magsafe-chargers-with-cryoboost-technology-for-rapid-cool-charging-of-iphones-above-mini-exclusive-analysis/"><u>ESR Unveils Enhanced Qi2 MagSafe Chargers with CryoBoost Technology for Rapid, Cool-Charging of iPhones Above Mini | Exclusive Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-v29-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo V29 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-iphone-call-recording-steps-and-laws-you-need-to-know/"><u>Mastering iPhone Call Recording: Steps and Laws You Need To Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-full-day-with-apples-vision-pro-glasses-a-productivity-game-changer-or-not-tech-analysis/"><u>My Full Day with Apple's Vision Pro Glasses – A Productivity Game Changer or Not? | Tech Analysis</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personalize-with-free-youtube-profile-designs/"><u>Personalize With FREE YouTube Profile Designs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-essential-checklist-for-rectifying-common-video-mistakes/"><u>The Essential Checklist for Rectifying Common Video Mistakes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-sony-xperia-5-unveiled-slim-profile-yet-pricey-choice/"><u>The Sony Xperia 5 Unveiled: Slim Profile Yet Pricey Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-comparison-of-apples-latest-iphones-regular-vs-plus-vs-pro-vs-pro-max-zdnet-insights/"><u>The Ultimate Comparison of Apple's Latest iPhones: Regular Vs. Plus Vs. Pro Vs. Pro Max | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-productivity-on-the-go-the-latest-breakthroughs-in-xr-technology-unveiled-by-zdnet/"><u>Transform Productivity on the Go: The Latest Breakthroughs in XR Technology Unveiled by ZDNET</u></a></li>
 </ul></div>
 

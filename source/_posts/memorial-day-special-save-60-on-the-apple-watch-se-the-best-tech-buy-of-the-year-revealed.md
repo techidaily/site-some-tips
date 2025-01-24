@@ -1,7 +1,7 @@
 ---
 title: Memorial Day Special - Save $60 on the Apple Watch SE! The Best Tech Buy of the Year Revealed
-date: 2025-01-11T16:33:37.745Z
-updated: 2025-01-18T04:58:33.017Z
+date: 2025-01-19T18:22:15.835Z
+updated: 2025-01-24T17:53:58.570Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -89,18 +89,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-accelerated-windows-review-strategies/"><u>[New] Accelerated Windows Review Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-recording-movies-best-practices-with-windows-11-for-2024/"><u>[New] Recording Movies Best Practices with Windows 11 for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-ultimate-guide-adding-snapchat-to-your-mac/"><u>[Updated] Ultimate Guide Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-vivid-twitter-visuals-the-journey-to-full-hd-viewing/"><u>2024 Approved Vivid Twitter Visuals The Journey to Full HD Viewing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-notorious-ntdlldll-problem-a-comprehensive-tutorial-for-various-windows-versions/"><u>Fixing the Notorious ntdll.dll Problem: A Comprehensive Tutorial for Various Windows Versions</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-nord-n30-se-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Nord N30 SE Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Phone with Broken Screen</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-use-youtube-cards-and-annotations/"><u>How to Use YouTube Cards and Annotations?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-battery-draining-fast-after-ios-n751-explore-these-proven-7-fixes-for-improved-performance-gadgetguru/"><u>IPhone Battery Draining Fast After iOS N7.5.1? Explore These Proven 7 Fixes for Improved Performance | GadgetGuru</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-ai-integration-and-rust-usage-in-linux-evolution-decoding-the-only-thing-that-matters/"><u>Linus Torvalds Discusses AI Integration & Rust Usage in Linux Evolution; Decoding The Only Thing That Matters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-linux-and-open-source-docs-the-path-to-organized-knowledge-expert-solutions-from-zdnet/"><u>Revolutionizing Linux & Open Source Docs: The Path to Organized Knowledge - Expert Solutions From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stack-overflows-expertise-integrated-into-google-clouds-gemini-ai-expanding-your-development-resources/"><u>Stack Overflow's Expertise Integrated Into Google Cloud's Gemini AI: Expanding Your Development Resources</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-debate-intensifies-advancing-consensus-on-open-source-ai-amidst-growing-discontent/"><u>The Debate Intensifies: Advancing Consensus on Open Source AI Amidst Growing Discontent</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-find-your-own-tiktok-stream-key-for-2024/"><u>[New] [Step-by-Step Guide] Find Your Own TikTok Stream Key for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-leading-psp-ios-game-simulators-our-2023s-choices/"><u>[New] 2024 Approved Leading PSP iOS Game Simulators - Our 2023'S Choices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-syma-s111g-remote-control-helicopter-ideal-for-indoor-entertainment/"><u>Affordable Syma S111G Remote Control Helicopter - Ideal for Indoor Entertainment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-steps-and-tips-for-easy-ipad-setup-a-comprehensive-guide/"><u>Essential Steps & Tips for Easy iPad Setup - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/from-capture-to-share-reviewing-the-newest-sprout-version/"><u>From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-connect-dual-displays-to-your-m3-macbook-pro-similar-features-as-m3-macbook-air-zdnet/"><u>Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - Similar Features as M3 MacBook Air (ZDNet)</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-honor-90-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor 90 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-with-the-multifunctional-macbook-stand-and-charger-bundle-at-just-102-exclusive-offer-from-zdnet/"><u>Save Big with the Multifunctional MacBook Stand & Charger Bundle at Just $102 - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-owners-integrating-these-pioneering-five-ai-solutions/"><u>Smart Owners: Integrating These Pioneering Five AI Solutions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-strategy-to-clean-up-chrome-avoid-unwanted-advertisements-popups-and-malware/"><u>Step-by-Step Strategy to Clean Up Chrome: Avoid Unwanted Advertisements, Popups & Malware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-advanced-ipads-of-2e24-thoroughly-tested-and-reviewed/"><u>Ultimate Guide to the Most Advanced iPads of 2E24: Thoroughly Tested & Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-discover-how-the-new-camera-button-enhances-your-iphone-16-experience-tech-insights/"><u>Unveiling the Latest: Discover How the New Camera Button Enhances Your iPhone 16 Experience | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-with-apple-compare-the-iphone-16-and-15-features-in-depth-cnet-reviews/"><u>Upgrading with Apple? Compare the iPhone 16 and 15 Features In-Depth | CNET Reviews</u></a></li>
 </ul></div>
 

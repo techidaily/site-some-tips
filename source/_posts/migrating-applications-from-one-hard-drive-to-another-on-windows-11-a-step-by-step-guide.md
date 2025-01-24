@@ -1,7 +1,7 @@
 ---
 title: "Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide"
-date: 2024-09-15T16:20:19.103Z
-updated: 2024-09-22T18:05:44.160Z
+date: 2025-01-23T19:26:11.560Z
+updated: 2025-01-24T18:24:59.204Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  Running out of storage space on a drive and considering moving some games or apps to another location? Or have you accidentally installed a game on the wrong drive and want to move it? Fortunately, relocating apps and programs between drives is super easy. We'll show you how to do just that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Things to Do Before Relocating Programs or Games
 
  Before moving apps and programs between drives, take a few precautions to avoid file corruption, data loss, or other issues.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  It's important to note that a system restore doesn't create a backup of the app being relocated, so you'll need to do that separately. [Back up your game or program](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) on an internal or external drive. For even more safety, you can back it up on a secure cloud storage platform where it remains safe in case of any mishap on your device.
 
  Also, ensure your laptop is sufficiently charged, and if you're using a desktop PC, it's worth checking for potential electrical outages in your area. Besides that, confirm that the destination drive—where you're going to relocate an app—has ample space to accommodate the relocated program. If space is limited, take the necessary measures to [free up storage](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Transfer Apps From One Drive to Another Through the Settings App
 
@@ -49,22 +57,12 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ![Clicking on the 'Move' option to relocate an app in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-clicking-on-the-move-option-to-relocate-an-app-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will display the program's current installation location and the drives that you can transfer the program to. Select your preferred drive, and then click on "Move."
 
 ![Selecting the destination drive to relocate an app to in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-selecting-the-destination-drive-to-relocate-an-app-to-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait a few seconds, and Windows will seamlessly move your app to the newly selected location.
@@ -72,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  While this is the most direct way to relocate apps, it may not be universally applicable. You may not see this option for some apps, or it might be grayed out. So how do you move those apps?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use the Command Prompt to Relocate Apps You Can’t Move From Settings
@@ -94,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 !['Old' and 'New' paths written in a Notepad file on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-old-and-new-paths-written-in-a-notepad-file-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having noted both your "old" and "new" paths, [open the Command Prompt with administrative privileges](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Type "Command Prompt" into Windows Search, and click "Run as Administrator." You can also use PowerShell run admin for this. 
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
@@ -110,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
     
 ![Running the Robocopy command in Windows Command Prompt to relocate Mozilla Firefox from one drive to another on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-running-the-robocopy-command-in-windows-command-prompt-to-relocate-mozilla-firefox-from-one-drive-to-another-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Following that, insert both the "old" and "new" paths into the following command:
 
         `mklink "old" "new" /j`
@@ -126,10 +118,7 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 ![Running the MKLINK command in the Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-running-the-mklink-command-in-the-windows-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above process doesn't automatically remove the app from its old location. So, after successfully relocating the app to a new location and creating a junction between the old and new directories, manually delete the app to free up storage space.
@@ -167,5 +156,22 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-integrating-obs-in-daily-skype-monitoring/"><u>[Updated] 2024 Approved Integrating OBS in Daily Skype Monitoring</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-high-speed-photo-inspector-for-windows-11/"><u>[Updated] High-Speed Photo Inspector for Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-step-by-step-guide-to-advanced-improvements-for-msi-installers-using-the-wix-technology-suite/"><u>A Step-by-Step Guide to Advanced Improvements for MSI Installers Using the WiX Technology Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-advises-alternative-methods-over-rice-for-a-drenched-iphone-discover-the-best-fix-now/"><u>Apple Advises Alternative Methods Over Rice for a Drenched iPhone - Discover the Best Fix Now!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/avoid-missed-sales-master-the-no-sale-feature-in-massmailer-software/"><u>Avoid Missed Sales: Master the 'No Sale' Feature in MassMailer Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypass-the-process-easy-method-for-windows-graphic-driver-delete/"><u>Bypass the Process: Easy Method for Windows Graphic Driver Delete</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-all-compatible-apple-watches-with-watchos-11-update-and-exclusions-explained/"><u>Comprehensive Guide: All Compatible Apple Watches with WatchOS 11 Update & Exclusions Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-upcoming-innovations-apples-latest-advanc-cuements-for-iphone-ipad-mac-and-beyond-with-artificial-intelligence-enhancements-this-autumn-techwor51/"><u>Discover the Upcoming Innovations: Apple's Latest Advanc Cuements for iPhone, iPad, Mac, and Beyond with Artificial Intelligence Enhancements This Autumn | TechWorld</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-your-visual-workspace-with-ease-adding-a-second-thunderbolt-monitor-to-the-apple-m1-mac-mini-expert-tips/"><u>Expanding Your Visual Workspace with Ease: Adding a Second Thunderbolt Monitor to the Apple M1 Mac Mini – Expert Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-getting-your-logitech-g-pro-x-mic-up-and-running-smoothly/"><u>Expert Advice: Getting Your Logitech G PRO X Mic Up and Running Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-data-to-dialogue-crafting-a-bespoke-chatgpt/"><u>From Data to Dialogue: Crafting a Bespoke ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-celebrated-20-independent-pubg-photo-sequences/"><u>In 2024, Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-machines-toms-essential-wisdom-on-personal-technology/"><u>Mastering Machines: Tom's Essential Wisdom on Personal Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-deployment-with-advanced-installer-a-superior-alternative-to-the-wix-toolset/"><u>Next-Level Deployment with Advanced Installer – A Superior Alternative to the WiX Toolset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revealed-the-hidden-way-to-claim-a-free-macbook-air-m3-from-best-buy-discover-how-now/"><u>Revealed: The Hidden Way to Claim a Free MacBook Air M3 From Best Buy - Discover How Now!</u></a></li>
+</ul></div>
 

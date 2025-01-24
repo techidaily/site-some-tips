@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2025-01-12T05:30:17.404Z
-updated: 2025-01-18T06:44:53.050Z
+date: 2025-01-20T19:34:20.632Z
+updated: 2025-01-24T20:40:43.957Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -48,10 +48,6 @@ The only thing you'll need is a macOS device (MacBook or iMac). With that in han
 
 ## Installing LibreOffice
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Download the installer
 
 You cannot install LibreOffice from the macOS App Store. Instead, open your default web browser and point it to [www.libreoffice.org](http://www.libreoffice.org). Click Download Now. This will take you to the download page.
@@ -63,7 +59,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -81,6 +77,10 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -92,7 +92,7 @@ Image: Jack Wallen
 ## How to open LibreOffice
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
@@ -108,7 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -151,24 +151,16 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-redefining-collaboration-the-power-of-immersive-vr/"><u>[New] 2024 Approved Redefining Collaboration The Power of Immersive VR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techniques-in-archiving-web-based-music-tracks/"><u>[New] In 2024, Techniques in Archiving Web-Based Music Tracks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>[New] The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-youtube-premium-complete-information-inside-for-2024/"><u>[Updated] Decoding YouTube Premium Complete Information Inside for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-future-adopting-macos-11-big-sur-for-growth/"><u>2024 Approved Unveiling The Future Adopting macOS 11 Big Sur for Growth</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cross-border-funds-made-easier-singapore-collaborates-with-india-on-enhanced-transfer-protocols-tech-news/"><u>Cross-Border Funds Made Easier: Singapore Collaborates with India on Enhanced Transfer Protocols | Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-collection-of-affordable-amazon-offers-to-kickstart-back-to-school-shopping-with-ease/"><u>Discover the Ultimate Collection of Affordable Amazon Offers to Kickstart Back-to-School Shopping with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-capabilities-of-djis-high-end-42000-drone-model-revealed/"><u>Exploring the Capabilities of DJI's High-End $42,000 Drone Model Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-amazon-continues-to-dominate-even-as-brick-and-mortar-stores-close-analysis-by-zdnet/"><u>How Amazon Continues to Dominate Even as Brick-and-Mortar Stores Close | Analysis by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-y36i-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Y36i Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-excellent-free-webcam-video-snapper-app/"><u>In 2024, Excellent Free Webcam Video Snapper App</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-pova-5-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Pova 5? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/joint-anti-online-deceit-initiative-launched-by-singapore-and-the-usa-a-step-towards-global-security/"><u>Joint Anti-Online Deceit Initiative Launched by Singapore & the USA - A Step Towards Global Security</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/livegaze-app-reviews-and-ratings/"><u>LiveGaze App Reviews & Ratings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mobile-friendly-url-structure/"><u>Mobile-Friendly URL Structure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/slash-your-wardrobe-expenses-using-this-handy-chrome-add-on-insights-from-techexplorer/"><u>Slash Your Wardrobe Expenses Using This Handy Chrome Add-On - Insights From TechExplorer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-credit-card-reader-picks-expert-insights-from-zdnet/"><u>Top 4 Credit Card Reader Picks - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secret-of-temus-low-prices-a-detailed-analysis/"><u>Unlocking the Secret of Temu's Low Prices – A Detailed Analysis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-vr-bikes-to-check-out/"><u>[Updated] 2024 Approved Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-film-creation-guide-and-other-options/"><u>[Updated] 2024 Approved YouTube Film Creation Guide & Other Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>2024 Approved Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphic-performance-on-windows-11-w-new-driver/"><u>Boost Graphic Performance on Windows 11 W/ New Driver</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-enhanced-airpods-top-4-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods: Top 4 Improved Features Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-m2-powered-mac-mini-at-a-record-low-only-479-detailed-analysis/"><u>Discover Apple's M2-Powered Mac Mini at a Record Low: Only $479 - Detailed Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-digitize-and-store-your-drivers-license-in-the-iphone-wallet-app-customized-processes-for-various-regions/"><u>How to Digitize and Store Your Driver's License in the iPhone Wallet App - Customized Processes for Various Regions</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-swiftly-and-silently-remove-a-post-on-facebook/"><u>How to Swiftly and Silently Remove a Post on Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4tsffmpeg/"><u>MP4、TS動画結合・連結におけるFFmpegの無損失・シンプルテクニック</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-an-unexpectedly-free-macbook-air-m3-at-best-buy-master-the-secret-strategy-here-insights/"><u>Score an Unexpectedly Free MacBook Air M3 at Best Buy - Master the Secret Strategy Here | Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievable-deal-for-tech-lovers-up-to-700-off-the-revolutionary-2022-ipad-pro-this-labor-day-season-zdnet/"><u>Unbelievable Deal for Tech Lovers! Up to $700 Off the Revolutionary 2022 iPad Pro This Labor Day Season | ZDNET</u></a></li>
 </ul></div>
 

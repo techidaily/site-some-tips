@@ -1,7 +1,7 @@
 ---
 title: "Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps"
-date: 2024-09-17T16:45:44.805Z
-updated: 2024-09-22T19:28:00.532Z
+date: 2025-01-19T19:18:14.466Z
+updated: 2025-01-24T19:45:04.428Z
 tags:
   - cutting-edge
 categories:
@@ -37,6 +37,10 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A steam punk retro robot eating a taco.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-39-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't just assume your vision of a "robot" will match up with what DALL-E creates. Be descriptive.
 
 ##  Don't Forget About the Background
@@ -45,11 +49,19 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A grasshopper superhero action figure.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_11-57-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I've got a pretty good result for my grasshopper superhero action figure, but now I need a background. By adding "being held by a kid" I've created a much more interesting image.
 
 ![A grasshopper superhero action figure being held by a kid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_11-56-57.png) 
 
  An easy way to fill out the background is to use a location. You can simply add "in Times Square" at the end, for example. The key is to give the background some love.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Specify an Art Style
 
@@ -63,19 +75,6 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 Related: [What Can You Do With AI Generated Art?](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/) 
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Set the Mood of the Scene
 
  You're probably noticing a theme---be descriptive. That applies to more than the subject and background. It's also important to describe the general mood you're going for.
@@ -83,6 +82,10 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
  A single word like "bright" or "dark" can make a big difference. Rather than just saying "blue sky," try adding the word "gorgeous." Even words like "epic" can really change the vibe. Let's start with "a 6-legged zebra running through a candy corn field," for example.
 
 ![a 6-legged zebra running through a candy corn field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-13-54.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It totally ignored the "6-legged" part, but that's pretty good. Let's fine tune the mood a bit. The zebra is "sad" now and it's running through the field in the "dark." Two simple words and now we have very different results.
 
@@ -97,22 +100,12 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 ![DALL-E outpainting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dall-e-outpainting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also use this feature to "edit" certain parts of images. Say I didn't like the Sombrero in one of the robot images above. I can erase the Sombrero and describe a different hat or let DALL-E remove it entirely from the image.
 
 ![A robot eating a taco without the sombrero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-29-15.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Outpainting is one of the coolest DALL-E features. There's a lot you can do with it to edit your own existing images or images created by DALL-E. It's easy to get lost in creating new prompts, but don't overlook Outpainting.
 
@@ -139,5 +132,18 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rom-good-to-great-videos-the-20-essential-shortcuts-for-success-for-2024/"><u>[New] From Good to Great Videos The 20 Essential Shortcuts for Success for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earning-big-on-youtube-shorts-must-haves-opportunities-and-more-for-2024/"><u>[Updated] Earning Big on YouTube Shorts Must-Haves, Opportunities and More for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-ios-18-now-complete-guide-for-compatible-iphone-models-and-installation-steps-tech-innovator/"><u>Download IOS 18 Now: Complete Guide for Compatible iPhone Models & Installation Steps | Tech Innovator</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-control-over-your-windows-setup-with-key-combinations/"><u>Effortless Control Over Your Windows Setup with Key Combinations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-apple-tvs-dialogue-quality-with-the-latest-upgrade-to-tvos-18-hear-every-word-clearly/"><u>Elevate Your Apple TV's Dialogue Quality with the Latest Upgrade to tvOS 18 | Hear Every Word Clearly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-reels-add-sound-for-impactful-storytelling/"><u>Elevate Your Reels Add Sound for Impactful Storytelling</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-se-2022-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone SE (2022) in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-music-creation-apple-enhances-logic-pro-with-ai-powered-band-members-for-ipad-and-mac-devices-insights-by-zdnet/"><u>Revolutionizing Music Creation: Apple Enhances Logic Pro with AI-Powered Band Members for iPad & Mac Devices - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-next-gen-gadgets-preorder-ipad-pro-ipad-air-and-pro-pencil-at-unbeatable-prices-expert-selection/"><u>Secure Your Next-Gen Gadgets: Preorder iPad Pro, iPad Air, and Pro Pencil at Unbeatable Prices Expert Selection!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/siri-redefines-apples-search-game-is-it-time-for-an-ai-powered-evolution-insights-from-zdnet/"><u>Siri Redefines Apple's Search Game - Is It Time For an AI-Powered Evolution? Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2505842-9781626256996-walking-awake/"><u>Walking Awake | Free Book</u></a></li>
+</ul></div>
 

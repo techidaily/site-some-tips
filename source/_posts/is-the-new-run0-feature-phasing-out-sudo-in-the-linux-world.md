@@ -1,7 +1,7 @@
 ---
 title: Is the New Run0 Feature Phasing Out Sudo in the Linux World?
-date: 2024-09-19T16:06:42.956Z
-updated: 2024-09-22T18:32:10.506Z
+date: 2025-01-20T17:10:20.927Z
+updated: 2025-01-24T16:17:24.478Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Is the New Run0 Feature Phasing Out Sudo in the Linux World?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  On April 24, 2024, Lennart Poettering posted [a description](https://mastodon.social/@pid%5Feins/112353324518585654) of a new systemd command, called run0\. It’s a replacement for sudo. Here’s what you need to know about the latest systemd controversy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What’s Wrong With Sudo?
 
  The sudo command seems to have been around forever. It actually dates back to the 1980s. It lets you run commands or programs as though you were either the owner of the command, or a member of the group of the command. Importantly, if the actual owner of the command has elevated permissions and capabilities, the command will run with those elevated permissions. It’s as if their elevated privileges have been bestowed upon you temporarily.
@@ -35,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  For a command or app to be able to run with elevated permissions by regular users, either the SUID or GUID bits, or both of them, need to be set on the command. And of course, the user in question must be [permitted to use the sudo command](https://instagram-clips.techidaily.com/new-2024-approved-social-media-momentum-linking-igtv-and-fb/).
 
  The elevated or privileged code is run in the execution context of the calling user, so it runs in an environment intended to run unprivileged code. That in itself is a security concern. Also, if the command isn’t written to correctly respect its elevated permissions, or it doesn’t clean up after itself thoroughly and correctly, other vulnerabilities can arise. One well-known attack vector [exploits poorly written or poorly configured](https://tbhaxor.com/exploiting-suid-binaries-to-get-root-user-shell/) SUID binaries to obtain a root shell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What run0 Does Differently
 
@@ -48,13 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With sudo, you can make regular users into unrestricted superusers, or you can give them limited superuser powers by [dictating which commands they can use sudo with](https://snapchat-videos.techidaily.com/new-in-2024-advanced-techniques-to-save-snapchat-stories-on-devices/). You can achieve this type of granularity with polkit, too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Using run0
 
  To use run0 you need to be running systemd version 256, or better yet, the bug-fixed version 256.1\. Version 256.1 is rolling out as an update at the time of writing, and fresh installations of some Linux distributions include 256.1 as standard. You can check your version with this command.
@@ -62,19 +67,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 systemctl --version
 
 ![Finding the systemd version on the linux command line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Using run0 is almost the same as using sudo. You precede the command you want to launch with “run0”, and provide your password.
 
@@ -89,19 +81,6 @@ run0 ls
 
 ![Output from a command launched by run0, showing the text's colored background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use the --background option to turn off the background color, or change it to an [ANSI color combination](https://en.wikipedia.org/wiki/ANSI%5Fescape%5Fcode#8-bit) of your choice.
 
  To see white text on a blue background, use this ANSI sequence.
@@ -109,6 +88,10 @@ run0 ls
 run0 --background=“44;1” ls
 
 ![Output from a command launched by run0, with a blue text background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To run the same command with no color highlighting, omit the ANSI sequence, but make sure you leave the “=” sign.
 
@@ -126,16 +109,13 @@ run0
 
 ![Exiting from the root session and returning to regular user status](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you use run0 on a Linux computer without a desktop environment, the prompt for your password happens in the terminal window.
 
 ![Authenticating on the command line on a Linux installtion with no graphical desktop environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Will run0 replace sudo?
 
@@ -166,5 +146,22 @@ run0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/a-step-by-step-guide-to-transferring-customactiondata-during-wix-customaction-execution/"><u>A Step-by-Step Guide to Transferring CustomActionData During WiX CustomAction Execution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/build-professional-msi-installers-effortlessly-with-the-power-of-wix-technology/"><u>Build Professional MSI Installers Effortlessly with the Power of WiX Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-deletion-of-files-in-uninstall-processes-via-the-wix-toolset-methodology/"><u>Effortless Deletion of Files in Uninstall Processes via the WiX Toolset Methodology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-application-setup-tools-superior-substitutes-for-installshield/"><u>Enhanced Application Setup Tools: Superior Substitutes for InstallShield</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-wix-custom-actions-for-uninstall-operations-how-to-guide/"><u>Exclusive WiX Custom Actions for Uninstall Operations: How-To Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-chatgpt-and-whisper-api-integration-on-business-opportunities/"><u>Exploring the Impact of ChatGPT and Whisper API Integration on Business Opportunities</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-p40plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel P40+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20 Pro+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/innovating-film-production-with-augmented-realms/"><u>Innovating Film Production with Augmented Realms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-twitter-archive-for-research/"><u>Leveraging Twitter Archive for Research</u></a></li>
+<li><a href="https://review-topics.techidaily.com/redmi-note-13-proplus-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Redmi Note 13 Pro+ 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-building-windows-desktop-icons-with-the-wix-toolset/"><u>Step-by-Step Guide to Building Windows Desktop Icons with the WiX Toolset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-setting-up-and-deploying-windows-services-with-wix-toolset/"><u>Step-by-Step Guide: Setting Up & Deploying Windows Services with WiX Toolset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-wearable-tech-new-rumors-suggest-cameras-on-airpods-by-2026-detailed-report-zdnet/"><u>The Future of Wearable Tech? New Rumors Suggest Cameras on AirPods by 2026 - Detailed Report | ZDNET</u></a></li>
+</ul></div>
 

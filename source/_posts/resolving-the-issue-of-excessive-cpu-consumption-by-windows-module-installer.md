@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Excessive CPU Consumption by Windows Module Installer
-date: 2024-09-15T16:43:17.520Z
-updated: 2024-09-22T18:12:02.028Z
+date: 2025-01-22T18:41:57.276Z
+updated: 2025-01-24T16:41:45.409Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Resolving the Issue of Excessive CPU Consumption by Windows Module Installer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Let the Windows Modules Installer Worker process finish running even if it's using a lot of CPU. It will stop working once the update or maintenance task is complete.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Other troubleshooting methods include running Windows Update troubleshooter, clearing Windows Update cache and pausing the updates, and running the PC's maintenance tasks at your chosen time.
 
  Windows Modules Installer Worker (TiWorker.exe) is a normal Windows process related to your PC’s updates and maintenance. However, if it uses up a lot of CPU for an extended period it may be due to an error. Here are some things you can do to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Wait for It to Finish Running
 
@@ -43,13 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Follow the on-screen instructions in the tool to resolve any update issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Temporarily End the Windows Modules Installer Process
 
  If you need to perform a task and the Windows Modules Installer Worker process is using up so much CPU that your PC has become unresponsive, you can [temporarily end the process](https://extra-guidance.techidaily.com/updated-professionally-enhancing-photos-with-effective-use-of-3d-lut-filters/). We don't recommend you do this unless you have a really need to. 
@@ -57,13 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To end the process, right-click the Start Menu icon and select "Task Manager." Open the "Processes" tab, right-click "Windows Modules Installer Worker," and select "End Task."
 
 !['End Task' highlighted for 'Windows Modules Installer Worker' in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-end-windows-modules-installer-worker-process.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache and Pause Updates
 
@@ -87,27 +81,21 @@ C:\Windows\SoftwareDistribution\
 
 !['Delete' highlighted for Windows Update cache.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-delete-windows-update-cache.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that your update cache is deleted, pause the updates. [On Windows 11](https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/), navigate to Settings > Windows Update. On the right pane, next to "Pause Updates," click the drop-down menu and choose how long to pause the updates.
 
 !['Pause Updates' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-pause-updates-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [On Windows 10](https://instagram-video-recordings.techidaily.com/climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/), go to Settings > Update & Security > Windows Update. On the right pane, click "Advanced Options." In the "Pause Updates" section, click the "Pause Until" drop-down menu and select a time duration.
 
 !['Pause Until' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-pause-updates-windows-10.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Run Computer Maintenance at Your Specified Time
 
@@ -120,6 +108,10 @@ C:\Windows\SoftwareDistribution\
  Select the "Run Maintenance Tasks Daily at" drop-down menu and select when you want your PC to run the maintenance tasks. This should be when you aren’t working on important tasks on your PC. Then, select "OK."
 
 !['Run Maintenance Tasks Daily at' and 'OK' highlighted on the 'Automatic Maintenance' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-modify-windows-maintenance-time.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s all there is to eliminating or reducing Windows Modules Installer Worker’s CPU usage on a Windows computer. It isn't the only process related to Windows Updates that can cause problems, though. There are other [troubleshooting steps you can try if Windows Update is stuck](https://extra-guidance.techidaily.com/2024-approved-smoothing-out-the-rough-edges-in-photo-booth-videos/).
 
@@ -136,5 +128,22 @@ C:\Windows\SoftwareDistribution\
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-increasing-video-popularity-persisting-with-cc-on-youtube/"><u>[New] 2024 Approved Increasing Video Popularity Persisting with CC on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-exclusive-access-premium-youtube-film-watchlists-for-2024/"><u>[Updated] Exclusive Access Premium YouTube Film Watchlists for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-tactics-to-record-lol-clashes/"><u>[Updated] In 2024, Ultimate Tactics to Record LOL Clashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-gaming-handsets-for-android-and-ios-users-detailed-analysis/"><u>Discover the Ultimate Gaming Handsets for Android and iOS Users – Detailed Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-seamless-transition-can-you-upgrade-from-iphone-13-to-iphone-14-without-a-new-case/"><u>Ensuring Seamless Transition - Can You Upgrade From iPhone 13 to iPhone 14 Without a New Case?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/head-to-head-showdown-google-nest-audio-vs-apple-homepod-features/"><u>Head-to-Head Showdown: Google Nest Audio Vs. Apple HomePod Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-c65-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco C65?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-90-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor 90 Phone?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-out-loud-meme-making-techniques/"><u>In 2024, Laugh Out Loud Meme-Making Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-techniques-for-transforming-facespace-lives-into-tv-content/"><u>In 2024, Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-new-s2-update-for-sonos-enhanced-audio-experience-meets-unforeseen-challenges-in-depth-analysis-on-zdnet/"><u>Navigating the New S2 Update for Sonos - Enhanced Audio Experience Meets Unforeseen Challenges | In-Depth Analysis on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-puzzling-irritation-in-your-iphone-a-must-read-article/"><u>Solving the Puzzling Irritation in Your iPhone - A Must-Read Article</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-smartphones-a-comprehensive-review/"><u>Top Kid-Friendly Smartphones: A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-apple-watch-series-9-offer-exclusive-lifetime-low-price-now/"><u>Unbeatable Apple Watch Series #9 Offer: Exclusive Lifetime Low Price Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-sonos-s2-app-streamlined-sound-management-with-hidden-drawbacks-discover-more-on-zdnet/"><u>Unveiling Sonos S2 App: Streamlined Sound Management with Hidden Drawbacks - Discover More on ZDNet</u></a></li>
+</ul></div>
 

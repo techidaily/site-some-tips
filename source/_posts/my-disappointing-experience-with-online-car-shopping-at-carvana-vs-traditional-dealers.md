@@ -1,7 +1,7 @@
 ---
 title: My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers
-date: 2024-09-16T17:41:25.063Z
-updated: 2024-09-22T19:22:46.357Z
+date: 2025-01-22T20:18:16.337Z
+updated: 2025-01-24T19:44:36.252Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  But what started as a mostly great experience ultimately turned into an awful headache. And in the end? I bought a car from a dealership where I got a better deal and better treatment. Here's how it went down.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ordering a Car Online Is Mostly Easy
 
 ![the Carvana website, featuring a CR-V Hybrid with several yellow symbols](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/c0b938d1.jpg) 
@@ -43,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Instead, tech support had to remove my trade-in selections and unlock my application. Thankfully everything after that went amazingly smoothly. I made it through all the options in about ten minutes. And honestly, it felt nice not having a person pressuring me to buy extra things I didn't need. I easily said no to extended warranties and other optional features then selected a delivery date. That last bit is important.
 
  With Carvana, you can have your car taken to a local pickup station, but I didn't have a working car. Instead, I paid an extra $500 to have my new car delivered directly to my home. And the date I picked meant I'd have it in time to go pick up my other car from the shop! Sure it wasn't brand new, but the car I ordered only has 3,500 miles or so and just a few scratches. New enough for my purposes, at least. Besides, new cars always cost more and drop in value immediately, right? (Yes, this is foreshadowing...)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  We're Sorry, We Don't Even Know Where Your Car Is
 
@@ -68,9 +76,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  That false hope of an early delivery really felt like Carvana was gaslighting us at this point. Remember, just a day before the first delivery date, Carvana sent an email assuring us the car was on the way and would be delivered as scheduled. We managed to get help from a relative to pick up our repaired car, which opened a world of opportunities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You Mean I Can Get a New Car For Less?
 
 ![The same steel-grey Honda CR-V Hybrid from before, at another angle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/52b0fd28.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Josh Hendrickson / Review Geek
 
@@ -84,16 +100,13 @@ Josh Hendrickson / Review Geek
 
  Even better, the local dealership will pick up my car, drive it to the service center, do any maintenance like oil changes, then bring it back to me---at no additional charge. Carvana can't hope to offer a service like that. What it did do was jerk me around a little more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Let's Cancel That Cancel Button
 
 ![A website with a cancel button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/7520596d.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I didn't cancel the Carvana order right away, because I was afraid the dealership would fall through. But one benefit to the entire delay is that failing to deliver on time automatically voided the contract I signed with Carvana. Naturally, the company had another set of contracts to sign immediately, but I didn't.
 
@@ -102,13 +115,6 @@ Josh Hendrickson / Review Geek
  About two days before the new delivery date, when we still hadn't signed the new contracts, Carvana removed the cancel button. It was just gone. By this point, we wanted to cancel as the dealership has secured a car from the factory, and it was on the way. You can imagine my panic when suddenly I couldn't cancel the order.
 
 ![The same page, with no cancel button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/d7850b2e.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Thankfully, I still had a tab open on another device to take screenshots for this article. That tab hadn't reloaded, and the cancel button still showed. So, I canceled it. Now you would think someone from Carvana would reach out to change our minds, especially if it spent money transporting the car. You'd think Carvana would send a confirmation email that the order is canceled. But none of that happened. The only reason I can be certain that my order really canceled is that the car never came, and it's back up for sale on the site.
 
@@ -135,5 +141,19 @@ Josh Hendrickson / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-auditory-ambiance-music-in-instagrams-visual-narratives-for-2024/"><u>[New] Auditory Ambiance Music in Instagram's Visual Narratives for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-does-instant-subscription-strategy-improve-user-engagement/"><u>[New] Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-sales-with-powerful-language-tools/"><u>[New] Elevate Sales with Powerful Language Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[New] In 2024, Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-import-audio-tracks-in-premiere-pro/"><u>[Updated] 2024 Approved Import Audio Tracks in Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-desktoponline-passport-picture-creation-10-per-person-for-2024/"><u>[Updated] Desktop/Online Passport Picture Creation - 10 Per Person for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-surprise-hit-the-understated-triumph-of-a-new-349-ipad-revealed-at-let-loose-event-digital-world-news/"><u>Apple’s Surprise Hit: The Understated Triumph of a New $349 iPad Revealed at 'Let Loose' Event | Digital World News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-a-comprehensive-guide/"><u>Choosing the Right Device: IPad Pro or MacBook Air? A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-an-affordable-apple-watch-series-10-for-just-99-by-preordering-now-at-best-buy-a-step-by-step-tutorial-on-zdnet/"><u>Score an Affordable Apple Watch Series 10 for Just $99 by Preordering Now at Best Buy - A Step-by-Step Tutorial on ZDNet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/syncing-twitter-to-snapchat-video-uploading-techniques/"><u>Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-mobile-devices-a-comprehensive-guide/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide</u></a></li>
+</ul></div>
 

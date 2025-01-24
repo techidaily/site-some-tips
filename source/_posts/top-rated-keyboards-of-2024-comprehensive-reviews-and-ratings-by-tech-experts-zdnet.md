@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts | ZDNet"
-date: 2025-01-16T16:16:30.790Z
-updated: 2025-01-17T23:05:30.405Z
+date: 2025-01-21T18:57:37.017Z
+updated: 2025-01-24T20:24:21.025Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ After hands-on testing the Logitech MX Keys S Wireless Keyboard and being blown 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best keyboards of 2024
 
 Show less 
@@ -40,10 +44,6 @@ Cons
 * No RGB lighting
 * Limited customization
 * Only one height setting
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logitech MX Keys S Wireless Keyboard
 
@@ -78,10 +78,6 @@ Cons
 * Lacks number pad
 * Restricted compatibility
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Magic Keyboard
 
 ### Best keyboard for Mac users
@@ -111,11 +107,11 @@ Cons
 * Pricey
 * Oversized
 
-## Corsair K100 RGB Keyboard
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Corsair K100 RGB Keyboard
 
 ### Best gaming keyboard
 
@@ -142,15 +138,7 @@ Cons
 * Can feel awkward
 * Lacks backlighting
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best ergonomic keyboard
 
@@ -181,6 +169,10 @@ Cons
 
 ## Razer Pro Type Ultra Keyboard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best quiet keyboard
 
 **Razer Pro Type Ultra Keyboard specs: Type:** Mechanical **| Wired/Wireless:** Wireless **| Number of keys:** 104 **| Dimensions:** 19.17 x 8.82 x 3.23 inches 
@@ -195,6 +187,10 @@ You can connect up to four devices at once through Bluetooth with the keyboard, 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best keyboard?
 
 The Logitech MX Keys Wireless Keyboard is the best keyboard for its wide compatibility and strong, reliable performance. Users love the comfortable feel of the keys, plus there is the additional bonus of intuitive backlighting and Bluetooth connectivity. It is competitively priced, too.
@@ -208,10 +204,6 @@ To see how it compares, here is a look at the best keyboards.
 | Corsair K100 RGB Keyboard                   | $185     | Full size    | 110                |
 | Microsoft Sculpt Ergonomic Desktop Keyboard | $93      | Split design | 104                |
 | Razer Pro Type Ultra Keyboard               | $160     | Mechanical   | 104                |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the best keyboard for you?
 
@@ -234,6 +226,10 @@ In my search for the best keyboards, I considered several different factors.
 * **Connectivity:** There are both wired and wireless keyboards available, depending on your preference.
 * **Price:** The cost of keyboards can vary significantly, depending on the model and brand that you choose. For example, the Razer and Corsair models will cost you significantly more than the Apple keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What size keyboard should you buy?
 
 There are a few different types of keyboard sizes from which to choose. 
@@ -245,6 +241,10 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -253,13 +253,13 @@ Buzzetta adds, "Wired keyboards are slightly more responsive and are the best wh
 
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much do the best keyboards cost?
 
 The cost of keyboards can really run the gamut based on factors like manufacturer, size, type, and features. However, we found that the best keyboards that you can buy range in cost from $83 to $185, depending on the brand and model that you choose. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative best keyboards worth considering?
 
@@ -318,17 +318,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-free-high-quality-passport-pictures-download-and-print-in-seconds-for-2024/"><u>[New] Free High-Quality Passport Pictures - Download & Print in Seconds for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[New] Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-effortless-methods-to-document-console-gaming/"><u>[Updated] In 2024, Effortless Methods to Document Console Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/breaking-down-barriers-intel-ai-leader-wei-li-advocates-for-widespread-access-to-supercomputing-technology/"><u>Breaking Down Barriers: Intel AI Leader Wei Li Advocates for Widespread Access to Supercomputing Technology.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/building-a-local-ai-model-workstation-run-dozens-with-zero-cloud-reliance-insights-for-mac-and-pc-users-zdnet/"><u>Building a Local AI Model Workstation: Run Dozens with Zero Cloud Reliance - Insights for Mac and PC Users | ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/compare-and-choose-the-ultimate-guide-to-virtual-webcams-and-live-video-editors-like-manycam/"><u>Compare and Choose: The Ultimate Guide to Virtual Webcams & Live Video Editors Like ManyCam</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-open-source-frameworks-are-paving-a-smooth-path-for-advancements-in-ai-according-to-zdnet-experts/"><u>How Open-Source Frameworks Are Paving a Smooth Path for Advancements in AI, According to ZDNet Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-14-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi 14 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-approach-to-resolve-borderlands-3-stuttering-issues-seamlessly/"><u>Step-by-Step Approach to Resolve Borderlands 3 Stuttering Issues Seamlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-journey-of-stack-overflows-cto-in-transforming-the-platforms-scale-and-influence-an-experts-tale-featured-on-zdnet/"><u>The Journey of Stack Overflow’s CTO in Transforming the Platform's Scale and Influence – An Expert's Tale Featured on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/what-open-source-experts-seek-beyond-compensation-in-career-moves-a-zdnet-perspective/"><u>What Open Source Experts Seek Beyond Compensation in Career Moves: A ZDNet Perspective</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-premiered-top-8-crowd-pleasing-ae-setups/"><u>[New] 2024 Approved Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-tips-for-ipad-users-easily-convert-photos-to-pdf/"><u>[Updated] Expert Tips for iPad Users Easily Convert Photos to PDF</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-complete-guide-to-voiced-ppt-mastery/"><u>In 2024, The Complete Guide to Voiced PPT Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/link-your-xbox-controller-for-pc-gaming-ease-137-chars/"><u>Link Your Xbox Controller for PC Gaming Ease (137 Chars)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/missing-pieces-apples-latest-ai-showcase-lacks-these-crucial-breakthroughs-anticipation-for-the-future/"><u>Missing Pieces: Apple’s Latest AI Showcase Lacks These Crucial Breakthroughs – Anticipation for the Future?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-definitive-guide-to-the-ipad-air-with-m2-chip-apple-delivers-the-top-of-the-line-tablet-you-need-as-revealed/"><u>The Definitive Guide to the iPad Air with M2 Chip: Apple Delivers the Top-of-the-Line Tablet You Need, as Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-enterprises-the-impact-of-apple-vision-pro-in-modern-businesses/"><u>Transforming Enterprises: The Impact of Apple Vision Pro in Modern Businesses.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-apples-ios-175-mystery-the-reappearance-of-vanished-images-and-next-steps/"><u>Unraveling Apple's iOS 17.5 Mystery: The Reappearance of Vanished Images and Next Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-best-4-windows-compatible-webp-image-vendors/"><u>Unveiling The Best 4 Windows-Compatible WebP Image Vendors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Picks : How Apple's Latest M2 Tablet Outshines Competitors | Comprehensive Review by ZDNET"
-date: 2025-01-15T06:11:10.861Z
-updated: 2025-01-18T12:46:43.342Z
+date: 2025-01-23T18:54:26.822Z
+updated: 2025-01-24T18:36:14.413Z
 tags:
   - apple
 categories:
@@ -23,16 +23,12 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7706d25e-bcf9-4615-bd7d-1f666ce958d8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -116,6 +112,10 @@ Cons
 
 ## Boox Tab Mini C
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -144,6 +144,10 @@ Cons
 * No warm light option
 
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -187,6 +191,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best small tablet?
 
 The best small tablet is the iPad Mini because of its sharp display and impressive cameras. Plus, the A15 Bionic chip is packed with power in a small package. 
@@ -200,7 +208,7 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
@@ -224,10 +232,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -240,15 +244,15 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -259,7 +263,7 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
@@ -267,10 +271,6 @@ Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the ap
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
@@ -322,18 +322,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[New] 2024 Approved Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-potential-the-15-best-tools-for-transforming-fb-revenue-for-2024/"><u>[New] Unlock Potential The 15 Best Tools for Transforming FB Revenue for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-acquiring-safe-gratis-vlc-media-player-on-macos-systems/"><u>[Updated] Acquiring Safe, Gratis VLC Media Player on macOS Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>[Updated] In 2024, Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-worrying-about-weekly-60-cves-in-linux-expert-advice-from-the-linux-guardians-for-enhanced-system-safety-cybersecurity-chronicles/"><u>Beyond Worrying About Weekly 60 CVEs in Linux: Expert Advice From the Linux Guardians for Enhanced System Safety | Cybersecurity Chronicles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/empowering-ai-interaction-with-langchain-transforming-generative-models-into-practical-helpers-insights-from-zdnet/"><u>Empowering AI Interaction with LangChain: Transforming Generative Models Into Practical Helpers - Insights From ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-8-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 8 Plus Device from iCloud</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rising-curiosity-in-artificial-intelligence-highlights-the-need-for-greater-transparency/"><u>Rising Curiosity in Artificial Intelligence Highlights the Need for Greater Transparency</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/slovak-in-a-flash-online-learning-for-busy-lives/"><u>Slovak in a Flash - Online Learning for Busy Lives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-end-of-traditional-ui-exploring-how-generative-ai-transforms-click-dependent-designs-zdnet-analysis/"><u>The End of Traditional UI? Exploring How Generative AI Transforms Click-Dependent Designs | ZDNet Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-video-downloader-from-youtube-fast-and-free-wma-format/"><u>Top Video Downloader From YouTube - Fast & Free WMA Format</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-still-faces-picsarts-motion-blur-magic/"><u>Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-the-synergy-between-artificial-intelligence-and-business-strategies-by-renaissance-technologists-explore-on-zdnet/"><u>Unraveling the Synergy Between Artificial Intelligence and Business Strategies by Renaissance Technologists | Explore on ZDNET</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-networking-growth-sharing-facebook-content-via-whatsapp/"><u>[New] Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-essential-list-of-online-video-ripper-tools/"><u>[New] The Essential List of Online Video Ripper Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-five-star-sierra-video-processing-tools/"><u>[Updated] In 2024, Five-Star Sierra Video Processing Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-misses-the-mark-on-two-crucial-ai-breakthroughs-prompting-speculation-for-future-updates-techinsight/"><u>Apple Misses the Mark on Two Crucial AI Breakthroughs, Prompting Speculation for Future Updates | TechInsight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-the-ultimate-guide-to-finding-your-ideal-apple-laptop-zdnet/"><u>Choosing Between MacBook Pro and MacBook Air: The Ultimate Guide to Finding Your Ideal Apple Laptop (ZDNet)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crafting-dreams-on-screen-the-best-motivational-movies/"><u>Crafting Dreams on Screen The Best Motivational Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hands-on-review-of-the-apple-studio-display-a-stunning-yet-costly-27-5k-screen-for-professional-mac-users-zdnet-perspective/"><u>Hands-On Review of the Apple Studio Display: A Stunning, Yet Costly 27 5K Screen for Professional Mac Users - ZDNet Perspective</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g14-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G14 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipados-18-revolutionary-function-why-id-switch-to-an-iphone-right-now/"><u>IPadOS 18 Revolutionary Function: Why I’d Switch to an iPhone Right Now!</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-windows-server-backups-get-started-with-wbadmins-incremental-backup/"><u>Mastering Windows Server Backups: Get Started with WBAdmin's Incremental Backup</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-2023-edition/"><u>New 2024 Approved The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-the-epic-games-launcher-wont-start-up/"><u>Quick Solutions for When the Epic Games Launcher Won't Start Up</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revolutionizing-communication-why-vivaldis-enhanced-email-platform-reigns-supreme/"><u>Revolutionizing Communication: Why Vivaldi's Enhanced Email Platform Reigns Supreme</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-apple-watch-straps-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Apple Watch Straps : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transferring-imessages-seamlessly-tips-for-windows-users-learn-how-with-zdnets-expert-advice/"><u>Transferring iMessages Seamlessly: Tips for Windows Users – Learn How with ZDNet's Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-apples-secret-strategy-the-exciting-potential-of-their-latest-gaming-innovation/"><u>Unveiling Apple's Secret Strategy: The Exciting Potential of Their Latest Gaming Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/whats-new-with-watchos-11-discover-exclusive-upgrades-for-your-apple-watch-cnet-insider/"><u>What's New with WatchOS 11? Discover Exclusive Upgrades for Your Apple Watch | CNET Insider</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Apple's Revolutionary Universal Control for Enhanced iPad-Mac Synchronization | Expert Advice
-date: 2025-01-13T21:09:18.966Z
-updated: 2025-01-17T16:51:31.437Z
+date: 2025-01-19T18:16:24.045Z
+updated: 2025-01-24T19:13:30.418Z
 tags:
   - apple
 categories:
@@ -114,6 +114,10 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/)
@@ -124,7 +128,7 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
@@ -135,10 +139,6 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to set up Universal Control on your iPad
 
 Screenshot by Jason Cipriani/ZDNet
@@ -146,6 +146,10 @@ Screenshot by Jason Cipriani/ZDNet
 There isn't a dedicated Universal Control setting or section in iPadOS. In fact, you won't find a setting titled "Universal Control" on the iPad at all. 
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
 
@@ -156,7 +160,7 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
@@ -173,10 +177,6 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Arrange your displays, adjust settings
 
 Screenshot by Jason Cipriani/ZDNet
@@ -184,7 +184,7 @@ Screenshot by Jason Cipriani/ZDNet
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
@@ -239,24 +239,17 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-what-is-the-difference-between-youtube-and-dailymotion/"><u>[New] 2024 Approved What Is the Difference Between YouTube and Dailymotion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-flair-free-download-templates-for-2024/"><u>[New] Channel Flair Free Download Templates for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-leverage-longer-vids-on-instagram-effectively-for-2024/"><u>[New] How to Leverage Longer Vids on Instagram Effectively for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/imple-screen-capture-techniques-to-grab-youtube-soundtracks/"><u>[New] Simple Screen-Capture Techniques to Grab YouTube Soundtracks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-precise-practices-streamlined-capturing-for-dell-devices/"><u>[Updated] Precise Practices Streamlined Capturing for Dell Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-stepwise-decrease-in-mix-dynamics-for-2024/"><u>[Updated] Stepwise Decrease in Mix Dynamics for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-vivid-storytelling-through-these-top-7-graders-strategies/"><u>[Updated] Vivid Storytelling Through These Top 7 Graders' Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alert-google-signals-upcoming-purge-of-dormant-profiles-zdnet-insights/"><u>Alert! Google Signals Upcoming Purge of Dormant Profiles - ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-unveils-cutting-edge-ai-technology-to-challenge-chatgpt-microsoft-bing-and-google-search-powers-insights-from-zdnet/"><u>Amazon Unveils Cutting-Edge AI Technology to Challenge ChatGPT, Microsoft Bing & Google Search Powers: Insights From ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/audio-player-insights-and-critiques/"><u>Audio Player Insights & Critiques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cloud-technology-takes-over-addressing-emerging-security-challenges/"><u>Cloud Technology Takes Over: Addressing Emerging Security Challenges</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-power-of-amazon-web-services-latest-innovation-an-ai-chatbot-for-businesses-available-to-test-for-free-zdnet-insights/"><u>Discover the Power of Amazon Web Services' Latest Innovation - An AI Chatbot for Businesses, Available to Test for Free | ZDNET Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-c12-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia C12 Android SIM Unlock APK</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimal-e-learning-environments-explored-discover-the-foremost-lms-platforms-according-to-zdnet/"><u>Optimal E-Learning Environments Explored: Discover the Foremost LMS Platforms According to ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-path-for-telcos-with-generative-ai-learning-from-the-commercial-success-of-5g-technologies/"><u>The Path for Telcos with Generative AI: Learning From the Commercial Success of 5G Technologies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-and-overcoming-current-azure-capacity-challenges-as-a-client/"><u>Understanding and Overcoming Current Azure Capacity Challenges as a Client</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-teamwork-in-the-cloud-protons-new-feature-for-real-time-document-sharing-on-its-free-plan/"><u>Unlock Teamwork in the Cloud: Proton's New Feature for Real-Time Document Sharing on Its Free Plan!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-take-on-wp-engine-top-tier-hosting-solution-for-your-wordpress-site/"><u>ZDNet's Take on WP Engine: Top-Tier Hosting Solution for Your WordPress Site</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-downloads-igtv-media-for-phone-users/"><u>[New] 2024 Approved Mastering Downloads IGTV Media for Phone Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-vanguard-top-6-redefining-digital-arts/"><u>2024 Approved The Creative Vanguard Top 6 Redefining Digital Arts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/deciphering-the-reemergence-of-apples-hidden-homeos-within-the-latest-tvos-dev-beta-tech-analysis/"><u>Deciphering the Reemergence of Apple's Hidden 'homeOS' Within the Latest tvOS Dev Beta | Tech Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-20-proplus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 20 Pro+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/humor-hubbub-top-7-cheeky-content-concepts-for-laughter-lovers/"><u>Humor Hubbub Top 7 Cheeky Content Concepts for Laughter Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-grip-master-the-correct-way-to-hold-an-iphone-and-airpods-together-techtips-for-zdnet-readers/"><u>Optimize Your Grip: Master the Correct Way to Hold an iPhone & AirPods Together | TechTips for ZDNet Readers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-2024s-top-35-tablet-savings-current-deals-you-cant-miss-gadgetgurus/"><u>Prime Day 2024'S Top 35 Tablet Savings - Current Deals You Can’t Miss! | GadgetGurus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-return-of-apples-innovative-ai-strategies-unveiled-insights-and-limitations/"><u>The Return of Apple's Innovative AI Strategies Unveiled: Insights & Limitations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

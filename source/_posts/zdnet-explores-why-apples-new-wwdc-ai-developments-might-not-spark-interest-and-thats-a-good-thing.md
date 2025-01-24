@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2025-01-15T00:41:23.443Z
-updated: 2025-01-18T01:54:03.049Z
+date: 2025-01-22T17:47:42.003Z
+updated: 2025-01-24T17:25:36.205Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,20 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-adding-visual-time-indicators-to-your-youtube-links/"><u>[New] 2024 Approved Adding Visual Time Indicators to Your YouTube Links</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-highlighted-top-5-minimalist-action-camera-picks/"><u>[New] 2024 Approved Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028260708-losslesscut/"><u>同じ機能を持つLosslessCut以外のオプションでファイル結合テクニック</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts-for-2024/"><u>Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-the-shifts-in-programming-languages-demand-since-2016-and-implications-for-developers-analysis-by-zdnet/"><u>Decoding the Shifts in Programming Languages' Demand Since 2016 and Implications for Developers - Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficiently-deploy-multiple-artificial-intelligence-models-locally-tips-for-mac-and-windows-users-without-cloud-services/"><u>Efficiently Deploy Multiple Artificial Intelligence Models Locally: Tips for MAC and Windows Users Without Cloud Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-langchain-for-effective-generative-ai-assistance-unveiling-the-tactics-at-zdnet/"><u>Harnessing LangChain for Effective Generative AI Assistance - Unveiling the Tactics at ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-safeguard-your-system-against-60-weekly-vulnerabilities-spotted-by-the-linux-security-team-zdnet-insights/"><u>How to Safeguard Your System Against 60 Weekly Vulnerabilities Spotted by The Linux Security Team | ZDNET Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi 14 Pro Phone Without Password?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-content-top-10-mobile-and-desktop-friendly-editors/"><u>In 2024, Enhance Content Top 10 Mobile & Desktop-Friendly Editors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-x50iplus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor X50i+ Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-red-hats-new-enterprise-linux-ai-capabilities-zdnet-insights/"><u>Revolutionizing Business with Red Hat's New Enterprise Linux AI Capabilities | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-sysadmin-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Sysadmin Efficiency</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/slash-size-of-windows-screen-in-win-10/"><u>Slash Size of Windows Screen in WIN 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987995473-troubleshoot-your-apex-legends-network-issues-effective-solutions-revealed/"><u>Troubleshoot Your Apex Legends Network Issues - Effective Solutions Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-savvy-strategies-for-maxed-out-page-popularity/"><u>[New] 2024 Approved Social Savvy Strategies for Maxed-Out Page Popularity</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-circle-designers-toolkit-for-2024/"><u>[New] Circle Designer's Toolkit for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost/"><u>[Updated] Capture Perfection Dive Into Top 12 Websites Offering Stock Photos Without Cost</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-social-interaction-with-innovative-fb-slideshow-techniques-for-2024/"><u>[Updated] Maximizing Social Interaction with Innovative FB Slideshow Techniques for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-socialnet-movie-replayer/"><u>[Updated] SocialNet Movie Replayer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-streamline-your-content-with-optimal-tiktok-intro-strategies-mac/"><u>[Updated] Streamline Your Content with Optimal TikTok Intro Strategies (Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-premium-fabric-collection-launches-exclusive-beats-case-series-insights/"><u>Apple Discontinues Premium Fabric Collection, Launches Exclusive Beats Case Series: Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/binmp4mp3/"><u>BINファイルをMP4/MP3形式に変換する簡単ガイド - ステップバイステップ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/business-users-guide-in-depth-review-of-the-microsoft-surface-pro-8-with-expert-commentary-on-performance-and-security-spotlight/"><u>Business Users' Guide: In-Depth Review of the Microsoft Surface Pro 8 with Expert Commentary on Performance & Security – Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-top-tablet-selections-of-2024-thoroughly-tested-comprehensive-insights/"><u>Experts' Top Tablet Selections of 2024: Thoroughly Tested, Comprehensive Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-redmi-note-13-proplus-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Redmi Note 13 Pro+ 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-apple-watch-power-management-unlock-a-dramatic-lifespan-extension-with-easy-setup-adjustments-gizmoguide/"><u>Mastering Apple Watch Power Management: Unlock a Dramatic Lifespan Extension with Easy Setup Adjustments | GizmoGuide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protect-your-privacy-expert-tips-for-identifying-and-deleting-spyware-from-smartphones-advice-sourced/"><u>Protect Your Privacy: Expert Tips for Identifying and Deleting Spyware From Smartphones - Advice Sourced</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revitalizing-project-vision-pro-three-essential-strategies-apple-needs-to-implement/"><u>Revitalizing Project Vision Pro: Three Essential Strategies Apple Needs to Implement</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-transforming-mts-files-into-mp4-format-using-ffmpeg/"><u>Step-by-Step Guide: Transforming MTS Files Into MP4 Format Using FFmpeg</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-errors-overcoming-compatibility-problems-with-windows-graphics-drivers/"><u>Troubleshooting Minecraft Errors: Overcoming Compatibility Problems with Windows Graphics Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-reliable-airtag-wallets-of-2024-in-depth-testing-results-zdnet/"><u>Ultimate Guide to the Most Reliable AirTag Wallets of 2024: In-Depth Testing Results | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-why-apples-new-m2-ipad-air-is-your-ideal-choice-expert-insights/"><u>Ultimate Guide: Why Apple's New M2 iPad Air Is Your Ideal Choice - Expert Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-mini-computers-of-2prise/"><u>Unveiling the Ultimate Mini Computers of 2Prise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide
-date: 2024-09-16T16:05:53.291Z
-updated: 2024-09-22T17:37:23.962Z
+date: 2025-01-23T20:00:08.663Z
+updated: 2025-01-24T17:58:47.134Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
  You can pair your DualSense controller with either a USB cable or via Bluetooth. However, while connecting via Bluetooth is relatively easy, the controller's Bluetooth connection is not the best, so we highly recommend you connect the controller to your computer via USB.
@@ -34,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Next, you'll want to open the [Control Panel](https://screen-sharing-recording.techidaily.com/new-in-2024-facetime-call-recording-securing-your-conversations/) on your Windows 10 PC and confirm whether your computer has identified the controller. To do that, press the Windows key, type "Control Panel," and then hit Enter to launch the Control Panel app.
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the Control Panel menu, click on "Devices and Printers."
 
@@ -67,15 +75,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
@@ -83,32 +92,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
@@ -139,5 +136,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-futures-best-cameras-in-visual-storytelling-2024-edition/"><u>[New] Future's Best Cameras in Visual Storytelling, 2024 Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beginners-guide-to-crafting-trendy-mac-video-content/"><u>[Updated] Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>[Updated] In 2024, The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-systems-a-smart-choice/"><u>Are Wi-Fi Mesh Systems a Smart Choice?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ces-2n4-forecast-the-top-3-emerging-technological-trends-you-cant-miss-according-to-zdnet-experts/"><u>CES 2N4 Forecast: The Top 3 Emerging Technological Trends You Can't Miss, According to ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embark-on-your-marvel-adventure-now-using-apple-vision-pros-revolutionary-tech-learn-how-on-zdnet/"><u>Embark On Your Marvel Adventure Now Using Apple Vision Pro's Revolutionary Tech - Learn How on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-investment-for-youtube-ads-success-for-2024/"><u>Financial Investment for Youtube Ads Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-your-cursor-a-star-on-windows-devices/"><u>How to Make Your Cursor a Star on Windows Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-safeguard-your-data-in-augmented-reality-the-importance-of-using-a-vpn-with-headsets-like-the-vision-pro-according-to-zdnet-experts/"><u>How to Safeguard Your Data in Augmented Reality: The Importance of Using a VPN with Headsets Like the Vision Pro, According to ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-art-of-spatial-recording-with-iphone-15-pro-discover-the-hidden-trick-for-spectacular-panorama-shots-techexplore/"><u>Master the Art of Spatial Recording with iPhone 15 Pro - Discover the Hidden Trick for Spectacular Panorama Shots | TechExplore</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-try-the-easy-movie-maker-software-using-the-following-guide/"><u>New In 2024, Try the Easy Movie Maker Software Using the Following Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/safeguarding-your-virtual-world-effective-strategies-to-preserve-data-before-metas-oculus-purge/"><u>Safeguarding Your Virtual World: Effective Strategies to Preserve Data Before Meta's Oculus Purge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-viewing-apples-immersive-spatial-content-on-oculus-quest-2-a-simple-tutorial-techexploration/"><u>Step-by-Step Guide: Viewing Apple's Immersive Spatial Content on Oculus Quest 2 - A Simple Tutorial | TechExploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-now-top-ar-and-vr-developments-from-the-monumental-ces-2023-showcase/"><u>The Future Is Now: Top AR & VR Developments From the Monumental CES 2023 Showcase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-expert-insights-on-the-latest-tech/"><u>Tom's Computer Review: Expert Insights on the Latest Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-2018-soccer-films-high-quality-hd-downloads-1080p-and-720p-for-free/"><u>Top 2018 Soccer Films - High-Quality HD Downloads (1080P and 720P) for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-patient-experiences-with-apples-cutting-edge-vision-pro-applications-in-modern-medicine-zdnet-insight/"><u>Transforming Patient Experiences with Apple's Cutting-Edge Vision Pro Applications in Modern Medicine - ZDNet Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-truth-about-apple-vision-pro-a-comprehensive-review-of-its-strengths-and-weaknesses-by-zdnet/"><u>Unveiling the Truth About Apple Vision Pro: A Comprehensive Review of Its Strengths and Weaknesses by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/user-interface-and-functionality-app-checkup/"><u>User Interface & Functionality App Checkup</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2025-01-15T06:47:29.600Z
-updated: 2025-01-18T08:39:48.752Z
+date: 2025-01-18T17:55:35.381Z
+updated: 2025-01-24T16:03:02.903Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -61,10 +61,6 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-innovative-methods-to-hear-podcasts-on-iphone-for-2024/"><u>[New] Innovative Methods to Hear Podcasts on iPhone for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-playlist-on-a-page-embedding-yt-videos-online/"><u>[New] Playlist on a Page Embedding YT Videos Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-vloggers-fears-decoded-combat-strategies-for-everyone/"><u>[New] Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beginners-roadmap-understanding-and-investing-in-cryptocurrencies-tips-from-zdnet/"><u>Beginner's Roadmap: Understanding & Investing in Cryptocurrencies - Tips From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/burger-kings-double-take-on-negative-reviews-spurs-controversy-a-closer-look-by-zdnet/"><u>Burger King's Double-Take on Negative Reviews Spurs Controversy - A Closer Look by ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/canon-eos-t7-kit-a-notable-advancement/"><u>Canon EOS T7 Kit: A Notable Advancement</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-marketing-precision-through-our-cookiebot-integration/"><u>Enhanced Marketing Precision Through Our Cookiebot Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ensuring-timely-holiday-cheer-top-websites-offering-express-present-shipping-services-this-season/"><u>Ensuring Timely Holiday Cheer: Top Websites Offering Express Present Shipping Services This Season</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-will-ai-created-evaluations-influence-your-future-purchases-on-amazon-unveiling-the-new-trend-zdnet/"><u>How Will AI-Created Evaluations Influence Your Future Purchases on Amazon? Unveiling the New Trend | ZDNET</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-lens-language-speaking-visually-with-snapchat-filters/"><u>In 2024, Lens Language Speaking Visually with Snapchat Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-through-pandemic-protection-zdnets-guide-to-optimal-mask-choices-and-covid-prevention-strategies-for-2n22/"><u>Navigating Through Pandemic Protection: ZDNET's Guide to Optimal Mask Choices and COVID Prevention Strategies for 2N22</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singapore-unveils-digital-solution-for-improved-supply-chain-communication-insights-from-zdnet/"><u>Singapore Unveils Digital Solution for Improved Supply Chain Communication: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/starbucks-introduces-an-exciting-new-offering-learn-why-it-might-become-the-next-big-craze-analysis-by-zdnet/"><u>Starbucks Introduces an Exciting New Offering; Learn Why It Might Become the Next Big Craze | Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-revolution-at-southwest-a-surprising-leap-forward-that-shook-us-up-insights-from-zdnet/"><u>Tech Revolution at Southwest: A Surprising Leap Forward That Shook Us Up - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-granblue-fantasy-relinking-issues-on-your-pc/"><u>Ultimate Troubleshooting Guide: Resolving Granblue Fantasy Relinking Issues on Your PC</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/wie-stabiliseren-sie-ihre-dateien-wenn-sie-vom-onedrive-papierkorb-entfernt-wurden/"><u>Wie Stabiliseren Sie Ihre Dateien, Wenn Sie Vom OneDrive-Papierkorb Entfernt Wurden?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-top-pick-the-finest-credit-cards-tailored-for-digital-storefronts-and-online-shopping-experience/"><u>ZDNet's Top Pick: The Finest Credit Cards Tailored for Digital Storefronts and Online Shopping Experience</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-5-instrumentov-seo-and-prilozhenij-dlya-windowspk-v-2024-opisanie-i-sravnenie/"><u>Топ-5 Инструментов SEO & Приложений Для Windows/ПК В 2024: Описание И Сравнение</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevating-channel-excellence-with-best-ideas/"><u>[New] In 2024, Elevating Channel Excellence with Best Ideas</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-viral-covers-for-your-facebook-profile/"><u>[Updated] Crafting Viral Covers for Your Facebook Profile</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-journey-mastery-10-leading-apps-to-up-your-youtube-short-game/"><u>[Updated] Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-watch-ultra-vs-apple-watch-series-8-showdown-determining-your-ideal-fit/"><u>Apple Watch Ultra Vs. Apple Watch Series 8 Showdown: Determining Your Ideal Fit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-comprehensive-guide-on-selecting-the-perfect-apple-laptop/"><u>Choosing Between MacBook Pro & MacBook Air: Comprehensive Guide on Selecting the Perfect Apple Laptop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/favorite-phones-spotlighted-the-top-handsets-chosen-tech-experts/"><u>Favorite Phones Spotlighted: The Top Handsets Chosen Tech Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-k11-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo K11 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-of-live-streaming-with-periscope/"><u>The Evolution of Live Streaming with Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-generation-of-airpods-whens-their-launch-and-how-can-you-reserve-them-insights/"><u>The Next Generation of AirPods - When's Their Launch, and How Can You Reserve Them? Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-persuasive-factors-to-choose-an-apple-watch-insights-from-a-tech-guru/"><u>Top 6 Persuasive Factors to Choose an Apple Watch - Insights From a Tech Guru</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-creating-viral-reaction-videos-with-filmora-for-2024/"><u>Updated The Ultimate Guide to Creating Viral Reaction Videos with Filmora for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Find N3? | Dr.fone</u></a></li>
 </ul></div>
 

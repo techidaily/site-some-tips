@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts"
-date: 2024-09-15T17:12:32.645Z
-updated: 2024-09-22T16:04:01.083Z
+date: 2025-01-22T17:10:12.798Z
+updated: 2025-01-24T17:56:13.689Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ---
 
 ## Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -55,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Automatically Lock Your Screen When You Move Away
@@ -74,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Automate Tasks With Task Scheduler
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Defining conditions for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-defining-conditions-for-a-task-in-task-scheduler.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Share Content Between Two Windows PCs
 
  While we usually have [various options to share files between a PC and a smartphone](https://on-screen-recording.techidaily.com/new-in-2024-home-sweet-habitat-6-basic-mc-dwellings-demystified/), things get a bit complicated when sharing content between two PCs. If both computers run Windows, and they both have a Bluetooth _and_ Wi-Fi connection, you can use the Nearby Sharing feature for a seamless file transfer. To use this feature, enable the feature on both PCs and ensure they are connected to the internet.
@@ -104,20 +106,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Enabling Nearby Sharing in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-enabling-nearby-sharing-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With Nearby Sharing enabled, right-click the file you want to share and select “Share.” In the Nearby Sharing window, choose the target laptop. The recipient will receive a notification to accept the file. Once they accept the file transfer notification, they will receive the file wirelessly.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Capture Screenshots and Record the Screen Using the Game Bar
@@ -127,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  What I like the most about the Game Bar is its keyboard shortcut support, which makes it easy to use. Press Windows+G to open the Game Bar. You can start recording with Windows+Alt+R, mute or unmute the microphone with Windows+Alt+M, and capture screenshots with Windows+Alt+Prtscn(Print Screen). Also, you can easily access your captured screenshots and recordings with a single click.
 
 ![Recording a screen with the Game Bar in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-recording-a-screen-with-the-game-bar-in-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The downside is that you can't annotate screenshots and videos, crop screenshots, clip recordings, or screen record in File Explorer and on the desktop.
 
@@ -147,5 +143,20 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-audience-engagement-emulate-your-idols-online/"><u>2024 Approved The Art of Audience Engagement Emulate Your Idols Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-quality-why-apples-sub-100-competitor-beats-solo-buds-could-dominate-headphone-market-insights-from-zdnet/"><u>Affordable Quality: Why Apple's Sub-$100 Competitor, Beats Solo Buds, Could Dominate Headphone Market - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-opportunity-secure-the-cheapest-ever-price-on-the-apple-watch-series-nine-available-post-prime-day-zdnet/"><u>Exclusive Opportunity: Secure the Cheapest Ever Price on the Apple Watch Series Nine - Available Post-Prime Day | ZDNET</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/high-definition-batman-themed-desktop-scenes-ultra-clear-1080p-graphics-digital-artwork-and-visual-backdrops-curated-by-yl-computing/"><u>High Definition Batman Themed Desktop Scenes: Ultra-Clear 1080P Graphics, Digital Artwork & Visual Backdrops - Curated by YL Computing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Smart 7 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-20-instagram-video-exporters-online-windows-mac-edition/"><u>In 2024, Top 20 Instagram Video Exporters Online, Windows, Mac Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-data-monitoring-insights-into-controlling-internet-and-phone-use/"><u>Mastering Data Monitoring: Insights Into Controlling Internet and Phone Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shared-frustrations-after-transitioning-to-iphone-ios-18-lessons-learned/"><u>Shared Frustrations After Transitioning to iPhone iOS 18 - Lessons Learned</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-cellphone-offers-and-discounts-for-independence-day-a-guide/"><u>Top Cellphone Offers & Discounts for Independence Day: A Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-the-start-menu-issue-in-windows-server-2019-fast-solutions/"><u>Troubleshooting the Start Menu Issue in Windows Server 2019: Fast Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-tg-pro-get-75-off-on-cyber-monday-the-ultimate-deal-for-your-m3-mac/"><u>Unlock the Power of TG Pro: Get 75% Off on Cyber Monday – The Ultimate Deal for Your M3 Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-new-s2-app-for-sonos-systems-enhanced-audio-at-a-cost-insights/"><u>Unveiling the New S2 App for Sonos Systems: Enhanced Audio at a Cost - Insights</u></a></li>
+</ul></div>
 

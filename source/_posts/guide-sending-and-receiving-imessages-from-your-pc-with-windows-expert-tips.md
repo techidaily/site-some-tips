@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending and Receiving iMessages From Your PC with Windows - Expert Tips"
-date: 2025-01-12T07:45:40.271Z
-updated: 2025-01-17T18:43:57.405Z
+date: 2025-01-23T19:56:06.372Z
+updated: 2025-01-24T20:39:41.166Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -59,6 +55,10 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -82,15 +82,15 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -98,15 +98,15 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -119,7 +119,7 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -133,6 +133,10 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,17 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-converging-worlds-effortlessly-incorporate-linktree-on-tiktok/"><u>[New] Converging Worlds Effortlessly Incorporate Linktree on TikTok</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-birdie-ballet-bounce/"><u>[Updated] Birdie Ballet Bounce</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-introduction-for-2024/"><u>[Updated] Introduction for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1-to-10-superior-4k-screen-selections-for-2024/"><u>1 to #10 Superior 4K Screen Selections for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-12-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi 12 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-rag-metrics-by-amazon-for-enhanced-ai-testing-and-evaluation-on-zdnet-coverage/"><u>Innovative RAG Metrics by Amazon for Enhanced AI Testing and Evaluation on ZDNet Coverage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-android-automotive-update-enhances-user-experience-with-added-bluetooth-headphone-compatibility-tech-news-by-zdnet/"><u>Latest Android Automotive Update Enhances User Experience with Added Bluetooth Headphone Compatibility - Tech News by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-synergy-of-rag-and-generative-ai-llms-enhancing-your-business-expertise-for-success-zdnet-insights/"><u>Mastering the Synergy of RAG and Generative AI LLMs: Enhancing Your Business Expertise for Success | ZDNet Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-ultimate-canon-temporal-capture/"><u>Mastering Ultimate Canon Temporal Capture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-advances-in-open-source-ai-unveiled-introducing-llama-31-insights-from-zdnet/"><u>Meta Advances in Open-Source AI Unveiled: Introducing LLaMA 3.1 - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/red-hat-elevates-enterprise-solutions-with-cutting-edge-linux-ai-features-expert-analysis-on-zdnet/"><u>Red Hat Elevates Enterprise Solutions with Cutting-Edge Linux AI Features | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stack-overflow-warnings-on-profile-suspension-due-to-ai-protests-insights-from-zdnet/"><u>Stack Overflow Warnings on Profile Suspension Due to AI Protests - Insights From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-overwatch-playback-techniques-explained-for-2024/"><u>[Updated] Overwatch Playback Techniques Explained for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/800-deal-apple-m2-macbook-air-available-early-on-amazon-before-official-sales-events/"><u>$800 Deal: Apple M2 MacBook Air Available Early on Amazon Before Official Sales Events</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capture-your-desktop-on-windows-3-ways-free/"><u>2024 Approved Capture Your Desktop on Windows, 3 Ways, Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-setup-guide-activating-libreoffice-on-your-mac-the-ultimate-free-ms-office-substitute/"><u>Effortless Setup Guide: Activating LibreOffice on Your Mac - The Ultimate Free MS Office Substitute!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-screen-recording-apps-of-2023-expert-picks-for-2024/"><u>Elite Screen Recording Apps of 2023 - Expert Picks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-on-altering-proton-vpn-login-details-plus-distinguishing-between-fake-and-true-chatgpt-windows-software/"><u>Expert Advice on Altering Proton VPN Login Details + Distinguishing Between Fake & True ChatGPT Windows Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-does-apple-safeguard-user-data-in-the-cloud-for-enhanced-ai-experiences-exploring-strategies/"><u>How Does Apple Safeguard User Data in the Cloud for Enhanced AI Experiences? Exploring Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>In 2024, Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mac-studio-innovations-that-could-sway-users-away-from-a-new-m4-mac-mini-this-fall-analysis/"><u>Mac Studio Innovations That Could Sway Users Away From a New M4 Mac Mini This Fall - Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/samsung-blu-ray-player-malfunction-solutions-expert-guide/"><u>Samsung Blu-Ray Player Malfunction Solutions - Expert Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/simple-methods-transferring-images-from-your-android-device-to-pc/"><u>Simple Methods: Transferring Images From Your Android Device to PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-instructions-for-using-your-apple-watch-to-stay-connected-with-friends-and-family-techadvice/"><u>Step-by-Step Instructions for Using Your Apple Watch to Stay Connected with Friends and Family | TechAdvice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reasons-to-skip-amazon-when-purchasing-sd-memory-cards/"><u>Top Reasons to Skip Amazon When Purchasing SD Memory Cards</u></a></li>
 </ul></div>
 

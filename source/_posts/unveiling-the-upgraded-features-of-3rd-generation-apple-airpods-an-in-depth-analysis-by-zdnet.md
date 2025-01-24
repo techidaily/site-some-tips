@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2025-01-14T04:37:25.251Z
-updated: 2025-01-18T07:06:54.333Z
+date: 2025-01-23T18:01:34.062Z
+updated: 2025-01-24T16:31:08.152Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,18 +191,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-viral-visionaries-top-meme-creators-on-social-media/"><u>[New] In 2024, Viral Visionaries Top Meme Creators on Social Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-can-image-smoothing-simplify-photo-editing-in-2024/"><u>[Updated] Can Image Smoothing Simplify Photo Editing, In 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-capture-and-share-best-social-media-tools-of-the-year/"><u>[Updated] Capture and Share Best Social Media Tools of the Year</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-connect-and-engage-strategies-for-sharing-during-fb-lives/"><u>[Updated] In 2024, Connect & Engage Strategies for Sharing During FB Lives</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-vertical-video-magic-adjusting-instagram-feed-with-final-cut-pro-x-for-2024/"><u>[Updated] Vertical Video Magic Adjusting Instagram Feed with Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/becoming-a-maestro-at-zoom-broadcasting-on-youtube-for-2024/"><u>Becoming a Maestro at Zoom Broadcasting on YouTube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-point-and-click-the-revolution-of-user-interfaces-with-generative-ai-insights-from-zdnet/"><u>Beyond Point-and-Click: The Revolution of User Interfaces with Generative AI - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-coding-security-with-ai-on-github-mastering-fundamentals-first-zdnet/"><u>Enhancing Coding Security with AI on GitHub - Mastering Fundamentals First [ZDNet]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-learning-python-javascript-and-java-can-skyrocket-your-programming-career-tips-curated-by-zdnet/"><u>How Learning Python, JavaScript & Java Can Skyrocket Your Programming Career - Tips Curated by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/programming-language-trends-from-2016-onwards-insights-and-implications-unveiled-by-zdnet/"><u>Programming Language Trends From 2016 Onwards: Insights & Implications Unveiled by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/programming-newcomers-accelerate-your-learning-with-top-5-linux-utilities-recommended-by-experts-at-zdnet/"><u>Programming Newcomers: Accelerate Your Learning with Top 5 Linux Utilities Recommended by Experts at ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/talkative-chatty/"><u>Talkative - Chatty</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-file-audio-snd-direttamente-in-mp3-senza-costi-con-il-convertitore-online-di-movavi/"><u>Trasforma I Tuoi File Audio SND Direttamente in MP3 Senza Costi Con Il Convertitore Online Di Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-best-drawing-apps-for-chromebook/"><u>[New] FREE Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-starting-simple-a-practical-approach-to-becoming-an-e-review-expert/"><u>[Updated] Starting Simple A Practical Approach to Becoming an E-Review Expert</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-the-revolutionary-camera-button-enhances-iphone-16s-photography-experience-zdnet-insights/"><u>Discover How the Revolutionary Camera Button Enhances iPhone 16'S Photography Experience | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-new-airpods-pro-featuring-find-my-device-and-usb-c-connectivity-the-latest-from-apple/"><u>Introducing the New AirPods Pro Featuring 'Find My Device' & USB-C Connectivity - The Latest From Apple</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigate-to-the-top-10-most-advanced-photo-changer-apps-for-2024/"><u>Navigate to the Top 10 Most Advanced Photo Changer Apps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-guide-using-windows-7-key-for-windows-11-activation/"><u>Transition Guide: Using Windows 7 Key for Windows 11 Activation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-enhancing-your-ipad-experience-with-the-latest-accessories-of-2abruptly/"><u>Ultimate Guide to Enhancing Your iPad Experience with the Latest Accessories of 2Abruptly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unboxing-titans-of-youtube-the-most-popular/"><u>Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-solution-overcome-the-risky-battery-flaw-in-your-airtags-and-compatible-gadgets-expert-tips-from-zdnet/"><u>Unlocking the Solution: Overcome the Risky Battery Flaw in Your AirTags and Compatible Gadgets - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/verspelen-van-geavanceerde-daten-de-twee-goede-wegs-om-je-vrije-ruimte-voor-nieuwe-technologie-te-zorgen/"><u>Verspelen Van Geavanceerde Daten: De Twee Goede Wegs Om Je Vrije Ruimte Voor Nieuwe Technologie Te Zorgen</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

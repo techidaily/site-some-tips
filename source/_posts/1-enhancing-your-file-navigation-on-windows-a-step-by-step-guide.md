@@ -1,7 +1,7 @@
 ---
 title: "1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide"
-date: 2024-09-18T19:04:42.158Z
-updated: 2024-09-22T17:35:38.776Z
+date: 2025-01-19T17:56:48.049Z
+updated: 2025-01-24T16:00:15.520Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
  Even with the addition of tabs, the file browsing experience on Windows is still lackluster. The search is as broken as ever. I’m still waiting for bulk renaming, file locks, a bookmarks bar, or secure deletion. Panes have limited file previews and organization is bare bones. Let’s fix it all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Search Anything With Everything
 
  The default file indexing is painfully slow on Windows, and it always has been. That’s why looking up files in Explorer can take such a long time. On occasion, I have manually located a file faster than Explorer search. That’s why I switched to [Everything](https://www.voidtools.com/downloads/).
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
  Everything is an incredibly lightweight and fast search engine. Think of it as [Spotlight, except for Windows](https://some-knowledge.techidaily.com/2024-approved-expert-video-lighting-advice-maximizing-visual-impact/). It can pull up any file or folder on your computer instantly. You can refine your search with filters to match the file names or the formats. There’s even an Advanced Search feature.
 
 ![Filer options in Everything Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-024646.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whenever you update or add a file, Everything indexes it right away. It builds its database within seconds of the first installation, and it scans for changes in real time. It’s so fast that you don’t even have to complete the query to retrieve a file or folder. It pulls up files as you type. No progress bars.
 
@@ -43,11 +51,19 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![Customizing FancyZones settings in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pt-fancyzones-multimon.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft
 
  Preview panes on Windows show the contents of a file without opening it. Sadly, it’s mostly limited to image previews. With PowerToys, you can preview more than 150 types of files, including PDF files, source code files, [markdowns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), and more. If your workflow involves jumping between files often, PowerToys can save you some time.
 
 ![PowerToys preview pane.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/powertoys-fileexplorer-win11.gif) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -63,25 +79,11 @@ Close
 
 [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) is a must-have for power users. Plus, it’s free and lightweight.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Clean Up Messy Folders with File Juggler
 
  Instead of manually and regularly organizing files, you can automate the whole process. With [File Juggler](https://www.filejuggler.com/), you can set rules to automatically move files into folders. It can automatically rename, delete, and copy files into folders too. That way you don’t have to deal with ever-growing clutter on your computer.
 
 ![Configuring file sorting automation in File Juggler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move-downloaded-pdf-files-1000-x2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  File Juggler can also read the contents of documents to automatically name them and move them wherever they belong based on their content. It’ll monitor new documents and organize them too.
 
@@ -93,18 +95,15 @@ Close
 
 ![Explorer++ bookmark manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Explorer++
 
  Plenty of alternative file explorers have a bookmark manager, but I use Explorer++. It has tabbed browsing and a robust bookmark manager. You can bookmark a directory with Ctrl+D just like you would in a browser. It then appears on the dedicated bookmarks bar on top.
 
 ![Explorer ++ configuration.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Explorer++
 
@@ -124,6 +123,10 @@ Explorer++
 
 ![Eraser context menu launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240806-135856.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can delete a file with Eraser from the right-click context menu. It might take a little longer than regular deletion though (especially for bigger files). You can [download Eraser](https://eraser.heidi.ie/download/) from the official website.
 
 <ins class="adsbygoogle"
@@ -139,5 +142,22 @@ Explorer++
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-record-facebook-messenger-calls-full-solutions/"><u>[New] In 2024, Record Facebook Messenger Calls [Full Solutions]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-the-potential-of-animation-in-your-screencasts/"><u>[Updated] In 2024, Unlocking the Potential of Animation in Your Screencasts</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/conversao-ang-)-avi-online-sem-custo-movavi/"><u>Conversão ANG -> AVI Online Sem Custo - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-htcs-vision-of-the-metaverse-a-comprehensive-guide-no-cost-involved/"><u>Discovering HTC's Vision of the Metaverse: A Comprehensive Guide - No Cost Involved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-tech-heads-up-zdnet-dissects-the-anatomy-of-apple-vision-pro-and-meta-quest-headsets-with-ct-scans/"><u>Exploring Tech Heads-Up: ZDNet Dissects the Anatomy of Apple Vision Pro and Meta Quest Headsets with CT Scans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immersing-in-apples-augmented-reality-vision-an-insider-look-at-their-innovative-iphone-powered-headset/"><u>Immersing in Apple's Augmented Reality Vision: An Insider Look at Their Innovative iPhone-Powered Headset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-full-potential-of-youtube-videos-with-srt-download-tutorial/"><u>In 2024, Unleash the Full Potential of YouTube Videos With SRT Download Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-3-takes-top-spot-as-2023s-unforeseen-tech-marvel-featured-by-zdnet/"><u>Meta Quest 3 Takes Top Spot as 2023'S Unforeseen Tech Marvel - Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/peering-into-the-future-of-ar-how-an-innovative-apple-designed-headset-changed-my-perspective-on-tech-zdnet/"><u>Peering Into the Future of AR: How an Innovative Apple-Designed Headset Changed My Perspective on Tech | ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sound-streaming-showdown-which-is-the-better-choice-podcast-or-youtube-for-2024/"><u>Sound Streaming Showdown Which Is the Better Choice, Podcast or YouTube for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-genius-top-10-benefits-of-using-the-apple-vision-pro-tech-innovations/"><u>Unveiling the Hidden Genius: Top 10 Benefits of Using the Apple Vision Pro | Tech Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-quest-3s-dominance-over-competitor-vr-headsets/"><u>Unveiling the Secrets Behind Quest 3'S Dominance Over Competitor VR Headsets</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/wiederauffinden-verschollener-festplattendaten-entdecke-verborgene-dateien-mit-myrecover/"><u>Wiederauffinden Verschollener Festplattendaten - Entdecke Verborgene Dateien Mit MyRecover</u></a></li>
+</ul></div>
 

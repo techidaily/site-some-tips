@@ -1,7 +1,7 @@
 ---
 title: Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024
-date: 2024-09-15T17:16:00.601Z
-updated: 2024-09-22T19:20:05.262Z
+date: 2025-01-23T16:36:55.475Z
+updated: 2025-01-24T18:46:33.514Z
 tags:
   - desktop
 categories:
@@ -15,13 +15,25 @@ Apple held its Worldwide Developers Conference earlier this week, revealing doze
 
  We got our first real look at the upcoming iOS 18, macOS Sequoia, iPadOS 18, visionOS 2, tvOS 18, and watchOS 11 updates this week. The big reveal was Apple Intelligence, the company’s long-awaited answer to the generative AI rush. Even though it looks more useful and more private than many other recent attempts at AI tools ([looking at you, Recall](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/)), it won’t even enter testing until later this year, so there are still some open questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Big News
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Here's How AI Will Transform the iPhone, iPad, and Mac This Fall](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) 
 
  Apple Intelligence is coming later this year, powering a revamped Siri and new writing and design tools.
 
 ![Screenshot of priority notifications sorted by Apple Intelligence.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-priority-notifications-240610.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
@@ -33,18 +45,15 @@ Apple held its Worldwide Developers Conference earlier this week, revealing doze
 
  This might be the biggest update for iPhones in years.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [The iPad Now Has a Calculator App, Thanks to iPadOS 18](https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-narzo-60-5g-by-drfone-android/) 
 
  No amount of AI innovation can top this.
 
 ![Solving basic math problems with Math Notes on iPadOS18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/math-notes-on-ipados-18-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -53,10 +62,7 @@ Apple
  Take a rest day without losing your streak, plus everything else in watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Your Apple ID Is Going Away (But Not Really)](https://www.howtogeek.com/apple-id-is-now-apple-account/) 
@@ -66,13 +72,6 @@ Apple
 ### [Apple Bakes More Predatory Lending Options Into the iPhone](https://audio-shaping.techidaily.com/updated-free-web-based-daws-that-are-changing-music-production-the-top-10-for-2024/) 
 
  As if the Apple credit card and Pay Later service weren't enough.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Even More News
 
@@ -95,5 +94,17 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-hot-takes-top-ten-video-hits-from-social-media-giants/"><u>[New] 2024 Approved Hot Takes Top Ten Video Hits From Social Media Giants</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-secure-your-online-footprint-eliminate-tracking-data-from-safari-on-mac-os/"><u>1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-picks-for-the-ultimate-ipad-air-cases-of-2nndie-tested-and-reviewed-zdnet/"><u>Experts' Picks for the Ultimate iPad Air Cases of 2Nndie: Tested & Reviewed | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-the-new-ipad-software-patch-resolves-the-quirky-issue-of-restored-deleted-photos-ios-1751-tech-analysis/"><u>How the New iPad Software Patch Resolves the Quirky Issue of Restored Deleted Photos (iOS 17.5.1) | Tech Analysis</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-12-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-lava-blaze-curve-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Lava Blaze Curve 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-monster-hunter-rise-startup-issues-a-step-by-step-guide/"><u>Solving Monster Hunter Rise Startup Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-drive-comprehensive-review-of-the-smart-learning-escort-ix-radar-system/"><u>Transform Your Drive: Comprehensive Review of the Smart-Learning Escort iX Radar System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-memory-error-in-vmware-windows-environments/"><u>Troubleshooting 'Memory Error' In VMware Windows Environments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-capabilities-of-apples-m1-ipad-pro-anticipated-revelations-at-wwdc-and-the-role-of-artificial-intelligence/"><u>Unlocking the Full Capabilities of Apple's M1 iPad Pro: Anticipated Revelations at WWDC & The Role of Artificial Intelligence</u></a></li>
+</ul></div>
 

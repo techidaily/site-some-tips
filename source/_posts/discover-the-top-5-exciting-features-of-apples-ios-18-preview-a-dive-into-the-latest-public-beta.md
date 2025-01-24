@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2025-01-13T19:02:17.115Z
-updated: 2025-01-17T22:39:04.811Z
+date: 2025-01-17T20:40:28.550Z
+updated: 2025-01-24T20:30:04.377Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,17 +120,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>[New] Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>[Updated] Accelerating Your Creative Process A Guide to Crafting Fast Google Collage Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-remove-black-bars-from-existing-youtube-videos/"><u>[Updated] How to Remove Black Bars From Existing YouTube Videos?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-swift-google-collage-compilation/"><u>[Updated] The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-x100-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo X100 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hurry-up-top-shops-for-same-day-gift-dispatch-highlighted-by-zdnet/"><u>Hurry Up! Top Shops for Same-Day Gift Dispatch Highlighted by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-google-pixel-fold-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Google Pixel Fold Screen | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/joint-efforts-by-singapore-and-the-us-to-thwart-international-online-scams-insights-from-zdnet/"><u>Joint Efforts by Singapore and the US to Thwart International Online Scams – Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leverage-amazon-prime-day-deals-for-profit-a-guide-to-earning-cash-with-online-shares-insights-from-zdnet/"><u>Leverage Amazon Prime Day Deals for Profit: A Guide to Earning Cash with Online Shares - Insights From ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-experience-with-temus-off-brand-tech-gadgets-surprisingly-satisfactory/"><u>My Experience with Temu's Off-Brand Tech Gadgets - Surprisingly Satisfactory!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/say-goodbye-to-tiktoks-post-upload-quality-issues-revolutionary-fixes-and-insights/"><u>Say Goodbye to TikTok's Post-Upload Quality Issues: Revolutionary Fixes and Insights!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/349-ipad-steals-the-spotlight-at-apples-bold-release-unveiling/"><u>$349 iPad Steals the Spotlight at Apple’s Bold Release Unveiling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-video-content-conversion-xml-ssa-and-ttml-to-srt-guide/"><u>2024 Approved Mastering Video Content Conversion XML, SSA & TTML to SRT Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-for-stunning-gopro-timelapse-projects/"><u>2024 Approved Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-tunes-for-students-securing-a-lower-price-on-apple-music-with-ease/"><u>Affordable Tunes for Students: Securing a Lower Price on Apple Music with Ease!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-guide-transforming-mp4-files-into-wmv-format-without-a-hitch/"><u>Easy Guide: Transforming MP4 Files Into WMV Format Without a Hitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-common-issue-understanding-and-solving-error-0xa00f4292-in-windows-cameras/"><u>Fixing the Common Issue: Understanding & Solving Error 0xA00F4292 in Windows Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-ipad-air-analysis-surprisingly-superior-to-the-ipad-pro-a-users-takeaway/"><u>In-Depth IPad Air Analysis: Surprisingly Superior to the iPad Pro - A User's Takeaway</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-meme-craft-kinemasters-role-for-2024/"><u>Mastering the Meme Craft KineMaster's Role for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/personalizing-the-ios-18-control-center-on-your-iphone-a-comprehensive-guide/"><u>Personalizing the iOS 18 Control Center on Your iPhone - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-user32dll-is-missing-dilemma-a-comprehensive-guide/"><u>Solving the 'User32.dll Is Missing' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-pick-for-tech-enthusiasts-iphone-1er-pro-vs-max-model-a-closer-look-at-zdnets-choice/"><u>The Smart Pick for Tech Enthusiasts: IPhone 1Er Pro Vs. Max Model | A Closer Look at ZDNET's Choice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-step-by-step-journey-to-buying-an-ideal-tv-making-informed-decisions-at-every-stage/"><u>Your Step-by-Step Journey to Buying an Ideal TV: Making Informed Decisions at Every Stage</u></a></li>
 </ul></div>
 

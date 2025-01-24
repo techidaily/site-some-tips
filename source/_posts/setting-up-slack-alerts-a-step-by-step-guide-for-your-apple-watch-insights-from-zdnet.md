@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2025-01-10T22:20:47.738Z
-updated: 2025-01-17T17:59:49.209Z
+date: 2025-01-20T18:28:48.507Z
+updated: 2025-01-24T18:57:25.046Z
 tags:
   - apple
 categories:
@@ -45,16 +45,12 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -67,7 +63,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -79,6 +75,10 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -102,6 +102,10 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -122,23 +126,19 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,16 +179,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-aerial-angle-appraisal-overlook/"><u>[New] Aerial Angle Appraisal Overlook</u></a></li>
-<li><a href="https://facebook.techidaily.com/fb-and-gifpedia-face-possible-disentanglement-why-now/"><u>FB and Gifpedia Face Possible Disentanglement; Why Now?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/got-no-idea-what-to-get-heres-where-you-can-find-reliable-same-day-or-next-day-delivery-stores-zdnet/"><u>Got No Idea What to Get? Here's Where You Can Find Reliable Same-Day or Next Day Delivery Stores | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-zte-easily-by-drfone-android/"><u>How To Unlock a ZTE Easily?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-14-pro-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Pro SIM Lock?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsoft-copilot-an-effective-ai-assistant-with-built-in-sales-pitches-explore-the-pros-and-cons-on-zdnet/"><u>Microsoft Copilot: An Effective AI Assistant with Built-In Sales Pitches? Explore the Pros and Cons on ZDNet</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/no-more-interrupted-instagram-videos-heres-how-for-2024/"><u>No More Interrupted Instagram Videos - Here's How for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stuck-choosing-the-perfect-present-let-googles-innovative-ai-create-unique-gifts-just-for-you-detailed-guide-by-zdnet/"><u>Stuck Choosing the Perfect Present? Let Google’s Innovative AI Create Unique Gifts Just For You - Detailed Guide by ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-vr-bike-games-a-compreayers-guide/"><u>TOP VR Bike Games A Compreayer’s Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wear-os-users-can-pay-using-watches-new-google-wallet-feature-adds-starbucks-cvs-loyalty-rewards-zdnet/"><u>Wear OS Users Can Pay Using Watches - New Google Wallet Feature Adds Starbucks, CVS Loyalty Rewards | ZDNET</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leverage-your-influence-top-10-igtv-video-tactics-for-brands/"><u>[New] 2024 Approved Leverage Your Influence Top 10 IGTV Video Tactics for Brands</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-synopsis-of-vllo-consumer-voices/"><u>[New] 2024 Approved Synopsis of VLLO Consumer Voices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-exploring-microsofts-hololens-a-hologram-horizon/"><u>[New] In 2024, Exploring Microsoft's HoloLens A Hologram Horizon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-1-ranked-youtube-to-text-online-service/"><u>[Updated] 2024 Approved 1 Ranked YouTube to Text Online Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-performance-apple-unveils-the-upgraded-mac-studio-a-giant-leap-from-the-classic-mac-mini-tech-insights/"><u>Elevating Performance: Apple Unveils the Upgraded Mac Studio - A Giant Leap From the Classic Mac Mini | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-10-ios-tablet-hacks-crucial-advice-for-apple-beginners-and-professionals/"><u>Essential 10 iOS Tablet Hacks: Crucial Advice for Apple Beginners & Professionals!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-apples-new-range-enhanced-13-inch-and-15-inch-macbook-air-with-m3-chip-launch-insightful-review-and-specs-update/"><u>Explore Apple's New Range: Enhanced 13-Inch and 15-Inch MacBook Air with M3 Chip Launch | Insightful Review & Specs Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-airtag-add-ons-for-202n4-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Selection of AirTag Add-Ons for 202N4: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-superhero-dreams-dive-into-marvel-via-apple-vision-pro-coming-soon-may-30th/"><u>Unlock Your Superhero Dreams: Dive Into Marvel via Apple Vision Pro - Coming Soon , May 30Th!</u></a></li>
 </ul></div>
 

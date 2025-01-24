@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2025-01-10T21:48:47.442Z
-updated: 2025-01-17T23:04:50.418Z
+date: 2025-01-21T18:22:42.059Z
+updated: 2025-01-24T19:42:56.682Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,20 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-safe-surveillance-strategies-blurring-sensitive-content/"><u>[Updated] 2024 Approved Safe Surveillance Strategies Blurring Sensitive Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-creating-continuous-viewing-pleasure-on-television/"><u>[Updated] Creating Continuous Viewing Pleasure on Television</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alibaba-appoints-new-chief-technology-officer-current-ceo-takes-over-temporary-cloud-role-zdnet/"><u>Alibaba Appoints New Chief Technology Officer; Current CEO Takes Over Temporary Cloud Role - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alibaba-plans-separate-ipo-for-cloud-business-and-initiates-public-offering-of-two-subsidiaries/"><u>Alibaba Plans Separate IPO for Cloud Business & Initiates Public Offering of Two Subsidiaries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazons-aws-launches-innovative-trainium-ai-processor-and-graviton-4-enhanced-collaboration-with-nvidia-announced/"><u>Amazon's AWS Launches Innovative Trainium AI Processor & Graviton-4: Enhanced Collaboration with Nvidia Announced</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-analysis-of-western-digitals-data-lifeguard-a-diagnostic-software-evaluation/"><u>Comprehensive Analysis of Western Digital's Data Lifeguard: A Diagnostic Software Evaluation</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/ford-mustang-65-vintage-design-high-quality-hd-backgrounds-and-wallpapers-from-yl-computing/"><u>Ford Mustang '65 Vintage Design: High-Quality HD Backgrounds & Wallpapers From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-missing-mcuicnt-executable-in-microsoft-os/"><u>How To Address Missing McUICnt Executable in Microsoft OS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oneplus-nord-ce-3-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from OnePlus Nord CE 3 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-cloud-sidestep-these-critical-errors-with-tips-from-zdnet/"><u>Mastering the Cloud: Sidestep These Critical Errors with Tips From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-and-amazon-web-services-join-forces-for-greater-pytorch-penetration-cloudcomputing-news/"><u>Meta and Amazon Web Services Join Forces for Greater PyTorch Penetration | CloudComputing News</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-user-manual-to-facetunes-photo-fixes-for-2024/"><u>The Complete User Manual to Facetune's Photo Fixes for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-hook-up-guide-scripts-to-seduce-listeners/"><u>The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-changes-in-my-google-cloud-storage-strategy-insights-and-impact-a-zdnet-expose/"><u>Unveiling the Hidden Changes in My Google Cloud Storage Strategy: Insights & Impact - A ZDNet Expose</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-st/"><u>Updated In 2024, Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mediasphere-app-user-experience-report/"><u>[New] 2024 Approved MediaSphere App User Experience Report</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-your-watchlist-with-controlled-netflix-frame-rate/"><u>[New] Perfect Your Watchlist with Controlled Netflix Frame Rate</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-androids-superior-hd-vids-discover-the-best-apps-for-2024/"><u>[Updated] Android's Superior HD Vids Discover the Best Apps for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-foundations-selecting-the-right-equipment-for-2024/"><u>[Updated] YouTube Foundations Selecting the Right Equipment for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-much-money-can-you-score-with-youtube-short-videos/"><u>2024 Approved How Much Money Can You Score with YouTube Short Videos?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>2024 Approved Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-sidekick-google-pixel-watch-vs-apple-watch-series-9-the-ultimate-comparison-zdnet/"><u>Choosing the Right Sidekick: Google Pixel Watch Vs. Apple Watch Series 9 - The Ultimate Comparison (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complete-guide-sending-and-receiving-imessage-securely-on-windows-os-techadvice/"><u>Complete Guide: Sending & Receiving iMessage Securely on Windows OS | TechAdvice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-with-loved-ones-using-your-apple-watch-a-step-by-step-guide/"><u>Connecting With Loved Ones Using Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stand-out-on-google-the-ultimate-thumbnail-font-guide/"><u>In 2024, Stand Out on Google The Ultimate Thumbnail Font Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-big-with-prime-day-aftermath-the-latest-apple-ipad-gen-10-sets-at-a-steal-for-just-299-coverage-by-zdnet/"><u>Score Big with Prime Day Aftermath: The Latest Apple iPad Gen 10 Sets at a Steal for Just $299 | Coverage by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-the-newly-discounted-299-10gen-apple-ipad-in-post-prime-day-blowout-deal-tech-insights/"><u>Snag the Newly Discounted $299 10Gen Apple iPad in Post-Prime Day Blowout Deal | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-not-detected-dilemma-a-comprehensive-guide/"><u>Solving the 'core.dll Not Detected' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-no-audio-device-installed-issue-on-your-windows-pc/"><u>Solving the 'No Audio Device Installed' Issue on Your Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-affordable-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Affordable Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-compact-tablets-comprehensive-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Compact Tablets - Comprehensive Reviews by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-passage-into-the-marvel-cosmos-experience-with-apple-vision-pro-latest-update/"><u>Unlock Your Passage Into the Marvel Cosmos: Experience with Apple Vision Pro – Latest Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-were-my-im-messages-undelivered-yesterday-discover-the-reasons-on-zdnet/"><u>Why Were My IM Messages Undelivered Yesterday? Discover the Reasons on ZDNet</u></a></li>
 </ul></div>
 

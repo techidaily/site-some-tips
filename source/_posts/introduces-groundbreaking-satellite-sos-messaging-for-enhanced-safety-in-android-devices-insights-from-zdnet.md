@@ -1,7 +1,7 @@
 ---
 title: Introduces Groundbreaking Satellite SOS Messaging for Enhanced Safety in Android Devices | Insights From ZDNet
-date: 2025-01-16T23:48:01.986Z
-updated: 2025-01-17T23:48:36.880Z
+date: 2025-01-22T17:57:23.679Z
+updated: 2025-01-24T17:15:51.876Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,19 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[New] 2024 Approved Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>[Updated] Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alibabas-innovation-in-e-commerce-harnessing-the-power-of-generative-ai-to-level-the-playing-field-for-smes-explored-by-zdnet/"><u>Alibaba's Innovation in E-Commerce: Harnessing the Power of Generative AI to Level the Playing Field for SMEs - Explored by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automation-steps-up-where-human-labor-falters-preparing-for-a-potential-economic-downturn/"><u>Automation Steps Up Where Human Labor Falters - Preparing for a Potential Economic Downturn?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-moms-business-in-just-10-seconds-on-social-platforms-insights-from-zdnet/"><u>Boosting Mom's Business in Just 10 Seconds on Social Platforms - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evaluating-the-authenticity-of-temu-a-comprehensive-pre-order-guide-insights-from-zdnet/"><u>Evaluating the Authenticity of Temu: A Comprehensive Pre-Order Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exceptional-update-from-southwest-great-news-for-most-not-so-much-for-the-tech-tycoon-bill-gates/"><u>Exceptional Update From Southwest: Great News for Most; Not So Much for the Tech Tycoon Bill Gates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-emerging-companies-can-utilize-ai-innovations-for-a-strong-market-entry-insights-from-zdnet-analysis/"><u>How Emerging Companies Can Utilize AI Innovations for a Strong Market Entry – Insights From ZDNet Analysis</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-z-fold-5-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy Z Fold 5 Data? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-turn-youtube-live-feeds-into-mp3-with-online-tools-2023/"><u>In 2024, Turn YouTube Live Feeds Into MP3 with Online Tools 2023</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-skype-chorus-select-websites-for-rhythmic-calls/"><u>The Skype Chorus Select Websites for Rhythmic Calls</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/top-3-free-tools-for-effortlessly-moving-iphone-pictures-to-your-computer/"><u>Top 3 FREE Tools for Effortlessly Moving iPhone Pictures to Your Computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-expert-tips-for-utilizing-luts-within-adobe-after-effects-for-2024/"><u>[New] Expert Tips for Utilizing LUTs Within Adobe After Effects for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-action-replay-compare-gopros-hero5-black-and-session/"><u>[Updated] Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aerial-innovations-explained-drone-technology-simplified/"><u>[Updated] Aerial Innovations Explained Drone Technology Simplified</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-directscreen-a-streamlined-windows-recorder/"><u>[Updated] In 2024, DirectScreen A Streamlined Windows Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-premium-fabric-collection-launches-exclusive-beats-case-series-insights-from-zdnet/"><u>Apple Discontinues Premium Fabric Collection, Launches Exclusive Beats Case Series: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-tv-experience-with-the-new-airtag-compatible-remote-accessory/"><u>Enhance Your Apple TV Experience with the New AirTag-Compatible Remote Accessory!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-privacy-in-virtual-reality-why-a-vpn-is-crucial-for-users-of-the-vision-pro-and-similar-xr-devices-expert-tips-by-zdnet/"><u>Enhancing Privacy in Virtual Reality: Why a VPN Is Crucial for Users of the Vision Pro and Similar XR Devices - Expert Tips by ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expertly-record-your-win11-display/"><u>In 2024, Expertly Record Your Win11 Display</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-huawei-p60-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Huawei P60 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-how-the-microsoft-surface-pro-8-meets-enterprise-needs-featured/"><u>In-Depth Analysis: How the Microsoft Surface Pro 8 Meets Enterprise Needs, Featured</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-worth-the-upgrade-explore-your-options-with-insights/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Worth the Upgrade? Explore Your Options with Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-privacy-on-ios-turn-off-the-discoverability-feature-in-apple-journal/"><u>Protecting Privacy on iOS - Turn Off the Discoverability Feature in Apple Journal</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sneaky-storage-solutions-zip-archives-in-image-files-win11/"><u>Sneaky Storage Solutions: ZIP Archives in Image Files (Win11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-for-icloud-note-integration-on-ubuntu-fedora-and-more/"><u>Step-by-Step Tutorial for iCloud Note Integration on Ubuntu, Fedora & More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-iphone-durability-exploring-the-enhanced-repair-capabilities-of-iphone-16-as-reported-by-zdnet/"><u>The Evolution of iPhone Durability: Exploring the Enhanced Repair Capabilities of iPhone #16 as Reported by ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion-for-2024/"><u>The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-iphone-models-of-2024-expert-insights-and-detailed-analysis/"><u>Ultimate Guide to the Best iPhone Models of 2024: Expert Insights & Detailed Analysis</u></a></li>
 </ul></div>
 

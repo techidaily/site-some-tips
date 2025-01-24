@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Unwanted Messages: A Simple Guide to Halting Spam Texts on iOS Devices | TechToday"
-date: 2025-01-12T04:27:10.204Z
-updated: 2025-01-18T08:54:33.480Z
+date: 2025-01-21T16:33:26.903Z
+updated: 2025-01-24T19:34:52.122Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The good news is that you can stop these text messages using a feature already i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
@@ -43,7 +39,7 @@ Tap on Messages to access the settings for your Messages app.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
@@ -55,10 +51,6 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -82,6 +74,10 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I stop spam calls on iPhone?
@@ -100,7 +96,7 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
@@ -113,7 +109,7 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -130,6 +126,10 @@ If you keep getting messages from the same sender after reporting them, you can 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,24 +167,16 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-becoming-an-instagram-editor-extraordinaire/"><u>[New] 2024 Approved Becoming an Instagram Editor Extraordinaire</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-directors-guide-mastering-character-driven-narratives/"><u>[New] 2024 Approved Directors' Guide Mastering Character-Driven Narratives</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-record-desktop-on-windows-8-effortlessly/"><u>[New] How To Record Desktop on Windows 8 Effortlessly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-undercover-guide-to-enhancing-your-window-11-experience-for-2024/"><u>[New] The Undercover Guide to Enhancing Your WINDOW 11 Experience for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-visual-templates-to-upgrade-your-profile/"><u>[Updated] In 2024, Free Visual Templates to Upgrade Your Profile</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-audio-dramatic-works/"><u>[Updated] Pinnacle Audio-Dramatic Works</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-list-of-free-cross-platform-uhd-software-for-windows-for-2024/"><u>[Updated] Ultimate List of Free, Cross-Platform UHD Software for Windows for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-proficiency-vs-enhanced-skills-determining-key-attributes-employers-value-for-future-roles/"><u>AI Proficiency Vs. Enhanced Skills: Determining Key Attributes Employers Value for Future Roles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-trio-mastering-the-top-3-languages-for-your-future-in-coding-careers-insights-from-zdnet/"><u>Essential Trio: Mastering the Top 3 Languages for Your Future in Coding Careers - Insights From ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-k70-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi K70 Pro FRP Locks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-embracing-artificial-intelligence-and-rust-in-development-why-the-linux-kernel-reigns-supreme-cyberworld-news/"><u>Linus Torvalds on Embracing Artific#ial Intelligence and Rust in Development: Why The Linux Kernel Reigns Supreme | CyberWorld News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-metas-leap-from-basic-forecasting-to-complex-strategic-play-with-genai-the-next-move-in-tech-insights-by-zdnet/"><u>Navigating Meta's Leap From Basic Forecasting to Complex Strategic Play with GenAI: The Next Move in Tech | Insights by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-boom-of-low-code-and-no-code-markets-predicts-transformation-in-technology-employment/"><u>The Boom of Low-Code and No-Code Markets Predicts Transformation in Technology Employment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-challenges-and-risks-behind-googles-ai-powered-video-avatar-creation-for-vloggers-unveiling-the-issues/"><u>The Challenges and Risks Behind Google's AI-Powered Video Avatar Creation for Vloggers - Unveiling the Issues</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-foremost-techniques-for-transforming-seminars-into-videos/"><u>The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-roadmap-for-ai-adoption-in-enterprises-a-three-to-five-year-forecast-by-intel-zdnet-analysis/"><u>The Roadmap for AI Adoption in Enterprises: A Three to Five Year Forecast by Intel | ZDNet Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-personalized-learning-how-ai-will-revolutionize-education-by-your-fingertips-insights-from-zdnet/"><u>Unlocking Personalized Learning: How AI Will Revolutionize Education by Your Fingertips - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-explores-openais-game-changing-gpt-4-mini-a-cost-effective-solution-for-your-app-needs/"><u>ZDNet Explores OpenAI's Game-Changing GPT-4 Mini: A Cost-Effective Solution for Your App Needs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-securing-comfort-in-vr-experiences/"><u>[New] Securing Comfort in VR Experiences</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-demystified-for-passionate-creators-and-viewers/"><u>[Updated] 2024 Approved Vimeo Demystified For Passionate Creators & Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-windows-artistry-nine-top-tools-for-animated-gif-preservation/"><u>[Updated] In 2024, Mastering Windows Artistry Nine Top Tools for Animated GIF Preservation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discerning-real-from-pretend-a-users-handbook-to-detecting-counterfeit-social-links/"><u>Discerning Real From Pretend: A User's Handbook to Detecting Counterfeit Social Links</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-starfield-ultimate-guide-to-fixing-pc-game-crashes-effectively/"><u>How To Stabilize Starfield: Ultimate Guide to Fixing PC Game Crashes Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-release-pros-and-cons-of-upgrading-insights-from-zdnet-experts/"><u>IPhone 16 Release: Pros & Cons of Upgrading - Insights From ZDNet Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quintessential-storylines-dominating-film-landscapes/"><u>Quintessential Storylines Dominating Film Landscapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/say-goodbye-to-the-iphone-13-and-15-pro-series-expert-guide-on-next-gen-smartphones-to-purchase/"><u>Say Goodbye to the iPhone 13 & 15 Pro Series – Expert Guide on Next-Gen Smartphones to Purchase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-amazing-christmas-sales-on-apples-airpods-find-your-perfect-price-zdnet/"><u>Top 7 Amazing Christmas Sales on Apple's AirPods: Find Your Perfect Price - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-picks-the-ultimate-roundup-of-the-finest-apps-and-games-for-202eighty-three-discover-the-must-have-selections/"><u>Top Apple Picks: The Ultimate Roundup of the Finest Apps & Games for 202Eighty-Three - Discover the Must-Have Selections!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-animated-magic-happen-top-5-online-stop-motion-makers/"><u>Updated 2024 Approved Make Animated Magic Happen Top 5 Online Stop Motion Makers</u></a></li>
 </ul></div>
 

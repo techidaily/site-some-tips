@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2025-01-15T18:07:02.578Z
-updated: 2025-01-18T02:45:59.810Z
+date: 2025-01-20T16:53:04.551Z
+updated: 2025-01-24T18:06:53.633Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-bypassing-barriers-privately-share-youtube-video-via-google/"><u>[Updated] Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] In 2024, Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-seamless-iphone-to-iphone-data-transfer-without-using-icloud/"><u>1. Seamless iPhone-to-iPhone Data Transfer Without Using iCloud</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-integrates-grubhub-for-seamless-meal-delivery-get-tasty-takeout-today/"><u>Amazon Integrates Grubhub for Seamless Meal Delivery - Get Tasty Takeout Today!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/can-you-trust-tiktok-shopping-experiences-a-positive-purchase-story-revealed-by-zdnet/"><u>Can You Trust TikTok Shopping Experiences? A Positive Purchase Story Revealed by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-newly-released-whatsapp-channels-feature-across-specific-countries-in-depth-tutorial-zdnet-technology-insights/"><u>Exploring the Newly Released WhatsApp Channels Feature Across Specific Countries - In-Depth Tutorial | ZDNet Technology Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guida-istantanea-creare-una-slow-motion-masterpiece-su-android-con-semplici-4-fasi-scatti-di-movavi/"><u>Guida Istantanea: Creare Una Slow-Motion Masterpiece Su Android Con Semplici 4 Fasi - Scatti Di Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-effortlessly-update-your-hp-envy-5660s-system-with-the-latest-drivers/"><u>How to Effortlessly Update Your HP Envy 5660'S System with the Latest Drivers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-c65-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco C65</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-garmins-ultra-30-action-camera-revealed-in-full-detail/"><u>In 2024, Garmin's Ultra 30 Action Camera Revealed in Full Detail</u></a></li>
-<li><a href="https://some-tips.techidaily.com/samsung-galaxy-s22-and-s22plus-face-off-with-iphone-13-detailed-specs-and-performance-metrics-zdnet/"><u>Samsung Galaxy S22 & S22+ Face-Off with iPhone 13: Detailed Specs and Performance Metrics | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-access-to-events-and-services-using-google-wallets-new-pass-feature-your-ultimate-how-to-nexttechtrends/"><u>Streamline Access to Events and Services Using Google Wallet's New Pass Feature: Your Ultimate How-To | NextTechTrends</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-television-into-a-social-media-platform-with-new-youtube-functionality-watch-and-buy/"><u>Transform Your Television Into a Social Media Platform with New YouTube Functionality: Watch & Buy!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-cross-site-savings-with-amazon-prime-rewards-a-comprehensive-strategy-for-online-shoppers-techradar/"><u>Unlock Cross-Site Savings with Amazon Prime Rewards - A Comprehensive Strategy for Online Shoppers | TechRadar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-join-the-fortune-changing-club-free-50-banners-await/"><u>[New] 2024 Approved Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-bring-your-imagination-to-life-using-cartoony-filters-in-snapchat/"><u>[New] In 2024, Bring Your Imagination to Life Using Cartoony Filters in Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll/"><u>[New] In 2024, Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-seamless-mp4-extraction-your-fb-video-fix/"><u>[New] In 2024, Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-of-the-best-android-calls-with-more-than-just-two-for-2024/"><u>[Updated] Best of the Best Android Calls with More Than Just Two for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/access-apple-vision-pro-beta-features-early-via-testflight-detailed-instructions-inside/"><u>Access Apple Vision Pro Beta Features Early via TestFlight – Detailed Instructions Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-dvd-drive-software-download-latest-drivers-available/"><u>ASUS DVD Drive Software Download: Latest Drivers Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-text-limit-characterswords-counted/"><u>ChatGPT's Text Limit: Characters/Words Counted?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-latest-enhancements-top-4-new-features-in-updated-airpod-models/"><u>Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fixing-overencoded-obs-videos/"><u>In 2024, Fixing Overencoded OBS Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-on-a-new-ipad-at-only-199-in-the-exclusive-amazon-labor-day-discount-event-insights/"><u>Save Big on a New iPad at Only $199 in the Exclusive Amazon Labor Day Discount Event - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/skyrocket-your-apple-watch-battery-performance-with-these-simple-8-adjustments-zdnet-insights/"><u>Skyrocket Your Apple Watch Battery Performance with These Simple 8 Adjustments | ZDNET Insights</u></a></li>
 </ul></div>
 

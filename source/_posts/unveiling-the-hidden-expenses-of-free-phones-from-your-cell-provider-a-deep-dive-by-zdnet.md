@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Expenses of 'Free' Phones From Your Cell Provider - A Deep Dive by ZDNet
-date: 2025-01-11T00:52:28.455Z
-updated: 2025-01-17T16:53:48.865Z
+date: 2025-01-17T18:36:50.519Z
+updated: 2025-01-24T20:22:54.439Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ You might be offered a higher-than-expected trade-in value for your current phon
 
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need to add a line to qualify?
 
 Many of these promos require you to add a new line of service or port in an existing number. That's fine if you're changing carriers. It's not a good option if you already have all the lines you need, because that new line is almost certainly going to cost you more than the credits you'll get to pay for the new phone.
@@ -61,12 +65,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
 
@@ -75,16 +83,12 @@ The carrier is offering that phone at a discount because they want to lock you i
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
 
@@ -97,10 +101,6 @@ As an inducement for you to switch, some carriers will offer to reimburse you fo
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
 
@@ -140,24 +140,20 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-photo-pinnacle-insta-coverage-excellence-on-ios-and-android-for-2024/"><u>[New] Photo Pinnacle Insta Coverage Excellence on iOS & Android for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-laughs-at-your-service-web-for-2024/"><u>[Updated] Laughs at Your Service (Web) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-samsung-vs-lg-battle-of-360-degree-cameras-for-2024/"><u>[Updated] Samsung Vs LG Battle of 360-Degree Cameras for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advanced-aws-lake-formation-customization-now-available-via-amazon-services/"><u>Advanced AWS Lake Formation Customization Now Available via Amazon Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancing-interaction-quality-with-ai-unveiling-adobes-strategy-in-customer-experience-enhancement-via-generative-technologies-featured-on-zdnet/"><u>Advancing Interaction Quality with AI: Unveiling Adobe's Strategy in Customer Experience Enhancement via Generative Technologies | Featured on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/agnes-ro-explores-the-transforming-landscape-of-development-at-atlassian-insights-from-zdnet/"><u>Agnes Ro Explores the Transforming Landscape of Development at Atlassian - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-web-services-elevates-connectivity-with-new-on-premise-5g-solution-launched-at-reinvent-2021-zdnet-insights/"><u>Amazon Web Services Elevates Connectivity with New On-Premise 5G Solution Launched at Re:Invent 2021 | ZDNet Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-vrchat-solutions-when-it-wont-load-or-work/"><u>Fixing VRChat: Solutions When It Won't Load or Work</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-c55-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco C55 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-quadro-rtx-4000-graphics-card-driver-updates-free-download/"><u>Latest NVIDIA Quadro RTX 4000 Graphics Card Driver Updates: Free Download</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsoft-expands-into-iot-as-google-retreats-from-service-market-insights-zdnet/"><u>Microsoft Expands Into IoT as Google Retreats From Service Market - Insights | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/months-of-data-vanished-uncovering-the-crisis-among-google-drive-subscribers-tech-innovator-insights/"><u>Months of Data Vanished: Uncovering the Crisis Among Google Drive Subscribers | Tech Innovator Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revive-lost-data-discover-how-googles-new-update-can-restore-missing-files-from-your-local-drive-insights-from-zdnet/"><u>Revive Lost Data: Discover How Google's New Update Can Restore Missing Files From Your Local Drive - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/securekey-assessment-utility-ensuring-robustness-of-your-secret-keys-with-professional-analysis/"><u>SecureKey Assessment Utility: Ensuring Robustness of Your Secret Keys with Professional Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-monitors-for-ps5-and-xbox-newcomers-full-comparison-guide/"><u>The Best Monitors for PS5 and Xbox Newcomers - Full Comparison Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-journey-of-making-it-big-with-ai-securing-spots-in-top-music-platforms/"><u>The Journey of Making It Big with AI: Securing Spots in Top Music Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-rated-safe-platforms-for-free-pc-gaming-downloads/"><u>The Ultimate List of Top-Rated Safe Platforms for FREE PC Gaming Downloads!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-insights-from-the-paris-olympic-data-to-reduce-energy-consumption-in-future-games-analysis/"><u>Utilizing Insights From the Paris Olympic Data to Reduce Energy Consumption in Future Games - Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-isolated-viewers-to-shared-experiences-online-for-2024/"><u>[New] From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-forecasting-facebooks-video-trajectory-with-a-focus-on-brevity/"><u>[Updated] In 2024, Forecasting Facebook's Video Trajectory with a Focus on Brevity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-instant-techniques-chaotic-ordering-of-youtube-tracks/"><u>[Updated] In 2024, Instant Techniques Chaotic Ordering of YouTube Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-alternatives-at-a-glance-choosing-the-best-platforms/"><u>[Updated] YouTube Alternatives at a Glance Choosing the Best Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>2024 Approved Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/campionari-di-software-libero-per-correggere-i-prezzi-nel-settecento-ventiquattro-top-pick/"><u>Campionari Di Software Libero per Correggere I Prezzi Nel Settecento Ventiquattro - Top Pick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-bargain-apple-unveils-budget-friendly-m2-mac-mini-at-a-record-low-479/"><u>Discover the Bargain: Apple Unveils Budget-Friendly M2 Mac Mini at a Record Low $479</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-look-the-top-smartphones-preferred-by-zdnet-experts-testing-and-review/"><u>Exclusive Look: The Top Smartphones Preferred by ZDNet Experts - Testing and Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-professional-slideshow-resources-for-entrepreneurs-for-2024/"><u>Free Professional Slideshow Resources for Entrepreneurs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-ios-update-in-iphones-could-expose-you-learn-to-hide-your-device-from-unwanted-attention/"><u>How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-with-the-multifunctional-macbook-stand-and-charger-bundle-at-just-102-exclusive-offer/"><u>Save Big with the Multifunctional MacBook Stand & Charger Bundle at Just $102 - Exclusive Offer !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/siris-smart-leap-forward-with-new-apple-intelligence-key-updates-slated-for-aturth-unveiled-on-zdnet/"><u>Siri's Smart Leap Forward with New Apple Intelligence; Key Updates Slated for Aturth | Unveiled on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-nomad-case-with-magsafe-compatibility-and-stunning-designs-for-your-apple-iphone-13-durable-drop-protection-guaranteed/"><u>Top-Rated Nomad Case with MagSafe Compatibility & Stunning Designs for Your Apple iPhone 13 - Durable Drop Protection Guaranteed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-2024-macbook-companion-devices-professional-insights-and-ratings-cnet/"><u>Ultimate 2024 MacBook Companion Devices: Professional Insights and Ratings | CNET</u></a></li>
 </ul></div>
 
