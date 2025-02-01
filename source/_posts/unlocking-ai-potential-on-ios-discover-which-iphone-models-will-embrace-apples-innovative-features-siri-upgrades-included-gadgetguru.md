@@ -1,7 +1,7 @@
 ---
 title: "Unlocking AI Potential on iOS: Discover Which iPhone Models Will Embrace Apple’s Innovative Features, Siri Upgrades Included | GadgetGuru"
-date: 2025-01-19T17:51:36.566Z
-updated: 2025-01-24T19:04:41.341Z
+date: 2025-01-28T02:39:26.044Z
+updated: 2025-02-01T05:48:02.891Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -59,10 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,6 +71,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -90,6 +86,10 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -104,7 +104,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -119,6 +119,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -130,6 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -147,10 +155,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,24 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-drive-sales-through-smart-use-of-snapchats-tools/"><u>[New] Drive Sales Through Smart Use of Snapchat's Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-essential-listing-windowsmac-os-x-users-4k-playback-tools-for-2024/"><u>[Updated] Essential Listing Windows/Mac OS X Users - 4K Playback Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-mastering-igtv-content-creation/"><u>[Updated] In 2024, The Ultimate Guide to Mastering IGTV Content Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-smartscreen-capture-v11-professional/"><u>[Updated] SmartScreen Capture V11 Professional</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-top-rated-vpn-services-for-macos-in-depth-analysis-and-recommendations-techradar/"><u>1. Top-Rated VPN Services for macOS: In-Depth Analysis & Recommendations - TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/coding-mavericks-unite-apple-enhances-developer-toolkit-with-gratis-ai-upgrade-discover-more-on-zdnet/"><u>Coding Mavericks Unite! Apple Enhances Developer Toolkit with Gratis AI Upgrade - Discover More on ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-silent-speakers-expert-advice-on-car-sound-problems/"><u>Diagnosing Silent Speakers: Expert Advice on Car Sound Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-top-ipados-18-innovation-that-could-persuade-you-to-choose-apples-device-right-now-insights-from-wwdc-2024/"><u>Discover the Top iPadOS 18 Innovation That Could Persuade You to Choose Apple's Device Right Now - Insights From WWDC 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-the-ultimate-durability-in-apples-popular-iphone-cases-with-innovative-safety-elements-zdnet-insights/"><u>Discovering the Ultimate Durability in Apple’s Popular iPhone Cases with Innovative Safety Elements - ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-the-new-ios-181-preview-version-featuring-enhanced-apple-ai-capabilities-get-your-access-today/"><u>Download the New IOS 18.1 Preview Version Featuring Enhanced Apple AI Capabilities – Get Your Access Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-methods-for-downloading-your-history-from-chatgpt-platform/"><u>Effective Methods for Downloading Your History From ChatGPT Platform</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-11-pro-max-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 11 Pro Max Location | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-ipad-pro-boosting-efficiency-in-your-work-from-home-setup-techradar/"><u>Mastering the iPad Pro: Boosting Efficiency in Your Work-From-Home Setup | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/prime-day-bargain-alert-find-the-best-deals-on-leading-laptop-brands-such-as-hp-and-apple-for-less-insider-tips-by-zdnet/"><u>Prime Day Bargain Alert: Find the Best Deals on Leading Laptop Brands Such as HP and Apple for Less | Insider Tips by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-a-deal-grab-your-new-ipad-for-only-199-at-amazons-labor-day-discount-extravaganza-featured-on-zdnet/"><u>Score a Deal: Grab Your New iPad for Only $199 at Amazon's Labor Day Discount Extravaganza – Featured on ZDNet!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secrets-to-acquiring-and-setting-up-an-apple-vision-pro-for-enhanced-face-id-scanning-professional-hacks-revealed-by-zdnet/"><u>Secrets to Acquiring and Setting Up an Apple Vision Pro for Enhanced Face ID Scanning: Professional Hacks Revealed by ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-your-files-during-boot-issues-mastering-file-sharing-in-windows-safe-mode/"><u>Secure Your Files During Boot Issues: Mastering File Sharing in Windows Safe Mode</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-editing-and-cropping-images-within-a-pdf-file-on-your-windows-computer/"><u>Step-by-Step Guide: Editing and Cropping Images Within a PDF File on Your Windows Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-tarkov-error-code-103003/"><u>Troubleshooting Guide: Resolving Tarkov Error Code 103003</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-finding-the-right-sound-top-asmrists-advice-for-2024/"><u>[New] Finding the Right Sound Top ASMRists Advice for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-achieve-optimum-stability-incorrances-for-tripods-in-vlog-shoots-for-2024/"><u>[Updated] Achieve Optimum Stability Incorrances for Tripods in Vlog Shoots for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-earnings-expertise-for-youtube-creators-fb-insights-and-tactics/"><u>[Updated] Earnings Expertise for YouTube Creators FB Insights and Tactics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered-in-2024/"><u>[Updated] Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered), In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-master-video-extraction-from-linkedin-using-these-6-choices/"><u>2024 Approved Master Video Extraction From LinkedIn Using These 6 Choices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/co-marketing-mastery-on-youtube-for-brand-growth/"><u>Co-Marketing Mastery on YouTube for Brand Growth</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/gratis-umwandlung-von-wmv-dateien-ins-mp4-format-mit-einer-garantierten-qualitat-von-98/"><u>Gratis Umwandlung Von WMV-Dateien Ins MP4 Format Mit Einer Garantierten Qualität Von 98%</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-agile-practices-clash-with-advanced-ai-techniques-according-to-latest-studies-zdnet/"><u>How Agile Practices Clash with Advanced AI Techniques, According to Latest Studies | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/making-ai-more-accessible-and-functional-unveiling-the-role-of-langchain-in-enhancing-generative-assistants-spotlight-on-tech-by-zdnet/"><u>Making AI More Accessible and Functional: Unveiling the Role of LangChain in Enhancing Generative Assistants | Spotlight on Tech by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-cybersecurity-in-the-linux-world-handling-over-60-vulnerabilities-daily-with-confidence/"><u>Mastering Cybersecurity in the Linux World: Handling Over 60 Vulnerabilities Daily with Confidence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-machine-intelligence-with-kubernetes-latest-version-innovations-for-efficient-ai-deployments/"><u>Mastering Machine Intelligence with Kubernetes' Latest Version – Innovations for Efficient AI Deployments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-agile-landscape-6-key-tenets-for-thriving-software-design-with-proven-results-from-zdnet-insights/"><u>Navigating the Agile Landscape: 6 Key Tenets for Thriving Software Design with Proven Results From ZDNet Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-vcruntime140dll-missing-file-issue-comprehensive-fix-guide/"><u>Resolve Your VCRUNTIME140.dll Missing File Issue - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/resolving-computer-blocked-by-windows-support-alert-effective-solutions-using-malwarefox-tools/"><u>Resolving 'Computer Blocked by Windows Support Alert': Effective Solutions Using MalwareFox Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/suse-elevates-distribution-longevity-offers-unmatched-19-year-support-exclusive-in-linux-world-zdnet/"><u>SUSE Elevates Distribution Longevity, Offers Unmatched 19-Year Support – Exclusive in Linux World | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tackling-chaos-in-linux-and-open-source-manuals-discover-zdnets-strategic-fix-for-clearer-documentation/"><u>Tackling Chaos in Linux & Open-Source Manuals: Discover ZDNet’s Strategic Fix for Clearer Documentation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-remote-cs-programs-ranked-by-us-news-find-your-perfect-match/"><u>Top 10 Remote CS Programs Ranked by U.S. News - Find Your Perfect Match</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-add-wow-factor-to-your-videos-top-free-special-effects-apps/"><u>Updated Add Wow Factor to Your Videos Top Free Special Effects Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/widespread-shim-security-flaw-threatens-numerous-linux-servers-analysis-by-zdnet-reveals/"><u>Widespread Shim Security Flaw Threatens Numerous Linux Servers, Analysis by ZDNet Reveals</u></a></li>
 </ul></div>
 

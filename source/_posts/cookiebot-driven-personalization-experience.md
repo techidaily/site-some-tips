@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Personalization Experience
-date: 2024-09-14T16:17:09.211Z
-updated: 2024-09-17T16:10:08.962Z
+date: 2025-01-28T19:36:57.107Z
+updated: 2025-01-31T23:27:43.764Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f6337924778efc705315343e4f909c.jpg
@@ -49,10 +49,7 @@ Neural network analyzes your gallery and automatically splits photos into seven 
 ![Extract text from scans](https://www.abbyy.com/media/3794/03-features-3-extracttext.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Extract text from scans
@@ -70,6 +67,10 @@ Share your scans with everyone on the go: email, print, or save to cloud storage
 ### Annotate scans
 
 Use our set of easy-to-use tools to modify your PDFs: add your signature or a text box, use highlighter, write with a pen, or conceal sensitive content with the redaction tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What people are saying about us
 
@@ -98,20 +99,21 @@ Today I scanned my document to store in iCloud. With a touch of a button (open u
 
 [![The Webby Awards logo](https://www.abbyy.com/media/2489/01b-webby-grey.png)![The Webby Awards logo](https://www.abbyy.com/media/2490/01-webby-color.png)](http://webbyawards.com/winners/2015/mobilesitesapps/handhelddevices/productivity/finescanner/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Fox Business](https://www.abbyy.com/media/2491/02b-fox-grey.png)![Fox Business](https://www.abbyy.com/media/2492/02-fox-color.png)](http://www.foxbusiness.com/features/2017/10/23/50-best-cloud-services-for-smbs.html)
 
 [![ABBYY FineScanner AI 8 - Smart scanner app to make your remote work easy | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=281738&theme=light)](https://www.producthunt.com/posts/abbyy-finescanner-ai-8?utm%5Fsource=badge-featured&utm%5Fmedium=badge&utm%5Fsouce=badge-abbyy-finescanner-ai-8)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Mobile Village logo](https://www.abbyy.com/media/2495/04b-mobile-star-grey.png)![Mobile Village logo](https://www.abbyy.com/media/2496/04-mobile-star-color.png)](http://www.mobilevillage.com/abbyy-mobile-apps/)
 
 [![Lifehacker logo](https://www.abbyy.com/media/2493/03b-lifehacker-grey.png)![Lifehacker logo](https://www.abbyy.com/media/2494/03-lifehacker-color.png)](http://lifehacker.com/five-best-mobile-document-scanning-apps-1691417781#pd%5Fa%5F8725103)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![PCMag logo](https://www.abbyy.com/media/2497/06b-pcmag-grey.png)![PCMag logo](https://www.abbyy.com/media/2498/06-pcmag-color.png)](https://www.pcmag.com/how-to/how-to-create-and-manage-digital-family-documents)
 
@@ -119,15 +121,16 @@ Today I scanned my document to store in iCloud. With a touch of a button (open u
 
 [![Discovery logo](https://www.abbyy.com/media/2501/08b-discovery-grey.png)![Discovery logo](https://www.abbyy.com/media/2502/08-discovery-color.png)](http://newswatchtv.com/2016/10/21/newswatch-discovery-channel-appwatch-finescanner/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Touchit logo](https://www.abbyy.com/media/2503/09b-touchit-grey.png)![Touchit logo](https://www.abbyy.com/media/2504/09-touchit-color.png)](https://touchit.sk/abbyy-premente-smartfon-na-profesionalny-vreckovy-skener/)
 
 [![Macwelt logo](https://www.abbyy.com/media/2505/10b-macwelt-grey.png)![Macwelt logo](https://www.abbyy.com/media/2506/10-macwelt-color.png)](https://www.macwelt.de/a/test-abbyy-scanapps-mit-texterkennung-fuer-mac-und-ios,3437011)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Business Insider](https://www.abbyy.com/media/2507/11b-business-insider-grey.png)![Business Insider](https://www.abbyy.com/media/2508/11-business-insider-color.png)](http://www.businessinsider.com/productivity-strategy-10-minutes-a-day-2017-6)
@@ -137,10 +140,11 @@ Today I scanned my document to store in iCloud. With a touch of a button (open u
 [![Techradar](https://www.abbyy.com/media/2487/13b-techradar-grey.png)![Techradar](https://www.abbyy.com/media/2488/13-techradar-color.png)](https://www.techradar.com/uk/best/best-document-scanning-apps)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OCR Specification
@@ -543,6 +547,10 @@ Latvian (Fraktur font)_×_ _×_
 
 ![](https://www.abbyy.com/media/2513/bcr-logo-80x80.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ABBYY Business Card Reader
 
 Scan and manage all your business cards and contacts in a flash.
@@ -557,13 +565,6 @@ Visit our Blog for tips, trends & use cases for higher document productivity.
 
 ![9-questions-on-fr_934_400](https://www.abbyy.com/media/4185/9-questions-on-fr_934_400.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![9-questions-on-fr_934_400](https://www.abbyy.com/media/4185/9-questions-on-fr_934_400.png) 
 
 FineReader for Mobile — The Answers to Nine Frequently Asked Questions
@@ -571,6 +572,10 @@ FineReader for Mobile — The Answers to Nine Frequently Asked Questions
 [![seven-tips-for-creating-ideal-scans-cover](https://www.abbyy.com/media/4186/seven-tips-for-creating-ideal-scans-cover.png) ![seven-tips-for-creating-ideal-scans-cover](https://www.abbyy.com/media/4186/seven-tips-for-creating-ideal-scans-cover.png) Seven Tips for Creating Ideal Mobile Scans](https://www.abbyy.com/blog/mobile/seven-tips-for-creating-ideal-scans/) 
 
 [![14323_15_features in 15 minutes_841x360](https://www.abbyy.com/media/3399/14323_15_features-in-15-minutes_841x360.png) ![14323_15_features in 15 minutes_841x360](https://www.abbyy.com/media/3399/14323_15_features-in-15-minutes_841x360.png) 15 Mobile Tips for Digital Transformation in the Legal Industry](https://www.abbyy.com/blog/15-mobile-tips-for-digital-transformation-in-the-legal-industry/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Subscribe to our newsletter
 
@@ -623,5 +628,24 @@ Submit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-capturing-attention-from-content-creation-to-commerce/"><u>[Updated] Capturing Attention From Content Creation to Commerce</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-6-social-media-platforms-for-business/"><u>2024 Approved Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-your-perfect-timepiece-a-comparative-look-at-the-apple-watch-ultra-and-series-8-insights/"><u>Choosing Your Perfect Timepiece: A Comparative Look at the Apple Watch Ultra and Series 8 – Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-on-the-go-effortless-apple-watch-friend-and-family-messaging-guide/"><u>Connecting on the Go: Effortless Apple Watch Friend & Family Messaging Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-updating-your-chromecast-device/"><u>Easy Steps: Updating Your Chromecast Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-100-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor 100 Pro Face Lock?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-revamping-apps-on-macos-with-ease-learn-the-dual-approaches-by-experts-at-zdnet/"><u>Guide to Revamping Apps on macOS with Ease – Learn the Dual Approaches by Experts at ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-modern-warfare-from-freezing-on-your-computer-solutions-implemented-successfully/"><u>How to Stop Modern Warfare From Freezing on Your Computer - Solutions Implemented Successfully</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/live-video-showdown-which-is-superior-virusmixwirecast-for-2024/"><u>Live Video Showdown Which Is Superior, VirusMix/WireCast for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/reliable-platforms-to-gather-video-intro-templates/"><u>Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/novices-nook-the-easiest-mc-dwellings-explored/"><u>Novice's Nook The Easiest MC Dwellings Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-apple-airtags-for-24-less-the-exclusive-walmart-labor-day-offer-discover-savings-on-a-4-pack/"><u>Snag Apple AirTags for $24 Less: The Exclusive Walmart Labor Day Offer - Discover Savings on a 4-Pack!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-watch-savings-the-ultimate-guide-to-the-best-promotions-in-july-2024-spotted/"><u>Top Apple Watch Savings: The Ultimate Guide to the Best Promotions in July 2024 - Spotted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16pro-protectors-of-2024-reviewed-by-tech-gurus/"><u>Top-Rated iPhone 16/Pro Protectors of 2024 Reviewed by Tech Gurus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-2024s-finest-magsafe-wallets-in-depth-analysis-and-expert-opinions-zdnet/"><u>Ultimate List of 2024'S Finest MagSafe Wallets: In-Depth Analysis and Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-iphones-with-new-ai-powered-ios-18-updates-showcased-at-wwdc-2024-exclusive-insights/"><u>Unlocking the Potential of iPhones with New AI-Powered iOS 18 Updates Showcased at WWDC 2024 | Exclusive Insights</u></a></li>
+</ul></div>
 

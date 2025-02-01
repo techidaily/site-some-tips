@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled Sites: Enhance User Experience & Track Visitors Effectively"
-date: 2024-09-20T19:03:49.807Z
-updated: 2024-09-22T18:31:27.304Z
+date: 2025-01-27T02:30:35.456Z
+updated: 2025-02-01T05:06:45.362Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85fbf991174fd2d0ac26c3edd.png
@@ -19,6 +19,10 @@ May 14, 2018
 
 It’s a special ops issue of Mobile Monday as we show you how you can record your phone calls on your iPhone or Android device. Then we’ll share a business card via iMessage and take up jogging to stay fit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **iOS Tip: How to Record a Phone Call**
 
 Sometimes you may want to record your telephone conversation and save it as an audio file for future use. You may need this feature, for example, if you regularly interview people over the phone. You will surely have discovered by now that iOS does not offer any standard tools for recording your phone calls. Luckily, there exist third-party solutions that will do the job. Today, we’ll tell you about two of them (alas, they are not free and cannot be installed locally).
@@ -35,6 +39,10 @@ Using [TapeACall](https://itunes.apple.com/us/app/tapeacall-lite-call-recorder/i
 
 [Callwrite](https://callwrite.ru/)is a call recording service originating from Russia. To record a call, you simply need to add the service as one of the participants. A couple of minutes after the call is ended, you will get a notification saying that the audio of the call is now available to you. The audio file will be stored for 72 hours. To listen to the call again or to download it onto your device as an MP3 file, you must log in to your account select a plan, and pay for the service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Android Tip: How to Record a Phone Call**
 
 What makes Android so versatile is the infinite number of apps on Google Play that can be used to extend its capabilities. Some manufacturers of Android-based devices have already included a call recording feature into their adaptation of the operating system. Here’s our choice of top three call recording apps.
@@ -42,6 +50,10 @@ What makes Android so versatile is the infinite number of apps on Google Play th
 1. [**Automatic Call Recorder**](https://play.google.com/store/apps/details?id=com.appstar.callrecorder)
 
 ![Automatic Call Recorder app android](https://static1.abbyy.com/abbyycommedia/26259/automatic-call-recorder-android.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Besides saving your calls as audio files locally, you can also save them to Dropbox or Google Drive. This is handy if you want to be able to access these files from other devices as well. You can save to 3GP, AMR or WAV.
 
@@ -60,6 +72,10 @@ Unlike the other apps in this review, [Cube Call Recorder ACR](https://play.goog
 By default, Cube Call Recorder ACR will record all calls, but you can add phone numbers to an ignore list.
 
 Please remember to inform the other party that you’re going to record the call.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **ABBYY Tip: iMessage for BCR**
 
@@ -80,13 +96,6 @@ Now when you want to send a business card using iMessage:
 
 The addressee will receive your card in VCF format and will be able to save it directly to their **Contacts**. Nifty!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **App of the week: Does Not Commute**
 
 Does Not Commute is a simple driving strategy that can be very annoying at the beginning, as you will be punished for every bad tap. However, as you get deeper into the game you will become more tolerant of other people on the road.
@@ -96,10 +105,7 @@ Your task is to map routes for several cars within a limited time (you’ll have
 ![App Does Not Commute drive car](https://static1.abbyy.com/abbyycommedia/26263/does-not-commute.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The action takes place in a small town in the 1970s, the townsfolk (i.e. the drivers) have their own quirks, strange hobbies, and skeletons in the cupboard, which you will discover as you progress in the game. Theoretically, you can get to the top level free of charge, but you’ll have to do it in just one try. Or you can pay USD 1.99 to be able to save anywhere at a checkpoint.
@@ -191,10 +197,7 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -259,5 +262,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-beyond-the-norm-redefining-fun-with-vr-technology/"><u>[New] 2024 Approved Beyond the Norm Redefining Fun with VR Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-5-web-video-capturing-technologies/"><u>[New] 2024 Approved Innovative 5 Web Video Capturing Technologies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer-for-2024/"><u>[New] Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-insiders-guide-to-maximizing-ez-grabber-for-2024/"><u>[New] The Insider’s Guide to Maximizing EZ Grabber for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-labor-day-blowout-snag-the-latest-ipad-for-a-unbeatable-price-of-199-cnet-special-offer/"><u>Amazon's Labor Day Blowout: Snag the Latest iPad for a Unbeatable Price of $199 – CNET Special Offer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anticipating-siris-next-wave-of-intelligence-improvements-powered-by-apple-innovations-insights-from-zdnet/"><u>Anticipating Siri's Next Wave of Intelligence Improvements Powered by Apple Innovations | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-launches-airpods-4-with-innovative-find-my-speaker-function-and-usb-c-connectivity-tech-news/"><u>Apple Launches AirPods 4 with Innovative Find My Speaker Function and USB-C Connectivity | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-notebook-showdown-choosing-between-the-m2-and-m3-macbook-air-models/"><u>Apple's Latest Notebook Showdown: Choosing Between the M2 and M3 MacBook Air Models</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chill-peaks-2022-winter-games-moments/"><u>Chill Peaks 2022 Winter Games Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluation-of-the-iphone-14-meeting-adequate-performance-standards-insights/"><u>Evaluation of the iPhone 14: Meeting Adequate Performance Standards - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-gadget-review-top-phones-endorsed-tech-experts/"><u>Exclusive Gadget Review: Top Phones Endorsed Tech Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-choice-8-best-converters-from-sub-to-srt/"><u>Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-essential-techniques-for-adjusting-photo-colors/"><u>In 2024, Quick Tips Essential Techniques for Adjusting Photo Colors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zombie-survival-quest-top-8-game-guide/"><u>In 2024, Zombie Survival Quest - Top 8 Game Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/savvy-savers-for-your-instagram-treasures/"><u>Savvy Savers for Your Instagram Treasures</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-adjusting-your-mouse-configuration-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Mouse Configuration via Windows' Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-bargains-in-july-2024-iphone-discounts-savings-on-apple-watch-and-ipad-offers-explore-the-best-deals/"><u>Top Apple Bargains in July 2024: IPhone Discounts, Savings on Apple Watch & iPad Offers - Explore the Best Deals!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-latest-macos-sonoma-patch-v144-essential-info-pre-update-zdnet/"><u>Understanding the Latest MacOS Sonoma Patch v14.4 - Essential Info Pre-Update | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-value-how-waiting-for-an-ipad-pro-sale-before-prime-day-can-save-you-big-bucks-insights-from-zdnet/"><u>Unlocking the Value: How Waiting for an iPad Pro Sale Before Prime Day Can Save You Big Bucks - Insights From ZDNet</u></a></li>
+</ul></div>
 

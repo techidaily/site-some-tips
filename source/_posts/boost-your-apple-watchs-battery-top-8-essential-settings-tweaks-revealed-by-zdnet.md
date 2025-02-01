@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery: Top 8 Essential Settings Tweaks Revealed by ZDNet"
-date: 2025-01-19T19:27:16.328Z
-updated: 2025-01-24T19:17:42.714Z
+date: 2025-01-29T18:38:08.165Z
+updated: 2025-01-31T23:19:07.192Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -54,10 +50,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -65,6 +57,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,6 +80,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -91,7 +91,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -102,10 +102,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -115,7 +111,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -123,6 +119,10 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,22 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-perfect-your-subtitle-skills-with-this-complete-guide-and-tips/"><u>[New] In 2024, Perfect Your Subtitle Skills with This Complete Guide & Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>[Updated] The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-your-browsing-mastering-firefoxs-pip/"><u>2024 Approved Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-prime-firefox-video-capturing-software/"><u>2024 Approved Prime Firefox Video Capturing Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-gt-5-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme GT 5 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/corporate-evaluation-microsoft-surface-pro-8-a-comprehensive-review/"><u>Corporate Evaluation: Microsoft Surface Pro 8 - A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-california-drivers-can-securely-link-their-ids-to-apple-pay-and-google-wallet-a-step-by-step-guide/"><u>How California Drivers Can Securely Link Their IDs to Apple Pay and Google Wallet - A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/iphone-and-android-sharp-portraits-soft-backdrops-for-2024/"><u>IPhone & Android Sharp Portraits, Soft Backdrops for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-users-welcome-ios-18-release-info-downloading-steps-and-supported-devices-covered-zdnet/"><u>IPhone Users, Welcome: IOS 18 Release Info, Downloading Steps & Supported Devices Covered | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/m3-or-m1-choosing-the-right-apple-laptop-a-comprehensive-review/"><u>M3 or M1: Choosing the Right Apple Laptop? A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-iphone-screen-record-functionality-expert-advice-by-zdnet/"><u>Mastering iPhone Screen Record Functionality: Expert Advice by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-controls-dial-back-speed-settings-windows-1011/"><u>Mastering Mouse Controls: Dial Back Speed Settings Windows 10/11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/prime-8-android-apps-for-multi-person-video-conferencing-for-2024/"><u>Prime 8 Android Apps for Multi-Person Video Conferencing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/showdown-of-smarphones-which-is-better-for-you-googles-pixel-cu6-or-apples-iphone-13-pro-expert-analysis-cnet/"><u>Showdown of Smarphones: Which Is Better for You, Google's Pixel Cu6 or Apple's iPhone 13 Pro? Expert Analysis | CNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-techniques-for-adjusting-tempo-of-tracks-in-spotify/"><u>Superior Techniques for Adjusting Tempo of Tracks in Spotify</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-best-portable-tablets-comprehensive-expert-testing/"><u>The Ultimate Guide to the Best Portable Tablets : Comprehensive Expert Testing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-must-see-tech-enhancements-of-iphone-16-why-now-is-the-perfect-time-for-an-upgrade-discover-with-zdnet/"><u>Unveiling the Must-See Tech Enhancements of iPhone 16: Why Now Is the Perfect Time for an Upgrade | Discover with ZDNET</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/est-youtube-shorts-video-editor-tools-for-ios-and-android-devices/"><u>[New] Best YouTube Shorts Video Editor Tools for iOS & Android Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>[New] Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-buying-smart-key-accessories-for-dynamic-cinematography/"><u>[Updated] In 2024, Buying Smart Key Accessories for Dynamic Cinematography</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-editing-suite-discover-all-features-of-movavi-video-editor/"><u>Comprehensive Editing Suite: Discover All Features of Movavi Video Editor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-collabcanvas-mosaic-magic-on-instagram-devices/"><u>In 2024, CollabCanvas Mosaic Magic on Instagram Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/jim-zemlin-unpacks-the-linux-foundations-approach-to-open-source-success-discoveries-with-zdnet/"><u>Jim Zemlin Unpacks The Linux Foundation's Approach to Open Source Success - Discoveries with ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-your-career-amidst-ai-advancements-tips-from-industry-leaders-featured-on-zdnet/"><u>Mastering Your Career Amidst AI Advancements: Tips From Industry Leaders Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-road-to-open-source-ai-standards-triumphs-and-challenges-explored-zdnet/"><u>Navigating the Road to Open Source AI Standards – Triumphs and Challenges Explored | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-benefits-for-elite-twitch-streamers/"><u>Prime Benefits for Elite Twitch Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rethinking-talent-acquisition-in-technology-the-urgent-need-for-change/"><u>Rethinking Talent Acquisition in Technology: The Urgent Need for Change</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-approach-modern-strategies-in-recruiting-top-technology-professionals-insights-from-zdnet/"><u>Revamping Your Approach: Modern Strategies in Recruiting Top Technology Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smart-intelligent/"><u>Smart - Intelligent</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210609528-9781910231418-the-magic-of-crystals/"><u>The Magic of Crystals | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tidying-up-linux-and-open-source-docs-the-ultimate-fix-revealed/"><u>Tidying Up Linux & Open Source Docs: The Ultimate Fix Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-full-stack-bootcamp-programs-and-insiders-look-inside-find-your-perfect-tech-education-with-zdnet/"><u>Top Full Stack Bootcamp Programs & Insider's Look Inside: Find Your Perfect Tech Education with ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/1732518042286-yl/"><u>YL软件解码：原始广告月份里程碑成功，万到之秘揭晓 - 网络广告专家</u></a></li>
 </ul></div>
 

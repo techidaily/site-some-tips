@@ -1,7 +1,7 @@
 ---
 title: "Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions"
-date: 2024-09-16T16:12:18.460Z
-updated: 2024-09-17T16:01:02.203Z
+date: 2025-01-27T20:18:47.581Z
+updated: 2025-01-31T18:00:36.375Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b3072dcf3b79b657b93df0cfe34.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## From A for ABBYY to Z for the zenith of technology: ABBYY is the best-in-class technology partner of Eucon
 
 06 juin 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Eucon is an expert in the technically correct examination, automated processing and digital management of claims documents. Long-term industry know-how, extensive databases and the latest technologies enable it to offer highly specialised solutions. With ABBYY Capture software, documents are captured, the relevant data is extracted and information is intelligently transferred to the appropriate workflows.
 
@@ -37,6 +45,10 @@ The centralized capture and categorisation of documents with ABBYY solutions ena
 "ABBYY Capture software provides us with the document capture basis for the subsequent design of our machine learning modules. This allows us to offer optimal support for our customer processes in the business areas of insurance and real estate," explains Jörg Niestroj, Director of Research & Development at Eucon Digital GmbH. "ABBYY has impressed us with its excellent recognition rate. The software provides us with outstanding results with respect to document capture. Moreover, adjustments to the underlying rules are very easy. Thanks to the automation and standardisation of processes, our customers can realise significant savings and improve their processes optimally. The result is greater efficiency, transparency and service quality in document processing."  
   
 ![](https://static1.abbyy.com/abbyycommedia/18859/eucon_dokumenten_scan_validierung_video_1500x792px_15.jpg?width=600&height=348)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Eucon processes documents for insurance and real estate companies with ABBYY OCR with a high degree of automation. Source: Eucon Digital GmbH
 
@@ -70,18 +82,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-gopro-hero5-black-vs-hero5-session-for-2024/"><u>[New] GoPro Hero5 Black Vs Hero5 Session for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unpacking-the-necessity-of-instagram-written-verification/"><u>[Updated] Unpacking the Necessity of Instagram’ Written Verification</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-harnessing-the-benefits-with-creative-commons-licenses/"><u>2024 Approved Harnessing the Benefits with Creative Commons Licenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoiding-the-pitfalls-of-upgrading-to-ios-18-on-your-ipad-crucial-insights-before-installation-digital-trends/"><u>Avoiding the Pitfalls of Upgrading to iOS 18 on Your iPad: Crucial Insights Before Installation | Digital Trends</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-google-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Google Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-and-iphone-15-as-apples-foundational-model/"><u>IPhone 16 and iPhone 15 as Apple's Foundational Model</u></a></li>
+<li><a href="https://fox-http.techidaily.com/merging-and-editing-footage-on-iphone/"><u>Merging and Editing Footage on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-music-experience-apple-upgrades-logic-pro-to-feature-ai-collaborators-for-tablet-and-computer-musicians-what-you-need-to-know/"><u>Revolutionize Your Music Experience: Apple Upgrades Logic Pro to Feature AI Collaborators for Tablet and Computer Musicians - What You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-gurus-pcmag/"><u>Top-Rated Waterproof Smartwatches - Comprehensive Reviews by Tech Gurus | PCMag</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316575-9781401920609-transforming-fate-into-destiny/"><u>Transforming Fate Into Destiny | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027850226-dvd/"><u>シンプルな操作でDVDコピーガードを突破してパソコンに取り込む方法</u></a></li>
+</ul></div>
 

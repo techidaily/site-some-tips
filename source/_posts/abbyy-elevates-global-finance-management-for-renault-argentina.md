@@ -1,7 +1,7 @@
 ---
 title: ABBYY Elevates Global Finance Management for Renault Argentina
-date: 2024-09-10T16:11:41.904Z
-updated: 2024-09-17T16:02:08.338Z
+date: 2025-01-26T03:39:20.643Z
+updated: 2025-01-31T16:46:59.716Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Revs Ups Renault Argentina SA’s Global Finance Operations
 
 October 08, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Renault Argentina SA, one of the oldest Renault operations in the world, is using ABBYY Digital Intelligence solutions to revitalize its finance operations. ABBYY completely digitized Renault’s invoice processing which includes complex invoices containing customs and foreign trade details in multiple languages and seamless integration into SAP ERP financial software.
 
@@ -62,12 +70,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlocking-the-secrets-of-instagrams-video-capsule/"><u>[New] 2024 Approved Unlocking the Secrets of Instagram's Video Capsule</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-design-innovators-club-exclusive-free-text-psdfree/"><u>[Updated] In 2024, Design Innovators Club Exclusive Free Text PSDFree</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cafmp3/"><u>限界なしに楽曲をCAFからMP3へ変換 - モバヴィの快適な無料サービス</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-win-for-macbook-users-understanding-apples-payout-plan-under-the-latest-settlement-insights/"><u>A Win for MacBook Users: Understanding Apple's Payout Plan Under the Latest Settlement - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-on-macbook-pro-vs-macbook-air-zdnet/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide on MacBook Pro Vs. MacBook Air | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eliminate-junk-sms-a-quick-guide-for-iphone-users-expert-tips-3-steps/"><u>Eliminate Junk SMS: A Quick Guide for iPhone Users Expert Tips (3 Steps)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-test-results-the-best-alternative-to-apple-and-tiles-wallet-airtags-revealed-on-zdnet/"><u>Exclusive Test Results: The Best Alternative to Apple and Tile's Wallet AirTags Revealed on ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-magnification-methods-for-ios-devices/"><u>Ideal Magnification Methods for iOS Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-google-pixel-8-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Google Pixel 8 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cting-integrity-while-boosting-your-youtube-followers-count/"><u>Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-black-ops-cold-war-error-code-0xc0000005-on-steam/"><u>Resolved: Fixing the 'Black Ops Cold War - Error Code 0xC0000005' On Steam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-game-the-impact-of-pixel-watch-3-on-addressing-key-concerns-in-google-wearables-gadgetflow/"><u>Revolutionizing the Game: The Impact of Pixel Watch 3 on Addressing Key Concerns in Google Wearables | GadgetFlow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-iphone-15-why-it-surpasses-expectations-even-among-experts-zdnet-reviews/"><u>The Ultimate Guide to iPhone 15: Why It Surpasses Expectations, Even Among Experts | ZDNet Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-smartphones-reviews-and-buyers-guide/"><u>Top Kid-Friendly Smartphones - Reviews and Buyer's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-apples-ipad-pro-special-offer-perfect-timing-before-prime-day-techinsights/"><u>Unlocking the Secrets of Apple's iPad Pro Special Offer - Perfect Timing Before Prime Day | TechInsights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung
-date: 2024-09-19T18:36:03.063Z
-updated: 2024-09-22T19:17:41.531Z
+date: 2025-01-26T01:09:50.370Z
+updated: 2025-01-31T22:03:11.685Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565ec0bfaa1522a3466ddc9fcb.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Finanzabteilung von Costain meistert digitale Transformation dank ABBYY-Technologie
 
 3\. Juni 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY, ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, wurde von Costain, einem Unternehmen für intelligente Infrastrukturlösungen, als Technologiepartner für die strategische Digitalisierung des eigenen Finanzbereichs ausgewählt.
 
@@ -67,12 +75,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-add-music-to-ig-story-an-ultimate-guide/"><u>[New] 2024 Approved How to Add Music to IG Story – an Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reveal-and-receive-the-most-exciting-sites-for-buying-mystery-boxes/"><u>[New] Reveal and Receive The Most Exciting Sites for Buying Mystery Boxes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-lgs-advanced-4k-visual-display-for-2024/"><u>[Updated] The Ultimate Guide to LG’s Advanced 4K Visual Display for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-step-by-step-tutorial-setting-up-a-shared-folder-within-your-vmware-environment/"><u>1. Step-by-Step Tutorial: Setting Up a Shared Folder Within Your VMware Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unearthing-the-best-storytelling-channels-yearly-roundup/"><u>2024 Approved Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-breakthrough-preparing-for-a-new-era-with-gpt-4-in-do-it-yourself-ventures/"><u>AI Breakthrough: Preparing for a New Era with GPT-4 in Do-It-Yourself Ventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-assessing-zuckerbergs-insightful-analysis-on-future-tech/"><u>Comparing Meta Quest 3 and Apple Vision Pro - Assessing Zuckerberg's Insightful Analysis on Future Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-apples-chip-evolution-how-the-rise-of-m1-m2-and-m3-affects-your-pc-purchase-insights-for-tech-savvy-consumers/"><u>Decoding Apple's Chip Evolution: How the Rise of M1, M2 & M3 Affects Your PC Purchase - Insights for Tech-Savvy Consumers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/design-humor-in-frames-picgenius-for-2024/"><u>Design Humor in Frames PicGenius for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/recuperacion-gratuita-de-archivos-eliminados-en-una-unidad-flash-sin-software-como-hacerlo/"><u>Recuperación Gratuita De Archivos Eliminados en Una Unidad Flash Sin Software: Cómo Hacerlo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-adding-your-driving-permit-to-apple-wallet-on-your-iphone-compatibility-varies-by-location/"><u>Step-by-Step Guide: Adding Your Driving Permit to Apple Wallet on Your iPhone - Compatibility Varies by Location</u></a></li>
+<li><a href="https://win11.techidaily.com/time-management-for-the-modern-office-top-8-window-timer-apps/"><u>Time Management for the Modern Office: Top 8 Window Timer Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airtag-wallet-selection-comprehensive-review-by-tech-experts/"><u>Top-Rated AirTag Wallet Selection - Comprehensive Review by Tech Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2025-01-17T19:29:18.792Z
-updated: 2025-01-24T17:19:21.758Z
+date: 2025-01-25T03:17:28.470Z
+updated: 2025-02-01T06:14:24.242Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,19 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-step-by-step-to-supercharge-videos-on-snapchat/"><u>[New] Step by Step to Supercharge Videos on Snapchat</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-gif-creation-journey-unveiling-the-ultimate-9-tools-of-memetic-ingenuity/"><u>[New] The GIF Creation Journey Unveiling the Ultimate 9 Tools of Memetic Ingenuity</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/analyzing-google-stadias-potential-areas-to-enhance-and-develop/"><u>Analyzing Google Stadia's Potential: Areas to Enhance and Develop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/androids-finest-moba-battles-compilation-10-edition-for-2024/"><u>Android's Finest MOBA Battles Compilation (#10 Edition) for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-secretive-move-developing-secure-operating-system-for-ai-server-facilities-unveiled/"><u>Apple's Secretive Move: Developing Secure Operating System for AI Server Facilities Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enjoy-fortnite-mobile-once-again-your-guide-to-downloading-and-playing-on-ios-devices-latest-update/"><u>Enjoy Fortnite Mobile Once Again: Your Guide to Downloading and Playing on iOS Devices - Latest Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-iphone-upgraded-to-ios-18-now-which-devices-are-eligible-learn-everything-you-need-to-know-here-according-to-zdnet/"><u>Get Your iPhone Upgraded to IOS 18 Now! Which Devices Are Eligible? Learn Everything You Need To Know Here, According to ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-resolving-post-update-file-disappearances-in-windows-10-and-windows-11-environments/"><u>Guide: Resolving Post-Update File Disappearances in Windows 10 and Windows 11 Environments</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-hottest-meme-accounts-laughter-and-sorrow-sideshow/"><u>Instagram's Hottest Meme Accounts Laughter & Sorrow Sideshow</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-14-vs-iphone-16-pro-four-key-factors-that-keep-me-loyal-to-my-current-device-zdnet/"><u>IPhone 14 Vs. IPhone 16 Pro: Four Key Factors That Keep Me Loyal to My Current Device | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-worth-moving-to-ios-17-an-in-depth-review/"><u>Is It Worth Moving to iOS 17: An In-Depth Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sleek-and-speedy-charge-discover-the-innovative-magsafe-power-solution-that-defies-bulky-aesthetics/"><u>Sleek & Speedy Charge: Discover the Innovative MagSafe Power Solution That Defies Bulky Aesthetics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-perfect-fit-discovering-the-apple-watch-ultra-2-at-an-unbeatable-labor-day-price-a-personal-review/"><u>The Perfect Fit: Discovering the Apple Watch Ultra 2 at an Unbeatable Labor Day Price - A Personal Review</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-4-meta-resources-for-business-success/"><u>The Ultimate 4 Meta Resources for Business Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/thin-is-in-evaluating-the-impact-of-record-breaking-slimness-on-ipads-at-008-inches-a-firsthand-look-at-apples-latest-tech-marvel/"><u>Thin Is In: Evaluating the Impact of Record-Breaking Slimness on iPads at 0.08 Inches – A Firsthand Look at Apple's Latest Tech Marvel</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-notch-june-july-2024-laptop-offers-zdnets-exclusive-selection/"><u>Top-Notch June-July 2024 Laptop Offers - ZDNet's Exclusive Selection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-in-testing-now-at-a-steep-discount-zdnet/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet in Testing Now at a Steep Discount - ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>[Updated] 2024 Approved A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-filming-friends-directly-share-videos-on-twitter/"><u>[Updated] Filming Friends Directly Share Videos on Twitter</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-visuals-with-precision-5-top-tips-for-pros/"><u>[Updated] In 2024, Crafting Visuals with Precision 5 Top Tips for Pros</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-checklist-to-record-web-chats/"><u>[Updated] The Ultimate Checklist to Record Web Chats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>2024 Approved User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-5-linux-operating-systems-tailored-for-software-development/"><u>Discover the Ultimate 5 Linux Operating Systems Tailored for Software Development</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-software-safety-with-ai-githubs-strategy-revealed-dont-skip-fundamentalszdnet-insights/"><u>Enhancing Software Safety with AI: GitHub's Strategy Revealed - Don't Skip Fundamentals![ZDNet Insights]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/happy-joyful/"><u>Happy - Joyful</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-digital-commerce-the-ultimate-guide-to-building-thriving-online-stores-insights-from-zdnet/"><u>Mastering Digital Commerce : The Ultimate Guide to Building Thriving Online Stores | Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-shifts-an-update-on-the-future-of-data-science-and-artificial-intelligence-markets-zdnet/"><u>Navigating Shifts: An Update on the Future of Data Science and Artificial Intelligence Markets | ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mavericks-os-x-mp4-editing-tool-professional-grade-results-for-2024/"><u>New Mavericks OS X MP4 Editing Tool Professional-Grade Results for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-immagini-dng-in-png-senza-costi-con-il-convertitore-online-di-movavi/"><u>Trasforma Immagini DNG in PNG Senza Costi Con Il Convertitore Online Di Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-x-flip-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo X Flip? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

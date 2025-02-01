@@ -1,7 +1,7 @@
 ---
 title: ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom
-date: 2024-09-12T16:07:52.295Z
-updated: 2024-09-17T16:02:25.598Z
+date: 2025-01-30T02:21:01.041Z
+updated: 2025-01-31T18:12:07.082Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61fc0122cfbf6ee1f44ab5a17c.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Marks New Partnerships and Expanded Product Portfolio in Q4 2019
 
 February 13, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _The integration of ABBYY Timeline into the portfolio provides ABBYY customers with a robust offering of innovative solutions to fuel their digital transformation initiatives_ 
 
@@ -182,18 +190,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[New] Journey's Best Tools Top 10 VR Peripherals Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-minecraft-survival-shelter-mastery-for-2024/"><u>[New] Minecraft Survival Shelter Mastery for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-haven-the-ultimate-choice-of-memer-text-tools/"><u>[Updated] Humor Haven The Ultimate Choice of Memer Text Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-open-source-templates-transform-your-youtube-channel-for-2024/"><u>[Updated] Open-Source Templates Transform Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-vdx-quickcapture-evaluation-guide-comprehensive-review-for-2024/"><u>[Updated] VDX QuickCapture Evaluation Guide Comprehensive Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-sales-of-watch-series-9-and-ultra-continue-despite-temporary-judicial-halt/"><u>Apple's Sales of Watch Series 9 & Ultra Continue Despite Temporary Judicial Halt</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-5-chrome-os-clipping-utilities-ranked/"><u>Best 5 Chrome OS Clipping Utilities, Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/direct-web-downloads-of-ios-apps-now-possible-for-eu-with-apples-ios-175-beta-update-zdnet/"><u>Direct Web Downloads of iOS Apps Now Possible for EU with Apple's iOS 17.5 Beta Update | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m2-chip-showdown-how-does-it-stack-up-against-m1-in-the-new-mac-mini-and-mac-studio-expert-analysis-from-zdnet/"><u>M2 Chip Showdown: How Does It Stack Up Against M1 in the New Mac Mini and Mac Studio? Expert Analysis From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-energy-efficiency-activating-low-power-mode-on-macos-monterey-a-guide/"><u>Mastering Energy Efficiency: Activating Low Power Mode on macOS Monterey - A Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-file-sharing-for-apple-devices-discover-the-superior-performance-of-winx-mediatrans-in-managing-photos-and-videos-across-pc-iphone-and-ipad/"><u>Seamless File Sharing for Apple Devices: Discover the Superior Performance of WinX MediaTrans in Managing Photos and Videos Across PC, iPhone, and iPad</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/todays-top-social-media-stars-a-look-at-8-hits/"><u>Today's Top Social Media Stars A Look at 8 Hits</u></a></li>
+</ul></div>
 

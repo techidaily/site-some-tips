@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Rise of Textual Analytics: ABBYY Q3 Report Highlights Growing Trends in Content Intelligence"
-date: 2024-09-12T07:20:36.211Z
-updated: 2024-09-13T07:20:36.211Z
+date: 2025-01-25T02:26:16.741Z
+updated: 2025-02-01T03:05:15.571Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190cede197af26c62a5bdec50a.png
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY Q3 2018 Highlights Show Growing Interest for Content Intelligence
@@ -25,16 +22,7 @@ October 11, 2018
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The growing need for organizations to gain artificial intelligence from their processes and use of robotic process automation (RPA) drove third quarter 2018 corporate highlights for ABBYY®, a global provider of content intelligence solutions and services. During the quarter, ABBYY made major product enhancements, formed strategic partnerships with RPA vendors, and appointed key executives in the US and Europe to drive market penetration. Major analyst firms included ABBYY in market reports while ABBYY also developed resources to educate the market on the importance of content intelligence, its complement to RPA and relation to GDPR compliance challenges, and company success stories. This digest contains a few highlights of Q3 2018.  
@@ -219,5 +207,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-elevate-your-social-feed-with-superior-twit-hd-vids/"><u>[Updated] Elevate Your Social Feed with Superior Twit HD Vids</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-uniting-chrome-and-mobile-devices-for-flawless-tiktok-sharing/"><u>[Updated] Uniting Chrome & Mobile Devices for Flawless TikTok Sharing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-5-pro-digital-cameras-for-smooth-twitch-broadcasts/"><u>2024 Approved Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/banish-clutter-from-your-email-forever-using-our-single-straightforward-strategy-say-goodbye-to-multi-account-chaos/"><u>Banish Clutter From Your Email Forever Using Our Single, Straightforward Strategy - Say Goodbye to Multi-Account Chaos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727793627725-choosing-between-the-iphone-14-pro-and-iphone-14-pro-max-a-comprehensive-guide-for-your-next-upgrade-insights-from-zdnet/"><u>Choosing Between the iPhone 14 Pro and iPhone 14 Pro Max: A Comprehensive Guide for Your Next Upgrade - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/class-action-success-eligible-macbook-proprietors-secure-reimbursement-from-apples-settlement-initiative-cnet/"><u>Class Action Success: Eligible MacBook Proprietors Secure Reimbursement From Apple's Settlement Initiative | CNET</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-ahead-of-the-hype-secure-your-apple-watch-series-10-today-with-savings-tips-inside-learn-more-on-zdnet/"><u>Get Ahead of the Hype: Secure Your Apple Watch Series 10 Today with Savings Tips Inside - Learn More on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-can-optimize-vision-pro-for-corporate-triumph-key-upgrades-discussed-on-zdnet/"><u>How Apple Can Optimize Vision Pro for Corporate Triumph: Key Upgrades Discussed on ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ending-invisible-gaming-captures-in-software/"><u>In 2024, Ending Invisible Gaming Captures in Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/redefining-artificer-intelligence-how-apple-is-advancing-the-field-with-room-for-improvement-insights-from-zdnet/"><u>Redefining Artificer Intelligence: How Apple Is Advancing the Field with Room for Improvement - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-your-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Switching Your WhatsApp From Android to iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-nubia-red-magic-9-proplus-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Nubia Red Magic 9 Pro+ to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-to-correct-missing-or-inaccessible-fm20dll-files/"><u>Troubleshooting Steps to Correct Missing or Inaccessible fm20.dll Files</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-10dell/"><u>Windows 10向けDellの回復メモニウム構築ハンズオンガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2025-01-17T19:50:18.841Z
-updated: 2025-01-24T19:42:37.426Z
+date: 2025-01-28T04:33:38.026Z
+updated: 2025-02-01T02:16:52.845Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple
 
@@ -38,7 +34,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -52,13 +48,13 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -66,7 +62,7 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -94,6 +90,10 @@ Let's say you want to convert that JPG to a PNG image. From the sub-menu, click 
 Configuring your converted image in the Finder pop-up.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
 
@@ -145,20 +145,17 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-winning-hearts-gaining-more-likes-on-tiktok-unboxes/"><u>[New] Winning Hearts Gaining More Likes on TikTok Unboxes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-live-broadcasting-on-fb-tips-for-success/"><u>[Updated] 2024 Approved Live Broadcasting on FB Tips for Success</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>[Updated] In 2024, Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-xr-vision-fix-beats-expensive-apple-equivalent-a-revolutionary-solution-showcased/"><u>Affordable XR Vision Fix Beats Expensive Apple Equivalent – A Revolutionary Solution Showcased</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exceptional-advice-premium-ios-tone-makers/"><u>Exceptional Advice Premium iOS Tone Makers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-move-apple-music-playlists-tofrom-youtube-music-for-a-unified-listening-experience-guidance/"><u>How to Move Apple Music Playlists To/From YouTube Music for a Unified Listening Experience Guidance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23+ to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Hot 40 Pro Phone?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-srt-manipulation-a-mac-users-ultimate-guidebook/"><u>In 2024, SRT Manipulation A Mac User's Ultimate Guidebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-evidence-suggests-apple-may-revive-its-abandoned-airpower-mat-with-qi-charging-watch-the-video-gizmodaily/"><u>New Evidence Suggests Apple May Revive Its Abandoned AirPower Mat with Qi Charging - Watch the Video | GizmoDaily</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook-for-2024/"><u>Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/surprising-apple-announcement-leads-to-steep-revelations-uncovering-the-climb/"><u>Surprising Apple Announcement Leads to Steep Revelations: Uncovering the Climb</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmissable-deal-alert-the-apple-watch-se-is-now-just-60-more-making-it-our-crowd-favorite-purchase-this-season-zdnet/"><u>Unmissable Deal Alert! The Apple Watch SE Is Now Just $60 More, Making It Our Crowd-Favorite Purchase This Season | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-at-apples-glowtime-iphone-16-reveals-enhanced-airpods-and-the-next-gen-apple-watch-10-comprehensive-report-on-zdnet/"><u>Unveiling at Apple's 'Glowtime': IPhone 16 Reveals, Enhanced AirPods & The Next-Gen Apple Watch 10 – Comprehensive Report on ZDNET</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/movavimp4aac/"><u>オーディオファイルを自由に変換！- Movaviで、MP4からAACへ無料ダウンロード</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovative-approaches-to-social-media-video-making/"><u>[New] 2024 Approved Innovative Approaches to Social Media Video Making</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-secrets-of-voiced-powerpoint-presentations-for-2024/"><u>[New] Unveiling the Secrets of Voiced PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-social-media-melody-ownership-laws/"><u>[Updated] Social Media Melody Ownership Laws</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-low-code-solutions-enhance-employer-branding-according-to-industry-expertise-on-zdnet/"><u>How Low-Code Solutions Enhance Employer Branding, According to Industry Expertise on ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-150-2023-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia 150 (2023) PC | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ranking-the-leading-10-pixels-for-free-access/"><u>In 2024, Ranking the Leading 10 Pixels for Free Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-controversy-progress-towards-standardizing-open-source-ai-faces-criticism/"><u>Navigating the Controversy: Progress Towards Standardizing Open Source AI Faces Criticism</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-shifts-potential-realignment-in-the-artificial-intelligence-and-data-science-sector/"><u>Navigating the Shifts: Potential Realignment in the Artificial Intelligence & Data Science Sector</u></a></li>
+<li><a href="https://some-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-documentation/"><u>Organizing Chaos: Streamlining Linux & Open Source Documentation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-smart-coding-how-ai-enhances-developer-efficiency-today-moving-past-old-school-automation-methods-insights-from-zdnet/"><u>The Future Is Smart Coding: How AI Enhances Developer Efficiency Today, Moving Past Old-School Automation Methods | Insights From ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-a05s-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel A05s Phone</u></a></li>
 </ul></div>
 

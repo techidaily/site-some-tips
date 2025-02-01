@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit"
-date: 2024-09-12T16:08:44.301Z
-updated: 2024-09-17T16:00:54.942Z
+date: 2025-01-29T21:28:38.146Z
+updated: 2025-01-31T21:54:00.939Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc74fde8e765814f3eec97fd83.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI Summit Helps Businesses to Look Beyond AI Hype
 
 June 07, 2019
 
 ![ABBYY AI Summit at London Tech Week 2019 | ABBYY Blog Post](https://static5.abbyy.com/abbyycommedia/25363/10644_smm_blog_the-ai-summit-helps-businesses-to-look-beyond-ai-hype_blog.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 AI is already delivering real value in business. It is being implemented across all industries and business functions creating unprecedented efficiencies in human productivity. That was also the verdict of a recent [Forbes Insights survey](https://www.forbes.com/insights-intelai/ai-issue-1/) of 300-plus executives, in which 95% believe that AI will play an important role in their responsibilities in the near-future. Among the business benefits from AI most-cited by corporate leaders are: increased productivity (40%), reduced operating costs (28%), improved speed to market (21%) and transformed business and operating models (20%).
 
@@ -30,6 +38,10 @@ Business leaders looking to accelerate their digital transformation initiatives 
 To accelerate business processes and get a stronger foothold in markets already crowded with competitors, a growing number of business leaders are looking at AI-powered cognitive automation platforms like ABBYY Vantage. Vantage is the next generation Content IQ platform for the enterprise that adds the ability to configure text recognition, machine learning, and artificial intelligence (AI) from within the RPA tools that are used to configure software robots. With the pace of enterprise AI adoption accelerating, most forward-thinking business leaders will converge in London next week to learn more about how Content IQ is helping AI deliver on its promise.
 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") [Enterprise](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -92,12 +104,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-primewave-riders-most-fancied-and-binge-watched-originals-on-twitter/"><u>[New] 2024 Approved PrimeWave Riders Most Fancied & Binge-Watched Originals on Twitter</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneering-the-future-of-video-conferencing-with-google-meet-to-youtube/"><u>[New] Pioneering the Future of Video Conferencing with Google Meet to YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-evaluating-the-financial-giants-mr-beast/"><u>[Updated] In 2024, Evaluating the Financial Giants Mr. Beast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[Updated] In 2024, How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-fundamentals-of-high-impact-asmr-filming-and-editing/"><u>2024 Approved The Fundamentals of High-Impact ASMR Filming & Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-for-extended-battery-life-insights-from-zdnet/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks for Extended Battery Life - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-insight-the-full-picture-of-bublcam-360/"><u>Complete Insight The Full Picture of Bublcam 360</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-analysis-of-android-based-lightroom-software/"><u>Comprehensive Analysis of Android-Based Lightroom Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/despite-apples-claims-is-protecting-your-iphone-with-a-phone-case-really-necessary/"><u>Despite Apple's Claims, Is Protecting Your iPhone with a Phone Case Really Necessary?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-what-your-spouse-means-to-apple-the-intimate-query-behind-the-cutting-edge-vision-pro-sales-strategy/"><u>Discover What Your Spouse Means to Apple: The Intimate Query Behind the Cutting-Edge Vision Pro Sales Strategy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/explore-10-websites-for-unlicensed-gaming-tunes-for-2024/"><u>Explore 10 Websites for Unlicensed Gaming Tunes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-two-premium-nomad-cases-for-the-price-of-one-exclusive-iphones-deal-techspot/"><u>Get Two Premium Nomad Cases for the Price of One – Exclusive iPhones Deal | TechSpot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-setting-up-various-network-configurations-in-macos-for-increased-flexibility-and-reliability-zdnet/"><u>Guide to Setting Up Various Network Configurations in MacOS for Increased Flexibility and Reliability | ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-a60s-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel A60s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-12plus-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme 12+ 5G Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/julys-premier-laptop-discounts-for-savvy-shoppers-unveiling-top-deals-at-zdnet/"><u>July's Premier Laptop Discounts for Savvy Shoppers: Unveiling Top Deals at ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolution-in-development-apples-latest-update-offers-coders-groundbreaking-free-ai-tools/"><u>Revolution in Development: Apple's Latest Update Offers Coders Groundbreaking Free AI Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-magsafe-power-solutions-comprehensive-reviews-by-tech-analysts/"><u>Top-Ranking Magsafe Power Solutions - Comprehensive Reviews by Tech Analysts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-future-of-sound-apple-airpods-get-exciting-upgrades-limited-to-certain-models-zdnet-insider-report/"><u>Unlocking the Future of Sound: Apple AirPods Get Exciting Upgrades, Limited to Certain Models (ZDNet Insider Report)</u></a></li>
+</ul></div>
 

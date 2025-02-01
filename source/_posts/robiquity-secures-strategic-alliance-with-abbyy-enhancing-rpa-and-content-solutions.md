@@ -1,7 +1,7 @@
 ---
 title: Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions
-date: 2024-09-12T07:21:21.022Z
-updated: 2024-09-13T07:21:21.022Z
+date: 2025-01-30T20:16:09.193Z
+updated: 2025-01-31T23:15:38.798Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c02ebc67e636aa7aaaa7e69b.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## RPA Firm Robiquity in Major Partnership Deal with Content IQ Provider ABBYY
@@ -25,10 +22,7 @@ March 12, 2019
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### _The two companies will collaborate technologically to help enterprises digitize their businesses as well as create, deploy and operate their digital workforce platforms_
@@ -95,5 +89,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-3d-modeling-software-to-use-for-animation/"><u>[New] 3D Modeling Software to Use for Animation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aking-monetization-measurable-joining-youtubes-2024-partnership/"><u>[New] Making Monetization Measurable Joining YouTube's 2024 Partnership</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-master-the-art-of-streamlined-screen-recordings-on-mac/"><u>[Updated] 2024 Approved Master the Art of Streamlined Screen Recordings on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-step-by-step-approach-to-perfecting-vlog-soundtracks/"><u>[Updated] A Step-by-Step Approach to Perfecting Vlog Soundtracks</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alert-unauthorized-amazon-transaction-detected-post-prime-day-learn-prevention-tips-a-step-by-step-guide/"><u>Alert: Unauthorized Amazon Transaction Detected Post-Prime Day? Learn Prevention Tips! - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-collecting-classics-without-copyrights/"><u>In 2024, Collecting Classics without Copyrights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-gt-neo-5-se-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme GT Neo 5 SE Without PUK Codes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-visuals-for-effective-pre-and-post-call-teams-conversations/"><u>Optimal Visuals for Effective Pre & Post-Call Teams Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swift-faces-masking-picarts-secret-weapon/"><u>Swift Faces Masking PicArt's Secret Weapon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-disturbing-surveillance-tactics-of-amazon-an-eye-opening-revelation/"><u>Unveiling the Disturbing Surveillance Tactics of Amazon - An Eye-Opening Revelation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mystery-the-true-objective-behind-amazons-gadget-odyssey-from-echo-to-alexa-techinsight/"><u>Unveiling the Mystery: The True Objective Behind Amazon's Gadget Odyssey From Echo to Alexa | TechInsight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-potential-of-free-ai-education-with-amazon-my-inspirational-journey-zdnet-insights/"><u>Unveiling the Potential of Free AI Education with Amazon: My Inspirational Journey | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-gen-z-prefers-shopping-at-walmart-over-apple-surprising-insights-revealed-zdnet/"><u>Why Gen Z Prefers Shopping at Walmart Over Apple - Surprising Insights Revealed! | ZDNet</u></a></li>
+</ul></div>
 

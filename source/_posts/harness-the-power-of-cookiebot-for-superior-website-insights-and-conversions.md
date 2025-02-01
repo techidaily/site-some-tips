@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of Cookiebot for Superior Website Insights & Conversions
-date: 2024-09-14T16:09:36.179Z
-updated: 2024-09-17T16:01:54.035Z
+date: 2025-01-26T17:58:00.164Z
+updated: 2025-02-01T04:22:26.776Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def47629f17026d118c0eda7b469c.png
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Impact of AI on the Legal Profession
 
 ###### Michael Simon
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 November 27, 2018
 
 ![The Impact of AI on the Legal Profession: ABBYY Blog Post #5 of 5 Content Analytics](https://static5.abbyy.com/abbyycommedia/25324/9787e_blog_content-analytics-blog-seriesblog_5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As some of you might know – but most of you probably don’t – I am the lead author (along with three tremendous co-authors from the law firm of [HoganLovells](https://www.hoganlovells.com/)) of a recent article in the Yale Law School Journal of Law and Technology: [Lola V. Skadden](https://yjolt.org/lola-v-skadden-and-automation-legal-profession). Our article looks at the explosive, exponential growth of [Artificial Intelligence (“AI”)](https://www.bernardmarr.com/default.asp?contentID=963) and what the law as a profession along with individual lawyers can – and should – do about it. We’ve done our best in the article, I think, to present both the dangers and opportunities presented by AI to not just the law, but to our society as a whole.
 
@@ -43,11 +51,19 @@ For those just starting out in their legal careers, it’s probably going to tak
 
 ![Mike Simon Attorney](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Michael Simon
 
 Michael Simon is the Principal of Seventh Samurai, an e-Discovery and Information Governance expert consulting firm. As a trial attorney in Chicago, he was an early innovator in using electronic evidence to win cases for his clients. He is an adjunct professor at Michigan State University College of Law (and formerly at Boston University School of Law), teaching classes in e-Discovery. He has advised a number of companies and government agencies on how to best mitigate the risks arising from their information while best optimizing value, and provides strategic consulting for companies in the analytics, security, privacy, and legal technology markets.
 
 Michael is a legal technology thought leader, having made over 100 presentations and written dozens of articles on e-Discovery and legal technology topics, including a book on Internet Law in 2002\. He received his J.D. from Loyola University Chicago School of Law, and his B.A. cum laude from Tufts University.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -110,18 +126,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-leading-live-streaming-services-a-detailed-comparison/"><u>[Updated] 2024 Approved Leading Live Streaming Services A Detailed Comparison</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-upgrading-your-spotify-library-to-youtube-music-access/"><u>[Updated] Upgrading Your Spotify Library to YouTube Music Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-launch-day-apple-vision-pro-previews-office-suite-integration-with-word-and-excel-coverage/"><u>1. 'Launch Day: Apple Vision Pro Previews Office Suite Integration with Word & Excel Coverage'</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/android-enthusiasts-rejoice-discover-why-the-samsung-galaxy-tab-s7-is-a-top-choice/"><u>Android Enthusiasts Rejoice! Discover Why the Samsung Galaxy Tab S7 Is a Top Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/common-lamentations-why-upgrading-to-iphone-ios-18-left-us-wanting-more-shared-experiences/"><u>Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-iphone-16-pro-and-iphone-14-pro-is-it-time-for-an-upgrade/"><u>Comparing iPhone 16 Pro and iPhone 14 Pro: Is It Time for an Upgrade?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-from-afar-mastering-the-art-of-messaging-loved-ones-via-your-apple-watch-insights/"><u>Connecting From Afar: Mastering the Art of Messaging Loved Ones via Your Apple Watch Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-xcom-2-crashes-effective-solutions-for-a-smooth-gameplay-experience-on-windows/"><u>Fixing XCOM 2 Crashes: Effective Solutions for a Smooth Gameplay Experience on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-more-bang-for-your-buck-discover-the-iphone-14plus-a-budget-marvel-with-extended-battery-life-and-unbeatable-features/"><u>Get More Bang for Your Buck: Discover the iPhone 14+ - A Budget Marvel with Extended Battery Life and Unbeatable Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-ai-is-revolutionizing-dating-the-dark-side-of-tech-in-romance-frauds/"><u>How AI Is Revolutionizing Dating: The Dark Side of Tech in Romance Frauds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-move-your-apple-music-playlists-seamlessly-to-and-from-youtube-music-a-step-by-step-guide/"><u>How to Move Your Apple Music Playlists Seamlessly to and From YouTube Music - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/jriver-media-centre-non-microsoft-media-option/"><u>JRiver Media Centre Non-Microsoft Media Option</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-6-pro-versus-iphone-13-pro-the-ultimate-showdown-of-top-tier-smartphones/"><u>Pixel 6 Pro versus iPhone 13 Pro: The Ultimate Showdown of Top-Tier Smartphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/premium-value-experiences-explore-the-best-high-end-gadgets-on-a-budget/"><u>Premium Value Experiences: Explore the Best High-End Gadgets on a Budget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-content-production-with-ios-18-update-a-game-changer-for-iphone-14-users-insights-from-zdnet/"><u>Streamlined Content Production with iOS 18 Update: A Game-Changer for iPhone 14 Users - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-xr21-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia XR21 Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-childrens-tablets-endorsed-by-parents-featured/"><u>Top-Rated Children's Tablets Endorsed by Parents - Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ultimate-collection-of-wireless-charger-picks-for-2e24-professional-evaluation/"><u>Unveiling the Ultimate Collection of Wireless Charger Picks for 2E24: Professional Evaluation</u></a></li>
+</ul></div>
 

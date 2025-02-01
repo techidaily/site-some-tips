@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2025-01-21T18:22:42.059Z
-updated: 2025-01-24T19:42:56.682Z
+date: 2025-01-24T21:15:12.906Z
+updated: 2025-01-31T16:30:15.754Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,19 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-mediasphere-app-user-experience-report/"><u>[New] 2024 Approved MediaSphere App User Experience Report</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-your-watchlist-with-controlled-netflix-frame-rate/"><u>[New] Perfect Your Watchlist with Controlled Netflix Frame Rate</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-androids-superior-hd-vids-discover-the-best-apps-for-2024/"><u>[Updated] Android's Superior HD Vids Discover the Best Apps for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-foundations-selecting-the-right-equipment-for-2024/"><u>[Updated] YouTube Foundations Selecting the Right Equipment for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-much-money-can-you-score-with-youtube-short-videos/"><u>2024 Approved How Much Money Can You Score with YouTube Short Videos?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>2024 Approved Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-right-sidekick-google-pixel-watch-vs-apple-watch-series-9-the-ultimate-comparison-zdnet/"><u>Choosing the Right Sidekick: Google Pixel Watch Vs. Apple Watch Series 9 - The Ultimate Comparison (ZDNet)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/complete-guide-sending-and-receiving-imessage-securely-on-windows-os-techadvice/"><u>Complete Guide: Sending & Receiving iMessage Securely on Windows OS | TechAdvice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-with-loved-ones-using-your-apple-watch-a-step-by-step-guide/"><u>Connecting With Loved Ones Using Your Apple Watch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stand-out-on-google-the-ultimate-thumbnail-font-guide/"><u>In 2024, Stand Out on Google The Ultimate Thumbnail Font Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-big-with-prime-day-aftermath-the-latest-apple-ipad-gen-10-sets-at-a-steal-for-just-299-coverage-by-zdnet/"><u>Score Big with Prime Day Aftermath: The Latest Apple iPad Gen 10 Sets at a Steal for Just $299 | Coverage by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/snag-the-newly-discounted-299-10gen-apple-ipad-in-post-prime-day-blowout-deal-tech-insights/"><u>Snag the Newly Discounted $299 10Gen Apple iPad in Post-Prime Day Blowout Deal | Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-not-detected-dilemma-a-comprehensive-guide/"><u>Solving the 'core.dll Not Detected' Dilemma: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-no-audio-device-installed-issue-on-your-windows-pc/"><u>Solving the 'No Audio Device Installed' Issue on Your Windows PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-affordable-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Affordable Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-compact-tablets-comprehensive-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Compact Tablets - Comprehensive Reviews by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-your-passage-into-the-marvel-cosmos-experience-with-apple-vision-pro-latest-update/"><u>Unlock Your Passage Into the Marvel Cosmos: Experience with Apple Vision Pro – Latest Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-were-my-im-messages-undelivered-yesterday-discover-the-reasons-on-zdnet/"><u>Why Were My IM Messages Undelivered Yesterday? Discover the Reasons on ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transition-smoothly-with-chromes-picture-in-picture/"><u>[New] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-affordable-desktop-recording-solutions-reviewed/"><u>[Updated] In 2024, Affordable Desktop Recording Solutions Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-srt-modification-strategies-for-pc-and-macos/"><u>2024 Approved Advanced SRT Modification Strategies for PC and macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>2024 Approved Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-renewed-popularity-openstack-and-kata-containers-joint-comeback-insights-from-zdnet/"><u>Exploring the Renewed Popularity: OpenStack & Kata Containers' Joint Comeback - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-immortals-fenyx-rising-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-8-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 8 Plus or iPad?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-releases-innovative-maia-100-ai-processor-and-cobalt-core-cpu-what-you-need-to-know/"><u>Microsoft Releases Innovative Maia 100 AI Processor & Cobalt Core CPU: What You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nadph-formation/"><u>NADPH Formation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prevent-future-failures-in-ai-ethics-with-solutions-for-the-humane-ai-pin/"><u>Prevent Future Failures in AI Ethics with Solutions for the Humane AI Pin</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-confidential-onedrive-documents-with-a-private-vault-tips-and-tricks-from-zdnet/"><u>Protecting Confidential OneDrive Documents with a Private Vault: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-crucial-role-of-cloud-security-insights-and-reasons-you-shouldnt-overlook-zdnet/"><u>The Crucial Role of Cloud Security: Insights & Reasons You Shouldn't Overlook (ZDNet)</u></a></li>
 </ul></div>
 

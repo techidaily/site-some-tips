@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2025-01-19T19:21:30.838Z
-updated: 2025-01-24T17:44:06.886Z
+date: 2025-01-28T04:09:33.168Z
+updated: 2025-01-31T17:05:01.504Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -43,6 +43,10 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -55,28 +59,28 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -85,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -161,16 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-copyright-free-online-collections-for-games-for-2024/"><u>[Updated] Copyright-Free Online Collections for Games for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[Updated] In 2024, Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>[Updated] Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-unveiling-the-apple-studio-display-comprehensive-guide-to-specifications-and-innovative-features/"><u>1. Unveiling the Apple Studio Display: Comprehensive Guide to Specifications & Innovative Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-immediate-collage-making-for-social-sharing/"><u>2024 Approved Mastering Immediate Collage Making for Social Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-android-time-lapse-creation/"><u>2024 Approved The Complete Guide to Android Time-Lapse Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/arm-showdown-will-microsoft-edge-out-apple-with-enhanced-windows-performance/"><u>ARM Showdown: Will Microsoft Edge Out Apple with Enhanced Windows Performance?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/macbook-air-m1-at-unbeatable-discount-save-big-and-grab-yours-now-for-only-649-exclusive-deal/"><u>MacBook Air M1 at Unbeatable Discount: Save Big and Grab Yours Now for Only $649 – Exclusive Deal !</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ready-to-embark-with-vision-pros-travel-suite-discover-key-features-and-benefits-first-guide/"><u>Ready to Embark with Vision Pro's Travel Suite? Discover Key Features and Benefits First! Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/trimmed-tech-tutorial-fast-firmware-fixes-for-amd-in-windows/"><u>Trimmed Tech Tutorial: Fast Firmware Fixes for AMD in Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-best-5-free-mpeg-video-joiners/"><u>Updated In 2024, Top Best 5 Free MPEG Video Joiners</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-cost-free-win-10-screencast-solutions-top-5-picks-for-2024/"><u>[New] Cost-Free Win 10 Screencast Solutions Top 5 Picks for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enhance-visibility-youtube-thumbnails-made-simple/"><u>[New] Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>[New] In 2024, Snapchat Savvy Mastering Screen Recordings on Your Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dial-up-your-digital-presence-tips-for-confident-video-creators/"><u>[Updated] In 2024, Dial Up Your Digital Presence Tips for Confident Video Creators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>2024 Approved 20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728496410513-404/"><u>404 キャッチ: 要求されたページの検索に失敗</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-iot-and-edge-devices-with-ubuntu-core-24-the-next-gen-operating-system/"><u>Advancing IoT & Edge Devices with Ubuntu Core 24 - The Next-Gen Operating System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-full-stack-web-dev-bootcamps-revealed-a-comprehensive-guide-by-zdnet/"><u>Best Full Stack Web Dev Bootcamps Revealed: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-iphone-models-compatible-with-ios-18-the-full-list-by-zdnet/"><u>Comprehensive Guide: Upcoming iPhone Models Compatible with iOS 18 - The Full List by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolution-of-conversational-agents-the-roadmap-for-advanced-generative-ai-beyond-chatgpt/"><u>Evolution of Conversational Agents: The Roadmap for Advanced Generative AI Beyond ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-efficiency-with-raspberry-pi-zero-2-ws-latest-upgrade-boosting-speed-by-over-five-times-for-just-15-insights-from-zdnet/"><u>Experience Enhanced Efficiency with Raspberry Pi Zero 2 W's Latest Upgrade, Boosting Speed by Over Five Times for Just $15 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-revival-how-openstack-and-kata-containers-gain-new-traction-in-tech-industry-zdnet/"><u>Exploring the Revival: How OpenStack & Kata Containers Gain New Traction in Tech Industry | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-started-with-devops-on-a-budget-linux-foundations-discounted-training-program-featured-in-zdnet/"><u>Get Started with DevOps on a Budget: Linux Foundation's Discounted Training Program Featured in ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-approach-to-typography-addition-in-ae/"><u>In 2024, A Step-by-Step Approach to Typography Addition in AE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tech-triumphs-10-high-definition-screen-recorder-tools-for-2024/"><u>Tech Triumphs #10 High-Definition Screen Recorder Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-beginner-programmer-positions-launching-careers-in-tech-with-the-right-first-steps/"><u>Top 5 Beginner Programmer Positions: Launching Careers in Tech with the Right First Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-new-potential-meet-the-raspberry-pi-zero-w-a-game-changing-15-board-with-5x-improved-performance-over-its-predecessor-explore-by-zdnet/"><u>Unleashing New Potential: Meet the Raspberry Pi Zero 지오 W, a Game-Changing $15 Board with 5X Improved Performance over Its Predecessor | Explore by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-the-pivotal-first-quarter-for-ai-success-and-sustainability/"><u>ZDNet Explores the Pivotal First Quarter for AI Success and Sustainability</u></a></li>
 </ul></div>
 

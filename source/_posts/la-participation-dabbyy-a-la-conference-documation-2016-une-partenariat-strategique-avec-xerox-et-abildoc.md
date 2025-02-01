@@ -1,7 +1,7 @@
 ---
 title: "La Participation D'ABBYY À La Conférence Documation 2016: Une Partenariat Stratégique Avec Xerox Et AbilDoc"
-date: 2024-09-12T07:21:42.991Z
-updated: 2024-09-13T07:21:42.991Z
+date: 2025-01-25T19:56:51.584Z
+updated: 2025-01-31T19:14:25.040Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2bf8e16eab36445ca53259ede.jpg
@@ -12,16 +12,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY participe à Documation 2016 avec Xerox et AbilDoc
@@ -31,16 +22,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Les 6 et 7 avril 2016 – Paris Porte de Versailles, stand B33
@@ -66,10 +48,7 @@ Proposant un vaste panel d’outils pour les développeurs, ABBYY offre aussi la
 ABBYY propose une large gamme de solutions conçues pour répondre à des besoins métier ou à ceux d’un secteur d’activité en particulier.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### À propos d’ABBYY Europe
@@ -108,5 +87,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1-unlock-comprehensive-online-protection-with-nord-security-powering-nordvpn-a-complete-privacy-solution-for-you/"><u>1. Unlock Comprehensive Online Protection with Nord Security - Powering NordVPN, a Complete Privacy Solution for You</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-through-powerpoints-automatic-text-conversion-features/"><u>2024 Approved Navigating Through PowerPoint's Automatic Text Conversion Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-services-lead-the-way-navigating-new-security-challenges-in-an-era-of-digital-transformation/"><u>Cloud Services Lead the Way: Navigating New Security Challenges in an Era of Digital Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-organize-google-tasks-as-a-kanban-system-a-step-by-step-guide-to-using-taskboard-zdnet/"><u>Efficiently Organize Google Tasks as a Kanban System: A Step-by-Step Guide to Using TaskBoard (ZDNet)</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-gaming-trove-on-steam/"><u>Hidden Gaming Trove on Steam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-master-real-time-video-sharing-on-facebook/"><u>In 2024, How to Master Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-175-beta-2-enables-direct-downloads-from-apples-website-for-european-customers/"><u>IOS 17.5 Beta 2 Enables Direct Downloads From Apple's Website for European Customers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-tech-assistance-microsoft-introduces-two-cutting-edge-copilot-ais-for-enhanced-service-and-sales-guidance-featured-on-zdnet/"><u>Revolutionizing Tech Assistance: Microsoft Introduces Two Cutting-Edge Copilot AIs for Enhanced Service and Sales Guidance | Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-the-cloud-australias-new-guide-for-small-business-cybersecurity-unveiled-by-zdnet/"><u>Securing the Cloud: Australia's New Guide for Small Business Cybersecurity - Unveiled by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-innovative-dall-e-3-ideas-for-stunning-imagery-creation/"><u>Top 8 Innovative DALL-E 3 Ideas for Stunning Imagery Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-tech-certifications-of-2022-insights-from-zdnet/"><u>Top-Rated Cloud Tech Certifications of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-awss-latest-innovation-exclusive-private-5g-offering-debuts-at-reinvent-2021-tech-news/"><u>Unveiling AWS's Latest Innovation: Exclusive Private 5G Offering Debuts at Re:Invent 2021 - Tech News</u></a></li>
+</ul></div>
 

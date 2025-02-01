@@ -1,7 +1,7 @@
 ---
 title: "[New] The Pro's Guide to SRT Alterations on a MacBook"
-date: 2024-08-08T08:25:50.869Z
-updated: 2024-08-09T08:25:50.869Z
+date: 2025-01-30T20:31:23.193Z
+updated: 2025-01-31T22:06:42.722Z
 tags: 
   - screen-recording
   - ai video
@@ -29,9 +29,6 @@ In this article, we will walk you through some best tools to show you how to adj
 
 * [The Best Way to Edit .SRT Files for Videos on Mac](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: Does the SRT file work on a Mac?
 
 The SRT file is typically a plain text-based file with time markers, sequence numbers, and captions. Most third-party media players do showcase the SRT-based format easily. So, you can also use Preview apps or any other software to access and read the basic text documents on Mac.
@@ -39,12 +36,16 @@ The SRT file is typically a plain text-based file with time markers, sequence nu
 However, the QuickTime player on Mac does not always support SRT in videos. You have to convert them to a format the QuickTime Player supports or utilize a third-party **SRT editor Mac** allows.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: What Programs can open SRT Files on Mac, and How to do it?
 
 Indeed, you have to install specific types of software on your Mac device if you want to **SRT edit Mac-**based videos. Specific programs support the SRT file in media files on Mac devices. You must use these tools separately to open and edit the SRT file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Open SRT files on Mac using TextEdit
 
@@ -85,16 +86,10 @@ Continue the same steps for the next few caption sequences.
 
 Step5 Click the Format tab > Make Plain Text. Alternatively, press the Shift + Command + T keys on the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![click the format tab](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-2.jpg)
 
 Step6 Open File > Save. Add the file name under "Save As" and insert '.srt' at the name's end in place of '.txt'.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Open SRT files with VLC Media on Mac
 
 VLC Media is one of the most popular media players for different operating systems, including macOS devices. You can use it to play your videos in different formats. Users can play the video projects with SRT formatted files after merging them.
@@ -125,10 +120,11 @@ Step2 Download a compatible SRT file, if not available.
 
 Keep both the video you are adding the SRT into and the downloaded SRT file in one folder on your Mac device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keep both video and srt file in one folder](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Open your video file on the VLC player by double-clicking on the movie and choosing the “Open with VLC media player” option. Or, drag and drop it into the media player. Another way is to tap on the File tab in the software and press the “Open File” option.
 
@@ -168,21 +164,19 @@ Here, you can add a file of any length or size for quick edits and see the plain
 
 Step1 Open HappyScribe through your preferred browser. Press the Upload a File option to choose the MP4 file for burning the SRT file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![press the upload a file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-6.jpg)
 
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![browse for suitable subtitles](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-7.jpg)
 
 Step3 Make changes to the text color, caption, position, and font, as needed.
 
 Step4 Press the “Add Subtitle” button. It will insert into the MP4 within some minutes. The file will then automatically download into your Mac device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Open SRT files on Built-in App Mac QuickTime Player
 
@@ -196,21 +190,23 @@ Step1 Open your chosen browser, and search the Caption Converter-Rev tool. Acces
 
 Step2 Click on the “Select Caption Files” option and press the “SELECT .SRT FILES” choice in red button form. Add the SRT file(s) you want to edit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![press the select srt files option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-8.jpg)
 
 Step3 Choose the output format for the file. Choose QT available in the fourth spot.
 
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 After rechecking that you chose the right format, add your email address; you will receive the translated QT formatted file there. Press the Convert button to activate the conversion process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 On your Mac device, launch the QuickTime Pro software (upgrade the software to Pro beforehand if it is not already available).
 
@@ -221,8 +217,9 @@ Step7 Click on the Windows tab > Properties and make adjustments to the file.
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
 
 While all of the solutions given in Part 2 allow you to access SRT files on Mac, the editing benefits are limited. Instead, you can opt for an efficient video editing software like Filmora if you are wondering **how to create SRT file on Mac** and then edit it. The software supports SRT files for viewing, formatting, editing, and more.
@@ -241,10 +238,11 @@ The software comes with various standard-level and advanced editing functions, i
 
 Step1 Launch Filmora on Mac and click on New Project. Add the video file and drag it to the timeline for editing.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch filmora on mac](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Click on the Media tab and import the SRT file.
 
@@ -298,10 +296,26 @@ Part 1: Does the SRT file work on a Mac?
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[New] 2024 Approved Unlock Your Screen Android's Premier Free Recorder Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-elevate-youtube-navigating-tweets-in-1080p-clarity/"><u>[New] Elevate YouTube Navigating Tweets in 1080P Clarity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-graphic-gaze-decoding-youtubes-factful-17-narrative/"><u>[New] The Graphic Gaze Decoding YouTube's Factful '17 Narrative</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[Updated] From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-leveraging-multimedia-tools-for-enhanced-screencasts/"><u>[Updated] In 2024, Leveraging Multimedia Tools for Enhanced Screencasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mous-sharing-simplified-blurring-techniques-for-videos-for-2024/"><u>Anonymous Sharing Simplified Blurring Techniques for Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/capitalizing-on-cloud-cash-flows-strategies-for-winning-big-deals-now-zdnet/"><u>Capitalizing on Cloud Cash Flows: Strategies for Winning Big Deals Now | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-a-milestone-kubernetes-at-10-years-and-its-impact-on-modernizing-cloud-architecture-future-prospects-unveiled/"><u>Celebrating a Milestone: Kubernetes at 10 Years & Its Impact on Modernizing Cloud Architecture - Future Prospects Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ciq-emerges-as-key-patron-for-rocky-linux-inside-story-of-veteran-developers-support-featured-on-zdnet/"><u>CIQ Emerges as Key Patron for Rocky Linux: Inside Story of Veteran Developers' Support | Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-adoption-skyrockets-unveiling-its-environmental-impact-insights-from-zdnet/"><u>Cloud Adoption Skyrockets: Unveiling Its Environmental Impact - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combating-book-censorship-a-strategy-guide-for-tech-giants-like-amazon-google-and-apple-to-build-a-digital-liberty-repository-zdnet-insights/"><u>Combating Book Censorship: A Strategy Guide for Tech Giants Like Amazon, Google & Apple to Build a Digital Liberty Repository | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/edge-to-cloud-mastery-unleash-data-potential-and-gain-key-perspectives-guided-by-zdnet-experts/"><u>Edge-to-Cloud Mastery: Unleash Data Potential & Gain Key Perspectives | Guided by ZDNet Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-delayed-release-insights-into-games-future-timeline/"><u>Guilty Gear -Strive- Delayed Release: Insights Into Game's Future Timeline</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-site-tracking-and-personalization/"><u>Harnessing the Power of Cookiebot for Advanced Site Tracking and Personalization</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-se-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone SE? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/openstack-and-kata-containers-on-the-rise-exploring-why-more-companies-are-adopting-these-technologies-today-zdnet-analysis/"><u>OpenStack and Kata Containers on the Rise: Exploring Why More Companies Are Adopting These Technologies Today | ZDNet Analysis</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/panduan-pemulihan-gigitan-datanya-di-pc-windows-dengan-testdisk-metode-menarik-dan-efisien/"><u>Panduan Pemulihan Gigitan Datanya Di PC Windows Dengan TestDisk: Metode Menarik Dan Efisien!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-welcomes-new-tropical-datacenter-official-launch-highlights/"><u>Singapore Welcomes New Tropical Datacenter: Official Launch Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-amazons-aws-5g-privacy-boost-innovations-presented-at-the-2021-reinvent-conference-insights-and-analysis/"><u>Unveiling Amazon's AWS 5G Privacy Boost: Innovations Presented at the 2021 Re:Invent Conference - Insights & Analysis</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm"
-date: 2024-09-12T16:09:31.581Z
-updated: 2024-09-17T16:05:43.352Z
+date: 2025-01-26T05:33:36.159Z
+updated: 2025-02-01T01:16:00.471Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe11541a9628c11209d7640f5.jpg
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 CASE STUDY | FINANCIAL SERVICES
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Financial Services Firm Mines $6M in Savings Using ABBYY Process Intelligence 
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
@@ -22,6 +26,10 @@ Executives in a Fortune 100 financial services firm had questions about the cost
 “What I love about ABBYY process mining is how quickly you can pivot and get to quantitative results that help you get the best business cases funded.”
 
 Director of Business Planning
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Challenge
 
@@ -55,11 +63,19 @@ Customer service analysts used ABBYY to find key points of high friction in cust
 
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Intelligent Automation for Financial Services
 
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### PDF Version
 
@@ -68,17 +84,7 @@ Customer service analysts used ABBYY to find key points of high friction in cust
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ready to speak with an expert?
@@ -98,5 +104,21 @@ Customer service analysts used ABBYY to find key points of high friction in cust
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks/"><u>[New] Recharge and Reflect Top Ideas for Combining Podcast Listening & Tasks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-artful-annotation-distortion-techniques/"><u>2024 Approved Artful Annotation Distortion Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-your-lost-footage-no-vids-on-a6400/"><u>2024 Approved Finding Your Lost Footage No Vids On A6400</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-x100-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo X100 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-tracker-to-premier-tech-the-next-generation-of-apple-watch-se-on-the-horizon/"><u>Affordable Tracker to Premier Tech: The Next Generation of Apple Watch SE on the Horizon?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization-for-2024/"><u>Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/chkdsk-sfc-and-dism-windows-tools-unveiled-and-explained/"><u>CHKDSK, SFC & DISM: Windows Tools Unveiled and Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-latest-travel-essential-magsafes-triple-threat-charger-compatible-with-qi2-now-a-top-pick-on-zdnet/"><u>Discover the Latest Travel Essential: MagSafe's Triple Threat Charger Compatible with Qi2, Now a Top Pick on ZDNET!</u></a></li>
+<li><a href="https://article-files.techidaily.com/figure-skating-highlights-2022-winter-olympics/"><u>Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-your-privacy-instructions-for-remotely-clearing-out-iphone-and-ipad-data/"><u>Protect Your Privacy: Instructions for Remotely Clearing Out iPhone & iPad Data</u></a></li>
+<li><a href="https://some-tips.techidaily.com/regaining-control-over-online-privacy-a-guide-to-deleting-link-tracking-data-on-macos-safari-zdnet/"><u>Regaining Control Over Online Privacy: A Guide to Deleting Link Tracking Data on macOS Safari | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-in-apples-product-portfolio-saying-goodbye-to-finewoven-cases-and-embracing-the-new-era-of-beats-accessories-as-covered-by-zdnet/"><u>Transition in Apple's Product Portfolio: Saying Goodbye to FineWoven Cases and Embracing the New Era of Beats Accessories as Covered by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-full-power-of-the-new-m4-ipad-pro-how-ai-innovations-at-apples-wwdc-could-revolutionize-your-tech-experience/"><u>Unleashing the Full Power of the New M4 iPad Pro: How AI Innovations at Apple’s WWDC Could Revolutionize Your Tech Experience</u></a></li>
+</ul></div>
 

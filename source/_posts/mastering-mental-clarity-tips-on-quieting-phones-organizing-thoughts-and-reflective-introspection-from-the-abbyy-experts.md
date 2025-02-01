@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mental Clarity: Tips on Quieting Phones, Organizing Thoughts, and Reflective Introspection From the ABBYY Experts"
-date: 2024-09-14T16:12:28.954Z
-updated: 2024-09-17T16:11:34.123Z
+date: 2025-01-31T00:56:14.716Z
+updated: 2025-01-31T21:15:29.897Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef10196944c0e4d0e8d090140eaead92.jpg
@@ -17,6 +17,10 @@ November 07, 2017
 
 ![](https://static4.abbyy.com/abbyycommedia/26023/mobile-monday-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this issue, how to filter out external distractions using “Do Not Disturb” function, work with different tags in FineScanner and interesting app that will help to realize ideas. In the end, theory of bicameral mind and mindfulness of choice.
 
 ## **iOS Tip: How to Use the “Do Not Disturb” Feature**
@@ -29,6 +33,10 @@ In this issue, how to filter out external distractions using “Do Not Disturb�
 
 ![ios iphone do not disturb feature](https://static1.abbyy.com/abbyycommedia/26024/c6e96bee8c4234c81e75b3d768f47179.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also access this mode via the Control Centre—just tap the crescent icon. When the mode is on, you’ll see a crescent moon icon in the status bar.
 
 You can also schedule your phone to go in and out of “Do Not Disturb” mode at certain times of the day, for example, from 10:00pm to 07:00am. The scheduling is done in the settings screen.
@@ -36,6 +44,10 @@ You can also schedule your phone to go in and out of “Do Not Disturb” mode a
 Since “Do Not Disturb” blocks out all incoming calls and notifications, you run the risk of snubbing an important caller or missing a crucial alert. Aware of this danger, Apple have added a special feature which allows you to hand-pick VIPs in your contacts whose calls will always be put through to you, no matter what.
 
 ![ios iphone do not disturb feature](https://static1.abbyy.com/abbyycommedia/26025/225508-e1510058665909.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The first option is to add important contacts to the favourites list and instruct your phone to always notify you about calls from these people. The second option is to create a new group called, say, VIP and allow these chosen few to disturb your peace. Lastly, you can have phone numbers in your Contacts that can call and text you anytime.
 
@@ -47,6 +59,10 @@ It’s quite a quest to enable the feature:
 4. Flick the **Emergency Bypass** switch to **On**.
 
 ![ios do not disturb feature emergency bypass](https://static1.abbyy.com/abbyycommedia/26026/701c263c96db987db43d1146be5ed93a-e1510058771807.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you will get all notifications related to this caller, even if the **Do Not Disturb** option is turned on.
 
@@ -81,6 +97,10 @@ Android comes with three ready-made rules: **Weekends**, **Event** and **Weeknig
 
 Of course, there may be non-recurring time periods when you shouldn’t be disturbed, such as during important meetings or concerts. These can be added individually by tapping **Event**. You can also add events directly from Google Calendar, which is really handy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **ABBYY Tip: How to Add Tags in FineScanner**
 
 Tags are a very useful invention. Using tag search, you can find that old contract that you signed quite some time ago, or separate your work correspondence from your personal documents. Here’s how you add tags in [FineScanner](http://qrs.ly/3f56xfu) to make working with documents easier and become more productive.
@@ -88,13 +108,6 @@ Tags are a very useful invention. Using tag search, you can find that old contra
 1. Select a document.
 2. Tap **Properties** and start editing the document.![abbyy add tags in finescanner](https://static1.abbyy.com/abbyycommedia/26030/untitled-e1510059645865.png)
 3. In the **Tags** field, select the necessary tags from the list (e.g. **Work** or **Contract**) or add your own.![abbyy choose tags finescanner document ocr](https://static1.abbyy.com/abbyycommedia/26031/img_0083-e1510059671839.png)![abbyy add create new tag finescanner](https://static1.abbyy.com/abbyycommedia/26032/img_0084-e1510059696164.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click **Done** and go back to the ribbon. Now you will be able to find this document by specifying its tag in the search field.
 
@@ -109,10 +122,7 @@ Got lots of ideas but not enough time to put them all into practice? Try [Ideali
 ![idealist app idea realisation ios](https://static1.abbyy.com/abbyycommedia/26033/mycollages-6-e1506948419116.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Even if you don’t need any external advice, you may find the app useful for writing down worthwhile ideas, placing them into categories, and marking their statuses. [Idealist](https://itunes.apple.com/us/app/idealist-turn-your-idea-into/id975937527?mt=8)also nudges you towards more critical thinking, which is a useful skill for any adult, not just for inventors and entrepreneurs. Available on [iOS](https://itunes.apple.com/us/app/idealist-turn-your-idea-into/id975937527?mt=8).
@@ -148,13 +158,6 @@ That’s all we wanted to tell you today, guys. See you next Monday. You can fin
 P.S. The coolest sale of the year is approaching! We are getting ready for it at full speed, and advise you to keep up! Leave your e-mail on our [black-black landing page](http://amp.gs/BOVK) and be the first to know about the beginning of the sale!
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -218,5 +221,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-audio-quality-get-high-quality-fx/"><u>[New] In 2024, Enhance Audio Quality, Get High-Quality FX</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-and-easy-way-to-record-iphone-screens/"><u>[New] Quick & Easy Way to Record iPhone Screens</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-step-by-step-guide-to-immerse-users-in-soundfilters-of-windows-10-photos-for-2024/"><u>[New] Step-by-Step Guide to Immerse Users in Sound/Filters of Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-iphone-lens-hacks-capturing-perfect-reflections-for-2024/"><u>[Updated] IPhone Lens Hacks Capturing Perfect Reflections for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complete-guide-detecting-and-eliminating-mobile-spyware-with-ease-techadvisor/"><u>Complete Guide: Detecting & Eliminating Mobile Spyware with Ease | TechAdvisor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-the-apple-lineup-introducing-the-next-gen-mac-studio-a-sophisticated-evolution-of-the-mac-mini/"><u>Elevating the Apple Lineup: Introducing the Next-Gen Mac Studio, a Sophisticated Evolution of the Mac Mini</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-emerging-mobile-innovations-from-onboard-ai-integration-to-revolutionary-smartphones-discover-whats-next-in-tech/"><u>Exploring Emerging Mobile Innovations: From Onboard AI Integration to Revolutionary Smartphones - Discover What’s Next in Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fraudgpt-explained-risks-involved-and-best-practices-for-personal-safety-online/"><u>FraudGPT Explained: Risks Involved & Best Practices for Personal Safety Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-circles-vs-cubes-unraveling-camera-types/"><u>In 2024, Circles vs Cubes Unraveling Camera Types</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-motorola-edge-40-neo-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Motorola Edge 40 Neo in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-tailored-to-your-needs-tech-insights-by-zdnet/"><u>IPad Pro Versus MacBook Air: Determining the Ideal Device Tailored to Your Needs | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mac-users-guide-to-best-4k-display-technology/"><u>Mac Users' Guide to Best 4K Display Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/small-form-factor-wonders-expertly-curated-selection-of-the-finest-tablets-underhandling-for-2n24-evaluations-and-insights/"><u>Small Form Factor Wonders: Expertly Curated Selection of the Finest Tablets Underhandling for 2N24 | Evaluations and Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-an-airtag-wallet-ratings-and-recommendations-by-professionals-zdnet/"><u>Ultimate Guide to Choosing an AirTag Wallet – Ratings & Recommendations by Professionals | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-leading-mac-applications-in-202n-curated-by-zdnet-experts/"><u>Ultimate List: Leading Mac Applications in 202N - Curated by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-apples-new-feature-a-google-lens-competitor-now-powering-iphone-16-cameras/"><u>Unveiling Apple's New Feature: A Google Lens Competitor Now Powering iPhone 16 Cameras</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+</ul></div>
 

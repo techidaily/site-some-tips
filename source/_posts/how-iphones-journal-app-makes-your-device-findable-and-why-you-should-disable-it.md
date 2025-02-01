@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2025-01-19T17:10:08.423Z
-updated: 2025-01-24T16:25:49.040Z
+date: 2025-01-24T17:32:06.018Z
+updated: 2025-02-01T05:10:05.937Z
 tags:
   - apple
 categories:
@@ -57,7 +57,7 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -65,10 +65,6 @@ Maria Diaz/ZDNET
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -79,13 +75,13 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **FAQ**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
@@ -93,7 +89,7 @@ Maria Diaz/ZDNET
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
@@ -109,6 +105,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,24 +148,22 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-rhythm-and-reels-posting-melodies-on-social-media-for-2024/"><u>[New] Rhythm & Reels Posting Melodies on Social Media for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[Updated] Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-apples-advanced-ipad-pro-a-standalone-marvel-distinct-from-macbooks-explored-in-depth-technology-reviews/"><u>Discovering Apple's Advanced iPad Pro: A Standalone Marvel Distinct From MacBooks, Explored In-Depth | Technology Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-improvements-required-how-apples-vision-pro-can-excel-in-the-corporate-arena-insights-from-zdnet/"><u>Essential Improvements Required: How Apple's Vision Pro Can Excel in the Corporate Arena - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-upgrades-for-iphone-16-thinner-bezels-and-new-age-spatial-video-abilities-as-reported-by-zdnet/"><u>Exciting Upgrades for iPhone 16: Thinner Bezels and New-Age Spatial Video Abilities, as Reported by ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia ?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-legal-download-how-to-safely-transfer-youtube-to-mp4/"><u>In 2024, Legal Download How to Safely Transfer YouTube to MP4</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-epson-stylus-nx420-windows-drivers-updated-version-for-windows-7-8-and-10/"><u>Install Epson Stylus NX420 Windows Drivers: Updated Version for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-16-pro-vs-iphone-14-pro-evaluating-if-its-time-for-an-upgrade-insights-from-zdnet/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Evaluating If It's Time for an Upgrade - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/limited-time-blowout-grab-an-apple-pencil-2-for-just-95-this-labor-day-dont-miss-out-learn-more-inside-at-zdnet/"><u>Limited-Time Blowout: Grab an Apple Pencil 2 for Just $95 This Labor Day | Don't Miss Out – Learn More Inside at ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/lost-control-over-display-intensity/"><u>Lost Control Over Display Intensity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/save-on-the-latest-generation-apple-pencil-at-only-95-exclusive-labor-day-sale-offer-from-zdnet/"><u>Save on the Latest Generation Apple Pencil at Only $95 - Exclusive Labor Day Sale Offer From ZDNet!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-overcoming-the-0x80072efd-glitch-in-windows-11-systems/"><u>Ultimate Fixes for Overcoming the 0X80072EFD Glitch in Windows 11 Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncovering-the-best-alternative-to-apple-and-tiles-wallet-airtags-a-comprehensive-test-by-zdnet/"><u>Uncovering the Best Alternative to Apple and Tile's Wallet AirTags – A Comprehensive Test by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-hidden-intelligence-discover-if-your-mac-or-ipad-contains-the-concealed-smart-home-radio-feature-tech-insights/"><u>Unveiling Hidden Intelligence: Discover if Your Mac or iPad Contains the Concealed Smart Home Radio Feature | Tech Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-future-of-smartphones-discover-how-the-latest-iphone-16-upgrades-can-elevate-your-tech-experience-expert-analysis/"><u>Unveiling the Future of Smartphones: Discover How the Latest iPhone 16 Upgrades Can Elevate Your Tech Experience | Expert Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gif-and-png/"><u>오늘날의 가장 유용한 웹사이트: 무료 GIF & PNG 이미지 전환 - 모바비</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-visualizing-stories-turning-your-favorite-vimeo-into-dynamic-gifs/"><u>[Updated] Visualizing Stories Turning Your Favorite Vimeo Into Dynamic GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2023s-premier-selection-of-raspberry-pi-starter-and-advanced-kits-expert-picks-by-zdnet/"><u>2023'S Premier Selection of Raspberry Pi Starter and Advanced Kits - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-screen-capture-bandicam-versus-camtasia/"><u>2024 Approved Exploring Screen Capture Bandicam Versus Camtasia</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>2024 Approved Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-developer-productivity-with-patience-unveiling-the-impact-of-github-copilot-on-software-innovation-zdnet/"><u>Advancing Developer Productivity with Patience: Unveiling the Impact of GitHub Copilot on Software Innovation | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anthropic-launches-advanced-tool-utilization-features-in-pre-beta-version-of-claude-setting-the-stage-for-highly-capable-virtual-assistants-insights-from-zd48/"><u>Anthropic Launches Advanced Tool Utilization Features in Pre-Beta Version of 'Claude', Setting the Stage for Highly Capable Virtual Assistants – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/azure-unveils-model-management-and-advanced-rag-solutions-for-corporate-ai-innovation-microsofts-new-edge-in-generative-tech/"><u>Azure Unveils Model Management and Advanced RAG Solutions for Corporate AI Innovation - Microsoft's New Edge in Generative Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-recruitment-with-expert-developer-advice-top-tips-revealed-by-zdnet/"><u>Boosting Recruitment with Expert Developer Advice - Top Tips Revealed by ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-magic-5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor Magic 5 to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ubuntus-newest-release-core-edition-24-pioneers-progress-for-the-internet-of-things-and-edge-tech-explore-on-zdnet/"><u>How Ubuntu's Newest Release, Core Edition 24, Pioneers Progress for the Internet of Things and Edge Tech | Explore on ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a15-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A15 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/interactive-learning-strategies-in-video-editing/"><u>Interactive Learning Strategies in Video Editing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-minitool-movie-maker-a-detailed-review-user-manual-and-alternative-solutions/"><u>New Minitool Movie Maker A Detailed Review, User Manual, and Alternative Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/open-source-mandate-switzerlands-federal-authorities-commit-to-transparency-with-software-release/"><u>Open Source Mandate: Switzerland's Federal Authorities Commit to Transparency with Software Release</u></a></li>
+<li><a href="https://some-tips.techidaily.com/programming-language-trends-from-2016-the-highs-and-lows-and-insights-for-developers-techcrunch/"><u>Programming Language Trends From 2016: The Highs and Lows & Insights for Developers | TechCrunch</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-fix-tools-enhancing-windows-and-mac-files/"><u>Top 10 Video Editing Fix Tools: Enhancing Windows & Mac Files</u></a></li>
 </ul></div>
 

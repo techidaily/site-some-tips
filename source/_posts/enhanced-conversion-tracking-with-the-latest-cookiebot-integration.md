@@ -1,7 +1,7 @@
 ---
 title: Enhanced Conversion Tracking with the Latest Cookiebot Integration
-date: 2024-09-20T17:04:00.801Z
-updated: 2024-09-22T16:19:30.774Z
+date: 2025-01-27T03:44:29.079Z
+updated: 2025-01-31T18:03:33.642Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3ed22a8b3f83cf8fa8dfaeb8.jpg
@@ -16,6 +16,10 @@ BPO and Shared Services | Mobile Capture
 ## PwC Specialists Go Paperless with ABBYY Mobile Application
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
@@ -78,6 +82,10 @@ _The application allows you to take a picture of the document, crop the backgrou
 
 _![PwC logo](https://static1.abbyy.com/abbyycommedia/21965/pwcscheme.png)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### The mobile application is being used by all employees in PwC’s network of ﬁrms in Central and Eastern Europe
 
 With the help of the secure mobile scanner, powered by ABBYY’s intelligent technology, PwC experts can quickly take a picture of any documents required by clients using a smartphone and convert them to PDF with a text layer. In the future, the application will include a feature allowing documents to be saved in the .doc format.
@@ -88,13 +96,25 @@ PwC specialists initially used the mobile application for audit and business con
 
 [![ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/21962/abbyy-finereader-server.png)](https://tools.techidaily.com/abbyy/products/) [ABBYY FineReader Server](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![ABBYY mobile capture solutions](https://static1.abbyy.com/abbyycommedia/14353/3-mobile-capture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY mobile capture solutions](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF version](https://static2.abbyy.com/abbyycommedia/21961/pwc_03.png)](https://static4.abbyy.com/abbyycommedia/23949/case-study-pwc-en-10731.pdf "PDF version") [PDF version](https://static4.abbyy.com/abbyycommedia/23949/case-study-pwc-en-10731.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Download here](https://static4.abbyy.com/abbyycommedia/23949/case-study-pwc-en-10731.pdf "PDF version") 
 
@@ -125,12 +145,23 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-your-audience-with-optimal-video-concepts/"><u>[New] In 2024, Engaging Your Audience with Optimal Video Concepts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-top-10-websites-for-mystery-box-acquisitions/"><u>[New] Navigating the Top 10 Websites for Mystery Box Acquisitions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-8-plus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-approach-to-secure-ai-powered-cloud-computing-understanding-its-importance-and-methodology-zdnet/"><u>Apple's Approach to Secure AI-Powered Cloud Computing: Understanding Its Importance and Methodology | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-apple-laptop-a-detailed-comparison-of-macbook-pro-vs-macbook-air-zdnet/"><u>Choosing the Right Apple Laptop: A Detailed Comparison of MacBook Pro Vs. MacBook Air | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-top-4-convincing-arguments-for-upgrading-to-the-latest-ipad-air-tech-innovations/"><u>Discover Apple's Top 4 Convincing Arguments for Upgrading to the Latest iPad Air | Tech Innovations</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-stunning-barcelona-fc-griezmann-wallpapers-photographs-and-hd-graphics-by-yl-software-your-largest-image-library/"><u>Download Stunning Barcelona FC Griezmann Wallpapers, Photographs & HD Graphics by YL Software - Your Largest Image Library!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-apple-vision-pro-like-never-before-secrets-to-an-unforgettable-demo-and-reservation-guide-techreview/"><u>Experience the Apple Vision Pro Like Never Before - Secrets to an Unforgettable Demo & Reservation Guide | TechReview</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-realme-gt-5-240w-frp-by-drfone-android/"><u>How Can We Bypass Realme GT 5 (240W) FRP?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-set-up-multiple-desktops-in-windows-10/"><u>How to Set Up Multiple Desktops in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>In 2024, Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme FRP?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-neo-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT Neo 5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-2024-mac-collection-for-tech-enthusiasts-your-comprehensive-resource/"><u>Unveiling the Ultimate 2024 Mac Collection for Tech Enthusiasts – Your Comprehensive Resource</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-you-should-choose-iphone-extreme-the-budget-friendly-gem-with-extended-battery-life-and-surprising-features/"><u>Why You Should Choose iPhone eXtreme: The Budget-Friendly Gem with Extended Battery Life and Surprising Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-apple-discontinues-itunes-introduces-alternative-apps-for-managing-music-and-videos-on-windows-pcs/"><u>ZDNet Exclusive: Apple Discontinues iTunes, Introduces Alternative Apps for Managing Music and Videos on Windows PCs</u></a></li>
+</ul></div>
 

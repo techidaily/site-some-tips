@@ -1,7 +1,7 @@
 ---
 title: Enhanced Personalization with Cookiebot Technology
-date: 2024-09-15T16:03:35.495Z
-updated: 2024-09-17T16:00:12.818Z
+date: 2025-01-30T04:12:19.365Z
+updated: 2025-01-31T16:49:36.939Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f3426715024680a4a4a0f123c3.jpg
@@ -22,6 +22,10 @@ Intelligent capture assistant. Scan to PDF and extract text.
 
 FineReader PDF Mobile for Android, Business Card Reader for Android and Text Grabber for Android & iOS have been discontinued. [Learn more ›](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Product overview
 
 ### ABBYY FineReader for iOS
@@ -29,6 +33,10 @@ FineReader PDF Mobile for Android, Business Card Reader for Android and Text Gra
 The first AI-powered scanner to quickly capture docs and books, create copies in PDF and JPEG and extract texts from scans.
 
 [![fr_mobile_v2](https://www.abbyy.com/media/2853/fr_mobile_v2.jpg)](https://www.youtube.com/watch?v=TiKgyAl2KHk) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Digitize your docs and books anywhere
 
@@ -60,6 +68,10 @@ Share your scans with everyone on the go: email, print, or save to cloud storage
 
 ![Annotate scans](https://www.abbyy.com/media/3796/05-features-5-annotate-documents.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Annotate scans
 
 Use our set of easy-to-use tools to modify your PDFs: add your signature or a text box, use highlighter, write with a pen, or conceal sensitive content with the redaction tool.
@@ -71,19 +83,6 @@ Use our set of easy-to-use tools to modify your PDFs: add your signature or a te
 This app makes working in sales much more convenient. We have to work with a lot of different contracts that unfortunately need to be printed in rescanned and being able to do it on the fly is key. Highly recommend this app in frequently recommended to physicians to make their lives easier.
 
 ![What our customers say](https://www.abbyy.com/media/1417/g2-review-nophoto.png?width=64&height=64)**Hhskojx h** 15 Jan. 2021
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### "Fantastic-Everyday Use"
 
@@ -100,18 +99,19 @@ Today I scanned my document to store in iCloud. With a touch of a button (open u
 
 ![FR Mobile man reviews](https://www.abbyy.com/media/2575/fr-mobile-man-reviews.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Awards and press
 
 [![The Webby Awards logo](https://www.abbyy.com/media/2489/01b-webby-grey.png)![The Webby Awards logo](https://www.abbyy.com/media/2490/01-webby-color.png)](http://webbyawards.com/winners/2015/mobilesitesapps/handhelddevices/productivity/finescanner/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Fox Business](https://www.abbyy.com/media/2491/02b-fox-grey.png)![Fox Business](https://www.abbyy.com/media/2492/02-fox-color.png)](http://www.foxbusiness.com/features/2017/10/23/50-best-cloud-services-for-smbs.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![ABBYY FineScanner AI 8 - Smart scanner app to make your remote work easy | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=281738&theme=light)](https://www.producthunt.com/posts/abbyy-finescanner-ai-8?utm%5Fsource=badge-featured&utm%5Fmedium=badge&utm%5Fsouce=badge-abbyy-finescanner-ai-8)
 
@@ -119,18 +119,15 @@ Today I scanned my document to store in iCloud. With a touch of a button (open u
 
 [![Lifehacker logo](https://www.abbyy.com/media/2493/03b-lifehacker-grey.png)![Lifehacker logo](https://www.abbyy.com/media/2494/03-lifehacker-color.png)](http://lifehacker.com/five-best-mobile-document-scanning-apps-1691417781#pd%5Fa%5F8725103)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![PCMag logo](https://www.abbyy.com/media/2497/06b-pcmag-grey.png)![PCMag logo](https://www.abbyy.com/media/2498/06-pcmag-color.png)](https://www.pcmag.com/how-to/how-to-create-and-manage-digital-family-documents)
 
 [![The new york times logo](https://www.abbyy.com/media/2499/07b-nyt-grey.png)![The new york times logo](https://www.abbyy.com/media/2500/07-nyt-color.png)](https://www.nytimes.com/wirecutter/reviews/best-mobile-scanning-apps/)
 
 [![Discovery logo](https://www.abbyy.com/media/2501/08b-discovery-grey.png)![Discovery logo](https://www.abbyy.com/media/2502/08-discovery-color.png)](http://newswatchtv.com/2016/10/21/newswatch-discovery-channel-appwatch-finescanner/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![Touchit logo](https://www.abbyy.com/media/2503/09b-touchit-grey.png)![Touchit logo](https://www.abbyy.com/media/2504/09-touchit-color.png)](https://touchit.sk/abbyy-premente-smartfon-na-profesionalny-vreckovy-skener/)
 
@@ -140,7 +137,19 @@ Today I scanned my document to store in iCloud. With a touch of a button (open u
 
 [![CIO](https://www.abbyy.com/media/2509/12b-cio-grey.png)![CIO](https://www.abbyy.com/media/2510/12-cio-color.png)](https://www.cio.com/article/230048/10-essential-productivity-tips-for-road-warriors.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Techradar](https://www.abbyy.com/media/2487/13b-techradar-grey.png)![Techradar](https://www.abbyy.com/media/2488/13-techradar-color.png)](https://www.techradar.com/uk/best/best-document-scanning-apps)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OCR Specification
 
@@ -538,13 +547,6 @@ Latvian (Fraktur font)_×_ _×_
 
 [![appstore_squared_160x46_new](https://www.abbyy.com/media/3790/appstore_squared_160x46_new.svg)](https://fsfree.onelink.me/RsYZ/frwinweb) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More awesome tools for your productivity
 
 ![](https://www.abbyy.com/media/2513/bcr-logo-80x80.svg) 
@@ -563,14 +565,11 @@ Visit our Blog for tips, trends & use cases for higher document productivity.
 
 ![9-questions-on-fr_934_400](https://www.abbyy.com/media/4185/9-questions-on-fr_934_400.png) 
 
-![9-questions-on-fr_934_400](https://www.abbyy.com/media/4185/9-questions-on-fr_934_400.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![9-questions-on-fr_934_400](https://www.abbyy.com/media/4185/9-questions-on-fr_934_400.png) 
 
 FineReader for Mobile — The Answers to Nine Frequently Asked Questions
 
@@ -629,5 +628,16 @@ Submit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-video-guide-with-annotations-on-youtube/"><u>[New] 2024 Approved Elevate Your Video Guide with Annotations on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-reimburses-eligible-macbook-users-in-major-class-action-settlement-what-you-need-to-know-techworld/"><u>Apple Reimburses Eligible MacBook Users in Major Class Action Settlement: What You Need to Know - TechWorld</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-enhanced-airpods-top-4-upgrades-unveiled-for-every-model-detailed-review-by-techzn/"><u>Exploring Apple's Enhanced AirPods: Top 4 Upgrades Unveiled for Every Model - Detailed Review by TechZN</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-x100-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X100 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>In 2024, Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-vs-iphone-14-comparing-features-and-deciding-if-its-time-for-an-upgrade-techradar/"><u>IPhone 16 Vs. IPhone 14: Comparing Features and Deciding if It's Time for an Upgrade | TechRadar</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-modifying-pdf-files-using-yl-software-on-your-pc/"><u>Step-by-Step Tutorial for Modifying PDF Files Using YL Software on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stop-spam-on-your-iphone-now-master-these-3-simple-strategies-to-secure-your-messages-zdnet-insider-tips/"><u>STOP SPAM ON YOUR IPHONE NOW! Master These 3 Simple Strategies to Secure Your Messages | ZDNET Insider Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-periscope-user-manual/"><u>The Ultimate Periscope User Manual</u></a></li>
+</ul></div>
 

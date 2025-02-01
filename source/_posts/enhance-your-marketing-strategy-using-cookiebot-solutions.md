@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Marketing Strategy Using Cookiebot Solutions
-date: 2024-09-19T17:30:30.779Z
-updated: 2024-09-22T19:40:49.627Z
+date: 2025-01-24T23:08:23.344Z
+updated: 2025-01-31T21:28:47.707Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 ## Enhance Your Marketing Strategy Using Cookiebot Solutions
 
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pushing the Boundaries of IDP: Object Detection, Word Recognition, and Key-Value Extraction
 
@@ -34,6 +38,10 @@ Taking a large, general key-value extraction model and training it on a set of d
 ABBYY’s current path towards this solution consists of two independent workflows: entity extraction and linking models for general documents, and key summarization and QA models for text-heavy documents such as contracts. Both models are based on the transformer architecture that is ubiquitous in modern neural networks, e.g., the GPT-family and other LLMs.
 
 ![pushing-the-boundaries-of-idp-2](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/intelligent-enterprise/content-media/pushing-the-boundaries-of-idp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The image above portrays a form-like document where green highlights indicate keys, and yellow highlights indicate values that must be extracted from their respective keys. In a form, there are visual indicators such as layouts and blank cells that suggest where key-values lie. The world classification model tags each word as either a background or a part of a key or value, while the entity linking model combines the tagged words into key/value sequences and matches them together. Within this workflow, text is processed by a RoBERTa transformer, while visual data (images) are processed by a compact YOLOv8 model.
 
@@ -134,12 +142,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[Updated] In 2024, How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-reach-new-heights-on-igtv-top-tactics-for-expanding-your-audience-for-2024/"><u>[Updated] Reach New Heights on IGTV Top Tactics for Expanding Your Audience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-newest-contenders-how-does-the-m3-macbook-air-stack-up-against-its-predecessor-the-m2-tech-analysis/"><u>Apple's Newest Contenders: How Does the M3 MacBook Air Stack Up Against Its Predecessor, The M2? | Tech Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151766914-breaking-down-barriers-to-private-conversations-facebooks-revolutionary-end-to-end-encrypted-services-rollout-for-messenger-and-instagram/"><u>Breaking Down Barriers to Private Conversations: Facebook's Revolutionary End-to-End Encrypted Services Rollout for Messenger and Instagram.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-14-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi 14 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-transforms-iphone-14-into-a-creative-powerhouse-for-seamless-content-making-insights-from-zdnet/"><u>IOS 18 Transforms iPhone 14 Into a Creative Powerhouse for Seamless Content Making - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-acts-erratically/"><u>Keyboard Acts Erratically</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-apple-watch-factory-reset-complete-tutorial-by-zdnet/"><u>Mastering the Apple Watch Factory Reset - Complete Tutorial by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/most-popular-kid-friendly-tablets-as-voted-by-moms-and-dads/"><u>Most Popular Kid-Friendly Tablets as Voted by Moms and Dads</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-5-top-audio-tools-to-master-recording-your-voice-with-ease/"><u>New In 2024, 5 Top Audio Tools to Master Recording Your Voice with Ease</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-fitbit-versa-lite-smartwatch-for-enhanced-workouts-at-great-prices/"><u>The Ultimate Guide to Fitbit Versa Lite: Smartwatch for Enhanced Workouts at Great Prices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-10-timeless-family-adventures-on-screen-this-season-for-2024/"><u>Top 10 Timeless Family Adventures on Screen This Season for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-stylus-tablets-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Stylus Tablets : In-Depth Analysis & Reviews by Tech Experts</u></a></li>
+</ul></div>
 

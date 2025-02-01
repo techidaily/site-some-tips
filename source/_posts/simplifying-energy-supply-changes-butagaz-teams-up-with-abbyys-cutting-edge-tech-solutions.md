@@ -1,7 +1,7 @@
 ---
 title: Simplifying Energy Supply Changes – Butagaz Teams Up with ABBYY's Cutting-Edge Tech Solutions
-date: 2024-09-12T07:21:22.273Z
-updated: 2024-09-13T07:21:22.273Z
+date: 2025-01-27T22:26:34.064Z
+updated: 2025-01-31T19:08:07.840Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1cb34757b006a9b7dc8bcdff.jpeg
@@ -14,23 +14,21 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
 Oil & Gas | Mobile Capture | Customer Experience Management
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Butagaz Chooses ABBYY to Help Consumers Switch Energy Supplier
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/en/120047.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Butagaz Chooses ABBYY to Help Consumers Switch Energy Supplier
@@ -42,13 +40,6 @@ Other | Mobile Capture
 #### Customer Overview
 
 ![Butagaz Group](https://static4.abbyy.com/abbyycommedia/28788/butagaz-v2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 | Name         | Butagaz Group                             |
 | ------------ | ----------------------------------------- |
@@ -101,46 +92,27 @@ Reduction in data processing time; consumers can now switch supplier in less tha
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Learn more about ABBYY Content Intelligence](https://static2.abbyy.com/abbyycommedia/24337/mailroom_automation_360x162.jpg)](https://tools.techidaily.com/abbyy/products/) [Content Intelligence](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version customer story Butagaz](https://static4.abbyy.com/abbyycommedia/25846/cs_butagaz_360x162.jpg)](https://static2.abbyy.com/abbyycommedia/28756/case-study-butagaz-en-11866.pdf "PDF Version") [PDF Version](https://static2.abbyy.com/abbyycommedia/28756/case-study-butagaz-en-11866.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Read the document](https://static2.abbyy.com/abbyycommedia/28756/case-study-butagaz-en-11866.pdf "PDF Version") 
 
 [More about ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
 
@@ -161,5 +133,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-big-from-youtube-shorts-key-requirements-and-profit-prospects/"><u>[Updated] 2024 Approved Earning Big From YouTube Shorts Key Requirements and Profit Prospects</u></a></li>
+<li><a href="https://win-docs.techidaily.com/3usbwindows-10/"><u>3個有效的方式：如何在可啟動USB上將Windows 10複製</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-echo-show-5-the-key-to-winning-over-skeptics-with-smart-display-technology-discoveries-on-zdnet/"><u>Amazon Echo Show 5: The Key to Winning Over Skeptics with Smart Display Technology | Discoveries on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-october-prime-deals-top-tips-to-save-big-on-groceries-zdnet/"><u>Amazon's October Prime Deals: Top Tips to Save Big on Groceries | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-launches-complimentary-sagemaker-studio-lab-empowering-novices-to-dive-into-ml-effortlessly-zdnet-insights/"><u>AWS Launches Complimentary SageMaker Studio Lab, Empowering Novices to Dive Into ML Effortlessly | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-rivian-ev-trucks-significantly-reduce-amazons-carbon-footprint-a-closer-look-with-zdnet/"><u>Can Rivian EV Trucks Significantly Reduce Amazon's Carbon Footprint?: A Closer Look with ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-adventures-in-high-definition-with-intova-x/"><u>Capturing Adventures in High Definition With Intova X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-top-fire-tv-sticks-which-one-reigns-supreme-on-amazon/"><u>Comparing Top Fire TV Sticks - Which One Reigns Supreme on Amazon?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-se-2020-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone SE (2020) SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-v30-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme V30 Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung
-date: 2024-09-15T16:07:52.681Z
-updated: 2024-09-17T16:02:46.814Z
+date: 2025-01-25T16:05:58.610Z
+updated: 2025-01-31T18:59:56.581Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd29168db916ce8a5c89a69be.jpg
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 19\. Januar 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![News 21 Partners](https://static1.abbyy.com/abbyycommedia/33676/news-21-partners.jpg) 
 
@@ -33,11 +37,19 @@ Der INfuse Scanner digitalisiert Dokumente und liefert die Daten direkt an die A
 
 Weitere Informationen unter [AlarisWorld.com](https://www.AlarisWorld.com).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://www.abbyy.com/company/news/everest-group-recognizes-abbyy-as-a-leader-in-intelligent-document-processing-products-peak-matrix-assessment-for-second-consecutive-year-2020/ "Everest Group Recognizes ABBYY as a Leader in Intelligent Document Processing Products") und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
 
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Über den Geschäftsbereich Alaris von Kodak Alaris
 
@@ -46,10 +58,7 @@ Kodak Alaris ist ein führender Anbieter von Informationserfassungslösungen, di
 ©2022 Kodak Alaris Inc. TM/MC/MR: Alaris. Alle Marken und Markennamen sind Eigentum ihrer jeweiligen Inhaber. Die Marke Kodak und das Logo von Kodak werden unter Lizenz von der Eastman Kodak Company verwendet.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Unternehmenskontakt:
@@ -69,10 +78,7 @@ E-Mail: [scannerfamilie@kodakalaris.com](https://tools.techidaily.com/abbyy/prod
 Internet: <http://www.AlarisWorld.com>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pressekontakt:
@@ -106,5 +112,22 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-next-gen-talents-8-youtube-channels-taking-off/"><u>[New] Next-Gen Talents 8 YouTube Channels Taking Off</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-adjust-your-timeline-facebook-look-back-guide-for-2024/"><u>[Updated] Adjust Your Timeline Facebook Look Back Guide for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728500633238-iphone/"><u>簡單方法將iPhone上未購買的音樂遷移至電腦</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-labor-day-deal-grab-your-new-ipad-at-only-199-shop-now/"><u>Amazon Labor Day Deal: Grab Your New iPad at Only $199 – Shop Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassing-failing-internal-asus-camera/"><u>Bypassing Failing Internal Asus Camera</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-15-plus-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 15 Plus Activation Lock</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-see-every-participant-in-google-meet/"><u>How to See Every Participant in Google Meet?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-cleanmymac-x-evaluation-insights-from-zdnets-perspective/"><u>In-Depth CleanMyMac X Evaluation: Insights From ZDNet's Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipados-18-revolutionary-update-why-id-jump-on-the-apple-bandwagon-now-wwdc-2024-highlights/"><u>IPadOS 18 Revolutionary Update: Why I'd Jump on the Apple Bandwagon Now! - WWDC 2024 Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphones-dominate-worldwide-market-securing-all-top-7-selling-positions-in-latest-smartphone-rankings-zdnet/"><u>IPhones Dominate Worldwide Market: Securing All Top 7 Selling Positions in Latest Smartphone Rankings - ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/stunning-hd-mount-fuji-wallpaper-series-for-your-computer-in-4k-quality-exclusive-to-yl-software/"><u>Stunning HD Mount Fuji Wallpaper Series for Your Computer in 4K Quality - Exclusive to YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-a1x-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo A1x 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-enhancements-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Enhancements - Comprehensive Testing & Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-unbeatable-pricing-on-apple-watch-series-ten-with-a-pre-order-from-best-buy-at-99-your-guide-to-saving-more-zdnet/"><u>Unlock Unbeatable Pricing on Apple Watch Series ˈTen with a Pre-Order From Best Buy at $99 - Your Guide to Saving More | ZDNET</u></a></li>
+</ul></div>
 

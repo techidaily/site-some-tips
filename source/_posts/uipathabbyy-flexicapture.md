@@ -1,7 +1,7 @@
 ---
 title: 紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上
-date: 2024-09-12T07:20:52.855Z
-updated: 2024-09-13T07:20:52.855Z
+date: 2025-01-25T05:01:17.516Z
+updated: 2025-02-01T03:37:38.729Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800c8dc1ddbd91690f85f039c9.jpg
@@ -13,26 +13,20 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 
 Information & Communication | Accounts Payable Automation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## UiPathとABBYY FlexiCaptureを連携   
 紙請求書に基づく支払処理を自動化し、生産性が大幅アップ
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/ja/117866.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## UiPathとABBYY FlexiCaptureを連携   
 紙請求書に基づく支払処理を自動化し、生産性が大幅アップ
@@ -80,13 +74,6 @@ NTTコミュニケーションズのプロキュアメント&ビリング部は�
 契約や支払業務には人手を割かねばならないため、取り扱う件数の増加に比例して事務作業も増加する。これが、同部の大きな課題となっていた。
 
 ![06D Jpcasestudyntt](https://static4.abbyy.com/abbyycommedia/24933/06d-jpcasestudyntt.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### ■紙の情報をデータ化するAI-OCRに着目
 
@@ -144,33 +131,21 @@ ABBYY FlexiCaptureを導入することによって、生産性向上施策（DX
 
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![請求書処理の自動化](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [請求書処理の自動化](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static5.abbyy.com/abbyycommedia/24928/06c-jpcasestudyntt-360x162.jpg)](https://static4.abbyy.com/abbyycommedia/24892/customer-story-ntt-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/24892/customer-story-ntt-ja.pdf "PDF版") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [詳細を読む](https://static4.abbyy.com/abbyycommedia/24892/customer-story-ntt-ja.pdf "PDF版") 
 
@@ -183,10 +158,7 @@ ABBYY FlexiCaptureを導入することによって、生産性向上施策（DX
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 専門家に相談する準備はできていますか?
@@ -208,5 +180,20 @@ ABBYY FlexiCaptureを導入することによって、生産性向上施策（DX
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-resolve-grainy-videos-sharpening-feed-and-playback-quality-online/"><u>[New] 2024 Approved Resolve Grainy Videos Sharpening Feed & Playback Quality Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>[Updated] 2024 Approved Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-steps-to-skip-the-water-stained-stock-photos/"><u>[Updated] In 2024, Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-roadmap-to-crafting-popular-vlogging-narratives-for-2024/"><u>A Roadmap to Crafting Popular Vlogging Narratives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-targets-top-ranked-web-browser-with-unsettling-marketing-strategy-discover-how-they-plan-to-overcome-competition-techinsight/"><u>Apple Targets Top-Ranked Web Browser with Unsettling Marketing Strategy: Discover How They Plan to Overcome Competition | TechInsight</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970493-9781088226933-candle-magic-for-beginners/"><u>Candle Magic For Beginners | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-leading-computers-of-2ized-an-in-depth-comparison-by-apple-to-lesser-known-brands-zdnet/"><u>Exploring the Leading Computers of 2지날ized : An In-Depth Comparison by Apple to Lesser Known Brands | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/handbrake-compatibilite-avec-lencodage-av1-peut-on-utiliser-handbrake-pour-encode-en-av1/"><u>HandBrake : Compatibilité Avec L'encodage AV1 - Peut-On Utiliser Handbrake Pour Encode en AV1 ?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-a1-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo A1 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/june-2024s-ultimate-deals-on-electronics-at-best-buy-featured-for-smart-shoppers/"><u>June 2024'S Ultimate Deals on Electronics at Best Buy Featured for Smart Shoppers!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-extravaganza-discover-the-finest-apple-bargains-in-store-limited-time-only/"><u>Prime Day Extravaganza: Discover the Finest Apple Bargains in Store – Limited Time Only!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-your-imessage-delivery-issues-discover-why-they-went-undelivered-and-how-to-fix-them-expert-tips/"><u>Solving Your iMessage Delivery Issues: Discover Why They Went Undelivered and How to Fix Them | Expert Tips</u></a></li>
+</ul></div>
 

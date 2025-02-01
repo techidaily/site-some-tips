@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2025-01-20T18:28:48.507Z
-updated: 2025-01-24T18:57:25.046Z
+date: 2025-01-25T06:15:39.533Z
+updated: 2025-01-31T19:06:04.368Z
 tags:
   - apple
 categories:
@@ -44,13 +44,13 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -63,7 +63,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -77,7 +77,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -103,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -127,7 +127,7 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -179,16 +179,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leverage-your-influence-top-10-igtv-video-tactics-for-brands/"><u>[New] 2024 Approved Leverage Your Influence Top 10 IGTV Video Tactics for Brands</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-synopsis-of-vllo-consumer-voices/"><u>[New] 2024 Approved Synopsis of VLLO Consumer Voices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-exploring-microsofts-hololens-a-hologram-horizon/"><u>[New] In 2024, Exploring Microsoft's HoloLens A Hologram Horizon</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-1-ranked-youtube-to-text-online-service/"><u>[Updated] 2024 Approved 1 Ranked YouTube to Text Online Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevating-performance-apple-unveils-the-upgraded-mac-studio-a-giant-leap-from-the-classic-mac-mini-tech-insights/"><u>Elevating Performance: Apple Unveils the Upgraded Mac Studio - A Giant Leap From the Classic Mac Mini | Tech Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-10-ios-tablet-hacks-crucial-advice-for-apple-beginners-and-professionals/"><u>Essential 10 iOS Tablet Hacks: Crucial Advice for Apple Beginners & Professionals!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-apples-new-range-enhanced-13-inch-and-15-inch-macbook-air-with-m3-chip-launch-insightful-review-and-specs-update/"><u>Explore Apple's New Range: Enhanced 13-Inch and 15-Inch MacBook Air with M3 Chip Launch | Insightful Review & Specs Update</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27 4G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-airtag-add-ons-for-202n4-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Selection of AirTag Add-Ons for 202N4: In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-your-superhero-dreams-dive-into-marvel-via-apple-vision-pro-coming-soon-may-30th/"><u>Unlock Your Superhero Dreams: Dive Into Marvel via Apple Vision Pro - Coming Soon , May 30Th!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-insights-on-saving-smartphone-moments/"><u>[Updated] 2024 Approved Expert Insights on Saving Smartphone Moments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-overflow-to-order-edited-strategies-for-huge-tiktoks/"><u>[Updated] From Overflow to Order Edited Strategies for Huge TikToks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-hideous-heroes-black-vs-gleaming-guardians-silver-for-2024/"><u>[Updated] Hideous Heroes (Black) VS Gleaming Guardians (Silver) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adapting-to-change-analyzing-upcoming-trends-in-the-data-science-and-artificial-intelligence-market-perspectives-by-zdnet/"><u>Adapting to Change: Analyzing Upcoming Trends in the Data Science and Artificial Intelligence Market | Perspectives by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-omzetten-van-snd-folders-naar-veilige-online-toestand-movavi/"><u>Gratis Omzetten Van SND Folders Naar Veilige Online Toestand - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-to-utilizing-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide to Utilizing Copilot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-python-code-integrity-uncover-the-surge-of-malicious-projects-on-official-repositories-zdnet-analysis/"><u>Protecting Python Code Integrity: Uncover the Surge of Malicious Projects on Official Repositories | ZDNet Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-lenovo-mouse-pad-issues-on-windows-11-quick-fix-guide/"><u>Solving Lenovo Mouse Pad Issues on Windows 11: Quick Fix Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-leading-cybersecurity-certs-a-comprehensive-guide-by-zdnet/"><u>Top 6 Leading Cybersecurity Certs : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-work-how-ai-agents-represent-a-new-era-of-innovation-and-permanent-shifts-in-employment-insights-from-zdnet/"><u>Transforming Work: How AI Agents Represent a New Era of Innovation and Permanent Shifts in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-googles-lamda-advanced-chatbot-or-genuine-sentience-explore-with-zdnet/"><u>Understanding Google's LaMDA: Advanced Chatbot or Genuine Sentience? Explore with ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-benefits-of-using-immutable-linux-a-guide-on-running-a-stable-and-secure-distribution/"><u>Unveiling the Benefits of Using Immutable Linux: A Guide on Running a Stable and Secure Distribution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030050253-windows-10/"><u>デスクトップ動画取り方 - Windows 10専用ガイド</u></a></li>
 </ul></div>
 

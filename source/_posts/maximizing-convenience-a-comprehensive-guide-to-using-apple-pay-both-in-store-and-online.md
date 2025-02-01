@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Convenience: A Comprehensive Guide to Using Apple Pay Both In-Store and Online"
-date: 2025-01-23T20:14:51.026Z
-updated: 2025-01-24T17:17:29.937Z
+date: 2025-01-27T02:52:20.145Z
+updated: 2025-01-31T21:23:55.146Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -39,6 +39,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -60,7 +64,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -78,6 +82,10 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -103,10 +111,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -118,10 +122,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -136,7 +136,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -210,24 +210,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-innovations-in-portraying-chrono-displacement-on-screen/"><u>[New] 2024 Approved Innovations in Portraying Chrono-Displacement on Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-highest-ranking-tablets-unveiled-in-depth-expert-assessments-and-evaluations-zdnet/"><u>2024'S Highest-Ranking Tablets Unveiled: In-Depth Expert Assessments and Evaluations | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancements-in-smartwatch-tech-comparing-the-apple-watch-series-10-and-series/"><u>Advancements in Smartwatch Tech: Comparing the Apple Watch Series 10 and Series</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-yet-mighty-discover-the-compact-8-in-1-adapter-that-outperforms-expectations-insights-from-zdnet/"><u>Affordable yet Mighty: Discover the Compact 8-in-1 Adapter that Outperforms Expectations | Insights From ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-your-next-smart-companion-how-does-googles-new-pixel-watch-stack-up-against-apples-series-9/"><u>Choosing Your Next Smart Companion: How Does Google's New Pixel Watch Stack Up Against Apple's Series 9?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-the-m1-and-m2-ipad-pro-a-comprehensive-guide-to-find-your-perfect-match/"><u>Comparing the M1 and M2 iPad Pro: A Comprehensive Guide to Find Your Perfect Match</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nt-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion-for-2024/"><u>Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/editors-choice-the-mobile-phones-truly-favored-by-zdnet-tech-experts/"><u>Editor's Choice: The Mobile Phones Truly Favored by ZDNet Tech Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a05-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A05 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-16-brings-accessibility-enhancement-for-airpods-pro-users-update-unlocks-hearing-aid-mode-without-new-hardware-gizmodaily/"><u>IOS 16 Brings Accessibility Enhancement for AirPods Pro Users - Update Unlocks Hearing Aid Mode Without New Hardware | GizmoDaily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-cycling-experience-how-photo-sensitive-lenses-enhanced-my-ride-insights/"><u>Revolutionize Your Cycling Experience: How Photo-Sensitive Lenses Enhanced My Ride – Insights</u></a></li>
-<li><a href="https://article-tips.techidaily.com/slash-prices-on-cameras-best-value-list-of-top-6-under-100-for-2024/"><u>Slash Prices on Cameras Best Value List of Top 6 Under $100 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sonoma-104-for-macos-unveiled-key-features-and-bug-fixes-you-need-to-be-aware-of-digitalworld-hub/"><u>Sonoma 10.4 for macOS Unveiled: Key Features and Bug Fixes You Need to Be Aware Of - DigitalWorld Hub</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-save-your-memories-by-rescuing-deleted-iphones-pictures-efficiently/"><u>Step-by-Step Guide: Save Your Memories by Rescuing Deleted iPhones Pictures Efficiently</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728482217858-synology-cloud-sync/"><u>Synology Cloud Syncの課題：最新バージョンでの連続的な同期困難</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-shields-for-newest-iphones-unveiling-the-elite-picks-for-iphone-16-and-pro-rigorously-tested-by-experts-at-zdnet/"><u>Ultimate Shields for Newest iPhones! Unveiling the Elite Picks for iPhone 16 and Pro - Rigorously Tested by Experts at ZDNET</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-the-instance-attributes-panel-a-guide/"><u>Understanding the Instance Attributes Panel: A Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-bridging-audio-realms-to-the-screen-designing-eye-catching-audio-graphs-and-animating-video-sequences-with-premiere-pro-mastery/"><u>Updated Bridging Audio Realms to the Screen Designing Eye-Catching Audio Graphs & Animating Video Sequences with Premiere Pro Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-i-choose-apple-watch-series-7-over-series-10-the-ultimate-wearables-guide/"><u>Why I Choose Apple Watch Series 7 Over Series 10 - The Ultimate Wearables Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-your-craft-canvas-hidden-design-secrets/"><u>[New] In 2024, Elevate Your Craft Canva's Hidden Design Secrets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-sweep-up-viewers-the-science-behind-successful-youtube-shorts/"><u>[New] Sweep Up Viewers The Science Behind Successful YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/broadcasting-with-gopro-tips-for-facebookperiscope-integration/"><u>Broadcasting with GoPro Tips for Facebook/Periscope Integration</u></a></li>
+<li><a href="https://article-tips.techidaily.com/curating-the-perfect-day-to-unveil-podcast-content/"><u>Curating the Perfect Day to Unveil Podcast Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-12-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme 12 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-linux-securitys-mountain-of-vulnerabilities-a-weekly-guide-to-handling-60plus-cves-without-stress-insights-by-zdnet/"><u>Navigating Through Linux Security's Mountain of Vulnerabilities: A Weekly Guide to Handling 60+ CVEs Without Stress | Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/openai-introduces-economical-gpt-4-lite-transforming-app-creation-cost-efficiency-zdnet-insights/"><u>OpenAI Introduces Economical GPT-4 Lite, Transforming App Creation Cost Efficiency | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/step-by-step-approach-to-crafting-shareable-facebook-slideshows/"><u>Step-by-Step Approach to Crafting Shareable Facebook Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-job-reductions-in-major-technology-companies-beyond-the-headlines-zdnet/"><u>Understanding Job Reductions in Major Technology Companies: Beyond The Headlines | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-new-wave-of-ai-dominance-how-rag-is-redefining-power-structures-expert-analysis-by-zdnet/"><u>Understanding the New Wave of AI Dominance: How RAG Is Redefining Power Structures - Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 

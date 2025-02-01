@@ -1,7 +1,7 @@
 ---
 title: Automated Data Collection with Cookiebot for Smarter Personalization & Analytics
-date: 2024-09-11T16:09:40.288Z
-updated: 2024-09-17T16:03:41.523Z
+date: 2025-01-30T01:11:30.159Z
+updated: 2025-01-31T23:16:05.429Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
@@ -33,6 +33,10 @@ My career at ABBYY began five years ago in 2018, when I became Team Leader of th
 
 My main role now is in the automation and optimization of processes and systems in our company. This requires meetings with people from different teams and departments. Also, I always need to have a complete picture of how everything works in the company so that changes do not affect the processes of other teams.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What does a typical day look like for you at ABBYY?
 
 Every day I wake up with thoughts of ‘what else can be done better’ and fall asleep with thoughts of what I managed to achieve.
@@ -60,32 +64,10 @@ In recent years, I have been trying to spend more time in nature and have been c
 ![camping](https://static1.abbyy.com/abbyycommedia/36643/camping-abbyy-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When I’m not taking trips or camping breaks, I love to play board games with friends. I’m also guilty of spending hours online just looking for information about new technologies or breakthroughs in IT (information technology) or what tech companies are doing. I have a real thirst for tech news.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### If you could have one wish come true, what would it be?
 
@@ -94,38 +76,30 @@ I would like people to have the opportunity to do what they want and what they e
 ![Slava Prodan ABBYY](https://static1.abbyy.com/abbyycommedia/36640/slava-prodan-abbyy.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s your pet peeve?
 
 People who don’t learn from their mistakes. This is important so that you can take those lessons forward to improve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Name any inspirational book/movie/music you have recently discovered or are enjoying at the moment
 
 The “Intouchables” movie—it's an incredible story.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -188,5 +162,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-10-secrets-to-flawless-live-broadcasts-of-cricket-for-2024/"><u>[New] 10 Secrets to Flawless Live Broadcasts of Cricket for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-protective-recording-strategies-to-mask-personal-information/"><u>[New] In 2024, Protective Recording Strategies to Mask Personal Information</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-amplify-viewership-with-these-top-10-youtube-reaction-strategies/"><u>[Updated] Amplify Viewership with These Top 10 YouTube Reaction Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-strategies-for-correcting-quietened-video-sounds-on-fb-for-2024/"><u>[Updated] Strategies for Correcting Quietened Video Sounds on Fb for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/all-new-mac-devices-enhanced-with-apple-m4-chips-for-advanced-ai-capabilities-anticipated-launch-dates-uncovered/"><u>All-New Mac Devices Enhanced with Apple M4 Chips for Advanced AI Capabilities - Anticipated Launch Dates Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-ipad-pro-analysis-embracing-the-distinct-differences-from-a-macbook-tech-insights/"><u>Apple iPad Pro Analysis: Embracing the Distinct Differences From a MacBook | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-latest-innovations-of-visionos-2-showcased-at-apples-worldwide-developers-conference-insights-and-curiosities/"><u>Exploring the Latest Innovations of VisionOS 2 Showcased at Apple's Worldwide Developers Conference: Insights and Curiosities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/find-the-ultimate-apple-device-iphone-and-ipad-vpn-solutions-in-depth-comparisons-and-expert-analysis-zdnet/"><u>Find the Ultimate Apple Device (iPhone & iPad) VPN Solutions: In-Depth Comparisons and Expert Analysis | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protect-your-privacy-identifying-whether-someone-has-trapped-you-with-an-airtag-expert-tips-from-zdnet/"><u>Protect Your Privacy: Identifying Whether Someone Has Trapped You with an AirTag - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/showdown-of-the-titans-pixel-9xl-versus-iphone-15-pros-cameras-who-takes-the-crown-stunning-results-unveiled/"><u>Showdown of the Titans: Pixel #9XL versus iPhone 15 Pro's Cameras - Who Takes the Crown? Stunning Results Unveiled !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-multi-device-remote-software/"><u>Step-by-Step Tutorial on Creating Multi-Device Remote Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-showdown-google-pixel-watch-vs-apple-watch-series-8-which-timepiece-wins-in-functionality-and-style-techinsights/"><u>The Ultimate Showdown: Google Pixel Watch Vs. Apple Watch Series 8 - Which Timepiece Wins in Functionality and Style? | TechInsights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-five-essentials-getting-started-with-your-brand-new-pc/"><u>Top Five Essentials: Getting Started with Your Brand-New PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-innovations-from-apples-iphone-1n-event-introducing-glowtime-features-and-more-insights-and-analysis/"><u>Unveiling the Latest Innovations From Apple's iPhone 1N EVENT: Introducing Glowtime Features and More - Insights & Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-help-hub-comprehensive-support-services-for-winx-media-conversion-tools-and-dvd-copying-features/"><u>Virtual Help Hub: Comprehensive Support Services for WinX Media Conversion Tools and DVD Copying Features</u></a></li>
+</ul></div>
 

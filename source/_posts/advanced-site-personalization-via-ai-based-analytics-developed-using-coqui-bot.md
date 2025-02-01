@@ -1,7 +1,7 @@
 ---
 title: Advanced Site Personalization via AI-Based Analytics – Developed Using Coqui Bot
-date: 2024-09-11T16:11:35.882Z
-updated: 2024-09-17T16:05:35.198Z
+date: 2025-01-28T20:48:49.901Z
+updated: 2025-02-01T02:28:59.462Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a86301259979343ff3d486247b82.jpg
@@ -56,25 +56,24 @@ The Timeline for FlexiCapture solution gives you a single place to track the lif
 
 ![how vantage works](https://static1.abbyy.com/abbyycommedia/32491/how-vantage-works.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Find out how it can improve customer journey visibility, reduce time and manual effort, and provide end-to-end process visualization in more detail during Day 2 when Ezekiel Mathur presents during his session, Advanced Analytics ABBYY Timeline and ABBYY FlexiCapture Integration and ABBYY FlexiCapture Reporting Services.
 
 Visit the FlexiCapture web page for more information about the [Timeline for FlexiCapture](https://tools.techidaily.com/abbyy/products/) solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ABBYY partner ecosystem promotes hyperautomation, value for customers**
 
 ABBYY will have several technology partners share how they integrate ABBYY Digital Intelligence to achieve intelligent automation leveraging multiple tools ranging from machine learning, analytics, process mining, business intelligence, and RPA. The integrated approach promotes what Gartner refers to as hyperautomation using best-in-breed technology. Partners presenting during ABBYY Reimagine sessions include Gold sponsors EXL, Blue Prism, and Alteryx, as well as other technology partners PwC and Capitalize Analytics.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ABBYY partners with Capitalize Analytics to deliver end-to-end process insight to achieve operational excellence**
@@ -97,6 +96,10 @@ If you are unable to join us live, ABBYY Reimagine sessions will be available on
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -106,10 +109,7 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -173,5 +173,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-audio-anomalies-top-disruptive-apps-on-the-go/"><u>[New] Audio Anomalies Top Disruptive Apps on the Go</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-online-beat-finder-no-cash-fb-for-2024/"><u>[Updated] Online Beat Finder No Cash (FB) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-secrets-of-youtube-shorts-success/"><u>[Updated] Unveiling the Secrets of YouTube Shorts Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elite-converter-mp4-to-instant-fb-access-2023/"><u>2024 Approved Elite Converter MP4 to Instant FB Access 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-best-fit-comparing-apple-watch-ultra-and-series/"><u>Choosing the Best Fit: Comparing Apple Watch Ultra and Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-the-revolutionary-camera-button-enhances-iphone-16s-photography-experience/"><u>Discover How the Revolutionary Camera Button Enhances iPhone 16'S Photography Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-premium-video-artwork-download-at-no-cost-today-in-2024/"><u>Enjoy Premium Video Artwork - Download at No Cost Today, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-full-scale-examination-unboxing-the-dji-phantom-4/"><u>In 2024, Full-Scale Examination Unboxing the DJI Phantom 4</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-masterclass-in-length-management-youtube-vids/"><u>In 2024, Masterclass in Length Management YouTube Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-174-update-apple-enhances-podcasting-experience-with-transcript-feature-introduces-fresh-emoji-collection-and-revamps-eu-app-store-tech-news-from-zdnet.19/"><u>IOS 17.4 Update: Apple Enhances Podcasting Experience with Transcript Feature, Introduces Fresh Emoji Collection & Revamps EU App Store – Tech News From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/now-at-record-lows-secure-your-best-bargain-before-time-runs-out/"><u>Now at Record Lows! Secure Your Best Bargain Before Time Runs Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pros-and-cons-of-microsofts-latest-innovation-a-detailed-look-at-the-surface-pro-8-for-business-zdnet-insights/"><u>Pros and Cons of Microsoft's Latest Innovation: A Detailed Look at the Surface Pro 8 for Business | ZDNet Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-note-12-pro-4g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi Note 12 Pro 4G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-auto-gpt-a-comparison-with-chatgpt-explained/"><u>Understanding Auto-GPT: A Comparison with ChatGPT Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-features-in-ios-175-a-comprehensive-guide-to-app-download-updates-for-eu-users-on-apple-devices/"><u>Unlocking New Features in iOS 17.5: A Comprehensive Guide to App Download Updates for EU Users on Apple Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-apple-projects-affordable-vr-headsets-and-augmented-reality-eyewear-unveiled-by-zdnet/"><u>Upcoming Apple Projects: Affordable VR Headsets & Augmented Reality Eyewear Unveiled by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-your-imessages-were-marked-as-undeliverable-last-night-uncover-the-reason-with-zdnet/"><u>Why Your iMessages Were Marked as 'Undeliverable' Last Night: Uncover the Reason with ZDNet</u></a></li>
+</ul></div>
 

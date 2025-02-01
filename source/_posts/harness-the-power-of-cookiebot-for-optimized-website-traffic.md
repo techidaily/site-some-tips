@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of Cookiebot for Optimized Website Traffic
-date: 2024-09-11T16:02:52.403Z
-updated: 2024-09-17T16:05:54.047Z
+date: 2025-01-26T03:19:57.706Z
+updated: 2025-01-31T22:52:59.774Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021abfc1f3482b428b18a9e6d1.jpg
@@ -11,9 +11,17 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## RPA and NLP: New Technology (and New Acronyms!) Solving Old Problems
 
 English
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featuring
 
@@ -25,6 +33,10 @@ Process Intelligence Lead, **ABBYY**
 
 ![21 Mikesimon 198X198](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Michael Simon
 
 Independent Consultant and Attorney
@@ -32,13 +44,6 @@ Independent Consultant and Attorney
 ### How can robotic process automation (RPA) and natural language processing (NLP) technologies help fight financial crimes and protect your enterprise?
 
 ![RPA and NLP: New technology (and new acronyms!) solving old problems](https://static1.abbyy.com/abbyycommedia/32783/41-rpa-and-nlp-en-360x232.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The COVID-19 pandemic slowed many businesses. Unfortunately, fraud has not declined. Cybercriminals adapt quickly. They are among the first to adopt new technology. Your institution’s defense strategy needs to move just as fast to stay ahead of them. In this session, we explored how new technologies can help fight financial crimes and protect your enterprise. 
 
@@ -50,19 +55,20 @@ Included in this recording:
 * How to create automated workflows in KYC/AML to mitigate new risks imposed by remote business
 * How to respond to change with banker-focused solutions to lead your institution through times of vulnerability
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fill in the form to register for the webinar now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Thank you for registering!
 
@@ -72,20 +78,10 @@ Please check your inbox, we have sent you a confirmation email.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### You might also be interested in these assets
@@ -155,5 +151,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reach-new-heights-in-youtube-seo-top-tips-and-tricks/"><u>[Updated] Reach New Heights in YouTube SEO Top Tips and Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-top-10-photo-grid-software/"><u>2024 Approved Groundbreaking Top 10 Photo Grid Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-explores-innovative-respiratory-monitoring-feature-for-upcoming-vision-pro/"><u>Apple Explores Innovative Respiratory Monitoring Feature for Upcoming Vision Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-error-e8024002e-for-updates/"><u>Bypassing Windows Error E:8024002E for Updates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cultivating-inquisitive-interview-habits/"><u>Cultivating Inquisitive Interview Habits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/encountered-fluid-on-iphone-charger-end-explore-your-remedies-with-tips-by-zdnet/"><u>Encountered Fluid on iPhone Charger End? Explore Your Remedies with Tips by ZDNET</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-12-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 12</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-huawei-nova-y91-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Huawei Nova Y91 without App | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-visual-enchantment-top-14-text-animation-highlights/"><u>In 2024, Visual Enchantment Top 14 Text Animation Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-apple-pay-a-comprehensive-guide-for-in-store-and-online-transactions-learn-why-its-beneficial/"><u>Mastering Apple Pay: A Comprehensive Guide for In-Store & Online Transactions - Learn Why It's Beneficial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-a-steal-with-the-perfect-ipad-at-199-on-amazon-during-the-big-labor-day-sale-zdnet-unveiled/"><u>Score a Steal with the Perfect iPad at $199 on Amazon During the Big Labor Day Sale - ZDNET Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-exclusive-deal-grab-the-newest-apple-watch-series-10-at-just-99-with-pre-order-from-best-buy-a-step-by-step-guide/"><u>Secure Your Exclusive Deal: Grab the Newest Apple Watch Series 10 at Just $99 with Pre-Order From Best Buy – A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-havit-five-fan-cooling-pad-assessment-a-must-have-for-gamers-seeking-superior-ventilation-solutions/"><u>The HAVIT Five Fan Cooling Pad Assessment: A Must-Have for Gamers Seeking Superior Ventilation Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-photography-the-remarkable-advancements-in-smartphone-camera-technology-powered-by-artificial-intelligence-for-an-impressive-tomorrow/"><u>Transforming Photography: The Remarkable Advancements in Smartphone Camera Technology Powered by Artificial Intelligence for an Impressive Tomorrow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-a-vpn-for-ios-insiders-testing-and-honest-reviews/"><u>Ultimate Guide to Choosing a VPN for iOS: Insider's Testing & Honest Reviews</u></a></li>
+</ul></div>
 

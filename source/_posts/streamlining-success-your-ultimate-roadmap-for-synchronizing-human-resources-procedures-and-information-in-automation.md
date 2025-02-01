@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Success: Your Ultimate Roadmap for Synchronizing Human Resources, Procedures & Information in Automation"
-date: 2024-09-18T16:25:04.750Z
-updated: 2024-09-22T18:11:18.447Z
+date: 2025-01-31T05:25:04.379Z
+updated: 2025-01-31T19:16:58.965Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c72f65d6cf6eccfb8dd0cd66944cb2172744b7375f3b2c967f4222ce690bc4fc.jpg
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/c72f65d6cf6eccfb8dd0cd66944cb2172744b7375
 
 English
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featuring
 
 ![16 Wvda 198X198](https://static1.abbyy.com/abbyycommedia/35539/rwthaachen-logo-forspeakers-205x32.jpg) 
 
 ![16 Wvda 198X198](https://static4.abbyy.com/abbyycommedia/25483/16-wvda-198x198.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prof. Dr. ir. Wil van der Aalst
 
@@ -30,15 +38,16 @@ English
 ![28 Scottopitz 198X198](https://static4.abbyy.com/abbyycommedia/25613/28-scottopitz-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scott Opitz
 
 Chief Marketing Officer, **ABBYY**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Overview
 
@@ -47,13 +56,6 @@ Today’s information systems generate an unprecedented amount of data from both
 Prof. Dr. ir. Wil van der Aalst has made it his life’s work to enable organizations to gain visibility into their business processes and empower them to make informed decisions to optimize them, based on objective and measurable criteria.
 
 This webinar explores the evolution of process mining, from its development and refinement at Eindhoven University of Technology to mainstream adoption today, where it is embedded in commercial products and works alongside technologies such as RPA, Business Process Management (BPM) and Analytic Process Automation (APA). The combined power of these technologies enable organizations to fully understand and improve some of the most complex and variable business processes such as the patient journey, customer onboarding, claims processing, customer service, and more. With access to real-time data about exactly how processes are actually working and the content that fuels them, a human-centered workforce optimization and process automation solution empowers you to gain end-to-end visibility into processes where it matters most: customer experience, competitive advantage, and compliance.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Watch it now!
 
@@ -75,22 +77,13 @@ Topics covered include:
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Thank you, enjoy your webinar!
 
 [![17 The Smart Path To Process Automation](https://static2.abbyy.com/abbyycommedia/29993/17-the-smart-path-to-process-automation.jpg)](https://www.youtube.com/watch?v=6ZTFE0O%5Fb1E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
@@ -157,5 +150,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-best-hd-action-recorder-brands-under-100-for-2024/"><u>[New] Best HD Action Recorder Brands Under $100 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-crystal-clear-on-screen-discovering-the-cg318-4k-monitor-for-2024/"><u>[New] Crystal Clear on Screen Discovering the CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-achieve-collaborative-efficiency-using-skypes-screen-share-feature/"><u>[New] In 2024, How to Achieve Collaborative Efficiency Using Skype’s Screen-Share Feature</u></a></li>
+<li><a href="https://facebook.techidaily.com/6-ways-to-amplify-attraction-through-a-profile-image/"><u>6 Ways to Amplify Attraction Through a Profile Image</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-early-access-ios-1n-software-update-install-instructions-and-tips-for-iphones-techradar/"><u>Get Early Access: IOS 1N Software Update - Install Instructions and Tips for iPhones | TechRadar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-key-elements-in-achieving-proficient-interview-performance/"><u>In 2024, The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/safeguarding-personal-information-in-the-cloud-discover-how-apple-manages-ai-data-security-zdnet/"><u>Safeguarding Personal Information in the Cloud: Discover How Apple Manages AI Data Security | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-your-inbox-with-one-simple-email-strategy-no-junk-or-extra-accounts-needed-tech-insights/"><u>Simplify Your Inbox with One Simple Email Strategy, No Junk or Extra Accounts Needed | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-3-new-iphone-16-innovations-that-will-make-you-want-to-switch-right-now-insights-from-zdnet/"><u>The Top 3 New iPhone 16 Innovations That Will Make You Want to Switch Right Now! - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-combine-mov-files-for-free-5-excellent-options-for-2024/"><u>Updated Combine MOV Files for Free 5 Excellent Options for 2024</u></a></li>
+</ul></div>
 

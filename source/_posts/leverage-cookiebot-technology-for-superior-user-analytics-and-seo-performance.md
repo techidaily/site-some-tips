@@ -1,7 +1,7 @@
 ---
 title: Leverage Cookiebot Technology for Superior User Analytics and SEO Performance
-date: 2024-09-12T16:09:37.826Z
-updated: 2024-09-17T16:17:52.830Z
+date: 2025-01-29T18:06:35.602Z
+updated: 2025-02-01T02:27:02.998Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692a90f4785a3be5a978334fdb.jpg
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 Healthcare | Document Management
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## USC Cancer Surveillance Program Automates Medical Records Processing and Ensures Compliance
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
@@ -24,6 +32,10 @@ Healthcare | Document Management
 Healthcare | Document Management 
 
 ![](https://static1.abbyy.com/abbyycommedia/15551/3-usc-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -38,6 +50,10 @@ Healthcare | Document Management
 #### Partner Overview
 
 ![WiseTREND](https://static2.abbyy.com/abbyycommedia/15269/wisetrend_logo.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name                  | WiseTREND                                     |
 | --------------------- | --------------------------------------------- |
@@ -121,6 +137,10 @@ The solution has also eliminated the need to outsource imaging to costly vendors
 
 [![PDF Version](https://static5.abbyy.com/abbyycommedia/15552/3-usc-2.png)](https://static4.abbyy.com/abbyycommedia/5380/fc%5Fusc%5Fhealthcare%5F2015.pdf "PDF version") [PDF version](https://static4.abbyy.com/abbyycommedia/5380/fc%5Fusc%5Fhealthcare%5F2015.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://static4.abbyy.com/abbyycommedia/5380/fc%5Fusc%5Fhealthcare%5F2015.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -150,12 +170,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-streamlining-social-media-top-strategies-for-pc-livestreaming-on-tiktok/"><u>[New] 2024 Approved Streamlining Social Media Top Strategies for PC Livestreaming on TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[New] Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-livestream-game-twitch-and-youtube-via-obs/"><u>[Updated] Elevate Your Livestream Game Twitch & YouTube via OBS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>2024 Approved Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/are-you-underestimating-your-apple-watch-battery-health-shocking-findings-revealed-by-zdnet/"><u>Are You Underestimating Your Apple Watch Battery Health? Shocking Findings Revealed by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726029688487-dvd/"><u>DVDリッピングでよくある問題とその修正手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-ai-driven-chatbot-filtering-influence-you-an-insight-into-digital-communication-controls/"><u>How Does AI-Driven Chatbot Filtering Influence You? An Insight Into Digital Communication Controls</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-free-up-mastery-effortless-ways-to-gain-hundreds-of-megabytes-smartphone-savvy/"><u>IPhone Free-Up Mastery: Effortless Ways to Gain Hundreds of Megabytes | Smartphone Savvy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/october-launch-rumored-as-apple-delays-unveiling-intelligence-tech-features-sources-say-exclusive/"><u>October Launch Rumored as Apple Delays Unveiling Intelligence Tech Features, Sources Say Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-on-the-go-charge-with-the-affordable-20-anker-battery-a-game-changer-discussed/"><u>Revolutionize Your On-the-Go Charge with the Affordable $20 Anker Battery - A Game Changer Discussed !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-apple-vision-pro-with-a-vpn-step-by-step-installation-and-why-it-matters-insights/"><u>Secure Your Apple Vision Pro With a VPN: Step-by-Step Installation & Why It Matters | Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-a1x-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo A1x 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-microsoft-enterprise-solutions-for-ios-discover-the-best-picks/"><u>Top 10 Microsoft Enterprise Solutions for iOS - Discover the Best Picks!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-mac-software-picks-discover-the-latest-from-zdnet/"><u>Top-Ranking Mac Software Picks – Discover the Latest From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-dilemma-do-you-need-the-latest-iphone-16-insights-and-arguments-s-editorial-team-smartphone-review/"><u>Upgrade Dilemma: Do You Need the Latest iPhone 16? Insights and Arguments 'S Editorial Team | Smartphone Review</u></a></li>
+</ul></div>
 

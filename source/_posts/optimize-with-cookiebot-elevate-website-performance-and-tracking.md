@@ -1,7 +1,7 @@
 ---
 title: "Optimize with Cookiebot: Elevate Website Performance & Tracking"
-date: 2024-09-12T07:20:46.405Z
-updated: 2024-09-13T07:20:46.405Z
+date: 2025-01-26T03:12:31.351Z
+updated: 2025-01-31T17:10:33.807Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57491460fea382eb83a2be019.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY ernennt Anthony Macciola zum Chief Innovation Officer
@@ -25,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ABBYY, ein führender und globaler Anbieter von Technologien und Lösungen für den effektiven Einsatz von Informationen in Organisationen, hat bekannt gegeben, dass Anthony Macciola zum Chief Innovation Officer ernannt wurde. In dieser neu geschaffenen Rolle wird Macciola Innovationen fördern und im Rahmen der marktorientierten Strategie von ABBYY die Entwicklung neuer Produkt- und Servicekonzepte vorantreiben.
@@ -86,5 +80,19 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-the-definitive-guide-to-du-recorders-capabilities-for-2024/"><u>[New] The Definitive Guide to Du Recorder's Capabilities for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>2024 Approved Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/act-now-save-big-with-our-top-choice-of-nomad-iphone-cases-bogo-offer/"><u>Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-complies-with-macbook-class-action-agreement-eligible-users-receive-compensation-insights-from-zdnet/"><u>Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-productivity-transforming-your-home-office-with-the-ipad-pro-insights/"><u>Boosting Productivity: Transforming Your Home Office with the iPad Pro - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-latest-innovation-airpods-4-by-apple-now-with-find-my-speaker-capability-and-improved-usb-c-connectivity-gizmodo-insights/"><u>Discover the Latest Innovation: AirPods 4 by Apple Now with Find My Speaker Capability and Improved USB-C Connectivity | Gizmodo Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-your-smile-complimentary-photo-enrichment-app-for-2024/"><u>Enhance Your Smile Complimentary Photo Enrichment App for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mac-usage-techniques-to-prevent-unwanted-auto-sleep-functions/"><u>Mastering Mac Usage: Techniques to Prevent Unwanted Auto-Sleep Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-file-operations-in-powershell-and-command-prompt/"><u>Optimizing File Operations in PowerShell & Command Prompt</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-anticipated-arrival-of-google-pixel-tablet-schedule-performance-specs-and-expert-analysis/"><u>The Anticipated Arrival of Google Pixel Tablet - Schedule, Performance Specs, and Expert Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-samsung-galaxy-note-3-debut-schedule-capabilities-and-cost-breakdown/"><u>The Samsung Galaxy Note 3 Debut: Schedule, Capabilities & Cost Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-avoid-frustrating-steam-audio-drops/"><u>Tips to Avoid Frustrating Steam Audio Drops</u></a></li>
+</ul></div>
 

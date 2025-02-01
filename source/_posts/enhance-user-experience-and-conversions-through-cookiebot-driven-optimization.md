@@ -1,7 +1,7 @@
 ---
 title: Enhance User Experience & Conversions Through Cookiebot-Driven Optimization
-date: 2024-09-14T16:00:59.392Z
-updated: 2024-09-17T16:13:34.379Z
+date: 2025-01-27T04:32:38.537Z
+updated: 2025-02-01T06:41:46.422Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
@@ -18,6 +18,10 @@ CASE STUDY | MANUFACTURING
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/gemlux_white_120x40.png?h=40&iar=0&w=120)
 
 ![GEMLUX](https://content.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/customer%20stories/case%20studies%20main%20images/brantman_240202_gemviking_drone_028_905x.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -44,6 +48,10 @@ By making purchase order processing more efficient, sales reps can spend more ti
 
 Kailyn Nordsiek, ERP Systems Specialist
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Challenge
 
 GEMLUX sales reps were spending 30 to 45 minutes manually entering data from customer purchase orders into their NetSuite ERP. POs could be 10 pages long with as many as 100 line items. Every time sales reps entered a line, they had to review customizations in place, while answering calls from customers.
@@ -60,6 +68,10 @@ GEMLUX needed a solution that could:
 Now that we have put in place the integration for NetSuite to grab data from ABBYY IDP, we are pretty well set up to do it for other types of documents.
 
 Rob Blackerby, Director of I.T.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution
 
@@ -88,10 +100,7 @@ ABBYY IDP has the ability to process any kind of document. With the successful i
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### PDF Version
@@ -101,10 +110,7 @@ ABBYY IDP has the ability to process any kind of document. With the successful i
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ready to speak with an expert?
@@ -124,5 +130,16 @@ ABBYY IDP has the ability to process any kind of document. With the successful i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-the-future-of-action-photography-starts-here-xs-100-i-reviewed/"><u>[Updated] The Future of Action Photography Starts Here - XS 100 I Reviewed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-duration-formula-20mb-video-in-secs/"><u>2024 Approved Duration Formula 20MB Video in Secs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-offer-the-apple-watch-ultra-slashed-to-historic-lows-before-the-festive-season-shop-smart-with-zdnets-guide/"><u>Apple's Latest Offer: The Apple Watch Ultra Slashed to Historic Lows Before the Festive Season - Shop Smart with ZDNET's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-and-craft-of-podcast-storytelling/"><u>In 2024, The Art and Craft of Podcast Storytelling</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-turbocharge-youtube-videos-efficient-rendering-fast-transfer/"><u>In 2024, Turbocharge YouTube Videos Efficient Rendering, Fast Transfer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/magsafe-mastery-multi-device-charging-and-cooling-with-our-triple-threat-dock-reviewed-by-tech-experts-at-zdnet/"><u>MagSafe Mastery: Multi-Device Charging and Cooling with Our Triple Threat Dock, Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-network-interfaces-on-macos-for-enhanced-connectivity-options-a-guide-by-techexperts/"><u>Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options - A Guide by TechExperts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-discovery-repurposing-plastic-cutlery-for-efficient-and-effective-3d-printing-uses/"><u>Surprising Discovery: Repurposing Plastic Cutlery for Efficient and Effective 3D Printing Uses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-innovative-iphone-16-pro-attributes-exciting-tech-aficionados-insights/"><u>Top 5 Innovative iPhone 16 Pro Attributes Exciting Tech Aficionados: Insights</u></a></li>
+</ul></div>
 

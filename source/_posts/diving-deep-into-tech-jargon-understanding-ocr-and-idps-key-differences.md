@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep Into Tech Jargon: Understanding OCR and IDP's Key Differences"
-date: 2024-09-18T19:16:12.513Z
-updated: 2024-09-22T19:15:16.698Z
+date: 2025-01-29T06:10:04.667Z
+updated: 2025-01-31T17:49:22.624Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6fb318adf671f70aacd812852.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 
 [Zurück zu ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OCR vs. IDP: Was ist der Unterschied?
 
 ###### Slavena Hristova
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 29\. Juli 2024
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/ocr-vs-idp/ds-66-ocr-idp-image-2-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gehe direkt zu: 
 
@@ -43,13 +51,6 @@ OCR beginnt mit der Datei, aus der Sie Informationen extrahieren möchten. Dabei
 
 Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern oder Vorlagen abgeglichen, die bekannte Zeichen und Symbole darstellen. Dabei können Technologien wie maschinelles Lernen und neuronale Netze eingesetzt werden, um die Erkennungsgenauigkeit zu verbessern und verschiedene Schriftarten und Sprachen oder komplizierte Layouts wie Tabellen und Listen oder Strichcodes zu verarbeiten. Wenn die OCR auf ein Problem stößt, kann sie dieses zur menschlichen Bearbeitung kennzeichnen. Nach Abschluss des Zeichenerkennungsprozesses müssen Sie das Ergebnis eventuell noch auf Fehler prüfen oder die Genauigkeit durch Rechtschreibprüfung, Kontextanalyse oder Sprachmodellierung verbessern. Die OCR-Software erzeugt dann den endgültigen maschinenlesbaren Text, der in das Computersystem Ihres Unternehmens integriert werden kann.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Vorteile der OCR
 
 [OCR](https://tools.techidaily.com/abbyy/products/) ist eine unverzichtbare Technologie für alle Branchen, in denen viel mit Dokumenten gearbeitet wird, sei es bei der täglichen Arbeit der Mitarbeitenden mit ihren aktuellen Dokumenten, bei der Digitalisierung von Archiven oder bei der Erstellung von barrierefreien digitalen Dokumentenarchiven durch die Verarbeitung einer großen Menge von Dokumenten, z. B. von Dokumentenstapeln im Gesundheitswesen oder von Logistikdokumentationen.
@@ -70,10 +71,7 @@ Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wie es funktioniert
@@ -102,6 +100,10 @@ Die IDP-Technologie orientiert sich eng an der Art und Weise, wie Menschen Dokum
 * **Skalierbarkeit.** Mit wachsender Geschäftstätigkeit steigt auch das Volumen der zu verarbeitenden Dokumente. IDP-Lösungen können problemlos skaliert werden, um größere Dokumentenmengen zu verarbeiten, ohne dass die Arbeitskosten proportional ansteigen.
 * **Einfache Integration in den Unternehmens-Workflow.** IDP kann mit anderen digitalen Systemen und Workflows kombiniert werden, um eine nahtlose und effiziente Digitalisierung von Geschäftsprozessen in allen Unternehmensbereichen und in der gesamten Organisation zu ermöglichen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Was ist der Unterschied zwischen OCR und IDP?
 
 OCR gibt es schon seit Langem und ist als Technologie zur Dokumentenerfassung bekannt. **OCR wird in erster Linie verwendet, um Text aus Papierdokumenten, gescannten Bildern oder Fotos zu extrahieren und in maschinengeschriebenen Text umzuwandeln, der digital auf einem Computer bearbeitet werden kann.**
@@ -118,19 +120,6 @@ So kann IDP beispielsweise eine Rechnung lesen, ihren Inhalt mit einer entsprech
 | **Wie es funktioniert**      | Wendet KI-Algorithmen an, um analoge Papierdokumente in digitalen Text umzuwandeln, einschließlich Dokumentstruktur und -segmentierung (Text, Bilder, Tabellen, Strichcodes, Häkchen, Unterschriften, Zeilen, Zeichen, Schriftarten, Schriftgrößen, Sprache usw.). | Verwendet den von OCR bereitgestellten Volltext als Grundlage, um mittels KI, NLP, ML, regulären Ausdrücken und Regeln die Informationen im Dokument zu verstehen und ausgewählte, aussagekräftige Daten zu extrahieren, die nachfolgend als Grundlage fundierter Geschäftsentscheidungen dienen. |
 | **Technologie**              | Bildverbesserung, Objekterkennung OCR / ICR                                                                                                                                                                                                                        | Klassifizierung Deep Machine Learning Fast Machine Learning Extraktionsregeln Segmentierung Erkennung von Eigennamen (NER) Natural Language Processing (NLP)                                                                                                                                      |
 | **Typische Anwendungsfälle** | Bietet Zugang zu maschinenlesbarem Text als Grundlage für: PDF-Konvertierung, Digitale Archivierung / Suche eDiscovery Erweiterte Suche / Digitale Forensik Datenanalyse Intelligente Dokumentenverarbeitung (IDP)                                                 | Automatisierung aller dokumentenzentrierten Geschäftsprozesse: Automatisierung der Kreditorenbuchhaltung Neukundenaufnahme / KYC Kreditbearbeitung Automatisierung von Transport- und Logistikdokumentation Bearbeitung von Versicherungsansprüchen                                               |
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beispiele für OCR und IDP in Geschäftsprozessen
 
@@ -149,6 +138,10 @@ Die kostspielige, zeitaufwändige und fehleranfällige manuelle Dateneingabe ent
 Studien zufolge stellen 90% der Unternehmen fest, dass potenzielle Kunden den digitalen Registrierungsprozess abbrechen. Die häufigsten Beschwerden der Antragsteller sind, dass der Prozess zu lange dauert und zu viele Daten eingegeben werden müssen.
 
 Mit intelligenter Dokumentenverarbeitung können Sie die Hindernisse beseitigen, die zu Abbrüchen veranlassen. [Unternehmen können die IDP-Technologie für den Identitätsnachweis](https://tools.techidaily.com/abbyy/products/) und die Identitätsbestätigung nutzen, was das Ganze für Kunden einfacher und für Unternehmen sicherer macht. IDP kann Ausweisdokumente wie Führerscheine oder Reisepässe oder unterstützende Dokumente wie Kontoauszüge oder Rechnungen von Versorgungsunternehmen erfassen und klassifizieren, die zum Nachweis der Adresse benötigt werden. Sie kann beispielsweise von Kraftfahrzeugbehörden für die Verlängerung eines Führerscheins oder von einer Bank für Hypothekenanträge verwendet werden.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OCR vs. IDP: Was ist für Ihr Unternehmen am besten?
 
@@ -199,16 +192,7 @@ Technologien für OCR (optische Zeichenerkennung) und IDP (intelligente Dokument
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Slavena Hristova
@@ -276,5 +260,23 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-china-on-ice-revelry-at-the-2022-beijing-olympics/"><u>[New] China on Ice Revelry at the 2022 Beijing Olympics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-crossposting-youtube-links-to-ig-stories/"><u>[Updated] Effortless Crossposting YouTube Links to IG Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-skyrocket-your-earnings-by-mastering-youtube-shorts-monetization/"><u>2024 Approved Skyrocket Your Earnings by Mastering YouTube Shorts Monetization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-premium-finewoven-collection-in-favor-of-newly-launched-beats-bands-insights/"><u>Apple Discontinues Premium FineWoven Collection in Favor of Newly Launched Beats Bands - Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-access-to-best-ae-templates/"><u>Exclusive Access to Best AE Templates</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-redmi-13c-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Xiaomi Redmi 13C Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immerse-in-the-ultimate-game-day-thrill-exclusive-free-iphone-app-for-sports-enthusiasts-detailed-insights/"><u>Immerse in the Ultimate Game-Day Thrill: Exclusive Free iPhone App for Sports Enthusiasts | Detailed Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-youtube-traffic-best-hash-tactics-explained/"><u>In 2024, Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-pova-6-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Pova 6 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-note-30-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Note 30 Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/qualified-macbook-users-receive-payouts-from-apple-in-recent-class-action-resolution-detailed-insights-techcrunch/"><u>Qualified MacBook Users Receive Payouts From Apple in Recent Class Action Resolution - Detailed Insights | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-phones-recommended-by-zdnet-experts-our-personal-favorites-and-real-world-usage/"><u>Top Phones Recommended by ZDNet Experts: Our Personal Favorites and Real-World Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-for-childrens-tablets-endorsed-by-parents-insights-from-zdnet/"><u>Top Picks for Children’s Tablets Endorsed by Parents – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-unbeatable-laptop-offers-in-july-2024-featured-on-zdnet/"><u>Top Picks: Unbeatable Laptop Offers in July 2024 - Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-smartwatch-game-advanced-tricks-for-apple-watch-owners/"><u>Upgrade Your Smartwatch Game: Advanced Tricks for Apple Watch Owners</u></a></li>
+</ul></div>
 

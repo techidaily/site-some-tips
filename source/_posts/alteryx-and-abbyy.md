@@ -1,7 +1,7 @@
 ---
 title: Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される
-date: 2024-09-12T07:21:49.155Z
-updated: 2024-09-13T07:21:49.155Z
+date: 2025-01-24T23:51:16.514Z
+updated: 2025-01-31T23:57:49.597Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYYがAlteryxと提携し、高度なProcess IntelligenceによりAlteryx社のアナリティック・プロセス・オートメーション（APA）プラットフォームを拡張
@@ -25,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_統合型のソリューションを通じてデジタルトランスフォーメーションの主要なイニシアチブを加速_**
@@ -117,5 +111,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>[Updated] 2024 Approved How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-technology-rises-to-the-top-navigating-the-new-era-of-security-challenges-expert-analysis-by-zdnet/"><u>Cloud Technology Rises to the Top - Navigating the New Era of Security Challenges | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-management-features-with-aws-lake-formation-on-amazon/"><u>Enhanced Management Features with AWS Lake Formation on Amazon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-tencents-bold-move-into-the-metaverse-silence-surrounding-their-strategy-for-chatgpt/"><u>Exploring Tencent's Bold Move Into the Metaverse: Silence Surrounding Their Strategy for ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-hikes-monthly-enterprise-space-rates-sky-high-by-38-what-you-need-to-know/"><u>Google Hikes Monthly Enterprise Space Rates Sky High by 38% – What You Need to Know</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hands-on-tutorial-for-easy-amd-graphics-driver-upgrades/"><u>Hands-On Tutorial for Easy AMD Graphics Driver Upgrades</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-future-of-storage-top-picks-and-prices-in-clouds/"><u>In 2024, Future of Storage Top Picks and Prices in Clouds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transforming-your-instagram-video-into-a-social-sensation/"><u>In 2024, Transforming Your Instagram Video Into a Social Sensation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/light-absorption/"><u>Light Absorption</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-inter-server-maze-from-bedrock-to-java-with-geysermc/"><u>Navigating the Inter-Server Maze From Bedrock to Java with GeyserMC</u></a></li>
+<li><a href="https://facebook.techidaily.com/revealing-top-rated-facebook-smart-home-products/"><u>Revealing Top-Rated Facebook Smart Home Products</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-90-gt-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor 90 GT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-future-of-ai-how-microsoft-and-nvidia-collaborate-on-an-incredible-cloud-based-supercomputer/"><u>Unveiling the Future of AI: How Microsoft & Nvidia Collaborate on an Incredible Cloud-Based Supercomputer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-strongest-gaming-laptop-contenders-for-e-2024-in-depth-analysis-and-benchmarking/"><u>Unveiling the Strongest Gaming Laptop Contenders for E 2024: In-Depth Analysis and Benchmarking</u></a></li>
+</ul></div>
 

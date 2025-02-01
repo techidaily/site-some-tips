@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead"
-date: 2024-09-19T17:15:42.941Z
-updated: 2024-09-22T18:03:59.063Z
+date: 2025-01-30T23:17:17.488Z
+updated: 2025-01-31T21:09:34.024Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668667f50f1987a428d6465f16.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scott Opitz wird neuer Chief Marketing Officer von ABBYY
 
 11\. Februar 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, ernennt Scott Opitz zum neuen Chief Marketing Officer. Er tritt die Nachfolge von Jupp Stoepetie an, der sich nach 20-jähriger Betriebszugehörigkeit in den Ruhestand verabschiedet.
 
@@ -61,12 +69,22 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-essential-guide-to-metaverse-brand-strategies/"><u>[New] 2024 Approved The Essential Guide to Metaverse Brand Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-purchasing-followers-impacts-the-integrity-of-youtube-content-creators/"><u>[New] In 2024, How Purchasing Followers Impacts the Integrity of YouTube Content Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-designing-effective-video-previews-for-channels-for-2024/"><u>[Updated] Designing Effective Video Previews for Channels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-miss-out-grab-tg-pro-at-a-steep-discount-of-75-this-cyber-monday-a-game-changer-for-your-m3-mac-spotted-by-zdnet/"><u>Don't Miss Out: Grab TG Pro at a Steep Discount of 75% This Cyber Monday - A Game-Changer for Your M3 Mac, Spotted by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-humor-image-processor/"><u>In 2024, Best Humor Image Processor</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 6s Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-ipados-and-macos-integration-apple-collaborates-with-openai-for-chatgpt-availability/"><u>IOS, iPadOS & MacOS Integration: Apple Collaborates with OpenAI for ChatGPT Availability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-with-m1-chip-unbeatable-deal-at-just-649-exclusive-offer/"><u>MacBook Air with M1 Chip: Unbeatable Deal at Just $649 – Exclusive Offer !</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retrieving-a-sent-message-in-outlook-a-comprehensive-tutorial/"><u>Retrieving a Sent Message in Outlook: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-copy-of-the-newly-released-apple-vision-pro-available-in-512gb-and-1tb-exclusive-details-techradar/"><u>Secure Your Copy of the Newly Released Apple Vision Pro: Available in 512GB & 1TB - Exclusive Details | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perfect-fit-discovering-the-apple-watch-ultra-2-at-an-unbeatable-labor-day-price-a-personal-review-by-zdnet/"><u>The Perfect Fit: Discovering the Apple Watch Ultra 2 at an Unbeatable Labor Day Price - A Personal Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-techniques-for-identifying-airtag-surveillance-on-your-person-tips/"><u>Uncover Techniques for Identifying AirTag Surveillance on Your Person - Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-ipad-and-iphone-potential-with-ios-181-beta-incorporating-enhanced-apple-intelligence-begin-your-test-drive-now/"><u>Unlock iPad & iPhone Potential with iOS 18.1 Beta, Incorporating Enhanced Apple Intelligence - Begin Your Test Drive Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-automattics-ambitious-expansion-acquiring-beeper-to-transform-messaging-platform-dynamics-expert-analysis-by-zdnet/"><u>Unveiling Automattic's Ambitious Expansion: Acquiring Beeper to Transform Messaging Platform Dynamics | Expert Analysis by ZDNet</u></a></li>
+</ul></div>
 

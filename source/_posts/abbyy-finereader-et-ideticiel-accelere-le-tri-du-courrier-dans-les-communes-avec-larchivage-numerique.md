@@ -1,7 +1,7 @@
 ---
 title: ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique
-date: 2024-09-19T18:22:12.461Z
-updated: 2024-09-22T17:28:46.426Z
+date: 2025-01-27T16:10:03.199Z
+updated: 2025-02-01T04:15:42.609Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d5c6f331ff630995ba1cfe29.jpg
@@ -13,11 +13,23 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 Government
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY FineReader et les solutions d’IDéation informatique facilitent le traitement du courrier entrant et l’archivage dans les collectivités locales
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/39659.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ABBYY FineReader et les solutions d’IDéation informatique facilitent le traitement du courrier entrant et l’archivage dans les collectivités locales
 
@@ -28,6 +40,10 @@ Government
 _IDéation informatique, une société de services indépendante intervenant dans les domaines des systèmes informatiques et du développement de logiciels, propose aux collectivités locales un module OCR intégré à ses solutions de suivi du courrier et d’archivage._
 
 ![IDéation Informatique](https://static1.abbyy.com/abbyycommedia/10192/logoid1.png "IDéation Informatique")IDéation informatique est confronté depuis de nombreuses années aux besoins d’administrations locales (mairies, communautés de communes, préfectures) qui cherchent à gérer le suivi du courrier et l’archivage. Ces collectivités locales doivent pouvoir gérer tous les correspondants concernés par un courrier, gérer des alertes sur des dates limites de réponse et de traitement, ou encore, analyser le flux des courriers au sein de leurs services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 L’un des objectifs des collectivités locales est d’être capable de tracer les courriers et d’établir des liens entre leurs différents documents.
 
@@ -75,6 +91,10 @@ Contact: [www.ideation.fr](http://www.ideation.fr/)
 
 Partager 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -94,18 +114,17 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>[New] In 2024, Amplify Your Influence on IG How to Gain 1K Followers Monthly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-hdr-photography-how-to-shoot-hdr-photos-with-an-iphone/"><u>[New] In 2024, HDR Photography How to Shoot HDR Photos with an iPhone?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-how-to-install-non-app-store-applications-on-your-iphone-safely-without-jailbreak/"><u>1. How To Install Non-App Store Applications On Your iPhone Safely Without Jailbreak</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-exploration-guide-the-best-historical-youtube-selections-for-students/"><u>Channel Exploration Guide The Best Historical YouTube Selections for Students</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-update-nomenclature-windows-edition/"><u>Deciphering Update Nomenclature: Windows Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-no-distractions-just-high-quality-webcam-recording/"><u>In 2024, No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-showdown-in-depth-comparison-of-macbook-pro-vs-macbook-air-to-determine-which-suits-you-best-zdnet/"><u>MacBook Showdown: In-Depth Comparison of MacBook Pro Vs. MacBook Air to Determine Which Suits You Best | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-vpn-profiles-on-macos-for-enhanced-connectivity-options-tips-and-tricks/"><u>Setting Up Multiple VPN Profiles on macOS for Enhanced Connectivity Options | Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secrets-behind-apples-robust-defense-of-user-ai-information-in-the-cloud-explored/"><u>The Secrets Behind Apple's Robust Defense of User AI Information in the Cloud - Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-gloves-revolutionizing-vr-interaction-for-2024/"><u>Top 10 Gloves Revolutionizing VR Interaction for 2024</u></a></li>
+</ul></div>
 

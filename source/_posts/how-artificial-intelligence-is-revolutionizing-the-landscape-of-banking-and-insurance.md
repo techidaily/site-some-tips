@@ -1,7 +1,7 @@
 ---
 title: How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
-date: 2024-09-15T16:14:09.743Z
-updated: 2024-09-17T16:15:15.719Z
+date: 2025-01-27T01:50:14.001Z
+updated: 2025-01-31T22:12:33.264Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988bda1b4b5ab8aef4726e226b5.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 ## How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Thrive in a Post-COVID World: The Future of Financial Institutions and Insurance Organizations
 
@@ -33,6 +37,10 @@ As part of a recent presentation we gave at [OPEX Financial Services](https://ww
 
 ![intersection of financial services and insurance](https://static1.abbyy.com/abbyycommedia/32811/intersection-of-financial-services-and-insurance.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 So, how can established organizations in both industries thrive going forward? Here are three of the main challenges we see, and some of the ways organizations can respond:
 
 #### Increasing customer expectations
@@ -40,6 +48,10 @@ So, how can established organizations in both industries thrive going forward? H
 It would not be an overstatement to say that customers have an expectation of now—and that their expectations are being set by their last, best digital experience. The time of rushing over to a bank branch or insurance office during “business hours” is long over, and hours of operation are no longer being set by the bank or the insurance company, but by the customer. They want to be able to communicate using their channel and device of choice, and they expect faster response times for policy quotes, claims settlement, and credit decisions. Streamlined account opening and onboarding are table stakes.
 
 ![improve customer experience with artificial intelligence](https://static1.abbyy.com/abbyycommedia/32423/b-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Forward-thinking organizations can facilitate this digital engagement with [Process Intelligence](https://tools.techidaily.com/abbyy/products/), enabling them to personalize the customer journey and help to ensure customer loyalty.
 
@@ -53,6 +65,10 @@ While both industries have always been heavily regulated, the new level of remot
 
 ![ai, machine learning and nlp in financial services](https://static1.abbyy.com/abbyycommedia/32816/fintech-insurtech-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It’s not exactly breaking news to talk about how much the business landscape for both industries has evolved over the past several years, and the pace of change only seems to be accelerating. If 2020 taught us anything, it’s that agility and resilience are critical to successfully navigating those changes. Financial institutions and insurance organizations need to cultivate both as part of their company culture going forward so they can thrive in 2021, and beyond.
 
 **Watch our recent session at [OPEX Financial Sessions](https://tools.techidaily.com/abbyy/products/) to see how Digital Intelligence can help reduce friction and simplify processes.**
@@ -64,6 +80,10 @@ It’s not exactly breaking news to talk about how much the business landscape f
 ![](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
 
 Eileen Potter
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -126,12 +146,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-5-best-apps-to-watch-instagram-stories-anonymously/"><u>[New] 5 Best Apps to Watch Instagram Stories Anonymously</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[New] In 2024, Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-shortcuts-to-wealth-in-youtube-shorts/"><u>[Updated] Shortcuts to Wealth in YouTube Shorts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-strategic-approaches-to-dominating-spotifys-ad-space-for-2024/"><u>[Updated] Strategic Approaches to Dominating Spotify's Ad Space for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-launch-day-apple-vision-pro-previews-office-suite-integration-with-word-and-excel-zdnet-coverage/"><u>1. 'Launch Day: Apple Vision Pro Previews Office Suite Integration with Word & Excel - ZDNet Coverage'</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfecting-game-sounds-ps5-and-ps4-adjustments/"><u>2024 Approved Perfecting Game Sounds PS5 & PS4 Adjustments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-send-recorded-phone-calls-on-apple-devices-effortlessly/"><u>How to Send Recorded Phone Calls on Apple Devices Effortlessly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-elevate-creations-get-free-high-quality-templates-today/"><u>In 2024, Elevate Creations - Get FREE High-Quality Templates Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-apples-latest-innovations-the-watch-ultra-and-series-8-face-off/"><u>Navigating Apple's Latest Innovations: The Watch Ultra and Series 8 Face-Off</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-find-how-the-new-usb-c-powered-apple-earpods-became-an-unplanned-buy-for-me-worth-every-penny/"><u>Prime Day Find: How the New USB-C Powered Apple EarPods Became an Unplanned Buy for Me (Worth Every Penny!)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-ultimate-review-unveiling-the-pros-and-cons-of-acers-15-chromebook/"><u>The Ultimate Review: Unveiling the Pros and Cons of Acer's 15 Chromebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-blaze-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Blaze Pro 5G FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tested-vpn-services-for-your-mac-find-the-perfect-one-pcmag/"><u>Top-Tested VPN Services for Your Mac: Find the Perfect One | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-powerful-m3-chip-apple-releases-new-13-and-15-macbook-air-the-latest-innovations-techdigest/"><u>Unveiling the Powerful M3 Chip: Apple Releases New 13 & 15 MacBook Air - The Latest Innovations | TechDigest</u></a></li>
+</ul></div>
 

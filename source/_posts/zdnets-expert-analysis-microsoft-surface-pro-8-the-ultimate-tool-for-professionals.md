@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Analysis: Microsoft Surface Pro 8 - The Ultimate Tool for Professionals"
-date: 2025-01-19T20:20:19.996Z
-updated: 2025-01-24T17:58:56.553Z
+date: 2025-01-31T03:51:46.941Z
+updated: 2025-02-01T06:02:58.437Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -53,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -78,6 +74,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -94,6 +94,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,10 +105,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -129,10 +129,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,6 +138,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -167,11 +167,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -210,20 +210,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-must-know-about-youtube-shorts-explained/"><u>[New] The Must-Know About YouTube Shorts Explained</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-videos-vertical-or-horizontal/"><u>[Updated] In 2024, Facebook Videos; Vertical or Horizontal?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-cross-platform-video-playback-made-easy-with-chromes-pip/"><u>2024 Approved Cross-Platform Video Playback Made Easy with Chrome's PIP</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-labor-day-blowout-score-a-high-quality-ipad-at-only-199-techradar/"><u>Amazon Labor Day Blowout: Score a High-Quality iPad at Only $199! | TechRadar</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-a-malfunctioning-realtek-microphone-device/"><u>Effective Fixes for a Malfunctioning Realtek Microphone Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-iphone-watermark-software-guide-for-2024/"><u>Essential iPhone Watermark Software Guide for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472348325-full-page-screen-grabs-failing-on-safari-heres-what-you-need-to-know/"><u>Full Page Screen Grabs Failing on Safari? Here's What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-much-would-you-pay-for-advanced-apple-knowledge-the-potential-of-a-monthly-fee-cap-at-20-according-to-experts-on-zdnet/"><u>How Much Would You Pay for Advanced Apple Knowledge? The Potential of a Monthly Fee Cap at $20 According to Experts on ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-wipe-a-dell-laptop/"><u>How to Wipe a Dell Laptop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-leap-worth-it-insights-on-moving-up-to-iphone-16-from-seasoned-editors-at-zdnet/"><u>Is the Leap Worth It? Insights on Moving Up to iPhone 16 From Seasoned Editors at ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-s-top-rated-video-editing-software-for-high-definition-videos/"><u>New S Top-Rated Video Editing Software for High-Definition Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-workspace-the-ultimate-guide-to-leveraging-an-ipad-pro-for-a-home-office-setup-insights-by-zdnet/"><u>Revolutionize Your Workspace: The Ultimate Guide to Leveraging an iPad Pro for a Home Office Setup - Insights by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-a-stylus-enabled-tablet-expert-picks-for-2eplus24-zdnet/"><u>Ultimate Guide to Choosing a Stylus-Enabled Tablet: Expert Picks for 2E+24 | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-reliable-mac-vpns-in-depth-analysis-and-comparisons-techradar-insights/"><u>Ultimate Guide to the Most Reliable Mac VPNs - In Depth Analysis & Comparisons | TechRadar Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-generative-ai-how-telecom-companies-can-find-practical-applications-like-they-did-with-5g/"><u>Advancing Generative AI: How Telecom Companies Can Find Practical Applications Like They Did with 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/az-capture-tool-full-app-testing-and-options-guide/"><u>AZ Capture Tool Full App Testing & Options Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-music-presence-how-artificial-intelligence-secured-spots-on-top-streaming-platforms/"><u>Boosting Music Presence: How Artificial Intelligence Secured Spots on Top Streaming Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enablingdisabling-multitasking-feature-a-compreenas-guide/"><u>Enabling/Disabling Multitasking Feature A Compreenas Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-teams-shared-document-effort-with-top-tips-insights-from-zdnet/"><u>Enhance Your Team's Shared Document Effort with Top Tips - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-ai-key-concepts-facts-and-analysis-by-experts-at-zdnet/"><u>Exploring the World of AI: Key Concepts, Facts & Analysis by Experts at ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-functionality-how-to-setup-custom-shortcuts-for-power-button-on-win11/"><u>Fast-Track Functionality: How to Setup Custom Shortcuts for Power Button on Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-lessons-learned-from-paris-olympics-can-lead-to-greater-energy-efficiency-for-upcoming-sporting-events/"><u>How Lessons Learned From Paris Olympics Can Lead to Greater Energy Efficiency for Upcoming Sporting Events</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-s18-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo S18 Device SIM</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-investing-in-google-one-a-smart-choice-uncover-the-details-with-zdnets-insight/"><u>Is Investing in Google One a Smart Choice? Uncover the Details with ZDNet's Insight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-x7-ultra-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find X7 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsofts-50m-investment-boosts-lanzajet-paving-the-way-for-eco-friendly-datacenter-fuels-insights-on-zdnet/"><u>Microsoft's $50M Investment Boosts LanzaJet, Paving the Way for Eco-Friendly Datacenter Fuels - Insights on ZDNet</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/strategies-de-marketing-en-ligne-pour-systemes-dexploitation-multiples/"><u>Stratégies De Marketing en Ligne Pour Systèmes D'Exploitation Multiples</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-usb-mass-storage-not-detected/"><u>Troubleshooting Guide: How to Resolve 'USB Mass Storage Not Detected'</u></a></li>
 </ul></div>
 

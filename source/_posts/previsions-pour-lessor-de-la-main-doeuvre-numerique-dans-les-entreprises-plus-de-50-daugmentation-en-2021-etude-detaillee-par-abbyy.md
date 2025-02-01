@@ -1,7 +1,7 @@
 ---
 title: Prévisions Pour L'essor De La Main-D'oeuvre Numérique Dans Les Entreprises (Plus De 50%% D'augmentation en 2021) – Étude Détaillée Par ABBYY
-date: 2024-09-18T16:33:46.251Z
-updated: 2024-09-22T17:20:46.330Z
+date: 2025-01-30T18:21:45.982Z
+updated: 2025-01-31T16:42:27.824Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7bef56803fb658a77091d094a7.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Étude ABBYY : la part de « main d’œuvre digitale » en entreprise augmentera de plus de 50 % à l’horizon 2021
 
 25 novembre 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _• Le marché des technologies de RPA et IPA pèsera 20,7 milliards en 2023._
 
@@ -38,6 +46,10 @@ L’étude prévoit que le poids du marché des technologies de « robotic proce
 Les technologies d’automatisation et la nouvelle « main d’œuvre digitale » n’assistent pas uniquement les collaborateurs dans l’exécution de tâches répétitives telles que la saisie des données. Avec l’émergence du Machine Learning agrémenté d’intelligences artificielles, ces nouvelles technologies permettront d’aider les collaborateurs dans la prise de décisions stratégiques à l’entreprise. Malgré les craintes persistantes de voir les emplois remplacés par les robots, ces technologies permettent d’améliorer les compétences des employés. L’enquête révèle, à titre d’exemple, que la proportion de traitement des données réalisés par les technologies d’automatisation augmentera de 28 % sur les deux prochaines années et celle de la prise de décision de 18 %.
 
 ![](https://static1.abbyy.com/abbyycommedia/23930/french-pr.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 Les décideurs sondés dans le cadre de l’étude indiquent que le déploiement de technologies de Content Intelligence sert leurs objectifs business liés à la stratégie de transformation digitale de leur entreprise. Plus de 40 % des entreprises interrogées constatent une nette amélioration de la satisfaction de leurs clients et de la productivité de leurs employés. L’étude révèle également que pour plus d’un tiers des répondants la mise en place de ces technologies améliore la réactivité de leurs services aux besoins des clients, crée de nouvelles opportunités de revenus et de développement produit et améliore l’engagement de leurs clients.
@@ -76,18 +88,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-a-step-by-step-guide-for-choosing-your-best-fit-mobile-vs-tethered-virtual-reality-headsets/"><u>[Updated] A Step-by-Step Guide for Choosing Your Best Fit Mobile Vs. Tethered Virtual Reality Headsets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-explore-the-best-15-youtube-sources-for-sci-education/"><u>[Updated] In 2024, Explore the Best 15 YouTube Sources for Sci-Education</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-through-youtube-shorts-knowledge-for-2024/"><u>[Updated] Navigating Through YouTube Shorts Knowledge for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-iphone-selection-for-2023-comprehensive-expert-evaluations-and-insights/"><u>Ace iPhone Selection for 202#3%: Comprehensive Expert Evaluations and Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-iphone-14s-productivity-with-ios-18-a-game-changer-for-content-creators-insights-from-zdnet/"><u>Boost Your iPhone 14'S Productivity with iOS 18: A Game-Changer for Content Creators - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/claim-your-complimentary-macbook-air-m3-with-this-clever-best-buy-offer-learn-the-technique/"><u>Claim Your Complimentary MacBook Air M3 with This Clever Best Buy Offer – Learn the Technique!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/club-anthems-expertly-curated-dj-vids-downloads/"><u>Club Anthems Expertly Curated DJ Vids Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-great-crowdstrike-windows-crisis-of-24-insights-from-history/"><u>Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-5-smartphones-for-gamers-cnet/"><u>Discover the Leading 5 Smartphones for Gamers | CNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-internet-locations-for-shining-3d-text-art/"><u>Ideal Internet Locations for Shining 3D Text Art</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-money-matters-finns-financial-framework/"><u>In 2024, Money Matters Finn's Financial Framework</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/most-efficient-software-solutions-convert-dvds-to-mp3-on-windows-operating-systems-10-and-11/"><u>Most Efficient Software Solutions: Convert DVDs to MP3 on Windows Operating Systems (10 & 11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-more-fuss-effortlessly-sync-your-airpods-to-quest-audio-gear-in-peace/"><u>No More Fuss: Effortlessly Sync Your AirPods to Quest Audio Gear in Peace</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/orthographic-odyssey-comparing-brazilian-and-european/"><u>Orthographic Odyssey: Comparing Brazilian and European</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcome-your-iphones-frustrating-flaw-with-expert-advice/"><u>Overcome Your iPhone's Frustrating Flaw with Expert Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ring-of-elysium-how-to-enhance-frames-per-second-fps-for-optimal-gameplay/"><u>Ring of Elysium: How to Enhance Frames Per Second (FPS) for Optimal Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1727793062294-top-rated-magsafe-accessories-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews and Comparisons by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-mobile-reception-amplifiers/"><u>Top-Rated Mobile Reception Amplifiers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-new-vision-pro-gamepad-apple-pencil-design-patent-and-what-it-means-insights/"><u>Unpacking the New Vision Pro Gamepad: Apple Pencil Design Patent and What It Means | Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Personalization Through Innovative Cookiebot Solutions
-date: 2024-09-11T16:11:54.115Z
-updated: 2024-09-17T16:11:26.882Z
+date: 2025-01-28T22:25:58.619Z
+updated: 2025-01-31T21:03:59.268Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3ccf5eb07317cde4aac3003016.jpg
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 Construction | Digital Archiving
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 建設情報プロバイダCMDが、ABBYYの拡張性の高いOCRソリューション導入で、大規模な建設文書処理を効率化
 
@@ -25,9 +29,17 @@ Construction | Digital Archiving
 
 ![](https://static1.abbyy.com/abbyycommedia/15557/11-construction-management-data-cmd-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### お客様の概要
 
 ![Construction Management Data (CMD)](https://static1.abbyy.com/abbyycommedia/15457/cmd-logo-150.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | 氏名     | Construction Management Data (CMD)            |
 | ------ | --------------------------------------------- |
@@ -99,6 +111,10 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 
 [![ABBYY認識サーバーは、ABBYY FineReaderサーバーとしてブランド変更されました](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (現在、ABBYY FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![ドキュメントアーカイブ<small>EN</small>](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [ドキュメントアーカイブEN](https://tools.techidaily.com/abbyy/products/) 
@@ -106,6 +122,10 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static3.abbyy.com/abbyycommedia/15558/11-construction-management-data-cmd-2.png)](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [詳細を読む](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") 
 
@@ -136,12 +156,22 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-av1-for-the-uncharted-beginner/"><u>[New] 2024 Approved AV1 for the Uncharted Beginner</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-inside-the-world-of-apeaksofts-screens-recorder-update-2023/"><u>[New] Inside the World of Apeaksoft's Screens Recorder Update 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-origin-syncing-expert-tips-to-skyrocket-download-speeds-now/"><u>Accelerate Origin Syncing - Expert Tips to Skyrocket Download Speeds Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-premium-fabric-case-series-in-favor-of-incorporating-beats-products-insights-by-zdnet/"><u>Apple Discontinues Premium Fabric Case Series in Favor of Incorporating Beats Products - Insights by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-hd-action-recorders-under-100/"><u>Best HD Action Recorders Under $100</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bootstrap-a-free-locally-hosted-chatgpt-relative-on-windows/"><u>Bootstrap a Free, Locally Hosted ChatGPT Relative on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-file-audio-m4a-in-formato-mp4-senza-costi-utilizzo-di-fastaudioconvert/"><u>Conversione File Audio M4A in Formato MP4 Senza Costi - Utilizzo Di FastAudioConvert</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/expand-your-singing-repertoire-with-party-tyme-karaoke-now-featuring-an-additional-1700-songs-in-the-ultimate-dj-collection/"><u>Expand Your Singing Repertoire with Party Tyme Karaoke - Now Featuring an Additional 1,700 Songs in the Ultimate DJ Collection!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m1-vs-m3-macbook-pro-showdown-what-you-need-to-know-before-upgrading-your-apple-laptop/"><u>M1 Vs. M3 MacBook Pro Showdown: What You Need to Know Before Upgrading Your Apple Laptop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/modernizing-macos-software-the-ultimate-guide-to-app-refreshes-and-alternatives/"><u>Modernizing MacOS Software: The Ultimate Guide to App Refreshes and Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-ready-for-lightning-fast-video-editing-with-64-bit-technology/"><u>New In 2024, Get Ready for Lightning-Fast Video Editing with 64-Bit Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-apple-watches-in-202n4-in-depth-analysis-and-expert-opinions/"><u>Ultimate Guide to the Best Apple Watches in 202N4: In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-dojs-legal-action-against-apple-consequences-for-ios-users-and-developer-ecosystem-analysis/"><u>Understanding the DOJ's Legal Action Against Apple: Consequences for iOS Users and Developer Ecosystem | Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-using-apple-pages-is-essential-uncover-the-top-5-benefits/"><u>Why Using Apple Pages Is Essential? Uncover the Top 5 Benefits !</u></a></li>
+</ul></div>
 

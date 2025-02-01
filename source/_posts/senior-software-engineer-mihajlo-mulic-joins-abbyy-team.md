@@ -1,7 +1,7 @@
 ---
 title: Senior Software Engineer Mihajlo Mulic Joins ABBYY Team
-date: 2024-09-12T07:20:50.326Z
-updated: 2024-09-13T07:20:50.326Z
+date: 2025-01-26T16:06:03.103Z
+updated: 2025-02-01T03:28:23.010Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe958d62fe3b92ea45616652f65.jpg
@@ -30,10 +30,7 @@ Absolutely! At ABBYY, my role involves wearing many hats. I work on developing n
 What I love most is that every day is different, and every problem requires a unique solution. In the long run, this leads to continuous improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### That's an exciting mix of challenges! What does a typical day look like for you at ABBYY?
@@ -46,20 +43,10 @@ The added perk is that I can work from different locations, which is a huge bonu
 
 ![Vienna, Austria - Mihajlo Mulic, Senior Software Developer at ABBYY](https://static1.abbyy.com/abbyycommedia/38050/mihajlo-mulic-abbyy-vienna.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Berlin, Germany - Mihajlo Mulic](https://static1.abbyy.com/abbyycommedia/38044/mihajlo-mulic-abbyy-berlin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Your work journey is quite diverse; what was your previous experience before ABBYY, and how did you find your way into this area of Software Development?
@@ -74,13 +61,6 @@ The most exciting part, without a doubt, is the people. I have the privilege of 
 
 My job is very dynamic in nature, there are different problems to solve each day, and it keeps things exciting. You're constantly challenged to solve problems, innovate, and improve solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What do you find most challenging in your role?
 
 Haha! The most challenging part is, ironically, solving different problems every day. In the short term, it can sometimes feel intense, but in the long run, it's what leads to personal and professional growth.
@@ -89,28 +69,12 @@ The beginning, transitioning into a new role or company, is often the toughest. 
 
 ![Santorini, Greece - ABBYY Software Developers - Mihajlo Mulic](https://static1.abbyy.com/abbyycommedia/38045/mihajlo-mulic-abbyy-santorini.png)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Your top advice to someone looking to follow a career path in Software Development?
 
 My advice is simple: cultivate curiosity and patience. **Curiosity keeps you asking questions and exploring, while patience enables you to tackle complex problems. Both are crucial for continuous learning, a must in the fast-evolving landscape of software engineering.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Work-life balance is important—how would you define it for yourself?
@@ -121,6 +85,10 @@ Sometimes this means staying late to finish a task, but sometimes it could mean 
 
 ![](https://static1.abbyy.com/abbyycommedia/38047/mihajlo-mulic-family-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.abbyy.com/abbyycommedia/38048/mihajlo-mulic-family-2.png)
 
 ### Lastly, could you recommend us a book/movie/series/ or activity you have recently discovered or are enjoying at the moment? What’s so great about it?
@@ -129,42 +97,25 @@ Not long after I was born, my parents opened a bookstore (pictured below), and i
 
 ![](https://static1.abbyy.com/abbyycommedia/38049/mihajlo-mulic-library.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Since then, I've really broadened my reading horizons. I even got impatient waiting for translations and started diving into books in English. One that stands out is _The Wheel of Time_ series, which just got its television adaptation that is fantastic. Although, I'd say it's worth reading the books first.
 
 Aside from reading and watching movies/series, I really enjoy running, traveling, and occasionally, video gaming.
 
 ![Mihajlo Mulic ABBYY Sr. Software Developer](https://static1.abbyy.com/abbyycommedia/38046/mihajlo-mulic-abbyy.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 Want to follow Mihajlo's footsteps and join one of our tech hubs? You're in luck! Check out our [careers page](https://tools.techidaily.com/abbyy/products/) for opportunities to join our team in Serbia, Cyprus, Hungary, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -175,15 +126,16 @@ Share
 ![](https://static4.abbyy.com/abbyycommedia/37800/sofia-tarasova_848x444.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ABBYY Spotlight: Sofia Tarasova, People Partner for the Research and Development and Product Development teams](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static2.abbyy.com/abbyycommedia/37579/milos-savic_cover_848x444-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY Spotlight: Milos Savic, Security Compliance Officer](https://tools.techidaily.com/abbyy/products/) 
 
@@ -244,5 +196,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-dissecting-mr-beasts-financial-health/"><u>[New] In 2024, Dissecting Mr. Beast’s Financial Health</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-comparing-free-video-powerhouses-who-will-you-choose-vlc-or-mpc/"><u>[Updated] 2024 Approved Comparing Free Video Powerhouses Who Will You Choose, VLC or MPC?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-revolutionizing-video-quality-on-tiktok/"><u>2024 Approved Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-battle-comparing-the-new-m3-and-m2-macbook-air-for-savvy-shoppers-gadgetcentral/"><u>Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/astonishingly-fast-finders-of-forlorn-reddit-content-for-2024/"><u>Astonishingly Fast Finders of Forlorn Reddit Content for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-integrate-ubuntu-and-xcode-a-step-by-step-guide-to-running-linux-inside-mac-with-an-easy-hack-zdnet/"><u>Seamlessly Integrate Ubuntu & Xcode: A Step-by-Step Guide to Running Linux Inside Mac with an Easy Hack | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-tech-with-siri-understanding-artificial-intelligence-integration-in-upcoming-iphone-mac-and-ipad-models/"><u>The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-ipad-models-of-2024-comprehensive-reviews-by-industry-experts/"><u>Top-Ranking iPad Models of 2024: Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-stop-frustrated-dragging-start-fixing/"><u>Win11: Stop Frustrated Dragging, Start Fixing</u></a></li>
+</ul></div>
 

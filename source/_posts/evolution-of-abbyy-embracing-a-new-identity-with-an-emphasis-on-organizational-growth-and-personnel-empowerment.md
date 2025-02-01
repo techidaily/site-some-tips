@@ -1,7 +1,7 @@
 ---
 title: "Evolution of ABBYY: Embracing a New Identity with an Emphasis on Organizational Growth and Personnel Empowerment"
-date: 2024-09-15T16:00:44.897Z
-updated: 2024-09-17T16:02:46.755Z
+date: 2025-01-31T04:16:15.371Z
+updated: 2025-01-31T18:46:11.893Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94df04c327a143f8799409248.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY’s New Brand Reflects Its Focus on People and Business Transformation
 
 March 18, 2021
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), a global Digital Intelligence company, revealed today its new corporate brand identity, featuring vibrant illustrations and colors and an updated logo. The new brand design, created with brand and design agency, [Shuka](https://shuka.design/), reflects what ABBYY represents: a visionary, innovative, trusted, high-energy, and creative expert who helps to reimagine and accelerate organizations’ transformations globally.
 
@@ -57,12 +65,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-partner-up-strategies-optimal-selection-for-youtube-teams-for-2024/"><u>[Updated] Partner Up Strategies Optimal Selection for YouTube Teams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-the-macbook-air-and-macbook-pro-a-comprehensive-guide-on-picking-the-perfect-apple-laptop-zdnet/"><u>Choosing Between the MacBook Air and MacBook Pro: A Comprehensive Guide on Picking the Perfect Apple Laptop (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-features-is-the-upgrade-worth-it-iphone-15-pro-takes-on-iphone-14-pro-in-latest-review-insights/"><u>Comparing Features: Is the Upgrade Worth It? IPhone 15 Pro Takes on iPhone 14 Pro in Latest Review | Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/demystifying-the-metaverse-who-really-holds-power/"><u>Demystifying the Metaverse: Who Really Holds Power?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-review-of-kid-friendly-tablets-family-favorite-picks-featured-on-zdnet/"><u>Expert Review of Kid-Friendly Tablets: Family Favorite Picks Featured on ZDNet</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-extract-sound-clips-from-youtube-videos-for-windows-and-macos-users/"><u>How to Extract Sound Clips From YouTube Videos for Windows and macOS Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>In 2024, The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-investing-in-ai-insights-worth-it-experts-say-charging-up-to-20month-could-be-profitable/"><u>Is Investing in AI Insights Worth It? Experts Say Charging up to $20/Month Could Be Profitable</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-worth-the-upgrade-expert-opinions-on-why-you-should-or-shouldnt-choose-iphone-16-featuring-editors/"><u>Is It Worth the Upgrade?: Expert Opinions on Why You Should or Shouldn't Choose iPhone 16 - Featuring Editors</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>New 2024 Approved Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pushing-boundaries-together-leading-vr-accessories-for-2024/"><u>Pushing Boundaries Together Leading VR Accessories for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-lags-techniques-for-enhancing-your-fps/"><u>Solving Game Lags : Techniques for Enhancing Your FPS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-definitive-guide-to-acquiring-and-setting-up-your-apple-vision-pro-with-expert-face-scanning-hacks/"><u>The Definitive Guide to Acquiring and Setting Up Your Apple Vision Pro with Expert Face Scanning Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-budget-friendly-marvel-iphone-amo-14-plus-offers-all-day-power-and-surprising-features-reviewed/"><u>Unveiling the Budget-Friendly Marvel: IPhone Amo 14 Plus Offers All-Day Power & Surprising Features - Reviewed</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728487876001-windows-1110/"><u>Windows 11/10 重設後如何保全資料：復原方法與技巧</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leverage Mobile OCR for Streamlined Customer Onboarding Processes
-date: 2024-09-12T07:20:43.923Z
-updated: 2024-09-13T07:20:43.923Z
+date: 2025-01-26T21:16:52.031Z
+updated: 2025-01-31T21:30:25.017Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc76b52ba12d66889ac85fb462.jpg
@@ -11,19 +11,6 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Putting business into customers' pockets
 
 August 03, 2017
@@ -31,21 +18,16 @@ August 03, 2017
 ![Mobile capture SDK real time image from ABBYY | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/25214/real-time-recognition-sdk.png) 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want to see a bank customer wince, ask him to manually input some long numbers into your system. Yet in this digital transformation times, a large number of payments made by customers are still done by keying in data manually. The data that many businesses still require customers to provide range from account numbers, bank's routing numbers, tax code numbers, tracking numbers to ID cards and passport numbers.
 
 Meanwhile, new technologies are popping up enabling business processes to be more responsive to customer demands. Such technologies leverage mobility, flexibility, and efficiency of the new generation of tech-savvy users and may soon determine whether a business can survive and thrive in the unfolding digital era.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Instant data capture and processing
 
@@ -53,28 +35,12 @@ Mobile OCR may seem trendy, but it is a trend with a variety of benefits for com
 
 Allowing engaged customers ‘self-service experience’ can engender in them self-confidence and pave the way for building trust and credibility. New mobile capture technology also enables customer-facing teams to manage customers and recruit prospects, while enhancing customer loyalty and retention.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Data protection and security
 
 According to a recent [Pew Research](http://www.pewinternet.org/2015/04/01/chapter-one-a-portrait-of-smartphone-ownership/), 24 percent of U.S. citizens have paid their bills using smartphones, while 44 percent said they are aware of such services. Yet, most people surveyed - 73 percent - avoid mobile payment apps, citing security and privacy as top worries. New mobile OCR technology now offers not only a fast, safe and convenient user experience, but data security as well. Data such as bank details, credit card number, card owner’s name or payment amount can be instantly captured, processed and transferred without saving copies on the device. For banks and insurance companies, this is a sure way to build trust and credibility with engaged customers.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customer-onboarding with ease
@@ -82,10 +48,7 @@ According to a recent [Pew Research](http://www.pewinternet.org/2015/04/01/chapt
 Real-time recognition technology promises [efficient customer onboarding](https://www.forbes.com/sites/adrianbridgwater/2017/04/19/abbyy-builds-instant-text-capture-recognition-tool-for-mobile/#3cb40997521f) that can help small businesses create a positive first impression and turn their customers into advocates. This is particularly true for front-end service providers such as airlines, hotels and car rental companies. Manual registration process for new customers is often frustrating, cumbersome and time-consuming. With the new technology, however, customers can simply point their mobile phone cameras at their identification documents and have their data transferred into a company's system without leaving a trace on the device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Facilitating visual connection
@@ -107,10 +70,7 @@ To see ABBYY's latest technology solutions, visit the [ABBYY Products page](http
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Financial Services](https://tools.techidaily.com/abbyy/products/) [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -174,5 +134,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-instagram-video-orientation-whats-the-flip/"><u>[New] Instagram Video Orientation - What's the Flip?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pocket-sized-pop-understanding-the-dynamics-of-short-form-tunes/"><u>[Updated] Pocket-Sized Pop Understanding the Dynamics of Short Form Tunes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pros-guide-to-free-screen-recording-on-mac-devices/"><u>[Updated] Pro's Guide to FREE Screen Recording on Mac Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/base-vs-augmented-choose-your-preferred-chatgpt-approach/"><u>Base vs Augmented: Choose Your Preferred ChatGPT Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-innovative-functionality-with-ios-18-public-beta-the-5-exciting-experiences-showcased-on-zdnet/"><u>Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-apple-vision-pro-thrives-in-corporate-use-7-crucial-improvements-required-analysis-on-zdnet/"><u>Ensuring Apple Vision Pro Thrives in Corporate Use: 7 Crucial Improvements Required | Analysis on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-offer-purchase-airpods-pro-2-hearing-aid-ready-for-a-steep-discount/"><u>Exclusive Offer: Purchase AirPods Pro 2 (Hearing-Aid Ready) for a Steep Discount</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-agree-the-ultimate-titanium-belt-for-your-apple-watch-awaits-you/"><u>Experts Agree: The Ultimate Titanium Belt for Your Apple Watch Awaits You</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/facil-comprobacion-como-acceder-al-modo-seguro-en-windows-abajo-para-reparaciones-efectivas/"><u>Fácil Comprobación: Cómo Acceder Al Modo Seguro en Windows Abajo Para Reparaciones Efectivas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-174-update-apple-introduces-podcast-transcriptions-fresh-emoji-additions-and-european-app-store-modifications-detailed-insights/"><u>IOS 17.4 Update: Apple Introduces Podcast Transcriptions, Fresh Emoji Additions & European App Store Modifications - Detailed Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-smooth-gaming-eliminating-lags-in-serious-sam-4-for-pc-users/"><u>Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ready-for-a-new-era-in-communication-with-ai/"><u>Ready for a New Era in Communication with AI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-improvements-to-favorite-productivity-and-adventure-xr-spectacles-reviewed-by-zdnet/"><u>Revolutionary Improvements to Favorite Productivity and Adventure XR Spectacles Reviewed by ZDNet.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-presidents-day-blowout-sales-exclusive-discounts-at-amazon-walmart-and-best-buy-live-deals/"><u>Top President's Day Blowout Sales: Exclusive Discounts at Amazon, Walmart & Best Buy - Live Deals!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tune-up-the-mundane-how-to-add-custom-ringtones-and-sounds-for-a-unique-auditory-experience-on-android/"><u>Tune Up the Mundane How to Add Custom Ringtones & Sounds for a Unique Auditory Experience on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-why-apples-new-wwdc-ai-developments-might-not-spark-interest-and-thats-a-good-thing/"><u>ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-for-screen-recording-on-iphones-made-simple/"><u>ZDNet's Ultimate Guide for Screen Recording on iPhones Made Simple</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung"
-date: 2024-09-13T16:05:46.135Z
-updated: 2024-09-17T16:06:53.642Z
+date: 2025-01-30T20:22:28.408Z
+updated: 2025-02-01T05:20:21.702Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c360208046bfffff6e9458bb6e.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Führender Prozessgestalter der Sparkassen-Finanzgruppe digitalisiert Auftragsmanagement mit ABBYY
 
 5\. November 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Die DSGF treibt mit ABBYY digitale Transformation in der Finanzbranche voran_
 
@@ -73,18 +81,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-12-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme 12 5G?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deepening-ties-techniques-for-meaningful-youtube-dialogue/"><u>Deepening Ties Techniques for Meaningful YouTube Dialogue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-latest-elegance-with-apple-watch-series-10-secure-yours-for-just-99-by-pre-ordering-at-best-buy-a-step-by-step-guide/"><u>Experience the Latest Elegance with Apple Watch Series 10: Secure Yours for Just $99 by Pre-Ordering at Best Buy – A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-excited-top-3-new-apple-devices-from-wwdc-available-for-purchase-now-plus-all-you-need-to-know-about-preorders/"><u>Get Excited: Top 3 New Apple Devices From WWDC Available for Purchase Now, Plus All You Need to Know About Preorders</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-sony-xperia-1-v-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Sony Xperia 1 V Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-sound-absence-in-acer-computers-effectively/"><u>How to Fix Sound Absence in Acer Computers Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-f04-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy F04 is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/learn-to-soften-edges-and-focus-a-pcmobile-guide/"><u>Learn to Soften Edges & Focus A PC/Mobile Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shared-frustrations-after-apple-ios-18-update-a-common-user-experience/"><u>Shared Frustrations After Apple iOS 18 Update - A Common User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-unplanned-splurge-discovering-the-appeal-of-apples-affordable-usb-c-earpods-on-amazons-prime-day-event-zdnet-insights/"><u>The Unplanned Splurge: Discovering the Appeal of Apple's Affordable USB-C EarPods on Amazon's Prime Day Event | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-budget-tablets-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Budget Tablets : Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/tutorial-integral-sobre-como-realizar-una-restauracion-de-sistema-bare-metal-en-windows-11-windows-10-y-servidor-con-tecnicas-efectivas-y-recomendaciones-ex253/"><u>Tutorial Integral Sobre Cómo Realizar Una Restauración De Sistema Bare Metal en Windows 11, Windows 10 Y Servidor Con Técnicas Efectivas Y Recomendaciones Experta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-tunes-simplified-control-with-the-new-sonos-s2-app-yet-beware-of-hidden-drawbacks-explored-by-tech-guru-on-zdnet/"><u>Unleashing the Power of Tunes: Simplified Control with the New Sonos S2 App, Yet Beware of Hidden Drawbacks Explored by Tech Guru on ZDNet</u></a></li>
+</ul></div>
 

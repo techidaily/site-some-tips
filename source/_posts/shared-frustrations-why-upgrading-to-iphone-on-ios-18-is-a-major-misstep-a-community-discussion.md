@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Why Upgrading to iPhone on iOS 18 Is a Major Misstep - A Community Discussion"
-date: 2025-01-21T17:12:18.750Z
-updated: 2025-01-24T16:26:40.595Z
+date: 2025-01-27T00:03:10.513Z
+updated: 2025-01-31T23:00:35.921Z
 tags:
   - apple
 categories:
@@ -26,19 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +80,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +140,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-maintaining-confidentiality-with-professional-zoom-recordings/"><u>[New] In 2024, Maintaining Confidentiality with Professional Zoom Recordings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smart-solutions-apply-apple-watch-open-mac/"><u>[New] Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-listeners-a-comprehensive-guide-to-podcast-seo/"><u>2024 Approved Elevating Listeners A Comprehensive Guide to Podcast SEO</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/acces-gratuit-au-codec-heconome-debloquez-la-qualite-superieure-pour-votre-visionnage-en-hd-avec-notre-pack-des-codecs-h264/"><u>Accès Gratuit Au Codec H.econome, Débloquez La Qualité Supérieure Pour Votre Visionnage en HD Avec Notre Pack Des Codecs H.264</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cool-running-tech-maintaining-moderate-temperatures-while-gaming/"><u>Cool Running Tech: Maintaining Moderate Temperatures While Gaming</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/crafting-a-distinctive-tiktok-stream-hashcode-for-2024/"><u>Crafting a Distinctive TikTok Stream Hashcode for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-apple-discounts-for-festive-season-explore-our-top-picks-from-zdnet/"><u>Discover the Ultimate Selection of Apple Discounts for Festive Season: Explore Our Top Picks From ZDNet!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/eu-levies-a-staggering-2b-penalty-against-apple-over-anti-competitive-app-store-practices-insights-from-zdnet/"><u>EU Levies a Staggering $2B Penalty Against Apple Over Anti-Competitive App Store Practices - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-star-wars-squadrons-the-ultimate-galactic-fighting-adventure/"><u>In-Depth Review of Star Wars: Squadrons - The Ultimate Galactic Fighting Adventure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-showdown-is-it-time-to-level-up-expert-insights/"><u>IPad Air 4 vs iPad Air 5 Showdown: Is It Time to Level Up? Expert Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-messaging-upgrade-coming-to-your-iphone-with-ios-18-update-discover-how/"><u>Revolutionary Messaging Upgrade Coming to Your iPhone with iOS 18 Update - Discover How!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/should-you-upgrade-to-iphone-16-pro-from-iphone-14-pro-comparing-specs-and-performance-for-a-better-choice-cnet/"><u>Should You Upgrade to iPhone 16 Pro From iPhone 14 Pro? Comparing Specs and Performance for a Better Choice | CNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/three-simple-techniques-to-block-unwanted-messages-from-robocallers-on-your-iphone-insights-by-zdnet/"><u>Three Simple Techniques to Block Unwanted Messages From Robocallers on Your iPhone - Insights by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Waterproof Smartwatches - Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fix-iphoneipad-keyboard-malfunctions/"><u>Troubleshooting Guide: Fix iPhone/iPad Keyboard Malfunctions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-detecting-whether-someone-is-tracking-you-with-apples-airtag/"><u>Unveiling the Secrets: Detecting Whether Someone Is Tracking You with Apple's AirTag</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-activating-or-deactivating-user-feedback-on-videos-for-2024/"><u>[Updated] Activating or Deactivating User Feedback on Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/80-off-premium-smallcloud-storage-solutions-now-available-on-zdnet-shop/"><u>$80 Off: Premium SmallCloud Storage Solutions Now Available on ZDnet Shop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/australian-authorities-advocate-for-rapid-deployment-of-essential-security-patches-in-businesses-zdnet/"><u>Australian Authorities Advocate for Rapid Deployment of Essential Security Patches in Businesses | ZDNet</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-aller-retour-entredeux-fichiers-apple-3-methodes-simplifiees/"><u>Comment Aller-Retour Entredeux Fichiers Apple? 3 Méthodes Simplifiées</u></a></li>
+<li><a href="https://some-tips.techidaily.com/continued-access-guaranteed-office-2016-and-2019-seamless-connection-to-microsoft-365-in-the-coming-year/"><u>Continued Access Guaranteed: Office 2016 & 2019 Seamless Connection to Microsoft 365 in the Coming Year</u></a></li>
+<li><a href="https://discover-able.techidaily.com/essential-guide-verifying-your-audio-hardware-a-step-by-step-process/"><u>Essential Guide: Verifying Your Audio Hardware - A Step-by-Step Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reopen-stuck-adobe-photoshop-2021-2023-on-w11/"><u>How to Reopen Stuck Adobe Photoshop (2021-2023) on W11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-watch-review-smartly-designed-inside-and-out/"><u>Samsung Galaxy Watch Review: Smartly Designed, Inside and Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-linux-foundation-advocates-for-cutting-edge-exascale-performance-a-deep-dive-into-future-computing/"><u>The Linux Foundation Advocates for Cutting-Edge Exascale Performance: A Deep Dive Into Future Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726808538468-top-rated-cloud-migration-services-of-2022-insights-from-zdnet/"><u>Top Rated Cloud Migration Services of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-concept-of-a-paperclip-maximizer-implications-for-ai-technology/"><u>Understanding the Concept of a Paperclip Maximizer - Implications for AI Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Website with Cookiebot-Driven Analytics Solutions
-date: 2024-09-12T16:14:28.803Z
-updated: 2024-09-17T16:12:39.747Z
+date: 2025-01-28T20:40:58.498Z
+updated: 2025-01-31T18:24:24.367Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e527c0b15c86864ff7f2cf4ce.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ＫＤＤＩ株式会社がABBYYのOCR関連ソフトウェアを提供開始
 
 1月10日, 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _～OCRとRPAの連携で、紙データのシステム入力を自動化へ～_
 
@@ -32,6 +40,10 @@ ABBYYはDigital IQのグローバルリーダー企業です。当社のDigital 
 1\. FlexiCapture®とUiPath RPA プラットフォームの連携利用のイメージ
 
 ![](https://static1.abbyy.com/abbyycommedia/24089/kddi-launches-abbyy-ocr-related-software.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 （注１）OCR オプティカル・キャラクター・レコグニション/リーダー
@@ -62,12 +74,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-aural-artistry-the-intersection-of-sound-and-image-on-insta/"><u>[New] Aural Artistry The Intersection of Sound and Image on Insta</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2023-browser-snapshot-winners-announced-for-2024/"><u>[Updated] 2023 Browser Snapshot Winners Announced for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-social-feeds-with-panoramic-content-a-guide-for-iosandroid-users/"><u>[Updated] 2024 Approved Navigating Social Feeds with Panoramic Content A Guide for iOS/Android Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images/"><u>[Updated] 2024 Approved No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/102-for-a-versatile-macbook-accessory-bundle-charging-hubbing-and-more-discover-it-here/"><u>$102 for a Versatile MacBook Accessory Bundle – Charging, Hubbing, and More! Discover It Here</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers-for-2024/"><u>6 Best Voice Changers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/astonishingly-low-price-alert-grab-an-iphone-15-pro-max-for-only-001-on-amazon-secrets-revealed-gizmodo/"><u>Astonishingly Low Price Alert: Grab an iPhone 15 Pro Max for Only $0.01 on Amazon - Secrets Revealed | Gizmodo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-let-ios-upgrade-ruin-your-ipad-key-steps-for-a-smooth-transition-to-ios-14-zdnet/"><u>Don't Let iOS Upgrade Ruin Your iPad! Key Steps for a Smooth Transition to iOS 14 | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-privacy-the-measures-taken-by-apple-to-protect-cloud-and-ai-user-data-insights-from-zdnet/"><u>Ensuring Privacy: The Measures Taken by Apple to Protect Cloud and AI User Data - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/full-page-screen-grabs-failing-on-safari-heres-what-you-need-to-know/"><u>Full Page Screen Grabs Failing on Safari? Here's What You Need to Know!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi Redmi K70 Pro.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>In 2024, Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-how-apples-revolutionary-game-mode-could-change-gaming-forever-explore-three-key-insights-now/"><u>Inside Look: How Apple's Revolutionary Game Mode Could Change Gaming Forever – Explore Three Key Insights Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-horizons-in-mobile-payments-how-apple-extends-iphone-nfc-for-enhanced-third-party-integration-explore-usage-impact-with-zdnet/"><u>New Horizons in Mobile Payments: How Apple Extends iPhone NFC for Enhanced Third-Party Integration | Explore Usage Impact with ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-stopping-windows-11-from-running/"><u>Quick Fixes: Stopping Windows 11 From Running</u></a></li>
+<li><a href="https://some-tips.techidaily.com/review-is-the-high-cost-worth-it-a-detailed-look-at-the-new-apple-studio-display-for-mac-users-perspectives/"><u>Review: Is the High Cost Worth It? A Detailed Look at the New Apple Studio Display for Mac Users Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-you-need-an-apple-watch-a-wearable-tech-specialist-reveals-6-key-advantages-at-zdnet/"><u>Why You Need an Apple Watch? A Wearable Tech Specialist Reveals 6 Key Advantages at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-top-pick-the-new-must-have-for-techies-explore-why-this-3-in-1-magsafe-and-qi2-supported-charger-is-a-game-changer-in-travel-accessories/"><u>ZDNet's Top Pick: The New Must-Have for Techies - Explore Why This 3-in-1 MagSafe and Qi2 Supported Charger Is a Game-Changer in Travel Accessories!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations"
-date: 2024-09-11T16:07:53.991Z
-updated: 2024-09-17T16:14:12.107Z
+date: 2025-01-25T01:14:44.595Z
+updated: 2025-02-01T00:53:35.476Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a2404b925ef4f20286104a39.jpg
@@ -11,9 +11,21 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
 Levvel Research white paper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Building a Foundation for Digital Transformation in Accounts Payable
 
 ![](https://static1.abbyy.com/abbyycommedia/21283/33-ap-levelresearch-262x340.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gain greater efficiency and control by transforming accounts payable.
 
@@ -29,10 +41,7 @@ Many associate digital transformation with customer-facing features. When applie
 A research/advisory firm focused on innovative technology. Their experts provide targeted content to address the process needs of competitive organizations, with the goal of maximizing returns and minimizing risks associated with technology investments.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thank you for your interest in ABBYY and its technologies.
@@ -42,16 +51,7 @@ A research/advisory firm focused on innovative technology. Their experts provide
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
@@ -121,5 +121,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-reach-broader-audiences-link-your-twitch-live-streams-to-facebook/"><u>[New] 2024 Approved Reach Broader Audiences Link Your Twitch Live Streams to Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-effortless-streaming-to-facebook-audiences-using-zoom/"><u>[New] In 2024, Effortless Streaming to Facebook Audiences Using Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-update-revamps-icloud-on-windows-offering-fresh-functionality-and-patches-digital-domain-news/"><u>Apple's Latest Update Revamps iCloud on Windows, Offering Fresh Functionality and Patches | Digital Domain News</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crafting-sections-in-vimeo-videos/"><u>Crafting Sections in Vimeo Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-pro-assessment-by-apple-the-pinnacle-of-tablets-that-can-hold-its-ground-against-laptops-not-just-surpassing-expectations-but-welcomed-as-complementary122/"><u>IPad Pro Assessment by Apple: The Pinnacle of Tablets That Can Hold Its Ground Against Laptops, Not Just Surpassing Expectations but Welcomed as Complementary Tech.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/navigating-licensing-terms-a-breakdown-of-digiartys-xdvd-eula-for-users/"><u>Navigating Licensing Terms: A Breakdown of Digiarty's XDVD EULA for Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-no-cost-sound-enhancement-coming-to-lg-televisions-audiophiles-and-apple-devotees-rejoice/"><u>Revolutionary No-Cost Sound Enhancement Coming to LG Televisions, Audiophiles and Apple Devotees Rejoice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-breakthrough-alert-2026-marks-the-year-for-apple-to-unveil-cameras-on-new-airpods-says-zdnet/"><u>Tech Breakthrough Alert: 2026 Marks the Year for Apple to Unveil Cameras on New AirPods, Says ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-and-tests-by-professionals-zdnet/"><u>Top-Rated Apple Watch Models : Comprehensive Reviews & Tests by Professionals | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-psn-profile-on-the-go/"><u>Ultimate Guide: Setting Up Your PSN Profile on the Go</u></a></li>
+</ul></div>
 

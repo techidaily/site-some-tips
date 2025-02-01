@@ -1,7 +1,7 @@
 ---
 title: "Redefining Artificer Intelligence: How Apple Is Advancing the Field with Room for Improvement - Insights From ZDNET"
-date: 2025-01-23T20:40:13.995Z
-updated: 2025-01-24T17:04:37.739Z
+date: 2025-01-24T18:55:40.856Z
+updated: 2025-01-31T18:52:25.114Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Apple Intelligence will bring to the company's operating system platforms
@@ -64,6 +64,10 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -72,10 +76,6 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
@@ -83,7 +83,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -101,7 +101,7 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -111,6 +111,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -135,10 +139,6 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -180,16 +180,14 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-windows-10-syncing-guide-effortless-mov-file-management/"><u>[New] In 2024, Windows 10 Syncing Guide Effortless .mov File Management</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-story-syndicate-visionary-voyages-best-for-2024/"><u>[New] Story Syndicate – Visionary Voyage's Best for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-arctic-acrobatics-2022s-olympians-for-2024/"><u>[Updated] Arctic Acrobatics 2022'S Olympians for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-audacity-workshop-eloquent-silent-transitions-for-2024/"><u>[Updated] Audacity Workshop Eloquent Silent Transitions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-upcoming-february-launch-of-the-advanced-vision-pro-reimagining-retail-with-cutting-edge-purchase-innovations/"><u>Apple’s Upcoming February Launch of the Advanced Vision Pro - Reimagining Retail with Cutting-Edge Purchase Innovations</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/come-ripristinare-una-partizione-di-disco-cancellata-per-errore-su-windows-11/"><u>Come Ripristinare Una Partizione Di Disco Cancellata per Errore Su Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y78plus-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y78+ FRP</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-apple-watch-series-n-slight-enhancements-yet-unmatched-in-quality/"><u>In-Depth Analysis of Apple Watch Series N - Slight Enhancements Yet Unmatched in Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-app-store-picks-apples-favorites-unveiled/"><u>Top App Store Picks : Apple's Favorites Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-benefits-of-apple-pay-a-comprehensive-walkthrough-for-shoppers-and-e-commerce-platforms-zdnet-insights/"><u>Unlock the Benefits of Apple Pay: A Comprehensive Walkthrough for Shoppers and E-Commerce Platforms | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secret-to-a-free-macbook-air-m3-at-best-buy-step-by-step-guide-zdnet/"><u>Unlock the Secret to a FREE MacBook Air M3 at Best Buy - Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ind-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[New] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-your-channels-potential-using-youtube-collaborative-outros/"><u>[Updated] Unleash Your Channel's Potential Using YouTube Collaborative Outros</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-alternatives-swapping-apple-vision-pro-and-meta-quest-3-for-top-xr-glasses-revealed-by-zdnet/"><u>Affordable Alternatives: Swapping Apple Vision Pro & Meta Quest 3 for Top XR Glasses, Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-two-decades-of-canonicals-impact-on-ubuntu-and-open-source-innovation-a-tribute-by-zdnet/"><u>Celebrating Two Decades of Canonical's Impact on Ubuntu and Open-Source Innovation - A Tribute by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-artific/"><u>Linus Torvalds Discusses Artific</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linux-security-exposed-how-major-distros-can-enhance-their-kernel-safety-insights-from-recent-research/"><u>Linux Security Exposed: How Major Distros Can Enhance Their Kernel Safety - Insights From Recent Research</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-fundamentals-of-secure-shell-a-beginners-guide-with-essential-tips-for-enhanced-security-techexplorer/"><u>Mastering the Fundamentals of Secure Shell: A Beginner's Guide with Essential Tips for Enhanced Security | TechExplorer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Truth  Apple's Face ID Against Samsung’ Writers' Face-Matching\""
-date: 2024-08-08T08:25:27.647Z
-updated: 2024-08-09T08:25:27.647Z
+date: 2025-01-29T21:39:46.583Z
+updated: 2025-01-31T18:45:12.120Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -51,22 +47,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
 
@@ -76,14 +71,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -98,6 +95,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
@@ -109,8 +110,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,10 +133,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-devise-droll-visuals-giphys-domain/"><u>[New] 2024 Approved Devise Droll Visuals Giphy's Domain</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>[Updated] In 2024, Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-problems-on-windows-10-solutions-to-get-your-games-audio-working-again/"><u>Cyberpunk 2077 Sound Problems on Windows 10 - Solutions to Get Your Game's Audio Working Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-document-sharing-top-strategies-revealed-by-zdnet/"><u>Elevate Your Document Sharing: Top Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-cloud-safety-tips-top-five-strategies-to-secure-your-data-techadvisor/"><u>Essential Cloud Safety Tips: Top Five Strategies to Secure Your Data | TechAdvisor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-errors-in-cloud-strategies-learn-what-not-to-do-according-to-experts-at-zdnet/"><u>Essential Errors in Cloud Strategies: Learn What Not To Do According to Experts at ZDNet</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-facil-para-cambiar-de-una-version-de-32-bits-a-64-bits-en-windows-n-protege-tus-datos-durante-la-transicion/"><u>Guía Fácil Para Cambiar De Una Versión De 32 Bits a 64 Bits en Windows N: Protege Tus Datos Durante La Transición</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incorporating-creative-effects-into-your-zoom-meetings-step-by-step-for-2024/"><u>Incorporating Creative Effects Into Your Zoom Meetings Step-by-Step for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-security-flaws-in-intel-amd-cpus-lead-to-immediate-patches-for-linux-systems-analysis-by-zdnet/"><u>Latest Security Flaws in Intel, AMD CPUs Lead to Immediate Patches for Linux Systems | Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-integrate-your-icloud-notes-into-linux-expert-tips-and-tricks/"><u>Seamlessly Integrate Your iCloud Notes Into Linux - Expert Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-12-pro-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 12 Pro 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-double-edged-sword-of-cloud-technology-unveiling-massive-potential-and-hidden-hazards-articles-by-zdnet/"><u>The Double-Edged Sword of Cloud Technology: Unveiling Massive Potential and Hidden Hazards | Articles by ZDNet</u></a></li>
+</ul></div>
 

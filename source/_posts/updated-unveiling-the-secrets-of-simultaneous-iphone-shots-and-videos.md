@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Simultaneous iPhone Shots & Videos"
-date: 2024-08-08T08:26:42.487Z
-updated: 2024-08-09T08:26:42.487Z
+date: 2025-01-27T17:37:51.837Z
+updated: 2025-01-31T18:26:17.545Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
 # How to Take Photos While Recording Videos on iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -44,14 +38,15 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 * Look for the video mode and switch to it for initiating video recording.
 * Tap the red button located at the bottom and it will start the video recording.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
 
@@ -69,11 +64,16 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -83,29 +83,23 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 
  Check this video to see how to extract photos from a video with Filmora:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,10 +123,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-the-innovative-world-of-youtube-studio-for-2024/"><u>[Updated] Deciphering the Innovative World of YouTube Studio for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters/"><u>[Updated] Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-discover-the-enhanced-search-features-of-google-drives-revamped-homepage-a-closer-look-by-zdnet/"><u>1. Discover the Enhanced Search Features of Google Drive's Revamped Homepage: A Closer Look by ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-discovering-the-most-trusted-mac-snipers/"><u>2024 Approved Discovering the Most Trusted Mac Snipers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-premier-screenshot-applications-for-linux-users/"><u>2024 Approved The Premier Screenshot Applications for Linux Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-7-secure-video-conferencing-systems-for-smbs/"><u>2024 Approved Ultimate 7 Secure Video Conferencing Systems for SMBs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/a-step-by-step-approach-to-ending-live-sharing-on-laptops-and-tablets-for-2024/"><u>A Step-by-Step Approach to Ending Live Sharing on Laptops and Tablets for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/finding-your-niche-in-the-snapchat-economy/"><u>Finding Your Niche in the Snapchat Economy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a14-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210398622-9781667414232-mindfulness-su-guia-diaria-para-lograr-la-atencion-plena/"><u>Mindfulness: su guía diaria para lograr la atención plena | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sync-preferences-tuning-managing-google-drive-folder-sync-on-pc-and-mac-with-ease/"><u>Sync Preferences Tuning: Managing Google Drive Folder Sync on PC and Mac with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-latest-transformation-of-my-google-enterprise-cloud-storage-solution-explained/"><u>The Latest Transformation of My Google Enterprise Cloud Storage Solution Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-cloud-services-and-potential-hurdles-on-the-horizon-expert-analysis-by-zdnet/"><u>The Rise of Cloud Services and Potential Hurdles on the Horizon - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-cloud-migration-solutions-of-2022-expert-reviews-and-comparison-zdnet/"><u>Top-Ranked Cloud Migration Solutions of 2022 – Expert Reviews & Comparison (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-migration-services-of-2022-insights-from-zdnet/"><u>Top-Rated Cloud Migration Services of 2022: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-storage-solutions-industry-experts-reviewed-by-zdnet/"><u>Top-Rated Cloud Storage Solutions : Industry Experts Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reports-ibm-unveils-strategy-to-build-complete-ai-hub-on-campus-boosting-full-stack-innovation-in-academia/"><u>ZDNet Reports: IBM Unveils Strategy to Build Complete AI Hub on Campus, Boosting 'Full Stack' Innovation in Academia</u></a></li>
+</ul></div>
 

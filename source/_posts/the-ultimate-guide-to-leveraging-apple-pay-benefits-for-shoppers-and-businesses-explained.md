@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2025-01-17T19:03:17.121Z
-updated: 2025-01-24T16:15:07.537Z
+date: 2025-01-29T05:55:01.555Z
+updated: 2025-01-31T16:21:01.609Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay online and in stores
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -83,7 +83,7 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -100,6 +100,10 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -112,16 +116,12 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -145,6 +145,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,24 +197,15 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boost-video-quality-on-youtube-the-essential-webcams-guide-for-2024/"><u>[New] Boost Video Quality on YouTube - The Essential Webcams Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-for-social-media-savants-distinguishing-between-igtv-and-youtube/"><u>[New] In 2024, For Social Media Savants Distinguishing Between IGTV & YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>[Updated] In 2024, Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-revolutionizing-channel-management-through-tubebuddy/"><u>[Updated] In 2024, Revolutionizing Channel Management Through TubeBuddy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-unveils-startling-campaign-targeting-leading-browser-discover-how-they-plan-to-outshine-the-competition-techdigest/"><u>Apple Unveils Startling Campaign Targeting Leading Browser: Discover How They Plan To Outshine The Competition | TechDigest</u></a></li>
-<li><a href="https://some-tips.techidaily.com/detecting-apples-airtags-on-your-property-a-complete-guide/"><u>Detecting Apple's AirTags on Your Property – A Complete Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-new-features-ios-181-beta-version-launched-with-enhanced-apple-ai-capabilities-get-started-today/"><u>Discover the New Features: IOS 18.1 Beta Version Launched with Enhanced Apple AI Capabilities – Get Started Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000000594-how-to-enable-msi-afterburner-detection-for-your-gpu-on-windows-1011-problem-solved/"><u>How to Enable MSI Afterburner Detection for Your GPU on Windows 10/11: Problem Solved!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-continuously-failing-iphone-applications-post-ios-1615-software-upgrade/"><u>How to Fix Continuously Failing iPhone Applications Post-iOS 16/15 Software Upgrade</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-intrepid-selection-best-slow-mo-cameras/"><u>In 2024, Intrepid Selection Best Slow-Mo Cameras</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-streamers-dilemma-revisited-obs-vs-twitch-channel-space/"><u>In 2024, Streamers' Dilemma Revisited OBS vs Twitch Channel Space</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-visionary-tech-from-apple-enables-hands-free-iphone-and-ipad-control-through-eye-movements-zdnet-insights/"><u>Innovative Visionary Tech From Apple Enables Hands-Free iPhone and iPad Control Through Eye Movements | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-18-unleashed-a-step-by-step-guide-to-personalizing-apples-latest-control-center/"><u>IOS 18 Unleashed: A Step-by-Step Guide to Personalizing Apple's Latest Control Center</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/snag-your-deal-on-apples-affordable-airpods-now-for-40-less-just-in-time-for-fourth-of-july-celebrations-find-out-more/"><u>Snag Your Deal on Apple's Affordable AirPods Now for $40 Less, Just in Time for Fourth of July Celebrations – Find Out More</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/egies-for-success-in-online-content-creation/"><u>Strategies for Success in Online Content Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-3-essentials-for-maintaining-an-immaculate-appearance-on-your-iphone-13-a-guide-by-zdnet/"><u>Top 3 Essentials for Maintaining an Immaculate Appearance on Your iPhone 13: A Guide by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unexpected-urge-how-a-flash-sale-on-amazon-convinced-me-to-purchase-an-apple-watch-insights/"><u>Unexpected Urge: How a Flash Sale on Amazon Convinced Me to Purchase an Apple Watch - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-thin-tech-marvels-is-apples-new-008-inch-ipad-difference-worth-it/"><u>Unveiling Thin Tech Marvels: Is Apple's New 0.08-Inch IPad Difference Worth It?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>[New] 2024 Approved Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>[Updated] How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-for-displaying-hidden-files-on-a-mac-with-terminal-techniques/"><u>A Comprehensive Walkthrough for Displaying Hidden Files on a Mac with Terminal Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/current-top-trending-programming-languages-insights-and-definitions-understanding-their-growing-popularity/"><u>Current Top Trending Programming Languages: Insights & Definitions - Understanding Their Growing Popularity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a25-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A25 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-bios-and-chipset-software-update-for-your-lenovo-legion-5-pro-notebook/"><u>Latest BIOS & Chipset Software Update for Your Lenovo Legion 5 Pro Notebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-creator-space-a-comprehensible-guide-for-2024/"><u>Navigating the Creator Space A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trends-in-coding-a-look-at-the-peaks-and-valleys-of-programming-language-popularity-from-2016-onwards-insights-revealed-by-zdnet/"><u>Trends in Coding: A Look at the Peaks and Valleys of Programming Language Popularity From 2016 Onwards - Insights Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-career-opportunities-in-coding-discover-zdnets-essential-trio-of-programming-languages-for-job-success/"><u>Unlocking Career Opportunities in Coding: Discover ZDNet's Essential Trio of Programming Languages for Job Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-nvidias-strategy-a-look-inside-the-newly-open-source-gpu-driver-revelation-exploring-your-computers-core-components/"><u>Unveiling Nvidia's Strategy: A Look Inside the Newly-Open Source GPU Driver Revelation - Exploring Your Computer's Core Components</u></a></li>
 </ul></div>
 

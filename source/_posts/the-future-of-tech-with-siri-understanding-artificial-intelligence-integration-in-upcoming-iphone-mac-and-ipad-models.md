@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2025-01-19T17:42:58.879Z
-updated: 2025-01-24T16:57:56.041Z
+date: 2025-01-26T23:14:12.372Z
+updated: 2025-02-01T05:18:05.076Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,22 +120,19 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-essential-steps-for-starting-a-channel-on-discord/"><u>[New] Essential Steps for Starting a Channel on Discord</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-insta-meets-tiktok-connectors-handbook-for-2024/"><u>[New] Insta Meets TikTok Connector's Handbook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avoid-potential-problems-essential-information-on-ios-18s-impact-on-ipads-detailed/"><u>Avoid Potential Problems: Essential Information on iOS 18'S Impact on iPads Detailed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994674542-disco-elysium-pc-game-errors-resolved-smooth-sailing-now/"><u>Disco Elysium PC Game Errors Resolved: Smooth Sailing Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/expanding-horizons-customizing-games-via-steams-workshop/"><u>Expanding Horizons: Customizing Games via Steam's Workshop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-the-power-of-craft-a-comprehensive-tutorial-on-leveraging-macoss-premier-document-management-software/"><u>Explore the Power of Craft: A Comprehensive Tutorial on Leveraging macOS's Premier Document Management Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-recovering-lost-icon-links-on-windows-10-desktop/"><u>Guide to Recovering Lost Icon Links on Windows 10 Desktop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-se-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone SE (4 Methods) | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-5-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic 5 Pro Phone Screen?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-video-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>In 2024, The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-14-showdown-unlocking-features-of-pro-vs-pro-max-for-smart-shoppers/"><u>IPhone 14 Showdown: Unlocking Features of Pro Vs. Pro Max for Smart Shoppers!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/surpassing-rivals-how-apples-innovations-could-outshine-openai-microsoft-and-google-during-the-2024-worldwide-developers-conference-insights/"><u>Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-11-unbeatable-apple-watch-promotions-in-july-2024-features-and-reviews/"><u>Top 11 Unbeatable Apple Watch Promotions in July 2024 - Features and Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-tablet-reviews-and-comparisons-of-2024-comprehensive-guide-by-experts-techradar/"><u>Top-Rated Tablet Reviews & Comparisons of 2024 - Comprehensive Guide by Experts | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-savings-on-the-apple-watch-se-2nd-gen-how-much-youll-pay-after-prime-day-ends-expert-analysis/"><u>Unlocking Savings on the Apple Watch SE, 2Nd Gen: How Much You'll Pay After Prime Day Ends | Expert Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-the-mystery-the-underlying-reasons-behind-the-windows-meltdown-involving-crowdstrike-in-2n4-a-historical-perspective-on-cybersecurity-incidents.m195/"><u>Unraveling the Mystery: The Underlying Reasons Behind the Windows Meltdown Involving CrowdStrike in 2N4 - A Historical Perspective on Cybersecurity Incidents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-victors-in-depth-comparison-of-pixel-9-pro-xl-vs-iphone-15-pro-cameras-ends-in-unexpected-results/"><u>Unveiling the Victors: In-Depth Comparison of Pixel 9 Pro XL vs iPhone 15 Pro Cameras Ends in Unexpected Results!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-formulating-a-heartfelt-tiktok-epilogue/"><u>[New] Formulating a Heartfelt TikTok Epilogue</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>[New] Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortless-device-integration-with-obs-for-streaming-on-pcmac/"><u>[Updated] 2024 Approved Effortless Device Integration with OBS for Streaming on PC/Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mp3-mastery-guide-top-10-video-to-audio-picks/"><u>[Updated] MP3 Mastery Guide Top 10 Video-to-Audio Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-elite-list-of-best-online-streaming-hqs/"><u>[Updated] The Elite List of Best Online Streaming HQs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-time-lapses-with-iphone-for-2024/"><u>[Updated] The Ultimate Guide to Time-Lapses with iPhone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-skills-at-the-edge-beyond-artificial-intelligence-with-zdnet/"><u>Elevate Your Skills at The Edge - Beyond Artificial Intelligence with ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tools-for-perfect-linux-screenshots/"><u>Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lg-k92-does-its-5g-capability-deliver-value/"><u>Evaluating the LG K92: Does Its 5G Capability Deliver Value?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 14 Pro Max | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-googles-lamda-truly-sentient-or-just-another-advanced-ai-bot/"><u>Is Google's LaMDA Truly Sentient or Just Another Advanced AI Bot?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-sql-with-premier-online-course-selection-find-the-ultimate-guide-to-database-mastery/"><u>Master SQL with Premier Online Course Selection – Find the Ultimate Guide to Database Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/programming-trends-over-time-decoding-the-evolution-of-code-languages-since-2016-expert-analysis-for-tech-enthusiasts-zdnet/"><u>Programming Trends Over Time: Decoding the Evolution of Code Languages Since 2016 - Expert Analysis for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-a-glitch-in-microsofts-new-language-model-with-initial-test-query/"><u>Uncovering a Glitch in Microsoft's New Language Model with Initial Test Query</u></a></li>
 </ul></div>
 

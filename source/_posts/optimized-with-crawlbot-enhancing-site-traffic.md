@@ -1,7 +1,7 @@
 ---
 title: "Optimized with CrawlBot: Enhancing Site Traffic"
-date: 2024-09-12T07:20:49.069Z
-updated: 2024-09-13T07:20:49.069Z
+date: 2025-01-26T20:50:17.109Z
+updated: 2025-01-31T21:49:54.081Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg
@@ -19,19 +19,14 @@ English
 
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Richard Rabin 198X198](https://static4.abbyy.com/abbyycommedia/33102/83-richardrabin-198x198.png)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Richard Rabin
@@ -41,10 +36,7 @@ Product Marketing Manager, **ABBYY**
 ![Reggietwigg 198X198](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Reggietwigg 198X198](https://static2.abbyy.com/abbyycommedia/31957/reggietwigg-198x198.png)
@@ -57,13 +49,6 @@ Director, Enterprise Solutions Marketing, **ABBYY**
 
 COVID-19 forced mass adoption of digital transformation technologies, mainly to keep businesses running when the workforce, customers, and partners at once became virtual and relied on automation that was readily available. Now, a year into this new paradigm of work, we’ve learned that merely automating a process is not digital transformation; rather, processes must be re-imagined as experience management — especially those processes around employee and customer service.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### This session highlights:
 
 * A “Digital Intelligence” approach to transforming processes that involve people using unstructured content to make decisions and serve their users
@@ -74,40 +59,17 @@ Watch this insightful session and walk away with answers you need.
 
 ### Fill in the form to register for the webinar now
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Thank you for registering!
 
 [![Webinar Transforming The Messy Processes That Serve Users EN 643X363](https://static1.abbyy.com/abbyycommedia/33105/webinar-transforming-the-messy-processes-that-serve-users-643x363.jpg)](https://www.youtube.com/watch?v=X9GR1HQjx9o) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Please check your inbox, we have sent you a confirmation email.
@@ -115,10 +77,7 @@ Please check your inbox, we have sent you a confirmation email.
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
@@ -184,5 +143,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>[New] A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[Updated] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premier-mac-programming-options-excluding-bandicam-for-2024/"><u>[Updated] Premier Mac Programming Options Excluding Bandicam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-pathway-to-viral-fame-mastering-instagram-with-these-9-essential-strategies/"><u>[Updated] The Pathway to Viral Fame Mastering Instagram with These 9 Essential Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-secrets-to-successful-and-memorable-titles/"><u>2024 Approved 5 Secrets to Successful and Memorable Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-most-secure-and-stylish-smart-lock-perfect-for-your-iphone-without-sacrificing-aesthetics/"><u>Discover The Most Secure & Stylish Smart Lock Perfect for Your iPhone Without Sacrificing Aesthetics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-strategies-for-detecting-and-eliminating-mobile-spyware-a-guide/"><u>Effective Strategies for Detecting & Eliminating Mobile Spyware: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-to-replace-windows-ls-with-file-explorer/"><u>Essential Strategies to Replace Windows' LS with File Explorer</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-g310-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia G310 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-money-why-snagging-an-early-discount-on-apples-elusive-ipad-pro-is-a-smart-move-pre-prime-day-zdnet-explored/"><u>Maximizing Your Money: Why Snagging an Early Discount on Apple's Elusive iPad Pro Is a Smart Move Pre-Prime Day | ZDNET Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-discounts-unpacking-the-80-price-drop-on-the-apple-watch-series-se-2nd-generation/"><u>Prime Day Discounts: Unpacking the $80 Price Drop on the Apple Watch Series SE (2Nd Generation)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-the-switch-quick-and-easy-macbook-data-transfer-strategies-revealed-techadvice/"><u>Simplifying the Switch: Quick & Easy MacBook Data Transfer Strategies Revealed | TechAdvice</u></a></li>
+<li><a href="https://win-online.techidaily.com/streamlined-digital-solutions-with-massmails-2020-online-platform/"><u>Streamlined Digital Solutions with MassMail's 2020 Online Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-desired-enhancements-for-visionos-what-we-hope-apple-reveals-at-the-upcoming-wwdc-event/"><u>Top 10 Desired Enhancements for VisionOS: What We Hope Apple Reveals at the Upcoming WWDC Event</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-wallet-airtag-reviews-non-apple-non-tile-options-uncovered-on-zdnet/"><u>Top Wallet AirTag Reviews: Non-Apple, Non-Tile Options Uncovered on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-techniques-to-identify-when-youre-being-monitored-with-an-apple-airtag-digital-security-insights/"><u>Uncover Techniques to Identify When You're Being Monitored with an Apple AirTag | Digital Security Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleash-epic-fun-with-these-top-8-google-play-pass-gems/"><u>Unleash Epic Fun with These Top 8 Google Play Pass Gems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-studio-excellence-the-revolutionary-audio-capabilities-of-apples-latest-iphone-model-as-reviewed/"><u>Unlocking Studio Excellence: The Revolutionary Audio Capabilities of Apple's Latest iPhone Model, as Reviewed</u></a></li>
+</ul></div>
 

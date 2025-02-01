@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Personalization: Boosting User Engagement and Analytics"
-date: 2024-09-19T18:14:30.295Z
-updated: 2024-09-22T16:42:52.560Z
+date: 2025-01-29T16:38:58.790Z
+updated: 2025-01-31T17:20:21.474Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8e54d2f0a08f445fb5dafc81.jpg
@@ -23,6 +23,10 @@ And flexibility and remote working are not the only perks that attracted Paula t
 
 **[Follow us on Instagram and get to know the people at ABBYY](https://www.instagram.com/abbyyglobal/ "Instagram")**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is it that you do at ABBYY and what is your favorite thing about it?
 
 I am the Senior Talent Acquisition Partner at ABBYY’s regional Asia-Pacific (APAC) headquarters in Singapore. We are the ambassadors of ABBYY when it comes to hiring. I work hand in hand with hiring managers on identifying and recruiting people from across the Asia-Pacific and Japan (APJ) region and I am usually the first person to interact and engage with those who will potentially become ABBYY colleagues!
@@ -38,6 +42,10 @@ I then spend 10 mins writing a daily task list and prioritizing the tasks before
 In the evening, I have a catch-up meeting with my manager, Talent Acquisition (TA) colleagues, the People team, hiring managers, and others. Sometimes I join my colleagues in Singapore for lunch or go running and cycling in the late afternoon to take a break from work.
 
 ![](https://static1.abbyy.com/abbyycommedia/37164/meet-paula-dam-1.png?width=750&height=570)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What was your previous experience before ABBYY?
 
@@ -86,10 +94,11 @@ I don’t really believe in wishes coming true or hypotheses. If you want someth
 ![](https://static1.abbyy.com/abbyycommedia/37167/meet-paula-dam-4.png?width=750&height=570)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is your definition of work-life balance?
@@ -110,10 +119,7 @@ There are two books I recommend:
 Both books can be easily found on the internet and if you prefer audiobooks, they are available for free on YouTube!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
@@ -126,22 +132,12 @@ Both books can be easily found on the internet and if you prefer audiobooks, the
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Related posts
 
 ![](https://static2.abbyy.com/abbyycommedia/37760/nina-walker.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ABBYY Spotlight: Nina Walker, Head of Customer Experience](https://tools.techidaily.com/abbyy/products/) 
@@ -149,10 +145,7 @@ Share
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
@@ -214,5 +207,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-navigating-the-world-of-fbx-for-gamers/"><u>[New] 2024 Approved Navigating the World of FBX for Gamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-techniques-for-capturing-the-perfect-verbal-note/"><u>[New] 2024 Approved Techniques for Capturing the Perfect Verbal Note</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[New] In 2024, Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[New] Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-key-online-portals-for-downloading-text-effects/"><u>[New] Key Online Portals for Downloading Text Effects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streampulse-app-testimonials/"><u>[New] StreamPulse App Testimonials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[Updated] 2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-apples-latest-powerhouses-m2-chip-mac-studio-vs-m1-powered-mac-mini-which-tech-champion-emerges/"><u>Comparing Apple's Latest Powerhouses: M2-Chip Mac Studio Vs. M1-Powered Mac Mini - Which Tech Champion Emerges?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-ai-enhancements-for-ios-18-that-would-bring-it-on-par-with-androids-capabilities-insights-from-zdnet/"><u>Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/high-end-faceoff-samsung-galaxy-book-3-ultra-battles-apples-macbook-pro-an-elite-comparison-review/"><u>High-End Faceoff: Samsung Galaxy Book 3 Ultra Battles Apple's MacBook Pro - An Elite Comparison Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-twittomp4maker-social-streaming-solution/"><u>In 2024, TwitToMP4Maker Social Streaming Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-apple-experience-with-watchos-11s-latest-upgrade-features-explored-by-zdnet/"><u>Maximizing Your Apple Experience with WatchOS 11'S Latest Upgrade - Features Explored by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-capabilities-how-apple-must-rise-to-match-the-power-of-openai-and-googles-ai-innovations-insights-from-zdnet/"><u>Top 10 Capabilities: How Apple Must Rise to Match the Power of OpenAI and Google's AI Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-460-off-during-amazon-prime-day-exclusive-insights-from-zdnet/"><u>Up to $460 Off During Amazon Prime Day, Exclusive Insights From ZDNet!</u></a></li>
+</ul></div>
 

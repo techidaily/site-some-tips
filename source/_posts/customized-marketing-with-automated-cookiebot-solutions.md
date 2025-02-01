@@ -1,7 +1,7 @@
 ---
 title: Customized Marketing with Automated Cookiebot Solutions
-date: 2024-09-12T07:21:08.515Z
-updated: 2024-09-13T07:21:08.515Z
+date: 2025-01-25T01:05:43.396Z
+updated: 2025-02-01T03:48:08.962Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f897f024e133b92335d61d4b28.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f89
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Étude ABBYY : état des lieux de l'adoption de la RPA et du Process Mining en France
@@ -25,16 +22,7 @@ thumbnail: https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f89
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * _En matière d'adoption du Process Mining, la France se positionne devant les Etats-Unis (64 %), le Royaume-Uni (64 %) et l'Allemagne (57 %)._
@@ -94,5 +82,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/asterful-tag-utilization-boosting-video-performance/"><u>[New] Masterful Tag Utilization Boosting Video Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>[Updated] In 2024, Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/12-beste-kostenlose-software-zum-rippen-von-dvds-auf-macos-im-jahr-2023-trial-version/"><u>12 Beste Kostenlose Software Zum Rippen Von DVDs Auf macOS Im Jahr 2023 (Trial Version)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-techniques-for-channel-management-on-yt-hub/"><u>2024 Approved Cutting-Edge Techniques for Channel Management on YT Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>2024 Approved Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/effective-strategies-for-removing-malware-from-your-pc-expert-tips-from-yl-computing/"><u>Effective Strategies for Removing Malware From Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-can-level-up-its-intelligence-game-against-rivals-like-openai-and-google-expert-analysis/"><u>How Apple Can Level Up Its Intelligence Game Against Rivals Like OpenAI and Google - Expert Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/memorial-day-special-save-60-on-the-apple-watch-se-the-best-tech-buy-of-the-year-revealed/"><u>Memorial Day Special - Save $60 on the Apple Watch SE! The Best Tech Buy of the Year Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-problems-with-voice-chatting-in-valorant-practical-tips/"><u>Overcoming Problems with Voice Chatting in Valorant: Practical Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-connection-issues-on-iphone-post-ios-update-to-version-1721-tips/"><u>Solving Connection Issues on iPhone Post-iOS Update to Version 17.2.1 - Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-7-must-have-android-home-replacement-apps/"><u>Top 7 Must-Have Android Home Replacement Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-bargains-in-july-2024-iphone-savings-and-exclusive-discounts-on-apple-watch-ipad-and-extra-accessories-zdnets-comprehensive-guide/"><u>Top Apple Bargains in July 2024: IPhone Savings & Exclusive Discounts on Apple Watch, iPad, and Extra Accessories - ZDNet's Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-reason-behind-unsent-imessages-from-yesterday-experts-weigh-in-at-zdnet/"><u>Understanding the Reason Behind Unsent iMessages From Yesterday - Experts Weigh In at ZDNet</u></a></li>
+</ul></div>
 

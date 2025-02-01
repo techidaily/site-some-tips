@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2025-01-23T18:01:34.062Z
-updated: 2025-01-24T16:31:08.152Z
+date: 2025-01-30T03:00:08.111Z
+updated: 2025-01-31T20:54:13.625Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,17 +191,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-best-drawing-apps-for-chromebook/"><u>[New] FREE Best Drawing Apps for Chromebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-starting-simple-a-practical-approach-to-becoming-an-e-review-expert/"><u>[Updated] Starting Simple A Practical Approach to Becoming an E-Review Expert</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-how-the-revolutionary-camera-button-enhances-iphone-16s-photography-experience-zdnet-insights/"><u>Discover How the Revolutionary Camera Button Enhances iPhone 16'S Photography Experience | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-the-new-airpods-pro-featuring-find-my-device-and-usb-c-connectivity-the-latest-from-apple/"><u>Introducing the New AirPods Pro Featuring 'Find My Device' & USB-C Connectivity - The Latest From Apple</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigate-to-the-top-10-most-advanced-photo-changer-apps-for-2024/"><u>Navigate to the Top 10 Most Advanced Photo Changer Apps for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transition-guide-using-windows-7-key-for-windows-11-activation/"><u>Transition Guide: Using Windows 7 Key for Windows 11 Activation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-enhancing-your-ipad-experience-with-the-latest-accessories-of-2abruptly/"><u>Ultimate Guide to Enhancing Your iPad Experience with the Latest Accessories of 2Abruptly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unboxing-titans-of-youtube-the-most-popular/"><u>Unboxing Titans of YouTube - The Most Popular</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-solution-overcome-the-risky-battery-flaw-in-your-airtags-and-compatible-gadgets-expert-tips-from-zdnet/"><u>Unlocking the Solution: Overcome the Risky Battery Flaw in Your AirTags and Compatible Gadgets - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://win-popular.techidaily.com/verspelen-van-geavanceerde-daten-de-twee-goede-wegs-om-je-vrije-ruimte-voor-nieuwe-technologie-te-zorgen/"><u>Verspelen Van Geavanceerde Daten: De Twee Goede Wegs Om Je Vrije Ruimte Voor Nieuwe Technologie Te Zorgen</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-youtube-video-to-text-converters-on-line/"><u>[New] Best YouTube Video to Text Converters On-Line</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pewdiepies-paycheck-profile-a-glimpse-into-his-earnings/"><u>[New] PewDiePie’s Paycheck Profile – A Glimpse Into His Earnings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>[Updated] YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-navigating-the-ai-revolution-strategies-for-tech-experts-to-excel-in-their-careers-with-zdnets-insights/"><u>1. Navigating the AI Revolution: Strategies for Tech Experts to Excel in Their Careers with ZDNet's Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-combatting-developer-burnout-innovative-strategies-adopted-by-tech-firms-insights-from-zdnet/"><u>1) Combatting Developer Burnout: Innovative Strategies Adopted by Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/3-ways-to-record-lectures-on-mac-for-2024/"><u>3 Ways to Record Lectures on Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/groundbreaking-ai-processor-developer-ceremorphic-reveals-strategies-post-stealth-mode/"><u>Groundbreaking AI Processor Developer Ceremorphic Reveals Strategies Post-Stealth Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-artificial-intelligence-effective-as-part-of-the-software-dev-squad-exploring-its-role-on-zdnet/"><u>Is Artificial Intelligence Effective as Part of the Software Dev Squad? Exploring Its Role on ZDNet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-multimedia-magic-crafting-eye-catching-text-and-visuals-in-pcdjs-deckadance-v37-tutorial/"><u>Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-data-avoiding-privacy-breaches-with-tailored-gpt-systems/"><u>Securing Your Data: Avoiding Privacy Breaches with Tailored GPT Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/supreme-memetric-creation-tool/"><u>Supreme Memetric Creation Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-understanding-the-renewed-interest-in-openstack-and-kata-containers/"><u>The Rising Popularity: Understanding the Renewed Interest in OpenStack & Kata Containers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-7-leading-cybersecurity-credentials-ranked-by-zdnet/"><u>The Ultimate Guide: 7 Leading Cybersecurity Credentials Ranked by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-spotlights-radia-perlman-as-a-pioneer-of-efficient-local-area-networking-in-their-latest-tribute-series-feature-hidden-innovators/"><u>ZDNet Spotlights Radia Perlman as a Pioneer of Efficient Local Area Networking in Their Latest Tribute Series Feature: 'Hidden Innovators'</u></a></li>
 </ul></div>
 

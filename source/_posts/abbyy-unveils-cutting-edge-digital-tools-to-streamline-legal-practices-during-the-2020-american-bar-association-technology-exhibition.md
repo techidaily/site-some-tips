@@ -1,7 +1,7 @@
 ---
 title: ABBYY Unveils Cutting-Edge Digital Tools to Streamline Legal Practices During the 2020 American Bar Association Technology Exhibition
-date: 2024-09-20T19:11:55.664Z
-updated: 2024-09-22T17:05:19.825Z
+date: 2025-01-26T06:26:47.589Z
+updated: 2025-02-01T00:07:33.116Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55fedde24fa1dbdf3c7ea5ae0.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY to Showcase Digital Intelligence Solutions to Transform Legal Operations at the American Bar Association TECHSHOW 2020
 
 February 21, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _ABBYY’s Digital Intelligence platform enables legal departments and law firms to leverage AI technologies to retake control of their document processes._ 
 
@@ -63,12 +71,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dissecting-youtubes-activities-post-uploading-videos/"><u>[Updated] 2024 Approved Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9-for-2024/"><u>[Updated] Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>[Updated] Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-live-streaming-scenery-ideas/"><u>[Updated] Optimal Live Streaming Scenery Ideas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-image-archive-platforms/"><u>2024 Approved Prime Image Archive Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-efficiency-on-the-go-essential-ipad-tools-for-enhanced-productivity-featured-by-zdnet/"><u>Boosting Efficiency on the Go: Essential iPad Tools for Enhanced Productivity, Featured by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Galaxy M34?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/charge-with-ease-and-stay-cool-discover-the-perfect-3-port-magsafe-dock-for-apple-devices-insights-from-zdnet/"><u>Charge with Ease & Stay Cool: Discover the Perfect 3-Port MagSafe Dock for Apple Devices - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-upgraded-macbook-air-lineup-with-m3-chip-new-13-inch-and-15-inch-models-highlighted/"><u>Discover the Upgraded MacBook Air Lineup with M3 Chip: New 13-Inch and 15-Inch Models Highlighted</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhanced-chromebooks-new-models-offer-free-one-year-access-to-2-tb-cloud-storage/"><u>Enhanced Chromebooks: New Models Offer Free One-Year Access to 2 TB Cloud Storage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-video-resolution-converter-for-windowsmaconline/"><u>In 2024, Best Video Resolution Converter [for Windows/Mac/Online]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/relax-in-comfort-make-zoom-meetings-from-your-sofa-using-the-latest-apple-tv-application-zdnet/"><u>Relax in Comfort: Make Zoom Meetings From Your Sofa Using the Latest Apple TV Application | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-setup-guide-extending-display-with-an-additional-thunderbolt-screen-on-m1-mac-mini-tips-and-tricks/"><u>Seamless Setup Guide: Extending Display with an Additional Thunderbolt Screen on M1 Mac Mini - Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpurchasing-your-apple-vision-pro-follow-these-simple-steps/"><u>Unpurchasing Your Apple Vision Pro? Follow These Simple Steps!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-top-5-revolutionary-ios-18-innovations-from-wwdc-2024-with-artificial-intelligence-taking-center-stage/"><u>Unveiling Top 5 Revolutionary iOS 18 Innovations From WWDC 2024, With Artificial Intelligence Taking Center Stage</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 94%% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?
-date: 2024-09-12T07:21:47.931Z
-updated: 2024-09-13T07:21:47.931Z
+date: 2025-01-24T19:33:52.922Z
+updated: 2025-01-31T22:37:15.291Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b14d88b85b8e477a0430e0fc.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 94% der Unternehmen laufen Gefahr, potenzielle Kunden bereits während des Onboarding-Prozesses zu verlieren
@@ -25,16 +22,7 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![News Colleagues3](https://static1.abbyy.com/abbyycommedia/33750/news-colleagues3.jpg) 
@@ -51,13 +39,14 @@ Dies wirkt sich nicht nur auf den Umsatz aus, sondern auch auf die Meinung der K
 
 ![infographic-onboarding-survey-de](https://static1.abbyy.com/abbyycommedia/36367/infographic-onboarding-survey-de.jpg?width=900&height=1242)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Obwohl sich die Unternehmen der negativen Folgen eines schlechten Onboardings bewusst sind, wie zum Beispiel versäumte Geschäftschancen (32%), das Verlieren potenzieller Kunden an die Konkurrenz (33%) oder Schwierigkeiten bei der Gewinnung neuer Kunden (29%), nehmen sie dies stillschweigend in Kauf. Zwei von drei Befragten halten den Onboarding-Prozess zwar für sehr wichtig (45%) oder immerhin einigermaßen wichtig (21%), aber es besteht bei vielen noch ein großer Verbesserungsbedarf beim tatsächlichen Prozess.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Den richtigen Mix aus Technologie und menschlicher Interaktion schaffen
@@ -77,22 +66,12 @@ _Markoss Martina, VP Next Generation Platforms bei ABBYY_
 
 Der neue ABBYY State of Intelligent Automation Report gibt Ihnen weitere Einblicke in die Treiber und Herausforderungen des Onboardings und zeigt, wie Sie die Erwartungen Ihrer Kunden besser erfüllen können. Lesen Sie den ausführlichen [Report hier](https://tools.techidaily.com/abbyy/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Über die Studie
 
 Diese Studie wurde von Sapio Research im September 2022 im Auftrag von ABBYY durchgeführt. Die Umfrage wurde unter 1.623 Entscheidungsträgern in Großbritannien, den USA, Frankreich, Deutschland und Japan durchgeführt.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Über ABBYY
@@ -104,13 +83,6 @@ ABBYY unterstützt mehr als 10.000 Unternehmen weltweit, darunter viele Fortune-
 ABBYY ist ein globales Unternehmen mit Sitz in den USA und Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter [https://www.abbyy.com/de.](https://tools.techidaily.com/abbyy/products/)
 
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ABBYY Pressekontakt
 
@@ -137,5 +109,23 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-asmr-series-on-youtube-platform/"><u>[Updated] 2024 Approved Best ASMR Series on YouTube Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-approaches-for-zoom-utility-on-chromebook/"><u>[Updated] Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-unveils-preview-for-ec2-based-apple-silicon-servers-techcrunch/"><u>Amazon Web Services Unveils Preview for EC2-Based Apple Silicon Servers | TechCrunch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/detailed-insights-into-barnes-and-nobles-glowlight-c-series-the-nook-glowlight-4-review/"><u>Detailed Insights Into Barnes & Noble's Glowlight C Series: The Nook GlowLight 4 Review</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/efficient-approaches-for-transforming-the-intercept-podcast-into-multiple-audio-types-mp3-wav-aac-and-flac/"><u>Efficient Approaches for Transforming The Intercept Podcast Into Multiple Audio Types: MP3, WAV, AAC & FLAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/esteemed-linux-professionals-endorse-ciq-as-pillar-of-rocky-linuxs-launch-zdnet-insights/"><u>Esteemed Linux Professionals Endorse CIQ as Pillar of Rocky Linux's Launch | ZDNET Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expertly-recorded-hd-content-ultimate-screen-recorder-guide/"><u>Expertly Recorded HD Content Ultimate Screen Recorder Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-obs-recording-black-screen-error-and-solutions/"><u>How To Resolve OBS Recording: Black Screen Error & Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-linuxone-4-express-is-the-affordable-mainframe-a-perfect-match-for-your-needs-explore-options-on-zdnet/"><u>IBM LinuxONE 4 Express: Is the Affordable Mainframe a Perfect Match for Your Needs? Explore Options on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-linuxone-amo-unlocking-mainframe-potential-on-budget-with-expert-advice-zdnets-comprehensive-guide/"><u>IBM LinuxONE Amo: Unlocking Mainframe Potential on Budget with Expert Advice | ZDNET's Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-the-essence-of-netflixs-best-show-through-hangul/"><u>Learn the Essence of Netflix's Best Show Through Hangul</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment-for-2024/"><u>Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/promoting-advanced-computing-power-the-linux-foundations-endorsement-of-high-performance-and-exascale-systems/"><u>Promoting Advanced Computing Power: The Linux Foundation's Endorsement of High-Performance & Exascale Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebuilding-dotnet-windows-fixes-to-remember-max-156/"><u>Rebuilding DotNet: Windows Fixes to Remember (Max 156)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pros-and-cons-of-upgrading-to-the-iphone-16-hardware-excellence-meets-uncertain-value-zdnet/"><u>The Pros and Cons of Upgrading to the iPhone 16 - Hardware Excellence Meets Uncertain Value | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-linux-isnt-your-go-to-for-cloud-computing-and-how-a-dbos-stacks-up-experience-it-at-no-cost-zdnet/"><u>Why Linux Isn't Your Go-To for Cloud Computing and How a DBOS Stacks Up - Experience It at No Cost | ZDNet</u></a></li>
+</ul></div>
 

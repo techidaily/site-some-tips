@@ -1,7 +1,7 @@
 ---
 title: TP-Link's AV130 # Query
-date: 2024-09-06T23:23:53.454Z
-updated: 2024-09-07T23:23:53.454Z
+date: 2025-01-30T23:05:53.879Z
+updated: 2025-02-01T05:04:30.102Z
 categories:
   - BestProducts
 description: This Article Describes TP-Link's AV130 # Query
@@ -9,28 +9,14 @@ excerpt: This Article Describes TP-Link's AV130 # Query
 thumbnail: https://www.lifewire.com/thmb/-CCYcSX0T5AUV71rvhcL3EXRYU0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link-AV1300_HeroSquare-b4f9b474f6954c1cb76cdcb4302de3b7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Excellent Value 30 TV Antenna: Top Performer at a Bargain
 
 4.2
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
@@ -83,33 +69,23 @@ Lifewire / Jonno Hill
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
 
  The matte surface is white on one side and black on the other, which could be useful for helping blend the device in with your surroundings. The Mohu Leaf 30 TV Antenna is neither the thickest or the thinnest version of this design that we’ve seen. Some are closer to paper thin and extremely flexible, and others were more rigid. If you need to be able to bend the antenna quite a bit to fit it where you need to, this might not be the right one for you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup: Dead simple**
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Performance: Acceptable but not incredible**
 
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
@@ -120,17 +96,15 @@ Lifewire / Jonno Hill
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Excellent for the performance**
 
  The Mohu Leaf 30 TV Antenna has a 90-day rolling average price of $29 on Amazon, which puts it on the more affordable end of the spectrum. The price definitely feels appropriate for the performance and feature set, but it’s not an all-out bargain.
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
@@ -140,6 +114,10 @@ Lifewire / Jonno Hill
 
 **No fuss, good value.**
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -153,14 +131,11 @@ Lifewire / Jonno Hill
 * Range  30 miles
 * Warranty  One year
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +144,23 @@ Lifewire / Jonno Hill
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films/"><u>[Updated] 2024 Approved Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques-for-2024/"><u>[Updated] Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bypassing-the-hurdles-of-notions-evernote-integration-innovative-solutions-for-a-seamless-workflow-zdnet-insights/"><u>Bypassing the Hurdles of Notion’s Evernote Integration: Innovative Solutions for a Seamless Workflow | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-up-that-persistent-green-tint-in-youtube-videos-on-mac-for-2024/"><u>Clearing Up that Persistent Green Tint in YouTube Videos on Mac for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparative-costs-yt-vs-other-platforms-for-2024/"><u>Comparative Costs YT vs Other Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-protoncloud-introducing-document-sharing-in-free-plan-with-latest-update/"><u>Enhanced ProtonCloud: Introducing Document Sharing in Free Plan with Latest Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-hot-40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Hot 40 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621380-9781601639585-magickal-connections/"><u>Magickal Connections | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-containers-permanently-the-ultimate-guide-using-rust-powered-edera-insights-from-zdnet/"><u>Securing Containers Permanently: The Ultimate Guide Using Rust-Powered Edera - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-standing-desks-of-2023-comprehensive-review/"><u>Top 7 Standing Desks of 2023: Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-pandemic-response-platforms-managing-covid-19-vaccinations-effectively/"><u>Top Rated Pandemic Response Platforms: Managing Covid-19 Vaccinations Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-hidden-expenses-of-discounted-lifetime-cloud-storage-insights-from-zdnet/"><u>Unraveling the Hidden Expenses of Discounted Lifetime Cloud Storage - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-singtels-strategic-venture-into-indonesias-data-centre-market-with-new-partnership-announcement/"><u>ZDNet Explores SingTel's Strategic Venture Into Indonesia's Data Centre Market with New Partnership Announcement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-report-official-launch-of-tropical-facility-singapores-cutting-edge-data-hub-now-fully-functional/"><u>ZDNet Report: Official Launch of Tropical Facility, Singapore's Cutting-Edge Data Hub Now Fully Functional</u></a></li>
+</ul></div>
 

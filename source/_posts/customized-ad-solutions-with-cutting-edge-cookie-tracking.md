@@ -1,7 +1,7 @@
 ---
 title: Customized Ad Solutions with Cutting-Edge Cookie Tracking
-date: 2024-09-15T16:08:18.832Z
-updated: 2024-09-17T16:10:02.239Z
+date: 2025-01-25T02:31:09.195Z
+updated: 2025-02-01T02:37:01.937Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da4dedfe1c7e2e3409bef7181.jpg
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
 デジタルトランスフォーメーション(DX)を率先して行おうとすると、全ての中心的な部分には、人間が繰り返すあらゆる定型のタスクを自動化するロボットプロセス自動化（RPA）が含まれます。これには、SAPなどのシステムと対話してデータを入力し、情報を検証することも含まれます。[SAP Intelligent Robotic Process Automation（英語版）](https://www.sap.com/products/robotic-process-automation.html) は、財務、販売、配送、製造、調達、調達、およびプロフェッショナルサービスにおけるこれらのタイプの手動タスクの自動化を支援し、従業員の反復的なタスクを自動化することで、会社の運用効率を改善し、コンプライアンスを向上させ、リスクを低減します。
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **文書、電子メール、および非構造化データを処理するためのSAPロボットのスキルアップ**
 
 企業がここ1,2年で学んだことは、RPAがドキュメントや電子メール、およびその他の非構造化データを含むプロセスの自動化に支援を必要としていることです。SAPロボットにインテリジェンスを追加するとお考えください。ロボットはビジョン、理解、ロボットプロセスへの洞察を適用する必要なデジタルスキルをあらかじめ備えており、それ故に、請求書、注文書、BOL (Bill of Lading)などのドキュメントを処理することが可能となります。そのデジタルスキル（コグニティブスキル）は、SAPロボットによって呼び出すことができるトレーニング済みソフトウェアです。そして、ドキュメントを請求書として識別し、ヘッダー、フッター、およびラインアイテムの詳細を特定して抽出し、SAPロボットにデータを返す前にデータを構造化および検証します。
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 次の図は、SAP Intelligent RPAとABBYYの間の一般的なプロセスフローを示しています。SAPロボットでメール、電子文書のようなインプットを集め、ABBYYの技術で非定型文書からコンテンツを抽出し、レビューを行い、SAPロボットがそのデータをS/4 HANAのようなシステムに届けるようなフローです。
 
 ![SAP ABBYY Process flow](https://static1.abbyy.com/abbyycommedia/25745/sap-abbyy-process-flow-1024x576.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 よくある誤解は、単なるOCRと思われることです。これでは、実際に何が起こっているかについてのマークを完全に逃してしまいます。別の先入観は、さまざまなベンダーの請求書のように、ドキュメントのバリエーションごとにテンプレートが必要であるというものです。 我々はそれが偽りであり、より良いソリューションを提供するために、無残にプロジェクトを失敗させないためにここにいます。
 
@@ -45,11 +53,19 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
 「RPAと組み合わせて使用されるAIテクノロジ - 機械学習（ML）、自然言語処理（NLP）、コンピュータービジョンを含む - は、スタンドアロンRPAによって達成可能なものよりもはるかに大きなビジネス上の利点を引き出す可能性があります。 この組み合わせは、プロセスの業務処理的な部分だけでなく、判断力が必要とされる部分も自動化するのに役立ちます。」
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **インテリジェントな文書処理のリーダーであるABBYY**
 
 ABBYYのインテリジェント文書処理プラットフォームは、最近、Everestグループの [Intelligent Document Processing (IDP) Peak Matrix Assessment 2020](https://www.abbyy.com/solutions/content-intelligence/everest-group-intelligent-document-processing-products-peak-matrix/?itm%5Fsource=jpblog)にてリーダーとして選ばれました。ABBYYは、ビジョンと機能の軸で最高の地位を獲得しました。この軸は、特に、会社のビジョンと戦略、製品の機能、技術、および商用モデルの将来性と柔軟性を評価するものです。
 
 ABBYYのインテリジェント文書処理プラットフォームとSAP Intelligent RPAを組み合わせると、ABBYYのコンテンツインテリジェンステクノロジーとソリューションは、コンテンツ中心のプロセスの自動化を支援するために必要なコグニティブスキルを提供します。 コンテンツインテリジェンスは、高度なビジネス上の意思決定に必要なスキルと理解を新しいデジタルワーカーに提供することで、企業の働き方を変え始めており、今後の主流になっていくでしょう。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **次のステップとして**
 
@@ -64,10 +80,7 @@ ABBYY FlexiCaptureについての概要、デモの依頼、お問い合わせ�
 [OCR（文字認識）](https://tools.techidaily.com/abbyy/products/) [コンテンツの理解](https://tools.techidaily.com/abbyy/products/) [AI OCR](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### いいね！、シェア、再投稿
@@ -131,5 +144,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-techniques-to-preserve-webcam-dialogues/"><u>[New] 2024 Approved Efficient Techniques to Preserve Webcam Dialogues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ne-arm-wonders-keeping-photos-steady/"><u>[New] One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-adjust-macs-captured-screen-storage-place/"><u>[Updated] 2024 Approved Adjust Mac's Captured Screen Storage Place</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-workflow-on-the-new-m3-macbook-pro-with-2-screens-just-like-its-air-counterpart/"><u>Boost Your Workflow on the New M3 MacBook Pro with 2 Screens, Just Like Its Air Counterpart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-the-fix-for-xbox-game-pass-error-0-on-windows-11-pcs/"><u>Breaking Down the Fix for Xbox Game Pass Error 0 on Windows 11 PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-your-fitness-tools-unleash-the-power-of-syncing-oura-rings-with-strava-a-comprehensive-tutorial/"><u>Connecting Your Fitness Tools: Unleash The Power Of Syncing Oura Rings With Strava - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-a14-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy A14 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-take-on-iphone-15-a-must-have-upgrade-for-tech-professionals-and-beyond-insights-from-zdnet/"><u>Expert Take on iPhone 15: A Must-Have Upgrade for Tech Professionals and Beyond - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pro-screen-recording-tool-for-successful-youtubers/"><u>In 2024, Pro Screen Recording Tool for Successful YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-update-apple-discontinues-iphone-13-and-15-pro-expert-buying-guide-for-alternatives-insights/"><u>Latest Update: Apple Discontinues iPhone 13 & 15 Pro - Expert Buying Guide for Alternatives Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/record-phone-conversations-on-ios-18-without-third-party-software-tech-insights-from-zdnet/"><u>Record Phone Conversations on iOS 18 Without Third-Party Software | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-big-savings-apple-watch-se-now-just-60-less-this-memorial-day-top-pick-of-my-yearly-purchases-unveiled/"><u>Score Big Savings! Apple Watch SE Now Just $60 Less This Memorial Day – Top Pick of My Yearly Purchases Unveiled!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-make-your-game-sounds-echo-through-discord/"><u>Solved: How To Make Your Game Sounds Echo Through Discord</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-90-gt-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor 90 GT Phone Hassle-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-dream-come-true-for-sports-enthusiasts-explore-applesports-the-free-iphone-application/"><u>The Dream Come True for Sports Enthusiasts: Explore AppleSports, the Free iPhone Application!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-18-unbeatable-prime-day-promotions-on-premium-laptops-featuring-brands-like-hp-apple-and-razer-exclusive-scoop-from-zdnet/"><u>Top 18 Unbeatable Prime Day Promotions on Premium Laptops - Featuring Brands Like HP, Apple & Razer - Exclusive Scoop From ZDNet</u></a></li>
+</ul></div>
 

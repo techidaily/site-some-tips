@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending and Receiving iMessages From Your PC with Windows - Expert Tips"
-date: 2025-01-23T19:56:06.372Z
-updated: 2025-01-24T20:39:41.166Z
+date: 2025-01-29T03:14:43.497Z
+updated: 2025-01-31T17:09:30.623Z
 tags:
   - apple
 categories:
@@ -56,15 +56,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -76,21 +76,25 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -104,10 +108,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
 
 ## 1\. Install Intel Unison
@@ -117,10 +117,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -135,7 +131,7 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -149,6 +145,10 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,19 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-overwatch-playback-techniques-explained-for-2024/"><u>[Updated] Overwatch Playback Techniques Explained for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/800-deal-apple-m2-macbook-air-available-early-on-amazon-before-official-sales-events/"><u>$800 Deal: Apple M2 MacBook Air Available Early on Amazon Before Official Sales Events</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capture-your-desktop-on-windows-3-ways-free/"><u>2024 Approved Capture Your Desktop on Windows, 3 Ways, Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-setup-guide-activating-libreoffice-on-your-mac-the-ultimate-free-ms-office-substitute/"><u>Effortless Setup Guide: Activating LibreOffice on Your Mac - The Ultimate Free MS Office Substitute!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-screen-recording-apps-of-2023-expert-picks-for-2024/"><u>Elite Screen Recording Apps of 2023 - Expert Picks for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-supreme-gaming-performance-msi-katana-156-inch-laptop-powered-by-nvidia-geforce-rtx-4070-for-just-1199/"><u>Experience Supreme Gaming Performance: MSI Katana 15.ˈ6 Inch Laptop - Powered by NVIDIA GeForce RTX 4070 for Just $1,199</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-on-altering-proton-vpn-login-details-plus-distinguishing-between-fake-and-true-chatgpt-windows-software/"><u>Expert Advice on Altering Proton VPN Login Details + Distinguishing Between Fake & True ChatGPT Windows Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-does-apple-safeguard-user-data-in-the-cloud-for-enhanced-ai-experiences-exploring-strategies/"><u>How Does Apple Safeguard User Data in the Cloud for Enhanced AI Experiences? Exploring Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>In 2024, Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mac-studio-innovations-that-could-sway-users-away-from-a-new-m4-mac-mini-this-fall-analysis/"><u>Mac Studio Innovations That Could Sway Users Away From a New M4 Mac Mini This Fall - Analysis</u></a></li>
-<li><a href="https://win-dash.techidaily.com/samsung-blu-ray-player-malfunction-solutions-expert-guide/"><u>Samsung Blu-Ray Player Malfunction Solutions - Expert Guide</u></a></li>
-<li><a href="https://win-web.techidaily.com/simple-methods-transferring-images-from-your-android-device-to-pc/"><u>Simple Methods: Transferring Images From Your Android Device to PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-instructions-for-using-your-apple-watch-to-stay-connected-with-friends-and-family-techadvice/"><u>Step-by-Step Instructions for Using Your Apple Watch to Stay Connected with Friends and Family | TechAdvice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-reasons-to-skip-amazon-when-purchasing-sd-memory-cards/"><u>Top Reasons to Skip Amazon When Purchasing SD Memory Cards</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-recording-rivals-meet/"><u>[New] 2024 Approved Recording Rivals, Meet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity/"><u>[New] In 2024, Unlock Screen Capture Potential with Expert Tips From Adobe Captivity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-mobile-listening-androids-best-podcast-apps-top-6/"><u>[New] Mastering Mobile Listening Android's Best Podcast Apps (Top 6)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hidden-windows-11-techniques-for-effortless-import-tasks/"><u>[Updated] Hidden Windows 11 Techniques for Effortless Import Tasks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-your-desktop-in-winoses-effortlessly/"><u>2024 Approved Capturing Your Desktop in WinOSes Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-gap-in-tech-how-intel-ai-chief-wei-li-plans-to-popularize-modern-day-ai-supercomputing-zdnet-insights/"><u>Bridging the Gap in Tech: How Intel AI Chief Wei Li Plans to Popularize Modern-Day AI Supercomputing | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dealing-with-60-daily-linux-vulnerabilities-tips-and-tricks-from-the-linux-security-squad-on-effective-mitigation-strategies-tech-insight/"><u>Dealing with 60 Daily Linux Vulnerabilities: Tips & Tricks From the Linux Security Squad on Effective Mitigation Strategies | Tech Insight</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-htc-easily-by-drfone-android/"><u>In 2024, How To Unlock a HTC Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphones-ultimate-strategy-for-seamless-podcast-downloading-for-2024/"><u>IPhone's Ultimate Strategy for Seamless Podcast Downloading for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/raspberry-pis-on-high-demand-unveiling-reasons-behind-supply-issues-and-how-to-secure-yours-zdnet/"><u>Raspberry Pis on High Demand: Unveiling Reasons Behind Supply Issues and How to Secure Yours | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-red-magic-9-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Red Magic 9 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essentials-of-running-an-immutable-linux-os-insights-from-tech-experts/"><u>The Essentials of Running an Immutable Linux OS | Insights From Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-ai-accessibility-intels-leadership-with-ceo-wei-li-paving-way-for-widespread-ai-supercomputing/"><u>Transforming AI Accessibility: Intel's Leadership with CEO Wei Li Paving Way for Widespread AI Supercomputing</u></a></li>
 </ul></div>
 

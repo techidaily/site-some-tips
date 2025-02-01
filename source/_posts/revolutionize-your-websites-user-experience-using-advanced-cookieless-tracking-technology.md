@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Website's User Experience Using Advanced Cookieless Tracking Technology
-date: 2024-09-11T16:13:42.070Z
-updated: 2024-09-17T16:01:55.554Z
+date: 2025-01-26T00:57:09.542Z
+updated: 2025-02-01T00:38:23.527Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426c62a6f89484db17077fafde.jpg
@@ -19,6 +19,10 @@ ABBYYでの仕事とは
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/visuals/careers-visual-abbyy.jpg?h=1000&iar=0&w=5120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 当社の価値観 
 
 ABBYYの成功の土台は、企業とその社員のアイデンティティ、そしてチームとしての仕事を定義する共通の価値観で成り立つものです。この価値観に対するコミットメントは、ただの声明ではありません。これこそが組織としての「生き方」なのです。この価値観が羅針盤となり、当社の日々の行動、決断、互いの影響を生み出し、形作っています。 
@@ -30,6 +34,10 @@ ABBYYの成功の土台は、企業とその社員のアイデンティティ、
 物事をシンプルに保つことを心がけましょう。簡単に説明、理解できることが極めて重要です。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-128.svg?h=128&iar=0&w=128)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 透明性 
 
@@ -50,6 +58,10 @@ ABBYYのビジョンは、インテリジェント・オートメーションの
 Ulf Persson、ABBYYグループCEOおよび代表取締役 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/drawer-1.jpg?h=389&iar=0&w=750)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYYの基本指針 
 
@@ -99,9 +111,17 @@ ABBYYでは、フレックスタイム制により、すべての社員にリモ
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/drawer-image-2.jpg?h=389&iar=0&w=750)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 「私たち全体の経験、歴史、経歴、能力、考え方は豊かであり、たとえそれがビジネスの目的で組織されたコミュニティであるにも関わらず、これらが1つのコミュニティの中で大切にされています。 
 
 多くの成功しているビジネスがそうであるように、ABBYYも企業としての個性を重視し、顧客により良いサービスを提供できる製品を作ろうと努力しています。 イノベーションは、挑戦と非線形思考の機能であり、それは異なる視点を反映する個人によって可能になるものなのです。多様な人材を雇用し、維持するためには、何者も排除しない環境、つまり違いが尊重され、誰もが自分の居場所だと感じられるようなコミュニティを提供する必要があります。それがABBYYの願いであり、ビジョンです」 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 環境および社会に対する責任 
 
@@ -121,6 +141,10 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_mountain-64.svg?h=64&iar=0&w=64)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### カーボンニュートラルへの道 
 
 2023年から、ABBYYは出張時の二酸化炭素排出量を測定し、オフセットプログラムに投資しています。 
@@ -130,13 +154,6 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ##### ABBYY Summer Challenge 
 
 毎年、世界的なスポーツコンペティションを開催し、社員が1キロメートル走ったり、サイクリングしたり、歩いたり、泳いだりするごとにチャリティを寄付しています。 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ABBYYについて詳しく 
 
@@ -157,5 +174,18 @@ AIを活用したインテリジェントオートメーションのリーディ
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-the-full-breakdown-of-toolwizs-image-processing-for-2024/"><u>[Updated] The Full Breakdown of Toolwiz's Image Processing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-deep-dive-into-apple-vision-pros-first-impressions-after-a-weekend-of-use/"><u>A Deep Dive Into Apple Vision Pro's First Impressions After a Weekend of Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-mobile-gaming-experience-2022s-top-5-devices-according-to-zdnet/"><u>Best Mobile Gaming Experience: 2022'S Top 5 Devices According to ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/create-shareable-memes-with-adobe-photoshop/"><u>Create Shareable Memes with Adobe Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-revolutionary-qi2-charging-hub-perfect-for-idevice-fans-insights/"><u>Discover the Revolutionary Qi2 Charging Hub, Perfect for iDevice Fans | Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-12-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi 12 FRP Bypass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723010081846-is-your-utorrent-not-working-unblock-the-issue-with-our-top-7-solutions/"><u>Is Your Utorrent Not Working? Unblock the Issue With Our Top 지7 Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-filmora-without-the-risk-safe-and-legal-alternatives/"><u>New 2024 Approved Free Filmora Without the Risk Safe and Legal Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-models-thoroughly-tested-by-experts/"><u>Top-Rated Apple Watch Models - Thoroughly Tested by Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-apple-vision-pro-costs-capabilities-and-expert-review-the-ultimate-guide/"><u>Unveiling Apple Vision Pro: Costs, Capabilities & Expert Review - The Ultimate Guide</u></a></li>
+</ul></div>
 

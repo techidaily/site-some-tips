@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Digital Marketing Success
-date: 2024-09-12T07:21:06.062Z
-updated: 2024-09-13T07:21:06.062Z
+date: 2025-01-27T23:34:07.358Z
+updated: 2025-02-01T01:21:45.346Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb02943a66dd5dba0e650f0e39da1.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 ## Cookiebot-Driven Digital Marketing Success
 
 [Zurück zu ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Was eine maßgeschneiderte KI für eine effiziente Datenerfassung bedeutet
 
@@ -28,10 +32,7 @@ Nehmen wir einmal die Verpflichtung zur [elektronischen Rechnungstellung der EU]
 Im Folgenden werde ich daher anhand des Beispiels ABBYY versuchen, etwas Transparenz in die Welt der Abkürzungen (LLM, CNN, ML, NLP, IDP) zu bringen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KI-Innovation als Grundlage für ABBYY Intelligent Document Processing (IDP) 
@@ -50,10 +51,7 @@ Die [IDP-Plattform von ABBYY](https://tools.techidaily.com/abbyy/products/) ist 
 Mit der richtigen Kombination von Technologien und Techniken können die [IDP-Lösungen von ABBYY jede Art von Dokument verarbeiten](https://tools.techidaily.com/abbyy/products/) \- jedes Format, jede Sprache, jede Struktur. Alle spezialisierten Techniken wurden für die bestmöglichen Schlussfolgerungen und den geringstmöglichen Ressourcenbedarf optimiert, so dass die Kosten und der ROI für die Kunden optimiert werden können.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Large Language Models (LLMs) und Kontext bezogene Antworten. 
@@ -65,10 +63,7 @@ Dies ist somit eine kostengünstige Methode, die die Fähigkeiten großer Sprach
 So unterstützt ABBYY die Unternehmen, mit generativer KI erfolgreich zu sein: Daten liegen oft in Silos innerhalb des Unternehmens vor, sind aber größtenteils in Geschäftsdokumenten eingeschlossen. Eine intelligente Dokumentenverarbeitung extrahiert Dokumentendaten und stellt sie in einen Kontext. Diese Daten und der Kontext werden dann mit der Benutzer-Prompot an das LLM kombiniert, um sie inhaltsbezogen zu machen. Das bedeutet, Genauigkeit, Qualität und Zuverlässigkeit.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Convolutional Neural Networks (CNN) und Transformatoren
@@ -79,13 +74,6 @@ Das LLM, das ABBYY einsetzt, ist sehr spezifisch auf die Bedürfnisse der Kunden
 
 Diese Technik verbessert die Leistung und Genauigkeit unserer OCR-Funktionen insgesamt drastisch und wird in Kombination mit unserem statistischen Ansatz eingesetzt. Die KI entscheidet automatisch, welcher Ansatz für Ihre Dokumente am besten geeignet ist, um sie im Hinblick auf Konsistenz, Genauigkeit und Geschwindigkeit zu optimieren, was zu besseren Durchsatzraten führt. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Deep Learning und schnelles maschinelles Lernen (ML) 
 
 Deep Learning ermöglicht es ABBYY, KI-Modelle in seiner Plattform für einen ganz bestimmten Zweck vorzutrainieren. Das ist etwas anderes als bei Open-Source-LLMs oder Anbietern generativer KI, die diese als API anbieten. Während generative KI erstaunliche neue Möglichkeiten schafft, wie man mit Technologien interagiert, wird sie nicht bei allem gut funktionieren. Durch Deep Learning werden Modelle für einen ganz bestimmten Zweck trainiert, und darin ist es hervorragend, denn es ist zweckgebunden. Wie oben erwähnt, setzt ABBYY eine Kombination aus vielen verschiedenen Technologien ein, um eine intelligente Dokumentenverarbeitung der Spitzenklasse zu bieten. 
@@ -93,10 +81,7 @@ Deep Learning ermöglicht es ABBYY, KI-Modelle in seiner Plattform für einen ga
 Im ABBYY Produkt „Vantage“ vereint ABBYY eine Kombination aus Deep Learning und schnellem maschinellem Lernen auf einer Low-Code-IDP-Plattform, um die Durchsatzrate zu maximieren. Mit Deep Learning allein können die Kunden mit den von ABBYY trainierten Modellen sofort eine Genauigkeit von oftmals bis zu 90 Prozent erreichen. Durch die Einbeziehung des schnellen maschinellen Lernens kann die Genauigkeit sogar auf über 95 Prozent steigen. Schnelles maschinelles Lernen merkt sich die Ausreißer, die tiefes maschinelles Lernen (Deep Learning) nicht erreichen konnte, und arbeitet schnell, mit nur wenigen Variationen der fraglichen Dokumente. Das Modell verbessert sich kontinuierlich anhand der verarbeiteten Dokumente -und deren Variationen-, sowie basierend auf manuellem Input während des sogenannten HITL (Human in the Loop). Was so viel bedeutet wie manuelle Verifikation. Somit erzielen die Modelle mit der Zeit eine immer höhere Genauigkeit.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP) 
@@ -114,13 +99,6 @@ Um ein Update zu erhalten, wenn neue Artikel veröffentlicht sind, melden Sie si
 [Anmeldung](https://tools.techidaily.com/abbyy/products/)
 
 ![Christian Marquardt](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/blog/autors-Headshots/christian-marquadt-110x110.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Christian Marquardt 
 
@@ -189,5 +167,22 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>[Updated] Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amusingscreen-join-the-video-making-party/"><u>AmusingScreen Join the Video Making Party</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-macintosh-applications-for-professionals-and-enthusiasts-2023-edition-on-zdnet/"><u>Discover the Leading Macintosh Applications for Professionals and Enthusiasts - 2023 Edition on ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvdmacx-dvd-ripper-pro-100/"><u>DVDコピー用MacX DVD Ripper Pro 正規販売ページ - 100%ユーザーフレンドリーで安全</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-overcoming-no-match-found-in-pc-call-of-duty-warzone-games/"><u>Expert Guide to Overcoming 'No Match Found' In PC Call of Duty Warzone Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96464939-9781615931521-ilahinoor/"><u>Ilahinoor | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-not-responding-dont-panic-learn-how-to-reset-and-recover/"><u>New In 2024, FCPX Not Responding? Dont Panic! Learn How to Reset and Recover</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-lifesaving-message-alert-system-coming-to-your-iphone-in-ios-18-update-non-ai-technology-revealed-on-zdnet/"><u>New Lifesaving Message Alert System Coming to Your iPhone in iOS 18 Update - Non-AI Technology Revealed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/parent-approved-child-friendly-tablets-top-selections-insights-and-tips/"><u>Parent Approved Child-Friendly Tablets - Top Selections | Insights & Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-special-discover-the-ultimate-selection-of-apple-bargains-top-picks-included-detailed-review-by-zdnet/"><u>Prime Day Special: Discover the Ultimate Selection of Apple Bargains, Top Picks Included - Detailed Review by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testing-apples-persuasion-is-it-time-to-upgrade-from-your-old-iphone-investigation/"><u>Testing Apple's Persuasion: Is It Time to Upgrade From Your Old iPhone? Investigation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-smartphone-savings-unbeatable-iphone-offers-in-july-2024-insights/"><u>Top Smartphone Savings: Unbeatable iPhone Offers in July 2024 Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-turn-videos-into-live-photos-best-apps-and-tutorials/"><u>Updated In 2024, How to Turn Videos Into Live Photos Best Apps and Tutorials</u></a></li>
+</ul></div>
 

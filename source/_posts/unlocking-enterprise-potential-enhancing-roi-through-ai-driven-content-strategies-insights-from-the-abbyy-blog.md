@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog"
-date: 2024-09-12T16:05:18.996Z
-updated: 2024-09-17T16:04:01.254Z
+date: 2025-01-26T16:08:55.286Z
+updated: 2025-01-31T23:42:40.027Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d1b350a14d170a43db0a71bd.jpg
@@ -25,6 +25,10 @@ In the words of Peter Drucker, who first coined the term ‘knowledge workers’
 
 Two important trends are having a significant impact on [knowledge work](https://aibusiness.com/kim-technologies-interview/). One is mobile, which is moving many business processes towards a self-serve model. The other is automation, and the use of AI, when it comes to basic decision-making.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Mobile and RPA transform knowledge work
 
 The exponential growth in the use of mobile devices has introduced a major paradigm shift in the workplace. Many tasks that the knowledge worker used to own and drive are now being driven and owned by the end user initiating the mobile engagement.
@@ -36,6 +40,10 @@ Like mobile, automation – or more specifically, [robotic process automation](h
 Organizations are using RPA to automate reoccurring, support-driven tasks, often referred to as ‘swivel chair’ activities. These are activities where the knowledge worker interacts with various systems and data streams to complete a task. RPA does an excellent job automating these tasks, reducing manual operations costs by 25 to 40% or more, and the tools are typically easy enough to use – allowing almost anyone to build a ‘robot’.
 
 Furthermore, AI adds significant value to both RPA and mobile. In relation to RPA, sophisticated machine learning algorithms can watch and learn how knowledge workers react and take action in given circumstances and predict future outcomes or recommended courses of action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What the future holds for AI in business
 
@@ -51,7 +59,15 @@ _This is the abridged version of the article: New Content Intelligence Solutions
 
 ![Anthony Macciola ABBYY](https://static4.abbyy.com/abbyycommedia/25717/anthonymacciola-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Anthony Macciola
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -114,12 +130,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-daily-dough-pewdiepies-earnings-breakdown/"><u>[Updated] In 2024, Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-uncover-your-photos-true-colors-with-picart/"><u>[Updated] In 2024, Uncover Your Photo's True Colors with PicArt</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>2024 Approved Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-swift-solutions-for-auditory-clarity-banishing-buildup-noise/"><u>2024 Approved Swift Solutions for Auditory Clarity Banishing Buildup Noise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-ipad-guides-top-10-tips-and-configurations-for-beginners-and-experts-alike-explore-with-ease/"><u>Essential iPad Guides: Top 10 Tips & Configurations for Beginners & Experts Alike - Explore with Ease!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-105-classic-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia 105 Classic Pattern Lock Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-enhancing-mobile-instagram-videos-velocity-tips/"><u>In 2024, Enhancing Mobile Instagram Videos' Velocity (Tips)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-pro-vs-iphone-14-pro-evaluating-if-the-newest-tech-is-a-smart-investment/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Evaluating if the Newest Tech Is a Smart Investment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-time-for-the-new-iphone-expert-analysis-on-advantages-and-disadvantages-by-zdnet-editors/"><u>Is It Time for the New iPhone? Expert Analysis on Advantages and Disadvantages by ZDNet Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-portrait-profiles-a-covert-guide-to-swapping-faces-on-your-apple-watch-with-tips/"><u>Mastering Portrait Profiles: A Covert Guide to Swapping Faces on Your Apple Watch with Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/narrative-nooks-the-leading-10-rogues-for-2024/"><u>Narrative Nooks The Leading 10 Rogues for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-blender-application-failures-on-pc-platforms/"><u>Resolving Persistent Blender Application Failures on PC Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-new-iphone-15-stands-out-for-everyone-including-pros-comprehensive-review-by-zdnet/"><u>Why the New iPhone 15 Stands Out for Everyone, Including Pros | Comprehensive Review by ZDNET</u></a></li>
+</ul></div>
 

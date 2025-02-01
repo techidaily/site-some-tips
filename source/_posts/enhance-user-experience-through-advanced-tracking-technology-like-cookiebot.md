@@ -1,7 +1,7 @@
 ---
 title: Enhance User Experience Through Advanced Tracking Technology Like Cookiebot
-date: 2024-09-15T16:01:32.076Z
-updated: 2024-09-17T16:08:47.933Z
+date: 2025-01-30T22:16:55.336Z
+updated: 2025-02-01T06:44:16.132Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f591eb1df758683a3c8dd633c3.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Named a Leader in the 2023 Gartner® Magic Quadrant™ for Process Mining Tools
 
 April 06, 2023
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![News Partners7](https://static2.abbyy.com/abbyycommedia/33722/news-partners7.jpg) 
 
@@ -42,6 +50,10 @@ Learn more about ABBYY Timeline and how TIAA, a Fortune 100 financial services c
 _1 Gartner® Magic Quadrant™ for Process Mining Tools, March 20, 2023, ID G00774746_ 
 _2 Gartner, [Forecast Analysis: Process Mining, Worldwide](https://www.gartner.com/en/documents/4007520), Oct. 26, 2021_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -52,9 +64,17 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Gina Ray
 
@@ -77,12 +97,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide-for-2024/"><u>[New] Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unlock-your-movies-at-no-cost-on-various-oses/"><u>[Updated] In 2024, Unlock Your Movies at No Cost on Various OSes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm44kr44od44og44kj44oz44kw44gk44ki44gz57eo6zug5pa55rov77ya44k544kv44oq44o844oz44k344on44od44oi44ov44kh44kk44or5zcr44gr44ks44kk44oj44cn/"><u>「カッティングおよび編集方法：スクリーンショットファイル向けガイド」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-how-to-fix-the-liquid-detected-alert-on-your-iphone-lightning-port-2-solutions-explored/"><u>1. How to Fix the 'Liquid Detected' Alert on Your iPhone Lightning Port: 2 Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-team-fortress-2-up-and-running-a-step-by-er-guide-to-fixing-initialization-errors/"><u>Getting Team Fortress 2 Up and Running: A Step-by-Er Guide to Fixing Initialization Errors</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-resolve-issues-with-inaccessible-primary-email-folders-in-outlook-applications/"><u>How to Resolve Issues with Inaccessible Primary Email Folders in Outlook Applications</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-ultimate-tech-gear-best-win-11-webcam-recorders/"><u>In 2024, Ultimate Tech Gear Best Win 11 Webcam Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-unplanned-investment-in-apples-new-earpods-with-usb-c-at-prime-day-a-detailed-review/"><u>My Unplanned Investment in Apple’s New EarPods with USB-C at Prime Day – A Detailed Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/restricting-the-trade-of-certain-enumerated-commodities-like-sugar-tobacco-cotton-wool-exclusively-to-british-vessels/"><u>Restricting the Trade of Certain Enumerated Commodities (Like Sugar, Tobacco, Cotton Wool) Exclusively to British Vessels;</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-voice-assistants-apple-boosts-siris-ai-capabilities-with-a-major-update-slated-insights-from-zdnet/"><u>Revolutionizing Voice Assistants: Apple Boosts Siri's AI Capabilities with a Major Update Slated - Insights From ZDNet</u></a></li>
+</ul></div>
 

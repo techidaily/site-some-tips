@@ -1,7 +1,7 @@
 ---
 title: Automation and the Future - Redefining Repetitive Work at ABBYY
-date: 2024-09-12T07:20:58.614Z
-updated: 2024-09-13T07:20:58.614Z
+date: 2025-01-28T00:56:03.674Z
+updated: 2025-01-31T20:47:27.176Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e63ca3e1151548a8f471104b.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The End of Routine Tasks
@@ -27,10 +24,7 @@ January 10, 2019
 ![The End of Routine Tasks: What to keep in mind on your digital transformation journey | ABBYY Blog](https://static2.abbyy.com/abbyycommedia/25328/9972e_blog_the-end-of-routine-tasks_blog_934x400.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Capture and recognition technologies are becoming all pervasive and ubiquitous as private and governmental organizations worldwide move gradually towards a paperless workplace. This progression began with [optical character recognition](https://tools.techidaily.com/abbyy/products/), or OCR, which is a technology that enables you to convert scanned images of text to electronic text so that the digitized data can be stored, searched, indexed and retrieved. Today, digital transformation is not just about the digitization of analog, often paper-based processes. It has evolved as a novel approach to business, of working with customers and the provision of completely new types of services.
@@ -54,19 +48,13 @@ As technology progresses, new applications are developed that take document capt
 ![Dmitry Shushkin ABBYY](https://static1.abbyy.com/abbyycommedia/25703/dmitryshushkin-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dmitry Shushkin
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -130,5 +118,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-wi-fi-6ax201-connection-drops-rectified/"><u>[FIXED] Wi-Fi 6Ax201 Connection Drops Rectified</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficiency-in-exporting-photos-from-device-to-share-via-snapchat/"><u>[New] 2024 Approved Efficiency in Exporting Photos From Device to Share via Snapchat</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras/"><u>[Updated] 2024 Approved Comparing GoPro and Yi 4K Cams New Insights on High-Speed Cameras</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-in-the-virtual-world-your-step-by-step-meme-guide-for-2024/"><u>[Updated] Crafting in the Virtual World Your Step-by-Step Meme Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pioneering-mobile-applications-for-altered-vocal-output-for-2024/"><u>[Updated] Pioneering Mobile Applications for Altered Vocal Output for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-learn-from-the-best-youtubes-top-green-screen-techniques/"><u>2024 Approved Learn From The Best Youtube’s Top Green Screen Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-pioneers-cutting-edge-ai-technology-a-glimpse-into-whats-next-for-your-iphone-learn-about-the-revolutionary-advancements-in-artificial-intelligence-th48/"><u>Apple Pioneers Cutting-Edge AI Technology: A Glimpse Into What's Next for Your iPhone - Learn About the Revolutionary Advancements in Artificial Intelligence that Could Redefine Your Next iPhone Upgrade, According to Recent Apple Research.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/camera-face-off-showdown-who-wins-between-pixel-eby-9-pro-xl-and-iphone-15-pro-stunning-conclusions-revealed/"><u>Camera Face-Off Showdown: Who Wins Between Pixel Eby 9 Pro XL and iPhone 15 Pro? Stunning Conclusions Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-infrastructure-spotlight-on-superior-network-servers-and-server-racks-for-2e-top-picks/"><u>Elevate Your Infrastructure: Spotlight on Superior Network Servers and Server Racks for 2E - Top Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-job-search-with-smart-chatgpt-use/"><u>Enhancing Job Search with Smart ChatGPT Use</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-top-rated-free-music-recording-programs-a-comprehensive-list/"><u>New In 2024, S Top-Rated Free Music Recording Programs A Comprehensive List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-smart-homes-apple-eyes-ai-bots-as-next-big-thing-sources-tell-zdnet/"><u>Pioneering Smart Homes? Apple Eyes AI Bots as Next Big Thing, Sources Tell ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-gamer-focused-smartphones-expert-review/"><u>Top 5 Gamer-Focused Smartphones : Expert Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airtag-companions-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated AirTag Companions : Comprehensive Reviews by Tech Gurus</u></a></li>
+</ul></div>
 

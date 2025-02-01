@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Hype: Secure Your Apple Watch Series 10 Today with Savings Tips Inside - Learn More on ZDNet"
-date: 2025-01-22T18:10:14.496Z
-updated: 2025-01-24T19:49:21.861Z
+date: 2025-01-31T00:20:55.988Z
+updated: 2025-01-31T23:20:57.474Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,21 +158,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-file-handling-effective-methods-for-transferring-to-your-computer/"><u>[New] In 2024, Enhance File Handling Effective Methods for Transferring to Your Computer</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-snap-fying-life-with-fb-shorts/"><u>[New] Snap-Fying Life with FB Shorts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-eyecatch-protector-cam-cover-for-2024/"><u>[Updated] Eyecatch Protector Cam Cover for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-bite-sized-video-specialist/"><u>[Updated] In 2024, Bite-Sized Video Specialist</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-water-found-within-apples-lightning-port-choose-the-right-course-of-action/"><u>1. 'Water Found Within Apple's Lightning Port: Choose the Right Course of Action!'</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>2024 Approved Avoiding Pitfalls Common Mistakes in Instagram Filmmaking</u></a></li>
-<li><a href="https://driver-error.techidaily.com/eliminating-device-manager-errors-effectively/"><u>Eliminating Device Manager Errors Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experts-choice-for-ultimate-iphone-16-and-16-pro-shields-in-202amoon-comprehensive-review/"><u>Experts' Choice for Ultimate iPhone 16 and 16 Pro Shields in 202Amoon: Comprehensive Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-sas-driver-version-on-windows-10-8-or-7-easy-download-guide/"><u>Get the Newest SAS Driver Version on Windows 10, 8 or 7 - Easy Download Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-infinix-hot-40-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Hot 40 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rethinking-upgrades-expert-opinion-on-apples-iphone-16-and-smartphone-ai-capabilities-analysis/"><u>Rethinking Upgrades: Expert Opinion on Apple's iPhone 16 and Smartphone AI Capabilities Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-mobile-power-the-20-anker-power-bank-fixes-common-charger-issues-insights/"><u>Revolutionize Your Mobile Power: The $20 Anker Power Bank Fixes Common Charger Issues - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seamless-transition-strategies-mastering-the-shift-to-your-latest-iphone-model-insights-from-zdnet/"><u>Seamless Transition Strategies: Mastering the Shift to Your Latest iPhone Model - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solution-since-there-are-two-identical-capacitors-connected-in-parallel-their-total-capacitance-will-be-c-plus-c-2c-the-energy-stored-in-both-capacitors-com137/"><u>Solution: Since There Are Two Identical Capacitors Connected in Parallel, Their Total Capacitance Will Be C + C = 2C. The Energy Stored in Both Capacitors Combined Would Be E_total = 1/2 (2C)V^2 = CV^2. Therefore, the Total Energy Stored Is CV^2.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protectors-reviewed-by-tech-experts-2024-edition/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protectors Reviewed by Tech Experts - 2024 Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wudfrd-loading-failure-device-error-id-219/"><u>WudfRd Loading Failure - Device Error ID 219</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-to-the-top-10-historical-education-channels/"><u>2024 Approved Guide to the Top 10 Historical Education Channels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-epson-wf-3620-printer-driver-for-win-11-8-and-7/"><u>Easy Guide to Downloading and Updating Your Epson WF- 3620 Printer Driver for Win 11, 8 & 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-trends-in-tech-goldman-sachs-cio-highlights-the-rise-of-hybrid-artificial-intelligence-and-applications-exclusive-zdnet-report/"><u>Emerging Trends in Tech: Goldman Sachs CIO Highlights the Rise of Hybrid Artificial Intelligence and Applications - Exclusive ZDNet Report</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-solutions-for-crafting-a-gateway-system-restore-drive-a-step-by-step-guide/"><u>Free Solutions for Crafting a Gateway System Restore Drive - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-c53-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme C53 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-transform-shots-to-boost-circular-vignette-features/"><u>In 2024, Transform Shots to Boost Circular Vignette Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-latest-in-apple-tech-identifying-iphone-models-compatible-with-ios/"><u>Navigating the Latest in Apple Tech: Identifying iPhone Models Compatible with iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/radia-perlman-celebrated-for-groundbreaking-contributions-to-lan-technology-in-hidden-heroes-feature-by-zdnet/"><u>Radia Perlman Celebrated for Groundbreaking Contributions to LAN Technology in 'Hidden Heroes' Feature by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-adoption-of-ops-strategies-revolutionizes-tech-enterprises-amidst-emerging-challenges-zdnet/"><u>Rising Adoption of Ops Strategies Revolutionizes Tech Enterprises Amidst Emerging Challenges | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swiss-confederation-enforces-open-source-policy-for-government-developed-software-insights-on-zdnet/"><u>Swiss Confederation Enforces Open-Source Policy for Government-Developed Software - Insights on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-how-gartners-2024-hype-cycle-predictions-shape-our-understanding-of-upcoming-ai-and-technology-trends-discover-what-lies-ahead-with-zdnet47/"><u>Unlocking Insights: How Gartner's 2024 Hype Cycle Predictions Shape Our Understanding of Upcoming AI and Technology Trends - Discover What Lies Ahead with ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wirelessly-enable-print-sharing-how-to-link-printers-with-different-devices/"><u>Wirelessly Enable Print Sharing: How to Link Printers with Different Devices</u></a></li>
 </ul></div>
 

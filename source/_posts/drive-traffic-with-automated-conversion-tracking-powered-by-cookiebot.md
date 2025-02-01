@@ -1,7 +1,7 @@
 ---
 title: "Drive Traffic with Automated Conversion Tracking: Powered by Cookiebot"
-date: 2024-09-14T16:16:40.903Z
-updated: 2024-09-17T16:10:06.772Z
+date: 2025-01-25T04:26:12.137Z
+updated: 2025-01-31T20:32:47.183Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1ee9eb3884a315921c0899b5d.jpg
@@ -17,13 +17,25 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News AI](https://static5.abbyy.com/abbyycommedia/33743/news-ai.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Les processus « document centric » et la Process Automation sont les deux principales technologies déployées par les entreprises depuis deux ans. Toutefois, la RPA est l'une des technologies les moins mises en œuvre (26 %).
 * 61% des décideurs Français ont été capables d’identifier l'échec d’un projet dans les trois premiers mois de son déploiement.
 * 39% des répondants affirment avoir obtenu un ROI 2 fois supérieur à leur investissement grâce aux projets d’automatisation
 
 [![](https://static1.abbyy.com/abbyycommedia/35586/2022-04-14_infographic_survey_fr_v1.jpg?width=1068&height=558)](https://www.abbyy.com/media/35586/2022-04-14%5Finfographic%5Fsurvey%5Ffr%5Fv1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), entreprise spécialisée dans l'Intelligent Process Automation (IPA), révèle les conclusions de sa nouvelle étude, menée en partenariat avec Sapio Research, portant sur l’identification des facteurs de succès ou d'échec de projets d’automatisation en entreprise. La pandémie a eu pour conséquence, qu’au cours des deux dernières années, 99% des décideurs IT ont adopté des technologies d'automatisation. Sur cette période, un changement s'est opéré dans la manière dont les décideurs IT appréhendent les technologies d'automatisation, marqué par une nouvelle approche centrée sur les collaborateurs. Les résultats de ce changement d’orientation sont matérialisés par une réduction des investissements dans l’automatisation robotisée des processus (RPA), couplée à la montée en puissance de l’Intelligent Document Processing (IDP) et des technologies d'automatisation des processus. Ainsi, 82% des entreprises françaises estiment avoir réussi à déployer des systèmes de Process Automation, alors qu'elles n'étaient que [30% à 50%](https://www.ey.com/en%5Fgl/consulting/five-design-principles-to-help-build-confidence-in-rpa-implement) dans le passé à n’utiliser que la RPA.
 
@@ -62,6 +74,10 @@ _Linda Ameur, Directrice France chez ABBYY_
 
 Cette étude a été menée par ABBYY en collaboration avec Sapio Research en mars 2022 auprès de 1 208 décideurs informatiques répartis en France, au Royaume-Uni, en Allemagne, aux États-Unis et au Japon sur les investissements des entreprises dans des projets d'automatisation, les raisons pour lesquelles elles ont opté pour des stratégies technologiques et l'impact du facteur comportemental sur la réussite des projets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 5 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -71,6 +87,10 @@ ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont r�
 ### Contact presse
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Bianca Stupp
 
@@ -93,12 +113,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-pure-summer-magic-the-top-10-classic-kids-films-for-2024/"><u>[New] Pure Summer Magic The Top 10 Classic Kid's Films for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-free-thumbnail-downloader-solutions-online-for-2024/"><u>[Updated] Free Thumbnail Downloader Solutions Online for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/accelerate-engagement-through-vimeo-linking-for-2024/"><u>Accelerate Engagement Through Vimeo Linking for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apex-review-the-dji-mavic-2-pro-unmatched-royalty-of-professional-drone-flight/"><u>Apex Review: The DJI Mavic 2 Pro - Unmatched Royalty of Professional Drone Flight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combining-whoop-and-apple-watch-the-ultimate-fitness-duo-for-elite-athletes-insights/"><u>Combining Whoop and Apple Watch: The Ultimate Fitness Duo for Elite Athletes, Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-features-for-comics-exploration/"><u>Leveraging Windows 11 Features for Comics Exploration</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revealing-the-true-condition-of-your-apple-watchs-battery-shocking-findings-explained-gadget-world/"><u>Revealing the True Condition of Your Apple Watch's Battery - Shocking Findings Explained | Gadget World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-film-editing-exclusive-look-at-the-latest-innovative-features-in-final-cut-pro-for-ipad-a-must-know-update/"><u>Revolutionizing Film Editing: Exclusive Look at the Latest Innovative Features in Final Cut Pro for iPad - A Must-Know Update!</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-s23-fe-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 FE Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-your-email-management-how-this-simple-technique-clears-clutter-without-needing-extra-accounts-or-rules/"><u>Simplify Your Email Management: How This Simple Technique Clears Clutter Without Needing Extra Accounts or Rules!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-ultimate-best-buy-offers-in-june-2024-zdnets-exclusive-guide/"><u>Top Picks: Ultimate Best Buy Offers in June 2024 - ZDNet's Exclusive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-the-best-magsafe-battery-solutions-for-apple-devices-in-depth-analysis-and-ratings/"><u>ZDNET's Ultimate Guide to the Best MagSafe Battery Solutions for Apple Devices : In-Depth Analysis and Ratings</u></a></li>
+</ul></div>
 

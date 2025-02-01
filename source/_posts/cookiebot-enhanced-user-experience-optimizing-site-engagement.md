@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced User Experience: Optimizing Site Engagement"
-date: 2024-09-10T16:14:55.255Z
-updated: 2024-09-17T16:00:53.379Z
+date: 2025-01-26T03:52:30.901Z
+updated: 2025-02-01T05:19:44.183Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd1961363c86f4dc647d0978a6f7aed.jpg
@@ -27,6 +27,10 @@ Find out why he’s so happy, and why, unlike most of us, he doesn’t hate traf
 
 I was attracted to the challenge that was offered to me—to create a team that can provide support to customers 24 hours a day, seven days a week, in a large international company. ABBYY’s profile in the [market](https://tools.techidaily.com/abbyy/products/), the new challenges of the job, and stepping outside my comfort zone all motivated me to take a risk and demonstrate my skills. And I’m glad I took the chance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tell us your title and a bit about your role and journey at ABBYY so far
 
 My career at ABBYY began five years ago in 2018, when I became Team Leader of the Incident Response Desk Team. I then progressed to Head of 1st Line Technical Support before going on to become Head of Customer Support EMEA (Europe, the Middle East and Africa) & the Enterprise Support Team. Luckily, I was moved up again and became Director of Global Customer Support Operations, then in September 2022, I had another promotion! I am now Director Customer Excellence (CEx) Systems, Processes and Automations. That’s the great benefit of [working at ABBYY](https://tools.techidaily.com/abbyy/products/)—you have options for growth and can move up the ladder quickly.
@@ -45,13 +49,6 @@ With a free schedule, my morning starts with deciding where I will work today—
 
 I can honestly say that I love what I do and have confidence in my own abilities to do a great job. It’s very fulfilling to see the results of our work and helping to improve the lives of employees around the world. I am also grateful for the support of my colleagues and manager. I’m certainly living by the phrase: “Do what you love, and you’ll never work another day in your life.”
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What was your previous experience before ABBYY?
 
 I was head of technical support at the largest private logistics company in Ukraine—working my way up from being a systems administrator. It was there that I discovered my love for automation and optimization. I saw the first results of automating repetitive manual tasks and was awestruck at how much time and effort it could save employees.
@@ -61,10 +58,7 @@ I was head of technical support at the largest private logistics company in Ukra
 Sometimes you need to take a step back and look at what you're doing to determine if everything is right. Self-analysis, the desire to do something for people, and not be afraid to voice the most daring proposals are key attributes. And most importantly, enjoy what you do and how you do it. This is what I expect from an employee on my team.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do you spend your free time?
@@ -74,26 +68,24 @@ In recent years, I have been trying to spend more time in nature and have been c
 ![camping](https://static1.abbyy.com/abbyycommedia/36643/camping-abbyy-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When I’m not taking trips or camping breaks, I love to play board games with friends. I’m also guilty of spending hours online just looking for information about new technologies or breakthroughs in IT (information technology) or what tech companies are doing. I have a real thirst for tech news.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### If you could have one wish come true, what would it be?
 
 I would like people to have the opportunity to do what they want and what they enjoy. This applies to work, hobbies, and other areas of life. Basically, I just want everyone to enjoy life and be happy. And, of course, that everyone lives in peace, without war.
 
 ![Slava Prodan ABBYY](https://static1.abbyy.com/abbyycommedia/36640/slava-prodan-abbyy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What’s your pet peeve?
 
@@ -170,5 +162,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-football-game-analysis-premier-insights-in-graphs-for-2024/"><u>[New] Football Game Analysis Premier Insights in Graphs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717708476021-new-how-to-block-youtube-channels-on-computer-and-mobile-phones-for-2024/"><u>[New] How to Block Youtube Channels on Computer and Mobile Phones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-level-up-your-playtime-examining-kinemaster-on-android/"><u>[New] Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-which-is-the-top-screener-bandicam-or-camtasia-for-2024/"><u>[Updated] Which Is the Top Screener? - Bandicam Or Camtasia for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-essential-enhancements-for-apple-vision-pros-success-in-the-enterprise-insights-from-zdnet/"><u>1. Essential Enhancements for Apple Vision Pro's Success in the Enterprise - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-innovations-revealed-ipad-pro-m4-upgraded-13-inch-ipad-air-and-the-improved-apple-pencil-pro-coverage-insights-from-zdnet/"><u>Apple's Latest Innovations Revealed: IPad Pro (M4), Upgraded 13-Inch iPad Air, and the Improved Apple Pencil Pro Coverage | Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-guidelines-for-perfect-screenshots-and-screen-recordings-on-apple-vision-pro-insights/"><u>Expert Guidelines for Perfect Screenshots and Screen Recordings on Apple Vision Pro - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-new-frontiers-in-wireless-audio-apple-releases-upgraded-airpods/"><u>Exploring New Frontiers in Wireless Audio: Apple Releases Upgraded AirPods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/immediate-purchase-of-new-tech-from-apples-wwdc-reveals-find-and-preorder-today-insights-for-tech-enthusiasts/"><u>Immediate Purchase of New Tech From Apple's WWDC Reveals - Find & Preorder Today | Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-razer-blade-17-updates-across-multiple-windows-versions-drive-optimization-tips/"><u>Mastering Razer Blade 17 Updates Across Multiple Windows Versions - Drive Optimization Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/october-launch-scope-for-apples-innovative-smart-features-as-revealed-insights/"><u>October Launch Scope for Apple's Innovative Smart Features, as Revealed Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-24-today-limited-offer-on-airpods-pro-with-hearing-aid-functionality-shop-smart/"><u>Save 24% Today: Limited Offer on AirPods Pro with Hearing Aid Functionality - Shop Smart</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/stay-up-to-date-with-facebooks-latest-watched-content-for-2024/"><u>Stay Up-to-Date with Facebook's Latest Watched Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-for-frugal-yet-fun-gameplay/"><u>The Ultimate List for Frugal Yet Fun Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-iphone-16-innovations-that-elevate-the-baseline-apple-experience-techradar/"><u>Top 4 iPhone 16 Innovations That Elevate the Baseline Apple Experience | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-must-have-bargains-this-cyber-monday-insights/"><u>Top 98 Must-Have Bargains This Cyber Monday - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protective-cases-rigorously-reviewed-by-tech-gurus-zdnet/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protective Cases , Rigorously Reviewed by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tips-for-iphone-data-protection-seamless-backup-strategies-with-icloud-and-macos-features/"><u>Ultimate Tips for iPhone Data Protection: Seamless Backup Strategies with iCloud & macOS Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/king-from-youtube-shorts-the-complete-process-for-2024/"><u>Unlinking From YouTube Shorts - The Complete Process for 2024</u></a></li>
+</ul></div>
 

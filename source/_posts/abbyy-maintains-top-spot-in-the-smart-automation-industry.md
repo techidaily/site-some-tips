@@ -1,7 +1,7 @@
 ---
 title: ABBYY Maintains Top Spot in the Smart Automation Industry
-date: 2024-09-19T18:33:04.015Z
-updated: 2024-09-22T17:31:26.488Z
+date: 2025-01-27T20:17:00.875Z
+updated: 2025-02-01T02:01:53.897Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53dc379a61f25b9401249f9af.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Reaffirms Its Position as an Intelligent Automation Market Leader
 
 January 25, 2023
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Conference9](https://static1.abbyy.com/abbyycommedia/33873/news-conference9.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With a rising demand for [intelligent automation](https://tools.techidaily.com/abbyy/products/) in the enterprise and the market expected to soar to $49 billion by 20261, [ABBYY](https://tools.techidaily.com/abbyy/products/) is honored to have been named a leader by 10 industry analyst firms in 2022.
 
@@ -57,9 +69,17 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Gina Ray
 
@@ -82,12 +102,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-facebook-live-sharing-your-desktop-display-for-2024/"><u>[New] Mastering Facebook Live Sharing Your Desktop Display for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/creative-and-perfect-gifting-solutions-for-the-clueless-shopper-zdnet/"><u>Creative and Perfect Gifting Solutions for the Clueless Shopper | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-apple-macbook-with-macos-15-top-new-features-unveiled-exclusive/"><u>Enhance Your Apple MacBook with macOS 15: Top New Features Unveiled Exclusive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-techniques-for-saving-roblox-playback-on-mac/"><u>Essential Techniques for Saving Roblox Playback on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-ahead-with-ios-16-beta-step-by-step-installation-tips-for-early-adopters/"><u>Get Ahead with iOS 16 Beta - Step-by-Step Installation Tips for Early Adopters</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-make-a-youtube-trailer-by-filmora-for-2024/"><u>How to Make a YouTube Trailer by Filmora for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Camon 20 Pro 5G Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-restoring-factory-settings-on-your-airpods-timing-and-tips-techinsights/"><u>The Ultimate Guide to Restoring Factory Settings on Your AirPods: Timing & Tips | TechInsights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-virtual-journey-past-to-present/"><u>The Virtual Journey Past to Present</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-a-premium-mac-vpn-features-ratings-and-expert-insights/"><u>Ultimate Guide to Choosing a Premium Mac VPN - Features, Ratings & Expert Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-htc-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your HTC Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

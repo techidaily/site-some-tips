@@ -1,7 +1,7 @@
 ---
 title: Enhanced User Experience with Advanced Cookiebot Technology
-date: 2024-09-12T16:05:43.236Z
-updated: 2024-09-17T16:15:17.536Z
+date: 2025-01-30T18:09:37.499Z
+updated: 2025-01-31T17:56:04.316Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a3b54451e87f8a05d4dd9575.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Digitisation: How can insurers and brokers optimise processes for business gains?
 
 English
@@ -19,13 +23,25 @@ English
 
 ![86 Mattconnolly 198X198](https://static4.abbyy.com/abbyycommedia/33429/soenr-logo-forspeakers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![86 Mattconnolly 198X198](https://static4.abbyy.com/abbyycommedia/33426/86-mattconnolly-198x198.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Matt Connolly
 
 Founder & CEO, **Sønr**
 
 ![85 Paultombs 198X198](https://static4.abbyy.com/abbyycommedia/33431/zurich-logo-forspeakers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![85 Paultombs 198X198](https://static1.abbyy.com/abbyycommedia/33424/85-paultombs-198x198.png)
 
@@ -36,13 +52,6 @@ Head of SME, **Zurich**
 ![Eileenpotter 198X198](https://static4.abbyy.com/abbyycommedia/25121/logo-2021-90x27.svg) 
 
 ![Eileenpotter 198X198](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Eileen Potter
 
@@ -55,10 +64,7 @@ The Covid-19 pandemic has accelerated the need and appetite of both insurers and
 In this webinar, hosted by Insurance Times, a leading panel of industry experts explore how insurers and brokers need to uncover the nuts and bolts of their back office processes and functionality in order to digitally optimise and improve current practices and flows of work. This includes distinguishing between what processes will benefit from automation, as well as understanding where a human touch is still essential.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch the expert panel as they discuss:
@@ -70,13 +76,6 @@ In this webinar, hosted by Insurance Times, a leading panel of industry experts 
 * What aspects of digitisation do insurers and brokers typically struggle with most?
 * Can insurers and brokers that fully focus on improving their process optimisation via digital methods compete with today’s technology-driven insurtechs?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Watch now
 
 ### Get in touch with us
@@ -86,16 +85,13 @@ All personal information collected via this method is under full scope of all pr
 
 ## Thank you, enjoy your webinar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check out some of the best moments and watch the full recording below.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
@@ -160,5 +156,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>[New] 2024 Approved Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-approach-for-stellar-gopro-videos/"><u>[New] In 2024, Step-By-Step Approach for Stellar GoPro Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-timely-team-setups-adjusting-backdrop-beforeafter-calls/"><u>[Updated] 2024 Approved Timely Team Setups Adjusting Backdrop Before/After Calls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-small-businesss-safest-video-conferencing-top-picks-for-2024/"><u>[Updated] Small Business's Safest Video Conferencing Top Picks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-biggest-labor-day-offer-grab-an-ipad-for-just-199-insights/"><u>Amazon's Biggest Labor Day Offer: Grab an iPad for Just $199! - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-new-policy-enabling-refurbished-components-in-certain-iphone-fixes-zdnet/"><u>Apple's New Policy: Enabling Refurbished Components in Certain iPhone Fixes - ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chime-catcher-where-to-securely-download-tones/"><u>Chime Catcher Where to Securely Download Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elite-selection-of-ipad-pro-cases-for-202n-industry-insights-professional-evaluations-and-top-picks-digitaltrends/"><u>Elite Selection of iPad Pro Cases for 202N: Industry Insights, Professional Evaluations, and Top Picks | DigitalTrends</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-uninstall-tactics-for-windows-11-os-108-chars/"><u>Essential Uninstall Tactics for Windows 11 OS (108 Chars)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-deal-alert-premium-macbook-desk-mount-with-charger-ports-for-only-1eby-shop-at-zdnet/"><u>Exclusive Deal Alert! Premium MacBook Desk Mount with Charger Ports for Only $1Eby - Shop at ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-restarting-functionality-to-your-malfunctioning-msi-dragon-center/"><u>Expert Guide: Restarting Functionality to Your Malfunctioning MSI Dragon Center</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/maximize-your-android-experience-with-these-top-5-ps2-games-apps-for-2024/"><u>Maximize Your Android Experience with These Top 5 PS2 Games Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-ios-devices-with-just-a-gaze-unveiling-apples-latest-accessibility-innovation-in-eye-control-technology-gizmodaily/"><u>Navigate iOS Devices with Just a Gaze: Unveiling Apple's Latest Accessibility Innovation in Eye Control Technology | GizmoDaily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/riding-through-the-year-motorcycles-no-1-helmet-cameras-guide-for-2024/"><u>Riding Through the Year - Motorcycle's No. 1 Helmet Cameras Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-testing-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Chargers : Comprehensive Reviews & Testing by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-mobile-charging-game-how-the-20-anker-power-bank-elevates-portability-and-performance/"><u>Transform Your Mobile Charging Game: How the $20 Anker Power Bank Elevates Portability and Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ios-174-by-apple-in-depth-coverage-of-new-features-including-podcast-subtitles-latest-emojis-and-eu-app-store-revamps-tech-analysis-at-zdnet/"><u>Unveiling iOS 17.4 by Apple: In-Depth Coverage of New Features Including Podcast Subtitles, Latest Emojis & EU App Store Revamps | Tech Analysis at ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-origins-how-crowdstrike-triggered-the-windows-meltdnomaous-event-of-2024-a-historical-insight-zdnet/"><u>Unveiling the Origins: How CrowdStrike Triggered the Windows Meltdnomaous Event of 2024 – A Historical Insight | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wie-funktioniert-die-ai-bei-winxvideo-faq-and-losungen-erklart/"><u>Wie Funktioniert Die AI Bei WinXvideo? - FAQ & Lösungen Erklärt</u></a></li>
+</ul></div>
 

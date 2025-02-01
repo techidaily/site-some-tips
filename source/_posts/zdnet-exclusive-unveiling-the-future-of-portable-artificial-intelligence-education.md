@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Unveiling the Future of Portable Artificial Intelligence Education"
-date: 2025-01-17T19:51:50.117Z
-updated: 2025-01-24T19:36:47.799Z
+date: 2025-01-27T18:19:03.084Z
+updated: 2025-01-31T16:57:10.025Z
 tags:
   - apple
 categories:
@@ -35,6 +35,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -72,7 +76,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -88,7 +92,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -102,10 +106,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -132,7 +132,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,24 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-hero5-black-vs-yi-4k-the-best-action-cameras-battle-in-23/"><u>[New] GoPro Hero5 Black Vs. Yi 4K - The Best Action Cameras Battle in '23</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-highlight-optimization-checklist-for-brands-for-2024/"><u>[Updated] The Ultimate Highlight Optimization Checklist for Brands for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-camera-prospectus-ranking-the-top-5-superior-motion-cameras/"><u>2024 Approved Camera Prospectus Ranking the Top 5 Superior Motion Cameras</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/choosing-your-ideal-device-pc-vs-mac-insights-from-yl-computing/"><u>Choosing Your Ideal Device: PC Vs. Mac - Insights From YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciphering-the-past-the-pivotal-factors-behind-crowdstrikes-infamous-clash-with-windows/"><u>Deciphering the Past: The Pivotal Factors Behind CrowdStrike's Infamous Clash with Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortlessly-enhance-your-wifi-on-windows-7-download-and-update-drivers-today/"><u>Effortlessly Enhance Your WiFi on Windows 7 – Download & Update Drivers Today</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-can-i-discover-if-someone-is-using-an-airtag-to-trace-my-movements-expert-insights-from-zdnet/"><u>How Can I Discover If Someone Is Using an AirTag To Trace My Movements? - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-gt-neo-5-se-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme GT Neo 5 SE to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022)?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-172-brings-advanced-qi2-charging-support-to-apples-latest-iphones-what-you-need-to-know-expert-analysis-by-zdnet/"><u>IOS 17.2 Brings Advanced Qi2 Charging Support to Apple's Latest iPhones: What You Need to Know | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-to-consider-an-upgrade-insights/"><u>IPad Air 4 vs iPad Air 5: Is It Time to Consider an Upgrade? Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-hd-video-converter-pro-ultimate-guide-to-editing-and-downloading-videos-on-windows/"><u>MacX HD Video Converter Pro: Ultimate Guide to Editing & Downloading Videos on Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mystery-solved-why-your-photos-reappeared-in-ios-175-uncover-the-secret-behind-apples-surprise-move/"><u>Mystery Solved: Why Your Photos Reappeared in iOS 17.5? Uncover the Secret Behind Apple's Surprise Move!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-vs-powerhouse-comparing-the-latest-from-google-and-apple-who-stands-out-in-the-world-of-smartwatches/"><u>Pixel Vs. Powerhouse: Comparing the Latest From Google and Apple - Who Stands Out in the World of Smartwatches?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/shrinking-volume-levels-seamlessly-in-lumafusion/"><u>Shrinking Volume Levels Seamlessly in Lumafusion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-setting-up-libreoffice-as-a-cost-free-replacement-for-microsoft-office-on-your-mac/"><u>Step-by-Step Guide: Setting Up LibreOffice as a Cost-Free Replacement for Microsoft Office on Your Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-process-switching-whatsapp-service-between-android-and-iphone-platforms/"><u>Step-by-Step Process: Switching WhatsApp Service Between Android and iPhone Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/urgent-alert-apple-issues-security-bulletin-on-increasing-mercenary-cyber-espionage-targeting-iphones-are-your-devices-at-risk/"><u>Urgent Alert: Apple Issues Security Bulletin on Increasing Mercenary Cyber Espionage Targeting iPhones - Are Your Devices at Risk?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-iphone-14-plus-is-a-steal-unbeatable-battery-life-and-top-notch-perks-explained-smarttechguide/"><u>Why iPhone 14 Plus Is a Steal: Unbeatable Battery Life and Top-Notch Perks Explained | SmartTechGuide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-10-leading-4k-displays/"><u>[New] 2024 Approved 10 Leading 4K Displays</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-curve-concepts-for-text-visualization/"><u>[New] Crafting Curve Concepts for Text Visualization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>[New] In 2024, Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-livelink-audio-visual-crafting-portal/"><u>[New] LiveLink Audio-Visual Crafting Portal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ranking-macs-best-rated-sniping-programs-for-2024/"><u>[Updated] Ranking Mac's Best-Rated Sniping Programs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-python-skills-with-linkedins-complimentary-ai-program-transformative-results-unveiled-on-zdnet/"><u>Elevate Your Python Skills with LinkedIn's Complimentary AI Program – Transformative Results Unveiled on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everyone-gains-from-modern-chatgpt-knowledge/"><u>Everyone Gains From Modern ChatGPT Knowledge</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-a-new-approach-to-attracting-top-it-professionals/"><u>Revamping Recruitment Strategies: A New Approach to Attracting Top IT Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/six-key-agile-strategies-for-boosting-success-in-software-development-insights-from-zdnet/"><u>Six Key Agile Strategies for Boosting Success in Software Development - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-true-shelf-life-assessing-how-long-do-electric-versus-gasoline-cars-last/"><u>The True Shelf Life: Assessing How Long Do Electric Versus Gasoline Cars Last</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-java-training-programs-of-2022-insights-from-zdnet/"><u>Top-Rated Java Training Programs of 2022: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-2024s-elite-web-hosting-providers-fully-reviewed-by-specialists-pcmag/"><u>Ultimate Guide to 2024'S Elite Web Hosting Providers, Fully Reviewed by Specialists | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-simple-access-to-artificial-intelligence-applications-with-superduperdb-insights-from-zdnet/"><u>Unlocking Simple Access to Artificial Intelligence Applications with SuperDuperDB: Insights From ZDNet</u></a></li>
 </ul></div>
 

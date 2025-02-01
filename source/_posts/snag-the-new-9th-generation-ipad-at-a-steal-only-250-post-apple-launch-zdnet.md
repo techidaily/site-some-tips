@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2025-01-20T17:54:46.794Z
-updated: 2025-01-24T19:39:19.515Z
+date: 2025-01-26T21:31:07.226Z
+updated: 2025-01-31T19:34:45.709Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,18 +69,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-embark-on-a-virtual-journey-with-iphone-vr-videos-for-2024/"><u>[New] Embark on a Virtual Journey with iPhone VR Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-minecraft-through-optimal-ram-assignment/"><u>[Updated] Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-apples-latest-mac-mini-with-m1-and-mac-studio-with-m2-which-performs-superiorly/"><u>Comparing Apple's Latest: Mac Mini with M1 and Mac Studio with M2 – Which Performs Superiorly?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/considering-the-leap-to-iphone/"><u>Considering the Leap to iPhone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oneplus-ace-3-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On OnePlus Ace 3</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-finding-legal-music-a-producers-manual/"><u>In 2024, Finding Legal Music A Producer's Manual</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-edge-40-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Edge 40 online without jailbreak</u></a></li>
-<li><a href="https://some-tips.techidaily.com/late-marchearly-april-202/"><u>Late March/Early April 202</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-playlist-streaming-your-mp3-music-library-online/"><u>Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-iphone-n16-phenomenon-most-popular-variants-and-their-availability-timelines-as-analyzed-by-zdnet/"><u>The iPhone #N#16 Phenomenon: Most Popular Variants and Their Availability Timelines as Analyzed by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-improvements-android-must-make-to-challenge-ios-effectively-insights-from-tech-experts-at-zdnet/"><u>Top 5 Improvements Android Must Make to Challenge iOS Effectively: Insights From Tech Experts at ZDNet</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-incompatibility-how-to-resolve-your-scanners-os-conflicts-expertise-from-yl-computing/"><u>Troubleshooting Incompatibility: How to Resolve Your Scanner's OS Conflicts - Expertise From YL Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-keys-no-light/"><u>[RESOLVED] Asus Keys No Light</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-smart-solutions-apply-apple-watch-open-mac-for-2024/"><u>[Updated] Smart Solutions Apply Apple Watch, Open Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-most-effective-microsoft-training-programs-elite-tech-certification-options-insights-from-zdnet/"><u>1. Most Effective Microsoft Training Programs: Elite Tech Certification Options - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-unveils-advanced-ai-performance-gauge-the-next-gen-rag-benchmark/"><u>Amazon Unveils Advanced AI Performance Gauge - The Next-Gen RAG Benchmark</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/aomei-baci-up-registrazione-e-installazione-di-un-copia-di-sicurezza-completa-in-formato-filecartella-gratuita/"><u>AOMEI Baci Up - Registrazione E Installazione Di Un Copia Di Sicurezza Completa in Formato File/Cartella Gratuita</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-salary-the-top-two-priorities-of-open-source-professionals-seeking-new-positions/"><u>Beyond Salary: The Top Two Priorities of Open-Source Professionals Seeking New Positions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-iphones-compatible-with-ios-18-updates-identifying-models-that-fall-short/"><u>Comprehensive List of iPhones Compatible with iOS 18 Updates: Identifying Models That Fall Short</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-ultra-fast-5g-with-the-motorola-one-5g-ace-exceptional-performance-and-long-lasting-battery/"><u>Experience Ultra-Fast 5G with the Motorola One 5G Ace - Exceptional Performance and Long-Lasting Battery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/farewell-to-traditional-ui-exploring-the-revolution-of-interfaces-with-generative-ai-zdnet/"><u>Farewell to Traditional UI: Exploring the Revolution of Interfaces with Generative AI | ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>In 2024, Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transform-overload-into-order-with-skillful-tiktok-saves-edits-for-2024/"><u>Transform Overload Into Order with Skillful TikTok Saves Edits for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-ideapad-130s-power-constraints-and-usability-surprises/"><u>Unveiling the Lenovo IdeaPad 130S: Power Constraints and Usability Surprises</u></a></li>
 </ul></div>
 

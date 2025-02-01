@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Data Collection Solutions
-date: 2024-09-20T16:25:10.040Z
-updated: 2024-09-22T18:08:55.404Z
+date: 2025-01-26T00:34:26.164Z
+updated: 2025-01-31T20:14:03.865Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
@@ -15,9 +15,17 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 German
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Sprecher
 
 ![95 Maximilianroglinger 198X198](https://static1.abbyy.com/abbyycommedia/35530/fraunhofer-logo-forspeakers-157x44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![95 Maximilianroglinger 198X198](https://static1.abbyy.com/abbyycommedia/34756/95-maximilianroglinger-198x198.png)
 
@@ -27,13 +35,14 @@ Leiter der Projektgruppe Wirtschaftsinformatik, **Fraunhofer FIT**
 
 ![02 Alexandrejanicki 198X198](https://static4.abbyy.com/abbyycommedia/35123/logo-2021-90x27.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![02 Alexandrejanicki 198X198](https://static2.abbyy.com/abbyycommedia/25101/02-alexandrejanicki-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Alexandre Janicki
@@ -55,10 +64,7 @@ Wie Banken ihre Prozesse optimieren und sich gezielt auch über das „New Norma
 * Wie steht es um die Investitionsbereitschaft von Unternehmen in moderne Prozesstechnologien
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Webinar-Aufzeichnung hier anfordern
@@ -67,19 +73,6 @@ Wie Banken ihre Prozesse optimieren und sich gezielt auch über das „New Norma
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Vielen Dank! Wir wünschen Ihnen viel Spaß mit dem Webinar.
 
@@ -150,5 +143,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-flat-text-into-3d-masterpieces-photo/"><u>[New] Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-master-the-art-of-live-sound-capture-on-the-internet/"><u>[Updated] In 2024, Master the Art of Live Sound Capture on the Internet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-smooth-volume-changes-in-fl-studio/"><u>[Updated] Mastering Smooth Volume Changes in FL Studio</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-rectifying-identity-mix-up-in-fb-text-exchange-for-2024/"><u>[Updated] Rectifying Identity Mix-Up in FB Text Exchange for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-motion-survey-2023/"><u>2024 Approved Complete Motion Survey 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-earn-on-youtube-beginners-path-to-profitability/"><u>2024 Approved Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-iphone-15-variants-which-one-fits-your-needs-regular-vs-plus-pro-and-pro-max-breakdown/"><u>Decoding iPhone 15 Variants: Which One Fits Your Needs? Regular Vs. Plus, Pro, and Pro Max Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expand-your-workspace-effortlessly-connect-a-second-thunderbolt-screen-with-your-m1-mac-mini-zdnet-tutorials/"><u>Expand Your Workspace: Effortlessly Connect a Second Thunderbolt Screen with Your M1 Mac Mini | ZDNET Tutorials</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-air-showdown-is-the-leap-to-ipad-air-5-a-must-expert-review/"><u>IPad Air Showdown: Is the Leap to iPad Air 5 a Must? Expert Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-adobe-premiere-top-6-tricks-for-professional-grade-videos/"><u>New In 2024, Mastering Adobe Premiere Top 6 Tricks for Professional-Grade Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/non-apple-top-rechargeable-airtags-protecting-your-wallet-like-never-before-discover-how-on-zdnet/"><u>Non-Apple, Top Rechargeable AirTags: Protecting Your Wallet Like Never Before! Discover How on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pivotal-event-of-2024-tracing-back-to-what-led-crowdstrike-and-windows-meltdown-a-comprehensive-analysis-by-zdnet/"><u>The Pivotal Event of 2024: Tracing Back to What Led CrowdStrike and Windows Meltdown - A Comprehensive Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-of-free-offline-car-racing-games-no-internet-required/"><u>The Ultimate List of Free Offline Car Racing Games - No Internet Required!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-ios-175s-photo-resurrection-feature-apples-insights-and-user-actions-explained/"><u>Understanding iOS 17.5'S Photo Resurrection Feature - Apple's Insights and User Actions Explained</u></a></li>
+</ul></div>
 

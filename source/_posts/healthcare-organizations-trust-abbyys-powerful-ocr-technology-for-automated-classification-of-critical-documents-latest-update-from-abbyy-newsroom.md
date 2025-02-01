@@ -1,7 +1,7 @@
 ---
 title: Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom
-date: 2024-09-15T16:04:48.879Z
-updated: 2024-09-17T16:08:54.227Z
+date: 2025-01-30T19:00:22.526Z
+updated: 2025-01-31T21:30:33.098Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nobly chooses ABBYY for automated classification of healthcare documents
 
 February 16, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Partnership to provide powerful integrated advance capture solutions available through resellers_ 
 
@@ -71,12 +79,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-intense-moment-capture-iphone-burst-mode-for-2024/"><u>[New] Intense Moment Capture IPhone Burst Mode for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-echopause-visual-record-advice/"><u>[Updated] In 2024, EchoPause Visual Record Advice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing-for-2024/"><u>[Updated] Nailing the Perfect Shot Advanced Strategies for Instagram Video Editing for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-a59-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo A59 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-ipad-air-analysis-why-apples-new-m2-chip-elevates-it-as-the-top-choice-for-consumers-insights/"><u>Best IPad Air Analysis: Why Apple's New M2 Chip Elevates It as the Top Choice for Consumers - Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/centrifugal-pumps-use-rotational-energy-from-an-impeller-to-create-fluid-flow/"><u>Centrifugal Pumps Use Rotational Energy From an Impeller to Create Fluid Flow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-your-ideal-apple-laptop-a-comprehensive-guide-to-picking-between-the-macbook-air-and-macbook-pro/"><u>Choosing Your Ideal Apple Laptop: A Comprehensive Guide to Picking Between the MacBook Air and MacBook Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/end-of-an-era-saying-goodbye-to-iphone-13-and-15-pro-top-picks-for-your-next-smartphone-tech-analysis-by-zdnet/"><u>End of an Era: Saying Goodbye to iPhone 13 and 15 Pro - Top Picks for Your Next Smartphone | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-voice-clarity-on-apple-tv-comes-to-life-with-the-new-tvos-update/"><u>Enhanced Voice Clarity on Apple TV Comes to Life with the New tvOS Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-performance-discover-key-benefits-of-the-new-macos-15-update-for-your-macbook-zdnet/"><u>Experience Enhanced Performance: Discover Key Benefits of the New MacOS 15 Update for Your MacBook | ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-top-6-choices-prime-microphones-for-dynamic-online-broadcasts/"><u>In 2024, Top 6 Choices Prime Microphones for Dynamic Online Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-camera-comparison-pixel-9xl-against-iphone-15-pro-shoots-down-to-a-surprising-champion-tech-review/"><u>In-Depth Camera Comparison: Pixel 9XL Against iPhone 15 Pro Shoots Down to a Surprising Champion | Tech Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-series-16-unveiled-next-gen-features-include-revolutionary-spatial-recording-and-slender-design-for-every-variant-technewszdnet/"><u>IPhone Series 16 Unveiled: Next-Gen Features Include Revolutionary Spatial Recording & Slender Design for Every Variant | TechNewsZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-issues-with-your-iphones-email-a-comprehensive-guide/"><u>Solving Issues with Your iPhone's Email: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-need-for-trusted-platform-module-tpm-in-windows-11-explained-insights-from-zdnet/"><u>The Need for Trusted Platform Module (TPM) in Windows 11 Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-tech-secrets-expert-advice-from-toms-workshop/"><u>Unraveling Tech Secrets: Expert Advice From Tom's Workshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/worlds-top-browser-faces-apples-intriguing-challenge-discover-how-they-clash-insight/"><u>World's Top Browser Faces Apple's Intriguing Challenge: Discover How They Clash! Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-selection-of-march-2abes-2024-smartphone-deals-for-maximum-value/"><u>ZDNet's Ultimate Selection of March 2Abes 2024 Smartphone Deals for Maximum Value</u></a></li>
+</ul></div>
 

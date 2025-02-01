@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Unwanted Messages: A Simple Guide to Halting Spam Texts on iOS Devices | TechToday"
-date: 2025-01-21T16:33:26.903Z
-updated: 2025-01-24T19:34:52.122Z
+date: 2025-01-24T17:51:24.299Z
+updated: 2025-02-01T05:07:09.482Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ The good news is that you can stop these text messages using a feature already i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Settings
 
@@ -39,7 +47,7 @@ Tap on Messages to access the settings for your Messages app.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
@@ -51,6 +59,10 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -74,11 +86,11 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
 
@@ -95,10 +107,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -107,10 +115,6 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 2. Tap on Report Junk below the message.
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
 
@@ -126,10 +130,6 @@ If you keep getting messages from the same sender after reporting them, you can 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,16 +167,16 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-securing-comfort-in-vr-experiences/"><u>[New] Securing Comfort in VR Experiences</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-demystified-for-passionate-creators-and-viewers/"><u>[Updated] 2024 Approved Vimeo Demystified For Passionate Creators & Viewers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-windows-artistry-nine-top-tools-for-animated-gif-preservation/"><u>[Updated] In 2024, Mastering Windows Artistry Nine Top Tools for Animated GIF Preservation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discerning-real-from-pretend-a-users-handbook-to-detecting-counterfeit-social-links/"><u>Discerning Real From Pretend: A User's Handbook to Detecting Counterfeit Social Links</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stabilize-starfield-ultimate-guide-to-fixing-pc-game-crashes-effectively/"><u>How To Stabilize Starfield: Ultimate Guide to Fixing PC Game Crashes Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-16-release-pros-and-cons-of-upgrading-insights-from-zdnet-experts/"><u>IPhone 16 Release: Pros & Cons of Upgrading - Insights From ZDNet Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quintessential-storylines-dominating-film-landscapes/"><u>Quintessential Storylines Dominating Film Landscapes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/say-goodbye-to-the-iphone-13-and-15-pro-series-expert-guide-on-next-gen-smartphones-to-purchase/"><u>Say Goodbye to the iPhone 13 & 15 Pro Series – Expert Guide on Next-Gen Smartphones to Purchase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-amazing-christmas-sales-on-apples-airpods-find-your-perfect-price-zdnet/"><u>Top 7 Amazing Christmas Sales on Apple's AirPods: Find Your Perfect Price - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-apple-picks-the-ultimate-roundup-of-the-finest-apps-and-games-for-202eighty-three-discover-the-must-have-selections/"><u>Top Apple Picks: The Ultimate Roundup of the Finest Apps & Games for 202Eighty-Three - Discover the Must-Have Selections!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-animated-magic-happen-top-5-online-stop-motion-makers/"><u>Updated 2024 Approved Make Animated Magic Happen Top 5 Online Stop Motion Makers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-master-your-youtube-banner-essential-guide-for-creators/"><u>[Updated] In 2024, Master Your YouTube Banner Essential Guide for Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-iphone-video-playback-cycles/"><u>[Updated] Mastering iPhone Video Playback Cycles</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-minecraft-crashes-on-pc-tackling-the-root-cause-of-faulty-graphics-drivers/"><u>Banish Minecraft Crashes on PC: Tackling the Root Cause of Faulty Graphics Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-lightspeed-by-red-hat-the-ultimate-ai-solution-for-kubernetes-administrators-detailed-insight-from-zdnet/"><u>Discover Lightspeed by Red Hat: The Ultimate AI Solution for Kubernetes Administrators - Detailed Insight From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-software-projects-with-these-6-agile-tactics-a-guide-to-effective-design-processes-by-zdnet-experts/"><u>Elevate Your Software Projects with These 6 Agile Tactics: A Guide to Effective Design Processes by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-coding-security-with-ai-on-github-mastering-fundamentals-first-zdnet/"><u>Enhancing Coding Security with AI on GitHub - Mastering Fundamentals First [ZDNet]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-these-intelligent-household-innovations-simplify-daily-living/"><u>How These Intelligent Household Innovations Simplify Daily Living</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-selection-of-text-plugins-in-ae/"><u>In 2024, Unveiling the Ultimate Selection of Text Plugins in AE</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-dates-in-excel-a-complete-tutorial-for-conditional-format-styles/"><u>Mastering Dates in Excel: A Complete Tutorial for Conditional Format Styles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-gen-ai-boosted-by-nvidias-new-nimble-interconnect-modules-for-cutting-edge-computing-speed/"><u>Next-Gen AI Boosted by Nvidia's New 'Nimble Interconnect Modules' For Cutting-Edge Computing Speed</u></a></li>
 </ul></div>
 

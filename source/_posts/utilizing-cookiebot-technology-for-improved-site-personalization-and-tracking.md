@@ -1,7 +1,7 @@
 ---
 title: Utilizing Cookiebot Technology for Improved Site Personalization and Tracking
-date: 2024-09-12T07:21:31.857Z
-updated: 2024-09-13T07:21:31.857Z
+date: 2025-01-27T04:46:33.351Z
+updated: 2025-02-01T01:04:13.459Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146a8bbd42e4f0e8dd5abd0510.jpg
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 ## Utilizing Cookiebot Technology for Improved Site Personalization and Tracking
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## OCR vs. IDP: What’s The Difference?
 
@@ -38,6 +31,10 @@ Optical character recognition (OCR) is primarily focused on recognizing characte
 
 Prior to OCR you would need to manually type text to input data into a computer system. OCR software analyzes the characters in an image, extracts them, and translates them into machine-readable, editable text. IDP incorporates OCR to recognize the characters and uses artificial intelligence (AI) and machine learning to read and interpret the text and extract valuable information and process that information like a human to complete a business process, for example review an invoice and forward it for payment. IDP can handle a wider variety of content including structured and unstructured information to automate a whole range of document-based workflows to take companies through digital transformation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is OCR?
 
 **OCR stands for [optical character recognition](https://tools.techidaily.com/abbyy/products/). OCR technology is used to analyze, read, and extract text in scanned documents or images and convert it into machine-readable text.** It is often used to digitize printed books and articles, or in business processes involving physical documents, such as invoices and receipts, so that the text content can be edited, searched, and stored electronically. OCR technology is typically integrated with other applications, such as IDP, as one step of a larger process of intelligent automation.
@@ -45,10 +42,7 @@ Prior to OCR you would need to manually type text to input data into a computer 
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it works
@@ -58,16 +52,7 @@ OCR starts with the file that you want to extract information from, which may be
 The extracted data is then matched against a set of predefined patterns or templates representing known characters and symbols. To do this, it may incorporate technologies such as machine learning and neural networks to improve recognition accuracy and handle different fonts and languages, or complicated layouts such as tables and lists or barcodes. If it encounters a problem, it may flag it for human evaluation. Once the character recognition process has been completed, you may need to check for errors or improve accuracy by using spell-check, context analysis or language modeling. The OCR software will then produce the final machine-readable text that can be integrated into your company’s computer system.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Benefits of OCR
@@ -84,10 +69,7 @@ The extracted data is then matched against a set of predefined patterns or templ
 Common use cases for OCR solutions can include organizations to facilitate compliance with government and corporate regulations by converting large volumes of paper and digital documents into accessible and searchable formats, legal firms converting paper contracts into editable digital formats for search, eDiscovery, and data analysis, healthcare companies transferring patient records onto their computer system maintaining HIPAA compliance, libraries and archives preserving historical documents in digital form enabling employees across an organization to perform their various daily document-related tasks effectively, software developers to create content services, digital archiving, document management system (DMS), enterprise content management (ECM) solutions, and many others.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is IDP?
@@ -95,20 +77,6 @@ Common use cases for OCR solutions can include organizations to facilitate compl
 [Intelligent document processing](https://tools.techidaily.com/abbyy/products/) **(IDP) enables straight-through processing of documents by automatically capturing, extracting, and processing data embedded in business documents**, in just about any process in any industry.
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How it works
 
@@ -135,6 +103,10 @@ IDP technology closely mirrors the way humans understand and manage documents, s
 * **Better security and compliance.** IDP can help enforce compliance by ensuring that documents are processed according to established rules and regulations.
 * **Scalability.** As business operations grow, the volume of documents to be processed also increases. IDP solutions can easily scale to handle larger document volumes without a proportional increase in labor costs.
 * **Easy integration to company workflow.** IDP can be integrated with other digital systems and workflows to enable seamless and efficient digitization of business processes across company departments and your entire organization.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s the difference between OCR and IDP?
 
@@ -172,16 +144,7 @@ Research shows that 90 percent of organizations see potential customers abandon 
 With intelligent document processing, you can take away the bottlenecks that lead to abandonment. [Businesses can leverage IDP technology for identity proofing](https://tools.techidaily.com/abbyy/products/) and identity affirmation, which make it easier for customers and more secure for businesses. IDP can capture and classify ID documents like driving licenses or passports, or supporting documents like bank statements or utility bills, that are needed for proof of address. For example, it can be used by the department of motor vehicles (DMV) for a driver license renewal or a bank for mortgage applications.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OCR vs. IDP: Which is best for your business?
@@ -231,13 +194,6 @@ OCR (optical character recognition) and IDP (intelligent document processing) te
 [OCR](https://tools.techidaily.com/abbyy/products/) [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") 
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Slavena Hristova
 
@@ -308,5 +264,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mac-display-recorder-tips-and-tricks/"><u>[Updated] Mac Display Recorder Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-magic-vs-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor Magic Vs 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-latest-innovations-unveiled-upgraded-alexa-version-20-new-echo-show-model-and-enhanced-fire-tv-features-a-comprehensive-breakdown-by-zdnet/"><u>Amazon's Latest Innovations Unveiled: Upgraded Alexa Version 2.0, New Echo Show Model and Enhanced Fire TV Features - A Comprehensive Breakdown by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-master-plan-decoding-the-purpose-of-its-device-lineup-from-the-beginning-with-echo-to-the-latest-astro-zdnet-digest/"><u>Amazon's Master Plan: Decoding the Purpose of Its Device Lineup, From the Beginning with Echo to the Latest Astro | ZDNET Digest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/as-google-retreats-from-iot-services-microsoft-advances-its-presence-a-shift-in-industry-dynamics-zdnet/"><u>As Google Retreats From IoT Services, Microsoft Advances Its Presence - A Shift in Industry Dynamics | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-leads-with-launch-of-innovative-private-5g-offering-at-reinvent-2021-dive-into-the-details-on-zdnet/"><u>AWS Leads with Launch of Innovative Private 5G Offering at Re:invent 2021 - Dive Into the Details on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparative-analysis-amazon-echo-studio-vs-sonos-era-insights-and-purchase-recommendations/"><u>Comparative Analysis: Amazon Echo Studio Vs. Sonos Era - Insights & Purchase Recommendations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-logitech-m525-installation-and-update-packages-free/"><u>Get Logitech M525 Installation and Update Packages Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-mini-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-12-proplus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 12 Pro+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-upgrade-to-windows-11-in-2024/"><u>How to Upgrade to Windows 11 , In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-stopping-accidental-shortcuts-at-work/"><u>Solutions for Stopping Accidental Shortcuts at Work</u></a></li>
+</ul></div>
 

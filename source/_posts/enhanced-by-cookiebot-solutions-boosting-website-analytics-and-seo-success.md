@@ -1,7 +1,7 @@
 ---
 title: "Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success"
-date: 2024-09-12T07:21:12.201Z
-updated: 2024-09-13T07:21:12.201Z
+date: 2025-01-30T04:02:47.498Z
+updated: 2025-01-31T20:46:13.381Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978f937cb6e50b9af175371190.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY社、前田まりこがABBYYジャパン代表取締役社長に就任、日本市場のさらなる成長をめざす
@@ -25,19 +22,13 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Mariko Maeda 848X444](https://static4.abbyy.com/abbyycommedia/35508/april14-848x444.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 インテリジェント ドキュメント プロセッシング（IDP）とプロセスマイニングのソリューション提供を主軸にインテリジェント オートメーションを推進するABBYY社（本社：米国ノースカロライナ州、日本法人ABBYYジャパン株式会社、本社：東京）は、本年4月１日付で、前田まりこがABBYYジャパン株式会社の代表取締役社長に就任したことをお知らせいたします。
@@ -51,10 +42,7 @@ ABBYYジャパン代表取締役社長に就任した前田まりこは、次の
 前田まりこは、ABBYY入社以前は米国に拠点を置く自動化ロボットのリーディング・カンパニーであるGreyOrangeで日本及び韓国チームを統括してきました。また営業、ソリューション・コンサルティング、オペレーション、カスタマー・エクスペリエンスに焦点を当てたセールス戦略と収益拡大をリードするなど、豊富な経験を誇ります。（早稲田大学大学院修士課程修了）
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ABBYYについて
@@ -70,10 +58,7 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 報道関係者お問い合わせ先
@@ -97,5 +82,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-most-advanced-screen-recording-tools-on-mac-excluding-bandicam/"><u>[New] 2024 Approved The Most Advanced Screen Recording Tools on Mac (Excluding Bandicam)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comprehensive-list-securing-monetized-youtube-content/"><u>[New] In 2024, Comprehensive List Securing Monetized YouTube Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-comprehensible-guide-to-skypes-mp3-recorder/"><u>[Updated] 2024 Approved The Comprehensible Guide to Skype's MP3 Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-the-top-8-truly-efficient-advancement-services-for-2024/"><u>[Updated] Discovering the Top 8 Truly Efficient Advancement Services for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-photography-clarity-revolution-best-fixers-of-the-web-age/"><u>[Updated] In 2024, Photography Clarity Revolution Best Fixers of the Web Age</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-an-efficient-windows-menu-for-software-alerts/"><u>Crafting an Efficient Windows Menu for Software Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/doj-legal-action-againnst-apple-deciphered-consequences-for-users-and-app-creators-explored-by-zdnet/"><u>DOJ Legal Action Againnst Apple Deciphered: Consequences for Users & App Creators | Explored by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-curated-list-of-ideal-mac-booster-programs-for-2astock-marketing-teamcom)marketing-teams-reviewed/"><u>Expertly Curated List of Ideal Mac Booster Programs for 2Astock Marketing team.com>Marketing Teams | Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-apple-watch-ultra-2-perfection-in-every-wrist-movement-save-100-this-labor-day-zdnet-exclusive/"><u>Get Your Hands on the Apple Watch Ultra 2: Perfection in Every Wrist Movement - Save $100 This Labor Day! [ZDNet Exclusive]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-temporal-twist-learn-how-to-turn-back-time-for-2024/"><u>Instagram's Temporal Twist Learn How to Turn Back Time for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-the-tiny-tech-beast-how-the-latest-mac-mini-packs-a-powerful-m4-punch-in-a-small-form-factor/"><u>Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/safeguarding-user-privacy-exploring-apples-measures-for-protecting-ai-processed-data-in-the-cloud-tech-innovations/"><u>Safeguarding User Privacy: Exploring Apple’s Measures for Protecting AI Processed Data in the Cloud | Tech Innovations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unlock-chromecasts-full-potential-streaming-local-videos-on-windows-mac-android-and-ios/"><u>Updated 2024 Approved Unlock Chromecasts Full Potential Streaming Local Videos on Windows, Mac, Android, and iOS</u></a></li>
+</ul></div>
 

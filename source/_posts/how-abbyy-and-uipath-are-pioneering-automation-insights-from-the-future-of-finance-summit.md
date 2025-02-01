@@ -1,7 +1,7 @@
 ---
 title: "How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit"
-date: 2024-09-12T07:20:38.793Z
-updated: 2024-09-13T07:20:38.793Z
+date: 2025-01-28T16:14:06.265Z
+updated: 2025-01-31T21:39:39.510Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
@@ -12,16 +12,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY and UiPath at the Future of Finance Summit
@@ -31,16 +22,7 @@ February 09, 2017
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### _ABBYY and partner will showcase capture-driven business process automation solutions for shared service providers_ 
@@ -96,5 +78,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-a-beginners-pathway-to-iphone-audio-memos/"><u>[Updated] In 2024, A Beginner's Pathway to iPhone Audio Memos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-best-16-youtube-intro-makers-to-bring-you-more-views/"><u>[Updated] In 2024, Best 16 YouTube Intro Makers to Bring You More Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-teams-up-with-openai-for-revolutionary-ai-experience-on-iosipadosmacos-news-update/"><u>Apple Teams Up with OpenAI for Revolutionary AI Experience on iOS/iPadOS/MacOS News Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-solutions-boost-your-websites-efficiency/"><u>Cookiebot-Enabled Solutions: Boost Your Website's Efficiency</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-amds-newest-rx-570-driver-for-oses/"><u>Download AMD's Newest RX 570 Driver for OSes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-seamless-connectivity-download-intels-usb-30-drivers-for-windows-10-now/"><u>Ensure Seamless Connectivity: Download Intel's USB 3.0 Drivers for Windows 10 Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/learn-vfx-for-free-mastering-the-art-of-background-substitution-through-4-innovative-video-tutorials-for-2024/"><u>Learn VFX for Free Mastering the Art of Background Substitution Through 4 Innovative Video Tutorials for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/leverage-cookiebot-technology-for-improved-website-insights-and-optimization/"><u>Leverage Cookiebot Technology for Improved Website Insights and Optimization</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-professionals-choice-or-pricey-accessory-the-5k-27-inch-apple-studio-monitor-evaluated-zdnet/"><u>Mac Professional's Choice or Pricey Accessory? The 5K, 27-Inch Apple Studio Monitor Evaluated | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testing-resistance-against-apple-a-real-life-battle-over-iphone-upgrades/"><u>Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-apple-pay-benefits-for-shoppers-and-businesses-explained/"><u>The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-18-unbeatable-prime-day-offers-on-laptops-from-brands-like-hp-apple-and-razer/"><u>Top 18 Unbeatable Prime Day Offers on Laptops From Brands Like HP, Apple & Razer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-upgraded-features-of-3rd-generation-apple-airpods-an-in-depth-analysis-by-zdnet/"><u>Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills
-date: 2024-09-14T16:13:03.991Z
-updated: 2024-09-17T16:10:27.884Z
+date: 2025-01-28T04:21:09.171Z
+updated: 2025-01-31T20:21:15.762Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4d358641ba5470b5ab5b74e3.jpg
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 Other | Accounts Payable Automation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ABBYY Solution Partner Automates Invoice Processing for Adactus Housing Group
 
@@ -28,6 +32,10 @@ Other | Accounts Payable Automation
 #### Customer Overview
 
 ![Adactus Group](https://static2.abbyy.com/abbyycommedia/14441/adactus_155x80.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name                  | Adactus Group                                               |
 | --------------------- | ----------------------------------------------------------- |
@@ -61,6 +69,10 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 ###### SEE HOW ABBYY CAN HELP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Up to **60,000**
 
 paper invoices are normally received each year
@@ -68,13 +80,6 @@ paper invoices are normally received each year
 ### **24** suppliers
 
 represent 50% of the transactions stream
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4** full time staff
 
@@ -122,20 +127,21 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
@@ -166,5 +172,26 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>[New] 2024 Approved Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ultra-wealthy-digital-creators/"><u>[New] 2024 Approved Ultra-Wealthy Digital Creators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-vivid-hue-enhancer-program/"><u>[New] Vivid Hue Enhancer Program</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-wave-weaver-toolkit/"><u>[New] Wave Weaver Toolkit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-boost-your-boundless-imagination-with-these-android-graphics-tools-for-2024/"><u>[Updated] Boost Your Boundless Imagination with These Android Graphics Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>[Updated] File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-faces-doj-lawsuit-potential-impacts-on-iphone-consumers-and-independent-app-creators-insights-from-zdnet/"><u>Apple Faces DOJ Lawsuit: Potential Impacts on iPhone Consumers & Independent App Creators - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-recent-showcase-of-ai-innovations-what-we-didnt-see-but-could-expect-in-the-future/"><u>Apple's Recent Showcase of AI Innovations - What We Didn't See, but Could Expect in the Future?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/auto-matts-latest-move-automattic-scores-victory-with-beeper-acquisition-unveiling-grand-strategies/"><u>Auto Matt's Latest Move: AutoMattic Scores Victory with Beeper Acquisition, Unveiling Grand Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-enhanced-apple-vision-pro-demo-experience-insider-tips-on-securing-your-slot-now-digitaltrends/"><u>Discover the Enhanced Apple Vision Pro Demo Experience - Insider Tips on Securing Your Slot Now! | DigitalTrends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-latest-innovations-apples-upcoming-tech-enhancements-for-iphone-ipad-mac-and-more-in-autumn-with-cutting-edge-ai/"><u>Discover the Latest Innovations: Apple's Upcoming Tech Enhancements for iPhone, iPad, Mac, & More in Autumn with Cutting-Edge AI</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-virtual-realms-iphone-vr-video-playback/"><u>In 2024, Navigating Virtual Realms IPhone VR Video Playback</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-razr-40-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Razr 40</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-lowering-cpu-load-during-zoom-sessions/"><u>Mastering the Art of Lowering CPU Load During Zoom Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-safety-feature-google-pixel-9-introduces-worlds-first-satellite-emergency-texting-for-android-devices/"><u>Revolutionary Safety Feature: Google Pixel 9 Introduces World's First Satellite Emergency Texting for Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-to-tech-evolution-apples-m1-vs-previous-gen-m3-pro-what-you-need-to-know-for-a-seamless-upgrade-zdnet/"><u>Transitioning to Tech Evolution: Apple's M1 Vs. Previous-Gen M3 Pro - What You Need to Know for a Seamless Upgrade | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-repair-your-game-fast-fixes-for-league-of-legends-crashes/"><u>Troubleshoot & Repair Your Game: Fast Fixes for League of Legends Crashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-cleaning-your-airpods-health-benefits-and-step-by-step-methods-zdnet/"><u>Ultimate Guide to Cleaning Your AirPods - Health Benefits and Step-by-Step Methods | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-ranking-of-compact-tablets-for-2n25-expertly-tested-and-analyzed/"><u>Ultimate Ranking of Compact Tablets for 2N25: Expertly Tested & Analyzed</u></a></li>
+</ul></div>
 

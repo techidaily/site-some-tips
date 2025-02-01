@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced User Experience: Boost Your Site's Engagement"
-date: 2024-09-11T16:09:36.472Z
-updated: 2024-09-17T16:02:53.096Z
+date: 2025-01-30T16:10:10.866Z
+updated: 2025-02-01T05:01:09.356Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d170abd91534f7a21873e1f18.png
@@ -11,11 +11,23 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 
 Bericht
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY im Gartner® Magic Quadrant™ for Process Mining-Platforms 2024 als Marktführer benannt
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ABBYY wurde für seine Timeline-Process-Intelligence-Plattform nach den Kriterien Vollständigkeit der Vision und Umsetzungskompetenz ausgezeichnet. 
 
 ![Figure_1_Magic_Quadrant_for_Process_Mining](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/resource-center/content-images/figure_1_magic_quadrant_for_process_mining.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Process-Mining-Plattformen](https://tools.techidaily.com/abbyy/products/) helfen Unternehmen, intelligente, datenbasierte Entscheidungen schneller zu treffen, um operative Ziele zu erreichen und Wettbewerbsvorteile zu erzielen. Der Gartner® Magic Quadrant™ for Process Mining Platforms untersucht die aktuellen Marktkräfte und die führenden Anbieter von Process-Mining-Plattformen. 
 
@@ -38,6 +50,10 @@ The Gartner document is available upon request from ABBYY.
 GARTNER is a registered trademark and service mark, and MAGIC QUADRANT and PEER INSIGHTS are trademarks and service marks, of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. 
 
 Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences with the vendors listed on the platform, should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Danke für Ihr Interesse an ABBYY. 
 
@@ -108,12 +124,19 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-secret-tactics-for-elevating-your-instagram-presence/"><u>[New] In 2024, Top-Secret Tactics for Elevating Your Instagram Presence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-gamers-blueprint-techniques-to-record-virtual-realms/"><u>[New] The Gamer's Blueprint Techniques to Record Virtual Realms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] 2024 Approved Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-holiday-offer-get-your-hands-on-pre-owned-apple-tv-and-siri-remote-set-for-only-75-more/"><u>Affordable Holiday Offer: Get Your Hands on Pre-Owned Apple TV and Siri Remote Set for Only $75 More!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-strategic-move-the-smaller-iphone-16-pro-outshines-the-max-variant-for-consumers-this-year-zdnet-analysis/"><u>Apple's Strategic Move: The Smaller iPhone 16 Pro Outshines the Max Variant for Consumers This Year | ZDNET Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008048438-expert-fixes-for-bypassing-csgo-login-problems-get-playing-now/"><u>Expert Fixes for Bypassing CSGO Login Problems - Get Playing Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-10-premier-yoga-streams-for-wellness-boost/"><u>Explore 10 Premier Yoga Streams for Wellness Boost</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-data-recovery-a-step-by-step-guide-to-windows-1011-file-backups-and-system-restores/"><u>Mastering Data Recovery: A Step-by-Step Guide to Windows 10/11 File Backups and System Restores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/parent-approved-tablet-options-for-kids-featured/"><u>Parent Approved Tablet Options for Kids - Featured</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-assessment-of-microsoft-surface-pro-8-a-comprehensive-review-tailored-for-enterprises-tech-insights-on-zdnet/"><u>Professional Assessment of Microsoft Surface Pro 8: A Comprehensive Review Tailored for Enterprises | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-shaping-images-with-photoshop-curves-for-2024/"><u>Tips for Shaping Images with Photoshop Curves for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-apple-m3-macbook-pro-and-imac-to-macos-catalina-with-ease-techtips-by-zdnet/"><u>Upgrade Your Apple M3 MacBook Pro and iMac to macOS Catalina with Ease | TechTips by ZDNet</u></a></li>
+</ul></div>
 

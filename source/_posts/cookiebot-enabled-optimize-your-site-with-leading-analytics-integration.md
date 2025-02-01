@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration"
-date: 2024-09-15T16:04:25.715Z
-updated: 2024-09-17T16:14:48.487Z
+date: 2025-01-27T21:40:45.058Z
+updated: 2025-02-01T03:42:19.757Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d94da77b1f5b8b2204a1d875.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Paul Nizov tritt dem Führungsteam von ABBYY als Chief Information Security Officer bei
 
 20\. April 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY, ein Unternehmen für Digital Intelligence, gab heute die Erweiterung seines Führungsteams durch Paul Nizov als Chief Information Security Officer bekannt. In dieser neu geschaffenen Position wird sich Paul Nizov für die Bedeutung und den Einfluss von Sicherheit einsetzen, Sicherheitsrisiken managen und die strategischen, operativen und budgetären Aspekte der sicheren Softwareentwicklung, des Datenschutzes und des Informationsschutzes beaufsichtigen.
 
@@ -53,12 +61,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-behind-the-scenes-music-insights-for-ig/"><u>[New] 2024 Approved Behind the Scenes Music Insights for IG</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevated-workflows-synopsis-studio-25-comprehensive-checkup-2023/"><u>[New] 2024 Approved Elevated Workflows Synopsis Studio 25 Comprehensive Checkup, 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-cutting-edge-video-editing-software-guide-for-windows-creatives/"><u>[New] Cutting-Edge Video Editing Software Guide for Windows Creatives</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-strategies-for-winning-on-spotifys-ad-platform-for-2024/"><u>[New] Strategies for Winning on Spotify's Ad Platform for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-transition-magic-quick-fade-tactics/"><u>[Updated] 2024 Approved Transition Magic Quick Fade Tactics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-creating-compelling-cost-free-youtube-intros/"><u>[Updated] Creating Compelling, Cost-Free YouTube Intros</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-thumbnail-crafting-101-the-fundamentals-covered-for-2024/"><u>[Updated] Thumbnail Crafting 101 The Fundamentals Covered for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes/"><u>2024 Approved Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/azs-ultimate-selection-of-iphone-and-ipad-vpn-providers-meticulously-tested-and-reviewed-find-your-perfect-match-techadvisor/"><u>AZ's Ultimate Selection of iPhone & iPad VPN Providers, Meticulously Tested and Reviewed - Find Your Perfect Match | TechAdvisor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-iphone-efficiency-unveiling-the-impact-of-integrating-google-gemini-into-ios-insights/"><u>Boosting iPhone Efficiency: Unveiling the Impact of Integrating Google Gemini Into iOS - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-cutting-edge-wristwear-a-detailed-analysis-of-googles-pixel-watch-vs-apples-latest-timepiece-which-delivers-greater-value/"><u>Comparing Cutting-Edge Wristwear: A Detailed Analysis of Google's Pixel Watch Vs. Apple's Latest Timepiece – Which Delivers Greater Value?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-frame-rate-issues-in-dragons-dogma-ii-solutions-for-smooth-gameplay/"><u>Fixing Frame Rate Issues in Dragon's Dogma II: Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-can-challenge-the-leading-edge-of-ai-unveiling-key-innovations-against-google-and-openai-as-analyzed/"><u>How Apple Can Challenge the Leading Edge of AI: Unveiling Key Innovations Against Google and OpenAI, as Analyzed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-apple-intelligence-an-in-depth-overview-of-upcoming-ai-capabilities-in-ios-devices-and-apple-computers-zdnet/"><u>Inside Apple Intelligence: An In-Depth Overview of Upcoming AI Capabilities in iOS Devices and Apple Computers | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airtag-gadgets-in-2/"><u>Top-Rated AirTag Gadgets in 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/two-simple-methods-for-updating-applications-on-your-mac-os-insights/"><u>Two Simple Methods for Updating Applications on Your Mac OS - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-detecting-and-eliminating-mobile-spyware-tips/"><u>Ultimate Guide: Detecting & Eliminating Mobile Spyware - Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-upgrades-how-apples-latest-airpods-redefine-audio-wearables-tech-insights/"><u>Unveiling the Upgrades: How Apple's Latest AirPods Redefine Audio Wearables | Tech Insights</u></a></li>
+</ul></div>
 

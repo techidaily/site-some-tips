@@ -1,7 +1,7 @@
 ---
 title: "UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration"
-date: 2024-09-12T07:21:26.879Z
-updated: 2024-09-13T07:21:26.879Z
+date: 2025-01-24T17:53:40.758Z
+updated: 2025-01-31T19:47:10.091Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f43714543b259bc14c7475306.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY Intelligent Capture Connector Is Now Available on the UiPath Go! RPA Marketplace
@@ -25,10 +22,7 @@ November 08, 2018
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### _Additionally, ABBYY has been recognized as the Best Technology Partner at the annual #UiPathForward Americas partner event._
@@ -75,5 +69,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-4-time-saving-ways-to-perfect-loops-in-your-instagram-videos/"><u>[Updated] 4 Time-Saving Ways to Perfect Loops in Your Instagram Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experts-choice-7-premium-videos-on-mac/"><u>[Updated] Expert's Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-integrating-custom-sounds-into-your-whatsapp-experience/"><u>[Updated] Integrating Custom Sounds Into Your WhatsApp Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-your-youtube-comment-tracking-on-multiple-devices/"><u>[Updated] Unlocking Your YouTube Comment Tracking on Multiple Devices</u></a></li>
+<li><a href="https://techidaily.com/1-step-by-step-guide-completely-erase-and-hide-user-accounts-in-linux/"><u>1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/essential-tips-and-techniques-every-aspiring-portrait-photographer-must-learn/"><u>Essential Tips and Techniques Every Aspiring Portrait Photographer Must Learn</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/quality-audio-collections-a-youtube-creators-guidebook/"><u>High-Quality Audio Collections A YouTube Creator's Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-your-savings-with-amazon-prime-rewards-in-depth-credit-card-analysis/"><u>Maximize Your Savings with Amazon Prime Rewards: In-Depth Credit Card Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-experience-attempting-a-product-return-on-temu-insights-and-outcomes-zdnet/"><u>My Experience Attempting a Product Return on Temu – Insights & Outcomes | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-new-wave-of-precision-with-aws-lake-formation-updates-by-amazon-tech-insights-on-data-lakes/"><u>Navigating the New Wave of Precision with AWS Lake Formation Updates by Amazon | Tech Insights on Data Lakes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/never-lose-another-clicker-again-learn-the-new-trick-with-alexa-for-quick-retrieval-guided-by-zdnet/"><u>Never Lose Another Clicker Again - Learn the New Trick with Alexa for Quick Retrieval | Guided by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/red-hats-innovation-leap-launching-a-virtualized-rhel-desktop-experience-on-aws-platform-as-reported-by-zdnet/"><u>Red Hat's Innovation Leap - Launching a Virtualized RHEL Desktop Experience on AWS Platform, as Reported by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-150-on-the-top-rated-amazon-fire-tv-omnia-series-qled-streaming-stick-sale-alert/"><u>Save $150 on the Top-Rated Amazon Fire TV Omnia Series QLED Streaming Stick - Sale Alert!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-countdown-magic-in-fcpx-a-3-step-tutorial-for-beginners/"><u>Updated 2024 Approved Countdown Magic in FCPX A 3-Step Tutorial for Beginners</u></a></li>
+</ul></div>
 

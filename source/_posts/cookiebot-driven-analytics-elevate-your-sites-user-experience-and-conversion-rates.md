@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Analytics: Elevate Your Site's User Experience & Conversion Rates"
-date: 2024-09-12T07:20:16.567Z
-updated: 2024-09-13T07:20:16.567Z
+date: 2025-01-24T19:40:52.985Z
+updated: 2025-02-01T03:34:29.936Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb2511c6882fb283e99f7aa6165.jpg
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 新型コロナウィルス（新データ）：悪い業務プロセスの従業員への影響
@@ -25,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 1月21日, 2021
 
 ![Blog Cover Image | ABBYY Blog Post](https://static1.abbyy.com/abbyycommedia/30442/12447_blog-cover-image_848х444_3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 新型コロナウィルスが職場に与える影響については、多くのことを耳にしました。在宅勤務への移行、健康と安全を心配する従業員への感情的な犠牲、学齢期の子供たちの遠隔教育のやりくりなどです。 そして、新しい日常のルーチンに落ち着くと、職場で別の課題が明らかになりました。それは「悪い業務プロセス」です。
 
@@ -44,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 驚いたのは、職場の課題に対するもう1つの主要な要因がプロセスであったことです。 効率性、コンプライアンス、そして、より良いビジネス成果を促進するために業務プロセスが用意されていることには、ほとんどの人が同意します。しかしながら、回答者のほぼ半数（48％）が、業務プロセスが仕事をより困難にした、つまり不十分であると非難し、それを理由に4人に1人が仕事を辞めたいと考えています。 別の36％は、プロセスが時間を無駄にし、プロセスを使えなくしたと述べています。
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### では、プロセスは従業員の仕事にどのように悪影響を及ぼしますか？ そして、これに対処するために何ができるでしょうか？
@@ -61,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 ![COVID Impact on Business, Employees](https://static1.abbyy.com/abbyycommedia/30408/abbyy-global-covid-technology-survey_us_1200x628.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 従業員がタスクを実行する方法を監視することは、タスクマイニングと呼ばれる、プロセスインテリジェンスの初期のカテゴリのものにあたります。 タスクマイニングを使用すると、ユーザの操作を収集して分析することにより、どのようにタスクをやりくりしているのかを理解できます。 このような深い理解は、プロセスを自動化、そして改善するのに役立ちます。 タスクマイニングはプロセスマイニングと類似していますが、システムのログファイルやビジネス指標ではなく、ユーザとアプリとの相互やり取りのデータを使用してプロセスを分析します。 [ABBYY Task Mining（英語版）](https://tools.techidaily.com/abbyy/products/) は、デスクトップ上のユーザインタラクションデータ（ユーザとアプリとの相互やり取りデータ）を分析し、システムイベントデータからマイニング（取り出）されたプロセスの詳細とシームレスにリンクします。これにより、プロセスを遅くしている反復的で非効率的なタスクとタスクシーケンスを特定し、適切な場所にリソースを割り当て、解決することが可能となります。
@@ -90,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bruce Orcutt
@@ -101,10 +82,7 @@ Bruce Orcutt
 Vice President of Product Marketing at ABBYY
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### いいね！、シェア、再投稿
@@ -168,5 +146,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-syncing-melodies-with-video-in-premiere-pro/"><u>[New] Syncing Melodies with Video in Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-free-download-of-youtube-video-covers-no-hurdles/"><u>[Updated] 2024 Approved Flawless Free Download of YouTube Video Covers - No Hurdles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-get-the-most-out-of-instagram-photos-with-these-apps/"><u>[Updated] 2024 Approved Get the Most Out of Instagram Photos with These Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[Updated] In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/deciding-between-new-apple-laptops-in-depth-review-and-contrast-of-m3-versus-m2-macbook-air-zdnet/"><u>Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-most-durable-and-stylish-iphone-12-and-12-pro-cases-reviewed-by-tech-experts-at-zdnet/"><u>Discover the Most Durable & Stylish iPhone 12 & 12 Pro Cases Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-testing-the-ultimate-list-of-2024s-best-notetaking-tablets-detailed-analysis/"><u>Expertly Testing the Ultimate List of 2024'S Best Notetaking Tablets: Detailed Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-proofing-privacy-apple-enhances-imessage-security-features/"><u>Future-Proofing Privacy: Apple Enhances iMessage Security Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016813683-google-meet-not-hearing-you-fix-microphone-problems-on-windows-10-and-11-easily/"><u>Google Meet Not Hearing You? Fix Microphone Problems on Windows 10 and 11 Easily!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-beneath-the-surface-a-deeper-look-at-snapchat-emojis/"><u>In 2024, Beneath the Surface A Deeper Look at Snapchat Emojis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-grab-and-play-fb-audio-clips/"><u>In 2024, Grab and Play FB Audio Clips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-your-home-studio-for-online-broadcasts/"><u>Optimizing Your Home Studio for Online Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-from-the-m3-to-the-m1-is-it-time-to-upgrade-your-macbook-pro-with-the-latest-tech/"><u>Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-top-rated-gaming-audio-setup-now-discounted-by-nearly-a-third-on-amazon-insights-review/"><u>Unbeatable Deal: Top-Rated Gaming Audio Setup Now Discounted by Nearly a Third on Amazon - Insights Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-newly-announced-ios-1er-177-may-be-a-wiser-choice-than-waiting-for-ios-18-analysis/"><u>Why the Newly Announced IOS 1Er 17.7 May Be a Wiser Choice than Waiting for IOS 18 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-wont-apple-upgrade-old-iphones-with-latest-ai-tech-the-price-tag-dilemma-explained-by-zdnet/"><u>Why Won't Apple Upgrade Old iPhones with Latest AI Tech? The Price Tag Dilemma Explained by ZDNET</u></a></li>
+</ul></div>
 

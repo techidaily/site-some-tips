@@ -1,7 +1,7 @@
 ---
 title: "1. Orchestrating Smart Process Integration: The ABBYY Way"
-date: 2024-09-15T16:13:01.036Z
-updated: 2024-09-17T16:18:26.659Z
+date: 2025-01-30T18:12:14.315Z
+updated: 2025-01-31T20:29:25.706Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06b50eb65c4dc48b9a72515ec.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 ## 1. Orchestrating Smart Process Integration: The ABBYY Way
 
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creating an Intelligent Automation Symphony
 
@@ -45,10 +49,7 @@ Article
 [Learn more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pinpointing which instrument is out of tune
@@ -75,6 +76,10 @@ An automation leader in a company knows which instruments from the orchestra are
 
 ![Gabrielle Lukianchuk 110X110 (1)](https://static1.abbyy.com/abbyycommedia/37002/gabrielle-lukianchuk_110x110-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gabrielle Lukianchuk
 
 Chief Marketing Officer at ABBYY
@@ -83,6 +88,10 @@ Gabrielle Lukianchuk is the Chief Marketing Officer at ABBYY where she oversees 
 
 Connect with Gabrielle on [LinkedIn](https://www.linkedin.com/in/gabriellelukianchuk/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Additional Insights:
 
 1 / 3 
@@ -90,16 +99,7 @@ Connect with Gabrielle on [LinkedIn](https://www.linkedin.com/in/gabriellelukian
 [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![The Changing Role of the Finance Leader](https://static5.abbyy.com/abbyycommedia/37012/finance_1134322021_848x444.jpg) **The Changing Role of the Finance Leader** Read more](https://tools.techidaily.com/abbyy/products/) [![Three Ways AI Is Making Employees Happier](https://static2.abbyy.com/abbyycommedia/36944/ai_happier_employees_1160730188_848x444.jpg) **Three Ways AI Is Making Employees Happier** Read more](https://tools.techidaily.com/abbyy/products/) [![Welcome to The Intelligent Enterprise](https://static5.abbyy.com/abbyycommedia/37545/ulf-848x444-slate.png) **Welcome to The Intelligent Enterprise** Read more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Subscribe for updates
@@ -157,5 +157,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-boosting-stream-consistency-with-obs-fixes/"><u>[New] Boosting Stream Consistency with OBS Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-breaking-into-livestrances-a-gamers-guide-to-youtube-success/"><u>[Updated] Breaking Into Livestrances A Gamers' Guide to YouTube Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-guide-mastering-screenshot-and-screen-record-on-mac-for-2024/"><u>[Updated] Quick Guide Mastering Screenshot & Screen Record on Mac for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-f23-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power-for-2024/"><u>ASMR and You Understanding Its Healing Power for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comment-puis-je-transferer-des-donnees-de-mon-iphone-a-un-autre-avec-fonebackup/"><u>Comment Puis-Je Transférer Des Données De Mon iPhone À Un Autre Avec FoneBackup ?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/creating-conversation-a-guide-for-active-youtubers/"><u>Creating Conversation A Guide for Active YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-latest-tech-marvel-the-airpods-4-with-enhanced-locator-and-modern-usb-c-port-exclusive/"><u>Discover Apple's Latest Tech Marvel: The AirPods 4 with Enhanced Locator and Modern USB-C Port Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-15-pro-vs-iphone-ebe-13-pro-assessing-the-need-to-upgrade-with-apples-newest-offerings-zdnet/"><u>IPhone 15 Pro Vs. IPhone Ebe 13 Pro: Assessing the Need to Upgrade with Apple's Newest Offerings | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/managing-enterprise-devices-with-the-new-apple-vision-pro-an-in-depth-look/"><u>Managing Enterprise Devices with the New Apple Vision Pro: An In-Depth Look</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-24-today-on-apples-latest-bluetooth-earbuds-with-hearing-aid-compatibility-get-airpods-pro-2-from-zdnet/"><u>Save 24% Today on Apple's Latest Bluetooth Earbuds with Hearing Aid Compatibility - Get AirPods Pro 2 From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-gaming-smartphones-expert-review-and-rankings-techradar/"><u>Top 5 Gaming Smartphones : Expert Review and Rankings - TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-selection-leading-streaming-mics-unveiled/"><u>ZDNet's Ultimate Selection: Leading Streaming Mics Unveiled!</u></a></li>
+</ul></div>
 

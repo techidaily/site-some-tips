@@ -1,7 +1,7 @@
 ---
 title: Enhancing Online Experience with Cookiebot Technology
-date: 2024-09-15T16:03:39.425Z
-updated: 2024-09-17T16:05:10.524Z
+date: 2025-01-28T06:40:11.539Z
+updated: 2025-02-01T04:43:08.221Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4dd530f388b0fa3845feed6f.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY stellt Open-Source KI-Bibliothek NeoML vor
 
 16\. Juni 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Das Framework bietet Softwareentwicklern leistungsstarke Algorithmen, um die Erstellung von Anwendungen mittels Deep Learning und traditionellem maschinellen Lernen zu unterstützen._ 
 
@@ -68,18 +76,24 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-deep-dive-into-sharex-feedback-and-substitutes-for-2024/"><u>[New] Deep Dive Into ShareX Feedback & Substitutes for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leveraging-obs-for-top-notch-social-media-streaming/"><u>[New] In 2024, Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-bridging-mac-and-monetization-imovie-editing-to-youtube-success-for-2024/"><u>[Updated] Bridging Mac & Monetization IMovie Editing to YouTube Success for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixel-humorist-tools-kapwings-meme-mastery/"><u>[Updated] Pixel Humorist Tools Kapwing’s Meme Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-skyrocket-mobile-images-flawlessly-free/"><u>2024 Approved Skyrocket Mobile Images Flawlessly, Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-productivity-on-the-go-expert-picks-of-leading-ipad-apps-to-supercharge-workflow-curated-by-zdnet/"><u>Boost Your Productivity on the Go: Expert Picks of Leading iPad Apps to Supercharge Workflow | Curated by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-this-is-the-highest-quality-apple-watch-titanium-band-on-market/"><u>Discover Why This Is the Highest Quality Apple Watch Titanium Band on Market</u></a></li>
+<li><a href="https://some-tips.techidaily.com/esr-debuts-advanced-qi2-magsafe-battery-booster-supercharge-your-iphone-16-efficiently-and-coolly-insights/"><u>ESR Debuts Advanced Qi2 MagSafe Battery Booster: Supercharge Your iPhone 16 Efficiently and Coolly - Insights</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-asus-ac68u-wifi-router-speed-and-security-for-your-5g-needs/"><u>In-Depth Review of Asus AC68U WiFi Router - Speed and Security for Your 5G Needs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-email-update-problem-heres-what-to-do/"><u>IPhone Email Update Problem? Here's What to Do</u></a></li>
+<li><a href="https://some-tips.techidaily.com/massive-discount-save-700-on-the-newest-2022-ipad-pro-this-labor-day-exclusive-offer/"><u>Massive Discount: Save $700 on the Newest 2022 iPad Pro This Labor Day - Exclusive Offer</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-top-ranked-ringtones-to-enhance-your-call-experience/"><u>New Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shifting-gears-in-portable-audio-apples-bid-farewell-to-finewoven-embraces-new-era-of-beats-designed-cases-the-digital-times/"><u>Shifting Gears in Portable Audio: Apple's Bid Farewell to FineWoven, Embraces New Era of Beats-Designed Cases | The Digital Times</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-essential-macos-applications-featuring-latest-picks/"><u>Top 5 Essential macOS Applications - Featuring Latest Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-amazing-christmas-sales-on-apples-airpods-find-your-perfect-price/"><u>Top 7 Amazing Christmas Sales on Apple's AirPods: Find Your Perfect Price</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-exclusive-list-upcoming-leading-mac-computers/"><u>ZDNet's Exclusive List: Upcoming Leading Mac Computers</u></a></li>
+</ul></div>
 

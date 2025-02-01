@@ -1,7 +1,7 @@
 ---
 title: Augmenting Performance by 70%%, Deutsche Post DHL Leverages RPA & ABBYY's Intelligent Document Processor for Enhanced Productivity
-date: 2024-09-12T07:20:56.667Z
-updated: 2024-09-13T07:20:56.667Z
+date: 2025-01-31T05:08:02.167Z
+updated: 2025-02-01T00:14:25.930Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9fa867d443daa8eb75630573f.jpg
@@ -13,24 +13,23 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 CAS CLIENT | TRANSPORT ET LOGISTIQUE
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Le groupe Deutsche Post DHL accroît son efficacité de 70% avec la RPA et l’IDP ABBYY
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/dhl.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/content-images/ds-644_deutsche-post-dhl_thumbnail_1486x836.jpg?h=836&iar=0&w=1486)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Deutsche Post est le plus grand prestataire de services postaux d’Europe et appartient au groupe DHL Group, le plus grand prestataire logistique du monde. Axé sur sa croissance, DHL accélère sa transformation numérique dans tous les secteurs de l’entreprise. Intégrer l’ensemble des technologies de Deutsche Post à celles d’ABBYY a augmenté son efficacité et fait baisser les frais de transaction.
 
@@ -49,16 +48,7 @@ Deutsche Post DHL cherchait une solution pour :
 * S’intégrer à la RPA (automatisation robotisée des processus) de l’organisation
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution
@@ -68,13 +58,6 @@ Le traitement intelligent des documents (IDP) ABBYY permet à la RPA de comprend
 Automatiser le traitement des avis de paiement avec l’IDP ABBYY a permis de gagner en efficacité dans la « dernière ligne droite » du traitement des factures, ce qui s’est traduit par une baisse significative des frais de transaction.
 
 Deutsche Post a été en mesure d’automatiser une partie du processus qui nécessitait encore un travail manuel significatif et de libérer ainsi le personnel pour des interactions générant plus de valeur.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Value
 
@@ -88,25 +71,11 @@ Deutsche Post a été en mesure d’automatiser une partie du processus qui néc
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### ABBYY Solutions for Accounts Payable Automation
 
 [En savoir plus](https://tools.techidaily.com/abbyy/products/)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### PDF Version
 
@@ -115,10 +84,7 @@ Deutsche Post a été en mesure d’automatiser une partie du processus qui néc
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### En savoir plus sur ABBYY 
@@ -138,5 +104,22 @@ Deutsche Post a été en mesure d’automatiser une partie du processus qui néc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mac-acoustic-arena-deep-dive/"><u>[New] 2024 Approved Mac Acoustic Arena Deep Dive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-guide-for-powerdirector-experts-2024/"><u>[New] Complete Guide for PowerDirector Experts - 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-slowing-down-action-iphone-filmmaking-tricks-for-2024/"><u>[New] Slowing Down Action IPhone Filmmaking Tricks for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/asuswindows-114/"><u>ASUS电脑在Windows 11下的重置指南——4个不错的方式来回到出厂设置</u></a></li>
+<li><a href="https://some-tips.techidaily.com/detecting-iphones-airtag-surveillance-a-guide-to-protect-your-privacy/"><u>Detecting iPhone's AirTag Surveillance: A Guide to Protect Your Privacy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-a-budget-friendly-20-anker-power-bank-solves-portability-woes-featured-by-zdnet-experts/"><u>Discover How a Budget-Friendly $20 Anker Power Bank Solves Portability Woes, Featured by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-exciting-advances-of-watchos-11-how-it-boosts-your-apple-watch-experience/"><u>Discover the Exciting Advances of WatchOS 11 - How It Boosts Your Apple Watch Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-latest-game-changing-wellness-functions-launched-by-apple/"><u>Discover the Latest Game-Changing Wellness Functions Launched by Apple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fix-your-iphones-deteriorated-battery-post-ios-1751-update-with-7-effective-solutions/"><u>Fix Your iPhone's Deteriorated Battery Post-iOS 17.5.1 Update with 7 Effective Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-avoid-watermarks-in-stock-purchases/"><u>How To Avoid Watermarks in Stock Purchases</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-sail-through-social-media-instagrams-reel-mastery-secrets/"><u>In 2024, Sail Through Social Media Instagram's Reel Mastery Secrets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-the-secrets-to-captioning-stories-and-reels/"><u>In 2024, Unveiling the Secrets to Captioning Stories and Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-video-production-unleashed-apple-introduces-final-cut-pro-on-the-iphone-exclusive-details/"><u>Professional Video Production Unleashed: Apple Introduces Final Cut Pro on the iPhone - Exclusive Details</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-expert-picks/"><u>Top-Rated iPhone 12 & Pro Protective Covers: Expert Picks</u></a></li>
+</ul></div>
 

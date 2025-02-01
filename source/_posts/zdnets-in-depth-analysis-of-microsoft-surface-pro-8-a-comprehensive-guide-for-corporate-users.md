@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2025-01-22T19:16:07.986Z
-updated: 2025-01-24T17:30:46.791Z
+date: 2025-01-26T23:29:17.086Z
+updated: 2025-02-01T02:01:52.400Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -91,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -128,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -140,6 +140,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -153,6 +157,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -165,15 +173,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,20 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>[New] In 2024, Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ackling-teal-turmoil-eliminate-green-screen-glitches-mac-edition/"><u>[New] Tackling Teal Turmoil Eliminate Green Screen Glitches (Mac Edition)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-ps4-screens-with-obs-full-steps/"><u>[Updated] 2024 Approved Mastering PS4 Screens with OBS Full Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/42937483-updated-2024-approved-youtube-snippets-guide-essential-info-inside/"><u>[Updated] 2024 Approved YouTube Snippets Guide Essential Info Inside!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlock-the-secrets-of-building-budget-friendly-youtube-ads/"><u>[Updated] In 2024, Unlock the Secrets of Building Budget-Friendly YouTube Ads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-paint-perfection-experts-guide-to-color-transformation/"><u>[Updated] Paint Perfection Expert's Guide to Color Transformation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>2024 Approved Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-the-latest-tech-google-pixel-watch-2-vs-apple-watch-series-9-which-offers-more-value-for-money/"><u>Comparing the Latest Tech: Google Pixel Watch 2 Vs. Apple Watch Series 9 - Which Offers More Value for Money?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cyber-satirist-studio/"><u>Cyber Satirist Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-your-dream-of-apple-sports-come-true-a-free-and-user-friendly-iphone-app-reviewed-by-experts/"><u>Experience Your Dream of Apple Sports Come True: A Free and User-Friendly iPhone App Reviewed by Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-next-frontier-apples-involvement-in-developing-affordable-ar-glasses-insights/"><u>Exploring the Next Frontier: Apple's Involvement in Developing Affordable AR Glasses - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apple-is-executing-the-macbook-owner-payoff-plan-under-class-action-agreement-wired/"><u>How Apple Is Executing the MacBook Owner Payoff Plan Under Class Action Agreement | Wired</u></a></li>
-<li><a href="https://some-tips.techidaily.com/install-macos-15-sequoia-beta-today-easy-step-by-step-tutorial-to-upgrade-your-macbook-or-mac-with-the-new-update-zdnet/"><u>Install macOS 15 Sequoia Beta Today! Easy Step-by-Step Tutorial to Upgrade Your MacBook or Mac with the New Update | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-18-transforms-iphone-14-into-a-creative-powerhouse-for-seamless-content-making-insights/"><u>IOS 18 Transforms iPhone 14 Into a Creative Powerhouse for Seamless Content Making - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ready-to-upgrade-your-iphone-discover-the-latest-anker-charger-gadgets-exclusive-tips/"><u>Ready to Upgrade Your iPhone? Discover the Latest Anker Charger Gadgets - Exclusive Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-essentials-of-gameplay-saving-a-complete-guide-to-recording-minecraft-on-mac/"><u>[New] 2024 Approved The Essentials of Gameplay Saving A Complete Guide to Recording Minecraft on Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-noise-free-recording-strategy/"><u>[New] 2024 Approved The Ultimate Noise-Free Recording Strategy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-solved-obs-full-screen-not-working-for-2024/"><u>[Updated] [Solved] OBS Full Screen Not Working for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-comprehensive-analysis-strengths-and-weaknesses-of-the-new-open-source-security-legislation/"><u>A Comprehensive Analysis: Strengths and Weaknesses of the New Open Source Security Legislation</u></a></li>
+<li><a href="https://win-unique.techidaily.com/can-you-trust-windows-defender-for-cybersecurity-a-comprehensive-review-by-yl-software-expertise/"><u>Can You Trust Windows Defender for Cybersecurity? A Comprehensive Review by YL Software Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-your-favorite-songs-from-pandora-for-free-top-2-reliable-apps/"><u>Download Your Favorite Songs From Pandora for Free: Top 2 Reliable Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers/"><u>In 2024, Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-linux-vulnerabilities-can-we-secure-our-systems-if-every-kernel-bug-puts-us-at-risk/"><u>Navigating Linux Vulnerabilities: Can We Secure Our Systems If Every Kernel Bug Puts Us at Risk?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tech-success-how-stack-overflows-cto-scaled-one-of-the-internets-largest-communities-insights-on-zdnet/"><u>Navigating Tech Success: How Stack Overflow's CTO Scaled One of the Internet’s Largest Communities, Insights on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ops/"><u>Ops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-interaction-facebooks-new-audio-capabilities/"><u>Revolutionizing Interaction: Facebook's New Audio Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-comeback-trail-understanding-the-surge-in-popularity-for-openstack-and-kata-containers-insights-from-zdnet/"><u>The Comeback Trail: Understanding the Surge in Popularity for OpenStack & Kata Containers - Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-c22-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia C22 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/whats-next-for-winamp-exploring-its-new-direction-beyond-the-open-source-pathway-insights-from-zdnet/"><u>What's Next for Winamp? Exploring Its New Direction Beyond the Open Source Pathway - Insights From ZDNet</u></a></li>
 </ul></div>
 

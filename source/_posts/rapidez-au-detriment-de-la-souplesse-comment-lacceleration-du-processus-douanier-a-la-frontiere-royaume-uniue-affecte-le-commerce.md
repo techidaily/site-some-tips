@@ -1,7 +1,7 @@
 ---
 title: "Rapidez Au Détriment De La Souplesse : Comment L'accélération Du Processus Douanier À La Frontière Royaume-Uni/UE Affecte Le Commerce"
-date: 2024-09-21T18:14:08.705Z
-updated: 2024-09-22T16:42:40.694Z
+date: 2025-01-25T05:15:11.350Z
+updated: 2025-01-31T21:25:13.376Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19fd97cadc5d42f68a2d04c9c.png
@@ -17,11 +17,19 @@ CAS CLIENT | TRANSPORT ET LOGISTIQUE
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/customstrack_logo_2024_white.png?h=32&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Les lourdeurs administratives causées par le BREXIT des deux côtés de la frontière nouvellement rétablie entre le Royaume-Uni et l’UE étaient un vrai casse-tête pour les fabricants. CustomsTrack est une start-up qui utilise l’intelligence artificielle pour simplifier les procédures complexes d’import-export. Elle a repéré le potentiel de l’automatisation intelligente pour simplifier et accélérer significativement les procédures de remplissage des documents auprès des douanes nationales.
 
 Nous avions à l’esprit l’aspect juridique des déclarations de douane et la nécessité de la plus haute importance qu’elles soient justes. Avec l’IDP d’ABBYY, nous avons 100% de justesse et 99% de traitement d’une traite.
 
 Joe Corcoran, Consultant principal chez CustomsTrack
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Défi
 
@@ -29,23 +37,14 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 * Le processus est lent et fastidieux. La saisie manuelle des données dans les systèmes nationaux de douane est lente, coûteuse et source d’erreurs.
 * Les retards aux douanes, dus à des informations manquantes ou incorrectes, sont un problème, en particulier pour les fabricants de biens de consommation courants.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution
 
 * La solution de traitement intelligent des documents (IDP) ABBYY extrait les données des factures commerciales et des listes de colisage avec près de 100% de justesse. Les données sont envoyées vers la solution de CustomsTrack pour faire automatiquement les déclarations de douane d’import et export et les remplir dans les systèmes de douane nationaux.
 * Avec la solution CustomsTrack, les entreprises internationales peuvent prendre la maîtrise des opérations douanières, sans avoir besoin de recourir aux services de courtiers en douane, lesquels accroissent les coûts et la complexité du processus.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Value
 
@@ -63,10 +62,7 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### ABBYY Solutions for Accounts Payable Automation
@@ -80,6 +76,10 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 [Lire le document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/CustomsTrack-case-study-intelligent-document-processing-fr.pdf)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### En savoir plus sur ABBYY 
 
@@ -98,5 +98,19 @@ Joe Corcoran, Consultant principal chez CustomsTrack
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-the-dynamics-of-collaborative-marketing-on-youtube-for-2024/"><u>[New] The Dynamics of Collaborative Marketing on YouTube for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-guide-to-spinning-and-combining-video-files/"><u>2024 Approved Android's Guide to Spinning & Combining Video Files</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/windowsmachd/"><u>改進Windows和Mac電視影片解析度：達成HD或更高分辨率的指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-to-remove-unwanted-screen-marks-from-televisions/"><u>Effective Techniques to Remove Unwanted Screen Marks From Televisions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-windows-and-macos-utilities-a-comprehensive-guide-of-11-key-software-recommendations-zdnet/"><u>Essential Windows and macOS Utilities: A Comprehensive Guide of 11 Key Software Recommendations | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-appeal-of-the-light-phone-3s-simplicity-and-mechanical-features/"><u>Exploring the Appeal of the Light Phone 3'S Simplicity and Mechanical Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-markets-elite-aquaproof-smartwatches-of-2024-thorough-testing-and-analysis/"><u>Exploring the Market's Elite Aquaproof Smartwatches of 2024: Thorough Testing and Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973953441-get-the-perfect-fit-epson-wf-2630-drivers-compatible-with-your-windows-os-version-download-here/"><u>Get the Perfect Fit: Epson WF-2630 Drivers Compatible with Your Window's OS Version - Download Here!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-multiple-network-interfaces-on-macos-for-enhanced-connectivity-options-tech-advice/"><u>Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options | Tech Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-11-unbeatable-savings-on-apple-watches-in-july-2024-latest-offers/"><u>Top 11 Unbeatable Savings on Apple Watches in July 2024 - Latest Offers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-gadgets-and-enhancements-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MacBook Gadgets & Enhancements of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+</ul></div>
 

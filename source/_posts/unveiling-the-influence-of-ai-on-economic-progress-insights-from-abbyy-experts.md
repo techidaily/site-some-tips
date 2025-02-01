@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Influence of AI on Economic Progress: Insights From ABBYY Experts"
-date: 2024-09-12T16:11:21.966Z
-updated: 2024-09-17T16:14:48.382Z
+date: 2025-01-27T17:29:43.871Z
+updated: 2025-02-01T03:42:49.838Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98ab568e20793fc881abc0b40e.jpg
@@ -16,9 +16,17 @@ Impact of the Economy on AI Priorities
 
 ![](https://static1.abbyy.com/abbyycommedia/37808/state-of-intelligent-automation-report-abbyy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The economy may have had a downward impact on enterprise investments, but these increased exponentially when implementing AI, according to 82% of IT executives.
 
 This survey reveals details about AI investments, ROI expected and achieved, budget priorities, technologies and processes used, benefits gained, and employees’ mindsets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download it now!
 
@@ -26,34 +34,26 @@ This research was conducted by Sapio Research in July 2023 on behalf of ABBYY. 1
 
 This report reveals average global results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Thank you for your interest in ABBYY.
 
 [Download now](https://digital.abbyy.com/hubfs/documents/content/State-of-Intelligent-Automation-Report-ABBYY.pdf "Download now") 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### You might also be interested in...
 
 [![How Financial Services Firms Are Becoming More Resilient Than Ever](https://static3.abbyy.com/abbyycommedia/33034/66-how-financial-services-firms-are-becoming-more-resilient-en-360x232.jpg) How Financial Services Firms Are Becoming More Resilient Than Ever See infographic](https://static1.abbyy.com/abbyycommedia/33035/infographic-financialservices-firms-resiliency-en.pdf "How Financial Services Firms Are Becoming More Resilient Than Ever")[![Digital Strategies in Financial Services—Survey Results](https://static5.abbyy.com/abbyycommedia/34405/112-digital-strategies-in-financial-services-en-360x232.jpg) Digital Strategies in Financial Services—Survey Results Learn more](https://www.abbyy.com/resources/report/financial-services-digital-strategies-survey/ "Digital Strategies in Financial Services—Survey Results")[![Taking the Pulse on Digital Transformation in Financial Services](https://static1.abbyy.com/abbyycommedia/34654/122-taking-the-pulse-on-digital-transformation-in-financial-services-en-360x232.jpg) Taking the Pulse on Digital Transformation in Financial Services See infographic](https://static1.abbyy.com/abbyycommedia/34655/infographic-financialservices-digitaltransformationsurvey-en.pdf "Taking the Pulse on Digital Transformation in Financial Services") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
@@ -123,5 +123,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ransformative-techniques-to-mute-background-noise/"><u>[New] Transformative Techniques to Mute Background Noise</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dawn-of-new-horizons-lighten-up-your-android-vids/"><u>[Updated] 2024 Approved Dawn of New Horizons Lighten Up Your Android Vids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-excellent-canon-temp-video-series/"><u>2024 Approved Crafting Excellent Canon Temp Video Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complete-guide-iphone-models-supporting-ios-18-and-others-that-dont-insights-from-zdnet/"><u>Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-2024-selection-of-premium-ceiling-speakers/"><u>Discover the Ultimate 2024 Selection of Premium Ceiling Speakers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-action-cameras-for-thrill-seekers/"><u>Elite Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-apples-latest-ai-breakthroughs-missed-opportunities-and-future-prospects/"><u>Exploring Apple's Latest AI Breakthroughs: Missed Opportunities and Future Prospects</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a15-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A15 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-13t-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi 13T Pro Phone Network-Ready</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-savings-alert-snag-your-apple-airtags-at-walmarts-limited-time-offer-up-to-24-off-per-pack-cnet-news/"><u>Labor Day Savings Alert: Snag Your Apple AirTags at Walmart's Limited Time Offer, Up to $24 Off per Pack! | CNET News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-cutting-edge-ipad-enhancers-for-2atury-2023-reviewed-by-zdnet/"><u>Ultimate Guide to Cutting-Edge iPad Enhancers for 2Atury 2023 Reviewed by ZDNET</u></a></li>
+</ul></div>
 

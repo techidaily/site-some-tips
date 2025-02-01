@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Trending Images  Tales Behind the Graphics\""
-date: 2024-08-08T08:25:41.784Z
-updated: 2024-08-09T08:25:41.784Z
+date: 2025-01-28T06:15:01.883Z
+updated: 2025-01-31T22:08:45.839Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,11 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
 * The stock photo meme guy conducted a TEDx talk in his native Ukraine in September 2018\. During the talk, Mr. Andras Arato, a 73-year-old retired electrical engineer, speaks on his fame as a meme-personality and his profession. Currently, the video has nearly 7.87 million views on TEDx's official YouTube channel.
@@ -42,16 +43,18 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -60,9 +63,6 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -76,16 +76,14 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -94,19 +92,17 @@ The meme features a couple in bed with the stock photo meme guy in contemplation
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -114,12 +110,13 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
@@ -132,6 +129,10 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
@@ -148,9 +149,6 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -189,10 +187,18 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>[New] In 2024, From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-decadal-review-of-kubernetes-shaping-the-evolution-of-cloud-native-tech-and-exploring-its-horizons-zdnet-insights/"><u>A Decadal Review of Kubernetes: Shaping the Evolution of Cloud-Native Tech and Exploring Its Horizons | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-genai-how-telecom-companies-can-leverage-commercial-applications-like-5g-pioneers-did/"><u>Advancing GenAI: How Telecom Companies Can Leverage Commercial Applications Like 5G Pioneers Did</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-cloud-introduces-new-chatgpt-inspired-ai-services-for-clients-and-developers-zdnet/"><u>Alibaba Cloud Introduces New ChatGPT-Inspired AI Services for Clients & Developers | ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cutting-edge-techniques-making-mac-videos-for-snapchat/"><u>Cutting-Edge Techniques Making Mac Videos for Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosis-complete-tackling-simultaneous-fps-drops-for-enhanced-pc-gaming-experience/"><u>Diagnosis Complete: Tackling Simultaneous FPS Drops for Enhanced PC Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diversify-your-income-engage-in-chatgpt-assignments-navigate-the-world-of-personal-computer-builds-and-handheld-game-console-collecting-tips/"><u>Diversify Your Income: Engage in ChatGPT Assignments, Navigate the World of Personal Computer Builds & Handheld Game Console Collecting Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-choice-for-optimal-network-surveillance-software-cnet/"><u>Experts' Choice for Optimal Network Surveillance Software | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-llms-nvidia-and-snowflakes-joint-venture-explored-by-zdnet/"><u>Harnessing the Power of LLMs: Nvidia and Snowflake's Joint Venture Explored by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-new-identity-changing-username-and-tagline-at-riot-game/"><u>Step Into a New Identity: Changing Username & Tagline at Riot Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-troubleshooting-and-fixing-helperdll-issues/"><u>Ultimate Guide: Troubleshooting and Fixing Helper.dll Issues</u></a></li>
+</ul></div>
 

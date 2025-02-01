@@ -1,7 +1,7 @@
 ---
 title: "Automated with Cookiebot: Streamlining Your Website's Data Collection"
-date: 2024-09-19T19:14:18.656Z
-updated: 2024-09-22T18:16:00.516Z
+date: 2025-01-27T04:29:39.936Z
+updated: 2025-02-01T03:00:46.395Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d1c89bac2789b98350d1bacd.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Launches No-Code Platform Vantage 2 and AI Marketplace to Reimagine Digital Transformation
 
 March 23, 2021
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Vantage 2 delivers ready-to-use AI skills for intelligent automation. The ABBYY Marketplace allows users to try cognitive skills to accelerate their automation initiatives._ 
 
@@ -79,12 +87,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[New] 2024 Approved From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-guide-to-inshot-and-laptop-editing/"><u>[New] A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-podcast-style-unboxing-for-2024/"><u>[New] The Ultimate Guide to Podcast-Style Unboxing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-siri-and-beyond-techsavvy/"><u>Comprehensive List of All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements: Siri and Beyond | TechSavvy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-exciting-features-exploring-the-new-possibilities-of-iphones-ios-18-beta-version/"><u>Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-quality-and-sophistication-in-the-newest-lg-smartwatch-with-wear-os-20-features-reviewed/"><u>Discovering Quality and Sophistication in the Newest LG Smartwatch with Wear OS 2.0 Features Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-budding-builders-simple-stylish-mc-habitats/"><u>In 2024, Budding Builders Simple, Stylish MC Habitats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>In 2024, The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-apple-watch-series-10-a-game-changer-comparing-features-with-the-series-cued-in-ready-to-enhance-your-tech-lifestyle/"><u>Is the Apple Watch Series 10 a Game-Changer? Comparing Features with the Series Cued in, Ready to Enhance Your Tech Lifestyle.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-rankings-showcase-samsungs-comeback-above-apple-with-emerging-competitor-on-the-horizon-latest-analysis/"><u>New Rankings Showcase Samsung's Comeback Above Apple with Emerging Competitor on the Horizon | Latest Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-leap-in-privacy-with-apples-on-device-ai-realang-surpasses-gpt-4-says-tech-giant-insights-for-tomorrow/"><u>Revolutionary Leap in Privacy with Apple’s On-Device AI ReaLang Surpasses GPT-4, Says Tech Giant - Insights for Tomorrow</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-tablets-and-laptops-for-creative-professionals-in-depth-analysis-by-tech-experts/"><u>Top-Rated Graphics Tablets & Laptops for Creative Professionals - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-tablets-professional-evaluation-and-comprehensive-reviews-by-tech-experts-on-zdnet/"><u>Top-Rated Tablets : Professional Evaluation & Comprehensive Reviews by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-correct-blue-screen-of-death-bsod-due-to-ndis-drivers/"><u>Troubleshooting Steps to Correct Blue Screen of Death (BSOD) Due to NDIS Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-release-apple-unveils-plans-for-new-129-ipad-pro-and-two-oled-models-set-to-hit-market-by-early-2024-insights/"><u>Upcoming Release: Apple Unveils Plans for New 12.9 iPad Pro & Two OLED Models Set to Hit Market by Early 2024 - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-iphone-15-excels-in-meeting-demands-of-seasoned-users-in-depth-review-by-zdnet-experts/"><u>Why the iPhone 15 Excels in Meeting Demands of Seasoned Users | In-Depth Review by ZDNET Experts</u></a></li>
+</ul></div>
 

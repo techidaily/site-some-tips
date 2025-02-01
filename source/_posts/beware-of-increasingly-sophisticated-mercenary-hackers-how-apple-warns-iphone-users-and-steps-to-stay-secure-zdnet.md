@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2025-01-21T17:19:04.913Z
-updated: 2025-01-24T19:05:42.846Z
+date: 2025-01-26T21:22:34.909Z
+updated: 2025-02-01T01:19:21.285Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,21 +119,19 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-deciphering-streamer-dominance-twitch-vs-youtube-showdown/"><u>[New] In 2024, Deciphering Streamer Dominance Twitch vs YouTube Showdown</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/adjust-your-android-images-right-here-for-2024/"><u>Adjust Your Android Images Right Here for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-introduces-enhanced-airpods-4-with-innovative-find-my-functionality-and-modern-usb-c-interface-insights/"><u>Apple Introduces Enhanced AirPods 4 with Innovative Find My Functionality and Modern USB-C Interface - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-apple-discover-the-best-rechargeable-airtag-compatible-with-iphones-featured-review-by-zdnet/"><u>Beyond Apple: Discover the Best Rechargeable AirTag Compatible With iPhones | Featured Review by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-apples-laptop-evolution-m3-vs-m1-macbook-pro-is-an-upgrade-worthwhile/"><u>Comparing Apple's Laptop Evolution: M3 Vs. M1 MacBook Pro - Is an Upgrade Worthwhile?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-qi2-fast-charging-for-your-iphone-12-no-magsafe-required-guide/"><u>Effortless Qi2 Fast Charging for Your iPhone 12, No MagSafe Required Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-apple-tv-experience-with-easy-to-attach-airtag-trackers-discover-how/"><u>Enhance Your Apple TV Experience with Easy-to-Attach AirTag Trackers - Discover How!</u></a></li>
-<li><a href="https://win-best.techidaily.com/free-web-based-converter-transform-opus-to-wma-using-moveai/"><u>Free Web-Based Converter: Transform Opus to WMA Using Move.ai</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-razr-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Razr 40</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone 8 Plus</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>In 2024, The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphones-dominate-securing-the-leading-positions-as-worlds-best-selling-phones-for-the-first-time-insights/"><u>IPhones Dominate: Securing the Leading Positions as World's Best-Selling Phones for the First Time - Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/monetization-face-off-analyzing-dailymovement-and-youtube-profits/"><u>Monetization Face-Off Analyzing DailyMovement and Youtube Profits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stay-connected-on-the-go-receive-friend-and-family-updates-via-apple-watch-notifications/"><u>Stay Connected on the Go: Receive Friend and Family Updates via Apple Watch Notifications</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-10-youtube-makeup-gurus-for-stunning-looks-for-2024/"><u>Top 10 YouTube Makeup Gurus for Stunning Looks for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-enhancing-video-quality-callout-techniques-for-engaging-edits/"><u>[New] 2024 Approved Enhancing Video Quality Callout Techniques for Engaging Edits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-resource-for-profiting-from-your-youtube-content/"><u>[New] In 2024, The Ultimate Resource for Profiting From Your YouTube Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>[Updated] 2024 Approved Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-banner-bliss-get-a-peek-at-our-library-of-50-free-youtube-banners/"><u>[Updated] In 2024, Banner Bliss Get a Peek at Our Library of 50 Free YouTube Banners!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/debunking-ai-size-supremacy-how-amazons-experts-show-bigger-isnt-better-for-alexa-deep-dive-with-zdnet/"><u>Debunking AI Size Supremacy: How Amazon's Experts Show Bigger Isn't Better for Alexa | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-most-accurate-and-user-friendly-storm-trackers-for-202n4/"><u>Discover the Most Accurate and User-Friendly Storm Trackers for 202N4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-at-stack-overflow-transforming-from-startup-to-leading-online-tech-community-zdnet/"><u>Evolution at Stack Overflow: Transforming From Startup to Leading Online Tech Community | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-and-rust-with-linus-torvalds-the-essential-role-of-the-linux-kernel/"><u>Exploring AI & Rust with Linus Torvalds: The Essential Role of the Linux Kernel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-streamline-linux-open-source-manuals-for-clarity-and-efficiency-codecraft-solutions/"><u>How To Streamline Linux Open Source Manuals for Clarity and Efficiency | CodeCraft Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>In 2024, Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/metas-ambitious-global-language-project-struggles-with-hurdles-in-greek-armenian-and-oromo-languages-a-deep-dive-by-zdnet/"><u>Meta's Ambitious Global Language Project Struggles with Hurdles in Greek, Armenian, and Oromo Languages - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-best-of-both-worlds-top-split-screen-video-editing-apps-for-ios-and-android/"><u>New In 2024, The Best of Both Worlds Top Split-Screen Video Editing Apps for iOS & Android</u></a></li>
+<li><a href="https://win-top.techidaily.com/overcoming-technology-dilemmas-solving-the-primary-boot-device-missing-error-a-comprehensive-tutorial-on-recovering-from-startup-issues/"><u>Overcoming Technology Dilemmas: Solving the 'Primary Boot Device Missing Error' - A Comprehensive Tutorial on Recovering From Startup Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/potential-risks-for-tech-businesses-amidst-russian-invasion-of-ukraine-an-analysis-by-zdnet/"><u>Potential Risks for Tech Businesses Amidst Russian Invasion of Ukraine - An Analysis by ZDNet</u></a></li>
 </ul></div>
 

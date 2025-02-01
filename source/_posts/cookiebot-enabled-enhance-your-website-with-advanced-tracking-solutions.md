@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Website with Advanced Tracking Solutions"
-date: 2024-09-16T19:28:23.303Z
-updated: 2024-09-22T17:34:45.322Z
+date: 2025-01-24T17:14:37.900Z
+updated: 2025-02-01T00:22:03.661Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df5033d9cd0a341320bf7b8e56fa.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Christian Marquardt neuer Channel-Chef bei ABBYY Europe
 
 19\. September 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY®, ein globaler Anbieter von Lösungen und Services für Content Intelligence, stellt mit Christian Marquardt einen neuen Channel-Chef für die europäischen Kernregionen an. Marquardt wird ab sofort in der Rolle des Director of Partnerships & Alliances DACH, BeNelux, France & UK das Wachstum des Partnergeschäfts in den Tier-1-Regionen in Europa weiter vorantreiben.
 
@@ -70,12 +78,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-free-after-effects-title-templates/"><u>[New] 2024 Approved Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-best-20-facebook-jail-memes-to-brighten-up-your-day/"><u>[New] In 2024, Best 20 Facebook Jail Memes to Brighten Up Your Day</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-8-criteria-when-expanding-your-4k-setup/"><u>[New] In 2024, Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-joining-friends-showtime-on-tiktok-with-ease-for-2024/"><u>[New] Joining Friends’ Showtime on TikTok with Ease for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-free-youtube-image-saver-compilation/"><u>[Updated] 2024 Approved Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-maintains-strict-iphone-controls-across-european-markets-despite-pressure-an-in-depth-look-by-zdnet/"><u>Apple Maintains Strict iPhone Controls Across European Markets, Despite Pressure: An In-Depth Look by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-surprises-during-super-bowl-season-with-top-marketing-campaign-a-non-super-bowl-player-steals-the-spotlight/"><u>Apple Surprises During Super Bowl Season with Top Marketing Campaign: A Non-Super Bowl Player Steals the Spotlight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-emerging-language-models-threatening-to-replace-established-search-engines-like-googles/"><u>Are Emerging Language Models Threatening to Replace Established Search Engines Like Google's?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/avoid-these-dangers-why-generating-windows-11-licenses-with-ai-chatbots-isnt-ideal/"><u>Avoid These Dangers: Why Generating Windows 11 Licenses with AI Chatbots Isn't Ideal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-enhanced-hotel-experiences-the-new-apple-airplay-feature-in-select-properties-a-comprehensive-guide/"><u>Discover Enhanced Hotel Experiences: The New Apple AirPlay Feature in Select Properties – A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126943-9781612831343-energy-work/"><u>Energy Work | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-airpods-timeline-revealed-key-facts-preorder-tips-and-official-sources-digitalwave-news/"><u>New AirPods Timeline Revealed: Key Facts, Preorder Tips & Official Sources | DigitalWave News</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permission-barriers-in-windows-updates/"><u>Overcoming Permission Barriers in Windows Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-device-interaction-how-apple-empowers-users-through-cutting-edge-eye-tracking-for-iphone-and-ipad-techsavvy/"><u>Revolutionizing Device Interaction: How Apple Empowers Users Through Cutting-Edge Eye Tracking for iPhone & iPad | TechSavvy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-th-of-july-phone-deals/"><u>The Best #Th of July Phone Deals .</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-showdown-features-benefits-and-differences-between-apple-watch-ultra-vs-series-8-guide/"><u>Ultimate Showdown: Features, Benefits & Differences Between Apple Watch Ultra Vs. Series 8 Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-your-ipad-expert-tips-and-setup-essentials-for-apple-enthusiasts/"><u>Unlocking the Full Potential of Your iPad: Expert Tips and Setup Essentials for Apple Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-expert-analysis-the-microsoft-surface-pro-8-in-the-business-environment-is-it-worth-your-investment/"><u>ZDNet's Expert Analysis: The Microsoft Surface Pro 8 in the Business Environment – Is It Worth Your Investment?</u></a></li>
+</ul></div>
 

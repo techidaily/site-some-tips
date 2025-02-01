@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Hyperautomation Through ABBYY: Unifying Computer Vision and Large Language Models with IDP Integration"
-date: 2024-09-12T07:20:37.478Z
-updated: 2024-09-13T07:20:37.478Z
+date: 2025-01-25T00:47:32.918Z
+updated: 2025-01-31T16:47:53.856Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb060c4006d4413191770c2a7d.png
@@ -12,10 +12,7 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Successfully Integrate Computer Vision, Large Language Models, and Intelligent Document Processing
@@ -43,10 +40,7 @@ White paper
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Claims automation: An ABBYY Vantage use case
@@ -118,5 +112,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-next-gen-vr-accessories-your-must-have-guide/"><u>[New] In 2024, Next-Gen VR Accessories Your Must-Have Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-intelligence-unveiled-why-investing-in-an-iphone-16-may-not-be-worth-it-insights/"><u>Apple Intelligence Unveiled: Why Investing in an iPhone 16 May Not Be Worth It - Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>Device unlock Infinix Smart 8 HD</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-if-someones-using-an-airtag-to-monitor-your-whereabouts-insights-from-tech-expert/"><u>Discover If Someone's Using an AirTag To Monitor Your Whereabouts - Insights From Tech Expert</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-methods-to-refresh-your-browser-with-updates-yl-software-solutions/"><u>Easy Methods to Refresh Your Browser with Updates - YL Software Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-offer-alert-the-latest-ipad-9th-gen-is-yours-for-just-250-after-apples-cutting-edge-announcement-zdnet/"><u>Exclusive Offer Alert: The Latest iPad (9Th Gen) Is Yours for Just $250 After Apple's Cutting-Edge Announcement | ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/banner-templates-and-makers-for-youtube/"><u>Free Banner Templates & Makers for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-the-department-of-justices-lawsuit-against-apple-affects-iphone-consumers-and-third-party-developers-innovation-hub/"><u>How the Department of Justice's Lawsuit Against Apple Affects iPhone Consumers & Third-Party Developers | Innovation Hub</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-updated-conversation-strategies-for-podcast-growth/"><u>In 2024, Updated Conversation Strategies for Podcast Growth</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-your-bluetooth-mouse-failing-to-connect-with-windows-pcs/"><u>Solving the Problem of Your Bluetooth Mouse Failing to Connect with Windows PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/startling-audience-with-compelling-intros/"><u>Startling Audience with Compelling Intros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-how-apples-latest-m2-tablet-outshines-competitors-comprehensive-review-by-zdnet/"><u>Top Picks : How Apple's Latest M2 Tablet Outshines Competitors | Comprehensive Review by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-150-off-with-an-apple-gift-card-for-educational-tablets-or-computers-get-started-now-insights/"><u>Unlock $150 Off with an Apple Gift Card for Educational Tablets or Computers – Get Started Now Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnet-explores-how-modern-companies-prioritize-customers-at-all-job-ranks/"><u>ZDNet Explores How Modern Companies Prioritize Customers at All Job Ranks</u></a></li>
+</ul></div>
 

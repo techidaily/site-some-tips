@@ -1,7 +1,7 @@
 ---
 title: ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type
-date: 2024-09-13T16:18:13.397Z
-updated: 2024-09-17T16:12:14.362Z
+date: 2025-01-27T18:53:08.088Z
+updated: 2025-02-01T02:58:07.195Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f2561431aa2bb888dda851d0.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Enters New Path in Document Classification
 
 January 12, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Now available in Western Europe: New language-based ABBYY Smart Classifier helps businesses to get a grip on big content, sort unstructured information and turn it into action_ 
 
@@ -65,12 +73,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats/"><u>[New] 2024 Approved Delving Into the Meaning of a Mysterious Blue Marker in FB Chats</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-video-storytelling-adding-music-to-instareels/"><u>[New] In 2024, Elevate Video Storytelling Adding Music to InstaReels</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-seo-guide-how-to-improve-youtube-videos-rankings/"><u>[Updated] 2024 Approved YouTube SEO Guide How to Improve YouTube Videos Rankings</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/achieving-pristine-soundtracks-effortless-noise-suppression-in-audacity-and-filmorapro-for-2024/"><u>Achieving Pristine Soundtracks Effortless Noise Suppression in Audacity and FilmoraPro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-release-delayed-solutions-for-installation-issues/"><u>Alan Wake 2 Release Delayed: Solutions for Installation Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-revolutionary-m2-ipad-air-the-definitive-tablet-purchase-guide-for-todays-shopper-gadgetcentral/"><u>Apple's Revolutionary M2 iPad Air: The Definitive Tablet Purchase Guide for Today's Shopper | GadgetCentral</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-use-vlc-for-professional-screen-recording-for-2024/"><u>How to Use VLC for Professional Screen Recording for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-audio-file-editing-convert-m4a-to-3gp-for-free-using-movavis-web-based-tool/"><u>Seamless Audio File Editing: Convert M4A to 3GP For Free Using Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-protection-at-a-glance-choosing-the-ideal-smart-lock-for-iphone-users-zdnet-reviews/"><u>Seamless Protection at a Glance: Choosing the Ideal Smart Lock for iPhone Users | ZDNet Reviews</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-pc-download-no-cost-amd-radeon-hd-graphics-drivers-for-windows-8-systems/"><u>Secure Your PC: Download No-Cost AMD Radeon HD Graphics Drivers for Windows 8 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-maddening-iphone-glitch-what-apple-must-do-next/"><u>Solving the Maddening iPhone Glitch - What Apple Must Do Next</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-connected-instantly-mastering-contact-communication-via-apple-watch-tips/"><u>Stay Connected Instantly: Mastering Contact Communication via Apple Watch – Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-overcoming-the-valheim-version-conflict-on-pc/"><u>Step-by-Step Guide: Overcoming the Valheim Version Conflict on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-35plus-amazing-amazon-prime-day-tablet-bargains-available-comprehensive-guide/"><u>Top 35+ Amazing Amazon Prime Day Tablet Bargains Available Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-amazon-offers-in-september-2024-you-cant-miss-featuring-expert-insights/"><u>Top-Rated Amazon Offers in September 2024 You Can't Miss! Featuring Expert Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-apples-universal-control-expert-tips-for-effortless-ipad-and-mac-integration-insights-from-zdnet/"><u>Unlock the Power of Apple's Universal Control: Expert Tips for Effortless iPad & Mac Integration | Insights From ZDNET</u></a></li>
+</ul></div>
 

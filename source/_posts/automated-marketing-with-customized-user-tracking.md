@@ -1,7 +1,7 @@
 ---
 title: Automated Marketing with Customized User Tracking
-date: 2024-09-16T16:11:33.621Z
-updated: 2024-09-17T16:06:30.276Z
+date: 2025-01-26T05:46:17.419Z
+updated: 2025-01-31T17:56:11.531Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d876d04dbe1c258634355223be.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 ## Automated Marketing with Customized User Tracking
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 「今こそ業務プロセスを把握し、業務の自動化、リモート化を実現！」 --- プロセスマイニングの基礎とABBYY Timeline紹介 in 7月 ---
 
@@ -76,12 +80,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/rchitects-crafting-fantasy-realms-for-marvel-for-2024/"><u>[New] Architects Crafting Fantasy Realms for Marvel for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/void-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>[New] Avoid the Quake Optimal Tripod Placement for Stellar Vlogs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-comprehensive-list-of-top-9-video-meeting-software-on-devices/"><u>[Updated] 2024 Approved Comprehensive List of Top 9 Video Meeting Software on Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-methods-for-subtle-volume-reduction-in-fl-studio/"><u>[Updated] 2024 Approved Methods for Subtle Volume Reduction in FL Studio</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-record-screen-and-video-on-android-4-methods/"><u>[Updated] In 2024, How to Record Screen and Video on Android? [4 Methods]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-tonal-transformation-for-android-users/"><u>[Updated] The Ultimate Tonal Transformation for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/blend-past-and-present-with-the-innovative-iphone-case-that-emulates-the-iconic-blackberry-design-on-zdnet/"><u>Blend Past & Present with the Innovative iPhone Case That Emulates the Iconic BlackBerry Design on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/delayed-unveiling-how-apples-intelligent-tech-is-postponing-to-october-industry-experts-weigh-in-zdnet-special-report/"><u>Delayed Unveiling: How Apple's Intelligent Tech Is Postponing to October, Industry Experts Weigh In | ZDNET Special Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-upgrading-your-apple-watch-to-watchos-11-eligible-and-excluded-models-explained-by-zdnet/"><u>Guide to Upgrading Your Apple Watch to WatchOS 11 – Eligible and Excluded Models Explained by ZDNet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/styling-conversations-on-discord-with-flair-and-ease/"><u>Styling Conversations on Discord with Flair & Ease</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-top-reasons-for-systemic-inconsistency-explained-by-yl-software-professionals/"><u>The Top Reasons for Systemic Inconsistency Explained by YL Software Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-iphone-16-innovations-that-justify-an-upgrade-from-the-classic-apple-phone-insights-for-tech-enthusiasts/"><u>Top 4 iPhone 16 Innovations That Justify an Upgrade From the Classic Apple Phone: Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-presidents-day-bargains-exclusive-discounts-at-amazon-walmart-and-best-buy-find-the-latest-savings/"><u>Top President's Day Bargains - Exclusive Discounts at Amazon, Walmart & Best Buy! Find the Latest Savings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-tablet-protectors-s-ultimate-ipad-air-case-guide-zdnet-reviews/"><u>Top-Rated Tablet Protectors 'S Ultimate iPad Air Case Guide - ZDNet Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-digital-assistance-siri-joins-forces-with-bing-for-a-revolutionary-apple-experience-techvibes-by-zdnet/"><u>Transforming Digital Assistance: Siri Joins Forces with Bing for a Revolutionary Apple Experience | TechVibes by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-new-iphone-15-features-why-it-surpasses-expectations-for-seasoned-tech-users/"><u>Unpacking the New iPhone 15 Features: Why It Surpasses Expectations for Seasoned Tech Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Google Pixel 8 Pro? | Dr.fone</u></a></li>
+</ul></div>
 
