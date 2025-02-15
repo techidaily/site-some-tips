@@ -1,7 +1,7 @@
 ---
 title: "Costly Challenges Prevent Advanced AI Integration in Older iPhones: What to Expect with Apple’s Latest Innovations – Insights From ZDNet"
-date: 2025-01-17T20:44:24.558Z
-updated: 2025-01-24T20:17:59.320Z
+date: 2025-02-07T21:17:29.579Z
+updated: 2025-02-14T21:19:43.742Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,18 +120,19 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-full-review-insights-acevideo-editor-2023-edition/"><u>[New] In 2024, Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-stardew-valleys-most-innovative-game-updates/"><u>[New] Unveiling Stardew Valley's Most Innovative Game Updates</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-efficient-steps-for-capturing-iphone-screens/"><u>2024 Approved Efficient Steps for Capturing iPhone Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-power-of-freeform-the-ultimate-guide-for-enhancing-your-creativity-and-idea-generation/"><u>Discover the Power of Freeform: The Ultimate Guide for Enhancing Your Creativity & Idea Generation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dont-miss-out-exclusive-insider-tips-on-game-deals-during-the-ultimate-october-prime-day-2024-save-big-with-discounts-up-to-1000/"><u>Don't Miss Out: Exclusive Insider Tips on Game Deals During the Ultimate October Prime Day 2024 – Save Big with Discounts up to $1,000</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easily-track-your-apple-tv-remote-using-our-new-airtag-attachment-find-out-how-on-zdnet/"><u>Easily Track Your Apple TV Remote Using Our New AirTag Attachment - Find Out How on ZDNet!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-picks-best-mac-system-utilities-and-cleaners-in-202n-boost-your-computers-efficiency-with-these-applications/"><u>Expert Picks: Best Mac System Utilities & Cleaners in 202N - Boost Your Computer's Efficiency with These Applications</u></a></li>
-<li><a href="https://win-lab.techidaily.com/guia-iniciante-usando-o-compartilhamento-de-armazenamento-do-aomei-backupper-em-sistemas-windows/"><u>Guia Iniciante: Usando O Compartilhamento De Armazenamento Do AOMEI Backupper Em Sistemas Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-poco-c51-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco C51 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-s17e-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo S17e?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-big-savings-labor-day-sale-get-your-apple-pencil-gen-2-for-a-steal-at-95/"><u>Score Big Savings: Labor Day Sale! Get Your Apple Pencil (Gen 2) for a Steal at $95</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mp3-players-expert-picks-and-reviews/"><u>Top Rated MP3 Players : Expert Picks and Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-tvos-18-elevating-your-apple-tvs-sound-quality-tips-and-tricks-on-zdnet/"><u>Unveiling TVOS 18: Elevating Your Apple TV's Sound Quality - Tips and Tricks on ZDNET</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-formula-for-youtube-money-decoding-revenue-and-cpm-rates/"><u>2024 Approved The Formula for YouTube Money Decoding Revenue and CPM Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-potential-role-in-reviving-frustrated-sonos-device-experiences/"><u>Apple's Potential Role in Reviving Frustrated Sonos Device Experiences</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/aquatic-adventures-await-with-top-2023-diving-cameras-for-2024/"><u>Aquatic Adventures Await with Top 2023 Diving Cameras for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-review-on-apples-flagship-supercharged-16-inch-macbook-pro-with-m1-max-chip-late-2021/"><u>Comprehensive Review on Apple's Flagship Supercharged 16-Inch MacBook Pro with M1 Max Chip (Late 2021)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/designing-and-sharing-custom-contact-cards-in-ios-17-using-namedrop-a-step-by-step-guide/"><u>Designing and Sharing Custom Contact Cards in iOS 17 Using NameDrop - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287161033-dvdmp4aviwmvmkv/"><u>DVDから高品質動画への完全変換ガイド：MP4、AVI、WMV、MKVを含む</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-of-app-installations-apple-suggests-selective-sideloading-feature-for-ios-172-zdnet-news/"><u>Future of App Installations: Apple Suggests Selective Sideloading Feature for iOS 17.2 | ZDNET News</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761518-9781622037476-holy-rascals/"><u>Holy Rascals | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-x50i-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor X50i Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-moisture-detected-warnings-on-your-iphones-usb-c-port/"><u>Overcoming Moisture Detected Warnings on Your iPhone's USB-C Port</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pre-order-the-latest-apple-vision-pro-now-with-generous-storage-choices-512gb-or-1tb-exclusive/"><u>Pre-Order the Latest Apple Vision Pro Now with Generous Storage Choices: 512GB or 1TB Exclusive</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pro-level-prowess-the-best-video-editors-for-your-drone-footage/"><u>Pro-Level Prowess The Best Video Editors for Your Drone Footage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creative-potential-write-faster-and-smarter-with-hixs-gpt-4-technology/"><u>Unleash Creative Potential: Write Faster and Smarter with Hix's GPT-4 Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-apples-latest-ai-resurgence-opportunities-and-improvements-ahead-futuretech-review/"><u>Unpacking Apple's Latest AI Resurgence: Opportunities and Improvements Ahead | FutureTech Review</u></a></li>
 </ul></div>
 

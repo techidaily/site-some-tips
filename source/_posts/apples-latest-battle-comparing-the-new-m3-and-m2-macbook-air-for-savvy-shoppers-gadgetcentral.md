@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2025-01-25T22:24:02.647Z
-updated: 2025-02-01T00:20:13.783Z
+date: 2025-02-10T02:13:37.329Z
+updated: 2025-02-15T04:55:08.772Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -49,13 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -72,10 +68,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -95,9 +87,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -108,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,17 +157,15 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-chromebook-snapshot-tool/"><u>[New] 2024 Approved Ultimate Chromebook Snapshot Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/16-tutorial-on-streamlining-it-workflow-using-windows-powershell-zdnet/"><u>$16 Tutorial on Streamlining IT Workflow Using Windows PowerShell | ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-of-video-studios-xreview-analysis/"><u>2024 Approved Behind the Scenes of Video Studios XReview Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bridging-artificial-intelligence-and-commerce-the-role-of-renaissance-tech-innovators-zdnet/"><u>Bridging Artificial Intelligence & Commerce: The Role of Renaissance Tech Innovators | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-iphones-upgrading-to-apple-ios-18-models-included-and-exclusions-explained/"><u>Comprehensive List of iPhones Upgrading to Apple iOS 18: Models Included and Exclusions Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harness-the-power-of-ai-in-kubernetes-through-red-hats-innovative-openshift-lightspeed-tool-insights-for-admins-zdnet/"><u>Harness the Power of AI in Kubernetes Through Red Hat's Innovative OpenShift Lightspeed Tool - Insights for Admins | ZDNET</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-18-enhances-airpods-pro-with-built-in-hearing-aid-support-eliminating-the-need-for-hardware-upgrade/"><u>IOS 18 Enhances AirPods Pro With Built-In Hearing Aid Support, Eliminating the Need for Hardware Upgrade</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mobile-stellar-eraser-standard-deletion-on-mac-seamless-data-cleanse/"><u>Mobile Stellar Eraser: Standard Deletion on Mac - Seamless Data Cleanse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-past-the-storm-resolving-stranded-xbox-on-windows-11/"><u>Steering Past the Storm: Resolving Stranded Xbox on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tidying-up-linux-and-open-source-manuals-a-comprehensive-guide-to-clarity-zdnet/"><u>Tidying Up Linux & Open Source Manuals: A Comprehensive Guide to Clarity | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-video-enregistrez-votre-video-avec-camera-et-audio-en-une-touche-sur-windows/"><u>WinX Video: Enregistrez Votre Vidéo Avec Caméra Et Audio en Une Touche Sur Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-to-gif-makers-you-should-use-online-and-desktop-for-2024/"><u>[New] Best YouTube To GIF Makers You Should Use (Online & Desktop) for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-basics-of-youtube-compliance-guidelines/"><u>[New] The Basics of YouTube Compliance Guidelines</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-guide-top-10-high-resolution-4k-dslr-mounts-for-2024/"><u>[New] Ultimate Guide Top 10 High-Resolution 4K DSLR Mounts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-cozy-living-areas-with-daylight-for-2024/"><u>[Updated] Crafting Cozy Living Areas with Daylight for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-screen-problems-how-to-reclaim-your-graphics-driver-control-on-any-window-os/"><u>Easy Fixes for Screen Problems: How to Reclaim Your Graphics Driver Control on Any Window OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-accessories-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Accessories : In-Depth Analysis & Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unusual-liquid-found-in-iphone-charger-port-what-are-the-fixes/"><u>Unusual Liquid Found in iPhone Charger Port: What Are the Fixes?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-you-should-consider-getting-an-apple-watch-expert-opinions-and-key-advantages-zdnet/"><u>Why You Should Consider Getting an Apple Watch: Expert Opinions and Key Advantages | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-friendly-imessage-tips-mastering-texts-photos-video-chats-advice-by-zdnet/"><u>Windows-Friendly iMessage Tips: Mastering Texts, Photos, Video Chats - Advice by ZDNet</u></a></li>
 </ul></div>
 

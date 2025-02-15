@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Download Instructions and Device Checker | CNET
-date: 2025-01-17T03:00:42.633Z
-updated: 2025-01-17T22:08:16.535Z
+date: 2025-02-14T05:07:00.144Z
+updated: 2025-02-15T00:24:22.590Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -36,12 +36,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -51,10 +55,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -69,7 +69,7 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -86,6 +86,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,21 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-money-smart-sports-photography-innovation-on-a-dime/"><u>[New] Money-Smart Sports Photography - Innovation on a Dime</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-techniques-screen-recording-in-google-meet/"><u>[Updated] 2024 Approved Efficient Techniques Screen Recording in Google Meet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pro-video-recording-software-for-mp4/"><u>2024 Approved Pro Video Recording Software for MP4</u></a></li>
-<li><a href="https://some-tips.techidaily.com/android-users-face-a-new-era-as-gemini-takes-over-from-google-assistant-insights-from-zdnet-analysis/"><u>Android Users Face a New Era as Gemini Takes Over From Google Assistant, Insights From ZDNet Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capturing-adventures-a-close-look-at-panasonics-hx-a1-for-2024/"><u>Capturing Adventures A Close Look at Panasonic's HX-A1 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/cutting-edge-tools-for-online-subtitle-editing-for-2024/"><u>Cutting-Edge Tools for Online Subtitle Editing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-how-to-start-using-googles-gemini-chatbot-immediately-at-no-cost-a-comprehensive-guide-on-zdnet/"><u>Discover How to Start Using Google's Gemini Chatbot Immediately at No Cost – A Comprehensive Guide on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-instructions-for-setting-up-im-away-messages-in-gmail-webhow/"><u>Easy Instructions for Setting Up 'I'm Away' Messages in Gmail | WebHow</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-productivity-on-the-go-a-step-by-step-guide-to-building-google-doc-templates-for-free-with-g-suite-workspace-tips-by-zdnet/"><u>Enhance Productivity on the Go: A Step-by-Step Guide to Building Google Doc Templates for Free with G Suite Workspace – Tips by ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends-for-2024/"><u>Farming Fun & Friendship The Best AgriGames to Bond With Friends for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/galaxy-fold-vs-google-pixel-samsungs-answer-to-innovation-pcmag-review/"><u>Galaxy Fold Vs. Google Pixel: Samsung's Answer to Innovation | PCMag Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-infuse-your-slides-with-clear-voice-communication/"><u>In 2024, Infuse Your Slides with Clear Voice Communication</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-x-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone X Is Unlocked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seamlessly-connecting-your-google-drive-to-slack-tips-and-tricks-from-zdnet/"><u>Seamlessly Connecting Your Google Drive to Slack | Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-email-experience-with-this-one-effortless-technique-say-goodbye-to-messy-inboxes-no-rules-required/"><u>Transform Your Email Experience with This One Effortless Technique - Say Goodbye to Messy Inboxes, No Rules Required!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unveiling-iphone-xs-advanced-photography-tools/"><u>Unveiling iPhone X's Advanced Photography Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premier-choices-high-quality-free-screen-recorder-software-for-2024/"><u>[New] Premier Choices High-Quality Free Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-smartphone-video-cutting-edge-apple-and-androids-leading-apps-for-2024/"><u>[Updated] Smartphone Video Cutting-Edge Apple & Android's Leading Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-creative-expression-mastering-jump-cut-usage/"><u>[Updated] Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-securely-accessing-your-fb-status-video/"><u>2024 Approved Securely Accessing Your FB Status Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/54sh5paz44oe44o844or44gn5yuv55s744o744kq44o844oh44kj44kq44k544oi44oq44o844of44oz44kw44gu6yyy55s75oml6acg44ks44kk44oj/"><u>無料ツールで動画・オーディオストリーミングの録画手順ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-the-apple-vision-pro-enhance-your-economy-flight-experience-insights-from-zdnet/"><u>Can the Apple Vision Pro Enhance Your Economy Flight Experience? Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-iphone-functionality-with-apples-integration-of-the-google-gemini-app/"><u>Enhancing iPhone Functionality with Apple's Integration of the Google Gemini App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-analysis-on-iphone-15-a-must-have-device-for-both-casual-and-professional-users-insights-from-zdnet/"><u>Expert Analysis on iPhone 15: A Must-Have Device for Both Casual and Professional Users - Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-iphones-potential-for-breathtaking-hdr-images-for-2024/"><u>Harness iPhone's Potential for Breathtaking HDR Images for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a58-4g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo A58 4G Phone without PIN</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-worth-the-upgrade-expert-insights-from-zdnet/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Worth the Upgrade? Expert Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-bargain-snag-the-second-gen-apple-pencil-at-a-steep-discount-only-95/"><u>Labor Day Bargain: Snag the Second-Gen Apple Pencil at a Steep Discount - Only $95!</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-removing-your-fb-search-footprints/"><u>Step-By-Step: Removing Your FB Search Footprints</u></a></li>
+<li><a href="https://some-tips.techidaily.com/student-savings-on-apple-music-streaming-tips-and-tricks-for-scoring-a-budget-friendly-plan/"><u>Student Savings on Apple Music Streaming: Tips and Tricks for Scoring a Budget-Friendly Plan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-choice-presents-when-unsure-of-the-perfect-gift-insights-from-zdnet/"><u>Top Choice Presents When Unsure of the Perfect Gift: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-highest-quality-magsafe-wallets-reviewed-by-experts/"><u>Ultimate Guide to the Highest Quality MagSafe Wallets Reviewed by Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-deal-alert-apples-macbook-air-with-m2-chip-hits-all-time-low-on-cyber-monday-detailed-analysis/"><u>Unbeatable Deal Alert: Apple's MacBook Air with M2 Chip Hits All-Time Low on Cyber Monday - Detailed Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2025-01-20T19:34:20.632Z
-updated: 2025-01-24T20:40:43.957Z
+date: 2025-02-12T17:03:12.060Z
+updated: 2025-02-14T20:47:31.009Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -59,7 +55,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -78,7 +74,7 @@ Installing LibreOffice to macOS.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Delete the installer file
@@ -89,10 +85,14 @@ Ejecting the mounted installer after the fact.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to open LibreOffice
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
@@ -108,7 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -151,16 +151,17 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-vr-bikes-to-check-out/"><u>[Updated] 2024 Approved Top VR Bikes to Check Out</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-film-creation-guide-and-other-options/"><u>[Updated] 2024 Approved YouTube Film Creation Guide & Other Options</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>2024 Approved Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-graphic-performance-on-windows-11-w-new-driver/"><u>Boost Graphic Performance on Windows 11 W/ New Driver</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-enhanced-airpods-top-4-improved-features-unveiled/"><u>Discover Apple's Enhanced AirPods: Top 4 Improved Features Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-m2-powered-mac-mini-at-a-record-low-only-479-detailed-analysis/"><u>Discover Apple's M2-Powered Mac Mini at a Record Low: Only $479 - Detailed Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-digitize-and-store-your-drivers-license-in-the-iphone-wallet-app-customized-processes-for-various-regions/"><u>How to Digitize and Store Your Driver's License in the iPhone Wallet App - Customized Processes for Various Regions</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-swiftly-and-silently-remove-a-post-on-facebook/"><u>How to Swiftly and Silently Remove a Post on Facebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4tsffmpeg/"><u>MP4、TS動画結合・連結におけるFFmpegの無損失・シンプルテクニック</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-an-unexpectedly-free-macbook-air-m3-at-best-buy-master-the-secret-strategy-here-insights/"><u>Score an Unexpectedly Free MacBook Air M3 at Best Buy - Master the Secret Strategy Here | Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbelievable-deal-for-tech-lovers-up-to-700-off-the-revolutionary-2022-ipad-pro-this-labor-day-season-zdnet/"><u>Unbelievable Deal for Tech Lovers! Up to $700 Off the Revolutionary 2022 iPad Pro This Labor Day Season | ZDNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-audacity-guide-creating-fluid-audio-crossfade/"><u>[Updated] 2024 Approved Audacity Guide Creating Fluid Audio Crossfade</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elite-insight-parrots-second-gen-drone-20-for-2024/"><u>[Updated] Elite Insight Parrot's Second-Gen Drone 2.0 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>[Updated] In 2024, Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/14-pro-evaluating-if-upgrading-is-worthwhile-insights/"><u>14 Pro: Evaluating if Upgrading Is Worthwhile - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/declutter-mail-effortlessly-using-our-simple-strategy-skip-the-hassle-of-filters-and-extra-accounts/"><u>Declutter Mail Effortlessly Using Our Simple Strategy – Skip the Hassle of Filters & Extra Accounts!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-ai-essential-information-everyone-should-know/"><u>Demystifying Generative AI: Essential Information Everyone Should Know</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-feed-top-10-instagram-hashtags-for-success-for-2024/"><u>Elevate Your Feed Top 10 Instagram Hashtags for Success for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>In 2024, From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-zoom-meetings-unveiled-maximizing-video-clarity/"><u>In 2024, Zoom Meetings Unveiled Maximizing Video Clarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-your-next-weeks-apple-purchase-with-essential-anker-accessories-top-tips-and-reviews/"><u>Maximize Your Next Week's Apple Purchase with Essential Anker Accessories | Top Tips and Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-missing-or-not-found-oleaut32dll/"><u>The Ultimate Fixes for 'Missing or Not Found: Oleaut32.dll'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-securely-syncing-and-backing-up-your-iphone-using-icloudmac-tips-from-zdnet/"><u>Ultimate Guide: Securely Syncing and Backing Up Your iPhone Using iCloud/Mac - Tips From ZDNet</u></a></li>
 </ul></div>
 

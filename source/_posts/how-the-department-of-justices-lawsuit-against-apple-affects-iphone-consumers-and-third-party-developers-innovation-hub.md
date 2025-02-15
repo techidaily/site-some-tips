@@ -1,7 +1,7 @@
 ---
 title: How the Department of Justice's Lawsuit Against Apple Affects iPhone Consumers & Third-Party Developers | Innovation Hub
-date: 2025-01-27T19:52:32.343Z
-updated: 2025-01-31T20:51:11.768Z
+date: 2025-02-13T05:16:54.903Z
+updated: 2025-02-15T06:59:16.002Z
 tags:
   - apple
 categories:
@@ -45,6 +45,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -60,15 +64,15 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -125,7 +129,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -142,10 +146,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -159,7 +159,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -167,7 +167,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,21 +204,17 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[Updated] In 2024, Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-screen-free-entertainment-top-10-best-offline-ipad-games/"><u>[Updated] Screen-Free Entertainment Top 10 Best Offline iPad Games</u></a></li>
-<li><a href="https://win-online.techidaily.com/iuwplusqewfgplusodlplusodreocuplusocueobpplusodleocoeocpoodqplusobjowpluociuwhuuobmplusobquobhdog44k344k544og44og44kz44ou44o844gu5b6p5ywd6zqc5a6z44gr44gk44g357/"><u>復元プロセスでファイルが取り出せない: システムコピーの復元障害について学ぶ</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bridging-the-gap-the-role-of-tech-innovators-in-merging-ai-with-modern-commerce-insights-from-zdnet/"><u>Bridging the Gap: The Role of Tech Innovators in Merging AI with Modern Commerce - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dynamic-design-techniques-for-seamless-video-fades/"><u>Dynamic Design Techniques for Seamless Video Fades</u></a></li>
-<li><a href="https://discover-data.techidaily.com/effective-methods-for-ejecting-an-external-hdd-from-windows-operating-systems-including-windows-111087/"><u>Effective Methods for Ejecting an External HDD From Windows Operating Systems Including Windows 11/10/8/7</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ensuring-smooth-operations-in-your-discord-channels-with-these-steps-for-2024/"><u>Ensuring Smooth Operations in Your Discord Channels with These Steps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-takeaways-for-coders-unpacking-the-most-important-news-from-microsofts-build-conference-2024-zdnet-insights/"><u>Essential Takeaways for Coders: Unpacking the Most Important News From Microsoft's Build Conference, 2024 | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-leveraging-low-code-platforms-enhances-employer-branding-tips-from-zdnet-experts/"><u>How Leveraging Low-Code Platforms Enhances Employer Branding - Tips From ZDNet Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-master-chromes-pip-for-enhanced-productivity/"><u>How to Master Chrome’s PIP for Enhanced Productivity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-and-rust-in-modernizing-the-linux-kernel-tech-insights/"><u>Linus Torvalds Discusses the Importance of AI & Rust in Modernizing the Linux Kernel | Tech Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rethinking-growth-trends-in-data-science-and-ai-sectors-analysis-by-zdnet/"><u>Rethinking Growth Trends in Data Science & AI Sectors | Analysis by ZDnet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-here-discover-how-ai-agents-will-revolutionize-your-job-for-good-expert-analysis-by-zdnet/"><u>The Future Is Here: Discover How AI Agents Will Revolutionize Your Job for Good | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-now-red-hats-artificial-intelligence-strategy-to-simplify-sysadmin-tasks/"><u>The Future Is Now: Red Hat's Artificial Intelligence Strategy to Simplify Sysadmin Tasks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-tips-on-selecting-free-audio-tracks-for-your-yt-clips-for-2024/"><u>Top Tips on Selecting Free Audio Tracks for Your YT Clips for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-aural-storytelling-on-instagram-reels/"><u>[New] 2024 Approved The Art of Aural Storytelling on Instagram Reels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-guide-to-sustainable-visual-effects-equipment/"><u>[Updated] In 2024, Ultimate Guide to Sustainable Visual Effects Equipment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-monetization-how-much-creators-earn-per-ad-on-youtube-in-2024/"><u>Decoding Monetization How Much Creators Earn Per Ad on YouTube, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dial-down-audio-slowly-and-steadily/"><u>Dial Down Audio, Slowly and Steadily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discount-alert-grab-your-newly-upgraded-airpods-pro-plus-built-in-hearing-aid-at-an-unbelievable-price-save-24-today/"><u>Discount Alert: Grab Your Newly Upgraded AirPods Pro + Built-In Hearing Aid at an Unbelievable Price - Save 24% Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-what-apple-might-have-up-its-sleeve-for-gamers-with-its-new-game-mode-key-insights-revealed-zdnet/"><u>Discover What Apple Might Have Up Its Sleeve for Gamers with Its New Game Mode - Key Insights Revealed | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-tech-experience-with-these-4-standout-iphone-16-features-is-it-time-to-upgrade/"><u>Elevate Your Tech Experience with These 4 Standout iPhone 16 Features - Is It Time to Upgrade?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improving-sound-speeds-a-guide-for-safe-spotify-use-for-2024/"><u>Improving Sound Speeds A Guide for Safe Spotify Use for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-customizing-characters-the-ae-font-guide/"><u>In 2024, Customizing Characters The AE Font Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/manual-de-instruccion-para-el-programa-winxdvd-mejoras-y-optimizaciones/"><u>Manual De Instrucción Para El Programa WinXDVD: Mejoras Y Optimizaciones</u></a></li>
+<li><a href="https://solve-news.techidaily.com/optimisation-du-temps-dencodage-h265-comment-accelerer-votre-processus/"><u>Optimisation Du Temps D'encodage H.265 - Comment Accélérer Votre Processus ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-3-iphone-13-cases-and-sleeves-to-preserve-its-pristine-condition-insights/"><u>Top 3 iPhone 13 Cases and Sleeves to Preserve Its Pristine Condition: Insights</u></a></li>
 </ul></div>
 

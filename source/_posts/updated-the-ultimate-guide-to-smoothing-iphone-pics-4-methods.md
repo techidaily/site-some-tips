@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)"
-date: 2024-08-08T08:27:55.185Z
-updated: 2024-08-09T08:27:55.185Z
+date: 2025-02-09T21:02:26.903Z
+updated: 2025-02-15T03:55:41.713Z
 tags: 
   - screen-recording
   - ai video
@@ -34,9 +34,6 @@ There are multiple ways to get this done. For instance, the background of the ph
 
 04 [Blur the Background of Photos on iPhone with Apps](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Blur the Photo Background with Portrait Mode on iPhone
 
 Portrait mode in the Camera app is available on iPhone 7 Plus and above models. However, if you are using iPhone SE 2020 or iPhone XR, you can blur the background of the images only with the people as the main subject.
@@ -57,14 +54,16 @@ Swipe-drag the modes present above the **Shutter** button to switch to the **POR
 
 Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
 
 If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
@@ -77,9 +76,6 @@ Use the method explained above to launch the **Camera** app on your iPhone. Beca
 
 Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
 
 **Step 3: Capture and Access the Image**
@@ -87,8 +83,9 @@ Tap and hold the main subject on the screen until the **AE/AF Lock** message sho
 Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
 
 The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
@@ -102,6 +99,10 @@ Launch the **Photos** app on your iPhone, go to the album with the target photo,
 Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
 
 ![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Save and Access the Photo**
 
@@ -117,10 +118,11 @@ There is a plethora of apps available on the App Store that can help you get the
 
 After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Pick the Blur Tool**
 
@@ -146,8 +148,6 @@ Then, as earlier, drag your finger to the right or left anywhere on the screen t
 
 Blurring the background in a photo ensures that the main subject remains in the focus, and all the other unimportant objects don’t steal the limelight. If you are using iPhone 7 Plus or above models, the background of the photos can be blurred at the time of capturing. Furthermore, the built-in Photos app in iPhones also come with the Vignette effect that enables you to do the job with ease. However, if you want precision and more control over the images while blurring, you can use an efficient third-party tool like Snapseed that also has its own set of tutorials to teach **how to blur a picture on iPhone**.
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -170,10 +170,24 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-achieving-perfect-time-lapses-with-ios-devices/"><u>[New] Achieving Perfect Time-Lapses with iOS Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques/"><u>[New] Mastering the Art of Video From Still Photos Through Pixiz Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-leading-cloud-services-with-best-price/"><u>2024 Approved The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-rolls-out-affordable-monthly-unlimited-grocery-service-for-999plus-is-it-a-game-changer-in-online-shopping/"><u>Amazon Rolls Out Affordable Monthly Unlimited Grocery Service for $9.99+ - Is It a Game Changer in Online Shopping?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/building-successful-businesses-with-ai-opportunities-unveiled-by-industry-experts-zdnet/"><u>Building Successful Businesses with AI: Opportunities Unveiled by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-use-of-windows-explorer-over-traditional-ls/"><u>Effective Use of Windows Explorer Over Traditional LS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/galaxy-s22-and-s22plus-versus-iphone-13-side-by-side-comparison-features-breakdown/"><u>Galaxy S22 & S22+ Versus iPhone 13 Side-by-Side Comparison: Features Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-automation-is-taking-over-unwanted-jobs-preparing-for-an-economic-downturn/"><u>How Automation Is Taking Over Unwanted Jobs - Preparing for an Economic Downturn</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hurry-up-top-shops-for-same-day-gift-dispatch-highlighted-by-zdnet/"><u>Hurry Up! Top Shops for Same-Day Gift Dispatch Highlighted by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/joint-efforts-by-singapore-and-the-us-to-thwart-international-online-scams-insights-from-zdnet/"><u>Joint Efforts by Singapore and the US to Thwart International Online Scams – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-amazon-prime-day-deals-for-profit-a-guide-to-earning-cash-with-online-shares-insights-from-zdnet/"><u>Leverage Amazon Prime Day Deals for Profit: A Guide to Earning Cash with Online Shares - Insights From ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/pro-tools-2021-elevating-your-tiktok-footage-on-mac/"><u>Pro Tools 2021 Elevating Your TikTok Footage on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-uncovering-the-secrets-of-your-windows-11-activation-code/"><u>Step-by-Step Guide: Uncovering the Secrets of Your Windows 11 Activation Code</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-instagram-youtube/"><u>Top Social Media Platforms: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-top.techidaily.com/transferir-copias-de-seguridad-de-software-gratuito-entre-computadoras-por-internet-tecnicas-expertas-y-consejos/"><u>Transferir Copias De Seguridad De Software Gratuito Entre Computadoras Por Internet – Técnicas Expertas Y Consejos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-crusade-againnst-phony-businesses-in-the-virtual-and-physical-realm-of-fraud-protection/"><u>ZDNet's Crusade Againnst Phony Businesses in the Virtual & Physical Realm of Fraud Protection</u></a></li>
+</ul></div>
 

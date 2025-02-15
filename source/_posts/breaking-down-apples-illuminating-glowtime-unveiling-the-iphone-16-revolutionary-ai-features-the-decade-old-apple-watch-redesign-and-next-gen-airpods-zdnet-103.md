@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods | ZDNET Insights"
-date: 2025-01-30T04:11:31.010Z
-updated: 2025-02-01T05:28:54.015Z
+date: 2025-02-13T22:43:23.233Z
+updated: 2025-02-14T16:17:50.204Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Writing tools
@@ -49,10 +49,6 @@ Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Note
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -72,6 +68,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Mail assistance
 
 To help you get through your emails, Apple Intelligence will [try to understand their content](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) and identify those that are time-sensitive. Any emails that fit the criteria will be treated as priority messages. Instead of just previewing the first few lines of an email, AI will summarize the key details. 
@@ -79,10 +79,6 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -99,22 +95,26 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What will come later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -158,17 +158,19 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-quickstart-to-flawless-nft-artistry-for-beginners/"><u>[Updated] Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-expands-educational-opportunities-introducing-ai-training-for-thousands-of-learners-and-graduates-zdnet/"><u>Apple Expands Educational Opportunities: Introducing AI Training for Thousands of Learners & Graduates | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-tech-and-business-synergy-through-agile-artificial-intelligence-insights-from-zdnet/"><u>Enhancing Tech & Business Synergy Through Agile Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-ultimate-convenience-with-the-amazon-basics-compact-tablet-mount-carry-your-screen-anywhere/"><u>Experience Ultimate Convenience with the Amazon Basics Compact Tablet Mount - Carry Your Screen Anywhere!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-advice-from-toms-hardware-experts/"><u>In-Depth Reviews & Advice From Tom's Hardware Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leading-information-security-credentials-ethical-hackers-guide-cioreview/"><u>Leading Information Security Credentials - Ethical Hacker's Guide | CIOReview</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimized-wdf-implementation-reducing-excessive-cpu-usage/"><u>Optimized WDF Implementation: Reducing Excessive CPU Usage</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210703553-9781998754076-out-of-love/"><u>Out of Love | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-business-ai-microsoft-azures-new-models-as-a-service-and-upgraded-rag-for-corporate-generative-tech-zdnet/"><u>Revolutionizing Business AI: Microsoft Azure's New 'Models as a Service' And Upgraded RAG for Corporate Generative Tech | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-surprising-prevalence-of-political-deepfakes-insights-from-an-ai-specialist-zdnet/"><u>Unveiling the Surprising Prevalence of Political Deepfakes: Insights From an AI Specialist - ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-guide-to-action-screening-saving/"><u>[New] 2024 Approved Essential Guide to Action Screening Saving</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-mute-google-meet/"><u>[Updated] In 2024, How to Mute Google Meet?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-swift-strategies-randomize-your-video-playlist-quickly/"><u>2024 Approved Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tive-youtube-customization-for-powerful-endings/"><u>Effective YouTube Customization for Powerful Endings</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-can-i-boost-my-pcs-performance-and-achieve-maximum-efficiency-with-yl-software-solutions/"><u>How Can I Boost My PC's Performance and Achieve Maximum Efficiency with YL Software Solutions?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m54-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy M54 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prime-day-exclusive-discover-the-ultimate-top-36-bargains-for-apple-gadgets-still-in-stock/"><u>Prime Day Exclusive: Discover the Ultimate Top 36 Bargains for Apple Gadgets - Still in Stock!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restore-visibility-to-your-wifi-network-essential-fixes-and-advice/"><u>Restore Visibility to Your WiFi Network - Essential Fixes and Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-pick-exclusive-reasons-to-upgrade-to-the-iphone-16-pro-instead-of-the-max-analysis/"><u>The Smart Pick: Exclusive Reasons to Upgrade to the iPhone 16 Pro Instead of the Max | Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-yield-strength-of-a-material-is-a-key-factor-in-determining-safe-test-pressures-during-hydrostatic-testing/"><u>The Yield Strength of a Material Is a Key Factor in Determining Safe Test Pressures During Hydrostatic Testing.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airpods-pro-companions-the-ultimate-accessory-guide/"><u>Top-Rated AirPods Pro Companions: The Ultimate Accessory Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-macbook-peripherals-thoroughly-tested-and-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MacBook Peripherals : Thoroughly Tested & Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-in-accessibility-discover-how-apple-made-the-iphone-16-more-user-friendly-for-diy-repairs-insight/"><u>Upgrade in Accessibility: Discover How Apple Made the iPhone 16 More User-Friendly for DIY Repairs Insight</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2025-01-20T16:53:04.551Z
-updated: 2025-01-24T18:06:53.633Z
+date: 2025-02-09T23:50:54.027Z
+updated: 2025-02-15T09:37:12.296Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-join-the-fortune-changing-club-free-50-banners-await/"><u>[New] 2024 Approved Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-bring-your-imagination-to-life-using-cartoony-filters-in-snapchat/"><u>[New] In 2024, Bring Your Imagination to Life Using Cartoony Filters in Snapchat</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll/"><u>[New] In 2024, Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-seamless-mp4-extraction-your-fb-video-fix/"><u>[New] In 2024, Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-best-of-the-best-android-calls-with-more-than-just-two-for-2024/"><u>[Updated] Best of the Best Android Calls with More Than Just Two for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/access-apple-vision-pro-beta-features-early-via-testflight-detailed-instructions-inside/"><u>Access Apple Vision Pro Beta Features Early via TestFlight – Detailed Instructions Inside</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-dvd-drive-software-download-latest-drivers-available/"><u>ASUS DVD Drive Software Download: Latest Drivers Available</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-text-limit-characterswords-counted/"><u>ChatGPT's Text Limit: Characters/Words Counted?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-latest-enhancements-top-4-new-features-in-updated-airpod-models/"><u>Discover Apple's Latest Enhancements: Top 4 New Features in Updated AirPod Models</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fixing-overencoded-obs-videos/"><u>In 2024, Fixing Overencoded OBS Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/save-big-on-a-new-ipad-at-only-199-in-the-exclusive-amazon-labor-day-discount-event-insights/"><u>Save Big on a New iPad at Only $199 in the Exclusive Amazon Labor Day Discount Event - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/skyrocket-your-apple-watch-battery-performance-with-these-simple-8-adjustments-zdnet-insights/"><u>Skyrocket Your Apple Watch Battery Performance with These Simple 8 Adjustments | ZDNET Insights</u></a></li>
+<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fall-innovations-on-apple-products-find-out-whats-new-for-iphone-ipad-and-mac-from-advanced-ai-integration-zdnet-report/"><u>Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration | ZDNET Report</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-high-quality-photos-from-androids/"><u>Harnessing High-Quality Photos From Androids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-se-2020-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone SE (2020) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-14-ultra-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi 14 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-payment-cycle-a-detailed-look/"><u>In 2024, YouTube’s Payment Cycle A Detailed Look</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-unveiled-discover-the-top-6-ai-enhancements-for-your-iphone-and-anticipate-future-upgrades-insights-from-zdnet/"><u>IOS 18 Unveiled: Discover the Top 6 AI Enhancements for Your iPhone and Anticipate Future Upgrades - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macos-sequoia-beta-version-15-now-available-step-by-step-download-and-install-instructions-for-all-macbook-models-zdnets-exclusive-article/"><u>MacOS Sequoia Beta Version 15 Now Available: Step-by-Step Download & Install Instructions for All MacBook Models - [ZDNet's Exclusive Article]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/proven-winners-analyzing-5-leading-ai-prompt-generators/"><u>Proven Winners: Analyzing 5 Leading AI Prompt Generators</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-italian-explorers-dictionary-key-travel-terms/"><u>The Italian Explorer’s Dictionary: Key Travel Terms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-premium-apple-watch-bands-featuring-professional-assessments-zdnet/"><u>Ultimate Selection of Premium Apple Watch Bands , Featuring Professional Assessments | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-apple-vision-pro-in-depth-analysis-of-costs-capabilities-and-user-experience-explore/"><u>Unveiling the Apple Vision Pro: In-Depth Analysis of Costs, Capabilities & User Experience | Explore</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-m3-macbook-air-by-apple-how-this-innovative-ai-device-is-changing-the-game-for-everyone/"><u>Unveiling the M3 MacBook Air by Apple - How This Innovative AI Device Is Changing the Game for Everyone</u></a></li>
 </ul></div>
 

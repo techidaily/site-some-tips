@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2025-01-18T17:55:35.381Z
-updated: 2025-01-24T16:03:02.903Z
+date: 2025-02-10T23:37:24.625Z
+updated: 2025-02-15T01:20:26.343Z
 tags:
   - apple
 categories:
@@ -28,21 +28,17 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -68,6 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,19 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevating-channel-excellence-with-best-ideas/"><u>[New] In 2024, Elevating Channel Excellence with Best Ideas</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-viral-covers-for-your-facebook-profile/"><u>[Updated] Crafting Viral Covers for Your Facebook Profile</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-video-journey-mastery-10-leading-apps-to-up-your-youtube-short-game/"><u>[Updated] Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-watch-ultra-vs-apple-watch-series-8-showdown-determining-your-ideal-fit/"><u>Apple Watch Ultra Vs. Apple Watch Series 8 Showdown: Determining Your Ideal Fit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-comprehensive-guide-on-selecting-the-perfect-apple-laptop/"><u>Choosing Between MacBook Pro & MacBook Air: Comprehensive Guide on Selecting the Perfect Apple Laptop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/favorite-phones-spotlighted-the-top-handsets-chosen-tech-experts/"><u>Favorite Phones Spotlighted: The Top Handsets Chosen Tech Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-k11-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo K11 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-evolution-of-live-streaming-with-periscope/"><u>The Evolution of Live Streaming with Periscope</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-next-generation-of-airpods-whens-their-launch-and-how-can-you-reserve-them-insights/"><u>The Next Generation of AirPods - When's Their Launch, and How Can You Reserve Them? Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-6-persuasive-factors-to-choose-an-apple-watch-insights-from-a-tech-guru/"><u>Top 6 Persuasive Factors to Choose an Apple Watch - Insights From a Tech Guru</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-creating-viral-reaction-videos-with-filmora-for-2024/"><u>Updated The Ultimate Guide to Creating Viral Reaction Videos with Filmora for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-prime-facebook-extra-tools-secure-file-grabber-firefox-version-for-2024/"><u>[New] Prime Facebook Extra Tools Secure File Grabber, Firefox Version for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-speedy-audio-on-phone-ultimate-list-of-tools/"><u>[Updated] In 2024, Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[Updated] Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-best-youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>2024 Approved Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-innovative-beats-products-insights-from-zdnet/"><u>Apple Discontinues FineWoven Collection in Favor of Innovative Beats Products - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cheerful-footage-extractor-analysis-for-2024/"><u>Cheerful Footage Extractor Analysis for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-guide-to-premium-magsafe-battery-packs-in-2e-in-depth-analysis-and-ratings-digital-trends-hub/"><u>Experts' Guide to Premium MagSafe Battery Packs in 2E: In-Depth Analysis and Ratings | Digital Trends Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-seamlessly-get-your-new-ipad-ready-beginners-ultimate-checklist/"><u>How To Seamlessly Get Your New iPad Ready – Beginner's Ultimate Checklist</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-how-apple-aims-to-reinvent-audio-tech-with-camera-enabled-airpods-by-2026-insights-from-zdnet-report/"><u>Inside Look: How Apple Aims to Reinvent Audio Tech with Camera-Enabled AirPods by 2026 - Insights From ZDNet Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/memorial-day-sale-unlock-a-whopping-60-discount-on-the-apple-watch-se-best-buy-of-the-year/"><u>Memorial Day Sale: Unlock a Whopping $60 Discount on the Apple Watch SE - Best Buy of the Year!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-the-ideal-festive-apple-pad-bargains-expert-list/"><u>Score the Ideal Festive Apple Pad Bargains - Expert List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-list-elite-karaoke-setups-to-elevate-your-singing-experience/"><u>The Definitive List: Elite Karaoke Setups to Elevate Your Singing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-revolutionary-camera-button-on-apples-iphone-16-features-and-functions-explained-for-tech-savvy-users-zdnet/"><u>The Revolutionary Camera Button on Apple's iPhone 16: Features and Functions Explained for Tech Savvy Users | ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-your-apple-studio-display-a-step-by-step-guide-on-updating-the-device-firmware/"><u>Upgrading Your Apple Studio Display: A Step-by-Step Guide on Updating the Device Firmware</u></a></li>
 </ul></div>
 

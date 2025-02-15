@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2025-01-16T02:54:42.317Z
-updated: 2025-01-17T22:00:13.700Z
+date: 2025-02-13T16:37:50.465Z
+updated: 2025-02-15T03:21:01.640Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-navigate-to-the-premier-android-tools-for-ps2-games/"><u>[New] Navigate to the Premier Android Tools for PS2 Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-boosting-remote-work-engagement-with-4-tactics/"><u>[Updated] Boosting Remote Work Engagement with 4 Tactics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-tips-for-fixing-stalled-video-posts-on-the-social-media-platform-iosandroid/"><u>[Updated] Tips for Fixing Stalled Video Posts on the Social Media Platform iOS/Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-visual-data-extractor-for-2024/"><u>[Updated] Visual Data Extractor for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-best-love-stories-perfectly-captured-weddings/"><u>[Updated] YouTube's Best Love Stories Perfectly Captured Weddings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-apples-podcast-listings/"><u>2024 Approved Best Practices for Apple's Podcast Listings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-what-everyone-should-know-about-youtube-tv-before-you-stream/"><u>2024 Approved What Everyone Should Know About YouTube TV Before You Stream</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-power-station-trials-cost-savvy-and-perfect-for-road-trips-reviewed-by-zdnet/"><u>Affordable Power Station Trials - Cost Savvy and Perfect for Road Trips, Reviewed by ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-memory-retention-organized-photo-albums-and-icloud-coordination/"><u>Enhancing Memory Retention Organized Photo Albums and iCloud Coordination</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-enhanced-climate-control-with-googles-new-nest-thermostat-insights-on-features-pricing-and-specifications-zdnet-analysis/"><u>Explore Enhanced Climate Control with Google's New Nest Thermostat: Insights on Features, Pricing & Specifications - ZDNet Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-the-finest-electrically-powered-lawn-mowers-on-wired-magazines-list/"><u>Explore the Finest Electrically Powered Lawn Mowers on WIRED Magazine's List</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207184627-reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-energy-needs-experience-the-solar-generators-extended-seven-hours-of-power-on-one-charge-zdnet/"><u>Revolutionize Your Energy Needs: Experience the Solar Generator's Extended Seven Hours of Power on One Charge | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-skills-with-a-50-off-deal-on-engineering-bootcamp-for-sustainable-power-systems-zdnet/"><u>Revolutionize Your Skills with a 50% Off Deal on Engineering Bootcamp for Sustainable Power Systems | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-cutting-edge-smart-thermostats-a-comprehensive-guide-by-techradar/"><u>Top 5 Cutting-Edge Smart Thermostats : A Comprehensive Guide by TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-long-lasting-rechargeable-batteries-expert-picks-and-comparisons/"><u>Top Rated Long-Lasting Rechargeable Batteries : Expert Picks and Comparisons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-portable-solar-power-banks-the-ultimate-guide-techradar/"><u>Top-Rated Portable Solar Power Banks - The Ultimate Guide | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-ultimate-productivity-with-zendure-superbase-pro-2n-a-comprehensive-review-on-zdnet/"><u>Unleash Ultimate Productivity with Zendure SuperBase Pro 2N: A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>[Updated] In 2024, Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-joyous-film-grabber-assessment/"><u>2024 Approved Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ch340-driver-upgrade-and-installation-guide-for-optimal-performance-on-windows-11/"><u>CH340 Driver Upgrade & Installation Guide for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-apples-revolutionary-vision-pro-unveiled-features-over-600-bespoke-applications-designed-for-optimal-performance/"><u>Exclusive: Apple's Revolutionary Vision Pro Unveiled, Features Over 600 Bespoke Applications Designed for Optimal Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-the-top-6-must-have-benefits-of-owning-an-apple-watch-insights-from-industry-pros/"><u>Explore the Top 6 Must-Have Benefits of Owning an Apple Watch: Insights From Industry Pros</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y100i-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y100i</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-a24-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy A24 Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-workflow-on-an-ipad-top-rated-productivity-apps-as-seen-experts/"><u>Maximizing Your Workflow on an iPad: Top-Rated Productivity Apps as Seen Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/must-have-childrens-tablets-family-favorites-featured-on-zdnet/"><u>Must-Have Children's Tablets: Family Favorites Featured on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seek-out-your-windows-backdrop-file-in-win11/"><u>Seek Out Your Window's Backdrop File in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shop-macbook-air-with-powerful-m1-chip-for-a-steal-at-just-649-top-price-drop-alert-from-zdnet/"><u>Shop MacBook Air with Powerful M1 Chip for a Steal at Just $649 - Top Price Drop Alert From ZDNET!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sound-recording-with-studio-mac-guide/"><u>Sound Recording with Studio Mac Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-idevices-with-questionable-worth-a-critical-review-by-zdnet/"><u>Top 4 iDevices with Questionable Worth: A Critical Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-iphone-offers-in-june-2024-exclusive-finds-from-zdnet/"><u>Top Apple iPhone Offers in June 2024: Exclusive Finds From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/under-200-high-speed-action-cameras-for-captivating-shots/"><u>Under $200 High-Speed Action Cameras for Captivating Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-extended-battery-life-a-step-by-step-guide-to-activating-macos-montereys-low-power-mode-with-advice-from-zdnet/"><u>Unlock Extended Battery Life: A Step-by-Step Guide to Activating MacOS Monterey's Low Power Mode with Advice From ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire-for-2024/"><u>Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire for 2024</u></a></li>
 </ul></div>
 

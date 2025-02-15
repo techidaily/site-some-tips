@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Desired Enhancements for VisionOS: What We Hope Apple Reveals at the Upcoming WWDC Event"
-date: 2025-01-26T22:59:34.057Z
-updated: 2025-01-31T22:30:23.835Z
+date: 2025-02-10T09:39:43.181Z
+updated: 2025-02-15T03:55:07.593Z
 tags:
   - apple
 categories:
@@ -34,7 +34,15 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity & Workflow Enhancements
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
 
@@ -60,6 +68,10 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Security & Privacy Enhancements
 
 ### 3\. Enhanced AI Privacy and Security Controls
@@ -75,7 +87,7 @@ As AI becomes more integrated into daily use, Apple can enhance its privacy and 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Financial Management and Security
@@ -89,10 +101,6 @@ AI could combine financial management tools with [real-time fraud detection](htt
 **Use Case:** Apple Wallet could automatically alert users to suspicious activity in their accounts and AI could provide personalized budgeting advice based on spending patterns, helping users achieve their financial goals. 
 
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Health & Wellness Innovations
 
@@ -108,11 +116,11 @@ AI could provide real-time diagnostics and predictive health insights by leverag
 
 **Also: [The 4 biggest new health features Apple just announced](https://www.zdnet.com/article/the-4-biggest-new-health-features-apple-just-announced/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creative & Media Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. AI-Enhanced Media Production Tools
 
@@ -125,10 +133,6 @@ For creative professionals, AI could streamline tasks in Apple's creativity tool
 **Use Case:** A filmmaker using Final Cut Pro could have AI automatically cut clips, color correct scenes, and apply filters based on their past projects or creative preferences, dramatically reducing editing time.
 
 **Also: [Want Apple's new AI features without buying a new iPhone? Try this app](https://www.zdnet.com/article/want-apples-new-ai-features-without-buying-a-new-iphone-try-this-app/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sustainability & Accessibility
 
@@ -158,10 +162,6 @@ AI could further [enhance accessibility for users with disabilities](https://www
 
 ## Cross-Ecosystem & Personalization
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9\. Gen AI Store & Broader AI Features for IoT Devices
 
 Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users to discover and download AI-driven applications for tasks like personal assistance, home automation, and media recommendations. This would also extend AI functionality to [Internet of Things](https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/) (IoT) devices, such as [HomePod](https://www.zdnet.com/home-and-office/smart-home/apple-homepod-2023-review/) and [Apple TV](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/), allowing AI to automate daily routines and personalize experiences across the home.
@@ -174,6 +174,10 @@ Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users 
 
 **Also: [Buying an Apple Watch Series 10? Consider these 3 features before upgrading](https://www.zdnet.com/article/buying-an-apple-watch-series-10-consider-these-3-features-before-upgrading/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. AI Learning and Personalization
 
 AI could make Apple devices more intuitive by learning from user habits and behaviors. AI would provide personalized suggestions for apps, settings, and actions, such as suggesting a playlist during a workout or optimizing settings for focus when work hours are detected.
@@ -185,10 +189,6 @@ AI could make Apple devices more intuitive by learning from user habits and beha
 **Use Case:** AI could recognize when a user typically works out, automatically suggesting their preferred workout playlist and adjusting device settings like Do Not Disturb to enhance focus. Similarly, AI could learn a user's work routine and suggest apps or contacts frequently used during work hours, streamlining daily tasks.
 
 **Also: [Two reasons why I'm thrilled that there's no new Apple Watch Ultra or AirPods Pro](https://www.zdnet.com/article/two-reasons-why-im-thrilled-that-theres-no-new-apple-watch-ultra-or-airpods-pro/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The future
 
@@ -228,19 +228,20 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-vimeo-integration-for-professional-instagram-users/"><u>[Updated] Vimeo Integration for Professional Instagram Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>2024 Approved Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-enhanced-vr-video-viewing-in-the-modern-age/"><u>Android's Enhanced VR Video Viewing in the Modern Age</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-a-stalled-rockstar-games-launcher-updated-tips/"><u>Easy Fixes for a Stalled Rockstar Games Launcher – Updated Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-leading-program-for-virtual-broadcast-and-screen-capture-solutions/"><u>Enhance Your Online Presence with ManyCam: Leading Program for Virtual Broadcast and Screen Capture Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evolution-of-coding-how-programming-language-preferences-have-shifted-from-2016-onwards-insights-and-trends-techzoom/"><u>Evolution of Coding: How Programming Language Preferences Have Shifted From 2016 Onwards, Insights & Trends | TechZoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-reasons-behind-apples-strategic-title-downgrade-of-ex-staffers-to-associates/"><u>Exploring Reasons Behind Apple's Strategic Title Downgrade of Ex-Staffers to Associates</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/it-workforce-at-a-crossroads-navigating-exhaustion-to-find-positive-developments-according-to-zdnet/"><u>IT Workforce at a Crossroads: Navigating Exhaustion to Find Positive Developments, According to ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/medical-data-revolutionized-by-generative-ai-for-clinicians-the-zdnet-perspective/"><u>Medical Data Revolutionized by Generative AI for Clinicians: The ZDNet Perspective</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-error-repaired-nvlddmkm-successfully-recovered/"><u>Monitor Error Repaired: Nvlddmkm Successfully Recovered</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-initial-test-leads-to-a-breakdown-in-the-latest-version-of-googles-ai-platform-gemini/"><u>My Initial Test Leads to a Breakdown in the Latest Version of Google's AI Platform, Gemini</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-facebook-to-youtube/"><u>Navigating the Giants of Online Communication – Facebook to YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stack-overflow-knowledge-powers-up-gemini-artificial-intelligence-on-google-cloud-platform-wired/"><u>Stack Overflow Knowledge Powers Up Gemini Artificial Intelligence on Google Cloud Platform | Wired</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-hd-hunting-cameras-unveiled/"><u>[New] Top 5 HD Hunting Cameras Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-assessing-free2x-recording-software-quality/"><u>[Updated] Assessing Free2X Recording Software Quality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-revolutionize-your-tiktok-presence-2-effective-ways-using-filmora-techniques/"><u>[Updated] Revolutionize Your TikTok Presence 2 Effective Ways Using Filmora Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-iphone-15-a-comprehensive-guide-to-models-regular-plus-pro-pro-max-insights-from-zdnet/"><u>Choosing the Right iPhone 15: A Comprehensive Guide to Models (Regular, Plus, Pro, Pro Max) - Insights From ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/discover-the-secrets-of-successful-arbitrage-choose-superior-resale-rights-products-for-higher-earnings-using-massmail-technology/"><u>Discover the Secrets of Successful Arbitrage: Choose Superior Resale Rights Products for Higher Earnings Using MassMail Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/download-movavis-on-demand-audio-video-file-changer-convert-m4bm4v-to-multiple-formats-for-free/"><u>Download Movavi's On-Demand Audio Video File Changer - Convert M4B/M4V to Multiple Formats for Free!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-picks-elite-selection-of-apple-watch-screenshields-in-2-insider-review/"><u>Expert Picks: Elite Selection of Apple Watch Screenshields in 2# # | Insider Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/returning-the-apple-vision-pro-made-easy-expert-advice-by-zdnet/"><u>Returning the Apple Vision Pro Made Easy – Expert Advice by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-apple-watch-ultra-2-my-ideal-smartwatch-companion-at-an-unbeatable-labor-day-discount-insights/"><u>The Apple Watch Ultra 2: My Ideal Smartwatch Companion at an Unbeatable Labor Day Discount - Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-components-of-podcast-scripting-guide-plus-free-examples/"><u>The Essential Components of Podcast Scripting (Guide + Free Examples)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-screensaver-2023-edition-techradar/"><u>Top Rated Apple Watch Screensaver - 2023 Edition | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-vpn-apps-for-ios-devices-comprehensive-reviews-by-industry-experts-on-zdnet/"><u>Top-Rated VPN Apps for iOS Devices: Comprehensive Reviews by Industry Experts on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-multi-compatible-magsafe-charger-with-qi-standards-is-revolutionizing-my-tech-on-the-go-experience/"><u>Why the Multi-Compatible MagSafe Charger with QI-Standards Is Revolutionizing My Tech On-The-Go Experience</u></a></li>
 </ul></div>
 

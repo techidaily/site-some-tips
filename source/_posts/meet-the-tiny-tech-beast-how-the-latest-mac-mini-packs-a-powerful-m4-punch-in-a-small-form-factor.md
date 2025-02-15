@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2025-01-24T21:15:12.906Z
-updated: 2025-01-31T16:30:15.754Z
+date: 2025-02-09T22:19:25.050Z
+updated: 2025-02-15T09:34:38.454Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,19 +146,22 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-transition-smoothly-with-chromes-picture-in-picture/"><u>[New] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-affordable-desktop-recording-solutions-reviewed/"><u>[Updated] In 2024, Affordable Desktop Recording Solutions Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-srt-modification-strategies-for-pc-and-macos/"><u>2024 Approved Advanced SRT Modification Strategies for PC and macOS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>2024 Approved Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-renewed-popularity-openstack-and-kata-containers-joint-comeback-insights-from-zdnet/"><u>Exploring the Renewed Popularity: OpenStack & Kata Containers' Joint Comeback - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-immortals-fenyx-rising-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-8-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 8 Plus or iPad?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsoft-releases-innovative-maia-100-ai-processor-and-cobalt-core-cpu-what-you-need-to-know/"><u>Microsoft Releases Innovative Maia 100 AI Processor & Cobalt Core CPU: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/nadph-formation/"><u>NADPH Formation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/prevent-future-failures-in-ai-ethics-with-solutions-for-the-humane-ai-pin/"><u>Prevent Future Failures in AI Ethics with Solutions for the Humane AI Pin</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protecting-confidential-onedrive-documents-with-a-private-vault-tips-and-tricks-from-zdnet/"><u>Protecting Confidential OneDrive Documents with a Private Vault: Tips and Tricks From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-crucial-role-of-cloud-security-insights-and-reasons-you-shouldnt-overlook-zdnet/"><u>The Crucial Role of Cloud Security: Insights & Reasons You Shouldn't Overlook (ZDNet)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[Updated] 2024 Approved The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-perfectly-funny-meme-creator-app/"><u>[Updated] In 2024, Perfectly Funny Meme Creator App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-revolutionary-vision-pro-glasses-delayed-beyond-initial-release-schedule/"><u>Apple's Revolutionary Vision Pro Glasses Delayed Beyond Initial Release Schedule</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repairing-wacom-pen-connectivity-in-microsofts-latest-operating-systems/"><u>Expert Advice: Repairing Wacom Pen Connectivity in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-ig-success-a-guide-to-best-management-tools/"><u>In 2024, Navigating IG Success A Guide to Best Management Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/locating-steam-screenshot-archives/"><u>Locating Steam Screenshot Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-continues-discounting-meta-quest-2-setting-new-record-with-ultra-low-pricing-insights-from-zdnet/"><u>Meta Continues Discounting Meta Quest 2, Setting New Record with Ultra-Low Pricing - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-3-crowned-top-tech-by-zdnet-the-surprising-contender/"><u>Meta Quest 3 Crowned Top Tech by ZDNet - The Surprising Contender!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-marvel-disney-multiverse-how-your-role-shapes-the-story-zdnet-insights/"><u>Navigating the Marvel-Disney Multiverse: How Your Role Shapes the Story | ZDNet Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-fold-2-tease-what-to-expect-in-terms-of-price-release-window-and-innovative-specs/"><u>Pixel Fold 2 Tease: What to Expect in Terms of Price, Release Window, and Innovative Specs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-home-care-discover-how-dysons-advanced-ar-assistance-guarantees-a-spot-free-vacuum-zdnet-insight/"><u>Revolutionizing Home Care: Discover How Dyson's Advanced AR Assistance Guarantees a Spot-Free Vacuum | ZDNET Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tcls-bold-entry-into-augmented-and-virtual-reality-tech-showcased-at-ces-202/"><u>TCL's Bold Entry Into Augmented and Virtual Reality Tech Showcased at CES 202#</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/third-party-manufacturers-can-now-integrate-with-metas-newly-released-open-source-quest-os-supported-by-asus-and-lenovo/"><u>Third-Party Manufacturers Can Now Integrate with Meta's Newly Released, Open Source Quest OS – Supported by Asus and Lenovo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-apple-endorsed-techniques-for-optimizing-uiux-in-visionos-environments-insights-from-zdnet/"><u>Top 7 Apple-Endorsed Techniques for Optimizing UI/UX in VisionOS Environments: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-color-depth-why-hdri-is-preferable-in-media-production/"><u>Unveiling Color Depth Why HDRI Is Preferable in Media Production</u></a></li>
 </ul></div>
 

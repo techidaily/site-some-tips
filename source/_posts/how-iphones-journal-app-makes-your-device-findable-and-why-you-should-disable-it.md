@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2025-01-24T17:32:06.018Z
-updated: 2025-02-01T05:10:05.937Z
+date: 2025-02-08T20:08:56.952Z
+updated: 2025-02-14T23:19:05.931Z
 tags:
   - apple
 categories:
@@ -40,9 +40,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
 
@@ -50,21 +58,25 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -74,23 +86,15 @@ Maria Diaz/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **FAQ**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -105,10 +109,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,22 +148,20 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-visualizing-stories-turning-your-favorite-vimeo-into-dynamic-gifs/"><u>[Updated] Visualizing Stories Turning Your Favorite Vimeo Into Dynamic GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2023s-premier-selection-of-raspberry-pi-starter-and-advanced-kits-expert-picks-by-zdnet/"><u>2023'S Premier Selection of Raspberry Pi Starter and Advanced Kits - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-screen-capture-bandicam-versus-camtasia/"><u>2024 Approved Exploring Screen Capture Bandicam Versus Camtasia</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>2024 Approved Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancing-developer-productivity-with-patience-unveiling-the-impact-of-github-copilot-on-software-innovation-zdnet/"><u>Advancing Developer Productivity with Patience: Unveiling the Impact of GitHub Copilot on Software Innovation | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/anthropic-launches-advanced-tool-utilization-features-in-pre-beta-version-of-claude-setting-the-stage-for-highly-capable-virtual-assistants-insights-from-zd48/"><u>Anthropic Launches Advanced Tool Utilization Features in Pre-Beta Version of 'Claude', Setting the Stage for Highly Capable Virtual Assistants – Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/azure-unveils-model-management-and-advanced-rag-solutions-for-corporate-ai-innovation-microsofts-new-edge-in-generative-tech/"><u>Azure Unveils Model Management and Advanced RAG Solutions for Corporate AI Innovation - Microsoft's New Edge in Generative Tech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-recruitment-with-expert-developer-advice-top-tips-revealed-by-zdnet/"><u>Boosting Recruitment with Expert Developer Advice - Top Tips Revealed by ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design/"><u>From Idea to Execution An Essential Guide to YouTube Shorts Template Design</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-magic-5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor Magic 5 to iPad | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-ubuntus-newest-release-core-edition-24-pioneers-progress-for-the-internet-of-things-and-edge-tech-explore-on-zdnet/"><u>How Ubuntu's Newest Release, Core Edition 24, Pioneers Progress for the Internet of Things and Edge Tech | Explore on ZDNET</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a15-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A15 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/interactive-learning-strategies-in-video-editing/"><u>Interactive Learning Strategies in Video Editing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-minitool-movie-maker-a-detailed-review-user-manual-and-alternative-solutions/"><u>New Minitool Movie Maker A Detailed Review, User Manual, and Alternative Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/open-source-mandate-switzerlands-federal-authorities-commit-to-transparency-with-software-release/"><u>Open Source Mandate: Switzerland's Federal Authorities Commit to Transparency with Software Release</u></a></li>
-<li><a href="https://some-tips.techidaily.com/programming-language-trends-from-2016-the-highs-and-lows-and-insights-for-developers-techcrunch/"><u>Programming Language Trends From 2016: The Highs and Lows & Insights for Developers | TechCrunch</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-fix-tools-enhancing-windows-and-mac-files/"><u>Top 10 Video Editing Fix Tools: Enhancing Windows & Mac Files</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-chatcast-collector-fb-groups-for-2024/"><u>[New] ChatCast Collector - FB Groups for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-picture-in-picture-mode-with-confidence-using-microsoft-edge/"><u>[New] In 2024, Navigating Picture-In-Picture Mode with Confidence Using Microsoft Edge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-stitching-of-gopro-videos-into-complete-360-imagery/"><u>2024 Approved Perfect Stitching of GoPro Videos Into Complete 360 Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-ultimate-selection-of-mp3-players-find-your-perfect-fit-on-zdnet/"><u>2024'S Ultimate Selection of MP3 Players: Find Your Perfect Fit on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-huawei-p60-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Huawei P60 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-showdown-deciding-whether-to-upgrade-to-iphone-1n-pro-or-iphone-14-pro-max-expert-advice-from-zdnet/"><u>Apple's Latest Showdown: Deciding Whether to Upgrade to iPhone 1N-Pro or iPhone 14 Pro Max – Expert Advice From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/youtube-channel-art-templates-find-them-here/"><u>Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-green-with-iphones-how-apples-decision-facilitates-reusing-parts-for-targeted-repairs-insights/"><u>Going Green with iPhones: How Apple's Decision Facilitates Reusing Parts for Targeted Repairs Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/harnessing-power-and-potential-how-the-innovative-raspberry-pi-rp2/"><u>Harnessing Power and Potential: How the Innovative Raspberry Pi RP2</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/regularly-patch-and-update-systems-stay-up-to-date-with-security-patches-and-software-updates-provided-by-vendors-timely-application-of-these-fixes-helps-pr110/"><u>Regularly Patch and Update Systems: Stay Up-to-Date with Security Patches and Software Updates Provided by Vendors. Timely Application of These Fixes Helps Protect Against Known Vulnerabilities that Could Be Exploited by Attackers.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailor-your-iphone-experience-with-ios-18-control-center-customization-tips/"><u>Tailor Your iPhone Experience with iOS 18 Control Center Customization Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-mac-computers-expert-reviews/"><u>Top-Ranking Mac Computers - Expert Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-design-displays-comprehensive-reviews-and-testing-by-professionals-techradar/"><u>Top-Rated Graphics Design Displays - Comprehensive Reviews & Testing by Professionals | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-enhancements-for-select-apple-airpod-models-in-the-autumn-season-insights-and-details-zdnet/"><u>Upcoming Enhancements for Select Apple AirPod Models in the Autumn Season - Insights & Details [ZDNet]</u></a></li>
 </ul></div>
 

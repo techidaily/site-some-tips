@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Latest Tech: Apple Watch Series 10 Vs. Series 8 – Which One Elevates Your Wrist Game?"
-date: 2025-01-29T19:28:04.527Z
-updated: 2025-02-01T02:19:20.489Z
+date: 2025-02-09T00:36:59.521Z
+updated: 2025-02-14T23:34:30.183Z
 tags:
   - apple
 categories:
@@ -50,10 +50,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -69,10 +65,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 ---
@@ -86,7 +78,7 @@ Kerry Wan/ZDNET
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
@@ -98,7 +90,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -110,6 +102,10 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -123,6 +119,10 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
@@ -135,15 +135,15 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb8b7dbc-bcc1-47cf-8fc0-13b0b2496459%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,20 +179,18 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-futuristic-enlightenment-the-best-30-virtual-musings/"><u>[New] Futuristic Enlightenment The Best 30 Virtual Musings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-music-or-voiceover-to-instagram-reels-for-2024/"><u>[New] How to Add Music or Voiceover to Instagram Reels for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>[Updated] Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cultivating-a-loyal-fanbase-through-open-channels/"><u>[Updated] In 2024, Cultivating a Loyal Fanbase Through Open Channels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-deep-dive-into-the-newest-addition-to-the-samsung-smartphone-lineup/"><u>A Deep Dive Into the Newest Addition to the Samsung Smartphone Lineup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/act-now-to-avoid-automatic-account-purge-by-google-important-update-for-disused-profiles-zdnet/"><u>Act Now to Avoid Automatic Account Purge by Google - Important Update for Disused Profiles | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-mitigation-strategies-for-reducing-cost-surprises-in-the-cloud-insights-from-zdnet/"><u>AI Mitigation Strategies for Reducing Cost Surprises in the Cloud - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bypassing-zoom-hurdles-what-to-do-when-the-share-button-vanishes-expert-tips-from-zdnet/"><u>Bypassing Zoom Hurdles: What To Do When The Share Button Vanishes | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/complete-analysis-gopro-hero4-silver-edition/"><u>Complete Analysis GoPro HERO4 Silver Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elite-8-blu-ray-player-rankings-for-4k-quality-for-2024/"><u>Elite 8 Blu-Ray Player Rankings for 4K Quality for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS with/without SIM Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/preorder-now-ryzen-5-9600x-available-in-canada-on-amazon-dont-miss-out-at-just-472/"><u>Preorder Now: Ryzen 5 9600X Available in Canada on Amazon – Don't Miss Out at Just $472</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leading-cloud-certifications-curated-by-zdnet/"><u>The Ultimate Guide to Leading Cloud Certifications – Curated by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-data-into-actionable-insights-master-the-journey-from-edge-to-cloud-with-industry-expertise/"><u>Transform Data Into Actionable Insights: Master the Journey From Edge to Cloud with Industry Expertise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unprecedented-loss-of-files-on-google-drive-raises-concern-among-millions-of-users/"><u>Unprecedented Loss of Files on Google Drive Raises Concern Among Millions of Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>[New] From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-guide-to-android-time-lapse-video-magic/"><u>2024 Approved Expert Guide to Android Time-Lapse Video Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-costless-conundrum-of-final-cut-pro-access/"><u>2024 Approved The Costless Conundrum of Final Cut Pro Access</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-lenovo-thinkreality-a3-for-enhanced-interactive-mixed-reality-review-by-zdnet/"><u>Exploring the Lenovo ThinkReality A3 for Enhanced Interactive Mixed Reality - Review by ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-steam-startup-issue-with-helldivers-ii-a-step-by-step-guide/"><u>Fixing the Steam Startup Issue with Helldivers II – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-beyond-likes-understanding-youtubes-true-view-metrics/"><u>In 2024, Beyond Likes Understanding YouTube’s True View Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kicking-off-innovation-apple-vision-pro-and-its-impact-on-dev-community-unveiled-in-latest-developer-lab-session-digital-trends/"><u>Kicking Off Innovation: Apple Vision Pro and Its Impact on Dev Community Unveiled in Latest Developer Lab Session - Digital Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-anthropics-claude-3-ai-toolkit/"><u>Mastering Anthropic's Claude 3 AI Toolkit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-delays-release-of-innovative-vr-headset-aims-for-end-of-year-launch-insights-from-industry-sources/"><u>Samsung Delays Release of Innovative VR Headset, Aims for End-of-Year Launch – Insights From Industry Sources</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-wifi-speeds-to-new-heights-the-ultimate-guide-and-assessment-of-the-netgear-nighthawk-x1ad7200-router/"><u>Taking WiFi Speeds to New Heights: The Ultimate Guide and Assessment of the Netgear Nighthawk X1^AD7200 Router</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-3-critical-errors-in-using-the-apple-vision-pro-dont-make-these-blunders/"><u>Top 3 Critical Errors in Using the Apple Vision Pro - Don't Make These Blunders!</u></a></li>
 </ul></div>
 

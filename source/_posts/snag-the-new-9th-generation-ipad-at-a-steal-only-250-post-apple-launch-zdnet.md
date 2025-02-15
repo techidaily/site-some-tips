@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2025-01-26T21:31:07.226Z
-updated: 2025-01-31T19:34:45.709Z
+date: 2025-02-10T04:08:57.431Z
+updated: 2025-02-14T16:55:23.083Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,18 +69,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/resolved-asus-keys-no-light/"><u>[RESOLVED] Asus Keys No Light</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-smart-solutions-apply-apple-watch-open-mac-for-2024/"><u>[Updated] Smart Solutions Apply Apple Watch, Open Mac for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-most-effective-microsoft-training-programs-elite-tech-certification-options-insights-from-zdnet/"><u>1. Most Effective Microsoft Training Programs: Elite Tech Certification Options - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-unveils-advanced-ai-performance-gauge-the-next-gen-rag-benchmark/"><u>Amazon Unveils Advanced AI Performance Gauge - The Next-Gen RAG Benchmark</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/aomei-baci-up-registrazione-e-installazione-di-un-copia-di-sicurezza-completa-in-formato-filecartella-gratuita/"><u>AOMEI Baci Up - Registrazione E Installazione Di Un Copia Di Sicurezza Completa in Formato File/Cartella Gratuita</u></a></li>
-<li><a href="https://some-tips.techidaily.com/beyond-salary-the-top-two-priorities-of-open-source-professionals-seeking-new-positions/"><u>Beyond Salary: The Top Two Priorities of Open-Source Professionals Seeking New Positions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-iphones-compatible-with-ios-18-updates-identifying-models-that-fall-short/"><u>Comprehensive List of iPhones Compatible with iOS 18 Updates: Identifying Models That Fall Short</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-ultra-fast-5g-with-the-motorola-one-5g-ace-exceptional-performance-and-long-lasting-battery/"><u>Experience Ultra-Fast 5G with the Motorola One 5G Ace - Exceptional Performance and Long-Lasting Battery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/farewell-to-traditional-ui-exploring-the-revolution-of-interfaces-with-generative-ai-zdnet/"><u>Farewell to Traditional UI: Exploring the Revolution of Interfaces with Generative AI | ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>In 2024, Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/transform-overload-into-order-with-skillful-tiktok-saves-edits-for-2024/"><u>Transform Overload Into Order with Skillful TikTok Saves Edits for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-ideapad-130s-power-constraints-and-usability-surprises/"><u>Unveiling the Lenovo IdeaPad 130S: Power Constraints and Usability Surprises</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightning-fast-windowed-image-viewer/"><u>[New] Lightning-Fast Windowed Image Viewer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[New] Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimizing-conversion-processes-from-xml-to-high-quality-srts-for-2024/"><u>[Updated] Optimizing Conversion Processes From XML to High-Quality SRTs for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic5-ultimate-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-bargains-for-august-2023-unveiling-the-hottest-deals-featured-on-zdnet/"><u>Amazon Bargains for August 2023: Unveiling the Hottest Deals Featured on ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dive-deep-into-high-quality-video-capture-technology-for-2024/"><u>Dive Deep Into High-Quality Video Capture Technology for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-your-privacy-in-virtual-reality-the-essential-role-of-vpns-with-devices-like-vision-pro/"><u>Protecting Your Privacy in Virtual Reality: The Essential Role of VPNs with Devices Like Vision Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/set-up-apple-vision-pro-with-a-vpn-essential-guide-and-benefits-explore-easier-methods/"><u>Set Up Apple Vision Pro with a VPN: Essential Guide & Benefits - Explore Easier Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skip-the-startup-how-to-remove-your-lock-screen-in-windows-11/"><u>Skip the Startup: How to Remove Your Lock Screen in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surpassing-rivals-how-apples-innovations-could-outshine-openai-microsoft-and-google-during-the-2024-worldwide-developers-conference-insights/"><u>Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-insight-unpacking-vocaloid-phenomenon/"><u>The Ultimate Insight Unpacking Vocaloid Phenomenon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airtag-wallet-reviews-of-2024-comprehensive-guide-by-tech-experts/"><u>Top-Rated AirTag Wallet Reviews of 2024 - Comprehensive Guide by Tech Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-victors-in-depth-comparison-of-pixel-9-pro-xl-vs-iphone-15-pro-cameras-ends-in-unexpected-results/"><u>Unveiling the Victors: In-Depth Comparison of Pixel 9 Pro XL vs iPhone 15 Pro Cameras Ends in Unexpected Results!</u></a></li>
 </ul></div>
 

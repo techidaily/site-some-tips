@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Inbox with This Single-Step Email Hack – No Junk, Just Essentials!
-date: 2025-01-14T20:01:52.042Z
-updated: 2025-01-18T10:00:53.087Z
+date: 2025-02-07T20:48:46.265Z
+updated: 2025-02-15T03:02:36.545Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,17 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-speedy-windows-inspecting/"><u>[Updated] The Essential Guide to Speedy Windows Inspecting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>[Updated] The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-iconic-movie-moments-to-inspire-your-edits-for-2024/"><u>10 Iconic Movie Moments to Inspire Your Edits for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fresh-start-with-new-epson-xp-640-driver-update-for-windows-1087/"><u>Fresh Start with New Epson XP-640 Driver Update - For Windows 10/8/7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/google-enhances-its-calendar-with-easy-bookable-slots-for-seamless-scheduling-what-you-need-to-know-zdnet/"><u>Google Enhances Its Calendar with Easy Bookable Slots for Seamless Scheduling - What You Need to Know | ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-bridging-identities-with-100-creative-and-empowering-insta-captions/"><u>In 2024, Bridging Identities with 100 Creative and Empowering Insta Captions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-9-pro-fold-vs-standard-pixel-fold-choosing-the-right-smartphone-for-your-needs-insights-from-zdnet/"><u>Pixel 9 Pro Fold Vs. Standard Pixel Fold: Choosing the Right Smartphone for Your Needs - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-results-and-champion/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Results & Champion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-power-up-should-you-go-from-7-pro-to-8-pro-on-zdnets-comparison/"><u>Pixel Power-Up! Should You Go From 7 Pro to 8 Pro on ZDNet's Comparison?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-accessing-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>Solution Guide: Accessing Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-to-reducing-energy-expenses-through-schneider-electric-solutions-zdnet/"><u>Unlock the Secrets to Reducing Energy Expenses Through Schneider Electric Solutions | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>[New] Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-positivity-in-a-constructive-space/"><u>[Updated] 2024 Approved Elevating Positivity in a Constructive Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exquisite-selection-idle-games-with-infinite-play/"><u>[Updated] 2024 Approved Exquisite Selection Idle Games with Infinite Play</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-perfect-lighting-setup-for-engaging-youtube-videos/"><u>[Updated] In 2024, Perfect Lighting Setup for Engaging YouTube Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] In 2024, Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-boost-your-podcast-visibility-with-seo-tactics/"><u>2024 Approved Boost Your Podcast Visibility with SEO Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-apple-vision-pro-explore-costs-capabilities-and-real-world-use-with-our-exclusive-insight-at-zdnet/"><u>Discover the Apple Vision Pro: Explore Costs, Capabilities & Real-World Use with Our Exclusive Insight at ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-privacy-unveiling-the-measures-apple-takes-to-protect-your-ai-cloud-data-insights/"><u>Ensuring Privacy: Unveiling the Measures Apple Takes to Protect Your AI Cloud Data - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experiencing-apples-studio-display-a-stunning-yet-expensive-27-inch-5k-screen-tailored-for-professionals-using-mac-insights/"><u>Experiencing Apple's Studio Display: A Stunning Yet Expensive $27-Inch 5K Screen Tailored for Professionals Using Mac - Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-convert-ogg-to-webm-with-moveavee/"><u>Free Online Converter: Convert OGG to WebM with Moveavee</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-note-12-pro-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi Note 12 Pro 4G Lock Screen Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-how-the-microsoft-surface-pro-8-meets-enterprise-needs-featured/"><u>In-Depth Analysis: How the Microsoft Surface Pro 8 Meets Enterprise Needs, Featured</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-without-iphone-13-and-15-pro-top-alternatives-to-consider-zdnet/"><u>Navigating the Future without iPhone 13 and 15 Pro - Top Alternatives to Consider | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplified-guide-quickest-methods-for-securely-moving-data-from-your-macbook-unveiled/"><u>Simplified Guide: Quickest Methods for Securely Moving Data From Your MacBook - Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-watch-bargains-for-july-2024-exclusive-offers-you-cant-miss-featured/"><u>Top Apple Watch Bargains for July 2024: Exclusive Offers You Can't Miss - Featured</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-configuring-your-new-apple-watch-tips/"><u>Ultimate Guide to Configuring Your New Apple Watch - Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-new-apple-podcasts-automated-transcription-feature-similarities-with-subtitles-explored-by-zdnet/"><u>Unveiling the New Apple Podcasts' Automated Transcription Feature: Similarities with Subtitles Explored by ZDNET</u></a></li>
 </ul></div>
 

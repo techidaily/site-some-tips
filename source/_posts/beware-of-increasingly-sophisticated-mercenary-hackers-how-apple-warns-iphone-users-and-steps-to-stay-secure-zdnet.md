@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2025-01-26T21:22:34.909Z
-updated: 2025-02-01T01:19:21.285Z
+date: 2025-02-12T20:16:18.231Z
+updated: 2025-02-14T22:06:36.122Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,19 +119,20 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-enhancing-video-quality-callout-techniques-for-engaging-edits/"><u>[New] 2024 Approved Enhancing Video Quality Callout Techniques for Engaging Edits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-resource-for-profiting-from-your-youtube-content/"><u>[New] In 2024, The Ultimate Resource for Profiting From Your YouTube Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>[Updated] 2024 Approved Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-banner-bliss-get-a-peek-at-our-library-of-50-free-youtube-banners/"><u>[Updated] In 2024, Banner Bliss Get a Peek at Our Library of 50 Free YouTube Banners!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/debunking-ai-size-supremacy-how-amazons-experts-show-bigger-isnt-better-for-alexa-deep-dive-with-zdnet/"><u>Debunking AI Size Supremacy: How Amazon's Experts Show Bigger Isn't Better for Alexa | Deep Dive with ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-most-accurate-and-user-friendly-storm-trackers-for-202n4/"><u>Discover the Most Accurate and User-Friendly Storm Trackers for 202N4</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evolution-at-stack-overflow-transforming-from-startup-to-leading-online-tech-community-zdnet/"><u>Evolution at Stack Overflow: Transforming From Startup to Leading Online Tech Community | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-ai-and-rust-with-linus-torvalds-the-essential-role-of-the-linux-kernel/"><u>Exploring AI & Rust with Linus Torvalds: The Essential Role of the Linux Kernel</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-streamline-linux-open-source-manuals-for-clarity-and-efficiency-codecraft-solutions/"><u>How To Streamline Linux Open Source Manuals for Clarity and Efficiency | CodeCraft Solutions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>In 2024, Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/metas-ambitious-global-language-project-struggles-with-hurdles-in-greek-armenian-and-oromo-languages-a-deep-dive-by-zdnet/"><u>Meta's Ambitious Global Language Project Struggles with Hurdles in Greek, Armenian, and Oromo Languages - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-best-of-both-worlds-top-split-screen-video-editing-apps-for-ios-and-android/"><u>New In 2024, The Best of Both Worlds Top Split-Screen Video Editing Apps for iOS & Android</u></a></li>
-<li><a href="https://win-top.techidaily.com/overcoming-technology-dilemmas-solving-the-primary-boot-device-missing-error-a-comprehensive-tutorial-on-recovering-from-startup-issues/"><u>Overcoming Technology Dilemmas: Solving the 'Primary Boot Device Missing Error' - A Comprehensive Tutorial on Recovering From Startup Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/potential-risks-for-tech-businesses-amidst-russian-invasion-of-ukraine-an-analysis-by-zdnet/"><u>Potential Risks for Tech Businesses Amidst Russian Invasion of Ukraine - An Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-combined-sound-and-sight-workstation-for-2024/"><u>[New] Combined Sound & Sight Workstation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anticipated-launch-of-airpods-lite-and-airpods-max-set-for-announcement-this-year-says-zdnet-report/"><u>Anticipated Launch of 'AirPods Lite' And AirPods Max Set for Announcement This Year, Says ZDNet Report</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-mov-file-joining-solutions/"><u>Best Free MOV File Joining Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/charge-and-stay-chill-the-ultimate-3-in-1-magsafe-station-for-all-apple-gadgets/"><u>Charge & Stay Chill: The Ultimate 3-in-1 MagSafe Station for All Apple Gadgets</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cut-buffering-time-turn-on-av1-in-youtube-settings-for-2024/"><u>Cut Buffering Time – Turn On AV1 in YouTube Settings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-your-wrist-tech-game-apple-watch-series-10-vs-series-8-which-is-the-next-must-have-gadget/"><u>Elevating Your Wrist Tech Game: Apple Watch Series 10 Vs. Series 8 – Which Is the Next Must-Have Gadget?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y55s-5g-2023-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-build-a-fortified-mc-base-plan-6-10/"><u>In 2024, Build a Fortified MC Base Plan #6-10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-ipad-calculator-app-a-must-have-tool-that-deserves-the-touch-of-an-apple-pencil-reviewed-by-tech-experts-at-zdnet/"><u>Innovative iPad Calculator App: A Must-Have Tool That Deserves the Touch of an Apple Pencil - Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-content-extractor-the-best-of-the-rest/"><u>Instagram Content Extractor The Best of the Rest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-solutions-for-windows-11-lags/"><u>Keyboard Responsiveness Improved – Solutions for Windows 11 Lags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/returning-the-apple-vision-pro-made-easy-expert-advice/"><u>Returning the Apple Vision Pro Made Easy – Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-visionpro-the-top-three-actions-required-for-apples-successful-comeback-digitalgadgeteer/"><u>Revamping VisionPro: The Top Three Actions Required for Apple's Successful Comeback | DigitalGadgeteer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/turn-your-videos-into-a-revenue-stream-with-these-tips-for-2024/"><u>Turn Your Videos Into a Revenue Stream with These Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-apples-revolutionary-ai-tech-enhanced-understanding-of-your-home-screen-and-a-power-boosted-siri-zdnet/"><u>Unveiling Apple's Revolutionary AI Tech: Enhanced Understanding of Your Home Screen & a Power-Boosted Siri | ZDNet</u></a></li>
 </ul></div>
 

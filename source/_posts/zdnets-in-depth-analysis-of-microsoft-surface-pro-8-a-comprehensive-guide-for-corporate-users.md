@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2025-01-26T23:29:17.086Z
-updated: 2025-02-01T02:01:52.400Z
+date: 2025-02-10T18:21:38.034Z
+updated: 2025-02-14T20:37:20.649Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -74,6 +70,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -89,10 +89,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -127,10 +123,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,7 +134,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -158,7 +150,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -173,7 +165,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,20 +212,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-essentials-of-gameplay-saving-a-complete-guide-to-recording-minecraft-on-mac/"><u>[New] 2024 Approved The Essentials of Gameplay Saving A Complete Guide to Recording Minecraft on Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-noise-free-recording-strategy/"><u>[New] 2024 Approved The Ultimate Noise-Free Recording Strategy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-solved-obs-full-screen-not-working-for-2024/"><u>[Updated] [Solved] OBS Full Screen Not Working for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-comprehensive-analysis-strengths-and-weaknesses-of-the-new-open-source-security-legislation/"><u>A Comprehensive Analysis: Strengths and Weaknesses of the New Open Source Security Legislation</u></a></li>
-<li><a href="https://win-unique.techidaily.com/can-you-trust-windows-defender-for-cybersecurity-a-comprehensive-review-by-yl-software-expertise/"><u>Can You Trust Windows Defender for Cybersecurity? A Comprehensive Review by YL Software Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-your-favorite-songs-from-pandora-for-free-top-2-reliable-apps/"><u>Download Your Favorite Songs From Pandora for Free: Top 2 Reliable Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers/"><u>In 2024, Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-linux-vulnerabilities-can-we-secure-our-systems-if-every-kernel-bug-puts-us-at-risk/"><u>Navigating Linux Vulnerabilities: Can We Secure Our Systems If Every Kernel Bug Puts Us at Risk?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-tech-success-how-stack-overflows-cto-scaled-one-of-the-internets-largest-communities-insights-on-zdnet/"><u>Navigating Tech Success: How Stack Overflow's CTO Scaled One of the Internet’s Largest Communities, Insights on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ops/"><u>Ops</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfecting-your-craft-the-role-of-chatgpt-in-freelance-writing-success/"><u>Perfecting Your Craft: The Role of ChatGPT in Freelance Writing Success</u></a></li>
-<li><a href="https://facebook.techidaily.com/revolutionizing-interaction-facebooks-new-audio-capabilities/"><u>Revolutionizing Interaction: Facebook's New Audio Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-comeback-trail-understanding-the-surge-in-popularity-for-openstack-and-kata-containers-insights-from-zdnet/"><u>The Comeback Trail: Understanding the Surge in Popularity for OpenStack & Kata Containers - Insights From ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-c22-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia C22 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/whats-next-for-winamp-exploring-its-new-direction-beyond-the-open-source-pathway-insights-from-zdnet/"><u>What's Next for Winamp? Exploring Its New Direction Beyond the Open Source Pathway - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-font-exploration-for-enhanced-youtube-thumbnails-appeal/"><u>[New] In 2024, Font Exploration for Enhanced YouTube Thumbnails' Appeal</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-insiders-guide-to-perfected-picture-hues/"><u>[Updated] 2024 Approved The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>[Updated] Capture Your Gameplay Essential Webcams For Twitch Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-guiding-you-through-youtubes-security-settings/"><u>2024 Approved Guiding You Through YouTube's Security Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-apple-podcasts-now-features-auto-generated-transcriptions-akin-to-closed-captions-insights/"><u>Discover How Apple Podcasts Now Features Auto-Generated Transcriptions Akin to Closed Captions - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-bargain-apple-unveils-budget-friendly-m2-mac-mini-at-a-record-low-479/"><u>Discover the Bargain: Apple Unveils Budget-Friendly M2 Mac Mini at a Record Low $479</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-ios-update-in-iphones-could-expose-you-learn-to-hide-your-device-from-unwanted-attention/"><u>How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-the-missing-file-warning-addressing-mfc42dll-deficiency/"><u>How To Repair The 'Missing File' Warning: Addressing mfc42.dll Deficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-itel-a60-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Itel A60</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-unsticking-your-frozen-windows-update-at-0-percent/"><u>Simple Solutions for Unsticking Your Frozen Windows Update at 0 Percent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/siris-smart-leap-forward-with-new-apple-intelligence-key-updates-slated-for-aturth-unveiled-on-zdnet/"><u>Siri's Smart Leap Forward with New Apple Intelligence; Key Updates Slated for Aturth | Unveiled on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-nomad-case-with-magsafe-compatibility-and-stunning-designs-for-your-apple-iphone-13-durable-drop-protection-guaranteed/"><u>Top-Rated Nomad Case with MagSafe Compatibility & Stunning Designs for Your Apple iPhone 13 - Durable Drop Protection Guaranteed</u></a></li>
 </ul></div>
 

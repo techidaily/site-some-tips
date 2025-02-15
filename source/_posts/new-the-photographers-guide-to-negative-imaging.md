@@ -1,7 +1,7 @@
 ---
 title: "[New] The Photographer’s Guide to Negative Imaging"
-date: 2024-08-15T10:09:21.093Z
-updated: 2024-08-16T10:09:21.093Z
+date: 2025-02-10T08:32:28.884Z
+updated: 2025-02-14T20:03:32.935Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,10 @@ You can experiment with the values you assign to each of these sliders in order 
 
 ![Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
 
 #### 4. Inverting colors in tjshome
@@ -78,6 +82,10 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using Adobe Photoshop
@@ -87,6 +95,10 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -114,6 +126,10 @@ Creating a negative of photos you take with your phone can be fun, so why not us
 
 ![Covert color](https://images.wondershare.com/filmora/article-images/negative-photo-effects-hd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Inverting the colors in a photo with Negative Photo Effect HD is easy since you just have to select a photo from the gallery or use the iPhone’s camera to snap a new one and apply the **negative photo effect**. You can highlight the area of the photo you’d like to invert with your finger or use some of the app’s photo editing tools to enhance the colors in the negative photo. You can save or share the photos you created, but if you use the free version of the app your photos will be watermarked unless you purchase the **Free Ads and Watermark package** for **$2.99.**
 
 **Conclusion**
@@ -122,13 +138,15 @@ Inverting colors in a photo is not a complicated process, but finding creative w
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,14 +170,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] In 2024, From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2022s-ultimate-guide-picking-the-perfect-outdoor-fire-pit-insights-from-pcmag/"><u>2022'S Ultimate Guide: Picking the Perfect Outdoor Fire Pit - Insights From PCMag</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-t300-steering-wheel-drivers-compatible-with-windows-11-and-10-systems/"><u>Download the Latest T300 Steering Wheel Drivers Compatible with Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-tool-convert-portable-bitmaps-pbm-to-jpeg-format-with-ease-moveavi/"><u>Free Online Tool: Convert Portable Bitmaps (PBM) to JPEG Format with Ease - Moveavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-delete-user-profile-in-windows-10-revouninstaller/"><u>How to Delete User Profile in Windows 10 - RevoUninstaller</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-identify-premium-hassle-free-free-srt-translator-services-for-2024/"><u>How to Identify Premium, Hassle-Free Free SRT Translator Services for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/integrating-streamlabs-smoothly-with-obs-on-macbooks-for-2024/"><u>Integrating Streamlabs Smoothly with OBS on MacBooks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726809663288-top-rated-portable-solar-power-banks-a-comprehensive-review-by-zdnet/"><u>Top-Rated Portable Solar Power Banks : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-review-how-the-ecoflow-river-3-became-my-favorite-entry-level-highly-reliable-portable-charger/"><u>ZDNet Review: How the EcoFlow River 3 Became My Favorite Entry-Level, Highly Reliable Portable Charger!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-newest-find-get-an-electric-bike-plus-a-bonus-portable-grill/"><u>ZDNet's Newest Find: Get an Electric Bike Plus a Bonus Portable Grill</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-review-how-this-tough-android-outshines-the-iphone-with-its-advanced-thermal-features-and-performance-chops/"><u>ZDNet's Review: How This Tough Android Outshines the iPhone With Its Advanced Thermal Features and Performance Chops</u></a></li>
+</ul></div>
 
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

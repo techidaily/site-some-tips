@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Working Together on Apple Pages Files Using iCloud - Insights From ZDNet
-date: 2025-01-27T23:28:19.310Z
-updated: 2025-02-01T04:59:33.212Z
+date: 2025-02-11T20:59:33.831Z
+updated: 2025-02-14T21:06:03.969Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -32,7 +32,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -41,12 +41,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -58,7 +62,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -105,10 +109,6 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stop sharing
 
 When you're finished collaborating on the document, you should disable the sharing feature -- otherwise those who have been given access to the document can continue using it, which you won't want when the document is done. To stop sharing, simply click the Collaboration button, and in the resulting popup (**Figure 7**), click Stop Sharing.
@@ -149,24 +149,21 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-gif-making-software-the-ultimate-guide/"><u>[New] 2024 Approved Essential GIF Making Software The Ultimate Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chuckle-cheat-sheet-perfectly-timed-memes/"><u>[Updated] Chuckle Cheat Sheet Perfectly Timed Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-most-economical-and-efficient-web-hosting-solutions-professional-ratings-and-comparisons-zdnet/"><u>2024'S Most Economical and Efficient Web Hosting Solutions: Professional Ratings & Comparisons | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>Beyond Expectations The New Samsung UBD-K8500 Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-new-epson-wf-3720-driver-update-now-download-here/"><u>Get Your New Epson WF 3720 Driver Update Now - Download Here!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/improving-iphone-call-clarity-a-guide-with-10-effective-techniques/"><u>Improving iPhone Call Clarity: A Guide with 10 Effective Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-moto-g-stylus-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Moto G Stylus 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-breakthroughs-microsoft-upgrades-azure-speech-ai-at-build-2024-as-covered-by-zdnet/"><u>Innovative Breakthroughs: Microsoft Upgrades Azure Speech AI at Build 2024, as Covered by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-advanced-iphone-16-worth-your-investment-a-critical-review-by-experts-at-zdnet/"><u>Is the Advanced iPhone 16 Worth Your Investment? A Critical Review by Experts at ZDNet</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/leichter-ubergang-von-windows-10-zu-einer-kompakteren-solid-state-laufwerkstechnologie/"><u>Leichter Übergang: Von Windows 10 Zu Einer Kompakteren Solid-State-Laufwerkstechnologie</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-deal-making-in-todays-highly-competitive-cloud-market-strategies-from-zdnet/"><u>Mastering the Art of Deal-Making in Today’s Highly Competitive Cloud Market: Strategies From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsoft-revamps-consumer-strategy-another-update-techcrunch/"><u>Microsoft Revamps Consumer Strategy - Another Update | TechCrunch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-cloud-security-with-googles-new-duet-ai-solution-latest-developments-covered-by-zdnet/"><u>Navigating Cloud Security with Google's New Duet AI Solution - Latest Developments Covered by ZDNET</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-itel-a60-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Itel A60 has been deleted</u></a></li>
-<li><a href="https://win11.techidaily.com/releasing-overflow-fixing-caps-on-gpt-chat/"><u>Releasing Overflow: Fixing Caps on GPT Chat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-impact-of-cutting-edge-artificnial-intelligence-on-the-future-of-the-iphone-16-an-insight-by-zdnet/"><u>The Impact of Cutting-Edge Artificnial Intelligence on the Future of the iPhone 16: An Insight by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-importance-of-cloud-security-a-comprehensive-guide-forbes/"><u>Understanding the Importance of Cloud Security: A Comprehensive Guide | Forbes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/united-accuracy-the-journey-to-satisfactory-climate-insights-with-a-team-of-180-expert-meteorologists/"><u>United Accuracy: The Journey to 'Satisfactory' Climate Insights with a Team of 180 Expert Meteorologists</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96064811-9781465477392-yoga-your-home-practice-companion/"><u>Yoga: Your Home Practice Companion | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quantum-quadrants-cinematic-frontiers/"><u>[New] 2024 Approved Quantum Quadrants Cinematic Frontiers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-zooming-into-success-amplifying-your-tiktok-videos/"><u>[New] In 2024, Zooming Into Success Amplifying Your TikTok Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-learn-to-record-and-save-videos-from-webcam-for-2024/"><u>[New] Learn to Record and Save Videos From Webcam for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-acurite-professional-weather-station-model-01036m/"><u>Comprehensive Analysis of the AcuRite Professional Weather Station - Model 01036M</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-windows-sound-card-driver-downloads-get-the-best-audio-experience/"><u>Free Windows Sound Card Driver Downloads - Get the Best Audio Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 Phone without Google Account?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/lenovo-thinkreality-a3-immersive-experience-with-mixed-reality-technology-insights-from-zdnet/"><u>Lenovo ThinkReality A3: Immersive Experience with Mixed Reality Technology - Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-transform-your-photos-into-videos-with-these-10-online-tools-for-2024/"><u>New Transform Your Photos Into Videos with These 10 Online Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/open-source-transformation-uncovered-key-statistics-and-analysis-from-zdnet/"><u>Open-Source Transformation Uncovered: Key Statistics and Analysis From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-choices-the-very-best-tripods-for-high-definition-shooting/"><u>Premium Choices The Very Best Tripods for High Definition Shooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-in-business-insights-for-leaders-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech in Business | Insights for Leaders | ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-pro-software-the-go-to-solution-for-seamless-scheduled-file-and-folder-deletion-on-your-mac/"><u>Stellar File Eraser 5 Pro Software: The Go-To Solution for Seamless Scheduled File & Folder Deletion on Your Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-working-from-home-for-tech-experts-with-vr-and-digital-twins-expert-analysis-by-zdnet/"><u>The Future of Working From Home for Tech Experts with VR and Digital Twins | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-key-insights-from-the-dissection-of-apple-vision-pro-by-ifixit-a-deep-dive-analysis/"><u>Top 5 Key Insights From the Dissection of Apple Vision Pro by IFixit - A Deep Dive Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-next-level-virtual-reality-with-discounted-xr-glasses-on-prime-day-say-goodbye-to-fomo-and-limited-views/"><u>Unlock Next-Level Virtual Reality with Discounted XR Glasses on Prime Day - Say Goodbye to FOMO and Limited Views!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-tech-enthusiasts-are-buzzing-about-apples-vision-pro-top-9-factors-influencing-purchases-of-this-high-end-3500-gear/"><u>Why Tech Enthusiasts Are Buzzing About Apple's Vision Pro - Top 9 Factors Influencing Purchases of This High-End $3,500 Gear</u></a></li>
 </ul></div>
 

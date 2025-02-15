@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tailoring Your Multi-Task Experience  Safe Area & PIP Settings\""
-date: 2024-08-08T08:27:40.842Z
-updated: 2024-08-09T08:27:40.842Z
+date: 2025-02-09T06:17:33.861Z
+updated: 2025-02-14T16:44:25.918Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ To experience Picture in Picture on Mac, you must first launch Safari. You may u
 
 Another consideration is that some websites may not support Picture in Picture. In this situation, you will be unable to watch your chosen videos unless you use particular programs that support them. However, because each site operates differently, the procedure you must use to enter this mode may differ.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Entry Picture in Picture (PiP) on Mac
 
 Let's have a look at how to use Picture in Picture in Safari on Mac:
@@ -51,17 +48,15 @@ Let's have a look at how to use Picture in Picture in Safari on Mac:
 You can see that utilizing Picture in Picture in Safari for Mac is simple, straightforward, and adaptable. Let's look at how to get the most of this feature now.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using Picture in Picture (PiP) on Mac
 
 When you enable this feature, the video will shrink and move to a corner on Mac's screen while still playing. You can perform several tasks to your taste as you keep watching and working. If you feel the size is too small or big, you can resize it by dragging any corner of the video. Furthermore, you can click and pull it to any side of the window if it disturbs your view.
 
 There is a play and pause button available also as well as the forward and backward if you wish to perform any of these activities. And again, you can decide to turn off this feature by repeating the procedure where you locate the small sound icon. But here, you select the mute this tab instead or click the "**X"** button at the top left corner to stop the video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. How to enable and disable picture in picture in Safari for iPhone
 
 As we have discussed earlier, users have a way to enable the picture in picture mode before launching iOS14, where the feature is incorporated in the settings. Thanks to Apple's new APIs, this functionality is no longer limited to watching videos while working on other apps with iOS 15\. However, the following procedure is how you can enable the picture in picture mode on your iPhone.
@@ -70,18 +65,20 @@ As we have discussed earlier, users have a way to enable the picture in picture 
 * Search for **Picture in Picture** in the **General** section and click on the option.
 * Once it opens, you will see a toggle button for **Start PiP Automatically**; turn it **ON** to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start pip automatically](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You perform the above procedure also to disable the feature. However, in the case of disabling the option, you turn **OFF** the toggle button for **Start PiP Automatically** to disable this function.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using the Picture in Picture feature on iPhones
 
 Once you lunch this feature on iOS 14 or greater versions, it automatically shrinks to the top or bottom side of the screen. Here, you can perform several activities with the features, including resizing, moving, and aligning the video with the window. In the case of aligning, depending on your choice, it could be to the screen's top right, bottom right, top left, and bottom left.
@@ -89,6 +86,10 @@ Once you lunch this feature on iOS 14 or greater versions, it automatically shri
 To move the window to any screen part, simply tap and hold the video to drag and place it on any part of the screen you want. Another fantastic feature the iPhone offers is that it allows you to minimize the picture-in-picture window, and you will keep listening to the audio part of the video while working on other apps.
 
 ![move the window to any screen part](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-in-safari-for-mac-iphone-ipad-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To perform this minimizing feature, grab the window and move it to either side of the screen's edge. In doing so, the window will disappear, and you will keep hearing the sound only. But, on the screen side, where you move the window, you will see an arrow and a grabber indicating its presence, and you can use it to revive the video.
 
@@ -106,8 +107,9 @@ The picture in picture mode has been available on the iPad long before it was in
 Above all, you need to have it in the back of your mind that regardless of how you enable this feature, the app or website needs to support the picture in picture mode to work correctly. However, almost all website supports this feature, with YouTube being the top supporter.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Going through emails in the morning while viewing news videos in Picture-in-Picture mode can help you save time. You don't have to launch a new Safari window or rely on Split View, which consumes important screen space while multitasking.
@@ -117,7 +119,6 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,10 +142,20 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-from-0-to-million-views-the-ultimate-content-blueprint/"><u>[New] From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-essential-fluid-dynamics-gaming-experiences/"><u>[New] Top Essential Fluid Dynamics Gaming Experiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-guide-to-winning-at-game-capturing-with-win10/"><u>[Updated] 2024 Approved A Guide to Winning at Game Capturing with Win10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>[Updated] In 2024, Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-meme-manifestation-station/"><u>2024 Approved Meme Manifestation Station</u></a></li>
+<li><a href="https://some-tips.techidaily.com/india-and-singapore-partner-on-seamless-interbank-fund-transfer-solutions-a-leap-forward-in-international-finance/"><u>India & Singapore Partner on Seamless Interbank Fund Transfer Solutions: A Leap Forward in International Finance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-movie-aesthetics-through-color-grading-and-luts-for-2024/"><u>Mastering Movie Aesthetics Through Color Grading and Luts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-desynchronized-audio-on-iphone-videos-a-step-by-step-guide/"><u>Resolving Desynchronized Audio on iPhone Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-flight-with-confidence-over-8000-embrace-new-era-in-southwest-airlines-journey-zdnet-report/"><u>Taking Flight with Confidence: Over 8,000 Embrace New Era in Southwest Airlines Journey | ZDNET Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-robotic-workers-in-low-demand-jobs-implications-during-recession/"><u>The Rise of Robotic Workers in Low-Demand Jobs: Implications During Recession</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-point-of-sale-systems-finding-the-perfect-fit-for-your-business-zdnet/"><u>Top-Rated Point of Sale Systems : Finding the Perfect Fit for Your Business | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-new-possibilities-how-apples-enhanced-iphone-nfc-integration-with-third-party-applications-can-transform-your-experience-techinnovators/"><u>Unlock New Possibilities: How Apple’s Enhanced iPhone NFC Integration with Third-Party Applications Can Transform Your Experience | TechInnovators</u></a></li>
+</ul></div>
 

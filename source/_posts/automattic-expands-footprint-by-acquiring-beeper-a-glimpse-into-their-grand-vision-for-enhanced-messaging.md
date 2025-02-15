@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2025-01-29T05:49:29.549Z
-updated: 2025-01-31T22:49:22.703Z
+date: 2025-02-11T03:25:13.780Z
+updated: 2025-02-14T21:19:05.546Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,22 +161,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook-for-2024/"><u>[Updated] How to Set Up Smooth Transitions YouTube Content Playback on Facebook for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-8-free-screen-recorder-for-android/"><u>[Updated] In 2024, Top 8 Free Screen Recorder for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-startup-ceremorphic-reveals-breakthrough-chip-technology-as-it-exits-stealth-mode-featured-on-zdnet/"><u>AI Startup Ceremorphic Reveals Breakthrough Chip Technology as It Exits Stealth Mode | Featured on ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breaking-down-four-fixes-for-non-deliverable-email-alerts-in-windows-11/"><u>Breaking Down Four Fixes for Non-Deliverable Email Alerts in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/edge-computing-devices-proliferation-implications-for-professional-advancement-insights-from-zdnet/"><u>Edge Computing Devices Proliferation: Implications for Professional Advancement - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-hands-on-the-new-ios-18-beta-now-step-by-step-downloading-instructions-and-eligible-iphone-list-zdnet-exclusive/"><u>Get Your Hands on the New iOS 18 Beta Now: Step-by-Step Downloading Instructions & Eligible iPhone List | ZDNet Exclusive</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-x100-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo X100 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-to-recover-files-from-an-external-hard-drive-on-windows-10-and-macos/"><u>How to Recover Files From an External Hard Drive on Windows 10 & macOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-social-media-symphony-coordinating-video-sharing/"><u>In 2024, Social Media Symphony Coordinating Video Sharing</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/instrucciones-simplificadas-sobre-el-empleo-del-programa-de-arranque-aomei-pxe/"><u>Instrucciones Simplificadas Sobre El Empleo Del Programa De Arranque AOMEI PXE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-your-system-with-the-latest-in-kernel-6-cups-expert-advice-from-zdnet/"><u>Maximizing Your System with the Latest in Kernel 6. Cups - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-recruitment-modern-strategies-for-attracting-top-technology-professionals/"><u>Revolutionizing Recruitment: Modern Strategies for Attracting Top Technology Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ten-years-on-exploring-the-revolutionary-journey-and-lasting-legacy-of-raspberry-pi-insights-from-zdnet/"><u>Ten Years On: Exploring the Revolutionary Journey and Lasting Legacy of Raspberry Pi | Insights From ZDNET</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-best-way-to-use-obs-live-stream-to-facebook/"><u>The Best Way to Use OBS Live Stream to Facebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-governance-through-openness-the-swiss-federal-administration-adopts-open-source-initiative-for-public-software/"><u>Transforming Governance Through Openness: The Swiss Federal Administration Adopts Open Source Initiative for Public Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unpacking-the-truth-why-60-daily-cves-from-the-linux-foundation-arent-alarming-smart-mitigation-tactics/"><u>Unpacking the Truth: Why 60 Daily CVEs From The Linux Foundation Aren't Alarming - Smart Mitigation Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-delving-into-youtubes-complex-calculation-of-viewer-stats/"><u>[New] 2024 Approved Delving Into YouTube's Complex Calculation of Viewer Stats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-deciphering-no-snaps-possible-blocking/"><u>[New] In 2024, Deciphering No Snaps, Possible Blocking</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[New] Visual Harmony on Screen Mastering Zoom's Edge Magic for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-upside-exploring-asmrs-advantages/"><u>[Updated] Unlocking the Upside Exploring ASMR's Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-gaming-top-7-mmos-on-the-go/"><u>Dive Into Gaming: Top 7 MMOs on the Go</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-take-on-iphone-15-top-reasons-it-excels-for-power-users-a-deep-dive-by-zdnet/"><u>Expert Take on iPhone 15: Top Reasons It Excels for Power Users - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-11-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 11 Pro+</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-selection-childrens-drone-choices/"><u>In 2024, Ultimate Selection Children's Drone Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722885724908-join-forces-with-a-companion-for-ultimate-pokemon-catching-success/"><u>Join Forces with a Companion for Ultimate Pokémon Catching Success</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reviving-your-vanished-photos-with-ios-175-insights-from-apple-and-practical-advice-for-iphone-owners-zdnet/"><u>Reviving Your Vanished Photos with iOS 17.5 - Insights From Apple and Practical Advice for iPhone Owners | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-magsafe-charger-sleek-design-meets-rapid-power-up-discover-the-future-of-tech-with-brand-name/"><u>Revolutionary MagSafe Charger: Sleek Design Meets Rapid Power-Up! - Discover the Future of Tech with [Brand Name]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-discounts-and-promotions-in-july-2024-iphone-savings-exclusive-apple-watch-offers-ipad-bargains-etc-zdnets-guide/"><u>Top Apple Discounts & Promotions in July 2024: IPhone Savings, Exclusive Apple Watch Offers, iPad Bargains, Etc. - ZDNet's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-price-on-apple-watch-series-student/"><u>Unbeatable Price on Apple Watch Series # Student</u></a></li>
 </ul></div>
 

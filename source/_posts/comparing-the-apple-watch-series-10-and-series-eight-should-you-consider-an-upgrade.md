@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Apple Watch Series 10 and Series Eight: Should You Consider an Upgrade?"
-date: 2025-01-29T16:29:39.813Z
-updated: 2025-02-01T00:18:04.827Z
+date: 2025-02-07T19:22:53.470Z
+updated: 2025-02-15T09:06:20.106Z
 tags:
   - apple
 categories:
@@ -50,10 +50,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -76,14 +72,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
@@ -97,10 +89,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You're looking for something future-proof
 
 If you're spending a few hundred dollars on a smartwatch, you want it to last for several years without compromising performance or function. The best way to ensure you're investing in an Apple Watch that's future-proof and compatible with all of Apple's most up-to-date features (and [Apple Intelligence](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/), of course) is to select the newer model. 
@@ -110,6 +98,10 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -123,12 +115,16 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
@@ -144,6 +140,10 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,21 +179,19 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-premiere-pros-art-of-audio-transitioning/"><u>[New] In 2024, Premiere Pro’s Art of Audio Transitioning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>[New] Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-9-zero-price-programs-to-take-your-videos-from-average-to-amazing/"><u>[Updated] 9 Zero Price Programs to Take Your Videos From Average to Amazing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-mp3-extractor-tool/"><u>[Updated] FB Mp3 Extractor Tool</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-future-in-your-pocket-review-of-lgs-portable-4k-display/"><u>[Updated] In 2024, The Future in Your Pocket Review of LG's Portable 4K Display</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-enhanced-functionality-of-linux-kernel-v65-a-deep-dive-into-its-latest-innovations-techworld/"><u>Exploring the Enhanced Functionality of Linux Kernel v6.5: A Deep Dive Into Its Latest Innovations | TechWorld</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android-for-2024/"><u>Go Pro Simple Techniques for Captivating Slow Motion Videos on Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/highly-sought-after-expertise-in-open-source-and-linux-thrives-amidst-challenging-economic-times-insights-from-zdnet/"><u>Highly Sought-After: Expertise in Open Source & Linux Thrives Amidst Challenging Economic Times - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-challenges-in-harnessing-googles-leading-edge-ai-technology-insights-for-programmers-zdnet/"><u>Navigating Challenges in Harnessing Google's Leading Edge AI Technology - Insights for Programmers | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-development-with-ease-discover-the-power-of-googles-gemini-ai-for-accelerated-and-cost-effective-creation/"><u>Revolutionizing Development with Ease: Discover the Power of Google's Gemini AI for Accelerated and Cost-Effective Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tackling-the-crisis-of-developer-exhaustion-innovative-company-solutions-unveiled-on-zdnet/"><u>Tackling the Crisis of Developer Exhaustion - Innovative Company Solutions Unveiled on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-new-frontier-nothing-phone-3-speculated-price-points-release-calendar-and-rumored-technical-specs-explained/"><u>The New Frontier: 'Nothing Phone 3' Speculated Price Points, Release Calendar & Rumored Technical Specs Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-trending-programming-languages-and-their-significance-an-in-depth-look/"><u>Top Trending Programming Languages & Their Significance: An In-Depth Look</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranking-online-web-dev-courses-insights-from-zdnet/"><u>Top-Ranking Online Web Dev Courses: Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steady-issues-how-to-fix-arcadegeddon-crashes-on-your-computer/"><u>Troubleshooting Steady Issues: How to Fix Arcadegeddon Crashes on Your Computer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bringing-sketches-to-life-foremost-ipados-apps/"><u>[New] Bringing Sketches to Life Foremost iPadOS Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-the-thrill-hero5-black-against-hero4-silver/"><u>[New] Capturing the Thrill Hero5 Black Against Hero4 Silver</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-selecting-the-best-5-monitors-for-ps5-games/"><u>[Updated] 2024 Approved Selecting the Best 5 Monitors for PS5 Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-evolution-and-function-of-modern-vr-helmets/"><u>[Updated] In 2024, The Evolution and Function of Modern VR Helmets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-targets-top-browsers-with-unsettling-ad-campaign-witness-the-strategy-firsthand/"><u>Apple Targets Top Browsers with Unsettling Ad Campaign – Witness the Strategy Firsthand</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-video-editor-for-vimeo-for-2024/"><u>Best Video Editor for Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boundless-savings-for-your-captured-moments-for-2024/"><u>Boundless Savings for Your Captured Moments for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-tecno-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Tecno ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/savings-alert-the-unbeatable-80-off-on-apple-watch-series-se-2nd-gen-post-prime-day-exclusive-analysis-by-zdnet/"><u>Savings Alert: The Unbeatable $80 Off on Apple Watch Series SE (2Nd Gen) Post-Prime Day | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-hassles-of-portable-charging-how-a-simple-20-anker-battery-made-all-the-difference-review/"><u>Solving the Hassles of Portable Charging: How a Simple $20 Anker Battery Made All the Difference Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-now-holding-advanced-ai-tech-in-your-hands-by-2024-as-predicted-insights/"><u>The Future Is Now: Holding Advanced AI Tech in Your Hands by 2024 as Predicted Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-discounts-on-apple-products-for-july-2024-iphone-apple-watch-and-ipad-bargains-zdnet-insights/"><u>Top Discounts on Apple Products for July 2024: IPhone, Apple Watch & iPad Bargains | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-localized-machine-learning-basics-and-operation/"><u>Understanding Localized Machine Learning: Basics & Operation</u></a></li>
 </ul></div>
 

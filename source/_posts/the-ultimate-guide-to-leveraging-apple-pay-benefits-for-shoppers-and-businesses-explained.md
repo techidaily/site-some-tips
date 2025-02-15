@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2025-01-29T05:55:01.555Z
-updated: 2025-01-31T16:21:01.609Z
+date: 2025-02-12T03:13:47.660Z
+updated: 2025-02-15T09:47:33.585Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
@@ -39,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,10 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -74,6 +78,10 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -81,10 +89,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -100,10 +104,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -115,10 +115,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -126,6 +122,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -145,10 +145,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,15 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>[New] 2024 Approved Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>[Updated] How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-for-displaying-hidden-files-on-a-mac-with-terminal-techniques/"><u>A Comprehensive Walkthrough for Displaying Hidden Files on a Mac with Terminal Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/current-top-trending-programming-languages-insights-and-definitions-understanding-their-growing-popularity/"><u>Current Top Trending Programming Languages: Insights & Definitions - Understanding Their Growing Popularity</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-a25-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy A25 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-bios-and-chipset-software-update-for-your-lenovo-legion-5-pro-notebook/"><u>Latest BIOS & Chipset Software Update for Your Lenovo Legion 5 Pro Notebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-the-creator-space-a-comprehensible-guide-for-2024/"><u>Navigating the Creator Space A Comprehensible Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trends-in-coding-a-look-at-the-peaks-and-valleys-of-programming-language-popularity-from-2016-onwards-insights-revealed-by-zdnet/"><u>Trends in Coding: A Look at the Peaks and Valleys of Programming Language Popularity From 2016 Onwards - Insights Revealed by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-career-opportunities-in-coding-discover-zdnets-essential-trio-of-programming-languages-for-job-success/"><u>Unlocking Career Opportunities in Coding: Discover ZDNet's Essential Trio of Programming Languages for Job Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-nvidias-strategy-a-look-inside-the-newly-open-source-gpu-driver-revelation-exploring-your-computers-core-components/"><u>Unveiling Nvidia's Strategy: A Look Inside the Newly-Open Source GPU Driver Revelation - Exploring Your Computer's Core Components</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-5-best-gba-emulators-for-ios-you-can-find/"><u>[New] 2024 Approved 5 Best GBA Emulators for iOS You Can Find</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-the-process-of-saving-whatsapp-dialogues/"><u>[New] 2024 Approved Unlocking the Process of Saving WhatsApp Dialogues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-manipulating-netflix-stream-velocity/"><u>[Updated] Mastering the Art of Manipulating Netflix Stream Velocity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>[Updated] Sky-High Streamer Success Channel Growth Through Monetizing Every Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg/"><u>2024 Approved Revolutionizing Movie Magic with the 4K 31MU97-B From LG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-ultimate-selection-of-compact-tablets-in-depth-analysis-and-ratings-industry-experts/"><u>2024'S Ultimate Selection of Compact Tablets: In-Depth Analysis and Ratings Industry Experts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-k11x-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo K11x FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-m3-macbook-air-unveiled-the-ultimate-entry-level-ai-device-now-available-full-review-on-zdnet/"><u>Apple M3 MacBook Air Unveiled: The Ultimate Entry-Level AI Device Now Available - Full Review on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-upgraded-features-of-all-apple-airpod-models-the-ultimate-guide-to-their-new-capabilities-zdnet/"><u>Discover the Upgraded Features of All Apple AirPod Models – The Ultimate Guide to Their New Capabilities | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/do-shopping-blogs-have-a-payment-scheme-for-reports/"><u>Do Shopping Blogs Have a Payment Scheme for Reports?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-july-savings-get-your-hands-on-affordable-iphone-apple-watch-and-ipads-special-deals-from-zdnet/"><u>Exclusive July Savings: Get Your Hands on Affordable iPhone, Apple Watch, and iPads - Special Deals From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-the-most-innovative-functionalities-in-apples-latest-ios-18-public-test-version-according-to-zdnet/"><u>Explore the Most Innovative Functionalities in Apple's Latest iOS 18 Public Test Version, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fix-your-cellular-connection-issues-on-iphone-with-ios-1721-insightful-tips/"><u>Fix Your Cellular Connection Issues on iPhone with iOS 17.2.1 | Insightful Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990105085-steam-vr-undetected-discover-these-6-essential-fixes/"><u>Steam VR Undetected? Discover These 6 Essential Fixes!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-cellphone-offers-for-independence-day-find-amazing-discounts-on-phones/"><u>Top Cellphone Offers for Independence Day: Find Amazing Discounts on Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-best-iphoneipad-vpn-providers-expert-reviews-and-ratings/"><u>Ultimate Guide to Choosing the Best iPhone/iPad VPN Providers: Expert Reviews and Ratings</u></a></li>
 </ul></div>
 

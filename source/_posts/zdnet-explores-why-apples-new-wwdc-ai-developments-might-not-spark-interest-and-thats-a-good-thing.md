@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2025-01-30T17:51:55.464Z
-updated: 2025-02-01T07:04:34.644Z
+date: 2025-02-10T00:50:43.376Z
+updated: 2025-02-15T04:08:41.745Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,22 +146,22 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-preeminent-platforms-twitter-like-experiences/"><u>[New] Preeminent Platforms Twitter-Like Experiences</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-conversions-with-targeted-snapad-strategies/"><u>2024 Approved Maximizing Conversions with Targeted SnapAd Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bridging-the-gap-in-ai-technology-intels-wei-li-on-democratizing-advanced-ai-computing-for-everyday-use/"><u>Bridging the Gap in AI Technology - Intel's Wei Li on Democratizing Advanced AI Computing for Everyday Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/celebrating-radia-perlman-the-architect-of-networking-and-hidden-hero-recognition-by-zdnet/"><u>Celebrating Radia Perlman: The Architect of Networking & Hidden Hero Recognition by ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enhance-oculus-vr-experience-with-multilingual-mondly-feature/"><u>Enhance Oculus VR Experience with Multilingual Mondly Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-rising-popularity-of-openstack-and-kata-containers-in-todays-tech-landscape/"><u>Exploring the Rising Popularity of OpenStack and Kata Containers in Today's Tech Landscape</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-update-2024-discover-the-latest-features-in-rainbow-six-siege/"><u>Free Update 2024: Discover the Latest Features in Rainbow Six Siege</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leading-analysts-predict-ai-as-a-game-changer-for-securing-digital-frontiers-uncover-the-potential-with-zdnet/"><u>Leading Analysts Predict AI as a Game-Changer for Securing Digital Frontiers - Uncover the Potential with ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linux-visionary-linus-torvalds-discusses-ai-integration-embracing-rust-and-the-significance-of-the-linux-kernel-insights-for-tech-enthusiasts/"><u>Linux Visionary Linus Torvalds Discusses AI Integration, Embracing Rust & The Significance of the Linux Kernel - Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use/"><u>Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-agile-methodology-for-top-notch-software-development-with-these-6-essential-principles-the-next-web/"><u>Mastering Agile Methodology for Top-Notch Software Development with These 6 Essential Principles | The Next Web</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-maneuverability-with-driver-easy-on-any-device/"><u>Mastering Maneuverability with Driver Easy on Any Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr-for-2024/"><u>Mastering MMOs in VR Oculus vs HTC Vive vs PS VR for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/newly-released-glorious-64-bit-os-now-compatible-with-raspberry-pi-installation-guide/"><u>Newly Released Glorious 64-Bit OS Now Compatible with Raspberry Pi - Installation Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/proactive-measures-handling-the-surge-of-60-daily-cves-in-linux-systems-expert-advice-from-zdnet/"><u>Proactive Measures: Handling the Surge of 60 Daily CVEs in Linux Systems - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-integrating-apple-music-into-your-videos-for-2024/"><u>Step-by-Step Integrating Apple Music Into Your Videos for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-ranking-cross-platform-video-grabber-apps-ideal-choice-for-windows-and-mac-enthusiasts/"><u>Top-Ranking Cross-Platform Video Grabber Apps: Ideal Choice for Windows & Mac Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-breaking-down-the-new-2023-samsung-bd-j5900-model/"><u>[New] Breaking Down the New 2023 Samsung BD-J5900 Model</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fixing-disconnected-headphone-unit-for-2024/"><u>[New] Fixing Disconnected Headphone Unit for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-users-companion-for-durecorder/"><u>[Updated] 2024 Approved Ultimate User’s Companion for DuRecorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[Updated] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-twitter-cleanup-top-apps-for-efficient-management-for-2024/"><u>[Updated] Mastering Twitter Cleanup Top Apps for Efficient Management for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-event-highlights-introducing-the-powerhouse-m4-ipad-pro-upgraded-13-inch-ipad-air-and-new-apple-pencil-pro-tech-insights/"><u>Apple Event Highlights: Introducing the Powerhouse M4 iPad Pro, Upgraded 13-Inch iPad Air & New Apple Pencil Pro | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/banishing-email-overload-effortlessly-discover-the-one-trick-solution-for-a-neat-inbox-on-zdnet/"><u>Banishing Email Overload Effortlessly: Discover the One-Trick Solution for a Neat Inbox on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-best-in-class-prime-day-laptop-offers-hp-apple-razer-and-others-featured/"><u>Discover the Ultimate List of Best-in-Class Prime Day Laptop Offers: HP, Apple, Razer and Others Featured !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-deal-with-fluid-damage-on-your-iphone-charging-cable-expert-tips-from-tech-gurus/"><u>How to Deal with Fluid Damage on Your iPhone Charging Cable – Expert Tips From Tech Gurus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y56-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y56 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-examining-youtubes-noteworthy-chats/"><u>In 2024, Examining YouTube's Noteworthy Chats</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-easy-path-to-pure-audio-advanced-noise-reduction-tactics-for-audacity-and-filmorapro-users/"><u>In 2024, The Easy Path to Pure Audio Advanced Noise Reduction Tactics for Audacity and FilmoraPro Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reviving-loyalty-in-tech-can-apple-provide-a-lifeline-to-disappointed-sonos-customers-insights-from-zdnet/"><u>Reviving Loyalty in Tech: Can Apple Provide a Lifeline to Disappointed Sonos Customers? Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-news-apples-ai-integration-postponed-to-october-sources-confirm-insights/"><u>Tech News: Apple's AI Integration Postponed To October, Sources Confirm - Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-exclusive-windows-11s-media-importers/"><u>The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-straps-in-depth-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : In-Depth Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-walkthrough-for-setting-up-an-ipad-fresh-from-the-box-tips-and-tricks/"><u>Ultimate Walkthrough for Setting Up an iPad Fresh From the Box - Tips & Tricks</u></a></li>
 </ul></div>
 

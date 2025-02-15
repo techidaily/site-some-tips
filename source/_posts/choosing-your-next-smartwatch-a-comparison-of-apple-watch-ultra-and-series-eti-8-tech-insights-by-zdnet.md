@@ -1,7 +1,7 @@
 ---
 title: "Choosing Your Next Smartwatch: A Comparison of Apple Watch Ultra and Series ˈeɪtiː 8 | Tech Insights by ZDNet"
-date: 2025-01-31T03:37:59.002Z
-updated: 2025-01-31T18:57:27.562Z
+date: 2025-02-10T18:02:10.606Z
+updated: 2025-02-14T22:41:45.786Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ So, if you're eyeing a new smartwatch from one of the big tech giants, which exa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | | Apple Watch Series 8    | Google Pixel Watch                                                                                                                                |                                                                                                                                                    |
@@ -46,13 +50,13 @@ So, if you're eyeing a new smartwatch from one of the big tech giants, which exa
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Google Pixel Watch if...
 
 Matthew Miller/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You prefer the Google/Android ecosystem
 
@@ -62,6 +66,10 @@ As an added bonus, Google will bundle three free months of YouTube Music Premium
 
 **Also:** [**Pixel 7 and Pixel 7 Pro hands-on: The start of Google's walled garden**](https://www.zdnet.com/article/pixel-7-and-pixel-7-pro-hands-on-the-start-of-googles-walled-garden/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want Fitbit's technology for health tracking
 
 This is Year 1 for Google's fitness watch, but the company's [Fitbit acquisition](https://www.zdnet.com/article/googles-2-1-billion-purchase-of-fitbit-is-complete/) means it's bringing a wealth of exercise and health experiences to the new wearable. By implementing Fitbit's health tracking tech, Google's smartwatch can track your heart rate, active calories, steps, and even sleep cycles. Like the [Apple Watch Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/), the Google Pixel Watch gives you a breakdown of your different stages of sleep and the overall effectiveness for further action. Along with the exercise and resting metrics, customers get a free six-month Fitbit membership with access to a plethora of fitness, breathing, and meditation classes. 
@@ -69,10 +77,6 @@ This is Year 1 for Google's fitness watch, but the company's [Fitbit acquisition
 All the primary SKUs of the Google Pixel Watch.
 
 Image: Google
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want a more traditional watch design
 
@@ -99,7 +103,7 @@ The Apple Watch Series 8 introduced a new suite of health features geared toward
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want a bigger smartwatch
@@ -107,7 +111,7 @@ Jason Hiner/ZDNET
 Besides the distinctive squircle design, the Apple Watch Series 8 comes in [41mm and 45mm sizes](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), while the Google Pixel Watch only comes in a 41mm model. If you want a larger display for scanning text and swift interaction, the Apple Watch is the bigger and better option. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  4\. You want crash detection
@@ -115,10 +119,6 @@ Besides the distinctive squircle design, the Apple Watch Series 8 comes in [41mm
 Another feature that is exclusive to the Apple Watch Series 8 is its [crash detection feature](https://www.zdnet.com/article/apple-announces-a-brand-new-life-saving-feature-crash-detection/). With built-in accelerometers and G force detection, the Apple Watch Series 8 can detect if you've been in a car crash and will even contact emergency services. While the Google Pixel Watch says a fall detection feature is coming this winter, Apple's crash detection is already up and working for more severe instances. If you want your watch to double as a life-alert tool, the Series 8 is the one to buy. 
 
 [Buy the Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,20 +156,20 @@ Another feature that is exclusive to the Apple Watch Series 8 is its [crash dete
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-value-gaming-peripherals-for-under-100/"><u>[New] In 2024, Best Value Gaming Peripherals for Under $100</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-push-the-boundaries-of-snapchat-choose-from-these-best-edits/"><u>[New] Push the Boundaries of Snapchat Choose From These Best Edits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-surprise-your-friends-with-these-unheard-memes-for-2024/"><u>[New] Surprise Your Friends with These Unheard Memes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-top-11-youtube-video-rippers-to-download-youtube-videos/"><u>[Updated] 2024 Approved Top 11 YouTube Video Rippers to Download YouTube Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-capturing-every-angle-samsungs-pro-versus-lgs/"><u>2024 Approved Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-facebooks-algorithm-the-way-to-access-vids/"><u>2024 Approved Decoding Facebook's Algorithm The Way to Access Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-companys-appeal-with-low-code-tech-solutions-insights-from-zdnet/"><u>Boost Your Company's Appeal with Low-Code Tech Solutions - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-generative-artificum-for-business-efficiency-ibm-reveals-strategies-on-zdnet/"><u>Harnessing the Power of Generative Artificum for Business Efficiency - IBM Reveals Strategies on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-run-retro-game-doom-on-your-new-raspberry-pi-pico-step-by-step-tutorial/"><u>How to Run Retro Game Doom on Your New Raspberry Pi Pico: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/oin-boosts-intellectual-property-safeguards-for-linux-excluding-ai-developments-insights-from-zdnet/"><u>OIN Boosts Intellectual Property Safeguards for Linux, Excluding AI Developments - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/skyrim-speed-hacks-elevate-your-adventure-by-accelerating-gameplay/"><u>Skyrim SPEED HACKS: Elevate Your Adventure by Accelerating Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-rising-popularity-of-openstack-and-kata-containers-exploring-their-shared-surge-in-adoption-insights-from-zdnet/"><u>The Rising Popularity of OpenStack & Kata Containers: Exploring Their Shared Surge in Adoption - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras-for-2024/"><u>The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-future-discover-all-iphones-compatible-with-ios-18-and-those-excluded-zdnet-insights/"><u>Unveiling the Future: Discover All iPhones Compatible with iOS 18 and Those Excluded | ZDNET Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>[New] Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-flight-friendly-robot-categories/"><u>[Updated] Flight-Friendly Robot Categories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-avoid-these-top-4-apple-devices-at-the-moment-insider-tips-from-zdnet/"><u>1. Avoid These Top 4 Apple Devices at the Moment - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-and-try-out-macos-ventura-preview-version-for-free-today-complete-tutorial-by-macexpertscom/"><u>Download and Try Out macOS Ventura Preview Version for Free Today – Complete Tutorial by MacExperts.com</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-chosen-macbook-pro-upgrades-tested-reviewed-and-ranked-pcmag/"><u>Expertly Chosen MacBook Pro Upgrades : Tested, Reviewed, and Ranked | PCMag</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-unlocked-a-complete-experience-for-2024/"><u>Funimate Unlocked A Complete Experience for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-tech-in-action-examining-the-razer-blackwidow-v4/"><u>Hot Swap Tech in Action - Examining the Razer BlackWidow V4</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 11 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-xr-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone XR Activation Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-and-utilizing-preview-for-mac-efficiently/"><u>In 2024, Navigating and Utilizing Preview for Mac Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-mac-setting-up-personalized-focus-screens-on-macos-monterey-for-minimized-interruptions-tips-from-zdnet/"><u>Mastering Mac: Setting Up Personalized Focus Screens on macOS Monterey for Minimized Interruptions - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-iphone-a-step-by-step-guide-to-personalizing-the-ios-18-control-center-insights/"><u>Revamping Your iPhone: A Step-by-Step Guide to Personalizing the iOS 18 Control Center - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/showdown-of-innovations-the-google-pixel-watch-2-against-the-apple-watch-series-nine-deciding-your-smartwatch-champion/"><u>Showdown of Innovations: The Google Pixel Watch 2 Against the Apple Watch Series Nine - Deciding Your Smartwatch Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top-Rated Tablet Computers : Comprehensive Reviews by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-xr21-by-drfone-android/"><u>Universal Unlock Pattern for Nokia XR21</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16 Launch: Exclusive Look at Cutting-Edge Spatial Recording and Redesigned Thin Bezels | Tech News"
-date: 2025-01-11T16:11:40.956Z
-updated: 2025-01-18T01:39:06.999Z
+date: 2025-02-07T22:48:08.208Z
+updated: 2025-02-14T20:15:39.423Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -52,6 +48,10 @@ Cons
 
 ## iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -74,14 +74,10 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy S21 Ultra
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
@@ -108,6 +104,10 @@ Cons
 
 ## iPhone 12 Pro Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -117,10 +117,6 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -148,10 +144,6 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12
 
 ### Chris Matyszczyk
@@ -170,7 +162,15 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 11 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -197,7 +197,7 @@ Cons
 * Strong battery life Good performance More affordable
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Pixel 2
@@ -234,10 +234,6 @@ Cons
 
 ## iPhone XR
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
 **Damian Radcliffe:** I like a big screen and a good camera. I have two small children so my phone is my go-to device for capturing day-to-day and special moments with them. My digital SLRs are gathering dust somewhere, as the recent iPhones have made them redundant. Pre-pandemic I was also using it a lot for video calls -- as the rest of my family lives back in the UK -- so large screens and good camera are valuable for that, too. I spend more time than I would like to admit on my phone (about five hours a day, the screen manager tells me), although I find that my phone is often quicker than my laptop for many tasks, so I often default to my phone for using social media, online banking, and shopping as well as editing Google Docs. I just wish Siri and the speech-to-text function could understand my British accent.
@@ -260,7 +256,15 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone X
 
@@ -280,11 +284,11 @@ Pros
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
 
-## iPhone XS Max
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone XS Max
 
 ### Asha Barbaschow
 
@@ -296,15 +300,15 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone 6s Plus
 
@@ -331,10 +335,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 Show less 
 
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -376,16 +376,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-advanced-color-correction-mastering-luts-in-after-effects/"><u>[New] Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[Updated] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
-<li><a href="https://discover-best.techidaily.com/best-family-friendly-yule-classics-top-10-holiday-films-perfect-for-children/"><u>Best Family-Friendly Yule Classics: Top 10 Holiday Films Perfect for Children</u></a></li>
-<li><a href="https://facebook.techidaily.com/intuitive-interface-for-the-modern-social-feed/"><u>Intuitive Interface for the Modern Social Feed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-productivity-with-top-tools-and-techniques-to-streamline-your-daily-routine-expert-tips-by-zdnet/"><u>Maximizing Productivity with Top Tools & Techniques to Streamline Your Daily Routine | Expert Tips by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-through-chaos-leveraging-google-docs-versioning-for-data-safety-and-recovery/"><u>Navigating Through Chaos: Leveraging Google Docs Versioning for Data Safety and Recovery</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-essential-tips-for-shooting-talking-head-videos/"><u>New In 2024, Essential Tips for Shooting Talking Head Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/overcoming-google-drive-hurdles-a-comprehensive-guide-to-successful-file-downloads/"><u>Overcoming Google Drive Hurdles: A Comprehensive Guide to Successful File Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-home-comfort-top-alternatives-to-ecobee-and-amazons-offerings-in-smart-thermostats-unveiled-by-zdnet/"><u>Revolutionizing Home Comfort: Top Alternatives to Ecobee and Amazon's Offerings in Smart Thermostats Unveiled by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stop-overlooking-crucial-emails-with-simple-gmail-notification-tweaks-expert-guide/"><u>Stop Overlooking Crucial Emails with Simple Gmail Notification Tweaks – Expert Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-8-mobile-gaming-apps-you-cant-miss/"><u>Top 8 Mobile Gaming Apps You Can't Miss</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-get-it-right-the-first-time-instagrams-video-sizing-guide/"><u>[New] Get It Right the First Time Instagram's Video Sizing Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-launch-and-lay-the-foundations-of-xps-video-craft/"><u>[Updated] Launch & Lay the Foundations of XP's Video Craft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/analyzing-apples-xr-headset-popularity-insights-from-visionpro-shipping-dates-a-deep-dive-by-zdnet/"><u>Analyzing Apple's XR Headset Popularity: Insights From VisionPro Shipping Dates – A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-rumored-to-introduce-respiratory-monitoring-in-upcoming-vision-pro-glasses-insights/"><u>Apple Rumored to Introduce Respiratory Monitoring in Upcoming Vision Pro Glasses - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-victorious-how-apple-became-this-years-most-memorable-super-bowl-weekend-commercial-without-airing-during-the-big-game/"><u>Emerging Victorious: How Apple Became This Year's Most Memorable Super Bowl Weekend Commercial (Without Airing During the Big Game)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-your-macx-mediatrans-now-at-a-low-price-purchase-securely-online/"><u>Get Your MacX MediaTrans Now at a Low Price - Purchase Securely Online!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-an-apple-store-unveiling-the-worlds-thinnest-ipads-and-debating-the-impact-of-008-inches-zdnet/"><u>Inside an Apple Store: Unveiling The World's Thinnest iPads & Debating the Impact of 0.08 Inches | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-next-level-performance-aorus-xtreme-and-xtreme-ice-by-gigabyte-featured-with-powerful-gpus-at-computex/"><u>Introducing Next-Level Performance: Aorus Xtreme & Xtreme Ice by Gigabyte Featured with Powerful GPUs at Computex</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-switching-mp4-audio-format-to-aac-using-movavi-video-editor/"><u>Step-by-Step Guide: Switching MP4 Audio Format to AAC Using Movavi Video Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-science-of-sensor-based-hands-monitoring-for-2024/"><u>The Science of Sensor-Based Hands Monitoring for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-picks-video-grabbers-on-microsofts-os-for-2024/"><u>Top Picks Video Grabbers on Microsoft's OS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-the-ultimate-list-of-top-rated-iphone-models-thoroughly-vetted-by-tech-gurus-techadvisor/"><u>Top Picks: The Ultimate List of Top-Rated iPhone Models - Thoroughly Vetted by Tech Gurus | TechAdvisor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-workout-how-apples-airpods-pro-3-track-heart-rate-for-enhanced-fitness-training/"><u>Transform Your Workout: How Apple's AirPods Pro 3 Track Heart Rate for Enhanced Fitness Training</u></a></li>
 </ul></div>
 

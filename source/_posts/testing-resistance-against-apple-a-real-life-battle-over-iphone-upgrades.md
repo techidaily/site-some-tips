@@ -1,7 +1,7 @@
 ---
 title: "Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades"
-date: 2025-01-24T18:27:21.489Z
-updated: 2025-02-01T01:02:43.009Z
+date: 2025-02-11T08:23:44.072Z
+updated: 2025-02-14T18:21:15.300Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A less-distracting extension of your iPhone
 
 Jason Hiner/ZDNET
@@ -59,7 +63,7 @@ The watch is also a great way to reduce distractions. When you have your phone o
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. A truly great fitness-tracking experience
@@ -74,10 +78,6 @@ From the concept of "closing your rings" every day (and the various awards you c
 
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Notifications you want to interact with
 
 I can't tell you how many times I've used a smartwatch and wanted it to replicate the notification experience of the Apple Watch. From how alerts pop up on your wrist to the sounds and vibrations they make, everyone else should copy what Apple is doing.
@@ -87,7 +87,7 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
@@ -100,10 +100,6 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Navigating with Apple Maps
 
 Can you use other smartwatches to navigate to a new destination? You absolutely can. Am I unjustifiably biased towards the Apple Watch for having my favorite navigation experience? Yes, I am.
@@ -115,7 +111,7 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
@@ -131,6 +127,10 @@ Everything about watchOS is amazing. It's fast, fluid, easy to use, and has a hu
 The platform just works the way you'd expect. When paired to your iPhone, so many of your settings will sync with your Apple Watch that it'll feel like you've customized the device without diving into settings. App notifications, Focus modes, Wi-Fi networks, and more all sync with your watch automatically, allowing you to hit the ground running when you strap your Apple Watch to your wrist.
 
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -166,22 +166,15 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-screen-recorder-pro-win11-edition/"><u>[Updated] 2024 Approved Ultimate Screen Recorder Pro - Win11 Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-behind-the-photo-instagram-selfie-credibility-explored-for-2024/"><u>[Updated] Behind the Photo Instagram Selfie Credibility Explored for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-rapid-routines-easy-iphone-media-sharing/"><u>[Updated] In 2024, Rapid Routines Easy iPhone Media Sharing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unleash-new-sounds-top-7-voice-transformation-android-apps/"><u>[Updated] In 2024, Unleash New Sounds Top 7 Voice Transformation Android Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-stories-the-ultimate-youtube-channel-list/"><u>2024 Approved Crafting Stories - The Ultimate YouTube Channel List</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-technique-to-capture-fb-videos-flawlessly-on-both-systems/"><u>2024 Approved Technique to Capture FB Videos Flawlessly on Both Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bridging-the-gap-in-ai-technology-intels-wei-li-on-making-supercomputing-accessible/"><u>Bridging the Gap in AI Technology: Intel's Wei Li on Making Supercomputing Accessible</u></a></li>
-<li><a href="https://some-tips.techidaily.com/celebrating-a-decade-of-innovation-kubernetes-at-age-10-and-its-impact-on-cloud-native-tech-zdnet/"><u>Celebrating a Decade of Innovation: Kubernetes at Age 10 & Its Impact on Cloud-Native Tech | ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastery-over-moments-jake-pauls-youtube-saga/"><u>In 2024, Mastery Over Moments Jake Paul's YouTube Saga</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-the-must-have-coding-languages-to-secure-your-future-programming-role-insights-from-industry-experts/"><u>Master the Must-Have Coding Languages to Secure Your Future Programming Role - Insights From Industry Experts.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/programming-pros-picks-top-5-linux-os-choices-for-coders-insider-guide/"><u>Programming Pros' Picks: Top 5 Linux OS Choices for Coders - Insider Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revisiting-strategies-upcoming-reset-trends-for-data-science-and-artificial-intelligence-a-zdnet-analysis/"><u>Revisiting Strategies: Upcoming Reset Trends for Data Science and Artificial Intelligence – A ZDNet Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rising-through-the-ranks-in-technology-insights-from-an-industry-leader-at-the-top-global-aerospace-firm/"><u>Rising Through the Ranks in Technology: Insights From an Industry Leader at the Top Global Aerospace Firm</u></a></li>
-<li><a href="https://some-tips.techidaily.com/thousands-gain-access-to-exclusive-ai-knowledge-with-apples-new-initiative-for-students-and-alumni-zdnet/"><u>Thousands Gain Access to Exclusive AI Knowledge with Apple's New Initiative for Students and Alumni | ZDNET</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twittify-your-snaps-seamless-tweeting-to-snapsharing/"><u>Twittify Your Snaps Seamless Tweeting-to-Snapsharing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ubuntu-core-24-revolutionizes-iot-and-edge-computing-a-comprehensive-guide-by-zdnet/"><u>Ubuntu Core 24 Revolutionizes IoT and Edge Computing: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/yakuza-3-hd-revisited-fixes-and-solutions-for-pc-performance-issues/"><u>Yakuza 3 HD Revisited: Fixes and Solutions for PC Performance Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-efficient-viewing-strategies-for-instagram-content/"><u>[New] In 2024, Efficient Viewing Strategies for Instagram Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-strategists-approach-to-locating-and-joining-specialized-discord-channels-for-2024/"><u>[New] The Strategist's Approach to Locating and Joining Specialized Discord Channels for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-backswing-crafting-bundle/"><u>2024 Approved Backswing Crafting Bundle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anticipate-apples-next-move-the-arrival-of-updated-ipad-pro-and-air-models-in-early-may-revealed/"><u>Anticipate Apple's Next Move: The Arrival of Updated iPad Pro and Air Models in Early May Revealed!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-vision-pro-case-redefined-slimmer-design-without-sacrificing-performance-zdnet/"><u>Apple Vision Pro Case Redefined: Slimmer Design Without Sacrificing Performance (ZDNet)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-11x-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme 11X 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-for-an-upgrade-expert-comparison-on-zdnet/"><u>IPad Air 4 vs iPad Air 5: Is It Time for an Upgrade? Expert Comparison on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-showdown-exploring-differences-between-the-iphone-16-pro-and-iphone-epro-making-an-informed-choice/"><u>IPhone Showdown: Exploring Differences Between the iPhone 16 Pro and iPhone ePro – Making an Informed Choice</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a18-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A18 Black and White | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
 </ul></div>
 

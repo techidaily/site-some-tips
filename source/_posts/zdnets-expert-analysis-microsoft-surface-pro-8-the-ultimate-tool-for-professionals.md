@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Analysis: Microsoft Surface Pro 8 - The Ultimate Tool for Professionals"
-date: 2025-01-31T03:51:46.941Z
-updated: 2025-02-01T06:02:58.437Z
+date: 2025-02-13T09:31:29.357Z
+updated: 2025-02-15T00:03:01.624Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,7 +95,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -139,10 +139,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -167,10 +163,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,20 +210,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/advancing-generative-ai-how-telecom-companies-can-find-practical-applications-like-they-did-with-5g/"><u>Advancing Generative AI: How Telecom Companies Can Find Practical Applications Like They Did with 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/az-capture-tool-full-app-testing-and-options-guide/"><u>AZ Capture Tool Full App Testing & Options Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-music-presence-how-artificial-intelligence-secured-spots-on-top-streaming-platforms/"><u>Boosting Music Presence: How Artificial Intelligence Secured Spots on Top Streaming Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enablingdisabling-multitasking-feature-a-compreenas-guide/"><u>Enabling/Disabling Multitasking Feature A Compreenas Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-teams-shared-document-effort-with-top-tips-insights-from-zdnet/"><u>Enhance Your Team's Shared Document Effort with Top Tips - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-ai-key-concepts-facts-and-analysis-by-experts-at-zdnet/"><u>Exploring the World of AI: Key Concepts, Facts & Analysis by Experts at ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-functionality-how-to-setup-custom-shortcuts-for-power-button-on-win11/"><u>Fast-Track Functionality: How to Setup Custom Shortcuts for Power Button on Win11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-lessons-learned-from-paris-olympics-can-lead-to-greater-energy-efficiency-for-upcoming-sporting-events/"><u>How Lessons Learned From Paris Olympics Can Lead to Greater Energy Efficiency for Upcoming Sporting Events</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-s18-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo S18 Device SIM</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-investing-in-google-one-a-smart-choice-uncover-the-details-with-zdnets-insight/"><u>Is Investing in Google One a Smart Choice? Uncover the Details with ZDNet's Insight</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-x7-ultra-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find X7 Ultra? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsofts-50m-investment-boosts-lanzajet-paving-the-way-for-eco-friendly-datacenter-fuels-insights-on-zdnet/"><u>Microsoft's $50M Investment Boosts LanzaJet, Paving the Way for Eco-Friendly Datacenter Fuels - Insights on ZDNet</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/strategies-de-marketing-en-ligne-pour-systemes-dexploitation-multiples/"><u>Stratégies De Marketing en Ligne Pour Systèmes D'Exploitation Multiples</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-usb-mass-storage-not-detected/"><u>Troubleshooting Guide: How to Resolve 'USB Mass Storage Not Detected'</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-aggregating-users-experiences-with-vllo/"><u>[New] Aggregating Users' Experiences with VLLO</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity/"><u>[New] Bridging Audio Gaps The Complete Guide to Smooth Blending in Audacity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>[Updated] Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-positive-outlook-the-smooth-process-of-pre-ordering-the-new-apple-vision-pro-reflects-exciting-future-prospects-gadgetguru/"><u>A Positive Outlook: The Smooth Process of Pre-Ordering the New Apple Vision Pro Reflects Exciting Future Prospects | GadgetGuru</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-best-practices-to-hire-a-level-film-directors/"><u>Decoding Best Practices to Hire A-Level Film Directors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/electronics-giant-tcl-announces-new-strategy-in-arvr-market-during-the-las-vegas-ces-event/"><u>Electronics Giant TCL Announces New Strategy in AR/VR Market During the Las Vegas CES Event</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-best-graphic-design-programs-available-in-2eighteen-options-today/"><u>Explore the Best Graphic Design Programs Available in 2Eighteen Options Today</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g34-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G34 5G FRP Locks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-12-pro-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 12 Pro to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-slow-taper-strategies-to-compress-sound-in-fl-studio/"><u>In 2024, Slow Taper Strategies to Compress Sound in FL Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-15-pros-latest-feature-advanced-spatial-video-capabilities-for-apple-vision-pro-enthusiasts-zdnet/"><u>IPhone 15 Pro's Latest Feature: Advanced Spatial Video Capabilities for Apple Vision Pro Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-2-and-pro-resume-reclining-functionality-however-quest-3-users-denied-access-insights-from-zdnet/"><u>Meta Quest 2 & Pro Resume 'Reclining' Functionality; However, Quest 3 Users Denied Access - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-enthusiast-of-facebooks-metaverse-a-personal-encounter-that-keeps-me-awake/"><u>Unveiling the Enthusiast of Facebook's MetaVerse – A Personal Encounter That Keeps Me Awake</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-future-of-ar-with-apple-vision-pros-latest-update-mastering-spatial-persona-features-techinnovator-blog/"><u>Unveiling the Future of AR with Apple Vision Pro's Latest Update - Mastering Spatial Persona Features | TechInnovator Blog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-magic-of-vision-pro-with-apples-latest-virtual-experience-my-enlightening-encounter/"><u>Unveiling the Magic of Vision Pro with Apple’s Latest Virtual Experience - My Enlightening Encounter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-buy-apples-vision-pro-top-9-justifications-from-purchasers-at-35k/"><u>Why Buy Apple's Vision Pro? Top 9 Justifications From Purchasers at $3.5K</u></a></li>
 </ul></div>
 

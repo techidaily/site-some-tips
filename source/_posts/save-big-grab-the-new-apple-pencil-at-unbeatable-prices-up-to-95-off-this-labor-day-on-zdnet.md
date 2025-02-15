@@ -1,7 +1,7 @@
 ---
 title: "Save Big: Grab the New Apple Pencil at Unbeatable Prices - Up to $95 Off This Labor Day on ZDNet!"
-date: 2025-01-14T23:18:39.415Z
-updated: 2025-01-18T02:40:12.265Z
+date: 2025-02-08T09:52:29.553Z
+updated: 2025-02-15T04:45:10.110Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,22 +71,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-ticket-video-countdown-of-the-hour/"><u>[New] 2024 Approved Hot Ticket Video Countdown of the Hour</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-the-art-of-attention-retention-on-youtube-with-these-6-tactics/"><u>[New] In 2024, Mastering the Art of Attention Retention on YouTube with These 6 Tactics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-selection-of-8-stealth-downloads/"><u>[New] In 2024, Ultimate Selection of 8 Stealth Downloads</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ioneering-unmicrophoned-audio-capturing-methods/"><u>[New] Pioneering Unmicrophoned Audio Capturing Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>[New] The Audiovisual Experience Elevated Mastering Audio Blending in Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-leading-car-battery-boosters-professional-ratings-and-comparisons-gearguru/"><u>2024'S Leading Car Battery Boosters: Professional Ratings & Comparisons | GearGuru</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ankers-latest-compact-power-bank-a-must-have-gadget-that-catches-everyones-eye-zdnet/"><u>Anker's Latest Compact Power Bank: A Must-Have Gadget That Catches Everyone's Eye | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-the-finest-graphic-design-tools-a-comprehensive-list-of-17/"><u>Discovering the Finest Graphic Design Tools – A Comprehensive List of 17</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-googles-advanced-nest-learning-thermostat-a-complete-breakdown-of-functionalities-specifications-pricing-and-extra-info-cnet/"><u>Exploring Google's Advanced Nest Learning Thermostat – A Complete Breakdown of Functionalities, Specifications, Pricing & Extra Info | CNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/find-your-ideal-warmth-zdnet-unveils-the-ultimate-space-heater-lineup/"><u>Find Your Ideal Warmth : ZDNet Unveils the Ultimate Space Heater Lineup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/govees-intelligent-heater-sale-save-40-now-discover-more-at-zdnet/"><u>Govee's Intelligent Heater Sale - Save $40 Now! Discover More at ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-motorola-moto-g24-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Motorola Moto G24</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-2022-olympic-highlights-in-short-track-racing/"><u>In 2024, 2022 Olympic Highlights in Short Track Racing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-stable-discord-sound-quality-expert-strategies-and-fixes-for-the-modern-user/"><u>Mastering Stable Discord Sound Quality - Expert Strategies and Fixes for the Modern User</u></a></li>
-<li><a href="https://some-tips.techidaily.com/norse-mythology/"><u>Norse Mythology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/nuclear-power-meets-hemp-cultivation-an-innovative-solution-to-scarcity-issues-as-explored-on-zdnet/"><u>Nuclear Power Meets Hemp Cultivation: An Innovative Solution to Scarcity Issues, as Explored on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-most-affordable-rv-power-solution-tested-seamless-road-trips-await-insights-from-zdnet/"><u>The Most Affordable RV Power Solution Tested - Seamless Road Trips Await! | Insights From ZDNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-are-reviews-on-merchandise-streamed-for-cash/"><u>[New] Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-sitcom-spotlight-15-hilarious-channels-for-relaxation/"><u>[New] In 2024, Sitcom Spotlight 15 Hilarious Channels for Relaxation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-authentic-audience-growth-tricks-for-sustainable-views-for-2024/"><u>[Updated] Authentic Audience Growth Tricks for Sustainable Views for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-ideal-apple-smart-speaker-in-depth-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Ideal Apple Smart Speaker: In-Depth Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78plus-t1-edition-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78+ (T1) Edition Devices</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-tutorial-on-reflecting-iphone-display-onto-sharp-tvs/"><u>Step-by-Step Tutorial on Reflecting iPhone Display Onto Sharp TVs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-standout-iphone-16-innovations-that-justify-an-upgrade-from-the-classic-apple-phone-insights-by-zdnet/"><u>Top 4 Standout iPhone 16 Innovations That Justify an Upgrade From the Classic Apple Phone: Insights by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-apps-to-transform-windows-clock-displays-into-interactive-screensavers/"><u>Top 5 Apps to Transform Windows Clock Displays Into Interactive Screensavers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-factors-driving-consumer-returns-of-the-apple-vision-pro-insights-from-reddit-discussions-zdnet-analysis/"><u>Top 7 Factors Driving Consumer Returns of the Apple Vision Pro: Insights From Reddit Discussions - ZDNet Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-an-airtag-wallet-ratings-and-recommendations-by-professionals/"><u>Ultimate Guide to Choosing an AirTag Wallet – Ratings & Recommendations by Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievably-versatile-and-compact-how-this-budget-8-in-1-usb-hub-outperforms-expectations-on-zdnet/"><u>Unbelievably Versatile & Compact: How This Budget 8-in-1 USB Hub Outperforms Expectations on ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-time-lapse-potential-on-samsung-screens-for-2024/"><u>Unlocking Time-Lapse Potential on Samsung Screens for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2025-01-30T03:00:08.111Z
-updated: 2025-01-31T20:54:13.625Z
+date: 2025-02-14T03:08:34.404Z
+updated: 2025-02-15T07:27:23.854Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,21 +191,19 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/est-youtube-video-to-text-converters-on-line/"><u>[New] Best YouTube Video to Text Converters On-Line</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pewdiepies-paycheck-profile-a-glimpse-into-his-earnings/"><u>[New] PewDiePie’s Paycheck Profile – A Glimpse Into His Earnings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>[Updated] YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-navigating-the-ai-revolution-strategies-for-tech-experts-to-excel-in-their-careers-with-zdnets-insights/"><u>1. Navigating the AI Revolution: Strategies for Tech Experts to Excel in Their Careers with ZDNet's Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-combatting-developer-burnout-innovative-strategies-adopted-by-tech-firms-insights-from-zdnet/"><u>1) Combatting Developer Burnout: Innovative Strategies Adopted by Tech Firms - Insights From ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/3-ways-to-record-lectures-on-mac-for-2024/"><u>3 Ways to Record Lectures on Mac for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/groundbreaking-ai-processor-developer-ceremorphic-reveals-strategies-post-stealth-mode/"><u>Groundbreaking AI Processor Developer Ceremorphic Reveals Strategies Post-Stealth Mode</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-artificial-intelligence-effective-as-part-of-the-software-dev-squad-exploring-its-role-on-zdnet/"><u>Is Artificial Intelligence Effective as Part of the Software Dev Squad? Exploring Its Role on ZDNet</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/mastering-multimedia-magic-crafting-eye-catching-text-and-visuals-in-pcdjs-deckadance-v37-tutorial/"><u>Mastering Multimedia Magic: Crafting Eye-Catching Text & Visuals in PCDJ's Deckadance v3.7 Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securing-your-data-avoiding-privacy-breaches-with-tailored-gpt-systems/"><u>Securing Your Data: Avoiding Privacy Breaches with Tailored GPT Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/supreme-memetric-creation-tool/"><u>Supreme Memetric Creation Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-rising-popularity-understanding-the-renewed-interest-in-openstack-and-kata-containers/"><u>The Rising Popularity: Understanding the Renewed Interest in OpenStack & Kata Containers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-7-leading-cybersecurity-credentials-ranked-by-zdnet/"><u>The Ultimate Guide: 7 Leading Cybersecurity Credentials Ranked by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-spotlights-radia-perlman-as-a-pioneer-of-efficient-local-area-networking-in-their-latest-tribute-series-feature-hidden-innovators/"><u>ZDNet Spotlights Radia Perlman as a Pioneer of Efficient Local Area Networking in Their Latest Tribute Series Feature: 'Hidden Innovators'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-guide-to-top-5-text-effects-downloading-sites/"><u>[New] A Guide to Top 5 Text Effects Downloading Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-basic-to-exceptional-gopro-filming-techniques/"><u>[New] From Basic to Exceptional Gopro Filming Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-becoming-a-skin-deep-sage-setting-up-your-beauty-channel/"><u>[New] In 2024, Becoming a Skin-Deep Sage Setting Up Your Beauty Channel</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>[New] The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-mystery-of-non-displaying-fb-posts-with-our-12-expert-steps-facebook/"><u>[Updated] Unlock the Mystery of Non-Displaying FB Posts with Our 12 Expert Steps, Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-advice-forget-the-rice-discover-the-right-way-to-dry-out-a-soaked-iphone/"><u>Apple Advice: Forget the Rice - Discover the Right Way to Dry Out a Soaked iPhone!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/declutter-your-inbox-with-ease-discover-the-no-hassle-method-for-organized-emails-without-complex-systems-zdnet/"><u>Declutter Your Inbox with Ease: Discover the No-Hassle Method for Organized Emails without Complex Systems | ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/hphdd301/"><u>HPスマートHDDエラー301問題の確定的解決法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-175-by-apple-reveals-image-restoration-methods-for-accidental-deletions-and-provides-user-action-advice-techinsights/"><u>IOS 17.5 by Apple Reveals Image Restoration Methods for Accidental Deletions and Provides User Action Advice | TechInsights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/steps-to-secure-your-apple-vision-pro-ahead-of-launch-potential-obstacles-explained-gadgetguru/"><u>Steps to Secure Your Apple Vision Pro Ahead of Launch - Potential Obstacles Explained | GadgetGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-affordable-alternative-xr-headsets-reviewed/"><u>Switching From Apple Vision Pro & Meta Quest 3: Affordable Alternative XR Headsets Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-accessories-2024-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated MagSafe Accessories 2024: Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-mystery-behind-visionpros-unexpected-failures-and-your-contingency-plan-insights/"><u>Understanding the Mystery Behind VisionPro's Unexpected Failures & Your Contingency Plan - Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210283867-9781776095933-your-12-week-body-mind-transformation/"><u>Your 12-week Body & Mind Transformation | Free Book</u></a></li>
 </ul></div>
 

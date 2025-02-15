@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Explained: Ensuring Compliance with Each US Jurisdiction's Laws"
-date: 2025-01-28T16:42:48.611Z
-updated: 2025-01-31T21:13:52.215Z
+date: 2025-02-09T04:07:18.931Z
+updated: 2025-02-14T19:43:32.671Z
 tags:
   - apple
 categories:
@@ -46,16 +46,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to record a phone call on iPhone
 
 **What you need**: 
 
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
 
@@ -69,10 +69,6 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -80,6 +76,10 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -109,6 +109,10 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -126,6 +130,10 @@ Screenshot by Radhika Rajkumar/ZDNET
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -150,7 +158,7 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -161,6 +169,10 @@ Federal law requires at least one party's consent, which means that you need to 
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is there an app to record calls on iPhone?
 
 Several downloadable third-party apps can record calls on the iPhone, but that capability is not built into the device itself. However, Apple is restrictive about letting these apps use the microphone during a phone call. Most apps will need to conference into the call as a participant to record. Beyond the method outlined above using the Voice Memos app, people also use Google Voice, Easy Voice Recorder, and Rev.
@@ -169,25 +181,13 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -223,19 +223,21 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-pc-games-memory-freeze-and-capture-6-ways-to-win-for-2024/"><u>[New] PC Games Memory - Freeze and Capture 6 Ways to Win for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-perfect-pictures-quick-pixlr-tricks-for-beginners-for-2024/"><u>[New] Perfect Pictures Quick Pixlr Tricks for Beginners for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-quality-on-a-shoe-string-10-best-free-lut-picks/"><u>2024 Approved Selecting Quality on a Shoe String 10 Best Free LUT Picks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2024windows-10flv/"><u>2024年のガイド：Windows 10用の無料FLVプレイヤーを見つける最適な方法</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-eliminating-haldll-error-messages-on-windows-os-ranges/"><u>Comprehensive Strategies: Eliminating hal.dll Error Messages on Windows OS Ranges</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-windows-11-weather-app-reviews/"><u>Expert Windows 11 Weather App Reviews</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y02t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y02T Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-windows-podcast-software-selections/"><u>Ideal Windows Podcast Software Selections</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-discover-the-best-11-no-fee-name-crafting-for-channels/"><u>In 2024, Discover the Best 11 No-Fee Name Crafting for Channels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/reinstating-deleted-items-in-google-drive-for-pc-step-by-step-strategies-unveiled/"><u>Reinstating Deleted Items in Google Drive for PC: Step-by-Step Strategies Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/singaporean-enterprises-struggle-against-ongoing-ransomware-and-phishing-threats-insights-from-zdnet/"><u>Singaporean Enterprises Struggle Against Ongoing Ransomware & Phishing Threats: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-cloud-storage-solutions-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Cloud Storage Solutions : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uniting-for-success-how-ciq-became-the-cornerstone-sponsor-behind-rocky-linux-endorsed-by-veteran-linux-professionals-zdnet-insights/"><u>Uniting for Success: How CIQ Became the Cornerstone Sponsor Behind Rocky Linux, Endorsed by Veteran Linux Professionals | ZDNet Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-fees-the-true-cost-of-discounted-lifetime-cloud-storage-plans/"><u>Unveiling the Hidden Fees: The True Cost of Discounted Lifetime Cloud Storage Plans</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pros-and-cons-ranking-the-best-7-aqua-cameras/"><u>[New] In 2024, Pros & Cons Ranking the Best 7 Aqua Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-downloading-and-mastering-ez-grabber/"><u>[Updated] In 2024, The Ultimate Guide to Downloading & Mastering EZ Grabber</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-tap-into-audience-desires-strategies-for-video-templates/"><u>2024 Approved Tap Into Audience Desires Strategies for Video Templates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-on-mac-crafting-customized-focus-modes-in-macos-monterey-to-dodge-distractions/"><u>Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-the-tiktok-logo-cost-free-methods-to-edit-your-videos/"><u>Bypassing the TikTok Logo: Cost-Free Methods to Edit Your Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-amazon-fire-hd-8-assessment-a-budget-friendly-tab-worth-its-value/"><u>Comprehensive Amazon Fire HD 8 Assessment: A Budget-Friendly Tab Worth Its Value</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-runtime-broker-its-job-in-computing-architecture/"><u>Dissecting the Runtime Broker: Its Job in Computing Architecture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-productivity-connecting-dual-displays-to-your-m3-macbook-pro-insights/"><u>Enhance Your Productivity: Connecting Dual Displays to Your M3 MacBook Pro - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-a-better-world-with-chatgpts-revolutionary-enhancements/"><u>Explore a Better World with ChatGPT's Revolutionary Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-apple-watch-series-unveiled-for-2eaf-2024-thoroughly-tested-by-tech-experts-zdnet/"><u>Innovative Apple Watch Series Unveiled for 2Eaf 2024: Thoroughly Tested by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-your-ipad-at-risk-with-the-latest-ios-18-update-find-out-before-you-install-now-guides/"><u>Is Your iPad At Risk With the Latest iOS 18 Update? Find Out Before You Install Now Guides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-workflow-with-tailored-focus-modes-in-macos-monterey-by-avoiding-unwanted-interruptions/"><u>Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/score-big-on-apples-airpods-deals-with-40-off-just-in-time-for-the-fourth-of-july-gadget-specials/"><u>Score Big on Apple's AirPods Deals with $40 Off Just in Time for the Fourth of July | Gadget Specials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-vpn-providers-comprehensive-analysis-by-industry-experts-zdnet/"><u>Top-Rated iPhone VPN Providers: Comprehensive Analysis by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-price-alert-snap-up-apples-newest-macbook-air-for-under-850-pre-october-prime-day-blowout-on-amazon/"><u>Unbeatable Price Alert: Snap Up Apple's Newest MacBook Air for Under $850 Pre-October Prime Day Blowout on Amazon!</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11 & 10</u></a></li>
 </ul></div>
 

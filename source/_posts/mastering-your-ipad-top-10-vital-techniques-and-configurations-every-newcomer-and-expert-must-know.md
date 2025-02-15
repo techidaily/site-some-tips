@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know
-date: 2025-01-31T06:58:46.618Z
-updated: 2025-02-01T04:55:03.451Z
+date: 2025-02-13T16:48:40.483Z
+updated: 2025-02-14T17:36:01.851Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,10 +35,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -61,10 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -86,6 +74,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -96,6 +88,10 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -103,7 +99,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -120,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -129,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -180,20 +180,19 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/advanced-aws-lake-formation-customization-now-available-via-amazon-services/"><u>Advanced AWS Lake Formation Customization Now Available via Amazon Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/agnes-ro-explores-the-transforming-landscape-of-development-at-atlassian-insights-from-zdnet/"><u>Agnes Ro Explores the Transforming Landscape of Development at Atlassian - Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/error-resuelto-acceso-fallido-al-dispositivo-de-arranque-windows/"><u>Error Resuelto: Acceso Fallido Al Dispositivo De Arranque Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y100-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y100 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-your-sierra-cloud-storage-effortlessly/"><u>In 2024, Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/mc-social-club-creating-fun-with-5-unique-strategies/"><u>MC Social Club: Creating Fun With 5 Unique Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-usb30-device-failure-in-windows-1011-systems/"><u>Mending USB3.0 Device Failure in Windows 10/11 Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/microsoft-expands-into-iot-as-google-retreats-from-service-market-insights-zdnet/"><u>Microsoft Expands Into IoT as Google Retreats From Service Market - Insights | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/months-of-data-vanished-uncovering-the-crisis-among-google-drive-subscribers-tech-innovator-insights/"><u>Months of Data Vanished: Uncovering the Crisis Among Google Drive Subscribers | Tech Innovator Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revive-lost-data-discover-how-googles-new-update-can-restore-missing-files-from-your-local-drive-insights-from-zdnet/"><u>Revive Lost Data: Discover How Google's New Update Can Restore Missing Files From Your Local Drive - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-journey-of-making-it-big-with-ai-securing-spots-in-top-music-platforms/"><u>The Journey of Making It Big with AI: Securing Spots in Top Music Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-effective-techniques-for-disinfecting-your-television-clicker/"><u>Ultimate Guide: Effective Techniques for Disinfecting Your Television Clicker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/yt-bidirectional-navigating-the-queue-from-the-conclusion-backwards-for-2024/"><u>YT Bidirectional Navigating the Queue From the Conclusion Backwards for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-your-youtube-video-to-million-views-quickly-for-2024/"><u>[Updated] Boost Your YouTube Video to Million Views Quickly for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>[Updated] In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-guide-mastering-ez-grabber-for-2024/"><u>[Updated] Step-by-Step Guide Mastering EZ Grabber for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-a-comprehensive-guide-to-achieving-smooth-color-keying/"><u>2024 Approved A Comprehensive Guide to Achieving Smooth Color-Keying</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-challenges-gpt-4-with-realm-the-on-device-ai-that-outperforms-rivals-featured-on-zdnet/"><u>Apple Challenges GPT-4 with ReaLM: The On-Device AI That Outperforms Rivals, Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-access-apple-product-user-manuals-technical-specifications-and-repair-instructions-aggregated-on-zdnet/"><u>Comprehensive Guide: Access Apple Product User Manuals, Technical Specifications & Repair Instructions - Aggregated on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-true-condition-of-your-apple-watchs-battery-unveiling-unexpected-insights/"><u>Discover the True Condition of Your Apple Watch's Battery - Unveiling Unexpected Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-downloading-videos-from-forum-discussions/"><u>Effective Strategies for Downloading Videos From Forum Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-of-ar-discover-which-key-applications-miss-the-cut-for-apples-revolutionary-vision-pro/"><u>Future of AR: Discover Which Key Applications Miss the Cut for Apple's Revolutionary Vision Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-revolutionary-world-of-jaunt-vr-for-2024/"><u>Inside the Revolutionary World of Jaunt VR for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-on-your-pc-running-windows-11-simple-solutions-inside/"><u>Restore Audio Functionality on Your PC Running Windows 11 – Simple Solutions Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-breath-monitoring-apples-potential-addition-of-respiratory-features-to-vision-pro-insights-from-zdnet/"><u>Revolutionary Breath Monitoring: Apple's Potential Addition of Respiratory Features to Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-productivity-on-macos-using-craft-a-comprehensive-user-manual-for-smarter-document-management/"><u>Unleash Your Productivity on macOS Using Craft - A Comprehensive User Manual for Smarter Document Management</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-producers-favorite-cameras-and-lenses-for-2024/"><u>YouTube Producers' Favorite Cameras & Lenses for 2024</u></a></li>
 </ul></div>
 

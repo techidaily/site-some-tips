@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Testing Results for the Most Efficient Note-Taking Tablets of 2024 | CNET Gadgets
-date: 2025-01-17T20:32:31.847Z
-updated: 2025-01-24T20:41:34.961Z
+date: 2025-02-12T05:47:03.991Z
+updated: 2025-02-14T21:30:50.352Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -77,7 +77,7 @@ Cons
 * Speaker could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
@@ -112,7 +112,7 @@ Cons
 * Does not support note-taking on magazines or newspapers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Kindle Scribe
@@ -148,7 +148,7 @@ Cons
 ## Samsung Galaxy Tab S9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
@@ -179,10 +179,6 @@ Pros
 Cons 
 * Performance is just alright
 * Important productivity apps are missing
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Fire Max 11
 
@@ -216,6 +212,10 @@ The best note-taking tablet is the iPad Air based on price, ratings, display, fe
 
  \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which note-taking tablet is right for you?
 
 Choosing a tablet really comes down to what you want to use it for and what you want to spend. Basic tablets tend to be cheaper, so if you don't plan to use them for much other than taking notes, you can look at spending a little less and getting something like an Amazon Fire Tablet. 
@@ -239,10 +239,6 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -260,7 +256,7 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best note-taking apps?
@@ -274,6 +270,10 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 1. In the Notes or Freeform apps, tap to show the tool palette.
 2. In the tool palette, tap the Handwriting tool (to the left of the pen).
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
 
@@ -321,20 +321,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-most-innovative-list-scouting-the-top-10-free-youtube-studios-for-animation/"><u>[Updated] 2024 Approved The Most Innovative List Scouting the Top 10 Free YouTube Studios for Animation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>2024 Approved A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-reno-8t-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Reno 8T 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-the-newest-ipads-m1-vs-m2-ipad-pro-find-your-perfect-match/"><u>Comparing the Newest iPads: M1 Vs. M2 iPad Pro - Find Your Perfect Match!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cross-service-song-matching-sharing-your-musical-journey-for-2024/"><u>Cross-Service Song Matching Sharing Your Musical Journey for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficiency-unleashed-mastering-fast-tasks-using-macos-spotlight-suggestions-ciotrends/"><u>Efficiency Unleashed: Mastering Fast Tasks Using macOS Spotlight Suggestions | CIOTrends</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-choice-unveiling-the-ultimate-2024-mp3-player-selection-by-zdnet/"><u>Expert Choice: Unveiling the Ultimate 2024 MP3 Player Selection by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-one-to-many-languages-rom-patch-application/"><u>From One to Many Languages: ROM Patch Application</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-effortlessly-shift-your-pictures-from-google-photos-to-icloud-with-simple-steps/"><u>How to Effortlessly Shift Your Pictures From Google Photos to iCloud with Simple Steps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-upgrade-error-in-windows-1011/"><u>Quick Guide to Overcome Upgrade Error in Windows 10/11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secret-best-buy-promotion-to-score-a-complimentary-macbook-air-m3-discover-our-expert-guide-now/"><u>Secret Best Buy Promotion to Score a Complimentary MacBook Air M3 - Discover Our Expert Guide Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/snap-up-apples-latest-innovation-the-10gen-ipad-now-a-steal-at-299-after-prime-day-special-cnet-news/"><u>Snap Up Apple's Latest Innovation: The 10Gen iPad Now a Steal at $299 After Prime Day Special | CNET News</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ath-to-youtube-stardom-utilizing-sony-vegas-for-professional-cuts-for-2024/"><u>The Path to YouTube Stardom Utilizing Sony Vegas for Professional Cuts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-places-to-purchase-apple-watch-series-9-and-ultra-pre-halt-unbeatable-offers-you-cant-miss-insights-by-zdnet/"><u>Top Places to Purchase Apple Watch Series 9 & Ultra (Pre-Halt): Unbeatable Offers You Can't Miss - Insights by ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[New] Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-of-an-engaging-podcast-blurb/"><u>[New] The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-complete-overview-bublcam-360-camera-explored/"><u>[Updated] 2024 Approved Complete Overview Bublcam 360 Camera Explored</u></a></li>
+<li><a href="https://fox-search.techidaily.com/2-tutoriel-facile-construire-votre-image-systeme-avec-windows/"><u>2. Tutoriel Facile : Construire Votre Image Système Avec Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/10-sound-boosting-software-pc-mac-and-mobile/"><u>Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/compact-computing-unleashed-the-new-mac-mini-with-powerful-m4-chipsets-is-it-as-petite-as-an-apple-tv/"><u>Compact Computing Unleashed: The New Mac Mini with Powerful M4 Chipsets - Is It As Petite As An Apple TV?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lag-fixing-your-dragon-quest-xi-gameplay-issues/"><u>No More Lag: Fixing Your Dragon Quest XI Gameplay Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-shell32dll-file-cannot-be-found-issue/"><u>Resolving the 'Shell32.dll File Cannot Be Found' Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-transfer-of-images-from-google-photos-to-icloud-a-simple-guide/"><u>Seamless Transfer of Images From Google Photos to iCloud - A Simple Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-apple-watch-series-10-today-from-just-99-by-preordering-on-bestbuy-exclusive-guide/"><u>Secure Your Apple Watch Series 10 Today From Just $99 by Preordering on BestBuy - Exclusive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/showdown-of-smarphones-which-is-better-for-you-googles-pixel-cu6-or-apples-iphone-13-pro-expert-analysis-cnet/"><u>Showdown of Smarphones: Which Is Better for You, Google's Pixel Cu6 or Apple's iPhone 13 Pro? Expert Analysis | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-iphone-16-pro-enhancements-what-makes-it-a-must-have-for-gadget-fans-spotlight/"><u>The Ultimate List of iPhone 16 Pro Enhancements: What Makes It a Must-Have for Gadget Fans | Spotlight</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/turn-your-videos-into-treasures-the-best-dvd-creation-software-for-preserving-memories/"><u>Turn Your Videos Into Treasures The Best DVD Creation Software for Preserving Memories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-mp4-record-and-assess-guide/"><u>Ultimate MP4 Record & Assess Guide</u></a></li>
 </ul></div>
 

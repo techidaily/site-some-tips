@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Potential of GoPro Hero5 in Time-Lapse Cinematography\""
-date: 2024-08-08T08:29:32.816Z
-updated: 2024-08-09T08:29:32.816Z
+date: 2025-02-14T05:52:50.234Z
+updated: 2025-02-14T16:28:02.804Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 # How to Shoot a Time-lapse Video with GoPro Hero5 Black
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -37,6 +34,10 @@ Are you an amateur travel photographer who has recently bought a GoPro cam and w
 
 * [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
 * [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Shooting a time lapse video with GoPro Hero5
 
@@ -82,8 +83,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -92,25 +94,24 @@ The Action Cam Tool- this has the capacity of correcting lens distortion and can
 
 The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -118,18 +119,17 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,10 +153,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-perfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>[New] 2024 Approved Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>[Updated] In 2024, Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-background-extraction-in-figma-designs-easily/"><u>2024 Approved Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-gratuita-de-flac-a-wav-online-con-movavi-sin-coste/"><u>Conversión Gratuita De FLAC a WAV Online Con Movavi - Sin Coste</u></a></li>
+<li><a href="https://win11.techidaily.com/has-windows-subsystem-for-linux-helped-linux-gain-desktop-market-share/"><u>Has Windows Subsystem for Linux Helped Linux Gain Desktop Market Share?</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/high-definition-bmw-6-series-wraparound-wallpaper-gallery-premium-visuals-by-yl-computing/"><u>High-Definition BMW 6 Series Wraparound Wallpaper Gallery - Premium Visuals by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-jackery-explorer-2000-pro-a-compact-powerhouse-a-comprehensive-zdnet-assessment-of-emergency-energy-and-ease-of-transport/"><u>Is the Jackery Explorer 2000 Pro a Compact Powerhouse? A Comprehensive ZDNet Assessment of Emergency Energy and Ease of Transport</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-webcam-drivers-fresh-installation-guide-for-windows-7-users/"><u>Lenovo Webcam Drivers: Fresh Installation Guide for Windows 7 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-multi-device-remote-software/"><u>Step-by-Step Tutorial on Creating Multi-Device Remote Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-have-fitness-tracking-apps/"><u>Top 10 Must-Have Fitness Tracking Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-car-battery-jump-starters-reviewed-the-comprehensive-analysis-by-techexperts/"><u>Top-Rated Car Battery Jump Starters Reviewed - The Comprehensive Analysis by TechExperts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-led-torch-models-industry-experts-reviews-and-rankings-zdnet/"><u>Top-Rated LED Torch Models : Industry Experts' Reviews & Rankings - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-right-space-heater-industry-ratings-and-comparisons/"><u>Ultimate Guide to Choosing the Right Space Heater - Industry Ratings & Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-efficient-portable-battery-boosters-for-vehicles-20224-zdnets-expert-selection/"><u>Ultimate Guide to the Most Efficient Portable Battery Boosters for Vehicles, 202^[24: ZDNet's Expert Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-ultimate-on-the-go-power-the-unique-design-and-large-capacity-charger-for-endless-connectivity-spotlight-on-zdnets-top-portable-power-bank/"><u>Unleash Ultimate On-The-Go Power: The Unique Design & Large Capacity Charger for Endless Connectivity - Spotlight on ZDNet's Top Portable Power Bank</u></a></li>
+</ul></div>
 

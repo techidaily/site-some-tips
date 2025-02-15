@@ -1,7 +1,7 @@
 ---
 title: Introduces Groundbreaking Satellite SOS Messaging for Enhanced Safety in Android Devices | Insights From ZDNet
-date: 2025-01-24T20:33:17.720Z
-updated: 2025-01-31T20:13:48.517Z
+date: 2025-02-10T07:24:49.746Z
+updated: 2025-02-14T16:03:49.720Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-comparing-streams-vimeo-versus-youtube/"><u>[New] 2024 Approved Comparing Streams Vimeo Versus YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-redefine-twitter-video-panel/"><u>[New] Redefine Twitter Video Panel</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unmasking-deceitful-insta-followers-quickly-and-cost-free/"><u>[Updated] 2024 Approved Unmasking Deceitful Insta-Followers Quickly & Cost-Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-iphones-eligible-for-the-latest-apple-ios-18-update-what-models-are-in-and-out/"><u>Comprehensive List of iPhones Eligible for the Latest Apple iOS 18 Update: What Models Are In and Out?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-steps-to-successfully-update-or-restore-your-device-drivers-on-windows-tips-from-yl-computing/"><u>Easy Steps to Successfully Update or Restore Your Device Drivers on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-reasons-behind-apple-not-upgrading-previous-models-with-apple-intelligence/"><u>Exploring the Reasons Behind Apple Not Upgrading Previous Models with 'Apple Intelligence'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hosting-ai-applications-at-home-strategies-to-run-dozens-of-machine-learning-models-on-your-personal-computers-macpc-with-no-external-clouds/"><u>Hosting AI Applications at Home: Strategies to Run Dozens of Machine Learning Models on Your Personal Computers (Mac/PC) with No External Clouds</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-reno-10-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo Reno 10 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-rising-interest-in-rust-and-artificial-intelligence-influence-on-linux-development-tech-insights-by-zdnet/"><u>Linus Torvalds Discusses Rising Interest in Rust & Artificial Intelligence Influence on Linux Development | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-smart-televisions-a-guide-to-7-critical-considerations-before-you-buy/"><u>Navigating the World of Smart Televisions: A Guide to 7 Critical Considerations Before You Buy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/organizing-chaos-the-ultimate-fix-for-linux-and-open-source-doc-disarray-insights-from-zdnet/"><u>Organizing Chaos: The Ultimate Fix for Linux and Open Source Doc Disarray - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revealing-the-open-source-strategy-insights-from-jim-zemlin-of-the-linux-foundation-exclusive-on-zdnet/"><u>Revealing the Open-Source Strategy: Insights From Jim Zemlin of The Linux Foundation - Exclusive on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/securing-your-ai-data-in-the-cloud-unveiling-apples-safety-measures-and-their-significance/"><u>Securing Your AI Data in the Cloud: Unveiling Apple’s Safety Measures and Their Significance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-fixes-getting-the-logitech-f710-to-work-with-your-pcs-operating-system/"><u>Step-by-Step Fixes: Getting the Logitech F710 to Work with Your PC's Operating System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranking-web-hosts-of-2024-in-depth-analysis-and-recommendations-techradar/"><u>Top-Ranking Web Hosts of 2024: In-Depth Analysis & Recommendations | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-agile-limitations-for-expanding-it-teams-insights-from-industry-experts/"><u>Understanding Agile Limitations for Expanding IT Teams: Insights From Industry Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-how-jim-zemlin-and-the-linux-foundation-master-open-source-innovation-featured-spotlight/"><u>Unlocking the Potential: How Jim Zemlin and The Linux Foundation Master Open-Source Innovation | Featured Spotlight</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-hush-the-buzz-decluttering-recordings-in-audacity/"><u>[New] Hush the Buzz Decluttering Recordings in Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/20-anker-charger-overcoming-the-common-pitfalls-of-portable-batteries-insights/"><u>$20 Anker Charger: Overcoming the Common Pitfalls of Portable Batteries - Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-sending-past-moments-via-snapchat-camera-roll-guide/"><u>2024 Approved Sending Past Moments via Snapchat Camera Roll Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/airpods-pro-upgrade-to-version-2-a-breakthrough-in-audio-tech-worth-the-hype/"><u>AirPods Pro Upgrade to Version 2: A Breakthrough in Audio Tech Worth the Hype?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016869686-audio-disruption-diagnosis-and-fix-for-windows-710-users-say-goodbye-to-sound-issues/"><u>Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-your-next-apple-laptop-macbook-air-with-m3-chip-vs-m2-a-comprehensive-review-by-zdnet/"><u>Choosing Your Next Apple Laptop: MacBook Air with M3 Chip Vs. M2 - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/deciding-on-the-perfect-apple-device-compare-macbook-pro-vs-macbook-air-features-and-uses-with-our-in-depth-analysis-techradar/"><u>Deciding on the Perfect Apple Device? Compare MacBook Pro Vs. MacBook Air Features & Uses with Our In-Depth Analysis | TechRadar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/demystifying-gimps-capabilities-an-exhaustive-analysis-of-this-multiplatform-free-graphical-editor/"><u>Demystifying GIMP's Capabilities: An Exhaustive Analysis of This Multiplatform, Free Graphical Editor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-tutorial-for-creating-delayed-videos-on-snapchat/"><u>In 2024, The Ultimate Tutorial for Creating Delayed Videos on Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/integrating-slack-and-filmora-for-smooth-meeting-operations/"><u>Integrating Slack & Filmora for Smooth Meeting Operations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/resolving-the-odd-blip-ios-1751-corrects-old-photo-reappearance-error-detailed-analysis-zdnet/"><u>Resolving the Odd Blip: IOS 17.5.1 Corrects Old Photo Reappearance Error, Detailed Analysis | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-insights-from-zdnet/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-unveils-the-future-in-your-pocket-why-the-new-iphone-16s-cutting-edge-features-demand-an-immediate-upgrade/"><u>ZDNet Unveils the Future in Your Pocket: Why the New iPhone 16'S Cutting-Edge Features Demand an Immediate Upgrade!</u></a></li>
 </ul></div>
 

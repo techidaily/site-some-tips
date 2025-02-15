@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques to Reduce Nausea While In VR"
-date: 2024-08-08T08:26:59.915Z
-updated: 2024-08-09T08:26:59.915Z
+date: 2025-02-12T02:23:17.567Z
+updated: 2025-02-14T23:49:41.620Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 # How to reduce Virtual reality (VR) sickness
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -53,9 +51,9 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is Virtual reality sickness?
 
  All we know about the reality of the real world around us is that it comes from the perception of our sensory organs and their co-relation with the sense-managing system of our brain to generate useful information. Thus if we present our sensory system with the kind of information that really isn’t there our brain would begin to explore it and comprehend it as reality to us. Such a type of self-made information and the resulting outcome is what we call ‘virtual reality’.
@@ -63,24 +61,24 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,10 +102,24 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>[New] 2024 Approved Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-easy-methods-for-saving-online-meetings/"><u>[New] Easy Methods for Saving Online Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-choice-the-most-advanced-web-hosting-solutions-of-2024-reviewed-pcmag/"><u>Experts' Choice: The Most Advanced Web Hosting Solutions of 2024 Reviewed | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-renewed-interest-in-openstack-and-kata-containers-a-deep-dive-into-their-recent-surge-in-acceptance-insights-from-zdnet/"><u>Exploring the Renewed Interest in OpenStack and Kata Containers: A Deep Dive Into Their Recent Surge in Acceptance | Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hellenic-heirs-language-legacy-and-current-usage/"><u>Hellenic Heirs: Language Legacy & Current Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-countdown-magic-discover-10-must-have-androidios-clocks/"><u>In 2024, Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-harmonize-life-with-these-essential-music-video-apps/"><u>In 2024, Harmonize Life with These Essential Music Video Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shining-up-your-videos-on-android/"><u>In 2024, Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-first-steps-in-online-broadcasting-via-obs/"><u>In 2024, Your First Steps in Online Broadcasting via OBS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlocking-cinematic-storytelling-how-to-apply-ken-burns-effect-in-final-cut-pro-for-2024/"><u>New Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revelation-hidden-graphics-card-now-found-in-device-manager/"><u>Revelation: Hidden Graphics Card, Now Found in Device Manager</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shifts-in-coding-language-trends-since-2016-insights-and-implications-zdnet/"><u>Shifts in Coding Language Trends Since 2016: Insights & Implications | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/successful-prompt-triggers-bug-in-latest-version-of-ai-tool-on-microsofts-github/"><u>Successful Prompt Triggers Bug in Latest Version of AI Tool on Microsoft's GitHub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swiss-confederation-enforces-transparency-with-new-open-source-software-directive-zdnet/"><u>Swiss Confederation Enforces Transparency with New Open-Source Software Directive - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-architects-of-intelligence-unveiling-the-experts-building-artificial-minds-zdnet/"><u>The Architects of Intelligence: Unveiling the Experts Building Artificial Minds | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-curious-case-of-title-demotion-at-apple-what-prompted-former-staff-to-be-labeled-as-associates/"><u>The Curious Case of Title Demotion at Apple - What Prompted Former Staff to Be Labeled as 'Associates'?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trends-and-shifts-in-coding-language-preferences-from-2016-onward-insights-for-the-future-techinsight/"><u>Trends & Shifts in Coding Language Preferences From 2016 Onward: Insights for the Future | TechInsight</u></a></li>
+</ul></div>
 

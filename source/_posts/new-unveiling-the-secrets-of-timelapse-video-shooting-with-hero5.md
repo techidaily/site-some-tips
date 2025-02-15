@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5"
-date: 2024-08-15T10:08:10.366Z
-updated: 2024-08-16T10:08:10.366Z
+date: 2025-02-07T22:37:21.064Z
+updated: 2025-02-14T19:30:36.572Z
 tags: 
   - screen-recording
   - ai video
@@ -79,8 +79,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -90,25 +91,27 @@ The Action Cam Tool- this has the capacity of correcting lens distortion and can
 The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -117,8 +120,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -126,8 +130,6 @@ Max Wales
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,10 +153,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-mastering-online-image-cropping-techniques-for-2024/"><u>[New] Mastering Online Image Cropping Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-unveils-upgraded-alexa-with-anthropics-cutting-edge-technology-as-featured-on-zdnet/"><u>Amazon Unveils Upgraded Alexa with Anthropic's Cutting-Edge Technology, as Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enjoy-high-fidelity-audio-on-the-go-with-this-affordable-80-portable-speaker-cnet-review/"><u>Enjoy High-Fidelity Audio on the Go with This Affordable $80 Portable Speaker - CNET Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-take-on-the-sonos-era-300-superior-smart-speaker-with-a-notable-exception-zdnet-review/"><u>Expert Take on the Sonos Era 300: Superior Smart Speaker with a Notable Exception | ZDNet Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-phantom-v-fold-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Phantom V Fold Is Unlocked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-smooth-transition-of-short-videos-to-youtube-device-guide/"><u>In 2024, Smooth Transition of Short Videos to YouTube - Device Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-buzz-surrounding-apples-home-robot-cost-projections-expected-arrival-and-hardware-specs-unpacked/"><u>Inside the Buzz Surrounding Apple's Home Robot: Cost Projections, Expected Arrival & Hardware Specs Unpacked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-slack-and-filmora-scheduling-meetings-flawlessly-for-2024/"><u>Mastering Slack & Filmora Scheduling Meetings Flawlessly for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-acquires-blizzard-insights-on-ai-art-and-multilingual-translations-in-latest-episode/"><u>Microsoft Acquires Blizzard: Insights on AI Art & Multilingual Translations in Latest Episode</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-common-video-streaming-challenges/"><u>Overcoming Common Video Streaming Challenges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/real-time-video-editing-master-with-manycam-the-ultimate-live-streaming-solution/"><u>Real-Time Video Editing: Master with ManyCam - The Ultimate Live Streaming Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-3a-understanding-collective-bargaining-strategies-post-strike/"><u>Section 3A: Understanding Collective Bargaining Strategies Post-Strike</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-affordable-bluetooth-speakers-below-100-expert-review-by-techadvisor/"><u>Top 5 Affordable Bluetooth Speakers Below $100 - Expert Review by TechAdvisor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-samsung-offers-and-discounts-exclusive-insights-on-the-latest-weekly-deals-march-edition/"><u>Top Samsung Offers and Discounts: Exclusive Insights on the Latest Weekly Deals - March Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-high-performance-floor-stands-for-audiophiles-soundguys/"><u>Ultimate List of High-Performance Floor Stands for Audiophiles | SoundGuys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/yamahas-budget-friendly-soundbar-outshines-expensive-jbl-model-at-only-half-the-cost-experience-audio-bliss/"><u>Yamaha's Budget-Friendly Soundbar Outshines Expensive JBL Model at Only Half the Cost – Experience Audio Bliss</u></a></li>
+</ul></div>
 

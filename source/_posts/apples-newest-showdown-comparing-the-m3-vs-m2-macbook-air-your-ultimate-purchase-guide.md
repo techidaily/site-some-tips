@@ -1,7 +1,7 @@
 ---
 title: "Apple's Newest Showdown: Comparing the M3 vs M2 MacBook Air - Your Ultimate Purchase Guide"
-date: 2025-01-24T16:36:45.038Z
-updated: 2025-01-31T23:27:02.163Z
+date: 2025-02-08T17:26:11.111Z
+updated: 2025-02-15T00:16:47.340Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -56,16 +52,12 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
@@ -75,6 +67,10 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 **Also: [This sneaky Best Buy deal lets you snag a free MacBook Air M3 - here's how](https://www.zdnet.com/article/this-sneaky-best-buy-deal-lets-you-snag-a-near-free-macbook-air-m3-heres-how/)**
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
 
@@ -95,12 +91,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. The $100 price difference means a lot
 
@@ -112,15 +112,15 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,18 +156,24 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>[New] 2024 Approved Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-reimagine-your-profile-on-tiktok-with-innovative-pfps-for-2024/"><u>[New] Reimagine Your Profile on TikTok with Innovative PFPs for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-your-fb-watchlist-access-liked-movies-and-shows/"><u>[Updated] In 2024, Unlocking Your FB Watchlist Access Liked Movies & Shows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-superior-approaches-to-record-phone-usage-for-2024/"><u>[Updated] Superior Approaches to Record Phone Usage for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts/"><u>2024 Approved Crafting Memorable Announcements The Key to Successful Facebook Giving Posts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010647722-fast-fix-resolving-dayz-shooting-issues-in-seconds/"><u>Fast Fix: Resolving DayZ Shooting Issues in Seconds!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-embracing-artificial-intelligence-and-rust-in-development-why-the-linux-kernel-reigns-supreme-cyberworld-news/"><u>Linus Torvalds on Embracing Artific#ial Intelligence and Rust in Development: Why The Linux Kernel Reigns Supreme | CyberWorld News</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-access-to-microsoft-defender-smartscreen-after-sudden-disconnection/"><u>Restoring Access to Microsoft Defender SmartScreen After Sudden Disconnection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-boom-of-low-code-and-no-code-markets-predicts-transformation-in-technology-employment/"><u>The Boom of Low-Code and No-Code Markets Predicts Transformation in Technology Employment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-challenges-and-risks-behind-googles-ai-powered-video-avatar-creation-for-vloggers-unveiling-the-issues/"><u>The Challenges and Risks Behind Google's AI-Powered Video Avatar Creation for Vloggers - Unveiling the Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-roadmap-for-ai-adoption-in-enterprises-a-three-to-five-year-forecast-by-intel-zdnet-analysis/"><u>The Roadmap for AI Adoption in Enterprises: A Three to Five Year Forecast by Intel | ZDNet Analysis</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-motorola-razr-40-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Razr 40 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-winamp-wont-turn-open-source-understanding-its-new-direction-and-reasons-behind-the-shift/"><u>Why Winamp Won't Turn Open-Source: Understanding Its New Direction & Reasons Behind the Shift</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>[New] In 2024, Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>[Updated] 2024 Approved ScreenCapture Unveiled The Ultimate Review of CamStudio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-the-universe-of-gesture-technology/"><u>[Updated] Exploring the Universe of Gesture Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-intro-scripts-for-panzoid-zeoids/"><u>[Updated] Premier Intro Scripts for Panzoid Zeoids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-strategies-to-become-a-top-notch-interviewer-for-2024/"><u>[Updated] Strategies to Become a Top-Notch Interviewer for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-unveils-groundbreaking-innovations-at-wwdc-202n-surpassing-openai-microsoft-and-googles-ai-frontiers-analysis-by-zdnte/"><u>Apple Unveils Groundbreaking Innovations at WWDC 202N: Surpassing OpenAI, Microsoft, and Google's AI Frontiers - Analysis by ZDNtE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-move-in-ios-175-beta-2-now-you-can-download-apps-online-directly-exclusive-info-for-european-users/"><u>Apple's Latest Move in iOS 17.5 Beta 2: Now You Can Download Apps Online Directly, Exclusive Info for European Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-discover-7-robust-programming-alternatives-with-ai-capabilities/"><u>Beyond ChatGPT: Discover 7 Robust Programming Alternatives with AI Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-4-irresistible-motivations-for-grabbing-apples-latest-ipad-air-a-comprehensive-review-on-zdnet/"><u>Discover 4 Irresistible Motivations for Grabbing Apple's Latest iPad Air: A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-the-apple-watch-ultra-2-became-a-must-have-for-me-now-at-a-sweet-deal-of-100-off-during-labor-day-insights-from-zdnets-tech-team/"><u>Discover Why the Apple Watch Ultra 2 Became a Must-Have for Me, Now at a Sweet Deal of $100 Off During Labor Day | Insights From ZDNET's Tech Team</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-12plus-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme 12+ 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/labor-day-sale-alert-get-the-latest-2n-apple-ipad-pro-for-up-to-56-off-only-today/"><u>Labor Day Sale Alert: Get the Latest 2N Apple iPad Pro for Up to 56% Off, Only Today!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-year-new-language-your-new-year-aspirations/"><u>New Year, New Language: Your New Year Aspirations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-visual-content-strategy-with-these-8-chatgpt-tricks/"><u>Revolutionize Your Visual Content Strategy with These 8 ChatGPT Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-the-latest-9gen-ipad-for-just-250-after-apples-fresh-reveal-expert-analysis-by-zdnet/"><u>Snag the Latest 9Gen iPad for Just $250 After Apple's Fresh Reveal | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-new-qi2-charger-a-must-have-device-for-apple-enthusiasts/"><u>The Ultimate Guide to the New Qi2 Charger: A Must-Have Device for Apple Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mobile-phones-endorsed-by-experts-at-zdnet-find-out-which-they-really-use/"><u>Top Mobile Phones Endorsed by Experts at ZDNet - Find Out Which They Really Use!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-from-iphone-15-to-iphone-16-top-considerations-and-benefits-unveiled-gadgetguide/"><u>Transitioning From IPhone 15 to IPhone 16? Top Considerations and Benefits Unveiled | GadgetGuide</u></a></li>
 </ul></div>
 

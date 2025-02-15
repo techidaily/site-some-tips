@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Unveiling the Future of Portable Artificial Intelligence Education"
-date: 2025-01-27T18:19:03.084Z
-updated: 2025-01-31T16:57:10.025Z
+date: 2025-02-12T05:19:53.125Z
+updated: 2025-02-15T02:00:29.570Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -37,7 +41,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -76,7 +80,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -92,7 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -106,6 +110,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -130,10 +138,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,20 +210,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-10-leading-4k-displays/"><u>[New] 2024 Approved 10 Leading 4K Displays</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-curve-concepts-for-text-visualization/"><u>[New] Crafting Curve Concepts for Text Visualization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>[New] In 2024, Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-livelink-audio-visual-crafting-portal/"><u>[New] LiveLink Audio-Visual Crafting Portal</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ranking-macs-best-rated-sniping-programs-for-2024/"><u>[Updated] Ranking Mac's Best-Rated Sniping Programs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-your-python-skills-with-linkedins-complimentary-ai-program-transformative-results-unveiled-on-zdnet/"><u>Elevate Your Python Skills with LinkedIn's Complimentary AI Program – Transformative Results Unveiled on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/everyone-gains-from-modern-chatgpt-knowledge/"><u>Everyone Gains From Modern ChatGPT Knowledge</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-a-new-approach-to-attracting-top-it-professionals/"><u>Revamping Recruitment Strategies: A New Approach to Attracting Top IT Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/six-key-agile-strategies-for-boosting-success-in-software-development-insights-from-zdnet/"><u>Six Key Agile Strategies for Boosting Success in Software Development - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-true-shelf-life-assessing-how-long-do-electric-versus-gasoline-cars-last/"><u>The True Shelf Life: Assessing How Long Do Electric Versus Gasoline Cars Last</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-java-training-programs-of-2022-insights-from-zdnet/"><u>Top-Rated Java Training Programs of 2022: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-2024s-elite-web-hosting-providers-fully-reviewed-by-specialists-pcmag/"><u>Ultimate Guide to 2024'S Elite Web Hosting Providers, Fully Reviewed by Specialists | PCMag</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-simple-access-to-artificial-intelligence-applications-with-superduperdb-insights-from-zdnet/"><u>Unlocking Simple Access to Artificial Intelligence Applications with SuperDuperDB: Insights From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-optimize-watching-incorporating-captions-into-wmp/"><u>[New] 2024 Approved Optimize Watching Incorporating Captions Into WMP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easily-manage-your-snapchat-video-speed/"><u>[New] In 2024, Easily Manage Your Snapchat Video Speed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-laughterbox-easy-entry-endless-entertainment-for-2024/"><u>[Updated] LaughterBox Easy Entry, Endless Entertainment for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>2024 Approved How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-zdnet/"><u>Choosing Between MacBook Pro and MacBook Air - A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-new-spatial-personalization-on-the-vision-pro-a-step-by-step-guide/"><u>Discover Apple's New Spatial Personalization on the Vision Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-ios-175-beta-2s-new-feature-eu-customers-can-now-get-apps-from-the-internet-with-apples-latest-update-zdnet-analysis/"><u>Discovering iOS 17.5 Beta 2'S New Feature: EU Customers Can Now Get Apps From the Internet with Apple's Latest Update | ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/durable-protection-top-rated-straps-and-cases-for-your-apple-watch-and-samsung-z-fold-4-explore-options/"><u>Durable Protection: Top-Rated Straps & Cases for Your Apple Watch and Samsung Z Fold 4 - Explore Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effortless-pc-waking-up-activating-wake-on-lan-on-windows-11-explained/"><u>Effortless PC Waking Up: Activating Wake-on-LAN on Windows 11 Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-innovation-how-apples-ipad-pro-stands-out-without-trying-to-replace-your-macbook-tech-reviews/"><u>Embracing Innovation: How Apple's IPad Pro Stands Out Without Trying to Replace Your MacBook Tech Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unbeatable-value-with-memorial-day-deals-get-the-perfect-apple-watch-se-at-a-60-discount-my-top-pick-of-the-year-insights/"><u>Experience Unbeatable Value with Memorial Day Deals: Get the Perfect Apple Watch SE at a $60 Discount, My Top Pick of the Year - Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ipad-pro-or-macbook-air-determining-your-perfect-tech-companion/"><u>IPad Pro or MacBook Air: Determining Your Perfect Tech Companion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigate the World of Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-instagram-leadership/"><u>Step-by-Step Guide to Instagram Leadership</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-ideal-ipad-add-ons-for-apple-devices-insights/"><u>The Ultimate Guide to Selecting Ideal iPad Add-Ons for Apple Devices | Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2025-01-28T04:33:38.026Z
-updated: 2025-02-01T02:16:52.845Z
+date: 2025-02-11T00:49:13.812Z
+updated: 2025-02-14T19:23:35.029Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/)
@@ -33,10 +37,6 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -48,13 +48,13 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -62,7 +62,7 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,17 +145,20 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovative-approaches-to-social-media-video-making/"><u>[New] 2024 Approved Innovative Approaches to Social Media Video Making</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-secrets-of-voiced-powerpoint-presentations-for-2024/"><u>[New] Unveiling the Secrets of Voiced PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-social-media-melody-ownership-laws/"><u>[Updated] Social Media Melody Ownership Laws</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-low-code-solutions-enhance-employer-branding-according-to-industry-expertise-on-zdnet/"><u>How Low-Code Solutions Enhance Employer Branding, According to Industry Expertise on ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-150-2023-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia 150 (2023) PC | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-ranking-the-leading-10-pixels-for-free-access/"><u>In 2024, Ranking the Leading 10 Pixels for Free Access</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-controversy-progress-towards-standardizing-open-source-ai-faces-criticism/"><u>Navigating the Controversy: Progress Towards Standardizing Open Source AI Faces Criticism</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-shifts-potential-realignment-in-the-artificial-intelligence-and-data-science-sector/"><u>Navigating the Shifts: Potential Realignment in the Artificial Intelligence & Data Science Sector</u></a></li>
-<li><a href="https://some-tips.techidaily.com/organizing-chaos-streamlining-linux-and-open-source-documentation/"><u>Organizing Chaos: Streamlining Linux & Open Source Documentation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-smart-coding-how-ai-enhances-developer-efficiency-today-moving-past-old-school-automation-methods-insights-from-zdnet/"><u>The Future Is Smart Coding: How AI Enhances Developer Efficiency Today, Moving Past Old-School Automation Methods | Insights From ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-itel-a05s-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Itel A05s Phone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-visibility-comprehensive-guide-to-video-marketing-titles/"><u>[New] In 2024, Elevate Visibility Comprehensive Guide to Video Marketing Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sonys-leap-into-4k-with-xperia-xz-premium-insights/"><u>[New] In 2024, Sony's Leap Into 4K with Xperia XZ Premium Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-fixes-for-stuck-instagram-videos/"><u>[Updated] Mastering Fixes for Stuck Instagram Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-unveils-vision-pro-a-revolutionary-arvr-headset-coming-soon-with-exclusive-600-app-catalog-tech-news/"><u>Apple Unveils Vision Pro: A Revolutionary AR/VR Headset Coming Soon With Exclusive 600-App Catalog | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-ios-18-now-complete-guide-for-compatible-iphone-models-latest-update-release-info/"><u>Download IOS 18 Now: Complete Guide for Compatible iPhone Models - Latest Update Release Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-downloading-and-updating-epson-wf-3520-drivers-on-pcs-and-laptops/"><u>Essential Guide to Downloading & Updating Epson WF-3520 Drivers on PCs and Laptops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-features-and-performance-of-cleanmymac-x-in-our-zdnet-reviews/"><u>Exploring the Features and Performance of CleanMyMac X in Our ZDNet Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-can-apple-turn-around-topvisionpro-zdnet-shares-three-key-strategies-for-revival/"><u>How Can Apple Turn Around TopVisionPro? ZDNet Shares Three Key Strategies for Revival</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-8-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 8 Making It Possible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/installing-libreoffice-on-your-mac-an-easy-walkthrough-to-replace-ms-office-without-spending-a-penny/"><u>Installing LibreOffice on Your Mac - An Easy Walkthrough to Replace MS Office Without Spending a Penny</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/rhythmripper-screen-recordings-review/"><u>RhythmRipper Screen Recordings Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/saving-visionpro-essential-strategies-apple-needs-to-implement-gadgetpulse/"><u>Saving VisionPro: Essential Strategies Apple Needs to Implement | GadgetPulse</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-the-power-of-the-little-dragon-the-spyro-reignited-collections-hidden-treasure/"><u>Unleashing the Power of the Little Dragon: The Spyro Reignited Collection's Hidden Treasure</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-similar-software-or-alternatives-to-virtualdub/"><u>Updated Similar Software or Alternatives to VirtualDub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-the-definitive-guide-insights/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : The Definitive Guide - Insights</u></a></li>
 </ul></div>
 

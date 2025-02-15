@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending and Receiving iMessages From Your PC with Windows - Expert Tips"
-date: 2025-01-29T03:14:43.497Z
-updated: 2025-01-31T17:09:30.623Z
+date: 2025-02-14T05:23:32.349Z
+updated: 2025-02-14T22:13:04.139Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -56,15 +60,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -75,10 +79,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -92,10 +92,6 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -108,7 +104,15 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -117,6 +121,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -130,10 +138,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -145,10 +149,6 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,19 +192,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-recording-rivals-meet/"><u>[New] 2024 Approved Recording Rivals, Meet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity/"><u>[New] In 2024, Unlock Screen Capture Potential with Expert Tips From Adobe Captivity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-mobile-listening-androids-best-podcast-apps-top-6/"><u>[New] Mastering Mobile Listening Android's Best Podcast Apps (Top 6)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hidden-windows-11-techniques-for-effortless-import-tasks/"><u>[Updated] Hidden Windows 11 Techniques for Effortless Import Tasks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-your-desktop-in-winoses-effortlessly/"><u>2024 Approved Capturing Your Desktop in WinOSes Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bridging-the-gap-in-tech-how-intel-ai-chief-wei-li-plans-to-popularize-modern-day-ai-supercomputing-zdnet-insights/"><u>Bridging the Gap in Tech: How Intel AI Chief Wei Li Plans to Popularize Modern-Day AI Supercomputing | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/dealing-with-60-daily-linux-vulnerabilities-tips-and-tricks-from-the-linux-security-squad-on-effective-mitigation-strategies-tech-insight/"><u>Dealing with 60 Daily Linux Vulnerabilities: Tips & Tricks From the Linux Security Squad on Effective Mitigation Strategies | Tech Insight</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-htc-easily-by-drfone-android/"><u>In 2024, How To Unlock a HTC Easily?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphones-ultimate-strategy-for-seamless-podcast-downloading-for-2024/"><u>IPhone's Ultimate Strategy for Seamless Podcast Downloading for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/raspberry-pis-on-high-demand-unveiling-reasons-behind-supply-issues-and-how-to-secure-yours-zdnet/"><u>Raspberry Pis on High Demand: Unveiling Reasons Behind Supply Issues and How to Secure Yours | ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-red-magic-9-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Red Magic 9 Pro ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essentials-of-running-an-immutable-linux-os-insights-from-tech-experts/"><u>The Essentials of Running an Immutable Linux OS | Insights From Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-ai-accessibility-intels-leadership-with-ceo-wei-li-paving-way-for-widespread-ai-supercomputing/"><u>Transforming AI Accessibility: Intel's Leadership with CEO Wei Li Paving Way for Widespread AI Supercomputing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-pioneers-in-virtual-marvel-storytelling/"><u>[Updated] In 2024, Pioneers in Virtual Marvel Storytelling</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>[Updated] In 2024, Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-saving-iphone-data-on-icloud-and-mac-tips-from-zdnet/"><u>Comprehensive Guide: Saving iPhone Data on iCloud & Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-microsoft-surface-pro/"><u>Comprehensive Microsoft Surface Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-multi-function-printer-mfp-m127fn-drivers-free/"><u>Download HP LaserJet Pro Multi-Function Printer (MFP) M127FN Drivers - Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-offer-save-24-on-apple-airtag-4-pack-during-labor-day-sale-at-walmart-insider-details/"><u>Exclusive Offer: Save $24 on Apple AirTag 4-Pack During Labor Day Sale at Walmart – Insider Details</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 13 Pro | Stellar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-edge-winning-16-free-media-applications/"><u>Leading Edge Winning 16 Free Media Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-sharing-power-strategies-for-uploading-oversized-videos-to-discord-without-spending-a-dime/"><u>Maximize Your Sharing Power: Strategies for Uploading Oversized Videos to Discord without Spending a Dime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/millions-at-risk-latest-vulnerability-discovered-in-universal-extensible-firmware-interface-uefi/"><u>Millions at Risk: Latest Vulnerability Discovered in Universal Extensible Firmware Interface (UEFI)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-july-2ebst-apple-promotions-get-your-hands-on-affordable-iphones-trendy-apple-watches-and-budget-friendly-ipads-insider-tips-from-zdnet/"><u>Unlocking July 2Ebst Apple Promotions: Get Your Hands on Affordable iPhones, Trendy Apple Watches, and Budget-Friendly iPads | Insider Tips From ZDNet</u></a></li>
 </ul></div>
 

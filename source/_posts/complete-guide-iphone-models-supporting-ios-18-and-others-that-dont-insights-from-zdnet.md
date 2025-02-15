@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet"
-date: 2025-01-23T16:53:31.926Z
-updated: 2025-01-24T17:30:23.727Z
+date: 2025-02-11T01:36:44.389Z
+updated: 2025-02-14T19:47:06.610Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will get iOS 18?
 
 According to Apple, these iPhone models can get iOS 18 now that it's become widely available:
@@ -80,6 +76,10 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18 beta vs full release: What's the difference?
 
 The iOS 18 beta version differs slightly from the general release. Beta testers are given a release that has recently exited its alpha phase, so problems and bugs are expected to arise. The purpose of the beta phase is to gather user feedback to repair these bugs and address any user interface issues before the software is massively distributed.
@@ -93,7 +93,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -105,7 +105,7 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -116,10 +116,6 @@ A software beta is a version of a program or operating system initially released
 
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will get Apple Intelligence?
 
 While many iPhone models support iOS 18, very few will support Apple Intelligence, Apple's AI features. Apple Intelligence is now available in a beta version for the iPhone 15 Pro series and iPhone 16 series, as well as iPads and Macs with an M1 chip or later. 
@@ -129,12 +125,16 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
 
@@ -176,17 +176,24 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/eyond-the-leading-films-hidden-cinema-treasures-for-2024/"><u>[New] Beyond the Leading Films Hidden Cinema Treasures for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-what-is-the-difference-between-youtube-and-dailymotion/"><u>[Updated] In 2024, What Is the Difference Between YouTube and Dailymotion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-shooting-the-best-sports-moments-iphone-burst-mode-for-2024/"><u>[Updated] Shooting the Best Sports Moments IPhone Burst Mode for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-revolutionize-your-digital-photography/"><u>2024 Approved Revolutionize Your Digital Photography</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-comprehensive-how-to-setting-up-and-sharing-your-xbox-game-library-with-friends/"><u>A Comprehensive How-To: Setting Up and Sharing Your Xbox Game Library with Friends</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-leap-the-349-ipad-shines-bright-in-let-loose-event-reviews/"><u>Apple’s Latest Leap: The $349 iPad Shines Bright in 'Let Loose' Event Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-news-lg-televisions-receive-premium-sound-enhancements-a-hit-with-apple-fans/"><u>Exciting News: LG Televisions Receive Premium Sound Enhancements, A Hit with Apple Fans</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp3aac-audio-transformation-download-our-no-cost-web-service-for-immediate-flac-format-conversion/"><u>MP3/AAC Audio Transformation: Download Our No-Cost Web Service for Immediate FLAC Format Conversion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-human-edge-in-excel-3-tasks-only-you-can-perform-not-chatgpt/"><u>The Human Edge in Excel: 3 Tasks Only You Can Perform, Not ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-25-unbeatable-christmas-ipad-offers-zdnets-comprehensive-guide/"><u>Top 25 Unbeatable Christmas iPad Offers - ZDNet's Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-into-your-favorite-superhero-using-apple-vision-pro-learn-more-on-may-ve/"><u>Transform Into Your Favorite Superhero Using Apple Vision Pro - Learn More on May Ve</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-users-learn-how-to-use-imessage-like-a-pro-insights-by-zdnet/"><u>Windows Users, Learn How To Use iMessage Like A Pro! Insights by ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-enlightening-path-to-capturing-your-mac-screens/"><u>2024 Approved Enlightening Path to Capturing Your Mac Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/acquisition-alert-automattic-expands-with-beeper-takeover-envisions-massive-growth-for-chat-app/"><u>Acquisition Alert: Automattic Expands with Beeper Takeover; Envisions Massive Growth for Chat App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-intelligence-in-question-why-the-iphone-16-may-not-be-your-smartest-choice-insights-from-zdnet/"><u>Apple Intelligence in Question: Why the iPhone 16 May Not Be Your Smartest Choice - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-stays-silent-on-iphone-safety-gear-should-users-be-concerned-tech-analysis-by-zdnet/"><u>Apple Stays Silent on iPhone Safety Gear – Should Users Be Concerned? | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/are-apples-airpods-pro-launched-still-a-top-choice-for-audio-enthusiasts-insights-from-tech-experts/"><u>Are Apple's AirPods Pro, Launched , Still a Top Choice for Audio Enthusiasts? Insights From Tech Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-ai-direction-and-development/"><u>Deciding AI Direction & Development</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-full-hd-nhl-matches-and-highlights-in-various-formats-mp4-wmv-mov-avi/"><u>Download Full HD NHL Matches & Highlights in Various Formats (MP4, WMV, MOV, AVI)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-ready-for-ios-16-a-comprehensive-guide-on-downloading-apples-newest-ios-beta-version-is-it-worth-the-risk-techspot/"><u>Get Ready for IOS 16: A Comprehensive Guide on Downloading Apple's Newest iOS Beta Version – Is It Worth the Risk? | TechSpot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-upcoming-apple-pay-later-transactions-could-affect-your-experian-credit-score-insights-revealed/"><u>How Upcoming Apple Pay Later Transactions Could Affect Your Experian Credit Score: Insights Revealed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s24-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S24 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-14-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 14 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/logiciel-ideal-pour-cloner-vos-ssds-de-la-marque-verbatim-decouverte-et-comparaison/"><u>Logiciel Idéal Pour Cloner Vos SSDs De La Marque Verbatim: Découverte Et Comparaison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-watch-ultra-vs-apple-watch-ultra-showdown-top-features-compared-for-your-perfect-pick-gadgetguardian/"><u>Samsung Galaxy Watch Ultra Vs. Apple Watch Ultra Showdown: Top Features Compared for Your Perfect Pick | GadgetGuardian</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-2024-saga-of-windows-and-crowdstrike-decoding-the-origins-behind-the-infamous-cyber-clash-insights-and-analysis/"><u>The 2024 Saga of Windows and CrowdStrike: Decoding the Origins Behind the Infamous Cyber Clash | Insights & Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ipados-18-feature-revealed-at-wwdc-2024-that-would-make-me-switch-to-an-apple-tablet-instantly/"><u>Top iPadOS 18 Feature Revealed at WWDC 2024 That Would Make Me Switch to an Apple Tablet Instantly!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x8b-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X8b Device</u></a></li>
 </ul></div>
 

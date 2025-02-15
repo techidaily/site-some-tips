@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2025-01-18T18:03:39.097Z
-updated: 2025-01-24T16:15:06.610Z
+date: 2025-02-13T05:04:20.845Z
+updated: 2025-02-15T05:20:06.007Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,14 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-10-text-manipulators-boosting-affects-craft/"><u>[New] 2024 Approved Top 10 Text Manipulators Boosting Affects Craft</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-instagrams-video-sharing-limits/"><u>[New] Unlocking Instagram's Video Sharing Limits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-t5s-ability-to-capture-excitement-and-adventure/"><u>[Updated] In 2024, Unveiling T5's Ability to Capture Excitement and Adventure</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-f54-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy F54 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/itunes-for-windows-latest-version-setup-tips-common-error-fixes-and-backup-options-for-1087-users/"><u>ITunes for Windows: Latest Version Setup Tips, Common Error Fixes, and Backup Options for 10/8/7 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-ipad-potential-with-leading-productivity-tools-boost-your-daily-output-guided-by-zdnet-experts/"><u>Maximizing iPad Potential with Leading Productivity Tools: Boost Your Daily Output | Guided by ZDNet Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-market-trends-what-insights-can-we-gain-from-monitoring-apple-xr-headsets-delivery-schedules/"><u>Understanding Market Trends: What Insights Can We Gain From Monitoring Apple XR Headsets Delivery Schedules?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/what-to-expect-from-apple-watchs-new-version-unveiling-watchos-n-11s-improved-features-insights-by-zdnet/"><u>What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-you-cant-get-the-latest-apple-ai-on-your-old-iphone-the-pricey-reasons-unveiled-by-zdnet/"><u>Why You Can't Get the Latest Apple AI on Your Old iPhone: The Pricey Reasons Unveiled by ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-perfect-youtube-thumbnails-on-macos/"><u>[New] 2024 Approved Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-elements-for-implementing-channel-banners-in-games/"><u>[Updated] 2024 Approved Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-comparative-look-at-rgb-and-srgb-for-designers/"><u>A Comparative Look at Rgb and Srgb for Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-apple-pay-later-paving-way-for-a-new-alternative-insights-from-zdnet/"><u>Apple Discontinues Apple Pay Later, Paving Way for a New Alternative: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automattic-scores-victory-in-tech-arena-with-beeper-acquisition-future-messaging-ambitions-revealed-zdnet/"><u>Automattic Scores Victory in Tech Arena with Beeper Acquisition; Future Messaging Ambitions Revealed | ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-pinnacle-studio-top-video-editing-software-for-mac-for-2024/"><u>Beyond Pinnacle Studio Top Video Editing Software for Mac for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs/"><u>Crafting Cinematic Projects Utilizing Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolving-excellence-apple-unveils-the-upgraded-mac-studio-beyond-the-classic-mac-mini-zdnet/"><u>Evolving Excellence: Apple Unveils the Upgraded Mac Studio, Beyond the Classic Mac Mini | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-ranking-of-top-smartwatch-models-for-202-expert-insights-and-comparisons/"><u>Exclusive Ranking of Top Smartwatch Models for 202지날 - Expert Insights and Comparisons</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-tips-for-seamless-computer-data-exchange-using-yls-software-tools/"><u>Expert Tips for Seamless Computer Data Exchange Using YL's Software Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/historical-roots-of-the-foddian-empire/"><u>Historical Roots of the Foddian Empire</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-eliminating-vibrational-distortion-in-drone-footage/"><u>In 2024, Eliminating Vibrational Distortion in Drone Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-the-bold-and-innovative-new-accessories-from-apple-revealed-silently-last-week-zdnet-coverage/"><u>Meet the Bold and Innovative New Accessories From Apple, Revealed Silently Last Week (ZDNet Coverage)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/post-with-a-podcast-highlight-moment/"><u>Post with a Podcast Highlight Moment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/satellite-emergency-feature-now-available-on-the-google-pixel-9-a-milestone-for-android-phones/"><u>Satellite Emergency Feature Now Available on the Google Pixel 9, a Milestone for Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-essential-ipad-tricks-and-configurations-for-both-beginners-and-experts-insider-secrets-from-zdnet/"><u>Top 10 Essential iPad Tricks & Configurations for Both Beginners and Experts: Insider Secrets From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-every-iphone-16-model-boasts-next-gen-video-tech-and-thin-designs/"><u>ZDNet Exclusive: Every iPhone 16 Model Boasts Next-Gen Video Tech and Thin Designs</u></a></li>
 </ul></div>
 

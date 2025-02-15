@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2025-01-11T01:36:56.022Z
-updated: 2025-01-17T22:50:39.065Z
+date: 2025-02-10T06:49:05.251Z
+updated: 2025-02-15T08:32:54.617Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>[New] Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-immersion-top-vr-options-reviewed/"><u>Economical Immersion: Top VR Options Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-amd-gpus-ready-for-ethereum-mining-with-the-latest-windows-drivers/"><u>Get Your AMD GPUs Ready for Ethereum Mining with the Latest Windows Drivers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-realme-narzo-n53-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Realme Narzo N53? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-adventures-with-ecoflow-river-3-the-premier-portable-battery-reviewed-by-tech-expert-at-zdnet/"><u>Master Your Adventures with EcoFlow River ^3 - The Premier Portable Battery Reviewed by Tech Expert at ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-finest-11-streaming-sound-recorders-for-2024/"><u>The Finest 11 Streaming Sound Recorders for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/theres-a-woman/"><u>There's a Woman</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-affordable-portable-power-station-picks-meticulously-tested-by-tech-gurus-zdnet/"><u>Top Affordable Portable Power Station Picks , Meticulously Tested by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranked-handheld-lights-industry-experts-picks-featured-on-zdnet/"><u>Top-Ranked Handheld Lights : Industry Experts' Picks Featured on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-successfully-connect-your-android-device-with-bluetooth-to-a-laptop/"><u>Ultimate Guide: Successfully Connect Your Android Device with Bluetooth to a Laptop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-use-whiteboard-in-zoom-meeting/"><u>[New] 2024 Approved How to Use Whiteboard in Zoom Meeting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-configuring-picture-in-picture-for-apple-browsers/"><u>[Updated] Configuring Picture-in-Picture for Apple Browsers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-compelling-visual-stories-with-engaging-voices/"><u>[Updated] Crafting Compelling Visual Stories With Engaging Voices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-recording-rivals-meet-in-2024/"><u>[Updated] Recording Rivals, Meet, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laptop-beautification-leading-website-walls/"><u>2024 Approved Laptop Beautification Leading Website Walls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-why-the-iphone-14-hits-the-perfect-balance-of-functionality-and-quality/"><u>Comprehensive Evaluation: Why the iPhone 14 Hits the Perfect Balance of Functionality and Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converting-from-android-how-the-new-iphone-16-could-change-my-mind-techinsider/"><u>Converting From Android: How the New iPhone 16 Could Change My Mind | TechInsider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-rechargeable-wallet-tracker-beyond-apples-airtag-smart-tech-comparisons/"><u>Discover the Ultimate Rechargeable Wallet Tracker: Beyond Apple's AirTag | Smart Tech Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-why-this-is-the-ultimate-choice-for-a-durable-apple-watch-titanium-band-top-picks/"><u>Discover Why This Is the Ultimate Choice for a Durable Apple Watch Titanium Band - Top Picks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-youtube-subtitled-content-download-without-paying-for-2024/"><u>Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-tech-news-apple-aims-to-integrate-cameras-in-next-gen-airpods-by-2026-insights/"><u>Future Tech News: Apple Aims to Integrate Cameras in Next-Gen AirPods by 2026 – Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apples-new-on-device-ai-system-realm-outshines-gpt-4-innovations-on-tech/"><u>How Apple's New On-Device AI System ReaLM Outshines GPT-4 | Innovations on Tech</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-15-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 15 Pro Max Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-banishing-bogus-buddies-from-instagram-social-structure/"><u>In 2024, Banishing Bogus Buddies From Instagram Social Structure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-big-catch-bigger-views-top-5-aquatic-cameras/"><u>In 2024, Big Catch, Bigger Views - Top 5 Aquatic Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-smart-how-ai-will-transform-iphone-mac-and-ipad-experience-with-apples-latest-features-zdnet-insights/"><u>The Future Is Smart: How AI Will Transform iPhone, Mac, and iPad Experience with Apple’s Latest Features | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-meta-quest-3-for-viewing-apples-cutting-edge-3d-content-insights-from-zdnet/"><u>Unlocking the Full Potential of Meta Quest 3 for Viewing Apple's Cutting-Edge 3D Content | Insights From ZDNet</u></a></li>
 </ul></div>
 
