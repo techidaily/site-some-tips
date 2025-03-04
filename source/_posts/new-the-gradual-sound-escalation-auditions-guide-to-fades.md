@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Gradual Sound Escalation  Audition’s Guide to Fades\""
-date: 2024-08-15T10:13:04.112Z
-updated: 2024-08-16T10:13:04.112Z
+date: 2025-02-28T16:24:52.172Z
+updated: 2025-03-04T16:39:18.891Z
 tags: 
   - screen-recording
   - ai video
@@ -65,18 +65,12 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Steps to use Filmora
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
 * Drag the sliders and set fade-in along with fade-out effects.
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
@@ -84,30 +78,18 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Adobe Audition has always been a powerful platform for audio editing. But as every coin has its two faces so is the case with this also. Due to the expensive price of a monthly subscription, not everyone will be able to use this and get the benefits from using this. Though if you want to excel in audio editing, you should go for a subscription. If you are doing podcasting or video editing and looking for a complementary product for your projects, Audition is a perfect match. This is particularly if you have already worked with other best-leading Adobe software like Photoshop or Premiere.
@@ -115,7 +97,6 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,10 +120,22 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-setup-guide-for-mac-devices/"><u>[New] 2024 Approved Snapchat Setup Guide for Mac Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>2024 Approved Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-elite-tech-giants-the-ultimate-rankings-of-pcs-from-apple-to-dell-for-2e24-zdnet-insights/"><u>Comparing the Elite Tech Giants: The Ultimate Rankings of PCs From Apple to Dell for 2E24 | ZDNET Insights</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/hddwindows-server-03/"><u>HDDクローン作成ツールを使用したWindows Server ˈ03データ移行法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/livestreaming-tools-evaluation-which-bets-on-performance-for-2024/"><u>Livestreaming Tools Evaluation Which Bets on Performance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pedal-smarter-not-harder-how-photochromic-smart-glasses-transform-bike-rides-insights-from-zdnet/"><u>Pedal Smarter, Not Harder: How Photochromic Smart Glasses Transform Bike Rides | Insights From ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/powershot-sx720hs-unveiled-portable-zoom-wonder/"><u>PowerShot SX720HS Unveiled: Portable Zoom Wonder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-integrating-your-icloud-notes-into-linux-systems-zdnet/"><u>Step-by-Step Tutorial: Integrating Your iCloud Notes Into Linux Systems | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-gear-a-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Tech Gear: A Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-essential-benefits-of-using-apple-pages-why-you-need-it-according-to-zdnet/"><u>Top 5 Essential Benefits of Using Apple Pages: Why You Need It, According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-notetablet-picks-comprehensive-testing-and-reviews-by-techexperts/"><u>Top Notetablet Picks : Comprehensive Testing & Reviews by TechExperts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-protective-accessories-for-apples-newest-models-iphone-16-and-16-pro-experts-recommend-techradar/"><u>Top-Rated Protective Accessories for Apple's Newest Models - iPhone 16 & 16 Pro (Experts Recommend) | TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-to-iphone-16-pros-and-cons-insight-from-zdnet-experts/"><u>Upgrading to iPhone 16: Pros & Cons - Insight From ZDNet Experts</u></a></li>
+</ul></div>
 

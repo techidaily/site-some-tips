@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Showdown: Is It Time to Upgrade From Series 8 to Series 10? Expert Insights Revealed!"
-date: 2025-02-13T16:17:55.779Z
-updated: 2025-02-14T21:10:45.444Z
+date: 2025-03-01T16:55:49.116Z
+updated: 2025-03-04T16:00:56.593Z
 tags:
   - apple
 categories:
@@ -50,10 +50,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -77,10 +73,6 @@ Kerry Wan/ZDNET
 
 ## You should buy the Apple Watch Series 10 if...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
@@ -93,10 +85,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You're looking for something future-proof
 
 If you're spending a few hundred dollars on a smartwatch, you want it to last for several years without compromising performance or function. The best way to ensure you're investing in an Apple Watch that's future-proof and compatible with all of Apple's most up-to-date features (and [Apple Intelligence](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/), of course) is to select the newer model. 
@@ -106,10 +94,6 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -140,10 +124,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,21 +159,24 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-acid-pro-revisited-exploring-equivalent-tools/"><u>[New] ACID Pro Revisited Exploring Equivalent Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-apex-screen-capture-tools-the-elite-line-up/"><u>[New] Apex Screen Capture Tools The Elite Line-Up</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/avigate-the-world-of-tags-for-superior-content-performance-for-2024/"><u>[New] Navigate the World of Tags for Superior Content Performance for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-strategies-for-optimal-spotify-ad-reach-and-engagement/"><u>[New] Strategies for Optimal Spotify Ad Reach and Engagement</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-100-earnest-creators-online/"><u>[Updated] 2024 Approved Top 100 Earnest Creators Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[Updated] In 2024, Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-reno-11-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Reno 11 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-pairing-how-to-connect-airpods-to-quest-3-headset-discreetly-tips-and-tricks/"><u>Effortless Pairing: How to Connect AirPods to Quest 3 Headset Discreetly - Tips & Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/escape-mundane-office-routines-explore-the-potential-impact-of-the-metaverse-on-tomorrows-job-landscape-with-zdnets-analysis/"><u>Escape Mundane Office Routines: Explore the Potential Impact of the Metaverse on Tomorrow's Job Landscape with ZDNet's Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-tecno-spark-10-4g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Tecno Spark 10 4G Unlock Without Password</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>In 2024, Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-vision-pro-by-apple-a-revolutionary-leap-in-home-entertainment-devices-zdnet/"><u>Introducing Vision Pro by Apple: A Revolutionary Leap in Home Entertainment Devices | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-unveils-revolutionary-ar-glasses-following-quests-triumph-announcement-expected-soon/"><u>Meta Unveils Revolutionary AR Glasses Following Quest's Triumph – Announcement Expected Soon</u></a></li>
-<li><a href="https://some-tips.techidaily.com/struggling-with-the-apple-vision-pros-digital-keys-switch-back-to-tangible-typewriter-buttons-for-a-better-experience/"><u>Struggling with the Apple Vision Pro's Digital Keys? Switch Back to Tangible Typewriter Buttons for a Better Experience!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/surpassing-my-expectations-how-apple-vision-pro-outperforms-the-competition-insights-from-zdnet/"><u>Surpassing My Expectations: How Apple Vision Pro Outperforms the Competition - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-showdown-how-sony-surpasses-vision-pro-with-its-new-pro-xr-gear-and-integrates-two-key-capabilities-poised-to-enhance-iphonesipads-zdnet-insights/"><u>Tech Showdown: How Sony Surpasses Vision Pro with Its New 'Pro' XR Gear and Integrates Two Key Capabilities Poised to Enhance iPhones/iPads | ZDNet Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-boosting-visibility-key-steps-in-submitting-on-reddit/"><u>[New] Boosting Visibility Key Steps in Submitting on Reddit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-elevate-your-online-presence-utilizing-color-key-techniques/"><u>[New] In 2024, Elevate Your Online Presence Utilizing Color Key Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagrowth-hack-secrets-for-scaling-to-1000month-fans-for-2024/"><u>[New] InstaGrowth Hack Secrets for Scaling to 1,000/Month Fans for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-6-value-proposition-affordable-4k-projectors/"><u>2024 Approved Best 6 Value Proposition Affordable 4K Projectors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-stress-distribution-analysis-can-help-identify-weak-zones-within-compacted-soils-that-may-require-additional-treatment-or-attention-cued-by-project33/"><u>Advanced Stress Distribution Analysis Can Help Identify Weak Zones Within Compacted Soils that May Require Additional Treatment or Attention. Cued by Project Needs.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/akamai-enhances-edge-services-with-linode-integration-a-leap-into-edge-cloud-solutions/"><u>Akamai Enhances Edge Services with Linode Integration – A Leap Into Edge Cloud Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-to-understanding-ai-insights-and-facts-from-zdnet/"><u>Comprehensive Guide to Understanding AI: Insights and Facts From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-spark-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Spark 10 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-insights-on-reliance-and-responsibility-in-cloud-security-why-you-cant-trust-your-data-solely-to-cloud-services-learn-the-risks/"><u>Essential Insights on Reliance and Responsibility in Cloud Security: Why You Can't Trust Your Data Solely to Cloud Services - Learn the Risks!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ibms-affordable-mainframe-alternative-the-linuxone-prise-in-depth-zdnet-insights/"><u>Exploring IBM's Affordable Mainframe Alternative: The LinuxONE Prise in Depth | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-a-major-retail-chain-achieves-success-with-edge-to-cloud-digital-innovation-strategies-tech-insights/"><u>How a Major Retail Chain Achieves Success with Edge-to-Cloud Digital Innovation Strategies | Tech Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-discover-top-10-cost-free-srt-file-conversion-tools/"><u>In 2024, Discover Top 10 Cost-Free Srt File Conversion Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-12-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme 12 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-devops-principles-on-a-budget-secure-your-spot-in-linux-foundations-low-cost-bootcamp-zdnet-insights/"><u>Master DevOps Principles on a Budget: Secure Your Spot in Linux Foundation's Low-Cost Bootcamp | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximizing-reach-youtubes-template-advantage-explained/"><u>Maximizing Reach YouTube's Template Advantage Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-power-states-and-their-benefits/"><u>Unveiling Windows Power States and Their Benefits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrading-iphone-storage-options-efficiently-learn-expert-advice-on-how-with-zdnet-guides/"><u>Upgrading iPhone Storage Options Efficiently? Learn Expert Advice on How with ZDNet Guides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-coverage-singapores-new-active-tropical-data-hub-kicks-off-operations/"><u>ZDNet Coverage: Singapore's New Active Tropical Data Hub Kicks Off Operations</u></a></li>
 </ul></div>
 

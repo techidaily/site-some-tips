@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2025-02-13T16:37:50.465Z
-updated: 2025-02-15T03:21:01.640Z
+date: 2025-02-25T17:32:59.116Z
+updated: 2025-03-04T17:50:18.765Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,22 +105,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>[Updated] In 2024, Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-joyous-film-grabber-assessment/"><u>2024 Approved Joyous Film Grabber Assessment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ch340-driver-upgrade-and-installation-guide-for-optimal-performance-on-windows-11/"><u>CH340 Driver Upgrade & Installation Guide for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-apples-revolutionary-vision-pro-unveiled-features-over-600-bespoke-applications-designed-for-optimal-performance/"><u>Exclusive: Apple's Revolutionary Vision Pro Unveiled, Features Over 600 Bespoke Applications Designed for Optimal Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/explore-the-top-6-must-have-benefits-of-owning-an-apple-watch-insights-from-industry-pros/"><u>Explore the Top 6 Must-Have Benefits of Owning an Apple Watch: Insights From Industry Pros</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y100i-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y100i</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-a24-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy A24 Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-your-workflow-on-an-ipad-top-rated-productivity-apps-as-seen-experts/"><u>Maximizing Your Workflow on an iPad: Top-Rated Productivity Apps as Seen Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/must-have-childrens-tablets-family-favorites-featured-on-zdnet/"><u>Must-Have Children's Tablets: Family Favorites Featured on ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seek-out-your-windows-backdrop-file-in-win11/"><u>Seek Out Your Window's Backdrop File in Win11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shop-macbook-air-with-powerful-m1-chip-for-a-steal-at-just-649-top-price-drop-alert-from-zdnet/"><u>Shop MacBook Air with Powerful M1 Chip for a Steal at Just $649 - Top Price Drop Alert From ZDNET!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/sound-recording-with-studio-mac-guide/"><u>Sound Recording with Studio Mac Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-idevices-with-questionable-worth-a-critical-review-by-zdnet/"><u>Top 4 iDevices with Questionable Worth: A Critical Review by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-apple-iphone-offers-in-june-2024-exclusive-finds-from-zdnet/"><u>Top Apple iPhone Offers in June 2024: Exclusive Finds From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/under-200-high-speed-action-cameras-for-captivating-shots/"><u>Under $200 High-Speed Action Cameras for Captivating Shots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-extended-battery-life-a-step-by-step-guide-to-activating-macos-montereys-low-power-mode-with-advice-from-zdnet/"><u>Unlock Extended Battery Life: A Step-by-Step Guide to Activating MacOS Monterey's Low Power Mode with Advice From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire-for-2024/"><u>Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expertly-curated-green-screen-gear-list/"><u>[Updated] 2024 Approved Expertly Curated Green Screen Gear List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-entrepreneurs-guide-to-snapchat-advertising/"><u>[Updated] In 2024, The Entrepreneur's Guide to Snapchat Advertising</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-intels-ai-visionary-wei-li-speaks-on-democratizing-supercomputing-ai-for-everyday-use-insights-from-zdnet/"><u>1. Intel's AI Visionary Wei Li Speaks on Democratizing Supercomputing AI for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/behind-the-code-demystifying-googles-latest-ai-technology-challenges-for-developers-insights-from-zdnet/"><u>Behind the Code: Demystifying Google's Latest AI Technology Challenges for Developers | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-the-code-the-hidden-challenges-of-mastering-googles-topnotch-ai-explained-zdnet-exclusives/"><u>Beyond the Code: The Hidden Challenges of Mastering Google's Topnotch AI Explained | ZDNet Exclusives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-an-effective-streamlined-podcasts-rss-feed-for-2024/"><u>Building an Effective, Streamlined Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cinematic-blackout-premiere-pro-guide/"><u>Cinematic Blackout - Premiere Pro Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-power-of-raspberry-pi-with-its-latest-glorious-64-bit-os-now-ready-for-download-read-more-on-zdnet/"><u>Experience the Power of Raspberry Pi with Its Latest 'Glorious' 64-Bit OS Now Ready for Download - Read More on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-i-triggered-a-glitch-in-the-latest-version-of-googlens-gemini-pro-system-an-account-from-zdnet/"><u>How I Triggered a Glitch in the Latest Version of Google'n's Gemini Pro System - An Account From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-transformation-mp3-files-to-windows-compatible-audio-cds-with-imgburn/"><u>Immediate Transformation: MP3 Files to Windows-Compatible Audio CDs with ImgBurn</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x7b-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X7b Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-microsoft-skills-the-ultimate-guide-to-premium-technical-certifications-recommended-by-zdnet/"><u>Mastering Microsoft Skills: The Ultimate Guide to Premium Technical Certifications Recommended by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-clinical-insights-through-advanced-ai-techniques-in-medicine-the-synergy-of-generative-models-and-health-records-zdnet/"><u>Maximizing Clinical Insights Through Advanced AI Techniques in Medicine – The Synergy of Generative Models and Health Records | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-powerhouse-challenge-vs-microsofts-xbox-sx/"><u>PS5 Powerhouse Challenge - VS. Microsoft's Xbox SX</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionize-your-morning-routine-with-the-ihome-zenergy-bedside-sleep-therapy-machine-a-comprehensive-review/"><u>Revolutionize Your Morning Routine with the IHome Zenergy Bedside Sleep Therapy Machine - A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hidden-proliferation-of-politicized-deepfake-technology-as-revealed-by-an-expert-in-artificial-intelligence-zdnet-coverage/"><u>The Hidden Proliferation of Politicized Deepfake Technology, as Revealed by an Expert in Artificial Intelligence (ZDNET Coverage)</u></a></li>
 </ul></div>
 

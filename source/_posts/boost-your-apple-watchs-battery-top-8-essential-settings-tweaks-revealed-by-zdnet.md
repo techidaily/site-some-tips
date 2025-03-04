@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery: Top 8 Essential Settings Tweaks Revealed by ZDNet"
-date: 2025-02-10T06:39:36.194Z
-updated: 2025-02-14T18:26:03.474Z
+date: 2025-02-27T17:36:46.039Z
+updated: 2025-03-04T17:25:13.857Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -62,10 +58,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Turn off background app refresh
 
 If you have a good amount of apps on your watch, chances are they're fetching data in the background so that they remain up to date. This, as you would imagine, requires power from the battery. If you're only using said apps sporadically throughout the day, there's no sense in having them locked and loaded 24/7–just refresh their data when you open them.
@@ -83,10 +75,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
 
@@ -110,19 +98,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,22 +145,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[New] 2024 Approved Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screenflow-simplified-streamlining-your-video-projects-on-a-mac/"><u>[New] In 2024, ScreenFlow Simplified Streamlining Your Video Projects on a Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unseen-features-in-depth-look-at-instagrams-ask-emoji/"><u>[New] Unseen Features In-Depth Look at Instagram’s Ask Emoji</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-labor-day-blowout-score-a-high-quality-ipad-at-only-199-techradar/"><u>Amazon Labor Day Blowout: Score a High-Quality iPad at Only $199! | TechRadar</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-bsod-blues-in-helldivers-2-expert-tips-and-tricks-to-get-you-back-on-track/"><u>Beat the BSOD Blues in HellDivers 2 - Expert Tips & Tricks to Get You Back on Track!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-guide-on-apples-new-studio-display-understanding-the-full-spectrum-of-its-specifications-and-cutting-edge-capabilities/"><u>Comprehensive Guide on Apple's New Studio Display: Understanding the Full Spectrum of Its Specifications & Cutting-Edge Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-how-the-new-camera-button-in-iphone-1n-models-enhances-photography-experience-insights/"><u>Discover How the New Camera Button in iPhone 1N Models Enhances Photography Experience – Insights .</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-reno-10-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Reno 10 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x-flip-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X Flip Phone FRP Lock</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-solve-invisible-buffer-problems-in-video-games/"><u>In 2024, Solve Invisible Buffer Problems in Video Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-ultra-efficient-ios-tricks-for-a-faster-smarter-iphone-experience-zdnet/"><u>Master Ultra-Efficient iOS Tricks for a Faster, Smarter iPhone Experience | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/qi-wireless-charging-now-available-on-iphone-12-without-requiring-magsafe-accessory/"><u>Qi Wireless Charging Now Available on iPhone 12 Without Requiring MagSafe Accessory</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-mobile-audio-exploring-the-iphone-16-pros-advanced-mixing-features-for-professional-grade-sound/"><u>Revolutionizing Mobile Audio: Exploring the iPhone 16 Pro's Advanced Mixing Features for Professional-Grade Sound</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-impact-of-apples-innovative-ai-on-the-success-of-iphone-16-insights-from-zdnet/"><u>The Impact of Apple's Innovative AI on the Success of iPhone 16: Insights From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ts-mp3-movavi-ts-mp3/"><u>TS 아이포뮬러에서 MP3로 자주 전환: Movavi의 TS-MP3 감소 솔루션 - 웹 기법</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro/"><u>Updated In 2024, From Forward to Reverse Mastering Video Reversal in Final Cut Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-the-iphone-n-model-stands-out-for-tech-enthusiasts-and-power-users-insights-from-a-detailed-zdnet-assessment/"><u>Why the iPhone N-Model Stands Out for Tech Enthusiasts & Power Users: Insights From a Detailed ZDNET Assessment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-choosing-between-obs-and-fraps-for-excellent-screen-capture/"><u>[New] In 2024, Choosing Between OBS and Fraps for Excellent Screen Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-synchronize-your-calendars-for-smooth-video-calls/"><u>[Updated] In 2024, Synchronize Your Calendars for Smooth Video Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-your-ifunny-meme-journey-for-2024/"><u>[Updated] Mastering Your iFunny Meme Journey for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-prime-alternatives-to-gopro-selecting-the-ultimate-camera/"><u>2024 Approved Prime Alternatives to GoPro Selecting the Ultimate Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-appoints-new-chief-technology-officer-current-ceo-takes-over-temporary-cloud-role-zdnet/"><u>Alibaba Appoints New Chief Technology Officer; Current CEO Takes Over Temporary Cloud Role - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-plans-separate-ipo-for-cloud-business-and-initiates-public-offering-of-two-subsidiaries/"><u>Alibaba Plans Separate IPO for Cloud Business & Initiates Public Offering of Two Subsidiaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-aws-launches-innovative-trainium-ai-processor-and-graviton-4-enhanced-collaboration-with-nvidia-announced/"><u>Amazon's AWS Launches Innovative Trainium AI Processor & Graviton-4: Enhanced Collaboration with Nvidia Announced</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-innovations-shaping-the-future-of-it-professions-expert-analysis-by-zdnet/"><u>Cloud Innovations Shaping the Future of IT Professions | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/discover-how-cryptocurrencies-enhance-your-financial-options-with-insight-from-yl-computing/"><u>Discover How Cryptocurrencies Enhance Your Financial Options with Insight From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/humanizing-ai-training-how-nvidias-updated-simulation-software-now-features-human-characters-spotlight-by-zdnet/"><u>Humanizing AI Training: How Nvidia's Updated Simulation Software Now Features Human Characters | Spotlight by ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-editors-haven-unmatched-smoothness-with-m1-powered-software/"><u>In 2024, Editors' Haven Unmatched Smoothness with M1-Powered Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-cloud-sidestep-these-critical-errors-with-tips-from-zdnet/"><u>Mastering the Cloud: Sidestep These Critical Errors with Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-and-amazon-web-services-join-forces-for-greater-pytorch-penetration-cloudcomputing-news/"><u>Meta and Amazon Web Services Join Forces for Greater PyTorch Penetration | CloudComputing News</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-sony-xperia-10-v-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Sony Xperia 10 V – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-troublesome-design-errors-in-notion-evernote-integration-expert-tips-for-smooth-transfers-zdnet/"><u>Navigate Troublesome Design Errors in Notion Evernote Integration - Expert Tips for Smooth Transfers | ZDNET</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/precisionsync-analyst-perspectives-for-2024/"><u>PrecisionSync Analyst Perspectives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prepare-for-advancement-explore-beyond-ai-innovations-at-the-forefront-tips-from-zdnet/"><u>Prepare for Advancement: Explore Beyond AI Innovations at the Forefront - Tips From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-150-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 150 (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/zero-in-on-solving-error-code-0x887a0006-your-quick-start-guide-to-recovery/"><u>Zero In On Solving Error Code 0X887A0006 - Your Quick-Start Guide to Recovery</u></a></li>
 </ul></div>
 

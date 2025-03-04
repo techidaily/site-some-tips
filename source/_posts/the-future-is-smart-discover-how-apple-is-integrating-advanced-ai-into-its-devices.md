@@ -1,7 +1,7 @@
 ---
 title: The Future Is Smart - Discover How Apple Is Integrating Advanced AI Into Its Devices
-date: 2025-02-08T02:07:11.966Z
-updated: 2025-02-14T18:59:09.568Z
+date: 2025-03-01T16:47:56.084Z
+updated: 2025-03-04T16:01:16.114Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
@@ -33,10 +29,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 This year, five topics will likely dominate the headlines, dictate the next industry buzzwords, and be in the minds of every consumer. You'll hear a lot more about the "[AI PC](https://www.zdnet.com/article/nvidia-makes-the-case-for-the-ai-pc-at-ces-2024/)", but don't let that name obscure the reality: Our smartphones -- the most personal of computers -- are also receptive to an artificial intelligence makeover.
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
 
@@ -51,10 +43,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -71,10 +59,6 @@ Now that the major players have entered the competition, the big question this y
 "Foldable products have a structure that is inevitably expensive compared to general bar types, even in terms of display alone," adds Jene Park, senior analyst at Counterpoint Research.
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
 
@@ -109,10 +93,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,21 +148,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimize-tasks-the-8-superior-facebook-schedulers/"><u>[New] In 2024, Optimize Tasks The 8 Superior Facebook Schedulers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-premium-designers-stellar-instagram-hlv-page-builders/"><u>[New] Premium Designers Stellar Instagram HLV Page Builders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-essential-enhancements-for-apples-vision-pro-success-key-strategies-revealed/"><u>1. Essential Enhancements for Apple's Vision Pro Success: Key Strategies Revealed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/asserting-ownership-on-social-platforms-instagrams-watermarking-secrets/"><u>Asserting Ownership on Social Platforms Instagram's Watermarking Secrets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-bridging-photo-realms-on-your-system/"><u>In 2024, Bridging Photo Realms on Your System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mac-studio-vs-mac-mini-unpacking-the-performance-battle-between-apples-new-m2-and-older-m1-chips/"><u>Mac Studio Vs. Mac Mini: Unpacking the Performance Battle Between Apple's New M2 & Older M1 Chips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pixelpathway-pioneer-review/"><u>PixelPathway Pioneer Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-website-from-openais-crawlers/"><u>Protect Website From OpenAI's Crawlers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-not-picking-up-audio-solutions-for-windows-11-and-10-users/"><u>Razer Barracuda X Not Picking Up Audio? Solutions for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-showdown-of-tech-giants-is-the-new-m2-equipped-mac-mini-a-clear-upgrade-over-the-m1-in-apples-mac-studio-lineup/"><u>The Showdown of Tech Giants: Is the New M2-Equipped Mac Mini a Clear Upgrade Over the M1 in Apple's Mac Studio Lineup?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-gadgets-and-add-ons-for-2n4-comprehensive-reviews-by-tech-specialists-techradar/"><u>Top-Rated AirTag Gadgets & Add-Ons for 2N4: Comprehensive Reviews by Tech Specialists | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transitioning-from-classic-to-contemporary-how-apple-drops-finewoven-for-the-new-era-of-beats-accessories-as-reported-by-zdnet/"><u>Transitioning From Classic to Contemporary: How Apple Drops FineWoven for the New Era of Beats Accessories as Reported by ZDNET</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-21-monitors-showdown-the-clear-winners/"><u>Ultimate 2.1 Monitors Showdown - The Clear Winners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unconventional-charm-of-apple-vision-pros-new-199-case-reveal-insights/"><u>Unconventional Charm of Apple Vision Pro's New $199 Case Reveal - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-2024-ipad-lineup-set-to-hit-shelves-in-springtime-latest-reports/"><u>Upcoming 2024 iPad Lineup Set to Hit Shelves in Springtime - Latest Reports</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-6s-plus-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 6s Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-grid-gurus-the-leading-photo-organizers-reviewed/"><u>[New] 2024 Approved Grid Gurus - The Leading Photo Organizers Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-contrast-in-virtual-realm-highlights-and-low-points/"><u>2024 Approved The Contrast in Virtual Realm Highlights and Low Points</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/arista-elevates-network-solutions-with-enhanced-routing-options-tailored-for-the-cloud-era-as-reported-by-zdnet/"><u>Arista Elevates Network Solutions with Enhanced Routing Options Tailored for the Cloud Era, as Reported by ZDNet</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/converti-dvd-ed-i-tuoi-video-con-facilita-grazie-a-digiarty-soft-i-migliori-software-per-la-conversione-multimediale/"><u>Converti DVD Ed I Tuoi Video Con Facilità Grazie a Digiarty Soft - I Migliori Software per La Conversione Multimediale</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-monotonous-to-magical-applying-video-effects-in-zoom-for-2024/"><u>From Monotonous to Magical Applying Video Effects in Zoom for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-google-unveils-duet-artificial-intelligence-to-combat-emerging-cybersecurity-risks-in-the-cloud-insights-by-zdnet/"><u>How Google Unveils Duet Artificial Intelligence to Combat Emerging Cybersecurity Risks in the Cloud | Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-telecommunications-companies-can-utilize-business-case-studies-for-advancing-generative-ai-after-5g/"><u>How Telecommunications Companies Can Utilize Business Case Studies for Advancing Generative AI After 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-read-and-modify-pages-format-in-a-cross-platform-way/"><u>How to Read and Modify .pages Format in a Cross-Platform Way</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-13-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 13?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function/"><u>In 2024, Archive Everyday Moments Seamlessly by Using VLC's Webcam Function</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-13-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 13 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-forces-with-alibaba-for-bespoke-generative-ai-model-creation-partner-opportunities-available/"><u>Join Forces with Alibaba for Bespoke Generative AI Model Creation - Partner Opportunities Available</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-mobile-and-desktop-sound-alteration-tools-for-2024/"><u>Masterful Mobile & Desktop Sound Alteration Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-pricing-transparency-how-generative-ai-impacts-business-strategies-insights-from-zdnet/"><u>Navigating Pricing Transparency: How Generative AI Impacts Business Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/red-hats-new-wave-discovering-the-capabilities-of-openstack-platform-version-17-zdnet-coverage/"><u>Red Hat's New Wave: Discovering the Capabilities of OpenStack Platform Version 17 [ZDNet Coverage]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-cloud-infrastructure-today-and-shut-out-potential-cyber-attacks-expert-insights/"><u>Secure Your Cloud Infrastructure Today and Shut Out Potential Cyber Attacks. Expert Insights.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-how-adoption-is-skyrocketing-for-openstack-and-kata-containers-insights-from-zdnet/"><u>The Rising Popularity: How Adoption Is Skyrocketing for OpenStack & Kata Containers - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-coronavirus-vaccination-scheduler-tools-capterra/"><u>Top Rated Coronavirus Vaccination Scheduler Tools | Capterra</u></a></li>
 </ul></div>
 

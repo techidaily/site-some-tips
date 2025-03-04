@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2025-02-09T22:19:25.050Z
-updated: 2025-02-15T09:34:38.454Z
+date: 2025-02-27T17:08:43.790Z
+updated: 2025-03-04T17:36:36.249Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,22 +134,22 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[Updated] 2024 Approved The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-perfectly-funny-meme-creator-app/"><u>[Updated] In 2024, Perfectly Funny Meme Creator App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-revolutionary-vision-pro-glasses-delayed-beyond-initial-release-schedule/"><u>Apple's Revolutionary Vision Pro Glasses Delayed Beyond Initial Release Schedule</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-repairing-wacom-pen-connectivity-in-microsofts-latest-operating-systems/"><u>Expert Advice: Repairing Wacom Pen Connectivity in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-ig-success-a-guide-to-best-management-tools/"><u>In 2024, Navigating IG Success A Guide to Best Management Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/locating-steam-screenshot-archives/"><u>Locating Steam Screenshot Archives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-continues-discounting-meta-quest-2-setting-new-record-with-ultra-low-pricing-insights-from-zdnet/"><u>Meta Continues Discounting Meta Quest 2, Setting New Record with Ultra-Low Pricing - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-quest-3-crowned-top-tech-by-zdnet-the-surprising-contender/"><u>Meta Quest 3 Crowned Top Tech by ZDNet - The Surprising Contender!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-marvel-disney-multiverse-how-your-role-shapes-the-story-zdnet-insights/"><u>Navigating the Marvel-Disney Multiverse: How Your Role Shapes the Story | ZDNet Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pixel-fold-2-tease-what-to-expect-in-terms-of-price-release-window-and-innovative-specs/"><u>Pixel Fold 2 Tease: What to Expect in Terms of Price, Release Window, and Innovative Specs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-home-care-discover-how-dysons-advanced-ar-assistance-guarantees-a-spot-free-vacuum-zdnet-insight/"><u>Revolutionizing Home Care: Discover How Dyson's Advanced AR Assistance Guarantees a Spot-Free Vacuum | ZDNET Insight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tcls-bold-entry-into-augmented-and-virtual-reality-tech-showcased-at-ces-202/"><u>TCL's Bold Entry Into Augmented and Virtual Reality Tech Showcased at CES 202#</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/third-party-manufacturers-can-now-integrate-with-metas-newly-released-open-source-quest-os-supported-by-asus-and-lenovo/"><u>Third-Party Manufacturers Can Now Integrate with Meta's Newly Released, Open Source Quest OS – Supported by Asus and Lenovo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-apple-endorsed-techniques-for-optimizing-uiux-in-visionos-environments-insights-from-zdnet/"><u>Top 7 Apple-Endorsed Techniques for Optimizing UI/UX in VisionOS Environments: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-color-depth-why-hdri-is-preferable-in-media-production/"><u>Unveiling Color Depth Why HDRI Is Preferable in Media Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-to-metaverse-leading-vr-headsets-reviewed/"><u>[New] Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-instagrams-potential-successful-post-tactics/"><u>[New] Unlocking Instagram's Potential Successful Post Tactics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proven-steps-building-quality-time-lapses-on-galaxy-devices/"><u>[Updated] Proven Steps Building Quality Time-Lapses on Galaxy Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-journey-mastery-10-leading-apps-to-up-your-youtube-short-game/"><u>[Updated] Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-navigating-the-mobile-landscape-start-your-entrepreneurial-or-personal-youtube-channel/"><u>2024 Approved Navigating the Mobile Landscape Start Your Entrepreneurial or Personal YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-retrospective-by-mary-jo-foley-the-evolution-of-covering-microsoft-for-16-years-at-zdnet/"><u>A Retrospective by Mary Jo Foley: The Evolution of Covering Microsoft for 16 Years at ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/effortless-online-video-access-via-vimeo-for-2024/"><u>Effortless Online Video Access via Vimeo for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-ai-to-combat-surprising-cloud-cost-inflation-boon-or-bane/"><u>Leveraging AI to Combat Surprising Cloud Cost Inflation: Boon or Bane?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/liberate-valuable-insights-navigating-from-edge-to-cloud-with-zdnets-expert-strategies/"><u>Liberate Valuable Insights: Navigating From Edge to Cloud with ZDNet's Expert Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-complex-web-of-international-cybersecurity-pacts-what-leaders-say-about-multilateral-strategies-explored-by-zdnet/"><u>Navigating the Complex Web of International Cybersecurity Pacts: What Leaders Say About Multilateral Strategies | Explored by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-ins-and-outs-of-using-chatgpt-for-freelance-writing-tasks/"><u>Navigating the Ins and Outs of Using ChatGPT for Freelance Writing Tasks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-the-cloud-price-hike-can-artificial-intelligence-be-the-game-changer/"><u>Navigating Through the Cloud Price Hike: Can Artificial Intelligence Be the Game Changer?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smoothly-move-your-android-phone-numbers-to-iphone-without-hassle-how-to-article/"><u>Smoothly Move Your Android Phone Numbers to iPhone Without Hassle | How-To Article</u></a></li>
+<li><a href="https://some-tips.techidaily.com/specialized-vs-general-skills-in-tech-industry-understanding-compensation-trends-with-expert-analysis-by-zdnet/"><u>Specialized vs General Skills in Tech Industry: Understanding Compensation Trends with Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-comeback-story-understanding-why-openstack-and-kata-containers-are-winning-over-tech-enthusiasts-again-zdnet/"><u>The Comeback Story: Understanding Why OpenStack and Kata Containers Are Winning Over Tech Enthusiasts Again | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-mfc42ddll-disappearance-error-on-your-pc/"><u>The Ultimate Fix for MFC42D.DLL Disappearance Error on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/third-gen-apple-airpods-assessment-key-enhancements-spotlighted-tech-insights-by-zdnet/"><u>Third Gen Apple AirPods Assessment: Key Enhancements Spotlighted - Tech Insights by ZDNet</u></a></li>
 </ul></div>
 

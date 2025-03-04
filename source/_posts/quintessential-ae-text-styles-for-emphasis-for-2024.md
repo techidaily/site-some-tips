@@ -1,7 +1,7 @@
 ---
 title: "Quintessential AE Text Styles for Emphasis for 2024"
-date: 2024-08-21T15:55:25.200Z
-updated: 2024-08-22T15:55:25.200Z
+date: 2025-02-27T16:55:40.934Z
+updated: 2025-03-04T16:08:30.657Z
 tags: 
   - screen-recording
   - ai video
@@ -55,9 +55,6 @@ If you want to zoom in and zoom out animation for your text or title, you can us
 
 There are different variations of zoom in and out effect that you can try on your text and title to make animation creative and visually appealing. On the other hand, position refers to the location of the text on the video frame depending on X, Y, and Z axis values.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Blur and Opacity
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
@@ -76,9 +73,6 @@ If you want your text to be distorted and unusual, the skew parameter is there f
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 8\. Keyframe
 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
@@ -101,14 +95,8 @@ Step3 Go to Timeline and click on the text layer to expand it. Click on Animate 
 
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Part 3\. AE Alternative to Edit Text Effects in Video
 
 If you are not comfortable with After Effects and you are looking for a better alternative to AE to add and edit text effects in videos, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora has a super intuitive user interface and hence, it is easy to operate than After Effects. Besides, there are more text effects and animations available in Filmora as compared to AE. Editing text effects is super easy as well. Here are the steps to edit text effects in videos with Filmora.
@@ -121,35 +109,18 @@ Step1 Install Wondershare Filmora on your computer and launch the application. C
 
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
 
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
 
 ![text preset settings filmora](https://images.wondershare.com/filmora/article-images/2022/09/text-preset-settings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
 #### 1\. How do you make 3D text in After Effects?
@@ -188,10 +159,26 @@ Part 1\. 8 Popular Text Title Effects Types in AE
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/0plus-best-free-video-editing-programs-of-2023-for-2024/"><u>[New] 10+ Best Free Video Editing Programs of 2023 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-smoothly-record-your-ipad-simple-steps-outlined/"><u>[New] In 2024, Smoothly Record Your iPad Simple Steps Outlined</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-scoping-out-spots-where-to-meet-youtube-brand-deals/"><u>2024 Approved Scoping Out Spots Where to Meet YouTube Brand Deals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-intelligence-unveiled-why-investing-in-an-iphone-16-may-not-be-worth-it-insights/"><u>Apple Intelligence Unveiled: Why Investing in an iPhone 16 May Not Be Worth It - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-teams-up-with-openai-for-revolutionary-ai-experience-on-iosipadosmacos-news-update/"><u>Apple Teams Up with OpenAI for Revolutionary AI Experience on iOS/iPadOS/MacOS News Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-guide-free-dell-thunderbolt-tb16-portable-expansion-cradle-firmware-updates/"><u>Download and Update Guide: Free Dell Thunderbolt TB16 Portable Expansion Cradle Firmware Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-solutions-for-dealing-with-a-504-gateway-timeout-mistake-online/"><u>Easy Solutions for Dealing with a 504 Gateway Timeout Mistake Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-emerging-mobile-innovations-intelligent-ai-on-phones-and-the-evolution-of-smartphones-insights-from-zdnet/"><u>Exploring Emerging Mobile Innovations: Intelligent AI on Phones & The Evolution of Smartphones - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pioneering-the-future-of-video-conferencing-with-google-meet-to-youtube/"><u>In 2024, Pioneering the Future of Video Conferencing with Google Meet to YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-story-upgrade-how-to-add-music-effectively/"><u>Instagram Story Upgrade How to Add Music Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testing-resistance-against-apple-a-real-life-battle-over-iphone-upgrades/"><u>Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-apple-pay-benefits-for-shoppers-and-businesses-explained/"><u>The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-18-unbeatable-prime-day-offers-on-laptops-from-brands-like-hp-apple-and-razer/"><u>Top 18 Unbeatable Prime Day Offers on Laptops From Brands Like HP, Apple & Razer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-anticipated-ios-18-innovations-revealed-at-wwdc-2024-featuring-groundbreaking-ai-enhancements-discover-more-on-zdnet/"><u>Top 5 Anticipated iOS 18 Innovations Revealed at WWDC 2024, Featuring Groundbreaking AI Enhancements - Discover More on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-how-apples-latest-m2-tablet-outshines-competitors-comprehensive-review-by-zdnet/"><u>Top Picks : How Apple's Latest M2 Tablet Outshines Competitors | Comprehensive Review by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-150-off-with-an-apple-gift-card-for-educational-tablets-or-computers-get-started-now-insights/"><u>Unlock $150 Off with an Apple Gift Card for Educational Tablets or Computers – Get Started Now Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-adobe-writes-on-shake-reduction-in-photos-for-2024/"><u>Unraveling Adobe’ Writes on Shake Reduction in Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-upgraded-features-of-3rd-generation-apple-airpods-an-in-depth-analysis-by-zdnet/"><u>Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET</u></a></li>
+</ul></div>
 

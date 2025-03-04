@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2025-02-12T17:03:12.060Z
-updated: 2025-02-14T20:47:31.009Z
+date: 2025-03-02T17:32:03.812Z
+updated: 2025-03-04T17:09:31.017Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ Downloading LibreOffice from the official site.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Install LibreOffice
 
 Depending on the speed of your network connection, the download will take anywhere from 2-10 minutes. Once it finishes, expand Downloads in your dock and click the LibreOffice entry (**Figure 2**).
@@ -73,10 +69,6 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -85,15 +77,7 @@ Ejecting the mounted installer after the fact.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to open LibreOffice
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
 
@@ -106,10 +90,6 @@ It's okay to run this app.
 Image: Jack Wallen
 
 Click Open and LibreOffice will finally open.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Create a new file
 
@@ -151,17 +131,18 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-audacity-guide-creating-fluid-audio-crossfade/"><u>[Updated] 2024 Approved Audacity Guide Creating Fluid Audio Crossfade</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elite-insight-parrots-second-gen-drone-20-for-2024/"><u>[Updated] Elite Insight Parrot's Second-Gen Drone 2.0 for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>[Updated] In 2024, Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/14-pro-evaluating-if-upgrading-is-worthwhile-insights/"><u>14 Pro: Evaluating if Upgrading Is Worthwhile - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/declutter-mail-effortlessly-using-our-simple-strategy-skip-the-hassle-of-filters-and-extra-accounts/"><u>Declutter Mail Effortlessly Using Our Simple Strategy – Skip the Hassle of Filters & Extra Accounts!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-generative-ai-essential-information-everyone-should-know/"><u>Demystifying Generative AI: Essential Information Everyone Should Know</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-feed-top-10-instagram-hashtags-for-success-for-2024/"><u>Elevate Your Feed Top 10 Instagram Hashtags for Success for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>In 2024, From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-zoom-meetings-unveiled-maximizing-video-clarity/"><u>In 2024, Zoom Meetings Unveiled Maximizing Video Clarity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximize-your-next-weeks-apple-purchase-with-essential-anker-accessories-top-tips-and-reviews/"><u>Maximize Your Next Week's Apple Purchase with Essential Anker Accessories | Top Tips and Reviews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-missing-or-not-found-oleaut32dll/"><u>The Ultimate Fixes for 'Missing or Not Found: Oleaut32.dll'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-securely-syncing-and-backing-up-your-iphone-using-icloudmac-tips-from-zdnet/"><u>Ultimate Guide: Securely Syncing and Backing Up Your iPhone Using iCloud/Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces/"><u>[New] 2024 Approved Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-image-saver-compilation/"><u>[Updated] 2024 Approved Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agile-limitations-in-big-it-companies-navigating-challenges-of-size-and-complexity-explored-by-zdnet/"><u>Agile Limitations in Big IT Companies: Navigating Challenges of Size and Complexity | Explored by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/choosing-the-ideal-tablet-a-comprehensive-guide-to-picking-between-m1-and-m2-ipad-pro-models/"><u>Choosing the Ideal Tablet: A Comprehensive Guide to Picking Between M1 and M2 iPad Pro Models</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-youtube-content-editing-in-adobe-premiere-for-2024/"><u>Elevate Your YouTube Content Editing in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-online-livestream-frameworks/"><u>Elite Online Livestream Frameworks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprise-tech-firms-embrace-ops-opportunities-and-challenges-arise-with-the-adoption-of-operational-excellence/"><u>Enterprise Tech Firms Embrace 'Ops': Opportunities and Challenges Arise with the Adoption of Operational Excellence</u></a></li>
+<li><a href="https://common-error.techidaily.com/huion-digital-pen-issues-heres-how-to-restore-functionality-asap/"><u>Huion Digital Pen Issues? Here's How to Restore Functionality ASAP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-eb-18-rollout-plan-revealed-determining-which-iphone-models-get-the-update-zdnet-analysis/"><u>IOS Eb 18 Rollout Plan Revealed: Determining Which iPhone Models Get the Update - ZDNET Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-corrupted-windows-store-caches/"><u>Resolving Issues with Corrupted Windows Store Caches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-stealth-benefits-of-going-electric-convenience-in-parking-and-time-saving-hov-lane-access/"><u>Revealing the Stealth Benefits of Going Electric: Convenience in Parking and Time-Saving HOV Lane Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-fix-for-disorganized-linuxopen-source-guides-expert-strategies-revealed-zdnet/"><u>The Ultimate Fix for Disorganized Linux/Open-Source Guides - Expert Strategies Revealed | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-work-life-the-rise-of-ai-agents-as-tomorrows-game-changer-insights-by-zdnet/"><u>Transforming Work Life: The Rise of AI Agents as Tomorrow's Game-Changer - Insights by ZDNet</u></a></li>
 </ul></div>
 

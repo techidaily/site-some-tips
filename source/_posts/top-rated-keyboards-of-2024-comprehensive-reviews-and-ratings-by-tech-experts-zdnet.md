@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts | ZDNet"
-date: 2025-02-10T21:31:39.609Z
-updated: 2025-02-14T18:33:38.361Z
+date: 2025-02-28T17:37:10.895Z
+updated: 2025-03-04T17:28:58.109Z
 tags:
   - apple
 categories:
@@ -74,15 +74,7 @@ Cons
 * Lacks number pad
 * Restricted compatibility
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Magic Keyboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best keyboard for Mac users
 
@@ -140,10 +132,6 @@ Cons
 
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best ergonomic keyboard
 
 **Microsoft Sculpt Ergonomic Desktop Keyboard specs: Type:** Split-design **| Wired/Wireless:** Wireless **| Number of keys:** 104 **| Dimensions:** 8.86 x 21.06 x 1.77 inches
@@ -170,10 +158,6 @@ Pros
 Cons 
 * Not Mac-compatible
 * Restricted to linear switches
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Razer Pro Type Ultra Keyboard
 
@@ -204,10 +188,6 @@ To see how it compares, here is a look at the best keyboards.
 | Corsair K100 RGB Keyboard                   | $185     | Full size    | 110                |
 | Microsoft Sculpt Ergonomic Desktop Keyboard | $93      | Split design | 104                |
 | Razer Pro Type Ultra Keyboard               | $160     | Mechanical   | 104                |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the best keyboard for you?
 
@@ -241,10 +221,6 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -252,10 +228,6 @@ Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom a
 Buzzetta adds, "Wired keyboards are slightly more responsive and are the best when it comes to input lag. They're also good if you want to avoid batteries," he explains. "Wireless is preferable if you want to get rid of wires or want freedom of mobility. Another consideration is cost, \[as\] wireless tend to run higher than wired."
 
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much do the best keyboards cost?
 
@@ -318,16 +290,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-poll-power-players-quintessential-politic-games/"><u>[Updated] In 2024, Poll Power Players Quintessential Politic Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transforming-viewers-into-income-how-many-votes-yield-earnings/"><u>[Updated] In 2024, Transforming Viewers Into Income How Many Votes Yield Earnings?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-visionpro-unintentionally-compromised-learn-immediate-steps-and-protect-your-data-insights/"><u>1. VisionPro Unintentionally Compromised? Learn Immediate Steps & Protect Your Data - Insights</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-editor/"><u>Aiseesoft Video Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automattics-strategic-acquisition-of-beeper-expanding-horizons-in-messaging-services-insights/"><u>Automattic's Strategic Acquisition of Beeper: Expanding Horizons in Messaging Services - Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-code-x800700e9-in-xbox-games-access/"><u>Overcoming Error Code X800700E9 in Xbox Games Access</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protective-measures-ahead-how-apple-is-fortifying-imessage-against-emerging-risks/"><u>Protective Measures Ahead: How Apple Is Fortifying iMessage Against Emerging Risks</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-a-non-responsive-windows-monitor-app/"><u>Reviving a Non-Responsive Windows Monitor App</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-final-cut-pro-x-essential-image-cropping-techniques/"><u>Updated 2024 Approved Final Cut Pro X Essential Image Cropping Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-expert-picks-for-leading-mp3-devices-2024-rankings/"><u>ZDNet's Expert Picks for Leading MP3 Devices - 2024 Rankings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] 2024 Approved Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-propel-your-presence-on-tiktok-strategic-application-of-template-videos/"><u>[Updated] Propel Your Presence on TikTok Strategic Application of Template Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-wirecast-techniques-for-effective-youtube-streams/"><u>2024 Approved WireCast Techniques for Effective Youtube Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-enhancements-linux-kernel-65-unveiled-whats-new-on-zdnet/"><u>Discover the Enhancements: Linux Kernel 6.5 Unveiled - What's New on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/every-workers-future-building-and-utilizing-ai-as-a-universal-skill-insights-from-zdnet/"><u>Every Worker's Future: Building & Utilizing AI as a Universal Skill - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-does-apple-protect-your-cloud-based-ai-information-understanding-its-importance/"><u>How Does Apple Protect Your Cloud-Based AI Information? Understanding Its Importance.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v27-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V27 Pro Without PUK Codes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-code-elite-web-dev-course-selections-by-zdnet/"><u>Mastering Code: Elite Web Dev Course Selections by ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-tips-for-correcting-communication-errors-in-i2c-hid-device-driver-setups/"><u>Quick Tips for Correcting Communication Errors in I2C HID Device Driver Setups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-future-in-coding-the-three-imperative-programming-languages-every-aspiring-developer-should-know/"><u>Secure Your Future in Coding: The Three Imperative Programming Languages Every Aspiring Developer Should Know!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ideal-houseplants-for-boosting-productivity-in-your-work-from-home-space/"><u>Top 5 Ideal Houseplants for Boosting Productivity in Your Work-From-Home Space</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-im6s-driver-constraint-a-comprehensive-guide/"><u>Understanding the IM6's Driver Constraint: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-challenges-how-meta-faces-obstacles-translating-into-greek-armenian-and-oromo-insights-from-zdnet/"><u>Unpacking Challenges: How Meta Faces Obstacles Translating Into Greek, Armenian, and Oromo – Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ai-developments-and-rusts-role-in-modernizing-the-linux-kernel-with-linus-torvalds-expert-perspectives-from-zdnet/"><u>Unveiling AI Developments and Rust's Role in Modernizing the Linux Kernel with Linus Torvalds | Expert Perspectives From ZDNET</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-seamless-transition-to-kde-plasma-n6-is-a-win-for-users-my-personal-review-zdnet/"><u>Why the Seamless Transition to KDE Plasma N6 Is a Win for Users: My Personal Review | ZDNET</u></a></li>
 </ul></div>
 

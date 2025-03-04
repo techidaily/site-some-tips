@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Improvements to Favorite Productivity and Adventure XR Spectacles Reviewed by ZDNet.
-date: 2025-02-09T04:28:23.816Z
-updated: 2025-02-14T23:07:06.211Z
+date: 2025-03-02T16:04:43.560Z
+updated: 2025-03-04T16:06:37.587Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's key takeaways
 
 * The Tech 21 FlexPro is available from [Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and is priced at $55.
@@ -41,10 +37,6 @@ I don't discuss [smartphone cases](https://www.zdnet.com/article/ive-tested-hund
 When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/), however, I switched my case to a [Tech 21 FlexPro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDC2ZM%2FA%2Ftech21-flexpro-for-iphone-15-pro-magsafe-compatible%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). This case has proven to be one of the most rugged ones I've used. Additionally, choosing the clear, glow-in-the-dark version has made my iPhone easier to find, which is a handy bonus.
 
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
 
@@ -89,10 +81,6 @@ This case can also take quite a beating. In the few months that I've owned the i
 
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I know some people say you don't need a case for your iPhone, and that may very well be the case (no pun intended). Nevertheless, I think a case gives you extra protection in the event of a fall or drop and some additional grip -- modern smartphones do, after all, have the grip of a wet bar of soap. I also think a case is a nice way to personalize your phone. Since the iPhone is something that people drop several hundred dollars on, I think giving it some extra protection isn't a bad thing.
@@ -129,16 +117,14 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[New] First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-optimal-camera-balance-for-drone-use/"><u>[New] In 2024, Optimal Camera Balance for Drone Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-seamless-teamwork-on-apples-icloud-pages-a-comprehensive-guide/"><u>1. Seamless Teamwork on Apple's iCloud Pages: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-the-future-of-professional-development/"><u>AI & the Future of Professional Development</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/avi-mp4-0-movavi/"><u>AVI 파일을 쉽게 MP4로 전환하기 위한 가스 0 서비스 - Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-practices-for-fb-job-announcements/"><u>Best Practices for FB Job Announcements</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-smart-8-plus-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Smart 8 Plus Phones? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-look-the-unexpected-appeal-of-apples-vision-pro-explained-by-retail-staff/"><u>Inside Look: The Unexpected Appeal of Apple's Vision Pro Explained by Retail Staff</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-exercise-routine-how-the-latest-version-of-airpods-pro-is-elevating-health-tracking-to-new-heights/"><u>Revolutionize Your Exercise Routine: How the Latest Version of AirPods Pro Is Elevating Health Tracking to New Heights!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-m14-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy M14 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-ios-177-release-understanding-the-security-benefits-over-ios-18-on-zdnet/"><u>Upcoming iOS 17.7 Release: Understanding the Security Benefits Over iOS 18 on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alert-google-signals-upcoming-purge-of-dormant-profiles-zdnet-insights/"><u>Alert! Google Signals Upcoming Purge of Dormant Profiles - ZDNet Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-find-x7-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Find X7 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-secrets-revealed-how-to-capture-your-facebook-sessions/"><u>In 2024, Secrets Revealed How to Capture Your Facebook Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unleash-creativity-top-screencast-tools-recommended-by-experts/"><u>In 2024, Unleash Creativity Top Screencast Tools Recommended by Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/leading-the-video-conversion-game-with-ipv-strategies/"><u>Leading the Video Conversion Game with IPV Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/us-defense-division-of-cloud-resources-pentagon-splits-significant-deal-with-aws-google-oracle-and-microsoft-inside-look-zdnet/"><u>US Defense Division of Cloud Resources: Pentagon Splits Significant Deal with AWS, Google, Oracle, and Microsoft - Inside Look | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reports-on-the-new-era-of-privatized-data-centers-aws-rolls-out-local-customer-specific-cloud-zones/"><u>ZDNet Reports on the New Era of Privatized Data Centers: AWS Rolls Out Local Customer-Specific Cloud Zones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-take-on-wp-engine-top-tier-hosting-solution-for-your-wordpress-site/"><u>ZDNet's Take on WP Engine: Top-Tier Hosting Solution for Your WordPress Site</u></a></li>
 </ul></div>
 

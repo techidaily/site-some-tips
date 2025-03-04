@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2025-02-13T03:20:23.795Z
-updated: 2025-02-14T17:22:56.183Z
+date: 2025-03-03T17:03:04.981Z
+updated: 2025-03-04T17:31:27.549Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -46,19 +42,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Try a different Home screen theme
 
 Next, you can apply different themes to the Home screen. Press down on any empty area of the Home screen. Tap the Edit button in the upper left and select Customize. At the window at the bottom, you can change the icons between small and large and lighten or darken the wallpaper. You can also choose among four themes for the icons -- Automatic, Dark, Light, and Tinted. If you opt for Tinted, you're able to vary the color and intensity of the tint.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
 
@@ -68,10 +56,6 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Schedule a text
 
 Instead of sending a text right away, you can schedule it for a future date or time. For instance, maybe you're writing a text late at night but want it sent in the morning after the recipient is awake. After composing your message, tap the plus sign on the left, tap the More icon, and then select "Send Later." Swipe through the dates and times until you find the right combination for when you want the text to be sent. When ready, tap the blue arrow to schedule your text.
@@ -79,10 +63,6 @@ Instead of sending a text right away, you can schedule it for a future date or t
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lock down an app
 
@@ -120,24 +100,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-power-of-memes-a-guide-to-creating-funny-videos/"><u>[New] 2024 Approved Unlocking the Power of Memes A Guide to Creating Funny Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-master-reverse-playback-of-videos-on-android-devices/"><u>[New] Master Reverse Playback of Videos on Android Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-twitreact-guidebook-for-2024/"><u>[New] The Ultimate TwitReact Guidebook for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[New] Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-altering-username-on-google-meet-via-pc-and-mobile-for-2024/"><u>[Updated] Altering Username on Google Meet via PC & Mobile for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/business-users-guide-in-depth-review-of-the-microsoft-surface-pro-8-with-expert-commentary-on-performance-and-security-spotlight/"><u>Business Users' Guide: In-Depth Review of the Microsoft Surface Pro 8 with Expert Commentary on Performance & Security – Spotlight</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-methods-for-driver-refreshment-enhancing-your-dell-xps-15-performance/"><u>Easy Methods for Driver Refreshment: Enhancing Your Dell XPS 15 Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exclusive-review-unveiling-the-prowess-of-fellowes-microban-wired-keyboards-on-a-budget/"><u>Exclusive Review: Unveiling the Prowess of Fellowes Microban Wired Keyboards on a Budget</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experts-top-tablet-selections-of-2024-thoroughly-tested-comprehensive-insights/"><u>Experts' Top Tablet Selections of 2024: Thoroughly Tested, Comprehensive Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-hands-on-a-free-macbook-air-m3-discover-the-smart-strategy-behind-this-amazing-best-buy-offer-zdnet/"><u>Get Your Hands on a Free MacBook Air M3 - Discover the Smart Strategy Behind This Amazing Best Buy Offer | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-the-iphone-14-hits-the-perfect-balance-a-comprehensive-review-by-zdnet/"><u>How the iPhone 14 Hits the Perfect Balance - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-apple-watch-power-management-unlock-a-dramatic-lifespan-extension-with-easy-setup-adjustments-gizmoguide/"><u>Mastering Apple Watch Power Management: Unlock a Dramatic Lifespan Extension with Easy Setup Adjustments | GizmoGuide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-convenience-a-step-by-step-guide-to-using-apple-pay-both-in-store-and-online-insights-from-zdnet/"><u>Mastering the Convenience: A Step-by-Step Guide to Using Apple Pay Both In-Store & Online - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-in-ios-18-hands-free-call-recording-now-possible-without-external-apps-insights-from-zdnet/"><u>New in iOS 18: Hands-Free Call Recording Now Possible Without External Apps - Insights From ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-screensaver-accessory-in-2/"><u>Top-Rated Apple Watch Screensaver Accessory in 2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-typists-into-document-genies-in-word/"><u>Transforming Typists Into Document Genies in Word</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-most-reliable-airtag-wallets-of-2024-in-depth-testing-results-zdnet/"><u>Ultimate Guide to the Most Reliable AirTag Wallets of 2024: In-Depth Testing Results | ZDNET</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/youtubes-buzzing-titles-roundup-1-8-for-2024/"><u>YouTube's Buzzing Titles Roundup #1-#8 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>[Updated] A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-engineering-a-touching-tiktok-conclusion/"><u>[Updated] In 2024, Engineering a Touching TikTok Conclusion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mirrorless-impact-on-professional-video-recording/"><u>[Updated] Mirrorless Impact on Professional Video Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-what-are-the-best-websites-to-download-amusing-and-funny-ringtones/"><u>2024 Approved What Are the Best Websites to Download Amusing and Funny Ringtones?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-lava-agni-2-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Lava Agni 2 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-security-a-critical-evaluation-of-the-ring-battery-doorbell-plus-version/"><u>Maximizing Security: A Critical Evaluation of the Ring Battery Doorbell + Version</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-printing-service-on-pc-post-error-alert-in-windows/"><u>Restoring Printing Service on PC, Post Error Alert in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-list-of-iphone-models-supporting-ios-18-upgrade-insights-from-zdnet/"><u>The Complete List of iPhone Models Supporting iOS #18 Upgrade – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-here-exploring-how-artificial-intelligence-could-transform-handheld-devices-for-enhanced-learning-featured-on-zdnet/"><u>The Future Is Here: Exploring How Artificial Intelligence Could Transform Handheld Devices for Enhanced Learning | Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-winamp-unveiled-insights-into-its-decision-to-stay-closed-source-and-strategic-moves-ahead/"><u>The Future of Winamp Unveiled: Insights Into Its Decision to Stay Closed Source and Strategic Moves Ahead</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-leading-cybersecurity-certifications-find-the-right-one-for-you-according-to-zdnet/"><u>Top 7 Leading Cybersecurity Certifications : Find the Right One For You (According To ZDNet)</u></a></li>
 </ul></div>
 

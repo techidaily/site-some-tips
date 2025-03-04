@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Performance with Our Top 8 Customized Settings
-date: 2025-02-11T02:16:12.104Z
-updated: 2025-02-14T21:50:58.233Z
+date: 2025-02-26T16:01:53.116Z
+updated: 2025-03-04T16:51:06.240Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -80,19 +76,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -101,10 +89,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -119,10 +103,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,21 +145,21 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-no-expenses-the-ultimate-guide-to-16-top-tier-youtube-rippers-for-audios/"><u>[New] 2024 Approved No Expenses The Ultimate Guide to 16 Top-Tier YouTube Rippers for Audios</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-chill-and-thrills-highlighting-olympic-snowboard-cross-winners-for-2024/"><u>[New] Chill & Thrills Highlighting Olympic Snowboard Cross Winners for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-channel-elevation-strategy-quickly-reach-your-10k-view-quota-in-2024/"><u>[Updated] Channel Elevation Strategy – Quickly Reach Your 10K View Quota, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-maximizing-memories-storing-digitalized-vintage-photographs-for-2024/"><u>[Updated] Maximizing Memories Storing Digitalized Vintage Photographs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-complete-guide-restoring-apple-watch-settings-tips-and-tricks-from-zdnet/"><u>1. Complete Guide: Restoring Apple Watch Settings - Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-unveils-revolutionary-in-house-ai-photo-creation-surpassing-dall-e-with-on-device-magic-technewsdigest/"><u>Apple Unveils Revolutionary In-House AI Photo Creation, Surpassing DALL-E with 'On-Device Magic' | TechNewsDigest</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/comprehensive-step-by-step-manual-for-restoring-your-samsung-notebook-with-windows-7/"><u>Comprehensive Step-by-Step Manual for Restoring Your Samsung Notebook with Windows 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-latest-innovations-in-visionos-version-2-from-apples-wwdc-the-hype-and-mysteries-revealed/"><u>Exploring the Latest Innovations in VisionOS Version 2 From Apple's WWDC - The Hype and Mysteries Revealed</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guide-simple-imprimer-rapidement-votre-disque-dur-a-laide-dun-outil-gratuit-en-ligne/"><u>Guide Simple : Imprimer Rapidement Votre Disque Dur À L'aide D'un Outil Gratuit en Ligne.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apples-on-device-ai-system-realm-triumphantly-beats-gpt-4-tech-insights/"><u>How Apple's On-Device AI System ReaLM Triumphantly Beats GPT-4 - Tech Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT 5 Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-s23-fe-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy S23 FE with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-new-control-center-in-ios-18-tips-and-tricks-for-iphone-customization/"><u>Mastering the New Control Center in iOS 18: Tips & Tricks for iPhone Customization</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-wisdom-from-toms-corner/"><u>Navigating the World of Hardware - Wisdom From Tom's Corner</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-evolution-of-apples-latest-marvel-unveiling-the-upgraded-mac-mini-insights-from-zdnet/"><u>The Evolution of Apple's Latest Marvel: Unveiling the Upgraded Mac Mini - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-priority-access-navigating-the-release-of-apple-vision-pro-beta-versions-with-testflight-insights-by-zdnet/"><u>Unlock Priority Access: Navigating the Release of Apple Vision Pro Beta Versions with TestFlight | Insights by ZDNet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-experts-insight-efficiently-using-mobizen-for-capturing-screens/"><u>[Updated] In 2024, Expert's Insight Efficiently Using Mobizen for Capturing Screens</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-get-royalty-free-clip-art/"><u>[Updated] In 2024, How to Get Royalty Free Clip Art?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-adverts-recent-changes-and-compliance/"><u>[Updated] In 2024, YouTube Adverts Recent Changes and Compliance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/begin-commence/"><u>Begin - Commence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-future-of-tech-linus-torvalds-insights-on-artifice-intelligence-advancing-with-rust-and-why-he-believes-linux-is-paramount-featured-by-zdnet.m46/"><u>Exploring the Future of Tech: Linus Torvalds Insights on Artifice Intelligence, Advancing with Rust, and Why He Believes Linux Is Paramount - Featured by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-diagnose-and-fix-screen-fluctuations-in-windows-10-environment/"><u>Guide to Diagnose and Fix Screen Fluctuations in Windows 10 Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-optimize-large-videos-for-facebook-sharing-compression-techniques-revealed/"><u>How to Optimize Large Videos for Facebook Sharing - Compression Techniques Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-ultimate-editing-strategies-for-viral-tiktoks/"><u>In 2024, 10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-top-2023-vr-engine-innovations/"><u>In 2024, Unveiling Top 2023 VR Engine Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-generative-ai-and-large-language-models-llms-in-your-business-strategy-insights-from-zdnet/"><u>Leveraging Generative AI and Large Language Models (LLMs) in Your Business Strategy - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/programming-language-preferences-in-the-current-era-insights-into-why-theyre-gaining-traction-zdnet-exclusive-report/"><u>Programming Language Preferences in the Current Era: Insights Into Why They're Gaining Traction | ZDNet Exclusive Report</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-insiders-guide-to-personalizing-your-instagram-vocal-style-for-2024/"><u>The Insider's Guide to Personalizing Your Instagram Vocal Style for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-leading-web-hosts-meticulously-evaluated-and-approved-by-specialists-pcmag/"><u>Ultimate List of Leading Web Hosts , Meticulously Evaluated and Approved by Specialists | PCMag</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-x-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-code-a-deep-dive-into-todays-leading-programming-languages-according-to-zdnet/"><u>Unraveling the Code: A Deep Dive Into Today's Leading Programming Languages, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-red-hats-advanced-artificial-intelligence-in-enterprise-linux-why-it-matters-zdnet/"><u>Unveiling Red Hat's Advanced Artificial Intelligence in Enterprise Linux: Why It Matters [ZDNet]</u></a></li>
 </ul></div>
 

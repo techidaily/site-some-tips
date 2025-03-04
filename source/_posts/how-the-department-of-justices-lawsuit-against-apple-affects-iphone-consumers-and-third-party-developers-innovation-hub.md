@@ -1,7 +1,7 @@
 ---
 title: How the Department of Justice's Lawsuit Against Apple Affects iPhone Consumers & Third-Party Developers | Innovation Hub
-date: 2025-02-13T05:16:54.903Z
-updated: 2025-02-15T06:59:16.002Z
+date: 2025-03-01T17:41:51.837Z
+updated: 2025-03-04T17:45:38.557Z
 tags:
   - apple
 categories:
@@ -45,10 +45,6 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -69,10 +65,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -128,10 +120,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -158,17 +146,9 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,17 +184,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-aural-storytelling-on-instagram-reels/"><u>[New] 2024 Approved The Art of Aural Storytelling on Instagram Reels</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-guide-to-sustainable-visual-effects-equipment/"><u>[Updated] In 2024, Ultimate Guide to Sustainable Visual Effects Equipment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-monetization-how-much-creators-earn-per-ad-on-youtube-in-2024/"><u>Decoding Monetization How Much Creators Earn Per Ad on YouTube, In 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dial-down-audio-slowly-and-steadily/"><u>Dial Down Audio, Slowly and Steadily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discount-alert-grab-your-newly-upgraded-airpods-pro-plus-built-in-hearing-aid-at-an-unbelievable-price-save-24-today/"><u>Discount Alert: Grab Your Newly Upgraded AirPods Pro + Built-In Hearing Aid at an Unbelievable Price - Save 24% Today!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-what-apple-might-have-up-its-sleeve-for-gamers-with-its-new-game-mode-key-insights-revealed-zdnet/"><u>Discover What Apple Might Have Up Its Sleeve for Gamers with Its New Game Mode - Key Insights Revealed | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-your-tech-experience-with-these-4-standout-iphone-16-features-is-it-time-to-upgrade/"><u>Elevate Your Tech Experience with These 4 Standout iPhone 16 Features - Is It Time to Upgrade?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/improving-sound-speeds-a-guide-for-safe-spotify-use-for-2024/"><u>Improving Sound Speeds A Guide for Safe Spotify Use for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-customizing-characters-the-ae-font-guide/"><u>In 2024, Customizing Characters The AE Font Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/manual-de-instruccion-para-el-programa-winxdvd-mejoras-y-optimizaciones/"><u>Manual De Instrucción Para El Programa WinXDVD: Mejoras Y Optimizaciones</u></a></li>
-<li><a href="https://solve-news.techidaily.com/optimisation-du-temps-dencodage-h265-comment-accelerer-votre-processus/"><u>Optimisation Du Temps D'encodage H.265 - Comment Accélérer Votre Processus ?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-3-iphone-13-cases-and-sleeves-to-preserve-its-pristine-condition-insights/"><u>Top 3 iPhone 13 Cases and Sleeves to Preserve Its Pristine Condition: Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-day-in-the-life-on-facebook-enhancing-participation/"><u>[New] In 2024, A Day in the Life on Facebook Enhancing Participation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-programming-languages-popularity-fluctuations-since-2016-lessons-and-predictions-codedigest/"><u>Decoding Programming Languages' Popularity Fluctuations Since 2016 - Lessons and Predictions | CodeDigest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gen-ai-revolution-the-growing-influence-and-evolution-in-the-tech-landscape-insights-from-zdnet/"><u>Gen AI Revolution: The Growing Influence and Evolution in the Tech Landscape - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>In 2024, Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a2-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A2? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-your-content-youtube-video-length-reduction-guide/"><u>In 2024, Tailoring Your Content YouTube Video Length Reduction Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/modernized-guide-of-queries-for-engaging-podcast-discussions/"><u>Modernized Guide of Queries for Engaging Podcast Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-path-forward-challenges-in-establishing-open-source-ai-standards-mixed-reactions-from-experts-zdnet/"><u>Navigating the Path Forward: Challenges in Establishing Open Source AI Standards – Mixed Reactions From Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-collaboration-how-microsoft-introduces-ai-powered-co-pilots-for-enhanced-teams-and-project-success-zdnet-insights/"><u>Revolutionizing Collaboration: How Microsoft Introduces AI-Powered Co-Pilots for Enhanced Teams and Project Success - ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-web-development-training-programs-explore-the-best-as-recommended-by-zdnet/"><u>Top-Ranked Web Development Training Programs: Explore the Best as Recommended by ZDNet</u></a></li>
 </ul></div>
 

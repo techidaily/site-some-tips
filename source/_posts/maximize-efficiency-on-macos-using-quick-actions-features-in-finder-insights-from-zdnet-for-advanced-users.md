@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2025-02-11T00:49:13.812Z
-updated: 2025-02-14T19:23:35.029Z
+date: 2025-02-26T16:23:08.584Z
+updated: 2025-03-04T16:21:52.060Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple
 
@@ -47,23 +43,11 @@ By default, the following file types offer Quick Actions from within the Finder 
 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Quick Actions
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -90,10 +74,6 @@ Let's say you want to convert that JPG to a PNG image. From the sub-menu, click 
 Configuring your converted image in the Finder pop-up.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
 
@@ -145,20 +125,22 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-visibility-comprehensive-guide-to-video-marketing-titles/"><u>[New] In 2024, Elevate Visibility Comprehensive Guide to Video Marketing Titles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-sonys-leap-into-4k-with-xperia-xz-premium-insights/"><u>[New] In 2024, Sony's Leap Into 4K with Xperia XZ Premium Insights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-fixes-for-stuck-instagram-videos/"><u>[Updated] Mastering Fixes for Stuck Instagram Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-unveils-vision-pro-a-revolutionary-arvr-headset-coming-soon-with-exclusive-600-app-catalog-tech-news/"><u>Apple Unveils Vision Pro: A Revolutionary AR/VR Headset Coming Soon With Exclusive 600-App Catalog | Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-ios-18-now-complete-guide-for-compatible-iphone-models-latest-update-release-info/"><u>Download IOS 18 Now: Complete Guide for Compatible iPhone Models - Latest Update Release Info</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-downloading-and-updating-epson-wf-3520-drivers-on-pcs-and-laptops/"><u>Essential Guide to Downloading & Updating Epson WF-3520 Drivers on PCs and Laptops</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-features-and-performance-of-cleanmymac-x-in-our-zdnet-reviews/"><u>Exploring the Features and Performance of CleanMyMac X in Our ZDNet Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-can-apple-turn-around-topvisionpro-zdnet-shares-three-key-strategies-for-revival/"><u>How Can Apple Turn Around TopVisionPro? ZDNet Shares Three Key Strategies for Revival</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-8-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 8 Making It Possible</u></a></li>
-<li><a href="https://some-tips.techidaily.com/installing-libreoffice-on-your-mac-an-easy-walkthrough-to-replace-ms-office-without-spending-a-penny/"><u>Installing LibreOffice on Your Mac - An Easy Walkthrough to Replace MS Office Without Spending a Penny</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/rhythmripper-screen-recordings-review/"><u>RhythmRipper Screen Recordings Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/saving-visionpro-essential-strategies-apple-needs-to-implement-gadgetpulse/"><u>Saving VisionPro: Essential Strategies Apple Needs to Implement | GadgetPulse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unleashing-the-power-of-the-little-dragon-the-spyro-reignited-collections-hidden-treasure/"><u>Unleashing the Power of the Little Dragon: The Spyro Reignited Collection's Hidden Treasure</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-similar-software-or-alternatives-to-virtualdub/"><u>Updated Similar Software or Alternatives to VirtualDub</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-the-definitive-guide-insights/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : The Definitive Guide - Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ace-your-content-game-on-instagram-with-these-6-powerful-apps/"><u>[New] 2024 Approved Ace Your Content Game on Instagram with These 6 Powerful Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-picks-essential-tools-to-play-ps1-games-on-your-computer/"><u>[New] Top Picks - Essential Tools to Play PS1 Games on Your Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-9-youtube-video-extraction-tools-for-android-reviewed/"><u>[Updated] 9 YouTube Video Extraction Tools for Android Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-iphones-best-5-podcasting-apps-for-2024/"><u>[Updated] The Ultimate Guide to iPhone's Best 5 Podcasting Apps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-guide-for-selecting-tiktok-wallpapers/"><u>2024 Approved Master Guide for Selecting TikTok Wallpapers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-compilation-of-premium-free-srt-translators/"><u>2024 Approved The Ultimate Compilation of Premium Free SRT Translators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-leading-web-hosting-services-unveiled-thoroughly-tested-and-analyzed-pcmag/"><u>2024'S Leading Web Hosting Services Unveiled: Thoroughly Tested & Analyzed | PCMag</u></a></li>
+<li><a href="https://win-web.techidaily.com/best-methods-to-seamlessly-stream-your-mac-screen-to-a-television/"><u>Best Methods to Seamlessly Stream Your Mac Screen to a Television</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-ai-engagement-ultimate-course-guide/"><u>Cutting-Edge AI Engagement: Ultimate Course Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-popularity-of-todays-key-programming-languages-what-factors-determine-their-prevalence/"><u>Decoding the Popularity of Today's Key Programming Languages – What Factors Determine Their Prevalence?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-nighttime-captures-elevating-iphone-photos/"><u>In 2024, Nighttime Captures Elevating iPhone Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/major-milestone-reached-in-open-source-ai-specification-amidst-disagreement-zdnet/"><u>Major Milestone Reached in Open Source AI Specification Amidst Disagreement | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-clarity-in-linuxopen-source-manuals-unveiling-proven-solutions-for-cleaner-guides/"><u>Mastering Clarity in Linux/Open Source Manuals: Unveiling Proven Solutions for Cleaner Guides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-ops-strategies-revolutionize-enterprise-tech-environments-amidst-emerging-challenges-insights-for-zdnet-readers/"><u>Rising Ops Strategies Revolutionize Enterprise Tech Environments Amidst Emerging Challenges - Insights for ZDNet Readers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-ecommerce-platforms-of-2022-creating-successful-online-shops-with-expert-tips-zdnet/"><u>Top-Ranked ECommerce Platforms of 2022: Creating Successful Online Shops with Expert Tips - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-2024-predictions-insights-from-gartners-hype-cycle-and-the-future-trajectory-of-artificnial-intelligence-analysis-for-tomorrows-tech-zdnet/"><u>Unveiling the 2024 Predictions: Insights From Gartner's Hype Cycle and the Future Trajectory of Artificnial Intelligence - Analysis for Tomorrow's Tech | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-future-trajectory-of-ai-with-insights-from-gartners-2024-hype-cycle-report-tech-trends-to-watch-zdnet/"><u>Unveiling the Future Trajectory of AI with Insights From Gartner's 2024 Hype Cycle Report - Tech Trends to Watch | ZDNet</u></a></li>
 </ul></div>
 

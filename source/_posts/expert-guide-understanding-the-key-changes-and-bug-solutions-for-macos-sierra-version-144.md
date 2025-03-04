@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Understanding the Key Changes and Bug Solutions for macOS Sierra (Version 14.4)"
-date: 2025-02-13T23:15:10.283Z
-updated: 2025-02-15T08:26:16.325Z
+date: 2025-03-03T16:28:17.091Z
+updated: 2025-03-04T17:10:45.497Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,22 +134,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-screen-capture-clarified-a-fraps-breakdown/"><u>2024 Approved Screen Capture Clarified A Fraps Breakdown</u></a></li>
-<li><a href="https://discover-help.techidaily.com/windows-11-blue-screen-error-bsod/"><u>解析Windows 11 Blue Screen Error: 理解 BSOD 与修复方法</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/achieving-efficiency-in-transition-to-macos-catalina/"><u>Achieving Efficiency in Transition to macOS Catalina</u></a></li>
-<li><a href="https://some-tips.techidaily.com/airpods-latest-version-launch-timeline-and-preorder-guide-exclusive-tips-from-zdnet/"><u>AirPods Latest Version Launch Timeline & Preorder Guide – Exclusive Tips From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/can-advanced-ai-propel-apples-next-big-leap-with-the-iphone-16-insights-and-predictions/"><u>Can Advanced AI Propel Apple's Next Big Leap with the iPhone 16? Insights & Predictions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-to-determine-the-right-device/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide to Determine the Right Device</u></a></li>
-<li><a href="https://win-popular.techidaily.com/como-transferir-rapidamente-y-sin-coste-un-disco-duro-exterior-al-interno/"><u>Cómo Transferir Rapidamente Y Sin Coste Un Disco Duro Exterior Al Interno</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experts-weigh-in-is-the-satechi-pro-hub-max-your-macbooks-must-have-protector-and-power-station-insights-from-a-comprehensive-zdnet-review/"><u>Experts Weigh In: Is the Satechi Pro Hub Max Your MacBook's Must-Have Protector and Power Station? Insights From a Comprehensive ZDNet Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-helldiver-ii-starting-issue-eliminating-the-black-screen-problem/"><u>How to Solve Helldiver II Starting Issue - Eliminating the Black Screen Problem</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-long-distance-wifi-routers-on-the-market-2024-edition/"><u>Leading Long-Distance WiFi Routers on the Market: 2024 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-rides-the-transformative-impact-of-photochromic-hud-glasses-on-cycling-a-zdnet-feature/"><u>Revolutionizing Rides: The Transformative Impact of Photochromic HUD Glasses on Cycling - A ZDNet Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamlessly-link-your-beats-wireless-earbuds-to-windows-11-comprehensive-troubleshooting-and-setup-guide/"><u>Seamlessly Link Your Beats Wireless Earbuds to Windows 11 – Comprehensive Troubleshooting and Setup Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-future-of-gaming-awaits-dive-into-the-revolutionary-phillips-evonia-49-curved-oled-display/"><u>The Future of Gaming Awaits: Dive Into the Revolutionary Phillips Evonia 49 Curved OLED Display</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tech-picks-in-depth-comparison-of-leading-brands-like-apple-and-dell/"><u>Top Tech Picks : In-Depth Comparison of Leading Brands Like Apple & Dell</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/understanding-and-leveraging-snapchat-spotlight-for-2024/"><u>Understanding and Leveraging Snapchat Spotlight for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-apples-ai-showcase-the-two-critical-developments-yet-to-be-seen-anticipating-further-progress-gadgetguru-news/"><u>Unveiling Apple's AI Showcase: The Two Critical Developments Yet to Be Seen - Anticipating Further Progress? | GadgetGuru News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-mobile-device-analysis-techniques-experts/"><u>Unveiling Mobile Device Analysis Techniques Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-earning-big-from-youtube-shorts-key-requirements-and-profit-prospects-for-2024/"><u>[Updated] Earning Big From YouTube Shorts Key Requirements and Profit Prospects for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speedy-windowed-image-viewer/"><u>[Updated] Speedy Windowed Image Viewer</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1732517698227-yl/"><u>武则天留给后世的关键文书及其意义 - YL科技解析</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/boost-your-pcs-speed-expert-tips-for-ultimate-optimization-from-yl-software/"><u>Boost Your PC's Speed: Expert Tips for Ultimate Optimization From YL Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-ai-insights-on-deep-learning-gemini-triumphs-over-gpt-n-zdnet-analysis/"><u>Decoding AI Insights on Deep Learning: Gemini Triumphs Over GPT-N | ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-trend-how-openstack-and-kata-containers-are-regaining-favor-among-tech-enthusiasts/"><u>Decoding the Trend: How OpenStack and Kata Containers Are Regaining Favor Among Tech Enthusiasts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fix-mp4-file-playback-issues-in-windows-media-player-quicktime-and-vlc/"><u>Fix MP4 File Playback Issues in Windows Media Player, QuickTime & VLC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-eshop-builder-tools-for-entrepreneurs-construct-your-digital-storefront-effectively-pcmag/"><u>Leading eShop Builder Tools for Entrepreneurs : Construct Your Digital Storefront Effectively | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-llms-in-business-strategy-an-in-depth-look-at-integrating-cutting-edge-artifice-intelligence-with-your-companys-knowledge-base-tips-from-zdnet/"><u>Leveraging LLMs in Business Strategy: An In-Depth Look at Integrating Cutting-Edge Artifice Intelligence with Your Company's Knowledge Base | Tips From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/m1-processor-a-leap-forward-in-video-production-technology-for-2024/"><u>M1 Processor A Leap Forward in Video Production Technology for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/metas-journey-from-basic-forecasting-to-complex-strategic-outcomes-the-evolution-of-genai-tech-insights/"><u>Meta's Journey From Basic Forecasting to Complex Strategic Outcomes: The Evolution of GenAI | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-novel/"><u>New - Novel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phrozens-breakthrough-in-3d-printing-a-vibrant-four-color-impressionist-approach/"><u>Phrozen's Breakthrough in 3D Printing - A Vibrant Four Color Impressionist Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-high-demand-programming-tools-deciphering-popularity-metrics-with-zdnets-analysis/"><u>Understanding High-Demand Programming Tools: Deciphering Popularity Metrics with ZDNet's Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
 

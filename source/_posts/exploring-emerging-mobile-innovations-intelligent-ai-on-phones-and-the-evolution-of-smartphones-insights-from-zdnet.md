@@ -1,7 +1,7 @@
 ---
 title: "Exploring Emerging Mobile Innovations: Intelligent AI on Phones & The Evolution of Smartphones - Insights From ZDNet"
-date: 2025-02-10T21:12:00.783Z
-updated: 2025-02-15T06:46:50.823Z
+date: 2025-02-26T17:15:18.910Z
+updated: 2025-03-04T16:32:19.328Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -94,10 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -111,10 +99,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -162,10 +146,6 @@ Jason Hiner/ZDNET
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## tvOS 18
 
 Actor and music title insights on tvOS
@@ -210,21 +190,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-cloud-marketplace-dissecting-cost-structures/"><u>[New] 2024 Approved Cloud Marketplace Dissecting Cost Structures</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-master-the-art-of-persuasion-top-30-video-strategies/"><u>[New] 2024 Approved Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>[New] In 2024, The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-core-elements-of-virtual-tale-transmission/"><u>[Updated] 2024 Approved Core Elements of Virtual Tale Transmission</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-creating-engaging-visual-narratives-from-photographs-using-pixiz-written/"><u>[Updated] 2024 Approved Creating Engaging Visual Narratives From Photographs Using Pixiz' Written</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-enhances-logic-pro-for-ios-and-macos-introducing-ai-band-member-collaborators-the-future-of-music-production/"><u>Apple Enhances Logic Pro for iOS & macOS, Introducing AI 'Band Member' Collaborators - The Future of Music Production!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/deciphering-facebooks-iconic-blue-emoji-usage-in-messages-for-2024/"><u>Deciphering Facebook's Iconic Blue Emoji Usage in Messages for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficiently-connecting-with-loved-ones-on-your-iphone-using-apple-watch/"><u>Efficiently Connecting With Loved Ones on Your iPhone - Using Apple Watch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-insight-the-value-lost-in-automated-summary-texts/"><u>Human Insight: The Value Lost in Automated Summary Texts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-perfect-pixels-in-a-minute-quick-fixes-with-studio-editor/"><u>In 2024, Perfect Pixels in a Minute Quick Fixes with Studio Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-12-now-features-enhanced-qi2-wireless-charging-without-magsafe-requirement-discover-how/"><u>IPhone 12 Now Features Enhanced Qi2 Wireless Charging Without MagSafe Requirement: Discover How!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-charger-warning-fluid-damage-and-expert-tips/"><u>IPhone, Charger Warning, Fluid Damage, and Expert Tips.</u></a></li>
-<li><a href="https://fox-making.techidaily.com/passaggio-sicuro-e-semplificato-come-clonare-un-disco-rigido-da-1tb-su-ununita-ssd-di-500gb/"><u>Passaggio Sicuro E Semplificato: Come Clonare Un Disco Rigido Da 1TB Su Un'unità SSD Di 500GB</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-ride-how-photochromatic-lenses-enhance-bike-experience-with-hud-features/"><u>Revolutionize Your Ride: How Photochromatic Lenses Enhance Bike Experience with HUD Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/september-2024-hot-deals-alert-score-big-savings-from-amazon-s-curated-pick/"><u>September 2024 Hot Deals Alert! Score Big Savings From Amazon 'S Curated Pick</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-trending-iphone-16-models-and-availability-timespan-revealed-insights-for-shoppers/"><u>Top Trending iPhone 16 Models & Availability Timespan Revealed - Insights for Shoppers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-growth-on-a-dime-attracting-sponsors-with-simplicity-for-2024/"><u>[New] Channel Growth on a Dime Attracting Sponsors with Simplicity for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-cost-effective-video-cameras/"><u>[New] The Ultimate Guide to Cost-Effective Video Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-live-broadcasts-the-most-effective-6-microphone-selections/"><u>2024 Approved Mastering Live Broadcasts The Most Effective 6 Microphone Selections</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/anonymous-access-to-instagrams-hidden-narratives-device-guide-for-2024/"><u>Anonymous Access to Instagram's Hidden Narratives Device Guide for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-gt-3-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme GT 3 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a54-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A54 5G Without PUK Codes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/modernizing-expertise-in-cybersecurity-operations-against-outdated-system-hurdles/"><u>Modernizing Expertise in Cybersecurity Operations Against Outdated System Hurdles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-tides-of-change-key-takeawives-from-latest-tech-workforce-transformations-perspectives-by-zdnet/"><u>Navigating the Tides of Change: Key Takeawives From Latest Tech Workforce Transformations | Perspectives by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/powering-up-digital-advancement-in-china-through-high-performance-computing-zdnet/"><u>Powering Up Digital Advancement in China Through High-Performance Computing | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-continuity-how-office-2016-and-2019-will-remain-compatible-with-future-microsoft-365-backend-support-in-the-coming-year/"><u>Seamless Continuity: How Office 2016 & 2019 Will Remain Compatible with Future Microsoft 365 Backend Support in the Coming Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speeding-up-cybersecurity-australia-urges-companies-to-implement-crucial-safety-fixes-quickly-zdnet/"><u>Speeding Up Cybersecurity: Australia Urges Companies to Implement Crucial Safety Fixes Quickly | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-expanding-influence-of-it-experts-in-enterprise-leadership-with-the-surge-of-cloud-technologies-zdnet-analysis/"><u>The Expanding Influence of IT Experts in Enterprise Leadership with the Surge of Cloud Technologies | ZDNET Analysis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-addressing-magic-the-gathering-digital-edition-black-screen-errors/"><u>Ultimate Guide: Addressing Magic: The Gathering Digital Edition Black Screen Errors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/video-size-mastery-on-mac-the-instagram-automation-way-for-2024/"><u>Video Size Mastery on Mac The Instagram Automation Way for 2024</u></a></li>
 </ul></div>
 

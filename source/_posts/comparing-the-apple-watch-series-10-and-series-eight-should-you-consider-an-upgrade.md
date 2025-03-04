@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Apple Watch Series 10 and Series Eight: Should You Consider an Upgrade?"
-date: 2025-02-07T19:22:53.470Z
-updated: 2025-02-15T09:06:20.106Z
+date: 2025-02-26T17:30:56.511Z
+updated: 2025-03-04T17:09:57.777Z
 tags:
   - apple
 categories:
@@ -71,10 +71,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 10 if...
 
 ### 1\. You want a thinner design or larger watch sizes
@@ -99,10 +95,6 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. It's time to upgrade
 
 If you own a Watch Series 7 or older, you may be looking to surrender your current everyday driver and opt for something fresher. As we inch closer to 2025, the Series 7 is close to being four years old, and any model that precedes that device probably feels a bit outdated or is perhaps experiencing performance dips. Last year I upgraded my Watch Series 3, which I purchased in 2020, to a [Watch SE (2nd Gen)](https://www.zdnet.com/article/the-apple-watch-se-is-just-60-off-this-memorial-day-and-its-my-favorite-purchase-this-year/) after experiencing glitching issues and poor battery life. The difference has been astounding. 
@@ -115,17 +107,9 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -140,10 +124,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,19 +159,18 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-bringing-sketches-to-life-foremost-ipados-apps/"><u>[New] Bringing Sketches to Life Foremost iPadOS Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-capturing-the-thrill-hero5-black-against-hero4-silver/"><u>[New] Capturing the Thrill Hero5 Black Against Hero4 Silver</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-selecting-the-best-5-monitors-for-ps5-games/"><u>[Updated] 2024 Approved Selecting the Best 5 Monitors for PS5 Games</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-evolution-and-function-of-modern-vr-helmets/"><u>[Updated] In 2024, The Evolution and Function of Modern VR Helmets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-targets-top-browsers-with-unsettling-ad-campaign-witness-the-strategy-firsthand/"><u>Apple Targets Top Browsers with Unsettling Ad Campaign – Witness the Strategy Firsthand</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/best-video-editor-for-vimeo-for-2024/"><u>Best Video Editor for Vimeo for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boundless-savings-for-your-captured-moments-for-2024/"><u>Boundless Savings for Your Captured Moments for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-tecno-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Tecno ?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/savings-alert-the-unbeatable-80-off-on-apple-watch-series-se-2nd-gen-post-prime-day-exclusive-analysis-by-zdnet/"><u>Savings Alert: The Unbeatable $80 Off on Apple Watch Series SE (2Nd Gen) Post-Prime Day | Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solving-the-hassles-of-portable-charging-how-a-simple-20-anker-battery-made-all-the-difference-review/"><u>Solving the Hassles of Portable Charging: How a Simple $20 Anker Battery Made All the Difference Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-now-holding-advanced-ai-tech-in-your-hands-by-2024-as-predicted-insights/"><u>The Future Is Now: Holding Advanced AI Tech in Your Hands by 2024 as Predicted Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-discounts-on-apple-products-for-july-2024-iphone-apple-watch-and-ipad-bargains-zdnet-insights/"><u>Top Discounts on Apple Products for July 2024: IPhone, Apple Watch & iPad Bargains | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-localized-machine-learning-basics-and-operation/"><u>Understanding Localized Machine Learning: Basics & Operation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-the-world-of-virtual-engagements-effects-filters-and-more/"><u>[New] 2024 Approved Navigating the World of Virtual Engagements Effects, Filters, & More</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-professional-editing-skills-using-gopro-studio-for-2024/"><u>[New] Unlock Professional Editing Skills Using GoPro Studio for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-set-up-a-dynamic-fb-cover/"><u>[Updated] Set Up a Dynamic FB Cover</u></a></li>
+<li><a href="https://some-tips.techidaily.com/act-now-to-avoid-automatic-account-purge-by-google-important-update-for-disused-profiles-zdnet/"><u>Act Now to Avoid Automatic Account Purge by Google - Important Update for Disused Profiles | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-amazons-fire-tv-cube-now-tailored-as-a-thin-client-for-businesses-insights-from-zdnet/"><u>The Evolution of Amazon's Fire TV Cube: Now Tailored as a Thin Client for Businesses - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-public-sector-welcomes-atandt-and-ibms-latest-tech-partnership-for-enhanced-innovation-labs-zdnet/"><u>The Public Sector Welcomes AT&T & IBM's Latest Tech Partnership for Enhanced Innovation Labs - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leading-cloud-certifications-curated-by-zdnet/"><u>The Ultimate Guide to Leading Cloud Certifications – Curated by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-tricks-for-optimal-nintendo-switch-play/"><u>Top 9 Tricks for Optimal Nintendo Switch Play</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-data-into-actionable-insights-master-the-journey-from-edge-to-cloud-with-industry-expertise/"><u>Transform Data Into Actionable Insights: Master the Journey From Edge to Cloud with Industry Expertise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-recent-youtube-financial-policies-for-2024/"><u>Understanding Recent YouTube Financial Policies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unprecedented-loss-of-files-on-google-drive-raises-concern-among-millions-of-users/"><u>Unprecedented Loss of Files on Google Drive Raises Concern Among Millions of Users</u></a></li>
 </ul></div>
 

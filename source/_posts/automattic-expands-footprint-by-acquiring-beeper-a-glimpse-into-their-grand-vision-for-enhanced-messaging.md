@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2025-02-11T03:25:13.780Z
-updated: 2025-02-14T21:19:05.546Z
+date: 2025-03-01T17:32:40.731Z
+updated: 2025-03-04T16:21:06.977Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
 
@@ -62,10 +58,6 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The obvious necessity of a VPN
 
 So, if we agree that a killer app for XR in 2024 is travel computing, then a VPN is an obvious necessity. If you're unaware of the benefits of a VPN, here's a [full explainer](https://www.zdnet.com/article/what-is-a-vpn-and-how-does-it-work/).
@@ -79,10 +71,6 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 **Also: [How to order Apple Vision Pro: Tips, tricks, and my secret to a good face scan](https://www.zdnet.com/article/how-to-order-apple-vision-pro-tips-tricks-and-my-secret-to-a-good-face-scan/)**
 
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
 
@@ -107,10 +95,6 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Give it some time
 
@@ -161,19 +145,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-delving-into-youtubes-complex-calculation-of-viewer-stats/"><u>[New] 2024 Approved Delving Into YouTube's Complex Calculation of Viewer Stats</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-deciphering-no-snaps-possible-blocking/"><u>[New] In 2024, Deciphering No Snaps, Possible Blocking</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[New] Visual Harmony on Screen Mastering Zoom's Edge Magic for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-upside-exploring-asmrs-advantages/"><u>[Updated] Unlocking the Upside Exploring ASMR's Advantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-gaming-top-7-mmos-on-the-go/"><u>Dive Into Gaming: Top 7 MMOs on the Go</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-take-on-iphone-15-top-reasons-it-excels-for-power-users-a-deep-dive-by-zdnet/"><u>Expert Take on iPhone 15: Top Reasons It Excels for Power Users - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-11-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 11 Pro+</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-selection-childrens-drone-choices/"><u>In 2024, Ultimate Selection Children's Drone Choices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722885724908-join-forces-with-a-companion-for-ultimate-pokemon-catching-success/"><u>Join Forces with a Companion for Ultimate Pokémon Catching Success</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/reviving-your-vanished-photos-with-ios-175-insights-from-apple-and-practical-advice-for-iphone-owners-zdnet/"><u>Reviving Your Vanished Photos with iOS 17.5 - Insights From Apple and Practical Advice for iPhone Owners | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-magsafe-charger-sleek-design-meets-rapid-power-up-discover-the-future-of-tech-with-brand-name/"><u>Revolutionary MagSafe Charger: Sleek Design Meets Rapid Power-Up! - Discover the Future of Tech with [Brand Name]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-apple-discounts-and-promotions-in-july-2024-iphone-savings-exclusive-apple-watch-offers-ipad-bargains-etc-zdnets-guide/"><u>Top Apple Discounts & Promotions in July 2024: IPhone Savings, Exclusive Apple Watch Offers, iPad Bargains, Etc. - ZDNet's Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbeatable-price-on-apple-watch-series-student/"><u>Unbeatable Price on Apple Watch Series # Student</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-freenoweb-cam-app-assessment-and-comparison-guide/"><u>[New] 2024 Approved FreenoWeb Cam App Assessment & Comparison Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphones-viewpoint-vista-selecting-superior-shots-for-images/"><u>[New] IPhone's Viewpoint Vista Selecting Superior Shots for Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-apps-for-instagram-strategy-mastery-and-expansion/"><u>[Updated] Top Apps for Instagram Strategy Mastery and Expansion</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-art-of-visual-task-management-convert-google-tasks-to-kanban-boards-with-ease-on-tasksboard-insights-by-zdnet/"><u>Master the Art of Visual Task Management: Convert Google Tasks to Kanban Boards With Ease on TasksBoard | Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-home-office-efficiency-a-guide-to-network-optimization-for-seamless-remote-working-and-learning-zdnet/"><u>Maximizing Home Office Efficiency: A Guide to Network Optimization for Seamless Remote Working and Learning | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-new-horizons-in-tech-professions-through-cloud-innovation-explored-on-zdnet/"><u>Navigating New Horizons in Tech Professions Through Cloud Innovation | Explored on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reinstating-deleted-items-in-google-drive-for-pc-step-by-step-strategies-unveiled/"><u>Reinstating Deleted Items in Google Drive for PC: Step-by-Step Strategies Unveiled</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-ps5-exclusives-revealed/"><u>Ultimate Selection of PS5 Exclusives Revealed</u></a></li>
 </ul></div>
 

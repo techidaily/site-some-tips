@@ -1,7 +1,7 @@
 ---
 title: "1. Top 5 Critical Improvements for Android's Next Leap Against iOS Dominance: Insights From Tech Experts"
-date: 2025-02-09T21:43:29.049Z
-updated: 2025-02-15T04:04:44.196Z
+date: 2025-02-25T16:42:13.828Z
+updated: 2025-03-04T17:53:52.797Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,15 +110,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-adding-gifs-to-instagram-posts-4-easy-steps-for-2024/"><u>[Updated] The Art of Adding GIFs to Instagram Posts (4 Easy Steps) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-crafting-cinematic-audio-in-inshot-videos/"><u>2024 Approved Crafting Cinematic Audio in InShot Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-methods-for-reducing-jello-like-video-stabilization-effects/"><u>2024 Approved Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>2024 Approved Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-apple-watchs-battery-performance-top-8-settings-tweaks-revealed/"><u>Boost Your Apple Watch's Battery Performance: Top 8 Settings Tweaks Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-your-money-why-snagging-an-early-discount-on-apples-elusive-ipad-pro-is-a-smart-move-pre-prime-day-explored/"><u>Maximizing Your Money: Why Snagging an Early Discount on Apple's Elusive iPad Pro Is a Smart Move Pre-Prime Day Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavis-mp3-conversion-tool-fast-free-and-user-friendly-for-seamless-audio-format-changes/"><u>Movavi's MP3 Conversion Tool - Fast, Free & User-Friendly for Seamless Audio Format Changes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/presidents-holiday-blowout-score-200-discount-on-latest-macbook-pro-with-powerful-m3-pro-chip/"><u>President's Holiday Blowout: Score $200 Discount on Latest MacBook Pro with Powerful M3 Pro Chip</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-apple-iphone-12-assessment-a-step-up-from-previous-models/"><u>Top Rated Apple iPhone 12 Assessment: A Step-Up From Previous Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-magsafe-accessories-comprehensive-testing-and-reviews-by-experts-techradar/"><u>Top-Rated MagSafe Accessories : Comprehensive Testing & Reviews by Experts | TechRadar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>[New] Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-timing-analysis-of-a-20mb-film/"><u>[New] Timing Analysis of a 20MB Film</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-watch-over-instagrams-friendship-shifts-for-2024/"><u>[New] Watch Over Instagram's Friendship Shifts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brush-up-your-skills-the-definitive-list-of-top-10-drawing-apps-for-android/"><u>[Updated] Brush Up Your Skills The Definitive List of Top 10 Drawing Apps for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-look-back-at-programming-languages-evolution-since-2016-insights-and-predictions-for-future-popularity-bytehacks-weekly/"><u>A Look Back at Programming Languages' Evolution Since 2016 - Insights and Predictions for Future Popularity | ByteHacks Weekly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-developer-delight-exclusive-complimentary-ai-enhancement-elevates-your-coding-arsenal-zdnet-insights/"><u>Apple Developer Delight: Exclusive Complimentary AI Enhancement Elevates Your Coding Arsenal - ZDNet Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-errors-manage-deps-for-virtualbox-on-windows/"><u>Avoid Errors: Manage Deps for VirtualBox on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-ai-sector-highlights-critical-need-for-enhanced-transparency-zdnet-insights/"><u>Emerging AI Sector Highlights Critical Need for Enhanced Transparency | ZDNet Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-spark-20-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno Spark 20</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insta360-x2-perfect-for-snorkelers-and-divers-on-escapades/"><u>Insta360 X2: Perfect for Snorkelers and Divers on Escapades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intels-ai-visionary-wei-li-speaks-on-democratizing-high-performance-artificial-intelligence-for-everyday-users-zdnet/"><u>Intel's AI Visionary Wei Li Speaks on Democratizing High-Performance Artificial Intelligence for Everyday Users | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-controversy-the-journey-towards-establishing-standards-for-open-source-ai-zdnet-insights/"><u>Navigating the Controversy: The Journey Towards Establishing Standards for Open Source AI | ZDNet Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/recommendations-to-overcome-live-breakdowns-fb-for-2024/"><u>Recommendations to Overcome Live Breakdowns (FB) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-limitations-of-artificers-craftsmanship-in-code-development-perspectives-by-zdnet/"><u>The Limitations of Artificer's Craftsmanship in Code Development - Perspectives by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-list-of-instagram-grid-making-software-for-2024/"><u>The Ultimate List of Instagram Grid Making Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-online-computer-science-programs-a-comprehensive-ranking-by-zdnet/"><u>Top 10 Online Computer Science Programs : A Comprehensive Ranking by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-adjustments-in-the-data-scienceai-industry-according-to-zdnet-analysis/"><u>Understanding Adjustments in the Data Science/AI Industry According to ZDNet Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-future-of-software-development-enhancing-efficiency-through-patience-and-technology-with-github-copilot-zdnet/"><u>Unveiling the Future of Software Development: Enhancing Efficiency Through Patience and Technology with GitHub Copilot - ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-does-my-car-battery-consistently-lose-charge-uncovering-the-top-six-reasons-behind-this-issue/"><u>Why Does My Car Battery Consistently Lose Charge? Uncovering the Top Six Reasons Behind This Issue</u></a></li>
 </ul></div>
 

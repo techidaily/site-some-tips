@@ -1,7 +1,7 @@
 ---
 title: Introduces Groundbreaking Satellite SOS Messaging for Enhanced Safety in Android Devices | Insights From ZDNet
-date: 2025-02-10T07:24:49.746Z
-updated: 2025-02-14T16:03:49.720Z
+date: 2025-03-03T17:27:52.125Z
+updated: 2025-03-04T17:10:58.766Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,20 +110,16 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-hush-the-buzz-decluttering-recordings-in-audacity/"><u>[New] Hush the Buzz Decluttering Recordings in Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/20-anker-charger-overcoming-the-common-pitfalls-of-portable-batteries-insights/"><u>$20 Anker Charger: Overcoming the Common Pitfalls of Portable Batteries - Insights</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-sending-past-moments-via-snapchat-camera-roll-guide/"><u>2024 Approved Sending Past Moments via Snapchat Camera Roll Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/airpods-pro-upgrade-to-version-2-a-breakthrough-in-audio-tech-worth-the-hype/"><u>AirPods Pro Upgrade to Version 2: A Breakthrough in Audio Tech Worth the Hype?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016869686-audio-disruption-diagnosis-and-fix-for-windows-710-users-say-goodbye-to-sound-issues/"><u>Audio Disruption Diagnosis & Fix for Windows 7/10 Users - Say Goodbye to Sound Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-your-next-apple-laptop-macbook-air-with-m3-chip-vs-m2-a-comprehensive-review-by-zdnet/"><u>Choosing Your Next Apple Laptop: MacBook Air with M3 Chip Vs. M2 - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/deciding-on-the-perfect-apple-device-compare-macbook-pro-vs-macbook-air-features-and-uses-with-our-in-depth-analysis-techradar/"><u>Deciding on the Perfect Apple Device? Compare MacBook Pro Vs. MacBook Air Features & Uses with Our In-Depth Analysis | TechRadar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/demystifying-gimps-capabilities-an-exhaustive-analysis-of-this-multiplatform-free-graphical-editor/"><u>Demystifying GIMP's Capabilities: An Exhaustive Analysis of This Multiplatform, Free Graphical Editor</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-tutorial-for-creating-delayed-videos-on-snapchat/"><u>In 2024, The Ultimate Tutorial for Creating Delayed Videos on Snapchat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/integrating-slack-and-filmora-for-smooth-meeting-operations/"><u>Integrating Slack & Filmora for Smooth Meeting Operations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/resolving-the-odd-blip-ios-1751-corrects-old-photo-reappearance-error-detailed-analysis-zdnet/"><u>Resolving the Odd Blip: IOS 17.5.1 Corrects Old Photo Reappearance Error, Detailed Analysis | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-insights-from-zdnet/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-unveils-the-future-in-your-pocket-why-the-new-iphone-16s-cutting-edge-features-demand-an-immediate-upgrade/"><u>ZDNet Unveils the Future in Your Pocket: Why the New iPhone 16'S Cutting-Edge Features Demand an Immediate Upgrade!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-composing-captivating-cinematic-synopses/"><u>[New] Composing Captivating Cinematic Synopses</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscover-variety-50-complimentary-youtube-banners-available-in-2024/"><u>[New] Discover Variety – 50 Complimentary YouTube Banners Available, In 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-steps-for-crafting-visually-stimulating-fb-ad-content-for-2024/"><u>[New] Steps for Crafting Visually Stimulating FB Ad Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-instagrams-music-ownership-standards/"><u>2024 Approved Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-guide-obtain-preview-rights-to-apples-vision-pro-applications-with-testflight-insider-tips-revealed/"><u>Exclusive Guide: Obtain Preview Rights to Apple’s Vision Pro Applications with TestFlight – Insider Tips Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-sentience-in-googles-lamda-how-does-it-compare-to-standard-conversational-agents/"><u>Exploring Sentience in Google's LaMDA: How Does It Compare to Standard Conversational Agents?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-strategies-for-success-in-online-content-creation/"><u>In 2024, Strategies for Success in Online Content Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-savings-with-the-apple-m3-macbook-air-grab-it-now-for-250-off-in-octobers-exclusive-amazon-deal/"><u>Score Savings with the Apple M3 MacBook Air: Grab It Now for $250 Off in October's Exclusive Amazon Deal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-leading-cybersecurity-certs-revealed-on-zdnet/"><u>The Ultimate List of Leading Cybersecurity Certs Revealed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-jobs-with-intelligence-unveiling-ai-agents-as-the-next-wave-in-work-evolution-zdnet-insights/"><u>Transforming Jobs with Intelligence: Unveiling AI Agents as the Next Wave in Work Evolution | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-ai-upgrade-for-apple-programmers-free-tools-transforming-code-creation-in-depth-analysis-by-zdnet/"><u>Unveiling the Ultimate AI Upgrade for Apple Programmers: Free Tools Transforming Code Creation - In-Depth Analysis by ZDNET</u></a></li>
 </ul></div>
 

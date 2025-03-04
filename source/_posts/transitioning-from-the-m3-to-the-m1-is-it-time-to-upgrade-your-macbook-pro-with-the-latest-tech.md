@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech"
-date: 2025-02-11T16:00:01.456Z
-updated: 2025-02-14T17:45:32.998Z
+date: 2025-02-25T17:09:32.959Z
+updated: 2025-03-04T16:10:27.920Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,18 +134,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-digital-filmmaking-implementing-callout-lines-in-edits/"><u>[New] In 2024, Digital Filmmaking Implementing Callout Lines in Edits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-harnessing-the-power-of-software-for-seamless-vimeo-video-downloads/"><u>[New] In 2024, Harnessing the Power of Software for Seamless Vimeo Video Downloads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-video-spin-vlcs-rotation-guide/"><u>[Updated] 2024 Approved Mastering Video Spin VLC's Rotation Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-twitch-content-integration-boosting-engagement-with-fb-sharing-for-2024/"><u>[Updated] Twitch Content Integration Boosting Engagement with FB Sharing for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-top-7-unique-android-apps-for-effortless-ad-free-use/"><u>2024 Approved Top 7 Unique Android Apps for Effortless, Ad-Free Use</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/corporate-evaluation-microsoft-surface-pro-8-a-comprehensive-review/"><u>Corporate Evaluation: Microsoft Surface Pro 8 - A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-california-drivers-can-securely-link-their-ids-to-apple-pay-and-google-wallet-a-step-by-step-guide/"><u>How California Drivers Can Securely Link Their IDs to Apple Pay and Google Wallet - A Step-by-Step Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/m3-or-m1-choosing-the-right-apple-laptop-a-comprehensive-review/"><u>M3 or M1: Choosing the Right Apple Laptop? A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-best-portable-tablets-comprehensive-expert-testing/"><u>The Ultimate Guide to the Best Portable Tablets : Comprehensive Expert Testing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-must-see-tech-enhancements-of-iphone-16-why-now-is-the-perfect-time-for-an-upgrade-discover-with-zdnet/"><u>Unveiling the Must-See Tech Enhancements of iPhone 16: Why Now Is the Perfect Time for an Upgrade | Discover with ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-precise-time-indicators-in-youtubes/"><u>[New] Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[Updated] 2024 Approved 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-advanced-title-design-strategies-in-after-effects/"><u>[Updated] In 2024, Advanced Title Design Strategies in After Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-images-erase-backdrops-with-canva-skills/"><u>[Updated] Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-journey-mastery-10-leading-apps-to-up-your-youtube-short-game-for-2024/"><u>[Updated] Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-gap-the-role-of-tech-innovators-in-merging-ai-with-modern-commerce-insights-from-zdnet/"><u>Bridging the Gap: The Role of Tech Innovators in Merging AI with Modern Commerce - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-takeaways-for-coders-unpacking-the-most-important-news-from-microsofts-build-conference-2024-zdnet-insights/"><u>Essential Takeaways for Coders: Unpacking the Most Important News From Microsoft's Build Conference, 2024 | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-leveraging-low-code-platforms-enhances-employer-branding-tips-from-zdnet-experts/"><u>How Leveraging Low-Code Platforms Enhances Employer Branding - Tips From ZDNet Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-note-30-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-the-importance-of-ai-and-rust-in-modernizing-the-linux-kernel-tech-insights/"><u>Linus Torvalds Discusses the Importance of AI & Rust in Modernizing the Linux Kernel | Tech Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorolas-moto-g-play-reviewed-extensive-battery-life-partners-with-competent-handset-speed/"><u>Motorola's Moto G Play Reviewed: Extensive Battery Life Partners with Competent Handset Speed</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-troubles-toshiba-laptop-key-response-problems-corrected/"><u>No More Troubles: Toshiba Laptop Key Response Problems Corrected</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/time-trends-hourly-top-10-youtube-pickers-for-2024/"><u>Real-Time Trends Hourly Top 10 YouTube Pickers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rethinking-growth-trends-in-data-science-and-ai-sectors-analysis-by-zdnet/"><u>Rethinking Growth Trends in Data Science & AI Sectors | Analysis by ZDnet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/small-compact/"><u>Small - Compact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-here-discover-how-ai-agents-will-revolutionize-your-job-for-good-expert-analysis-by-zdnet/"><u>The Future Is Here: Discover How AI Agents Will Revolutionize Your Job for Good | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-is-now-red-hats-artificial-intelligence-strategy-to-simplify-sysadmin-tasks/"><u>The Future Is Now: Red Hat's Artificial Intelligence Strategy to Simplify Sysadmin Tasks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-premium-raspberry-pi-sets-of-2023-ultimate-beginner-and-advanced-models-revealed-by-zdnet/"><u>Top 5 Premium Raspberry Pi Sets of 2023 - Ultimate Beginner & Advanced Models Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-top-5-methods-to-try-out-gpt-4-at-no-cost/"><u>Unlocking AI: Top 5 Methods to Try Out GPT-4 at No Cost</u></a></li>
 </ul></div>
 

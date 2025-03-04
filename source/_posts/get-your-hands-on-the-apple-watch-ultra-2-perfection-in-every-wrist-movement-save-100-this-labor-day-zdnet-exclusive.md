@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on the Apple Watch Ultra 2: Perfection in Every Wrist Movement - Save $100 This Labor Day! [ZDNet Exclusive]"
-date: 2025-02-09T05:46:37.298Z
-updated: 2025-02-15T03:15:35.371Z
+date: 2025-02-25T16:51:07.165Z
+updated: 2025-03-04T16:59:06.487Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ Matthew Miller/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 * The [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVJ7BRX%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceb1c965c-0a66-4acd-a25f-69a3e98a3625%7Cdtp&dtb=1) is on sale ahead of Labor Day for $699 on Amazon for the Blue Alpine Loop, Gray Trail Loop, and Orange Ocean Band configurations.
@@ -31,10 +27,6 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -96,10 +88,6 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceb1c965c-0a66-4acd-a25f-69a3e98a3625%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -109,10 +97,6 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceb1c965c-0a66-4acd-a25f-69a3e98a3625%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -148,17 +132,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-engaging-with-srt-soundfiles-on-pc-and-mac/"><u>[New] 2024 Approved Engaging with SRT Soundfiles on PC & Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-distraction-free-video-conferencing-with-skype-for-2024/"><u>[New] Achieving Distraction-Free Video Conferencing with Skype for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cold-climates-hot-wins-beijing-highlights/"><u>[Updated] In 2024, Cold Climates, Hot Wins Beijing Highlights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pros-and-experts-choice-discover-the-finest-12-stock-photography-sites/"><u>[Updated] In 2024, Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-z-flip-5-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy Z Flip 5 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-tutorial-efficiently-returning-an-apple-vision-pro-purchase/"><u>Comprehensive Tutorial: Efficiently Returning an Apple Vision Pro Purchase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-myth-of-budget-friendly-vision-pro-glasses-by-apple-a-closer-look-at-the-speculation-storm/"><u>The Myth of Budget-Friendly Vision Pro Glasses by Apple – A Closer Look at the Speculation Storm</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-science-of-effective-spotify-promotions/"><u>The Science of Effective Spotify Promotions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/three-essential-actions-apple-needs-to-revitalize-the-visual-experience-with-to-rescue-the-vision-pro/"><u>Three Essential Actions Apple Needs to Revitalize the Visual Experience with To Rescue the Vision Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-fitness-routine-with-meta-quests-supernatural-app-the-ultimate-virtual-reality-exercise-experience/"><u>Transform Your Fitness Routine with Meta Quest's Supernatural App - The Ultimate Virtual Reality Exercise Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-genius-of-apple-vision-pro-top-10-hidden-facts-explored-by-zdnet/"><u>Unveiling the Genius of Apple Vision Pro: Top 10 Hidden Facts Explored by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-to-a-new-level-of-productivity-with-the-premium-lg-34-inch-ultragear-screen-at-an-unbeatable-price-of-499/"><u>Upgrade to a New Level of Productivity With the Premium LG 34-Inch UltraGear Screen at an Unbeatable Price of $499!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-amplifying-image-size-unchanged-crispness/"><u>[Updated] Amplifying Image Size, Unchanged Crispness</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screen-to-streamer-effortlessly-reviewed/"><u>[Updated] In 2024, Screen to Streamer, Effortlessly Reviewed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-innovative-fading-approaches-with-ableton/"><u>2024 Approved Innovative Fading Approaches with Ableton</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y100i-power-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y100i Power 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibabas-strategic-transition-ceo-shifts-attention-to-expanding-cloud-services-leadership-roles-evolve/"><u>Alibaba's Strategic Transition: CEO Shifts Attention to Expanding Cloud Services, Leadership Roles Evolve</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-ipvanish-vpn-evaluation-extensive-feature-set-explored-insights-from-zdnet/"><u>Comprehensive IPVanish VPN Evaluation: Extensive Feature Set Explored - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-features-in-red-hat-openstack-platform-release-17-tech-insights/"><u>Discover the New Features in Red Hat OpenStack Platform Release 17 | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/field-review-by-engineers/"><u>Field Review by Engineers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-drive-recent-backup-glitch-thousands-report-missing-months-long-data/"><u>Google Drive Recent Backup Glitch: Thousands Report Missing Months-Long Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-v29-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo V29 Phone?</u></a></li>
+<li><a href="https://win-web.techidaily.com/in-depth-analysis-the-differences-between-vmware-nsx-v-and-nsx-t-technologies/"><u>In-Depth Analysis: The Differences Between VMware NSX-V and NSX-T Technologies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovate-swiftly-executives-challenge-tech-colleagues-on-next-upgrade-with-zdnet/"><u>Innovate Swiftly: Executives Challenge Tech Colleagues on Next Upgrade with ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-insights-ultimate-guide-to-understand-ig-data-for-2024/"><u>Instagram Insights Ultimate Guide to Understand IG Data for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-awss-newest-offering-the-complimentary-sagemaker-studio-lab-a-perfect-start-for-novice-machine-learning-enthusiasts/"><u>Introducing AWS's Newest Offering: The Complimentary SageMaker Studio Lab - A Perfect Start for Novice Machine Learning Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-canonicals-minimal-intervention-community-driven-cloud-offering-a-deep-dive-by-zdnet/"><u>Introducing Canonical's Minimal Intervention, Community-Driven Cloud Offering: A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/migrating-to-the-edge-evaluating-preparedness-in-enterprise-environments-for-next-gen-tech-adoption/"><u>Migrating to the Edge - Evaluating Preparedness in Enterprise Environments for Next-Gen Tech Adoption</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-your-malfunctioning-gadgets-a-guide-by-yl-computing/"><u>Troubleshooting Your Malfunctioning Gadgets: A Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-new-tech-trends-the-expertise-from-toms-hardware/"><u>Uncovering New Tech Trends: The Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-old-games-save-in-picture-space-a-w11-guide/"><u>Unleash Old Games, Save in Picture Space: A W11 Guide</u></a></li>
 </ul></div>
 

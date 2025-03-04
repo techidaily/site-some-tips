@@ -1,7 +1,7 @@
 ---
 title: The Definitive History of the 2Cuationary Collision Between CrowdStrike & Windows Meltdown , as Covered by ZDNET
-date: 2025-02-10T17:09:10.349Z
-updated: 2025-02-15T00:02:59.916Z
+date: 2025-03-03T16:59:11.865Z
+updated: 2025-03-04T17:33:12.065Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -53,10 +49,6 @@ Three additional instances of the IPC Template Type were deployed between April 
 Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft's BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.
 
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## We've seen this movie before
 
@@ -94,10 +86,6 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## CrowdStrike's QA failed
 
 Surprisingly, this isn't CrowdStrike's first faulty Falcon sensor update this year.
@@ -123,10 +111,6 @@ Given recent events, some of those customers might be wondering whether that "br
 As part of its initial response, CrowdStrike says it plans to take additional measures to improve "software resiliency and testing." More importantly, it plans to implement a "staggered deployment strategy ... in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment." The company also committed to provide customers with "greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed."
 
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
 
@@ -176,22 +160,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discovering-the-ultimate-10-vr-video-experience-on-youtube/"><u>[New] In 2024, Discovering the Ultimate 10-VR Video Experience on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-year-of-unboxing-the-worlds-hottest-yt-channels-listed/"><u>[New] In 2024, Year of Unboxing The World’s Hottest YT Channels Listed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x8b-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X8b to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-acquires-mira-startup-to-launch-enterprise-focused-augmented-reality-headsets-tech-news/"><u>Apple Acquires Mira Startup To Launch Enterprise-Focused Augmented Reality Headsets - Tech News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-vision-pro-and-marital-harmony-insights-from-a-unique-qanda-session-with-a-sales-associate-tech-reviews/"><u>Apple Vision Pro and Marital Harmony: Insights From a Unique Q&A Session with a Sales Associate | Tech Reviews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparing-free-video-powerhouses-who-will-you-choose-vlc-or-mpc-for-2024/"><u>Comparing Free Video Powerhouses Who Will You Choose, VLC or MPC for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-guide-reviving-your-iphone-without-needing-a-previous-backup-stellars-expert-tips/"><u>Complete Guide: Reviving Your iPhone Without Needing a Previous Backup - Stellar's Expert Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-windows-executable-and-linker-format-pe/"><u>Demystifying Windows Executable & Linker Format (PE)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-visionary-leap-the-joy-of-embracing-innovative-goggles-a-deep-dive-zdnet/"><u>Discover Apple's Visionary Leap: The Joy of Embracing Innovative Goggles - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-text-manipulation-using-hand-gestures-on-the-apple-vision-pro-insights-by-zdnet/"><u>Effortless Text Manipulation Using Hand Gestures on the Apple Vision Pro - Insights by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-server-not-available-error-steams-content-link-issue/"><u>Fixing Server Not Available Error: Steam's Content Link Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-stuck-loading-screens-for-mgs5-cold-war-players-struggle-with-pc-and-console-crashes/"><u>Fixing Stuck Loading Screens for MGS5: Cold War Players Struggle with PC & Console Crashes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-it-time-to-switch-analyzing-performance-differences-between-m3-and-m1-macbook-pro-models-zdnet/"><u>Is It Time to Switch? Analyzing Performance Differences Between M3 & M1 MacBook Pro Models | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-desired-features-for-the-next-visionos-update-hopes-for-apples-wwdc-reveal/"><u>Top 10 Desired Features for the Next VisionOS Update - Hopes for Apple's WWDC Reveal</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-ar-headsets-expert-picks-from-zdnet/"><u>Top Rated AR Headsets : Expert Picks From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncovering-the-secrets-inside-the-essential-findings-from-ifixits-examination-of-apple-vision-pro-on-zdnet/"><u>Uncovering the Secrets Inside: The Essential Findings From iFixit's Examination of Apple Vision Pro on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zenith-of-virtual-exploration-productivity-boosting-xr-glasses-with-triple-upgrades-tech-review-by-zdnet/"><u>Zenith of Virtual Exploration: Productivity-Boosting XR Glasses with Triple Upgrades | Tech Review by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-basic-to-exceptional-a-step-by-step-thumbnail-guide/"><u>[New] In 2024, From Basic to Exceptional A Step-by-Step Thumbnail Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ranking-10-must-see-history-youtube-channels-for-learners/"><u>[Updated] Ranking 10 Must-See History YouTube Channels for Learners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shadows-and-highlights-for-text-depth-in-illustrator/"><u>[Updated] Shadows & Highlights for Text Depth in Illustrator</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-free-studio-hd-screen-grab-audit/"><u>2024 Approved Free Studio HD Screen Grab Audit</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>2024 Approved Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cerebras-introduces-new-pay-per-use-model-ai-cloud-collaboration-with-cirrascale-and-jasper-zdnet-insights/"><u>Cerebras Introduces New Pay-Per-Use Model AI Cloud Collaboration with Cirrascale and Jasper - ZDNet Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/educators-guide-to-ai-the-8-key-advantages-of-accepting-artificial-intelligence-in-schools/"><u>Educators' Guide to AI: The 8 Key Advantages of Accepting Artificial Intelligence in Schools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-container-capabilities-in-red-hat-enterprise-linux-93-a-comprehensive-update-from-zdnet/"><u>Enhanced Container Capabilities in Red Hat Enterprise Linux 9.3: A Comprehensive Update From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-huaweis-innovative-applications-of-5g-transforming-healthcare-and-the-maritime-industry-insights-from-zdnet/"><u>Exploring Huawei's Innovative Applications of 5G: Transforming Healthcare and the Maritime Industry - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gemini-ai-by-google-cloud-now-enhances-capabilities-with-stack-overflows-comprehensive-database-what-you-need-to-know-zdnet/"><u>Gemini AI by Google Cloud Now Enhances Capabilities With Stack Overflow's Comprehensive Database: What You Need to Know [ZDNet]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-aws-bolstered-industry-engagement-through-latest-announcements-at-reinvent-202n-analysis-by-zdnet/"><u>How AWS Bolstered Industry Engagement Through Latest Announcements At Re:Invent 202N – Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/malaysia-set-to-boost-tech-sector-with-2-billion-google-datacenter-and-cloud-expansion-project/"><u>Malaysia Set to Boost Tech Sector with $2 Billion Google Datacenter & Cloud Expansion Project</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-workflow-with-notion-insights-from-a-comprehensive-zdnet-review-and-how-you-can-benefit-too/"><u>Master Your Workflow with Notion: Insights From a Comprehensive ZDNet Review and How You Can Benefit Too</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-and-dominate-with-youtube-studios-advanced-editing-features/"><u>Navigate and Dominate with YouTube Studio's Advanced Editing Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-12r-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus 12R</u></a></li>
 </ul></div>
 

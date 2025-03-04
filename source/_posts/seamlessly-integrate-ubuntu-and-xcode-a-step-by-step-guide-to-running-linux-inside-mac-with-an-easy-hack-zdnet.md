@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate Ubuntu & Xcode: A Step-by-Step Guide to Running Linux Inside Mac with an Easy Hack | ZDNet"
-date: 2025-02-13T05:01:07.256Z
-updated: 2025-02-14T17:56:48.543Z
+date: 2025-02-26T16:02:09.870Z
+updated: 2025-03-04T16:28:13.862Z
 tags:
   - apple
 categories:
@@ -62,10 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -74,10 +70,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -85,10 +77,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -104,10 +92,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -122,10 +106,6 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -197,24 +177,16 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-bright-future-for-your-android-videos-a-comprehensive-plan/"><u>[New] Bright Future for Your Android Videos - A Comprehensive Plan</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iving-deep-into-lyric-video-designs-powered-by-lyric-video-maker/"><u>[New] Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028806779-6/"><u>「最高の動画圧縮ツールたち - 6つの編集アプリとその利点」</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickening-your-live-feed-on-periscope-platform/"><u>2024 Approved Quickening Your Live Feed on Periscope Platform</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revitalize-your-photos-bringing-back-photo-viewer-in-win-11/"><u>2024 Approved Revitalize Your Photos Bringing Back Photo Viewer in Win 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-video-editing-on-mac-create-stunning-movies/"><u>A Beginners Guide to Video Editing on Mac Create Stunning Movies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-surprise-hit-the-understated-triumph-of-a-new-349-ipad-revealed-at-let-loose-event-digital-world-news/"><u>Apple’s Surprise Hit: The Understated Triumph of a New $349 iPad Revealed at 'Let Loose' Event | Digital World News</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-the-right-device-ipad-pro-or-macbook-air-a-comprehensive-guide/"><u>Choosing the Right Device: IPad Pro or MacBook Air? A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/impending-password-sharing-restrictions-on-disneyplus-what-you-need-to-know/"><u>Impending Password Sharing Restrictions on Disney+: What You Need To Know</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-open-access-mindful-harmonies/"><u>In 2024, Open Access Mindful Harmonies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-15-guide-easily-terminate-apple-app-store-charges-via-iphone-tips-from-zdnet/"><u>IOS 15 Guide: Easily Terminate Apple App Store Charges via iPhone - Tips From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipad-upgrades-on-the-horizon-march-or-april-2024-launch-dates-anticipated-for-latest-version-tech-news-by-zdnet/"><u>IPad Upgrades on the Horizon? March or April 2024 Launch Dates Anticipated for Latest Version | Tech News by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-ipad-insider-tips-and-key-settings-every-apple-user-should-understand-explore/"><u>Master Your iPad: Insider Tips & Key Settings Every Apple User Should Understand Explore</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-your-discord-experience-the-ultimate-guide-to-adding-bots/"><u>Maximizing Your Discord Experience: The Ultimate Guide to Adding Bots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-kid-friendly-mobile-devices-a-comprehensive-guide/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-savings-at-best-buy-exclusive-offers-and-discounts-in-june-2024-spotted/"><u>Top Savings at Best Buy: Exclusive Offers & Discounts in June 2024 - Spotted</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-kid-friendly-tablets-as-endorsed-by-parents-techradar/"><u>Top-Rated Kid-Friendly Tablets as Endorsed by Parents | TechRadar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-the-latest-iphone-16s-unique-features-highlighted-by-zdnet-make-now-the-perfect-time-to-upgrade/"><u>Why the Latest iPhone 16'S Unique Features, Highlighted by ZDNet, Make Now the Perfect Time to Upgrade!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-become-a-lunapic-wizard-top-editorial-techniques/"><u>[Updated] In 2024, Become a LunaPic Wizard Top Editorial Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-thorough-grasp-of-the-relationship-between-soil-density-load-application-and-settlement-is-vital-for-designing-long-lasting-foundations/"><u>A Thorough Grasp of the Relationship Between Soil Density, Load Application, and Settlement Is Vital for Designing Long-Lasting Foundations.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ciq-emerges-as-pillar-for-rocky-linux-uniting-veterans-in-open-source-innovation-featured-on-zdnet/"><u>CIQ Emerges as Pillar for Rocky Linux, Uniting Veterans in Open Source Innovation | Featured on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-gpts-capability-to-manage-smart-homes/"><u>Discovering GPT's Capability to Manage Smart Homes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-restoration-of-windows-photo-viewer-steps-explained/"><u>Effortless Restoration of Windows Photo Viewer - Steps Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-digital-safety-activating-mfa-for-robust-protection-insights-and-steps-by-zdnet/"><u>Enhance Digital Safety: Activating MFA for Robust Protection - Insights & Steps by ZDnet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-elite-cloud-services-aws-vs-microsoft-azure-vs-google-cloud-alongside-premier-hybrid-and-saas-offerings-insights-by-zdnet/"><u>Exploring Elite Cloud Services: AWS Vs. Microsoft Azure Vs. Google Cloud Alongside Premier Hybrid & SaaS Offerings - Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/personalizing-your-timepiece-tailoring-the-lock-screen-clock-on-android/"><u>Personalizing Your Timepiece: Tailoring the Lock Screen Clock on Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-solutions-resolving-your-sluggish-keyboard-issues/"><u>Quick & Simple Solutions: Resolving Your Sluggish Keyboard Issues</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-three-simplest-and-costless-audio-to-text-solutions-for-todays-world-step-by-step/"><u>Updated In 2024, The Three Simplest and Costless Audio-to-Text Solutions for Todays World (Step by Step)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/visual-revamp-and-incredible-performance-diving-into-the-world-of-the-new-imac-powered-by-m1-processor/"><u>Visual Revamp and Incredible Performance: Diving Into the World of the New iMac Powered by M1 Processor</u></a></li>
 </ul></div>
 

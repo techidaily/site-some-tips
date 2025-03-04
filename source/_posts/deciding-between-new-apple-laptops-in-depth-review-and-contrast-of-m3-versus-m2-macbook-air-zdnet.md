@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet"
-date: 2025-02-07T18:00:16.530Z
-updated: 2025-02-14T20:34:40.796Z
+date: 2025-02-25T17:05:31.523Z
+updated: 2025-03-04T17:16:12.495Z
 tags:
   - apple
 categories:
@@ -39,19 +39,11 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -128,10 +120,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -146,10 +134,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -161,10 +145,6 @@ Kerry Wan/ZDNET
 Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don't take for granted that fewer animations mean the iPhone 15 is more battery efficient than the Pro, but in a world where even sub-$200 phones have 120Hz displays, I really wish that Apple gave its $800 iPhone something smoother on the eyes.
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -204,21 +184,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlocking-high-quality-audio-interpretation-via-google/"><u>[New] 2024 Approved Unlocking High-Quality Audio Interpretation via Google</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-method-for-onoff-windows-11-hdr-feature/"><u>[Updated] Method for On/Off Windows 11 HDR Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/dive-into-comics-like-never-before-apple-vision-pro-opens-doors-to-the-marvel-world-on-may-30/"><u>Dive Into Comics Like Never Before – Apple Vision Pro Opens Doors to the Marvel World on May 30</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-guide-capturing-screenshots-and-recording-video-clips-on-iphones/"><u>Easy Guide: Capturing Screenshots and Recording Video Clips on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-ways-to-stay-connected-messaging-loved-ones-from-your-apple-watch/"><u>Effortless Ways to Stay Connected: Messaging Loved Ones From Your Apple Watch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-guide-how-to-get-your-new-ipad-up-and-running-perfectly-tips/"><u>Essential Guide: How To Get Your New iPad Up & Running Perfectly - Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-dialogue-with-the-release-of-tvos-18-elevate-your-apple-tvs-auditory-experience-news/"><u>Experience Enhanced Dialogue with the Release of TVOS 18 - Elevate Your Apple TV's Auditory Experience News</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-upgrade-your-content-presentation-with-top-tier-templates/"><u>In 2024, Upgrade Your Content Presentation with Top-Tier Templates</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2065481-9781785350085-live-in-the-moment-including-zen-and-the-art-of-healing/"><u>Live in the Moment, Including Zen and the Art of Healing | Free Book</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-play-8t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Play 8T</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-direct3d-issues-for-flawless-graphics-experience/"><u>Resolved Direct3D Issues for Flawless Graphics Experience</u></a></li>
-<li><a href="https://solve-news.techidaily.com/top-10-freeware-programme-fur-dvd-kopie-um-drm-zu-umgehen/"><u>Top 10 Freeware Programme Für DVD-Kopie, Um DRM Zu Umgehen</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-note-12-pro-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi Note 12 Pro 4G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-pc-brands-ranked-apple-dell-and-others-face-off-insights-from-zdnet/"><u>Top PC Brands Ranked: Apple, Dell & Others Face-Off - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-how-the-rarely-spotted-ipad-pro-bargains-lead-up-to-prime-day-insights/"><u>Unlocking the Secrets: How the Rarely-Spotted iPad Pro Bargains Lead Up to Prime Day - Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-online-podcast-recording/"><u>[Updated] 2024 Approved A Comprehensive Guide to Online Podcast Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>[Updated] 2024 Approved Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-forget-youtube-try-these-top-5-video-editor-options/"><u>[Updated] Forget Youtube? Try These Top 5 Video Editor Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-decluttering-linux-and-open-source-manuals-a-practical-guide-to-organized-knowledge-on-zdnet/"><u>1. Decluttering Linux & Open Source Manuals: A Practical Guide to Organized Knowledge on ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>2024 Approved Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-demand-surges-amongst-corporate-tech-purchasers-immediate-integration-imperative/"><u>AI Demand Surges Amongst Corporate Tech Purchasers - Immediate Integration Imperative!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combating-developer-burnout-innovative-strategies-from-leading-tech-firms-featured-on-zdnet/"><u>Combating Developer Burnout: Innovative Strategies From Leading Tech Firms Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162755876-online-games-under-siege-security-alert/"><u>Online Games Under Siege: Security Alert</u></a></li>
+<li><a href="https://some-tips.techidaily.com/organizing-chaos-a-comprehensive-guide-to-streamlining-linux-and-open-source-documentation/"><u>Organizing Chaos: A Comprehensive Guide to Streamlining Linux & Open Source Documentation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-future-of-home-entrance-a-complete-review-of-google-nest-hellos-cutting-edge-technology-for-safety-and-convenience/"><u>The Future of Home Entrance: A Complete Review of Google Nest Hello's Cutting-Edge Technology for Safety and Convenience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-microsoft-surface-shows-its-plugged-in-yet-wont-charge/"><u>What to Do When Your Microsoft Surface Shows It's Plugged In, Yet Won't Charge</u></a></li>
 </ul></div>
 

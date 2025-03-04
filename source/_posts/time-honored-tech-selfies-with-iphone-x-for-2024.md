@@ -1,7 +1,7 @@
 ---
 title: "\"Time-Honored Tech  Selfies with iPhone X for 2024\""
-date: 2024-08-15T10:13:19.262Z
-updated: 2024-08-16T10:13:19.262Z
+date: 2025-02-27T17:11:05.990Z
+updated: 2025-03-04T17:10:44.920Z
 tags: 
   - screen-recording
   - ai video
@@ -35,9 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -47,9 +44,6 @@ The quality of cameras on iPhones has been improving over the years, and Portrai
 However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 Image resource: 9to5mac
 
@@ -67,9 +61,6 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### For iPhone 8, 7 or older iPhones users
 
 #### FabFocus
@@ -89,9 +80,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 **Compatible with:** iOS 8.0 or later
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
@@ -112,24 +100,16 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 **Compatible with:** iOS 8.0 or later
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,10 +133,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-video-quality-in-obs/"><u>[New] In 2024, Mastering Video Quality in OBS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfecting-the-green-screen-essential-techniques/"><u>[New] Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>[Updated] 2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones-for-2024/"><u>[Updated] How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-revamping-apps-on-macos-with-ease-learn-the-dual-approaches-by-experts-at-zdnet/"><u>Guide to Revamping Apps on macOS with Ease – Learn the Dual Approaches by Experts at ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/latest-dj-mixes-released-in-july-explore-the-vibrant-world-of-video-pools/"><u>Latest DJ Mixes Released in July - Explore the Vibrant World of Video Pools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revamp-your-webex-experience-with-these-4-key-fixes-for-microphone-problems/"><u>Revamp Your WebEx Experience with These 4 Key Fixes for Microphone Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-common-issues-with-outlooks-spelling-correction-feature/"><u>Solving Common Issues with Outlook's Spelling Correction Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-watch-savings-the-ultimate-guide-to-the-best-promotions-in-july-2024-spotted/"><u>Top Apple Watch Savings: The Ultimate Guide to the Best Promotions in July 2024 - Spotted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16pro-protectors-of-2024-reviewed-by-tech-gurus/"><u>Top-Rated iPhone 16/Pro Protectors of 2024 Reviewed by Tech Gurus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-2024s-finest-magsafe-wallets-in-depth-analysis-and-expert-opinions-zdnet/"><u>Ultimate List of 2024'S Finest MagSafe Wallets: In-Depth Analysis and Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-1011mp4/"><u>Windows 10・11用：MP4ファイルで音を再生できない場合の原因と解決法</u></a></li>
+</ul></div>
 

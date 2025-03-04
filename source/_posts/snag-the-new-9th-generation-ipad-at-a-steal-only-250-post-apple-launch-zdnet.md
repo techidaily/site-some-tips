@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2025-02-10T04:08:57.431Z
-updated: 2025-02-14T16:55:23.083Z
+date: 2025-03-01T17:09:46.301Z
+updated: 2025-03-04T17:04:31.027Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 **Also: [Everything Apple announced at its 'Let Loose' iPad event](https://www.zdnet.com/article/everything-apple-announced-at-its-ipad-event-today-ipad-pro-air-pencil-m4-and-more/)**
 
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -69,19 +65,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-lightning-fast-windowed-image-viewer/"><u>[New] Lightning-Fast Windowed Image Viewer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[New] Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-optimizing-conversion-processes-from-xml-to-high-quality-srts-for-2024/"><u>[Updated] Optimizing Conversion Processes From XML to High-Quality SRTs for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic5-ultimate-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amazon-bargains-for-august-2023-unveiling-the-hottest-deals-featured-on-zdnet/"><u>Amazon Bargains for August 2023: Unveiling the Hottest Deals Featured on ZDNET</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/dive-deep-into-high-quality-video-capture-technology-for-2024/"><u>Dive Deep Into High-Quality Video Capture Technology for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protecting-your-privacy-in-virtual-reality-the-essential-role-of-vpns-with-devices-like-vision-pro/"><u>Protecting Your Privacy in Virtual Reality: The Essential Role of VPNs with Devices Like Vision Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/set-up-apple-vision-pro-with-a-vpn-essential-guide-and-benefits-explore-easier-methods/"><u>Set Up Apple Vision Pro with a VPN: Essential Guide & Benefits - Explore Easier Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/skip-the-startup-how-to-remove-your-lock-screen-in-windows-11/"><u>Skip the Startup: How to Remove Your Lock Screen in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/surpassing-rivals-how-apples-innovations-could-outshine-openai-microsoft-and-google-during-the-2024-worldwide-developers-conference-insights/"><u>Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-insight-unpacking-vocaloid-phenomenon/"><u>The Ultimate Insight Unpacking Vocaloid Phenomenon</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-wallet-reviews-of-2024-comprehensive-guide-by-tech-experts/"><u>Top-Rated AirTag Wallet Reviews of 2024 - Comprehensive Guide by Tech Experts</u></a></li>
-<li><a href="https://article-files.techidaily.com/unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-victors-in-depth-comparison-of-pixel-9-pro-xl-vs-iphone-15-pro-cameras-ends-in-unexpected-results/"><u>Unveiling the Victors: In-Depth Comparison of Pixel 9 Pro XL vs iPhone 15 Pro Cameras Ends in Unexpected Results!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-free-windows-screen-capture-top-5-applications-reviewed/"><u>[New] Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-audio-enhancement-apps-for-youtubers-videos/"><u>[New] In 2024, Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>[New] In 2024, The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-definitive-guide-for-quick-srt-to-txt-con/"><u>[New] The Definitive Guide for Quick SRT to TXT Con</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-honor-x50-gt-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Honor X50 GT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-with-linus-torvalds-embracing-rust-and-the-significance-of-the-linux-kernel-insights-from-a-tech-visionary/"><u>Exploring AI with Linus Torvalds: Embracing Rust & The Significance of the Linux Kernel - Insights From a Tech Visionary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-boundaries-of-ai-my-experience-with-chatgpts-memorization-abilities-insights-and-limitations/"><u>Exploring the Boundaries of AI: My Experience with ChatGPT’s Memorization Abilities – Insights & Limitations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/programming-languages-popularity-dynamics-from-2016-onwards-unveiling-patterns-and-future-directions-cybertech-hub/"><u>Programming Languages' Popularity Dynamics From 2016 Onwards - Unveiling Patterns & Future Directions | CyberTech Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/red-hat-revolutionizes-cloud-computing-with-newly-integrated-ai-features-for-enterprise-linux-insights-from-zdnet/"><u>Red Hat Revolutionizes Cloud Computing with Newly Integrated AI Features for Enterprise Linux - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scaling-down-agile-why-larger-it-firms-struggle-with-flexibility-zdnet-insights/"><u>Scaling Down Agile: Why Larger IT Firms Struggle with Flexibility | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/soaring-expenses-in-gen-ai-education-as-risk-assessment-lags-according-to-new-stanford-study-insights-for-tech-leaders/"><u>Soaring Expenses in Gen AI Education as Risk Assessment Lags According to New Stanford Study - Insights for Tech Leaders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-window-woes-effective-guide-for-disabling-amd-software/"><u>Solve Window Woes: Effective Guide for Disabling AMD Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-a-streamlined-download-process-for-youtubes-srt-for-2024/"><u>Tailoring a Streamlined Download Process for YouTube's SRT for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-surge-of-operations-in-tech-enterprises-boosts-innovation-but-brings-complications/"><u>The Surge of 'Operations' In Tech Enterprises Boosts Innovation but Brings Complications</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-5-methods-for-efficiently-copying-data-from-hard-drive-to-solid-state-drive/"><u>Top 5 Methods for Efficiently Copying Data From Hard Drive to Solid State Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tracking-code-craze-a-deep-dive-into-the-changing-landscape-of-programming-language-preference-since-2016-expert-analysis-zdnet/"><u>Tracking Code Craze: A Deep Dive Into the Changing Landscape of Programming Language Preference Since 2016 - Expert Analysis | ZDNET</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-1011-anpassen-effizientes-verschlusseln-von-inhalten-zur-datensicherheit-aktivieren/"><u>Windows 10/11 Anpassen: Effizientes Verschlüsseln Von Inhalten Zur Datensicherheit Aktivieren</u></a></li>
 </ul></div>
 

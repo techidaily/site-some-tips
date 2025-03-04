@@ -1,7 +1,7 @@
 ---
 title: "Discover Ways to Detect If Someone's Using an Apple AirTag on You: A Guide"
-date: 2025-02-14T00:41:47.676Z
-updated: 2025-02-15T01:01:47.393Z
+date: 2025-03-02T16:58:31.586Z
+updated: 2025-03-04T16:27:17.939Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ In this article, I answer a relatively common reader question: _What does it all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Understanding the CPU
 
@@ -60,10 +56,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  CPU vs. SoC
 
 OK, to review: A computer consists of many components, most of which are integrated circuits (also called chips). Many computers also have many processors. So far, I mentioned the CPU (the central processing unit) and the GPU (the graphics processor). 
@@ -85,10 +77,6 @@ Unlike the motherboard/CPU/memory model common inside most PCs, iPhones and the 
 SoCs have enormous performance benefits because all the electrical impulses have to travel far shorter distances. Because the distance is shorter, the current used can be considerably less. And because the current is lower, there's less power used. Less power used means less heat and longer battery life. 
 
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Apple Silicon
 
@@ -152,10 +140,6 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  M1, M2, M3, Pro, Max, and Ultra
 
 M1 was the first Apple Silicon processor model that Apple used inside its computers. As of this writing, Apple has shipped an M2 generation of processors, and [just announced the M3 generation](https://www.zdnet.com/article/m3-apple-silicon-is-here-and-theres-more-to-it-than-new-laptops-and-all-in-ones/). In addition to the base-model processors, Apple has created higher performance versions, which are labeled Pro, Max, and -- for the M1 and M2 -- Ultra. We haven't seen the Ultra on the M3 family, at least yet.
@@ -177,10 +161,6 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -222,18 +202,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ow-youtubes-creative-commons-shapes-video-production-for-2024/"><u>[New] How YouTube's Creative Commons Shapes Video Production for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-lightning-lingers-quick-and-fluid-gaming-choices-for-laptops/"><u>[New] In 2024, Lightning Lingers Quick & Fluid Gaming Choices for Laptops</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-freeze-your-pc-display-effortlessly/"><u>[Updated] Freeze Your PC Display Effortlessly</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-dual-performance-the-tiktok-duet-trend/"><u>[Updated] In 2024, Dual Performance The TikTok Duet Trend</u></a></li>
-<li><a href="https://some-tips.techidaily.com/closing-the-gap-key-artificial-intelligence-enhancements-for-ios-devices-to-compete-with-android-as-discussed-on-zdnet/"><u>Closing the Gap: Key Artificial Intelligence Enhancements for iOS Devices to Compete with Android, as Discussed on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-effortlessly-using-your-apple-watch-for-real-time-chats-with-loved-ones-insights-by-zdnet/"><u>Connecting Effortlessly: Using Your Apple Watch for Real-Time Chats with Loved Ones - Insights by ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/los-mejores-convertidores-de-video-h265hevc-opciones-mas-innovadoras-de-2023-para-usuarios-de-windows-mac-y-en-linea/"><u>Los Mejores Convertidores De Video H.265/HEVC: Opciones Más Innovadoras De 2023 Para Usuarios De Windows, Mac Y en Línea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-8-hour-experience-with-the-apple-vision-pro-headset-highs-and-lows-explored-zdnet-review/"><u>My 8-Hour Experience with the Apple Vision Pro Headset - Highs and Lows Explored | ZDNet Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-2024s-best-smartwatches-professional-ratings-and-in-depth-analysis/"><u>The Ultimate Guide to 2024'S Best Smartwatches: Professional Ratings & In-Depth Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/through-the-lens-of-technology-evaluating-the-apple-vision-pro-for-full-workday-use-uncovering-limitations/"><u>Through the Lens of Technology: Evaluating the Apple Vision Pro for Full Workday Use | Uncovering Limitations</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-better-analytics-and-marketing-insights-with-our-cookiebot-technology/"><u>Unlock Better Analytics & Marketing Insights with Our Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-apples-vision-pro-in-february-redefining-luxury-with-an-ultra-sophisticated-buying-journey/"><u>Unveiling Apple's Vision Pro in February - Redefining Luxury with an Ultra-Sophisticated Buying Journey</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[New] In 2024, Hitting High Notes Enhance Your YouTube Content with Music Edits</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728493427400-5/"><u>重新获取已删除文件：5个简单有效的技巧与步骤</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/address-incompatible-facebook-videos-on-ios-for-2024/"><u>Address Incompatible Facebook Videos on iOS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-linux-kernel-69-update-tips-and-tricks-a-guide-by-zdnet/"><u>Best Linux Kernel 6.9 Update Tips and Tricks: A Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/challenging-the-compatibility-of-artificular-intelligence-growth-with-agile-methodology-new-study-findings/"><u>Challenging the Compatibility of Artificular Intelligence Growth with Agile Methodology | New Study Findings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-engagement-finding-your-youtube-segment-for-2024/"><u>Elevating Engagement Finding Your YouTube Segment for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-innovations-and-the-surge-of-rust-in-tech-linus-torvalds-on-the-unmatched-importance-of-the-linux-kernel-insights-from-a-developer-legend/"><u>Exploring AI Innovations & The Surge of Rust in Tech: Linus Torvalds on the Unmatched Importance of the Linux Kernel - Insights From a Developer Legend</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-markets-top-picks-premier-drone-gimbals/"><u>In 2024, Market's Top Picks Premier Drone Gimbals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-strategic-use-of-visual-media-in-classroom-teaching/"><u>In 2024, Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intels-ai-visionary-wei-li-on-democratizing-ai-supercomputing-for-everyday-use-insights-from-zdnet/"><u>Intel's AI Visionary, Wei Li, on Democratizing AI Supercomputing for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scholars-warn-of-growing-threats-as-artificial-intelligence-agents-proliferate-zdnet/"><u>Scholars Warn of Growing Threats as Artificial Intelligence Agents Proliferate | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-cloud-computing-on-tech-professionals-careers-insights-from-zdnet/"><u>The Impact of Cloud Computing on Tech Professionals' Careers: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zebra-gk420d-driver-update-now-available-easy-tutorial-for-fast-installation/"><u>Zebra GK420D Driver Update Now Available – Easy Tutorial for Fast Installation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate SRT Open/Edit Manual for Mac Users"
-date: 2024-08-21T15:54:36.192Z
-updated: 2024-08-22T15:54:36.192Z
+date: 2025-03-02T16:01:12.557Z
+updated: 2025-03-04T16:26:03.354Z
 tags: 
   - screen-recording
   - ai video
@@ -82,9 +82,6 @@ Step5 Click the Format tab > Make Plain Text. Alternatively, press the Shift + C
 
 Step6 Open File > Save. Add the file name under "Save As" and insert '.srt' at the name's end in place of '.txt'.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Method 2: Open SRT files with VLC Media on Mac
 
 VLC Media is one of the most popular media players for different operating systems, including macOS devices. You can use it to play your videos in different formats. Users can play the video projects with SRT formatted files after merging them.
@@ -117,9 +114,6 @@ Keep both the video you are adding the SRT into and the downloaded SRT file in o
 
 ![keep both video and srt file in one folder](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Step3 Open your video file on the VLC player by double-clicking on the movie and choosing the “Open with VLC media player” option. Or, drag and drop it into the media player. Another way is to tap on the File tab in the software and press the “Open File” option.
 
 ![tap on the file tab](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-4.jpg)
@@ -128,14 +122,8 @@ Step4 The video will begin playing. Go to the menu bar and click on the Subtitle
 
 ![choose the add subtitle file button](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Step5 Choose the SRT file from your device and then load it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Use a Browser-based Online Tool like HappyScribe on Mac
 
 For opening **SRT for Mac,** you can download the third-party software of [HappyScribe](https://www.happyscribe.com/). This software has automatic transcription features, with multilingual support, i.e., edit SRT files in different languages besides English, like Dutch and Hebrew.
@@ -166,17 +154,10 @@ Step1 Open HappyScribe through your preferred browser. Press the Upload a File o
 
 ![press the upload a file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
 
 ![browse for suitable subtitles](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 Step3 Make changes to the text color, caption, position, and font, as needed.
 
 Step4 Press the “Add Subtitle” button. It will insert into the MP4 within some minutes. The file will then automatically download into your Mac device.
@@ -195,9 +176,6 @@ Step2 Click on the “Select Caption Files” option and press the “SELECT .SR
 
 ![press the select srt files option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 Step3 Choose the output format for the file. Choose QT available in the fourth spot.
 
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
@@ -206,9 +184,6 @@ Step4 After rechecking that you chose the right format, add your email address; 
 
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step5 On your Mac device, launch the QuickTime Pro software (upgrade the software to Pro beforehand if it is not already available).
 
 Step6 Access the video file and press View > Subtitles. Press the submenu and choose Open.
@@ -249,16 +224,10 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 
 ![press ok after you are done](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Final Words
 
 You can easily try out these methods to effectively open the SRT files in videos on Mac devices, either by converting them for QuickTime Player or using another player. The Filmora software is suitable for the best results if you plan to open and edit the SRT files with further precision. Carry out all of the steps carefully for a good user experience.
@@ -295,10 +264,26 @@ Part 1: Does the SRT file work on a Mac?
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-delving-into-gopro-cameras-burst-capabilities-for-2024/"><u>[New] Delving Into GoPro Camera's Burst Capabilities for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-simplified-guide-to-crafting-effective-instagram-loops/"><u>[Updated] 2024 Approved Simplified Guide to Crafting Effective Instagram Loops</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-balancing-acts-in-youtube-music-mixes/"><u>[Updated] Balancing Acts in YouTube Music Mixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-resource-for-microsoft-azure-speech-services/"><u>[Updated] The Ultimate Resource for Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-future-proof-iphones-with-apples-latest-ai-advancements-and-siri-enhancements/"><u>Comprehensive Guide: Future-Proof iPhones with Apple's Latest AI Advancements & Siri Enhancements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/defining-digital-trends-exploring-the-essence-of-memes-in-modern-media/"><u>Defining Digital Trends: Exploring the Essence of Memes in Modern Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-ios-181-preview-version-featuring-enhanced-siri-and-ai-capabilities-get-access-today-techinsider/"><u>Download iOS 18.1 Preview Version Featuring Enhanced Siri & AI Capabilities – Get Access Today | TechInsider</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/evaluating-active-presenter-8s-performance-for-2024/"><u>Evaluating Active Presenter 8'S Performance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-california-drivers-can-securely-link-their-licenses-to-apple-and-google-pay-a-step-by-step-guide/"><u>How California Drivers Can Securely Link Their Licenses to Apple and Google Pay: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-rotate-screen-in-windows-10-easy-guide/"><u>How to Rotate Screen in Windows 10 [Easy Guide]</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-select-and-install-a-perfect-graphics-card-driver-for-your-windows-pc-tips-by-yl-software-experts/"><u>How to Select & Install a Perfect Graphics Card Driver for Your Windows PC - Tips by YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/newly-revealed-apple-unveils-powerful-13-and-15/"><u>Newly Revealed: Apple Unveils Powerful 13 & 15</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-home-studios-apple-integrates-artificial-intelligence-band-members-into-latest-logic-pro-update-for-ipads-and-macs-gadgetguru/"><u>Revolutionizing Home Studios, Apple Integrates Artificial Intelligence Band-Members Into Latest Logic Pro Update for iPads and Macs | GadgetGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snag-the-ultimate-deal-secure-your-apple-watch-series-10-for-just-99-by-preordering-now-at-best-buy-exclusive-tips-inside/"><u>Snag the Ultimate Deal: Secure Your Apple Watch Series 10 for Just $99 by Preordering Now at Best Buy – Exclusive Tips Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-getting-your-apple-vision-pro-back/"><u>Step-by-Step Guide: Getting Your Apple Vision Pro Back</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-tasks-the-ultimate-guide-to-macos-finders-quick-actions-for-enhanced-efficiency-expert-tips/"><u>Streamlining Your Tasks: The Ultimate Guide to MacOS Finder's Quick Actions for Enhanced Efficiency | Expert Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-kid-friendly-ipads-a-comprehensive-guide-by-zdnet/"><u>Top 4 Kid-Friendly iPads : A Comprehensive Guide by ZDNet</u></a></li>
+</ul></div>
 

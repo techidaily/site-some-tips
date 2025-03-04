@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2025-02-10T06:49:05.251Z
-updated: 2025-02-15T08:32:54.617Z
+date: 2025-02-27T16:46:13.006Z
+updated: 2025-03-04T17:12:57.602Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,22 +105,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-use-whiteboard-in-zoom-meeting/"><u>[New] 2024 Approved How to Use Whiteboard in Zoom Meeting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-configuring-picture-in-picture-for-apple-browsers/"><u>[Updated] Configuring Picture-in-Picture for Apple Browsers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-compelling-visual-stories-with-engaging-voices/"><u>[Updated] Crafting Compelling Visual Stories With Engaging Voices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-recording-rivals-meet-in-2024/"><u>[Updated] Recording Rivals, Meet, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-laptop-beautification-leading-website-walls/"><u>2024 Approved Laptop Beautification Leading Website Walls</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-why-the-iphone-14-hits-the-perfect-balance-of-functionality-and-quality/"><u>Comprehensive Evaluation: Why the iPhone 14 Hits the Perfect Balance of Functionality and Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/converting-from-android-how-the-new-iphone-16-could-change-my-mind-techinsider/"><u>Converting From Android: How the New iPhone 16 Could Change My Mind | TechInsider</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-rechargeable-wallet-tracker-beyond-apples-airtag-smart-tech-comparisons/"><u>Discover the Ultimate Rechargeable Wallet Tracker: Beyond Apple's AirTag | Smart Tech Comparisons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-why-this-is-the-ultimate-choice-for-a-durable-apple-watch-titanium-band-top-picks/"><u>Discover Why This Is the Ultimate Choice for a Durable Apple Watch Titanium Band - Top Picks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/free-youtube-subtitled-content-download-without-paying-for-2024/"><u>Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/future-tech-news-apple-aims-to-integrate-cameras-in-next-gen-airpods-by-2026-insights/"><u>Future Tech News: Apple Aims to Integrate Cameras in Next-Gen AirPods by 2026 – Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apples-new-on-device-ai-system-realm-outshines-gpt-4-innovations-on-tech/"><u>How Apple's New On-Device AI System ReaLM Outshines GPT-4 | Innovations on Tech</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-15-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 15 Pro Max Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-banishing-bogus-buddies-from-instagram-social-structure/"><u>In 2024, Banishing Bogus Buddies From Instagram Social Structure</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-big-catch-bigger-views-top-5-aquatic-cameras/"><u>In 2024, Big Catch, Bigger Views - Top 5 Aquatic Cameras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-is-smart-how-ai-will-transform-iphone-mac-and-ipad-experience-with-apples-latest-features-zdnet-insights/"><u>The Future Is Smart: How AI Will Transform iPhone, Mac, and iPad Experience with Apple’s Latest Features | ZDNET Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-meta-quest-3-for-viewing-apples-cutting-edge-3d-content-insights-from-zdnet/"><u>Unlocking the Full Potential of Meta Quest 3 for Viewing Apple's Cutting-Edge 3D Content | Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfect-action-cameras-for-mountain-thrills/"><u>[New] Perfect Action Cameras for Mountain Thrills</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unbeatable-video-popularity-tracker-in-youtube-arena-for-2024/"><u>[Updated] Unbeatable Video Popularity Tracker in YouTube Arena for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-magic-5-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor Magic 5 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/accelerate-performance-with-expert-recommended-cleanup-software-tips-from-yl-software-experts/"><u>Accelerate Performance with Expert-Recommended Cleanup Software - Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/addressing-the-crisis-of-developer-burnout-corporate-approaches-and-solutions-cio-review/"><u>Addressing the Crisis of Developer Burnout: Corporate Approaches and Solutions | CIO Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/artificial-intelligence-revolutionizes-modern-software-creation-beyond-rote-programming/"><u>Artificial Intelligence Revolutionizes Modern Software Creation - Beyond Rote Programming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-surprising-cve-counts-expert-strategies-for-enhancing-linux-security-in-an-evolving-threat-landscape/"><u>Beyond Surprising CVE Counts: Expert Strategies for Enhancing Linux Security in an Evolving Threat Landscape</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-strategies-for-boosting-traffic-with-genuine-reviews-using-massmails-automated-email-campaign-tools/"><u>Effective Strategies for Boosting Traffic with Genuine Reviews - Using Massmail's Automated Email Campaign Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/find-your-future-ranking-the-premier-coding-academies-for-aspiring-developers-siliconlearn/"><u>Find Your Future: Ranking the Premier Coding Academies for Aspiring Developers | SiliconLearn</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kickstart-your-tech-journey-with-these-top-entry-level-developer-positions-says-zdnet/"><u>Kickstart Your Tech Journey with These Top Entry-Level Developer Positions, Says ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-new-age-updating-your-facebook-name/"><u>Navigating the New Age: Updating Your Facebook Name</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-ai-how-superduperdb-simplifies-application-entry-as-featured-on-zdnet/"><u>Navigating the World of AI: How SuperDuperDB Simplifies Application Entry, as Featured on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-apple-watch-longevity-discover-the-8-key-configuration-changes-for-extended-battery-performance/"><u>Revolutionize Apple Watch Longevity: Discover the 8 Key Configuration Changes for Extended Battery Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/which-iphone-devices-get-the-ios-cued-unveiling-which-ones-are-excluded-from-apples-latest-software-update/"><u>Which iPhone Devices Get the iOS Cued? Unveiling Which Ones Are Excluded From Apple's Latest Software Update.</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/yl-computings-expert-advice-how-to-easily-search-and-refresh-device-drivers-on-your-pc/"><u>YL Computing's Expert Advice: How to Easily Search and Refresh Device Drivers on Your PC</u></a></li>
 </ul></div>
 

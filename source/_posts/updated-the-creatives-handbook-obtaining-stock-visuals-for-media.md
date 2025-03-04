@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Creative's Handbook  Obtaining Stock Visuals for Media\""
-date: 2024-08-21T15:54:11.057Z
-updated: 2024-08-22T15:54:11.057Z
+date: 2025-02-26T16:08:36.984Z
+updated: 2025-03-04T17:19:46.762Z
 tags: 
   - screen-recording
   - ai video
@@ -68,9 +68,6 @@ If you looking for a royalty-free stock image website with beautiful collections
 
 Shutterstock supports photo collections from several categories such as tech, wildlife, business, sports, and many more. This platform is well-organized with an interactive user interface that makes it easy for you to navigate around it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Method 2: Use Background Remove Tools to Get Transparent Background
 
 Should you find images that suit your requirement but don't like the background, you can edit them. To do that, you need a background remover. There are several software programs designed for this purpose. Here are the top 4 you can use:
@@ -79,9 +76,6 @@ Should you find images that suit your requirement but don't like the background,
 
 ![media.io](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Media.io is an all-in-one media solution you can use to remove backgrounds from images without distorting the quality. This software program lets you transform your image background from solid color to a transparent one without stress.
 
 You can also count on this software to convert your media files, whether video, audio, or image, from one format to another. It also lets you compress large-size media files at zero cost fee.
@@ -122,18 +116,12 @@ Step2Next, drag and drop the video into the timeline just as shown in the image 
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now double-click the image in the timeline. A settings tab will pop up on your screen. Navigate around the settings option till you find **Chroma Key**. Kindly enable Chroma Key, and your photo background would become transparent automatically. Click on **OK** to confirm your actions then move to the next step.
 
 Step3Now that you've successfully transformed the background of your photo into a transparent one, locate and click on the **Export** button to save it to your local storage.
 
 ![click on the export button](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-8.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 1. **iMovie**
 
 ![imovie](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-9.jpg)
@@ -146,22 +134,10 @@ You don't need to be a tech guru to use this software. Thanks to the clean user 
 
 ![canvas](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With Canva, you can also remove background from your images conveniently. This Windows operating system compatible software lets you delete an image background so it appears transparent. It's one of the most versatile software to own.
 
 In addition to the functionalities of Canva, it can also be used to create aesthetic designs like logos, presentations, posters, flyers, ads video, etc. The software supports several customized templates that you can use to decorate your images.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Part 2\. How to Use a Background Media in your own Photos and Videos?
 
 Using background media in a photo or video is easy. All you need is professional photo or video editing software. We've introduced 4 amazing photo editors in the section above. Filmora is the best amongst them as it supports both video and photo editing.
@@ -204,10 +180,19 @@ In addition, we shared with you some of the best background editing software tha
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-varieties-of-fb-video-screens/"><u>[New] 2024 Approved Varieties of FB Video Screens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-best-vr-experience-in-drone-aerial-sports/"><u>[Updated] Unlocking the Best VR Experience in Drone Aerial Sports</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaboration-of-tech-giants-how-apple-is-bringing-ai-revolution-with-chatgpt-to-iosipados-and-macos-platforms/"><u>Collaboration of Tech Giants: How Apple Is Bringing AI Revolution with ChatGPT to iOS/iPadOS and MacOS Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/extend-your-macs-energy-efficiency-with-macos-montereys-low-power-feature-tips-and-tricks/"><u>Extend Your Mac's Energy Efficiency with macOS Monterey's Low Power Feature | Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimize-youtube-visibility-by-sustaining-creativity-commons-license-for-2024/"><u>Optimize YouTube Visibility by Sustaining Creativity Commons License for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shop-the-latest-apple-innovations-announced-at-wwdc-today-a-guide-to-purchasing-and-pre-ordering-options/"><u>Shop the Latest Apple Innovations Announced at WWDC Today: A Guide to Purchasing and Pre-Ordering Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-route-for-installing-java-development-kit-on-windows-11/"><u>The Ultimate Route for Installing Java Development Kit on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-edge-40-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Edge 40 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-confidently-with-macos-1441-ensuring-secure-updates-for-your-mac-zdnet/"><u>Upgrade Confidently with macOS 14.4.1 - Ensuring Secure Updates for Your Mac | ZDNet</u></a></li>
+</ul></div>
 

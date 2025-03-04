@@ -1,7 +1,7 @@
 ---
 title: "\"Lumafusion Guide  Balancing Auditory Levels for 2024\""
-date: 2024-08-15T10:12:03.024Z
-updated: 2024-08-16T10:12:03.024Z
+date: 2025-02-28T16:28:29.192Z
+updated: 2025-03-04T16:57:49.231Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,6 @@ Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transit
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
 A multi-track video editor made specifically for mobile devices is called LumaFusion. Journalists, filmmakers, and expert video producers often utilize it to create engrossing video narratives. But if you have a toolkit with everything you need already built in so you can use it as needed, fading is unexpectedly made simple. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) does this task faster than ever because to its user-friendly interface, which makes audio editing in Filmora a breeze.
@@ -64,19 +61,12 @@ Now that you've downloaded the software's executable file, the next step is to i
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -86,27 +76,17 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,10 +110,26 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mp3-from-tweeted-media-a-step-by-step-guide/"><u>[New] 2024 Approved MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-insta-trends-staying-ahead-with-innovative-video-content-for-2024/"><u>[New] Insta-Trends Staying Ahead with Innovative Video Content for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-your-guide-to-building-stylish-snapchat-filters-for-2024/"><u>[Updated] Your Guide to Building Stylish Snapchat Filters for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-easy-implementation-of-snap-camera-on-ms-teams/"><u>2024 Approved Easy Implementation of Snap Camera on MS Teams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/achieve-cinematic-brilliance-the-11-ultimate-tutorials-on-color-grading-for-2024/"><u>Achieve Cinematic Brilliance The 11 Ultimate Tutorials on Color Grading for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/all-iphone-16-editions-to-get-cutting-edge-spatial-video-capture-and-sleek-bezels-confirms-latest-zdnet-report-mobileinnovationhub/"><u>All iPhone 16 Editions to Get Cutting-Edge Spatial Video Capture and Sleek Bezels, Confirms Latest ZDNET Report | MobileInnovationHub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/big-news-for-apple-developers-enhanced-programming-arsenal-with-major-free-ai-upgrades-insights-from-zdnet/"><u>Big News for Apple Developers: Enhanced Programming Arsenal with Major Free AI Upgrades – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-siri-and-beyond-techsavvy/"><u>Comprehensive List of All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements: Siri and Beyond | TechSavvy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-between-the-latest-macbook-air-and-ipad-pro-models/"><u>Decoding the Differences Between the Latest MacBook Air & iPad Pro Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-exciting-features-exploring-the-new-possibilities-of-iphones-ios-18-beta-version/"><u>Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/from-restroom-to-wellness-report-a-revolutionary-approach-in-public-health-screening-zdnet/"><u>From Restroom to Wellness Report: A Revolutionary Approach in Public Health Screening | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-google-pixel-8-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-apple-watch-series-10-a-game-changer-comparing-features-with-the-series-cued-in-ready-to-enhance-your-tech-lifestyle/"><u>Is the Apple Watch Series 10 a Game-Changer? Comparing Features with the Series Cued in, Ready to Enhance Your Tech Lifestyle.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/life-q30-anc-hearing-solutions-budget-friendly-review/"><u>Life Q30 ANC Hearing Solutions - Budget-Friendly Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-mw-warzone-effective-strategies-to-fix-the-persistent-error-6068/"><u>Mastering MW Warzone: Effective Strategies to Fix the Persistent Error 6068</u></a></li>
+<li><a href="https://some-tips.techidaily.com/resetting-your-airpods-made-easy-timely-tips-for-optimal-usage-zdnet/"><u>Resetting Your AirPods Made Easy: Timely Tips for Optimal Usage (ZDNET)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-rundown-on-dji-inspire-2/"><u>The Complete Rundown on DJI Inspire 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-budget-friendly-tablets-in-depth-analysis-and-comparisons-by-tech-experts/"><u>Top Budget-Friendly Tablets : In-Depth Analysis & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-tablets-professional-evaluation-and-comprehensive-reviews-by-tech-experts-on-zdnet/"><u>Top-Rated Tablets : Professional Evaluation & Comprehensive Reviews by Tech Experts on ZDNet</u></a></li>
+</ul></div>
 

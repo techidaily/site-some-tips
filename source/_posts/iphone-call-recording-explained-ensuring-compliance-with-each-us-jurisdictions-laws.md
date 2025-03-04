@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Explained: Ensuring Compliance with Each US Jurisdiction's Laws"
-date: 2025-02-09T04:07:18.931Z
-updated: 2025-02-14T19:43:32.671Z
+date: 2025-02-25T17:36:18.435Z
+updated: 2025-03-04T17:06:16.094Z
 tags:
   - apple
 categories:
@@ -53,10 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Test your Voice Memos app
 
 First, ensure you have an iPhone and another iOS device, such as a Mac, iPad, or another iPhone, with the Voice Memos app. The Voice Memos app comes preinstalled on most devices, but is also free on the [App Store](https://www.apple.com/app-store/). If using an Android device, check that it has a recording app, like [this free one](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en%5FUS&gl=US&pli=1).
@@ -76,10 +72,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check whether you need to inform the other party that you're recording
 
@@ -109,10 +101,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -130,10 +118,6 @@ Screenshot by Radhika Rajkumar/ZDNET
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -157,10 +141,6 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ## Is it illegal to record phone calls?
@@ -168,10 +148,6 @@ As the name suggests, this app is designed for users to be able to whip out thei
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
 
@@ -223,21 +199,14 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pros-and-cons-ranking-the-best-7-aqua-cameras/"><u>[New] In 2024, Pros & Cons Ranking the Best 7 Aqua Cameras</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-downloading-and-mastering-ez-grabber/"><u>[Updated] In 2024, The Ultimate Guide to Downloading & Mastering EZ Grabber</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-tap-into-audience-desires-strategies-for-video-templates/"><u>2024 Approved Tap Into Audience Desires Strategies for Video Templates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-on-mac-crafting-customized-focus-modes-in-macos-monterey-to-dodge-distractions/"><u>Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-the-tiktok-logo-cost-free-methods-to-edit-your-videos/"><u>Bypassing the TikTok Logo: Cost-Free Methods to Edit Your Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-amazon-fire-hd-8-assessment-a-budget-friendly-tab-worth-its-value/"><u>Comprehensive Amazon Fire HD 8 Assessment: A Budget-Friendly Tab Worth Its Value</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-runtime-broker-its-job-in-computing-architecture/"><u>Dissecting the Runtime Broker: Its Job in Computing Architecture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-productivity-connecting-dual-displays-to-your-m3-macbook-pro-insights/"><u>Enhance Your Productivity: Connecting Dual Displays to Your M3 MacBook Pro - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-a-better-world-with-chatgpts-revolutionary-enhancements/"><u>Explore a Better World with ChatGPT's Revolutionary Enhancements</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-apple-watch-series-unveiled-for-2eaf-2024-thoroughly-tested-by-tech-experts-zdnet/"><u>Innovative Apple Watch Series Unveiled for 2Eaf 2024: Thoroughly Tested by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-your-ipad-at-risk-with-the-latest-ios-18-update-find-out-before-you-install-now-guides/"><u>Is Your iPad At Risk With the Latest iOS 18 Update? Find Out Before You Install Now Guides</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-workflow-with-tailored-focus-modes-in-macos-monterey-by-avoiding-unwanted-interruptions/"><u>Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-big-on-apples-airpods-deals-with-40-off-just-in-time-for-the-fourth-of-july-gadget-specials/"><u>Score Big on Apple's AirPods Deals with $40 Off Just in Time for the Fourth of July | Gadget Specials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-iphone-vpn-providers-comprehensive-analysis-by-industry-experts-zdnet/"><u>Top-Rated iPhone VPN Providers: Comprehensive Analysis by Industry Experts - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbeatable-price-alert-snap-up-apples-newest-macbook-air-for-under-850-pre-october-prime-day-blowout-on-amazon/"><u>Unbeatable Price Alert: Snap Up Apple's Newest MacBook Air for Under $850 Pre-October Prime Day Blowout on Amazon!</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-premier-websites-for-mystery-box-shopping-delights-for-2024/"><u>10 Premier Websites for Mystery Box Shopping Delights for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-the-futures-past-digital-conversion-for-timeless-images/"><u>Crafting the Future's Past Digital Conversion for Timeless Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y200mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y200Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-alibabas-latest-cto-leadership-changes-amidst-strategic-shift-in-cloud-division-zdnet/"><u>Meet Alibaba's Latest CTO: Leadership Changes Amidst Strategic Shift in Cloud Division | ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-10-free-webm-video-editors-this-year/"><u>New Best of the Best Top 10 Free WebM Video Editors This Year</u></a></li>
+<li><a href="https://win-great.techidaily.com/recovery-techniques-for-vanished-secretive-files-within-the-microsoft-windows-10-environment/"><u>Recovery Techniques for Vanished Secretive Files Within the Microsoft Windows 10 Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-icloud-notes-with-linux-systems-a-comprehensive-guide/"><u>Syncing iCloud Notes with Linux Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-how-openstack-and-kata-containers-gain-renewed-interest-in-the-tech-world/"><u>The Rising Popularity: How OpenStack & Kata Containers Gain Renewed Interest in the Tech World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-tide-of-microsofts-iot-endeavors-vs-googles-exit-how-big-companies-shape-the-future-of-smart-technology/"><u>The Rising Tide of Microsoft's IoT Endeavors Vs. Google's Exit: How Big Companies Shape the Future of Smart Technology</u></a></li>
 </ul></div>
 

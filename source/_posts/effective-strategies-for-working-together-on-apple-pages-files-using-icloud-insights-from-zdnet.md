@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Working Together on Apple Pages Files Using iCloud - Insights From ZDNet
-date: 2025-02-11T20:59:33.831Z
-updated: 2025-02-14T21:06:03.969Z
+date: 2025-02-26T17:38:31.719Z
+updated: 2025-03-04T17:19:47.890Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -31,27 +27,15 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -60,10 +44,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -149,21 +129,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quantum-quadrants-cinematic-frontiers/"><u>[New] 2024 Approved Quantum Quadrants Cinematic Frontiers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-zooming-into-success-amplifying-your-tiktok-videos/"><u>[New] In 2024, Zooming Into Success Amplifying Your TikTok Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-learn-to-record-and-save-videos-from-webcam-for-2024/"><u>[New] Learn to Record and Save Videos From Webcam for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-acurite-professional-weather-station-model-01036m/"><u>Comprehensive Analysis of the AcuRite Professional Weather Station - Model 01036M</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-windows-sound-card-driver-downloads-get-the-best-audio-experience/"><u>Free Windows Sound Card Driver Downloads - Get the Best Audio Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n53-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N53 Phone without Google Account?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/lenovo-thinkreality-a3-immersive-experience-with-mixed-reality-technology-insights-from-zdnet/"><u>Lenovo ThinkReality A3: Immersive Experience with Mixed Reality Technology - Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-transform-your-photos-into-videos-with-these-10-online-tools-for-2024/"><u>New Transform Your Photos Into Videos with These 10 Online Tools for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/open-source-transformation-uncovered-key-statistics-and-analysis-from-zdnet/"><u>Open-Source Transformation Uncovered: Key Statistics and Analysis From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-choices-the-very-best-tripods-for-high-definition-shooting/"><u>Premium Choices The Very Best Tripods for High Definition Shooting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-in-business-insights-for-leaders-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech in Business | Insights for Leaders | ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-pro-software-the-go-to-solution-for-seamless-scheduled-file-and-folder-deletion-on-your-mac/"><u>Stellar File Eraser 5 Pro Software: The Go-To Solution for Seamless Scheduled File & Folder Deletion on Your Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-working-from-home-for-tech-experts-with-vr-and-digital-twins-expert-analysis-by-zdnet/"><u>The Future of Working From Home for Tech Experts with VR and Digital Twins | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-key-insights-from-the-dissection-of-apple-vision-pro-by-ifixit-a-deep-dive-analysis/"><u>Top 5 Key Insights From the Dissection of Apple Vision Pro by IFixit - A Deep Dive Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-next-level-virtual-reality-with-discounted-xr-glasses-on-prime-day-say-goodbye-to-fomo-and-limited-views/"><u>Unlock Next-Level Virtual Reality with Discounted XR Glasses on Prime Day - Say Goodbye to FOMO and Limited Views!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-tech-enthusiasts-are-buzzing-about-apples-vision-pro-top-9-factors-influencing-purchases-of-this-high-end-3500-gear/"><u>Why Tech Enthusiasts Are Buzzing About Apple's Vision Pro - Top 9 Factors Influencing Purchases of This High-End $3,500 Gear</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-express-screen-snag-aural-elements/"><u>[New] Express Screen Snag Aural Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-most-reliable-and-performance-optimized-web-hosts-expert-ratings-and-insights-pcmag/"><u>2024'S Most Reliable and Performance-Optimized Web Hosts: Expert Ratings & Insights | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-tech-commerce-divide-progress-towards-integrating-innovation-and-business-strategy-zdnet/"><u>Bridging the Tech-Commerce Divide: Progress Towards Integrating Innovation and Business Strategy | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-revival-why-companerxes-are-choosing-openstack-and-kata-containers-zdnets-take/"><u>Exploring the Revival: Why Companerxes Are Choosing OpenStack and Kata Containers | ZDNet's Take</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-your-discord-app-solutions-for-uninterrupted-streaming/"><u>How to Fix Your Discord App: Solutions for Uninterrupted Streaming</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-a60s-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel A60s</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-azures-ongoing-server-capacity-constraints-strategies-for-businesses/"><u>Navigating Azure's Ongoing Server Capacity Constraints: Strategies for Businesses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-cloud-shift-why-halting-migration-is-impossible-insights-from-zdnet/"><u>Navigating the Cloud Shift: Why Halting Migration Is Impossible, Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/old-techs-new-lease-on-life-the-art-of-employing-windows-11-to-go-and-rufus/"><u>Old Tech's New Lease on Life: The Art of Employing Windows 11, To Go & Rufus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-a-smooth-drum-roller-is-recommended-for-an-initial-pass-over-sandy-soil-due-to-its-ability-to-compact-non-cohesive-granular-soils-effectively/"><u>Solution: A Smooth Drum Roller Is Recommended for an Initial Pass over Sandy Soil Due to Its Ability to Compact Non-Cohesive, Granular Soils Effectively.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-user-profile-service-has-stopped-error-on-windows/"><u>Troubleshooting Steps for 'User Profile Service Has Stopped' Error on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dbghelpdll-not-detected-a-comprehensive-guide/"><u>Troubleshooting the 'dBghelp.dll' Not Detected - A Comprehensive Guide</u></a></li>
 </ul></div>
 

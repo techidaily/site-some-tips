@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Unwanted Messages: A Simple Guide to Halting Spam Texts on iOS Devices | TechToday"
-date: 2025-02-08T22:22:44.689Z
-updated: 2025-02-14T17:02:39.180Z
+date: 2025-03-02T16:25:32.988Z
+updated: 2025-03-04T17:41:26.964Z
 tags:
   - apple
 categories:
@@ -72,10 +72,6 @@ Screenshot by Maria Diaz/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I stop spam calls on iPhone?
 
 Incoming spam calls are a nuisance; if you're having that problem, you can either block specific numbers via your phone app, add your number to the National Do Not Call Registry, or block all calls from unknown numbers. To do the latter, follow these steps:
@@ -91,10 +87,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -103,10 +95,6 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 2. Tap on Report Junk below the message.
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
 
@@ -117,19 +105,11 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,14 +147,22 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastery-in-video-creation-using-captivate-software/"><u>[Updated] In 2024, Mastery in Video Creation Using Captivate Software</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-iphones-easy-guide-merge-music-and-video-without-spending-a-dime/"><u>[Updated] IPhone's Easy Guide Merge Music and Video Without Spending a Dime</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fine-tuning-your-linkedin-headline/"><u>2024 Approved Fine-Tuning Your LinkedIn Headline</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-iphone-efficiency-using-secret-siri-shortcuts-insider-tips/"><u>Boost Your iPhone Efficiency Using Secret Siri Shortcuts - Insider Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/flexible-networking-on-macos-setting-up-multiple-ip-configurations/"><u>Flexible Networking on MacOS: Setting Up Multiple IP Configurations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/parent-approved-kid-friendly-tablet-picks-expert-insights-from-zdnet/"><u>Parent Approved Kid-Friendly Tablet Picks – Expert Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-showdown-finding-your-perfect-gaming-processor/"><u>Tech Showdown: Finding Your Perfect Gaming Processor?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-explores-not-upgrading-to-iphone-16-pro-understanding-my-rational-choice-over-iphone-14/"><u>ZDNet Explores: Not Upgrading to iPhone 16 Pro – Understanding My Rational Choice Over iPhone 14</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-for-viewing-mkv-movies-on-ps3-easy-tricks/"><u>: Step-by-Step Tutorial for Viewing .mkv Movies on PS3 - Easy Tricks!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-smartphones-shining-in-high-definition-video/"><u>[New] Premium Smartphones Shining in High Definition Video</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-laughter-to-devices-downloading-twitters-animated-fun/"><u>[Updated] 2024 Approved From Laughter to Devices Downloading Twitter's Animated Fun</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-python-skills-with-linkedins-complimentary-ai-program-transformative-results-unveiled-on-zdnet/"><u>Elevate Your Python Skills with LinkedIn's Complimentary AI Program – Transformative Results Unveiled on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-fix-your-aoc-usb-display-problem-on-windows-11-systems/"><u>Expert Tips: How to Fix Your AOC USB Display Problem on Windows 11 Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-tailored-content/"><u>Harness the Power of Cookiebot for Tailored Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/highest-rated-vehicle-tracking-cameras-overview-for-2024/"><u>Highest Rated Vehicle Tracking Cameras Overview for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimal-variety-premium-webcam-stands-and-mounts/"><u>Optimal Variety Premium Webcam Stands & Mounts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-extended-wait-times-when-playing-fallout-4/"><u>Resolving Extended Wait Times When Playing Fallout 4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-a-new-approach-to-attracting-top-it-professionals/"><u>Revamping Recruitment Strategies: A New Approach to Attracting Top IT Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/six-key-agile-strategies-for-boosting-success-in-software-development-insights-from-zdnet/"><u>Six Key Agile Strategies for Boosting Success in Software Development - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-java-training-programs-of-2022-insights-from-zdnet/"><u>Top-Rated Java Training Programs of 2022: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-2024s-elite-web-hosting-providers-fully-reviewed-by-specialists-pcmag/"><u>Ultimate Guide to 2024'S Elite Web Hosting Providers, Fully Reviewed by Specialists | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-new-wave-of-ai-dominance-how-rag-is-redefining-power-structures-expert-analysis-by-zdnet/"><u>Understanding the New Wave of AI Dominance: How RAG Is Redefining Power Structures - Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-simple-access-to-artificial-intelligence-applications-with-superduperdb-insights-from-zdnet/"><u>Unlocking Simple Access to Artificial Intelligence Applications with SuperDuperDB: Insights From ZDNet</u></a></li>
 </ul></div>
 

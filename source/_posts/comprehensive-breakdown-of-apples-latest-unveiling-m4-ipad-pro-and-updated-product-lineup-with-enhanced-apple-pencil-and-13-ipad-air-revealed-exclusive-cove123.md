@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !"
-date: 2025-02-11T18:27:47.737Z
-updated: 2025-02-14T23:59:26.573Z
+date: 2025-02-25T17:49:27.790Z
+updated: 2025-03-04T17:45:03.231Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
 
@@ -56,10 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,10 +67,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -102,10 +90,6 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
@@ -121,10 +105,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,18 +140,15 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-list-of-virtual-journeys-by-channel/"><u>[New] 2024 Approved The Ultimate List of Virtual Journeys, By Channel</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-magic-5-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor Magic 5? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726226253350-2024app/"><u>最新2024年度上市：集成多功能及高效率照片濾鏡APP列表</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-discontinues-premium-fabric-collection-launches-exclusive-beats-case-series-insights/"><u>Apple Discontinues Premium Fabric Collection, Launches Exclusive Beats Case Series: Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-iphone-16-and-15-key-factors-for-upgrading-apples-latest-offerings-insights-from-zdnet/"><u>Choosing Between iPhone 16 and 15? Key Factors for Upgrading Apple's Latest Offerings - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-resolve-your-csgo-game-crashes-instantly/"><u>Effortless Solutions: Resolve Your CSGO Game Crashes Instantly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-1-minute-to-fade-to-black-in-premiere-pro/"><u>In 2024, 1 Minute To Fade To Black In Premiere Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>In 2024, Next-Gen Players Guide Rift, Vive, vs PS VR Games</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/methods-to-restore-audio-in-apple-videos/"><u>Methods to Restore Audio in Apple Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protect-your-privacy-expert-tips-for-identifying-and-deleting-spyware-from-smartphones-advice-sourced/"><u>Protect Your Privacy: Expert Tips for Identifying and Deleting Spyware From Smartphones - Advice Sourced</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revitalizing-project-vision-pro-three-essential-strategies-apple-needs-to-implement/"><u>Revitalizing Project Vision Pro: Three Essential Strategies Apple Needs to Implement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-why-apples-new-m2-ipad-air-is-your-ideal-choice-expert-insights/"><u>Ultimate Guide: Why Apple's New M2 iPad Air Is Your Ideal Choice - Expert Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-mini-computers-of-2prise/"><u>Unveiling the Ultimate Mini Computers of 2Prise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>[New] Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dynamic-dimensions-unleashing-the-power-of-high-dynamic-range-for-2024/"><u>[New] Dynamic Dimensions Unleashing the Power of High Dynamic Range for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevating-youtube-performance-consistency-in-cc-usage/"><u>[Updated] 2024 Approved Elevating YouTube Performance Consistency in CC Usage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-embedding-company-imagery-in-video-posts/"><u>2024 Approved Step-by-Step Guide Embedding Company Imagery in Video Posts</u></a></li>
+<li><a href="https://windows11.techidaily.com/alomware-essentials-for-customizing-windows-experience/"><u>AlomWare Essentials for Customizing Windows Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/artful-annotation-distortion-techniques/"><u>Artful Annotation Distortion Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/current-top-trending-programming-languages-insights-and-definitions-understanding-their-growing-popularity/"><u>Current Top Trending Programming Languages: Insights & Definitions - Understanding Their Growing Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-choice-for-premium-website-hosting-solutions-of-the-year-2024-zdnet/"><u>Experts Choice for Premium Website Hosting Solutions of the Year - 2024 | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-rollout-guide-identifying-iphone-models-set-to-upgrade-with-apples-new-os-version-exclusions-explained-zdnet/"><u>IOS 18 Rollout Guide: Identifying iPhone Models Set to Upgrade with Apple's New OS Version - Exclusions Explained | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-hybrid-cloud-solutions-with-red-hats-updated-enterprise-linux-distribution-and-advanced-features/"><u>Mastering Hybrid Cloud Solutions with Red Hat's Updated Enterprise Linux Distribution and Advanced Features</u></a></li>
 </ul></div>
 

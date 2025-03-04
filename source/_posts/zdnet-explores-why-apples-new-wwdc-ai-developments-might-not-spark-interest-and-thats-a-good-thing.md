@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2025-02-10T00:50:43.376Z
-updated: 2025-02-15T04:08:41.745Z
+date: 2025-03-03T16:28:16.780Z
+updated: 2025-03-04T17:46:54.695Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,22 +134,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-breaking-down-the-new-2023-samsung-bd-j5900-model/"><u>[New] Breaking Down the New 2023 Samsung BD-J5900 Model</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fixing-disconnected-headphone-unit-for-2024/"><u>[New] Fixing Disconnected Headphone Unit for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-users-companion-for-durecorder/"><u>[Updated] 2024 Approved Ultimate User’s Companion for DuRecorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[Updated] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-mastering-twitter-cleanup-top-apps-for-efficient-management-for-2024/"><u>[Updated] Mastering Twitter Cleanup Top Apps for Efficient Management for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-event-highlights-introducing-the-powerhouse-m4-ipad-pro-upgraded-13-inch-ipad-air-and-new-apple-pencil-pro-tech-insights/"><u>Apple Event Highlights: Introducing the Powerhouse M4 iPad Pro, Upgraded 13-Inch iPad Air & New Apple Pencil Pro | Tech Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/banishing-email-overload-effortlessly-discover-the-one-trick-solution-for-a-neat-inbox-on-zdnet/"><u>Banishing Email Overload Effortlessly: Discover the One-Trick Solution for a Neat Inbox on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-best-in-class-prime-day-laptop-offers-hp-apple-razer-and-others-featured/"><u>Discover the Ultimate List of Best-in-Class Prime Day Laptop Offers: HP, Apple, Razer and Others Featured !</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-deal-with-fluid-damage-on-your-iphone-charging-cable-expert-tips-from-tech-gurus/"><u>How to Deal with Fluid Damage on Your iPhone Charging Cable – Expert Tips From Tech Gurus</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y56-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y56 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-examining-youtubes-noteworthy-chats/"><u>In 2024, Examining YouTube's Noteworthy Chats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-easy-path-to-pure-audio-advanced-noise-reduction-tactics-for-audacity-and-filmorapro-users/"><u>In 2024, The Easy Path to Pure Audio Advanced Noise Reduction Tactics for Audacity and FilmoraPro Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/reviving-loyalty-in-tech-can-apple-provide-a-lifeline-to-disappointed-sonos-customers-insights-from-zdnet/"><u>Reviving Loyalty in Tech: Can Apple Provide a Lifeline to Disappointed Sonos Customers? Insights From ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-news-apples-ai-integration-postponed-to-october-sources-confirm-insights/"><u>Tech News: Apple's AI Integration Postponed To October, Sources Confirm - Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-exclusive-windows-11s-media-importers/"><u>The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-straps-in-depth-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : In-Depth Reviews by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-walkthrough-for-setting-up-an-ipad-fresh-from-the-box-tips-and-tricks/"><u>Ultimate Walkthrough for Setting Up an iPad Fresh From the Box - Tips & Tricks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-metaverse-advertising-techniques-for-2024/"><u>[Updated] Mastering Metaverse Advertising Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-skyrocketing-your-youtube-view-count/"><u>2024 Approved Strategies for Skyrocketing Your YouTube View Count</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/architecting-a-stellar-tiktok-closing-segment/"><u>Architecting a Stellar TikTok Closing Segment</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comparing-costs-how-our-professional-wedding-dj-services-measure-up-to-nationwide-rates/"><u>Comparing Costs: How Our Professional Wedding DJ Services Measure Up to Nationwide Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-horizons-meta-and-aws-strengthen-alliance-to-boost-pytorch-usage-techinsights/"><u>Expanding Horizons: Meta & AWS Strengthen Alliance to Boost PyTorch Usage | TechInsights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-for-setting-up-and-utilizing-nvidias-artificial-intelligence-chatbot-in-your-officehome-pc/"><u>Expert Tips for Setting Up and Utilizing NVIDIA's Artificial Intelligence Chatbot in Your Office/Home PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-atandt-and-ibms-co-innovation-lab-revolutionizes-tech-solutions-for-public-sector-spotlight-by-zdnet/"><u>How AT&T and IBM's Co-Innovation Lab Revolutionizes Tech Solutions for Public Sector, Spotlight by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-announces-plans-for-comprehensive-full-stack-artificial-intelligence-center-at-university-zdnet-insights/"><u>IBM Announces Plans for Comprehensive Full-Stack Artificial Intelligence Center at University - ZDNet Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-v2-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic V2 Phone Network-Ready</u></a></li>
+<li><a href="https://some-tips.techidaily.com/insights-on-organizational-clarity-and-cultural-evolution-through-tech-industry-staffing-changes-a-zdnet-exploration/"><u>Insights on Organizational Clarity & Cultural Evolution Through Tech Industry Staffing Changes - A ZDNet Exploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/launch-of-red-hat-openstack-17-a-comprehensive-overview-zdnet/"><u>Launch of Red Hat OpenStack 17: A Comprehensive Overview - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-commercial-applications-to-drive-ai-innovation-in-telecoms-post-5g-era/"><u>Leveraging Commercial Applications to Drive AI Innovation in Telecoms, Post-5G Era</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-decks-upgrade-the-clone-methodology/"><u>Mastering Your Deck’s Upgrade: The Clone Methodology</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-4k-the-top-free-video-converters/"><u>New 2024 Approved Unlock 4K The Top Free Video Converters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-level-screen-recorder-showdown/"><u>Pro-Level Screen Recorder Showdown</u></a></li>
 </ul></div>
 

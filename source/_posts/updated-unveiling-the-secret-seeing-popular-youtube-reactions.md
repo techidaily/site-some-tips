@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Secret  Seeing Popular YouTube Reactions\""
-date: 2024-08-21T15:56:23.298Z
-updated: 2024-08-22T15:56:23.298Z
+date: 2025-03-02T16:31:41.341Z
+updated: 2025-03-04T16:29:26.556Z
 tags: 
   - screen-recording
   - ai video
@@ -65,9 +65,6 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -94,9 +91,6 @@ Step3 Click the **Comments** section.
 
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
@@ -115,22 +109,12 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -163,9 +147,6 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -179,7 +160,6 @@ Additionally, video creators can manually highlight commenters to mark them for 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -203,10 +183,21 @@ Additionally, video creators can manually highlight commenters to mark them for 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-backwards-play-iphones-unique-reverse-feature/"><u>[New] 2024 Approved Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-full-review-of-logitechs-ultimate-4k-professional-cam/"><u>[Updated] In 2024, Full Review of Logitech's Ultimate 4K Professional Cam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-optimal-accessories-for-your-high-quality-gopro/"><u>[Updated] Optimal Accessories for Your High-Quality GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-unveils-preview-for-ec2-based-apple-silicon-servers-techcrunch/"><u>Amazon Web Services Unveils Preview for EC2-Based Apple Silicon Servers | TechCrunch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-lava-agni-2-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Lava Agni 2 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-binggpt-related-cryptocurrency-scams-tokens-to-avoid-and-warning-signs/"><u>Beware of BingGPT-Related Cryptocurrency Scams: Tokens to Avoid and Warning Signs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-5-lite-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic 5 Lite Phone Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic V2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-linuxone-amo-unlocking-mainframe-potential-on-budget-with-expert-advice-zdnets-comprehensive-guide/"><u>IBM LinuxONE Amo: Unlocking Mainframe Potential on Budget with Expert Advice | ZDNET's Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/promoting-advanced-computing-power-the-linux-foundations-endorsement-of-high-performance-and-exascale-systems/"><u>Promoting Advanced Computing Power: The Linux Foundation's Endorsement of High-Performance & Exascale Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/select-your-dreams-best-vr-bike-trails-for-2024/"><u>Select Your Dreams Best VR Bike Trails for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-cloud-insights-and-basics-for-everyone-zdnet/"><u>Understanding the Cloud: Insights & Basics for Everyone | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-strategic-move-alibabas-cloud-division-spin-off-and-upcoming-listings-of-allied-firms/"><u>Unveiling Strategic Move: Alibaba's Cloud Division Spin-Off and Upcoming Listings of Allied Firms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-linux-isnt-your-go-to-for-cloud-computing-and-how-a-dbos-stacks-up-experience-it-at-no-cost-zdnet/"><u>Why Linux Isn't Your Go-To for Cloud Computing and How a DBOS Stacks Up - Experience It at No Cost | ZDNet</u></a></li>
+</ul></div>
 

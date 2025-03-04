@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Camera Functionality in iPhone 1
-date: 2025-02-09T03:18:30.742Z
-updated: 2025-02-15T06:21:15.350Z
+date: 2025-02-25T17:07:45.546Z
+updated: 2025-03-04T17:37:47.715Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
@@ -49,10 +45,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -88,17 +80,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -123,10 +107,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,19 +148,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-shorts-fix-completed-no-more-anxiety/"><u>[New] 2024 Approved Shorts Fix Completed – No More Anxiety</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ecure-footage-leading-stabilizers-on-youtube-for-2024/"><u>[New] Secure Footage Leading Stabilizers on YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unmatched-recording-alternatives-for-modern-gaming-enthusiasts-for-2024/"><u>[New] Unmatched Recording Alternatives for Modern Gaming Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-video-prowess-comparison-the-battle-between-cameras/"><u>[Updated] Video Prowess Comparison The Battle Between Cameras</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-final-cut-pro-x-insider-market-vertical-videos-for-instagram-enthusiasts/"><u>2024 Approved Final Cut Pro X Insider' Market Vertical Videos for Instagram Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/audiovisual-elements-in-eye-catching-fb-advertising-for-2024/"><u>Audiovisual Elements in Eye-Catching FB Advertising for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-business-impact-critical-upgrades-for-the-new-apple-vision-pro/"><u>Maximizing Business Impact: Critical Upgrades for the New Apple Vision Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pros-choice-a-comprehensive-ranking-of-the-leading-compact-tablets-in-2024-expert-reviews-and-insights-zdnet/"><u>Pros' Choice: A Comprehensive Ranking of the Leading Compact Tablets in 202^[4 - Expert Reviews & Insights | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/september-2024s-unbeatable-amazon-discounts-find-them-all-in-our-latest-zdnet-roundup/"><u>September 2024'S Unbeatable Amazon Discounts: Find Them All in Our Latest ZDNet Roundup!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-and-analysis-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Models : Comprehensive Reviews and Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-the-best-notetaking-tablets-comprehensive-testing-and-insights/"><u>Ultimate Guide to the Best Notetaking Tablets : Comprehensive Testing & Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-elite-choices-in-small-tablets-of-2n-rigorously-tested-and-ranked/"><u>Unveiling the Elite Choices in Small Tablets of 2N, Rigorously Tested and Ranked</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-husqvarna-h501x4-fpv-quad-examination/"><u>[New] 2024 Approved Husqvarna H501X4 FPV Quad Examination</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-selection-of-top-10-free-srt-changers/"><u>[New] The Comprehensive Selection of Top 10 FREE SRT Changers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolution-in-the-workplace-how-all-employees-will-become-creators-and-users-zdnet-perspectives/"><u>AI Revolution in the Workplace: How All Employees Will Become Creators & Users | ZDNET Perspectives</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/boost-performance-on-a-languid-windows-machine-with-proven-strategies-by-yl-technologies/"><u>Boost Performance on a Languid Windows Machine with Proven Strategies by YL Technologies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/borderlands-3-frame-rate-woes-master-the-art-of-speed-boosts-and-fixes-on-your-pc/"><u>Borderlands 3 Frame Rate Woes? Master the Art of Speed Boosts and Fixes on Your PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/broadcast-success-master-the-art-of-monitor-sharing-on-fb/"><u>Broadcast Success Master the Art of Monitor Sharing on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprise-ready-enhancing-googles-vector-with-custom-training-features-in-genshin-ai/"><u>Enterprise-Ready: Enhancing Google's Vector with Custom Training Features in Genshin AI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-growth-how-openstack-and-kata-containers-capture-increased-market-interest/"><u>Exploring the Growth: How OpenStack and Kata Containers Capture Increased Market Interest</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-showdown-choosing-between-chatgpt-and-microsoft-bing-chat/"><u>Generative AI Showdown: Choosing Between ChatGPT and Microsoft Bing Chat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ubuntu-core-24-paves-the-way-for-next-gen-iot-and-edge-tech-insights-from-zdnets-in-depth-analysis/"><u>How Ubuntu Core 24 Paves the Way for Next-Gen IoT and Edge Tech - Insights From ZDNet's In-Depth Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-sony-xperia-1-v-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Sony Xperia 1 V FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18s-first-look-is-here-beginning-with-the-public-beta-for-certain-iphones-now-how-to-download-and-eligible-device-specifications-macworld/"><u>IOS 18'S First Look Is Here - Beginning with the Public Beta for Certain iPhones Now | How to Download & Eligible Device Specifications | Macworld</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-converter-de-formato-alaw-para-mp3-online-gratuito/"><u>Movavi - Converter De Formato ALAW Para MP3 Online Gratuito</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-low-audio-resonance-in-windows-11-devices/"><u>Overcoming Low Audio Resonance in Windows 11 Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scaling-success-stories-with-stack-overflow-cto-navigating-the-shift-from-bootstrapping-to-managing-web-giants-a-zdnet-feature/"><u>Scaling Success Stories with Stack Overflow CTO: Navigating the Shift From Bootstrapping to Managing Web Giants – A ZDNet Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snowflake-reveals-superior-performance-of-latest-large-language-model-over-metas-llama-3-with-halved-dataset-as-reported-by-zdnet/"><u>Snowflake Reveals Superior Performance of Latest Large Language Model Over Meta's LLaMA 3 with Halved Dataset, As Reported by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-tech-hiring-innovative-methods-for-acquiring-elite-software-expertise/"><u>The Future of Tech Hiring: Innovative Methods for Acquiring Elite Software Expertise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Unveiling the Future of Portable Artificial Intelligence Education"
-date: 2025-02-12T05:19:53.125Z
-updated: 2025-02-15T02:00:29.570Z
+date: 2025-03-02T16:08:26.759Z
+updated: 2025-03-04T17:38:45.284Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -39,10 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -79,10 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -95,10 +83,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -110,10 +94,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -210,21 +190,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-optimize-watching-incorporating-captions-into-wmp/"><u>[New] 2024 Approved Optimize Watching Incorporating Captions Into WMP</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easily-manage-your-snapchat-video-speed/"><u>[New] In 2024, Easily Manage Your Snapchat Video Speed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-laughterbox-easy-entry-endless-entertainment-for-2024/"><u>[Updated] LaughterBox Easy Entry, Endless Entertainment for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>2024 Approved How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-zdnet/"><u>Choosing Between MacBook Pro and MacBook Air - A Comprehensive Guide | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-apples-new-spatial-personalization-on-the-vision-pro-a-step-by-step-guide/"><u>Discover Apple's New Spatial Personalization on the Vision Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-ios-175-beta-2s-new-feature-eu-customers-can-now-get-apps-from-the-internet-with-apples-latest-update-zdnet-analysis/"><u>Discovering iOS 17.5 Beta 2'S New Feature: EU Customers Can Now Get Apps From the Internet with Apple's Latest Update | ZDNET Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/durable-protection-top-rated-straps-and-cases-for-your-apple-watch-and-samsung-z-fold-4-explore-options/"><u>Durable Protection: Top-Rated Straps & Cases for Your Apple Watch and Samsung Z Fold 4 - Explore Options</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-pc-waking-up-activating-wake-on-lan-on-windows-11-explained/"><u>Effortless PC Waking Up: Activating Wake-on-LAN on Windows 11 Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embracing-innovation-how-apples-ipad-pro-stands-out-without-trying-to-replace-your-macbook-tech-reviews/"><u>Embracing Innovation: How Apple's IPad Pro Stands Out Without Trying to Replace Your MacBook Tech Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-unbeatable-value-with-memorial-day-deals-get-the-perfect-apple-watch-se-at-a-60-discount-my-top-pick-of-the-year-insights/"><u>Experience Unbeatable Value with Memorial Day Deals: Get the Perfect Apple Watch SE at a $60 Discount, My Top Pick of the Year - Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipad-pro-or-macbook-air-determining-your-perfect-tech-companion/"><u>IPad Pro or MacBook Air: Determining Your Perfect Tech Companion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigate the World of Technology with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-instagram-leadership/"><u>Step-by-Step Guide to Instagram Leadership</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-ideal-ipad-add-ons-for-apple-devices-insights/"><u>The Ultimate Guide to Selecting Ideal iPad Add-Ons for Apple Devices | Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-curriculum-videos-top-tips-for-classroom-edits/"><u>[New] 2024 Approved Curriculum Videos Top Tips for Classroom Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-can-you-store-high-quality-videos-in-128gb/"><u>[Updated] Can You Store High-Quality Videos in 128Gb?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-3d-text-illustration-in-adobe-illustrator/"><u>[Updated] Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-full-spectrum-review-of-obs-screen-recording-for-2024/"><u>[Updated] The Full Spectrum Review of OBS Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>2024 Approved Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovation-at-the-heart-the-evolution-of-magix-music-maker-for-2024/"><u>Innovation at the Heart The Evolution of Magix Music Maker for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-money-with-8-youtube-aspects/"><u>Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shifting-priorities-how-it-departments-expand-their-roles-amidst-hybrid-work-models-and-cloud-integration-zdnet/"><u>Shifting Priorities: How IT Departments Expand Their Roles Amidst Hybrid Work Models & Cloud Integration | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sunshine-strategies-enhancing-indoor-luminary-quality-for-2024/"><u>Sunshine Strategies Enhancing Indoor Luminary Quality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-understanding-the-importance-of-cloud-security-risks-and-consequences/"><u>The Essential Guide to Understanding the Importance of Cloud Security: Risks & Consequences</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/understanding-windows-defenders-malware-scanning-intervals-tips-from-yl-software-experts/"><u>Understanding Windows Defender's Malware Scanning Intervals - Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-learning-aws-launches-four-new-cloud-training-programs-zdnet/"><u>Unleashing the Power of Learning: AWS Launches Four New Cloud Training Programs - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-i-refuse-to-pay-for-a-blue-checkmark-on-twitter-and-the-premium-features-id-invest-in/"><u>Why I Refuse to Pay for a Blue Checkmark on Twitter, and the Premium Features I'd Invest In</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-insightful-evaluation-of-wp-engine-dependable-hosting-services-for-your-wordpress-site/"><u>ZDNet's Insightful Evaluation of WP Engine: Dependable Hosting Services for Your WordPress Site</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-guide-to-the-leading-cloud-services-of-2-the-best-cloud-storage-providers-professional-rankings-and-insights/"><u>ZDNet's Ultimate Guide to the Leading Cloud Services of 2# The Best Cloud Storage Providers : Professional Rankings and Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Hype: Secure Your Apple Watch Series 10 Today with Savings Tips Inside - Learn More on ZDNet"
-date: 2025-02-12T16:31:08.232Z
-updated: 2025-02-15T05:44:42.707Z
+date: 2025-02-25T17:14:00.194Z
+updated: 2025-03-04T16:34:23.023Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -85,10 +73,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 **Also: [Apple Intelligence will improve Siri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
@@ -113,10 +97,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,24 +138,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>[New] 2024 Approved Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-nurturing-relationships-inspiring-connections-with-your-viewers/"><u>[Updated] In 2024, Nurturing Relationships Inspiring Connections With Your Viewers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-capture-discord-talks-best-ways-to-record-live-streaming-sessions/"><u>2024 Approved Capture Discord Talks Best Ways to Record Live Streaming Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-sending-and-receiving-imessage-on-windows-os-tips/"><u>A Comprehensive Guide: Sending & Receiving iMessage on Windows OS - Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-tablet-picks-for-2eby/"><u>Affordable Tablet Picks for 2Eby/</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-m3-macbook-pro-release-is-it-time-to-upgrade-from-your-m1-model-tech-analysis/"><u>Apple's M3 MacBook Pro Release - Is It Time to Upgrade From Your M1 Model? | Tech Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-the-google-pixel-watch-and-apple-watch-series-8-an-in-depth-comparison-guide/"><u>Choosing Between the Google Pixel Watch and Apple Watch Series 8: An In-Depth Comparison Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-compelling-youtube-content-through-split-screens/"><u>Crafting Compelling YouTube Content Through Split-Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/delayed-launch-apples-ai-integration-postponed-to-october-sources-say-insights/"><u>Delayed Launch: Apple's AI Integration Postponed To October, Sources Say – Insights</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-5-earbuds-youtubes-best-companions/"><u>Elite 5 Earbuds YouTube's Best Companions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-20-discount-top-picks-in-portable-gear-for-remote-workers-mobile-protectors-and-power-sources-techspot/"><u>Exclusive 20% Discount: Top Picks in Portable Gear for Remote Workers - Mobile Protectors & Power Sources | TechSpot</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xs-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XS Without a Passcode</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/julys-premier-iphone-bargains-exclusive-deals-on-the-latest-models-zdnet-tech-guide/"><u>July's Premier iPhone Bargains: Exclusive Deals on the Latest Models | ZDNet Tech Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211317977-9798985816891-the-timing-of-everything-promised-vol-2/"><u>The Timing of Everything Promised Vol. 2 | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-affordable-tablets-of-2024-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top Affordable Tablets of 2024: In-Depth Analysis & Reviews by Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16-iphone-16-pro-protective-covers-reviewed-by-tech-experts/"><u>Top-Rated iPhone 16 / iPhone 16 Pro Protective Covers Reviewed by Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-superior-sound-with-tvos-18-upgrade-elevate-your-apple-tv-experience/"><u>Unlock Superior Sound with TvOS 18 Upgrade: Elevate Your Apple TV Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-journey-from-photo-album-to-video-storyboard-for-2024/"><u>[New] The Journey From Photo Album to Video Storyboard for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pros-best-practices-free-template-samples/"><u>2024 Approved Premiere Pro's Best Practices FREE Template Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cto-reveals-secrets-behind-scaling-up-stack-overflow-as-one-of-the-internets-premier-platforms-exclusive-coverage-on-zdnet/"><u>CTO Reveals Secrets Behind Scaling Up Stack Overflow as One of the Internet's Premier Platforms | Exclusive Coverage on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-fluctuating-popularity-of-programming-languages-since-2016-revealing-key-patterns-and-predictions/"><u>Decoding the Fluctuating Popularity of Programming Languages Since 2016 - Revealing Key Patterns and Predictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/developing-a-mobile-application-with-chatgpt-step-by-step-guide/"><u>Developing a Mobile Application with ChatGPT: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-linux-kernel-with-linus-torvalds-delving-into-ai-embracing-rust-and-unveiling-core-priorities-zdnet-deep-dive/"><u>Exploring the Linux Kernel with Linus Torvalds: Delving Into AI, Embracing Rust, and Unveiling Core Priorities | ZDNET Deep Dive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-failed-to-run-task-sequence-error-0x8007000f-in-windows/"><u>How to Fix the Failed to Run Task Sequence Error 0X8007000f in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone XS Max with a Broken Screen?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-disabled-secure-boot-feature-in-windows-bios/"><u>Reinvigorating Disabled Secure Boot Feature in Windows BIOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-prime-day-deal-the-top-non-thinkpadmacbook-laptop-boosting-productivity-at-half-price-exclusive-insights/"><u>Unbeatable Prime Day Deal: The Top Non-ThinkPad/MacBook Laptop Boosting Productivity at Half Price - Exclusive Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-innovative-test-pits-timeless-art-against-modern-tech-chatgpt-fails-to-match-the-sonnets-creativity/"><u>ZDNet's Innovative Test Pits Timeless Art Against Modern Tech: ChatGPT Fails to Match the Sonnet’s Creativity</u></a></li>
 </ul></div>
 

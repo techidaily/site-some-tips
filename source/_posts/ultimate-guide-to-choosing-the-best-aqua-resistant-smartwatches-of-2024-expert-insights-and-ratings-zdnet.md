@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Choosing the Best Aqua-Resistant Smartwatches of 2024: Expert Insights and Ratings | ZDNet"
-date: 2025-02-08T20:05:12.656Z
-updated: 2025-02-14T16:08:46.918Z
+date: 2025-03-02T16:07:47.067Z
+updated: 2025-03-04T17:02:41.612Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What is the best waterproof smartwatch right now?
 
@@ -80,10 +76,6 @@ Cons
 
 ## Apple Watch Series 9
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best waterproof smartwatch for most iPhone users
 
 Released in 2023, the Series 9 model builds upon the Apple Watch legacy. Similar to the [Ultra 2,](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-ultra-2/) the Series 9 supports a [double tap gesture](https://www.zdnet.com/article/apple-watch-series-9s-double-tap-takes-a-popular-accessibility-feature-to-the-next-level/) that allows you to control your phone by simply tapping your index finger and thumb together. With this feature, you can do everything from answering calls, snoozing your morning alarm, playing or pausing media, ending timers, and more.
@@ -113,10 +105,6 @@ Pros
 
 Cons 
 * Expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Garmin Quatix 7 Pro
 
@@ -148,10 +136,6 @@ Pros
 Cons 
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Garmin Venu 3S
 
 ### Best waterproof Garmin smartwatch for most people
@@ -182,10 +166,6 @@ Cons
 
 ## Samsung Galaxy Watch 6 Classic
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best waterproof Samsung smartwatch
 
 Samsung's latest smartwatch, the Galaxy Watch 6 Classic, was unveiled along with the Galaxy Watch 6 at its [2023 Unpacked](https://www.zdnet.com/article/every-product-announced-at-samsung-unpacked-galaxy-z-fold-5-watch-6-classic-tab-s9-more/) event last summer. Both watches in the 6 Series offer [the One UI 5 software update](https://www.zdnet.com/article/these-one-ui-5-features-give-us-a-first-look-at-samsungs-upcoming-galaxy-watches/), focusing more on sleep tracking, fitness, and safety features. However, the 6 Classic offers the most extensive Samsung Watch display (1.5 Super AMOLED), bringing back the Samsung-unique rotating bezel. 
@@ -214,10 +194,6 @@ Pros
 
 Cons 
 * Limited notification and app support
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Coros Apex 2 Pro
 
@@ -251,10 +227,6 @@ Cons
 * Questionable heart rate readings
 * One size available
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suunto Race
 
 ### Best waterproof smartwatch with lap counter
@@ -286,10 +258,6 @@ If you're an Android user, you may prefer a Samsung Galaxy 6 Classic -- the newe
 | Samsung Galaxy Watch 6 Classic | $400      | 40 hours         | 43mm and 47mm      |
 | Coros Apex 2 Pro               | $450      | 14 days          | 46.1mm             |
 | Suunto Race                    | $450      | 12 days          | 49mm               |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right waterproof smartwatch for you?
 
@@ -338,10 +306,6 @@ Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone d
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you use a cellular Apple Watch as a standalone device?
 
@@ -403,24 +367,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-superior-screen-reporter-optimal-chromebook-choice-for-2024/"><u>[New] Superior Screen Reporter Optimal Chromebook Choice for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-customizing-your-pixels-melodic-identity-for-2024/"><u>[Updated] Customizing Your Pixel's Melodic Identity for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-metaverse-frontiers-with-elite-vr-equipment-for-2024/"><u>[Updated] Exploring Metaverse Frontiers with Elite VR Equipment for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/amvflv-movavi/"><u>無條件免費網路過渡Amv為Flv - Movavi 自動化編解碼器</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-ipad-pro-and-macbook-air-an-ultimate-comparison-guide-find-your-perfect-tech-companion/"><u>Choosing Between iPad Pro and MacBook Air: An Ultimate Comparison Guide - Find Your Perfect Tech Companion!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-iphones-iphone-14-pro-and-iphone-13-pro-which-model-gives-you-more-bang-for-your-buck/"><u>Comparing iPhones: IPhone 14 Pro & iPhone 13 Pro - Which Model Gives You More Bang for Your Buck?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-apple-music-enables-seamless-playlist-sharing-with-youtube-music-a-step-by-step-guide/"><u>How Apple Music Enables Seamless Playlist Sharing with YouTube Music – A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-outdated-or-corrupted-graphics-drivers-can-cause-minecraft-to-crash-on-your-windows-pc-and-how-to-fix-it/"><u>How Outdated or Corrupted Graphics Drivers Can Cause Minecraft to Crash on Your Windows PC – and How to Fix It</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-compact-mp3-skype-archive-on-the-cheap/"><u>In 2024, Compact MP3 Skype Archive on the Cheap</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-moto-e13-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola Moto E13</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-pioneering-televised-facebook-interactions-via-live-streams/"><u>In 2024, Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/presidential-bargain-extravaganza-secure-your-202n3-m2-macbook-air-with-a-whopping-300-markdown/"><u>Presidential Bargain Extravaganza: Secure Your 202N3 M2 MacBook Air with a Whopping $300 Markdown!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-esr-qi2-magsafe-accessories-fast-cool-iphones-in-under-30-minutes-discover-how/"><u>Revolutionary ESR Qi2 MagSafe Accessories: Fast, Cool iPhones in Under 30 Minutes - Discover How!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-secret-behind-the-blue-status-update-sticker-for-2024/"><u>The Secret Behind the Blue Status Update Sticker for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16-and-pro-protection-gear-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated iPhone 16 & Pro Protection Gear : Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transferring-apple-music-playlist-content-between-apple-and-google-services-a-comprehensive-tutorial/"><u>Transferring Apple Music Playlist Content Between Apple and Google Services: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upgrading-to-ios-18-may-cause-issues-with-select-ipad-models-essential-pre-installation-info/"><u>Upgrading to iOS 18 May Cause Issues with Select iPad Models - Essential Pre-Installation Info</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-its-essential-to-sanitize-your-earbuds-a-step-by-step-cleaning-process-for-airpod-users-techtips-today/"><u>Why It's Essential to Sanitize Your Earbuds: A Step-by-Step Cleaning Process for AirPod Users | TechTips Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimize-your-zoom-soundscape-clear-channel-balance-achieved/"><u>[New] In 2024, Optimize Your Zoom Soundscape Clear Channel Balance Achieved</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-mac-screenshot-methods-a-comprehensive-list-for-2024/"><u>[New] Quick Mac Screenshot Methods A Comprehensive List for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-a-guide-to-finding-hidden-youtube-treasures/"><u>[Updated] In 2024, A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-your-first-youtube-journey-a-money-making-blueprint/"><u>2024 Approved Your First Youtube Journey A Money-Making Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/as-operational-excellence-gains-traction-within-corporate-tech-environments-challenges-rise-too/"><u>As Operational Excellence Gains Traction Within Corporate Tech Environments, Challenges Rise Too</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-linux-kernel-version-69-update-top-three-features-you-need-to-know-tech-insights/"><u>Best Linux Kernel Version 6.9 Update - Top Three Features You Need To Know! | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-microsofts-innovative-financial-assistant-introducing-copilot-the-new-ai-powered-chatbot/"><u>Explore Microsoft's Innovative Financial Assistant: Introducing Copilot the New AI-Powered Chatbot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-upgraded-the-new-gloriously-smooth-64-bit-operating-system-for-raspberry-pi-is-here-installation-guide-by-zdnet/"><u>Get Upgraded: The New Gloriously Smooth 64-Bit Operating System for Raspberry Pi Is Here - Installation Guide by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-5-methods-for-bulk-adding-contacts-from-vcf-files-to-your-iphone-models-11-12-13-and-14/"><u>Top 5 Methods for Bulk Adding Contacts From VCF Files to Your iPhone (Models 11, 12, 13 & 14)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
 </ul></div>
 

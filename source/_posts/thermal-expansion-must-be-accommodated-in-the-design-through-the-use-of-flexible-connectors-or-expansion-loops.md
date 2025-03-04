@@ -1,7 +1,7 @@
 ---
 title: Thermal Expansion Must Be Accommodated in the Design Through the Use of Flexible Connectors or Expansion Loops.
-date: 2025-02-09T07:25:53.372Z
-updated: 2025-02-15T03:49:01.412Z
+date: 2025-03-02T17:30:43.830Z
+updated: 2025-03-04T16:09:10.401Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ With my local sales tax, the 512GB model, with the $199 travel case, totaled jus
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Stick with MacOS apps, if you can
 
 In my day job, I serve as a professional naval architect, and at this stage in my 30-year career, I develop stability calculations, review design drawings, write reports and proposals, meet with clients on Teams, and manage other associates. We work in a Windows environment because many of our engineering programs are limited to the operating system.
@@ -58,10 +54,6 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Native Microsoft apps are fairly limited
 
 Besides the Horizon client covering my Windows software needs, I also use Outlook, Teams, Excel, and Word. These four applications are available on VisionOS, but the experiences are more barebones at the time of writing, especially when compared to the desktop versions. I also recommend using a Bluetooth keyboard, and only a Bluetooth keyboard, for text entry, because [any form of virtual input](https://www.youtube.com/shorts/8cHSCuIAz5g) on the Vision Pro simply won't cut it for work.
@@ -69,10 +61,6 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 **Also: [Sony's new XR headset is more 'pro' than Vision Pro and has 2 features Apple needs](https://www.zdnet.com/article/sonys-new-xr-headset-is-more-pro-than-vision-pro-and-has-2-features-apple-needs/)**
 
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
 
@@ -84,17 +72,9 @@ Matthew Miller/ZDNET
 
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Privacy and security are secretly fantastic
 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -130,17 +110,19 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-idea-to-execution-reviewing-spring-screenrecorder/"><u>[New] 2024 Approved From Idea to Execution - Reviewing Spring ScreenRecorder</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-shield-against-random-youtube-video-plays/"><u>[New] 2024 Approved Shield Against Random YouTube Video Plays</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast/"><u>[Updated] 2024 Approved The Ultimate Guide to Professional Livestreamers VMix or Wirecast?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-best-cameras-the-creme-de-la-crop-of-mobile-video-recorders/"><u>[Updated] Best Cameras The Crème De La Crop of Mobile Video Recorders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-6-minecraft-village-house-ideas/"><u>[Updated] In 2024, Top 6 Minecraft Village House Ideas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avoiding-ios-14-issues-on-your-ipad-essential-pre-installation-tips-zdnet/"><u>Avoiding iOS 14 Issues on Your iPad - Essential Pre-Installation Tips | ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-making-yt-thumbnails-pop-a-mac-centric-approach/"><u>In 2024, Making YT Thumbnails Pop A Mac-Centric Approach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/limited-time-offer-alert-apples-vision-pro-now-on-amazon-with-an-exclusive-200-cut-analysis/"><u>Limited-Time Offer Alert: Apple's Vision Pro Now on Amazon with an Exclusive $200 Cut Analysis</u></a></li>
-<li><a href="https://win-superb.techidaily.com/simple-steps-to-retrieve-files-from-an-unresponsive-external-hdd/"><u>Simple Steps to Retrieve Files From an Unresponsive External HDD</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-showdown-comparing-features-of-the-m1-vs-m2-ipad-pro-for-informed-decision-making/"><u>The Ultimate Showdown: Comparing Features of the M1 Vs. M2 iPad Pro for Informed Decision-Making</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-in-animation-transform-your-ideas-into-breathtaving-artwork-using-midjourneys-advanced-model/"><u>Unleashing Creativity in Animation: Transform Your Ideas Into Breathtaving Artwork Using MidJourney's Advanced Model</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-mystery-how-did-crowdstrike-influence-windows-2024-meltdown-crisis-a-historical-insight-zdnet/"><u>Unveiling The Mystery: How Did CrowdStrike Influence Windows' 2024 Meltdown Crisis? A Historical Insight - ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversione-jpeg-a-tiff-online-gratuita-movavi/"><u>Conversione JPEG a TIFF OnLine Gratuita - Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cutthroat-capitalism-across-the-stars-a-critical-look-at-offworld-trading-companys-empire-expansion/"><u>Cutthroat Capitalism Across the Stars - A Critical Look at Offworld Trading Company's Empire Expansion</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-your-pc-with-these-critical-windows-update-tips/"><u>Empower Your PC with These Critical Windows Update Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/googles-strategic-shift-to-empower-device-integration-new-era-of-tv-based-home-hubs-with-access-to-600-million-devices-unveiled-explore-the-details-on-zdnet43/"><u>Google's Strategic Shift to Empower Device Integration: New Era of TV-Based Home Hubs with Access to 600 Million Devices Unveiled | Explore the Details on ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-bridging-past-and-present-successfully-live-streaming-recorded-media/"><u>In 2024, Bridging Past and Present Successfully Live-Streaming Recorded Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-p55plus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel P55+ Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a79-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A79 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-devops-on-a-shoestring-affordable-linux-bootcamp-now-available-techzine/"><u>Mastering DevOps on a Shoestring: Affordable Linux Bootcamp Now Available | TechZine</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-vyncs-link-robust-performance-with-enigmaturated-subscription-models/"><u>Navigating Through Vyncs Link: Robust Performance with Enigmaturated Subscription Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-wi-fi-troubleshooting-tackling-wireless-adapter-and-access-point-error-messages/"><u>Quick Fixes for Wi-Fi Troubleshooting: Tackling Wireless Adapter and Access Point Error Messages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/six-keys-to-successful-agility-in-software-design-insights-from-the-industry-experts-techspot/"><u>Six Keys to Successful Agility in Software Design: Insights From the Industry Experts | TechSpot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-ai-predictions-for-the-next-ten-years-and-beyond-insights-from-zdnet/"><u>The Future of AI: Predictions for the Next Ten Years and Beyond - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-potential-of-generative-ai-through-agile-techniques-insights-and-strategies-zdnet/"><u>Unleashing the Potential of Generative AI Through Agile Techniques: Insights and Strategies | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nokia G310? | Dr.fone</u></a></li>
 </ul></div>
 

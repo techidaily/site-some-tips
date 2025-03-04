@@ -1,7 +1,7 @@
 ---
 title: "DOJ Legal Action Againnst Apple Deciphered: Consequences for Users & App Creators | Explored by ZDNET"
-date: 2025-02-09T06:23:35.581Z
-updated: 2025-02-15T08:26:44.958Z
+date: 2025-03-01T17:36:50.051Z
+updated: 2025-03-04T17:36:16.760Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Security and privacy implications
 
   
@@ -74,10 +70,6 @@ Sideloading increases the risk of malware infections, phishing attacks, data lea
 Sideloading could circumvent iOS's privacy controls, allowing apps to access and share user data without proper oversight. Apps obtained outside of the App Store might not receive timely updates, exposing users to unpatched security vulnerabilities.
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## App Store changes
 
@@ -103,10 +95,6 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -115,10 +103,6 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Payment, wallet, and digital identity diversification:** In addition to new open transaction and digital identity platforms like OpenWallet, we might see further diversification in the digital wallet and payment systems market, reducing Apple's control over financial transactions with the predominance of Apple Pay on iOS devices, and potentially lowering transaction fees.
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
 
@@ -129,10 +113,6 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -170,24 +150,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>[New] 2024 Approved How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-velocity-strategic-use-of-likes-and-videos-for-growth/"><u>[New] 2024 Approved Insta Velocity Strategic Use of Likes & Videos for Growth</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-detailed-insights-into-youtubes-monthly-income-model/"><u>[New] In 2024, Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-comprehensive-examination-videon-x-the-ultimate-video-editor/"><u>[Updated] Comprehensive Examination Videon X – The Ultimate Video Editor</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-epicurean-envoys-the-best-food-vloggers-to-watch/"><u>[Updated] In 2024, Epicurean Envoys The Best Food Vloggers to Watch</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-best-asmr-series-on-youtube-platform/"><u>2024 Approved Best ASMR Series on YouTube Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-whats-next-from-apple-a-deep-dive-into-wwdc-announcements-featuring-vision-pro-headset-and-revamped-mac-pro-zdnet/"><u>Discover What's Next From Apple: A Deep Dive Into WWDC Announcements Featuring Vision Pro Headset & Revamped Mac Pro | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-cutting-edge-enhancements-vision-pro-boosted-with-top-apple-features-at-a-competitive-rate-insights-from-zdnet/"><u>Experience Cutting-Edge Enhancements: Vision Pro Boosted with Top Apple Features at a Competitive Rate - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-nonfunctional-audio-output-in-windows-10-a-step-by-step-guide/"><u>Fixing Nonfunctional Audio Output in Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-14-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 14 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/integrating-enterprise-solutions-with-apple-vision-pro-a-closer-look-by-zdnet/"><u>Integrating Enterprise Solutions with Apple Vision Pro: A Closer Look by ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-youtube-creation-standard-studio-or-innovative-beta-for-2024/"><u>Mastering YouTube Creation Standard Studio or Innovative Beta for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/overcoming-vision-limitations-with-budget-friendly-xr-glasses-bypassing-the-expensive-appeal-of-high-end-devices/"><u>Overcoming Vision Limitations with Budget-Friendly XR Glasses | Bypassing the Expensive Appeal of High-End Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/qualcomm-samsung-and-google-join-forces-on-innovative-mixed-reality-eyewear-how-this-secret-project-could-transform-the-future-of-smart-glasses-technology.m7/"><u>Qualcomm, Samsung, and Google Join Forces on Innovative Mixed Reality Eyewear: How This Secret Project Could Transform the Future of Smart Glasses Technology</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tap-into-endless-stock-imagery-through-favorite-4-youtube-vids-for-2024/"><u>Tap Into Endless Stock Imagery Through Favorite 4 Youtube Vids for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-affection-for-apples-vision-pro-revealed-by-a-store-associate-exclusive-zdnet-feature/"><u>The Secret Behind My Affection for Apple's Vision Pro Revealed by a Store Associate | Exclusive ZDNet Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ar-glasses-comprehensive-review-by-tech-experts/"><u>Top AR Glasses : Comprehensive Review by Tech Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranked-ar-headsets-see-whats-trending-according-to-zdnet/"><u>Top-Ranked AR Headsets : See What's Trending According to ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-metas-hidden-virtual-reality-masterpiece-a-potential-game-changer-for-the-tech-world-eclipsing-apples-vision-pro/"><u>Unveiling Meta's Hidden Virtual Reality Masterpiece: A Potential Game-Changer for the Tech World, Eclipsing Apple's Vision Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-webcam-selection-for-podcasting/"><u>[New] Ultimate Webcam Selection for Podcasting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-channel-prodigy-skyrocketing-with-content-innovation-for-2024/"><u>[Updated] Channel Prodigy Skyrocketing with Content Innovation for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-capturing-excellence-the-best-of-windows-11-methods-unveiled-for-2024/"><u>[Updated] Game Capturing Excellence The Best of Windows 11 Methods Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-temporal-and-spatial-shifts-in-filmmaking/"><u>2024 Approved Mastering Temporal & Spatial Shifts in Filmmaking</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-free-android-capturer/"><u>2024 Approved Ultimate Free Android Capturer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-amplifies-market-presence-with-new-initiatives-unveiled-at-reinvent-2021-insights-from-zdnet/"><u>AWS Amplifies Market Presence with New Initiatives Unveiled at Re:Invent 2021 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-skills-without-overemphasizing-ai-insights-from-techedge-dive-into-non-ai-innovations-for-personal-growth/"><u>Boost Your Skills Without Overemphasizing AI: Insights From TechEdge - Dive Into Non-AI Innovations for Personal Growth!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-collaboration-how-the-meta-amazon-web-services-partnership-intends-to-elevate-pytorch-deployment/"><u>Expanding Collaboration: How the Meta-Amazon Web Services Partnership Intends to Elevate PyTorch Deployment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-not-installed-easy-anti-cheat-error-in-eac-launching-successfully/"><u>How To Overcome The 'Not Installed' Easy Anti-Cheat Error in EAC Launching Successfully</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-must-have-3d-video-editing-software-for-creators/"><u>New Must-Have 3D Video Editing Software for Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/powering-future-ai-with-big-data-how-nvidia-partners-with-snowflake-for-enhanced-language-models-explored-by-zdnet/"><u>Powering Future AI with Big Data: How Nvidia Partners with Snowflake for Enhanced Language Models - Explored by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-for-msi-afterburner-not-detecting-graphics-card-on-windows-11/"><u>Solution Steps for MSI Afterburner Not Detecting Graphics Card on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-workflow-integrate-onedrive-and-microsoft-id/"><u>Streamline Your Workflow: Integrate OneDrive & Microsoft ID</u></a></li>
 </ul></div>
 

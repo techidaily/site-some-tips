@@ -1,7 +1,7 @@
 ---
 title: "}"
-date: 2025-02-08T18:39:20.811Z
-updated: 2025-02-14T16:17:04.699Z
+date: 2025-02-26T16:34:40.100Z
+updated: 2025-03-04T17:31:35.230Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf5e47bbf-b86c-43b8-bd90-4210f6985a11%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -79,10 +75,6 @@ Cons
 * Cameras aren't as great as other options
 
 ## Amazon Fire 7 Tablet
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget small tablet
 
@@ -145,10 +137,6 @@ Cons
 
 ## Amazon Kindle 11th generation
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best small tablet for reading
 
 The upgraded 11th-generation Kindle offers 16GB of storage instead of 8GB, 300ppi instead of 167ppi, six weeks of battery life instead of four weeks, and charging via USB-C instead of micro-USB. 
@@ -176,10 +164,6 @@ Pros
 
 Cons 
 * Performance could be better
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
 
@@ -228,10 +212,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -250,10 +230,6 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -267,10 +243,6 @@ Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the ap
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
@@ -322,18 +294,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-inshot-film-splits/"><u>[New] Expert Tips on Inshot Film Splits</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-gimp-ultimate-editing-course-review/"><u>[Updated] GIMP Ultimate Editing Course Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfecting-package-adventure-for-all/"><u>[Updated] In 2024, Perfecting Package Adventure for All</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>2024 Approved Maximizing Socialization with Ease Xbox One's Zoom Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/breaking-down-todays-apple-worldwide-developers-conference-insights-into-enhanced-intelligence-siri-updates-and-the-introduction-of-ios-18-macworld/"><u>Breaking Down Today’s Apple Worldwide Developers Conference: Insights Into Enhanced Intelligence, Siri Updates, and the Introduction of iOS 18 | Macworld</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/customizing-the-new-control-center-in-ios-18-expert-advice-and-tricks-for-a-tailored-iphone-experience-zdnet-insights/"><u>Customizing the New Control Center in iOS 18: Expert Advice and Tricks for a Tailored iPhone Experience | ZDNET Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722969843768-download-and-install-drivers-for-the-hp-deskjet-ink-advantage-3520-easily/"><u>Download & Install Drivers for the HP Deskjet Ink Advantage 3520 Easily!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/googles-new-challenger-pixel-watch-vs-apple-watch-series-8-expert-insights-for-your-perfect-buy/"><u>Google's New Challenger: Pixel Watch Vs. Apple Watch Series 8 - Expert Insights for Your Perfect Buy</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ize-your-content-searchability-with-these-7-top-tier-youtube-tags-extractor-tools/"><u>Optimize Your Content Searchability with These 7 Top-Tier Youtube Tags Extractor Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/speed-at-impact-the-higher-the-speed-the-more-severe-the-damage-tends-to-be/"><u>Speed at Impact - The Higher the Speed, the More Severe the Damage Tends to Be.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-exciting-ios-upgrades-on-the-new-iphone-16-pro-revealed/"><u>Top 5 Exciting iOS Upgrades on the New iPhone 16 Pro Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unexpected-urge-how-a-flash-sale-on-amazon-convinced-me-to-purchase-an-apple-watch-insights-from-zdnet/"><u>Unexpected Urge: How a Flash Sale on Amazon Convinced Me to Purchase an Apple Watch - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elegant-toolset-top-5-for-syncing-imagery-with-music/"><u>[Updated] 2024 Approved Elegant Toolset Top 5 for Syncing Imagery with Music</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-disseminate-your-tiktok-on-twitter-effectively/"><u>[Updated] In 2024, Disseminate Your TikTok on Twitter Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-two-decades-of-canonicals-impact-on-ubuntu-and-open-source-innovation-a-tribute-by-zdnet/"><u>Celebrating Two Decades of Canonical's Impact on Ubuntu and Open-Source Innovation - A Tribute by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-to-leading-microsoft-certification-programs-optimizing-your-tech-skills/"><u>Comprehensive Guide to Leading Microsoft Certification Programs: Optimizing Your Tech Skills</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crafting-quality-content-setting-up-your-mac-for-minecraft-sessions/"><u>Crafting Quality Content Setting Up Your Mac for Minecraft Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-shifts-in-programming-languages-demand-since-2016-and-implications-for-developers-analysis-by-zdnet/"><u>Decoding the Shifts in Programming Languages' Demand Since 2016 and Implications for Developers - Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-pointing-out-user-created-gpt-models-during-chatgpt-interactions/"><u>Effective Strategies for Pointing Out User-Created GPT Models During ChatGPT Interactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-deploy-multiple-artificial-intelligence-models-locally-tips-for-mac-and-windows-users-without-cloud-services/"><u>Efficiently Deploy Multiple Artificial Intelligence Models Locally: Tips for MAC and Windows Users Without Cloud Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-with-cookiebots-leading-conversion-optimization/"><u>Enhance Your Website with Cookiebot's Leading Conversion Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-langchain-for-effective-generative-ai-assistance-unveiling-the-tactics-at-zdnet/"><u>Harnessing LangChain for Effective Generative AI Assistance - Unveiling the Tactics at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-safeguard-your-system-against-60-weekly-vulnerabilities-spotted-by-the-linux-security-team-zdnet-insights/"><u>How to Safeguard Your System Against 60 Weekly Vulnerabilities Spotted by The Linux Security Team | ZDNET Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-chromecast-for-seamless-pc-screen-mirroring-on-your-home-television-setup/"><u>How to Use Chromecast for Seamless PC Screen Mirroring on Your Home Television Setup</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>In 2024, Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-fundamentals-of-secure-shell-a-beginners-guide-with-essential-tips-for-enhanced-security-techexplorer/"><u>Mastering the Fundamentals of Secure Shell: A Beginner's Guide with Essential Tips for Enhanced Security | TechExplorer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-screen-sharing-in-google-meet-mobiledesktop/"><u>Navigating Screen Sharing in Google Meet Mobile/Desktop</u></a></li>
 </ul></div>
 

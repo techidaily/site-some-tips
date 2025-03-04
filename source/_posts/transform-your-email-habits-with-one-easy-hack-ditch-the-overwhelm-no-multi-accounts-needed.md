@@ -1,7 +1,7 @@
 ---
 title: Transform Your Email Habits with One Easy Hack - Ditch the Overwhelm, No Multi-Accounts Needed
-date: 2025-02-11T02:22:12.446Z
-updated: 2025-02-15T08:26:57.284Z
+date: 2025-03-02T16:43:42.602Z
+updated: 2025-03-04T16:02:16.003Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -64,10 +60,6 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using Gmail
 
 Although it's the world's most popular email service, Gmail's implementation of aliases is surprisingly limited. To create an alias, you start with your primary address and then modify it by adding a plus sign at the end and then adding some extra text. If your address is example@gmail.com, you can use example+news@gmail.com, example+family@gmail.com, etc.
@@ -75,10 +67,6 @@ Although it's the world's most popular email service, Gmail's implementation of 
 **Also: [Running out of Gmail storage? How to get another 15GB for free](https://www.zdnet.com/article/running-out-of-gmail-storage-how-to-get-another-15gb-for-free/)**
 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
 
@@ -90,10 +78,6 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using your Apple ID
 
 If you own an iPhone, iPad, or MacBook, you can use that device to create up to three email aliases that go to an address associated with your Apple ID. This feature is called [Hide My Email](https://support.apple.com/guide/icloud/what-are-email-aliases-in-icloud-mail-mm074af79454/1.0/icloud/1.0), and it uses the iCloud domain as its forwarding mechanism.
@@ -103,10 +87,6 @@ The one catch is that each alias uses an auto-generated name that can be less th
 **Also: [You can easily move your photos from Google Photos to iCloud Photos. Here's how](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/)**
 
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other alias options
 
@@ -146,24 +126,19 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-virtual-gallery-combining-crescendos-with-clarity-for-2024/"><u>[New] Virtual Gallery Combining Crescendos with Clarity for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-iconic-imagery-stories-a-peek-inside/"><u>[Updated] Iconic Imagery Stories A Peek Inside</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>2024 Approved Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-transitioning-from-fbx-to-advanced-gametime-loggers/"><u>2024 Approved Transitioning From FBX to Advanced Gametime Loggers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-elite-armor-expertly-tested-and-reviewed-best-case-options-for-iphone-16-and-pro-models/"><u>2024'S Elite Armor: Expertly Tested and Reviewed Best Case Options for iPhone 16 and Pro Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-elite-lineup-of-apple-watches-in-depth-analysis-and-ratings-for-savvy-consumers/"><u>2024'S Elite Lineup of Apple Watches: In-Depth Analysis and Ratings for Savvy Consumers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/banish-email-overload-effortlessly-using-this-single-strategy-learn-how-from-zdnets-latest-guide/"><u>Banish Email Overload Effortlessly Using This Single Strategy - Learn How From ZDNet's Latest Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-a-plan-for-file-explorer-in-windows-11/"><u>Crafting a Plan for File Explorer in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-guide-turning-personal-images-into-custom-imessage-stickers/"><u>Easy Guide: Turning Personal Images Into Custom iMessage Stickers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-apple-macbook-with-new-macos-15-top-features-and-free-update-insights/"><u>Enhance Your Apple MacBook with New MacOS 15: Top Features and Free Update Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-ipad-key-configuration-tips-every-apple-enthusiast-and-veteran-needs-to-know-expert-advice-by-zdnet/"><u>Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-huawei-p60-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Huawei P60</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protect-your-memories-effortless-iphone-and-mac-backup-strategies-using-icloud-insights-by-zdnet/"><u>Protect Your Memories: Effortless iPhone & Mac Backup Strategies Using iCloud, Insights by ZDNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-speech-recognition-issues-top-5-fixes-for-iphone-users/"><u>Solving Speech Recognition Issues: Top 5 Fixes for iPhone Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/story-2-the-diabetic-dilemma/"><u>Story 2: The Diabetic Dilemma</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-next-gen-macbook-air-arrives-with-enhanced-13-and-15-inch-sizes-now-packing-apples-new-m3-chip-explore-whats-improved-zdnet/"><u>The Next-Gen MacBook Air Arrives with Enhanced 13 and 15 Inch Sizes, Now Packing Apple's New M3 Chip: Explore What's Improved | ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-tcl-50s425-50-inch-4k-smart-tv-quality-and-affordability-explored/"><u>Ultimate Guide to the TCL 50S425 50-Inch 4K Smart TV: Quality and Affordability Explored</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-framefusion-creator/"><u>[Updated] 2024 Approved FrameFusion Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-overcoming-azure-server-constraints-strategies-for-customer-success/"><u>1. Overcoming Azure Server Constraints: Strategies for Customer Success</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-luminary-megascape-ultimate-4k-integrated-hubs/"><u>2024 Approved Luminary MegaScape Ultimate 4K Integrated Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-cloud-ventures-into-blockchain-powered-public-services-as-partner-in-sg-government-cloud-project/"><u>Alibaba Cloud Ventures Into Blockchain-Powered Public Services as Partner in SG Government Cloud Project</u></a></li>
+<li><a href="https://some-tips.techidaily.com/businesses-in-singapore-battling-rising-threats-of-ransomware-and-phishing-insights-from-zdnet/"><u>Businesses in Singapore Battling Rising Threats of Ransomware & Phishing: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-google-one-benefits-and-pricing-can-this-cloud-solution-be-cost-effective-for-you/"><u>Decoding Google One Benefits & Pricing - Can This Cloud Solution Be Cost-Effective for You?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/devops-craze-continues-to-heat-up-yet-experts-agree-on-the-imperative-for-enhanced-practices-zdnet/"><u>DevOps Craze Continues to Heat Up, Yet Experts Agree on the Imperative for Enhanced Practices | ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhancing-creativity-via-virtual-landscapes/"><u>Enhancing Creativity via Virtual Landscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-windows-11-secures-your-files-understanding-the-backup-feature/"><u>How Windows 11 Secures Your Files: Understanding the Backup Feature</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Moto G34 5G</u></a></li>
+<li><a href="https://techidaily.com/maximizing-online-visibility-essential-tips-for-effective-page-optimization/"><u>Maximizing Online Visibility: Essential Tips for Effective Page Optimization</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-reno-11f-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Reno 11F 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

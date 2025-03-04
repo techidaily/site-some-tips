@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPad? Top 10 Vital Techniques and Configurations Every Newcomer and Expert Must Know
-date: 2025-02-13T16:48:40.483Z
-updated: 2025-02-14T17:36:01.851Z
+date: 2025-03-01T16:28:36.560Z
+updated: 2025-03-04T16:25:49.129Z
 tags:
   - apple
 categories:
@@ -74,10 +74,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -88,19 +84,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,10 +104,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -127,10 +111,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -180,19 +160,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-boost-your-youtube-video-to-million-views-quickly-for-2024/"><u>[Updated] Boost Your YouTube Video to Million Views Quickly for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>[Updated] In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-guide-mastering-ez-grabber-for-2024/"><u>[Updated] Step-by-Step Guide Mastering EZ Grabber for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-a-comprehensive-guide-to-achieving-smooth-color-keying/"><u>2024 Approved A Comprehensive Guide to Achieving Smooth Color-Keying</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-challenges-gpt-4-with-realm-the-on-device-ai-that-outperforms-rivals-featured-on-zdnet/"><u>Apple Challenges GPT-4 with ReaLM: The On-Device AI That Outperforms Rivals, Featured on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-guide-access-apple-product-user-manuals-technical-specifications-and-repair-instructions-aggregated-on-zdnet/"><u>Comprehensive Guide: Access Apple Product User Manuals, Technical Specifications & Repair Instructions - Aggregated on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-true-condition-of-your-apple-watchs-battery-unveiling-unexpected-insights/"><u>Discover the True Condition of Your Apple Watch's Battery - Unveiling Unexpected Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-downloading-videos-from-forum-discussions/"><u>Effective Strategies for Downloading Videos From Forum Discussions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/future-of-ar-discover-which-key-applications-miss-the-cut-for-apples-revolutionary-vision-pro/"><u>Future of AR: Discover Which Key Applications Miss the Cut for Apple's Revolutionary Vision Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-the-revolutionary-world-of-jaunt-vr-for-2024/"><u>Inside the Revolutionary World of Jaunt VR for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-audio-functionality-on-your-pc-running-windows-11-simple-solutions-inside/"><u>Restore Audio Functionality on Your PC Running Windows 11 – Simple Solutions Inside!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-breath-monitoring-apples-potential-addition-of-respiratory-features-to-vision-pro-insights-from-zdnet/"><u>Revolutionary Breath Monitoring: Apple's Potential Addition of Respiratory Features to Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-your-productivity-on-macos-using-craft-a-comprehensive-user-manual-for-smarter-document-management/"><u>Unleash Your Productivity on macOS Using Craft - A Comprehensive User Manual for Smarter Document Management</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-producers-favorite-cameras-and-lenses-for-2024/"><u>YouTube Producers' Favorite Cameras & Lenses for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-bypassing-instagrams-video-roadblocks-effortlessly/"><u>[New] Bypassing Instagram's Video Roadblocks Effortlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-guide-to-the-most-effective-youtube-marketing-tools-for-2024/"><u>[New] Ultimate Guide to the Most Effective Youtube Marketing Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-diversifying-social-media-presence-the-importance-of-multiple-platforms-beyond-twitter-insights-by-zdnet/"><u>1. Diversifying Social Media Presence: The Importance of Multiple Platforms Beyond Twitter - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-milestone-at-10-years-the-evolution-of-kubernetes-in-transforming-the-cloud-native-landscape-and-looking-forward-to-what-comes-next-digital-horizons/"><u>A Milestone at 10 Years: The Evolution of Kubernetes in Transforming the Cloud-Native Landscape and Looking Forward to What Comes Next | Digital Horizons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>Crafting a Content Schedule The Path to Gaining Traction on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-coders-with-upgraded-tools-positive-reactions-to-microsofts-new-developer-boxes-at-2023-build-event-tech-analysis-by-zdnet/"><u>Empowering Coders with Upgraded Tools: Positive Reactions to Microsoft's New Developer Boxes at 2023 Build Event - Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/immerse-yourself-in-innovative-3d-art-on-asus-new-laptops-a-leap-forward-without-dependence-on-vrar-headsets-zdnet-insights/"><u>Immerse Yourself in Innovative 3D Art on Asus New Laptops: A Leap Forward Without Dependence on VR/AR Headsets | ZDNET Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-gt-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme GT 3 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-passion-the-top-10-inspirational-films/"><u>In 2024, Ignite Passion The Top 10 Inspirational Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-obstacles-key-technological-solutions-empowering-small-businesses-today-zdnet/"><u>Navigating Obstacles: Key Technological Solutions Empowering Small Businesses Today | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-sectors-how-huawei-leverages-5g-for-advanced-healthcare-services-and-maritime-solutions/"><u>Revolutionizing Sectors: How Huawei Leverages 5G for Advanced Healthcare Services & Maritime Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-shift-information-between-smartphones-zdnets-top-two-quick-approaches-for-transferring-android-data-to-an-iphone/"><u>Seamlessly Shift Information Between Smartphones: ZDNet's Top Two Quick Approaches for Transferring Android Data to an iPhone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sx530-unleashed-a-beginners-guide-to-compact-photography/"><u>SX530 Unleashed: A Beginner's Guide to Compact Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-next-big-thing-in-government-tech-atandt-and-ibm-jointly-launch-co-innovation-laboratory-zdnet-reports/"><u>Unveiling The Next Big Thing in Government Tech: AT&T and IBM Jointly Launch Co-Innovation Laboratory - ZDNET Reports</u></a></li>
 </ul></div>
 

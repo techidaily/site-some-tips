@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2025-02-09T23:50:54.027Z
-updated: 2025-02-15T09:37:12.296Z
+date: 2025-03-02T17:01:23.823Z
+updated: 2025-03-04T17:43:48.265Z
 tags:
   - apple
 categories:
@@ -41,10 +41,6 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -81,18 +77,14 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fall-innovations-on-apple-products-find-out-whats-new-for-iphone-ipad-and-mac-from-advanced-ai-integration-zdnet-report/"><u>Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration | ZDNET Report</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harnessing-high-quality-photos-from-androids/"><u>Harnessing High-Quality Photos From Androids</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-se-2020-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone SE (2020) Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-14-ultra-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi 14 Ultra FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-payment-cycle-a-detailed-look/"><u>In 2024, YouTube’s Payment Cycle A Detailed Look</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-18-unveiled-discover-the-top-6-ai-enhancements-for-your-iphone-and-anticipate-future-upgrades-insights-from-zdnet/"><u>IOS 18 Unveiled: Discover the Top 6 AI Enhancements for Your iPhone and Anticipate Future Upgrades - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/macos-sequoia-beta-version-15-now-available-step-by-step-download-and-install-instructions-for-all-macbook-models-zdnets-exclusive-article/"><u>MacOS Sequoia Beta Version 15 Now Available: Step-by-Step Download & Install Instructions for All MacBook Models - [ZDNet's Exclusive Article]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/proven-winners-analyzing-5-leading-ai-prompt-generators/"><u>Proven Winners: Analyzing 5 Leading AI Prompt Generators</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-italian-explorers-dictionary-key-travel-terms/"><u>The Italian Explorer’s Dictionary: Key Travel Terms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-premium-apple-watch-bands-featuring-professional-assessments-zdnet/"><u>Ultimate Selection of Premium Apple Watch Bands , Featuring Professional Assessments | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-apple-vision-pro-in-depth-analysis-of-costs-capabilities-and-user-experience-explore/"><u>Unveiling the Apple Vision Pro: In-Depth Analysis of Costs, Capabilities & User Experience | Explore</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-m3-macbook-air-by-apple-how-this-innovative-ai-device-is-changing-the-game-for-everyone/"><u>Unveiling the M3 MacBook Air by Apple - How This Innovative AI Device Is Changing the Game for Everyone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sketch-mastery-on-mac-the-freest-software-lineup/"><u>[New] Sketch Mastery on Mac The Freest Software Lineup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-sony-xperia-5-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Sony Xperia 5 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>Avoiding Unauthorized Use Mastering Photowatermarking on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/employment-edge-with-minimal-code-efforts-the-low-code-advantage-for-employers-revealed-by-zdnet/"><u>Employment Edge with Minimal Code Efforts | The Low-Code Advantage for Employers Revealed by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-changing-tides-of-gen-ai-power-dynamics-expert-analysis-by-zdnet/"><u>Navigating the Changing Tides of Gen AI Power Dynamics | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-approach-transforming-how-you-attract-and-recruit-technical-expertise/"><u>Revamping Your Approach: Transforming How You Attract and Recruit Technical Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-system-administration-how-red-hat-integrates-artificial-intelligence-for-enhanced-support/"><u>Simplifying System Administration: How Red Hat Integrates Artificial Intelligence for Enhanced Support</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y78-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y78 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/video-to-cartoon-conversion-made-easy-a-beginners-guide-for-2024/"><u>Video to Cartoon Conversion Made Easy A Beginners Guide for 2024</u></a></li>
 </ul></div>
 

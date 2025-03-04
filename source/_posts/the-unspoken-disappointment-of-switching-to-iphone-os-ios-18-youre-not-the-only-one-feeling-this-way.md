@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2025-02-13T05:04:20.845Z
-updated: 2025-02-15T05:20:06.007Z
+date: 2025-03-01T17:50:29.348Z
+updated: 2025-03-04T17:35:41.943Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,22 +105,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-perfect-youtube-thumbnails-on-macos/"><u>[New] 2024 Approved Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-elements-for-implementing-channel-banners-in-games/"><u>[Updated] 2024 Approved Essential Elements for Implementing Channel Banners in Games</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-comparative-look-at-rgb-and-srgb-for-designers/"><u>A Comparative Look at Rgb and Srgb for Designers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-discontinues-apple-pay-later-paving-way-for-a-new-alternative-insights-from-zdnet/"><u>Apple Discontinues Apple Pay Later, Paving Way for a New Alternative: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automattic-scores-victory-in-tech-arena-with-beeper-acquisition-future-messaging-ambitions-revealed-zdnet/"><u>Automattic Scores Victory in Tech Arena with Beeper Acquisition; Future Messaging Ambitions Revealed | ZDNET</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/beyond-pinnacle-studio-top-video-editing-software-for-mac-for-2024/"><u>Beyond Pinnacle Studio Top Video Editing Software for Mac for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs/"><u>Crafting Cinematic Projects Utilizing Movie Maker on Windows 8 PCs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evolving-excellence-apple-unveils-the-upgraded-mac-studio-beyond-the-classic-mac-mini-zdnet/"><u>Evolving Excellence: Apple Unveils the Upgraded Mac Studio, Beyond the Classic Mac Mini | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-ranking-of-top-smartwatch-models-for-202-expert-insights-and-comparisons/"><u>Exclusive Ranking of Top Smartwatch Models for 202지날 - Expert Insights and Comparisons</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/expert-tips-for-seamless-computer-data-exchange-using-yls-software-tools/"><u>Expert Tips for Seamless Computer Data Exchange Using YL's Software Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/historical-roots-of-the-foddian-empire/"><u>Historical Roots of the Foddian Empire</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-eliminating-vibrational-distortion-in-drone-footage/"><u>In 2024, Eliminating Vibrational Distortion in Drone Footage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meet-the-bold-and-innovative-new-accessories-from-apple-revealed-silently-last-week-zdnet-coverage/"><u>Meet the Bold and Innovative New Accessories From Apple, Revealed Silently Last Week (ZDNet Coverage)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/post-with-a-podcast-highlight-moment/"><u>Post with a Podcast Highlight Moment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/satellite-emergency-feature-now-available-on-the-google-pixel-9-a-milestone-for-android-phones/"><u>Satellite Emergency Feature Now Available on the Google Pixel 9, a Milestone for Android Phones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-essential-ipad-tricks-and-configurations-for-both-beginners-and-experts-insider-secrets-from-zdnet/"><u>Top 10 Essential iPad Tricks & Configurations for Both Beginners and Experts: Insider Secrets From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-every-iphone-16-model-boasts-next-gen-video-tech-and-thin-designs/"><u>ZDNet Exclusive: Every iPhone 16 Model Boasts Next-Gen Video Tech and Thin Designs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-pinnacle-recorders-of-academic-dialogues/"><u>[Updated] In 2024, Pinnacle Recorders of Academic Dialogues</u></a></li>
+<li><a href="https://win-able.techidaily.com/44cm44k544og44o844k644gr44k144og44oq44ot44oh44kq5pku5b2x77ya5bcc6zaa55qe44gq5pa55rov44ks44kk44oj44cn/"><u>「スムーズにサムバビデオ撮影：専門的な方法ガイド」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-maturing-chromebook-linux-a-deep-dive-into-the-latest-updates-and-features/"><u>1. Maturing Chromebook Linux: A Deep Dive Into the Latest Updates and Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y100-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y100 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-professionally-the-key-lies-at-the-boundary-beyond-just-ai-as-explained-by-zdnet/"><u>Advancing Professionally: The Key Lies at the Boundary (Beyond Just AI), as Explained by ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mediamasher-suite/"><u>MediaMasher Suite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-failed-windows-graphics-procedure/"><u>Rectifying Failed Windows Graphics Procedure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-trending-programming-languages-of-today-and-their-market-significance-explored-by-zdnet/"><u>Top Trending Programming Languages of Today and Their Market Significance - Explored by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-generative-ai-into-practical-help-with-langchain-insights-from-zdnet/"><u>Transforming Generative AI Into Practical Help with LangChain: Insights From ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-swordplay-showdown-find-your-match-in-these-games-for-2024/"><u>Virtual Swordplay Showdown Find Your Match in These Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reviews-metas-latest-leap-in-ai-technology-the-advanced-second-generation-training-and-inference-processor/"><u>ZDNet Reviews Meta's Latest Leap in AI Technology: The Advanced Second-Generation Training and Inference Processor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Latest Tech: Apple Watch Series 10 Vs. Series 8 – Which One Elevates Your Wrist Game?"
-date: 2025-02-09T00:36:59.521Z
-updated: 2025-02-14T23:34:30.183Z
+date: 2025-03-03T16:22:14.973Z
+updated: 2025-03-04T17:10:13.026Z
 tags:
   - apple
 categories:
@@ -77,10 +77,6 @@ Kerry Wan/ZDNET
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You'd benefit from sleep apnea tracking
 
 Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently purchase](https://www.zdnet.com/article/the-25-most-popular-products-zdnet-readers-bought-this-month-august/) sleep-aiding techs like earbuds, masks, and more), and it's become increasingly popular in wearables, such as [smart rings](https://www.zdnet.com/article/best-smart-ring/). If you want top sleep-tracking features in your Apple Watch, the new Series 10 is your model. 
@@ -88,10 +84,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 **Also:** [**The best smart rings: Expert tested**](https://www.zdnet.com/article/best-smart-ring/)
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
 
@@ -102,10 +94,6 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -119,10 +107,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
@@ -134,10 +118,6 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 **Also:** [**Apple Watch Series 9 vs. Series 8: Which model should you buy?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/)
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb8b7dbc-bcc1-47cf-8fc0-13b0b2496459%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
 
@@ -179,18 +159,21 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>[New] From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-expert-guide-to-android-time-lapse-video-magic/"><u>2024 Approved Expert Guide to Android Time-Lapse Video Magic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-costless-conundrum-of-final-cut-pro-access/"><u>2024 Approved The Costless Conundrum of Final Cut Pro Access</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-lenovo-thinkreality-a3-for-enhanced-interactive-mixed-reality-review-by-zdnet/"><u>Exploring the Lenovo ThinkReality A3 for Enhanced Interactive Mixed Reality - Review by ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-steam-startup-issue-with-helldivers-ii-a-step-by-step-guide/"><u>Fixing the Steam Startup Issue with Helldivers II – A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-beyond-likes-understanding-youtubes-true-view-metrics/"><u>In 2024, Beyond Likes Understanding YouTube’s True View Metrics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/kicking-off-innovation-apple-vision-pro-and-its-impact-on-dev-community-unveiled-in-latest-developer-lab-session-digital-trends/"><u>Kicking Off Innovation: Apple Vision Pro and Its Impact on Dev Community Unveiled in Latest Developer Lab Session - Digital Trends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-anthropics-claude-3-ai-toolkit/"><u>Mastering Anthropic's Claude 3 AI Toolkit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/samsung-delays-release-of-innovative-vr-headset-aims-for-end-of-year-launch-insights-from-industry-sources/"><u>Samsung Delays Release of Innovative VR Headset, Aims for End-of-Year Launch – Insights From Industry Sources</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/taking-wifi-speeds-to-new-heights-the-ultimate-guide-and-assessment-of-the-netgear-nighthawk-x1ad7200-router/"><u>Taking WiFi Speeds to New Heights: The Ultimate Guide and Assessment of the Netgear Nighthawk X1^AD7200 Router</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-3-critical-errors-in-using-the-apple-vision-pro-dont-make-these-blunders/"><u>Top 3 Critical Errors in Using the Apple Vision Pro - Don't Make These Blunders!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimized-orchestration-top-5-chrome-vids-from-fb/"><u>[New] 2024 Approved Optimized Orchestration Top 5 Chrome Vids From FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfected-podcasts-iphones-seamless-audio-download-routines/"><u>2024 Approved Perfected Podcasts IPhone's Seamless Audio Download Routines</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-screen-hurdle-sonic-frontiers-win-on-w11/"><u>Fixing the Screen Hurdle: Sonic Frontiers Win on W11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-new-era-of-computing-with-microsofts-maia-100-ai-chip-and-revolutionary-cobalt-cpu-insights-from-zdnet/"><u>Introducing the New Era of Computing with Microsoft's Maia 100 AI Chip and Revolutionary Cobalt CPU - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-deal-making-in-todays-lucrative-cloud-sector-insights-from-zdnet/"><u>Mastering Deal-Making in Today's Lucrative Cloud Sector - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsofts-50m-investment-in-lanzajet-fuels-a-greener-future-for-datacenters-zdnet/"><u>Microsoft's $50M Investment in LanzaJet Fuels a Greener Future for Datacenters | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-linux-and-icloud-integration-master-your-notes-tips-from-zdnet/"><u>Navigate Linux & iCloud Integration: Master Your Notes - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-career-transitions-with-cloud-technologies-insights-from-zdnet/"><u>Navigating Career Transitions with Cloud Technologies - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-with-ease-discover-why-google-drives-updated-home-screen-enhances-finding-files-and-more-explored-by-zdnet/"><u>Navigating with Ease: Discover Why Google Drive’s Updated Home Screen Enhances Finding Files & More | Explored by ZDNET</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-avi-video-trimming-software-for-windows-mac-android-iphone-and-online/"><u>New 2024 Approved Top AVI Video Trimming Software for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-persistent-azure-capacity-challenges-tips-for-end-users-and-developers/"><u>Overcoming Persistent Azure Capacity Challenges: Tips for End-Users and Developers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserving-your-conversational-experiences-exporting-chatgpt-dialogues-made-easy/"><u>Preserving Your Conversational Experiences: Exporting ChatGPT Dialogues Made Easy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-techniques-for-home-based-podcast-capture-for-2024/"><u>Professional Techniques for Home-Based Podcast Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ipad-productivity-apps-to-boost-efficiency-find-the-ideal-tools-picks/"><u>Top iPad Productivity Apps to Boost Efficiency: Find the Ideal Tools Picks!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2025-02-11T04:37:39.968Z
-updated: 2025-02-15T06:10:46.581Z
+date: 2025-02-26T16:30:45.758Z
+updated: 2025-03-04T16:28:19.337Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -48,10 +44,6 @@ Advanced AI features require substantial computational power, typically provided
 
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple's approach to Private Cloud Compute (PCC)
 
 For the initial rollout of Apple Intelligence, the company has chosen a hybrid approach to balance cost and performance, combining on-device processing with [Private Cloud Compute](https://www.zdnet.com/article/heres-how-apples-keeping-your-cloud-processed-ai-data-safe-and-why-it-matters/) (PCC). On-device processing utilizes the A17 Pro chip in the iPhone 15 Pro line and the M-series chips in iPads and Macs to enhance security and privacy. For more demanding tasks, PCC allows cloud operations while maintaining user privacy. PCC is designed with custom Apple silicon and a robust operating system to ensure personal data security and prevent unauthorized access.
@@ -59,10 +51,6 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 **Also: [Here's how Apple's keeping your cloud-processed AI data safe (and why it matters)](https://www.zdnet.com/article/heres-how-apples-keeping-your-cloud-processed-ai-data-safe-and-why-it-matters/)**
 
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The challenges of edge computing
 
@@ -73,10 +61,6 @@ Apple is currently focused on rolling out its [Generative AI services](https://w
 While NVIDIA is a major player in the GPU server space, others include traditional x86 Intel-based and Arm-based server providers like Qualcomm and Ampere. These servers can also use NVIDIA GPUs, but Apple likely wants to control the integration with its operating system and silicon to deploy AI computing. Additionally, the supply chain from NVIDIA or any other HPC server vendor is likely insufficient to meet Apple's large-scale deployment requirements.
 
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
 
@@ -120,22 +104,20 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-iphones-automatic-replay-feature/"><u>[New] Navigating iPhone's Automatic Replay Feature</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/treamline-your-content-with-essential-ratio-knowledge-for-youtube/"><u>[New] Streamline Your Content with Essential Ratio Knowledge for YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-media-presentation-text-and-captions-application-in-microsoft-photos/"><u>[Updated] Elevate Your Media Presentation Text & Captions Application in Microsoft Photos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-ultimate-selection-of-apps-to-tame-your-feed-for-2024/"><u>[Updated] The Ultimate Selection of Apps to Tame Your Feed for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-color-correction-top-15-luts-for-gopro-cams/"><u>2024 Approved Ultimate Color Correction Top 15 LUTs for GoPro Cams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-innovation-is-the-2022-airpods-pro-worth-your-money-an-expert-analysis-zdnet/"><u>Apple's Latest Innovation: Is the 2022 AirPods Pro Worth Your Money? An Expert Analysis | ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/come-scaricare-handbrake-per-convertire-video-ed-eseguire-backup-di-dvd-tutorial-impostazioni-e-soluzioni-comuni/"><u>Come Scaricare HandBrake per Convertire Video Ed Eseguire Backup Di DVD: Tutorial, Impostazioni E Soluzioni Comuni</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/estimating-elapsed-seconds-in-a-20mb-videoclip/"><u>Estimating Elapsed Seconds in a 20MB Videoclip</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exclusive-unveiling-apples-latest-personality-packed-gadgets-debuted-last-week-detailed-review-by-zdnet/"><u>Exclusive: Unveiling Apple's Latest Personality-Packed Gadgets Debuted Last Week – Detailed Review by ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 13</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ios-18-update-a-comprehensive-guide-to-tailoring-your-iphones-control-center/"><u>IOS 18 Update: A Comprehensive Guide to Tailoring Your iPhone's Control Center</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/macx-pro-dvd-ripping-tool-securely-copy-dvd-content-to-mp4-format-for-apple-devices-download-advanced-dvd-converter-for-macos/"><u>MacX Pro DVD Ripping Tool - Securely Copy DVD Content to MP4 Format for Apple Devices, Download Advanced DVD Converter for macOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-apple-music-unsubscriptions-a-no-itunes-required-tutorial-featured-on-zdnet/"><u>Navigating Apple Music Unsubscriptions: A No iTunes Required Tutorial Featured on ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-11-must-have-applications-and-tools-for-windowsmac-users-insights-from-zdnet/"><u>Top 11 Must-Have Applications & Tools for Windows/Mac Users - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-protecting-your-iphones-information-back-up-via-icloud-and-mac-digital-savvy/"><u>Ultimate Guide to Protecting Your iPhone's Information - Back Up Via iCloud and Mac | Digital Savvy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-smartwatch-guide-for-2ebuary-2024-in-depth-reviews-and-expert-rankings/"><u>Ultimate Smartwatch Guide for 2Ebuary 2024: In-Depth Reviews & Expert Rankings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-boundless-creativity-with-freeform-why-this-technique-is-essential-for-your-next-brainstorming-session/"><u>Unlock Boundless Creativity with Freeform - Why This Technique Is Essential for Your Next Brainstorming Session</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-masterful-mac-capturing-techniques-explored/"><u>[Updated] 2024 Approved Masterful Mac Capturing Techniques Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-tips-for-iphone-voice-note-making/"><u>[Updated] In 2024, Essential Tips for iPhone Voice Note Making</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-exploring-the-extensive-features-of-logitechs-4k-cam/"><u>2024 Approved Exploring the Extensive Features of Logitech's 4K Cam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-kid-safe-toy-quadcopters-unveiled/"><u>2024 Approved Top Kid-Safe Toy Quadcopters Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726223015211-m4vgif-movavi/"><u>完全無料: M4VファイルをGIFに簡単変換 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-gaming-experience-fixing-fps-fluctuations-in-resident-evil-village-pc/"><u>Boost Your Gaming Experience: Fixing FPS Fluctuations in Resident Evil Village (PC)</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube/"><u>In 2024, Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/missing-the-share-screen-feature-during-your-zoom-call-heres-what-you-can-do-zdnet/"><u>Missing the 'Share Screen' Feature During Your Zoom Call? Here’s What You Can Do! | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-major-hurdles-how-small-companies-embrace-advanced-technologies-insights-from-zdnet/"><u>Navigating Major Hurdles: How Small Companies Embrace Advanced Technologies | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-screen-sharing-function-in-zoom-session-here-are-your-solutions-zdnet/"><u>No Screen Sharing Function in Zoom Session? Here Are Your Solutions! | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-insights-leading-cloud-hosting-solutions-reviewed-for-optimal-performance-pcmag/"><u>Professional Insights: Leading Cloud Hosting Solutions Reviewed for Optimal Performance | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revive-lost-favicons-for-chrome-bookmarks-effortlessly-a-single-click-fix-featured-on-zdnet/"><u>Revive Lost Favicons for Chrome Bookmarks Effortlessly: A Single-Click Fix Featured on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-rust-in-enhancing-docker-security-through-edera-a-comprehensive-guide/"><u>Unveiling the Power of Rust in Enhancing Docker Security Through Edera - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-ipos-by-alibaba-unveiling-a-dedicated-cloud-entity-and-pair-of-subsidiaries/"><u>Upcoming IPOs by Alibaba: Unveiling a Dedicated Cloud Entity and Pair of Subsidiaries</u></a></li>
 </ul></div>
 

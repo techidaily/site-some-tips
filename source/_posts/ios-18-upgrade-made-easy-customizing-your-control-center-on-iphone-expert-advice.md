@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2025-02-10T23:37:24.625Z
-updated: 2025-02-15T01:20:26.343Z
+date: 2025-03-03T17:48:14.198Z
+updated: 2025-03-04T17:45:25.750Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -47,10 +43,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -64,10 +56,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -76,19 +64,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +106,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-prime-facebook-extra-tools-secure-file-grabber-firefox-version-for-2024/"><u>[New] Prime Facebook Extra Tools Secure File Grabber, Firefox Version for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-speedy-audio-on-phone-ultimate-list-of-tools/"><u>[Updated] In 2024, Speedy Audio on Phone Ultimate List of Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[Updated] Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-best-youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>2024 Approved Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-innovative-beats-products-insights-from-zdnet/"><u>Apple Discontinues FineWoven Collection in Favor of Innovative Beats Products - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cheerful-footage-extractor-analysis-for-2024/"><u>Cheerful Footage Extractor Analysis for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experts-guide-to-premium-magsafe-battery-packs-in-2e-in-depth-analysis-and-ratings-digital-trends-hub/"><u>Experts' Guide to Premium MagSafe Battery Packs in 2E: In-Depth Analysis and Ratings | Digital Trends Hub</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-seamlessly-get-your-new-ipad-ready-beginners-ultimate-checklist/"><u>How To Seamlessly Get Your New iPad Ready – Beginner's Ultimate Checklist</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-look-how-apple-aims-to-reinvent-audio-tech-with-camera-enabled-airpods-by-2026-insights-from-zdnet-report/"><u>Inside Look: How Apple Aims to Reinvent Audio Tech with Camera-Enabled AirPods by 2026 - Insights From ZDNet Report</u></a></li>
-<li><a href="https://some-tips.techidaily.com/memorial-day-sale-unlock-a-whopping-60-discount-on-the-apple-watch-se-best-buy-of-the-year/"><u>Memorial Day Sale: Unlock a Whopping $60 Discount on the Apple Watch SE - Best Buy of the Year!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-the-ideal-festive-apple-pad-bargains-expert-list/"><u>Score the Ideal Festive Apple Pad Bargains - Expert List</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-list-elite-karaoke-setups-to-elevate-your-singing-experience/"><u>The Definitive List: Elite Karaoke Setups to Elevate Your Singing Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-revolutionary-camera-button-on-apples-iphone-16-features-and-functions-explained-for-tech-savvy-users-zdnet/"><u>The Revolutionary Camera Button on Apple's iPhone 16: Features and Functions Explained for Tech Savvy Users | ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upgrading-your-apple-studio-display-a-step-by-step-guide-on-updating-the-device-firmware/"><u>Upgrading Your Apple Studio Display: A Step-by-Step Guide on Updating the Device Firmware</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-cost-benefit-analysis-should-you-sign-up-for-youtube-premium/"><u>[New] 2024 Approved The Cost-Benefit Analysis Should You Sign Up for YouTube Premium?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-uncharted-territories-with-these-iphone-vr-apps/"><u>[New] Explore Uncharted Territories with These iPhone VR Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-jaunt-vr/"><u>2024 Approved Unveiling the Secrets of Jaunt VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerate-programming-tasks-with-generative-ai-understand-the-advantages-and-hidden-dangers-zdnet-perspectives/"><u>Accelerate Programming Tasks with Generative AI: Understand the Advantages & Hidden Dangers | ZDNET Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/data-science-and-ai-industry-on-the-brink-of-transformation-insights-from-zdnet/"><u>Data Science and AI Industry on the Brink of Transformation – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-streaming-errors-a-guide-to-restoring-paramount-plus-on-amazon-fire-tv/"><u>Dealing With Streaming Errors: A Guide to Restoring Paramount Plus on Amazon Fire TV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-mac-pros-unveiling-the-complimentary-ai-upgrade-for-programming-tools-exclusive-news-on-zdnet/"><u>Empowering Mac Pros: Unveiling the Complimentary AI Upgrade for Programming Tools | Exclusive News on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-security-of-linux-vendor-kernels-critical-findings-and-solutions-for-safer-operations-tech-innovate/"><u>Evaluating the Security of Linux Vendor Kernels: Critical Findings and Solutions for Safer Operations | Tech Innovate</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-streaming-of-amazing-sci-fi-blockbusters-secrets-for-accessing-epic-galactic-adventures-at-no-charge/"><u>Free Streaming of Amazing Sci-Fi Blockbusters: Secrets for Accessing Epic Galactic Adventures at No Charge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-mind-of-linux-creator-linus-torvalds-embracing-rust-managing-time-and-a-macbook-air-review-cnet/"><u>Inside the Mind of Linux Creator Linus Torvalds: Embracing Rust, Managing Time & a MacBook Air Review | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-msi-pc-speaker-drivers-on-windows-os/"><u>Installing the Newest MSI PC Speaker Drivers on Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intel-predicts-integration-of-artificial-intelligence-into-business-projected-timeline-spanning-three-to-five-years-zdnet/"><u>Intel Predicts Integration of Artificial Intelligence Into Business: Projected Timeline Spanning Three to Five Years | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-usb-c-drivers-for-windows-10-free-download/"><u>Latest USB-C Drivers for Windows 10: Free Download</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-lenovo-g580-driver-revision/"><u>Quick Lenovo G580 Driver Revision</u></a></li>
 </ul></div>
 

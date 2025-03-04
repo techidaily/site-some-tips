@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Inbox with This Single-Step Email Hack – No Junk, Just Essentials!
-date: 2025-02-07T20:48:46.265Z
-updated: 2025-02-15T03:02:36.545Z
+date: 2025-03-01T17:01:15.375Z
+updated: 2025-03-04T16:15:13.052Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,24 +110,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>[New] Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-positivity-in-a-constructive-space/"><u>[Updated] 2024 Approved Elevating Positivity in a Constructive Space</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exquisite-selection-idle-games-with-infinite-play/"><u>[Updated] 2024 Approved Exquisite Selection Idle Games with Infinite Play</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-perfect-lighting-setup-for-engaging-youtube-videos/"><u>[Updated] In 2024, Perfect Lighting Setup for Engaging YouTube Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] In 2024, Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-boost-your-podcast-visibility-with-seo-tactics/"><u>2024 Approved Boost Your Podcast Visibility with SEO Tactics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-apple-vision-pro-explore-costs-capabilities-and-real-world-use-with-our-exclusive-insight-at-zdnet/"><u>Discover the Apple Vision Pro: Explore Costs, Capabilities & Real-World Use with Our Exclusive Insight at ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ensuring-privacy-unveiling-the-measures-apple-takes-to-protect-your-ai-cloud-data-insights/"><u>Ensuring Privacy: Unveiling the Measures Apple Takes to Protect Your AI Cloud Data - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experiencing-apples-studio-display-a-stunning-yet-expensive-27-inch-5k-screen-tailored-for-professionals-using-mac-insights/"><u>Experiencing Apple's Studio Display: A Stunning Yet Expensive $27-Inch 5K Screen Tailored for Professionals Using Mac - Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-convert-ogg-to-webm-with-moveavee/"><u>Free Online Converter: Convert OGG to WebM with Moveavee</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-note-12-pro-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi Note 12 Pro 4G Lock Screen Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-how-the-microsoft-surface-pro-8-meets-enterprise-needs-featured/"><u>In-Depth Analysis: How the Microsoft Surface Pro 8 Meets Enterprise Needs, Featured</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-future-without-iphone-13-and-15-pro-top-alternatives-to-consider-zdnet/"><u>Navigating the Future without iPhone 13 and 15 Pro - Top Alternatives to Consider | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplified-guide-quickest-methods-for-securely-moving-data-from-your-macbook-unveiled/"><u>Simplified Guide: Quickest Methods for Securely Moving Data From Your MacBook - Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-apple-watch-bargains-for-july-2024-exclusive-offers-you-cant-miss-featured/"><u>Top Apple Watch Bargains for July 2024: Exclusive Offers You Can't Miss - Featured</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-configuring-your-new-apple-watch-tips/"><u>Ultimate Guide to Configuring Your New Apple Watch - Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-new-apple-podcasts-automated-transcription-feature-similarities-with-subtitles-explored-by-zdnet/"><u>Unveiling the New Apple Podcasts' Automated Transcription Feature: Similarities with Subtitles Explored by ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-accelerated-windows-content-verification/"><u>[New] 2024 Approved Accelerated Windows Content Verification</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-turn-your-image-brightness-upside-down-a-tutorial/"><u>[Updated] Turn Your Image Brightness Upside Down A Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-choosing-your-next-device-mastering-the-wardrobe-approach-method-by-wardrobetestzdnet/"><u>1. Choosing Your Next Device: Mastering The 'Wardrobe Approach' Method by WardrobeTestZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-visionary-film-titles-that-inspire-and-invigorate/"><u>2024 Approved Visionary Film Titles That Inspire and Invigorate</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aligning-the-future-how-alibaba-harnesses-ai-and-cloud-technology-for-dual-threat-expansion-insights-from-zdnet/"><u>Aligning the Future: How Alibaba Harnesses AI & Cloud Technology for Dual-Threat Expansion – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-thrives-amidst-widespread-shop-closures-a-deep-dive-into-its-resilient-strategy-zdnet/"><u>Amazon Thrives Amidst Widespread Shop Closures: A Deep Dive Into Its Resilient Strategy - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/asian-region-pioneers-rise-of-non-monetary-payments-projected-at-16-trillion/"><u>Asian Region Pioneers Rise of Non-Monetary Payments Projected at $1.6 Trillion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/at-the-forefront-haptic-enhanced-headgear/"><u>At the Forefront Haptic-Enhanced Headgear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoiding-widespread-temu-conspiracies-on-social-networks-expert-tips-from-zdnet/"><u>Avoiding Widespread Temu Conspiracies on Social Networks: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-premium-yet-gratis-site-building-tools-reviewed-by-tech-experts-on-zdnet/"><u>Discover Premium Yet Gratis Site Building Tools Reviewed by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-capabilities-of-djis-high-end-42k-quadcopter-featured-on-zdnet/"><u>Exploring the Capabilities of DJI's High-End $42K Quadcopter Featured on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-8t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Play 8T Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Asus ROG Phone 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>In 2024, Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-powerful-performance-of-a-42000-dji-drone-on-zdnet/"><u>Unveiling the Powerful Performance of a $42,000 DJI Drone on ZDNet</u></a></li>
 </ul></div>
 

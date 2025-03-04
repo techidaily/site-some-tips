@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet"
-date: 2025-02-11T01:36:44.389Z
-updated: 2025-02-14T19:47:06.610Z
+date: 2025-03-01T17:40:58.868Z
+updated: 2025-03-04T17:32:31.284Z
 tags:
   - apple
 categories:
@@ -76,10 +76,6 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18 beta vs full release: What's the difference?
 
 The iOS 18 beta version differs slightly from the general release. Beta testers are given a release that has recently exited its alpha phase, so problems and bugs are expected to arise. The purpose of the beta phase is to gather user feedback to repair these bugs and address any user interface issues before the software is massively distributed.
@@ -92,10 +88,6 @@ The general release will have ironed out most of these bugs and problems using t
 
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was iOS 18 released?
 
 Apple typically releases its new operating systems for public beta access a few weeks after WWDC. iOS 18 was released in public beta in mid-July. The public beta program lets users test developing software to pinpoint bugs and performance issues. This process lets software teams make any necessary fixes and releases before the new system reaches general availability.
@@ -103,10 +95,6 @@ Apple typically releases its new operating systems for public beta access a few 
 **Also: [Every iPhone model that will support Apple's upcoming AI features (including the new Siri)](https://www.zdnet.com/article/every-iphone-model-that-will-support-apples-upcoming-ai-features-including-the-new-siri/)**
 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a software beta?
 
@@ -124,17 +112,9 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
 
@@ -176,24 +156,21 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-enlightening-path-to-capturing-your-mac-screens/"><u>2024 Approved Enlightening Path to Capturing Your Mac Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/acquisition-alert-automattic-expands-with-beeper-takeover-envisions-massive-growth-for-chat-app/"><u>Acquisition Alert: Automattic Expands with Beeper Takeover; Envisions Massive Growth for Chat App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-intelligence-in-question-why-the-iphone-16-may-not-be-your-smartest-choice-insights-from-zdnet/"><u>Apple Intelligence in Question: Why the iPhone 16 May Not Be Your Smartest Choice - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-stays-silent-on-iphone-safety-gear-should-users-be-concerned-tech-analysis-by-zdnet/"><u>Apple Stays Silent on iPhone Safety Gear – Should Users Be Concerned? | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/are-apples-airpods-pro-launched-still-a-top-choice-for-audio-enthusiasts-insights-from-tech-experts/"><u>Are Apple's AirPods Pro, Launched , Still a Top Choice for Audio Enthusiasts? Insights From Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-ai-direction-and-development/"><u>Deciding AI Direction & Development</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-full-hd-nhl-matches-and-highlights-in-various-formats-mp4-wmv-mov-avi/"><u>Download Full HD NHL Matches & Highlights in Various Formats (MP4, WMV, MOV, AVI)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-ready-for-ios-16-a-comprehensive-guide-on-downloading-apples-newest-ios-beta-version-is-it-worth-the-risk-techspot/"><u>Get Ready for IOS 16: A Comprehensive Guide on Downloading Apple's Newest iOS Beta Version – Is It Worth the Risk? | TechSpot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-upcoming-apple-pay-later-transactions-could-affect-your-experian-credit-score-insights-revealed/"><u>How Upcoming Apple Pay Later Transactions Could Affect Your Experian Credit Score: Insights Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-s24-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy S24 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-14-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 14 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/logiciel-ideal-pour-cloner-vos-ssds-de-la-marque-verbatim-decouverte-et-comparaison/"><u>Logiciel Idéal Pour Cloner Vos SSDs De La Marque Verbatim: Découverte Et Comparaison</u></a></li>
-<li><a href="https://some-tips.techidaily.com/samsung-galaxy-watch-ultra-vs-apple-watch-ultra-showdown-top-features-compared-for-your-perfect-pick-gadgetguardian/"><u>Samsung Galaxy Watch Ultra Vs. Apple Watch Ultra Showdown: Top Features Compared for Your Perfect Pick | GadgetGuardian</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-2024-saga-of-windows-and-crowdstrike-decoding-the-origins-behind-the-infamous-cyber-clash-insights-and-analysis/"><u>The 2024 Saga of Windows and CrowdStrike: Decoding the Origins Behind the Infamous Cyber Clash | Insights & Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ipados-18-feature-revealed-at-wwdc-2024-that-would-make-me-switch-to-an-apple-tablet-instantly/"><u>Top iPadOS 18 Feature Revealed at WWDC 2024 That Would Make Me Switch to an Apple Tablet Instantly!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x8b-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X8b Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamyrecorder-your-simple-screen-recorder-for-windows-11-for-2024/"><u>[New] StreamyRecorder Your Simple Screen Recorder for Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-best-youtube-thumbnail-size-how-to-make-a-thumbnail-for-youtube/"><u>[Updated] 2024 Approved Best YouTube Thumbnail Size How to Make a Thumbnail for YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-become-a-visionary-creator-optimal-camera-lens-selection/"><u>[Updated] In 2024, Become a Visionary Creator Optimal Camera Lens Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-innovations-the-critical-3-month-evaluation-period-unpacked-by-zdnet/"><u>AI Innovations: The Critical 3-Month Evaluation Period Unpacked by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/as-artificial-intelligence-proliferates-so-does-its-risk-landscape-academic-experts-caution-zdnet/"><u>As Artificial Intelligence Proliferates, So Does Its Risk Landscape, Academic Experts Caution | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/emerging-developer-roles-and-must-know-programming-languages-of-today-insights-from-zdnet/"><u>Emerging Developer Roles and Must-Know Programming Languages of Today: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empower-your-business-with-oracles-latest-ai-powered-data-analytics-and-management-tools-zdnet/"><u>Empower Your Business with Oracle’s Latest AI-Powered Data Analytics & Management Tools | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-low-code-solutions-enhance-employer-branding-according-to-industry-expertise-on-zdnet/"><u>How Low-Code Solutions Enhance Employer Branding, According to Industry Expertise on ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor X50i+</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-auditory-insights-into-ffmpeg-audio-processing/"><u>In 2024, Auditory Insights Into FFmpeg Audio Processing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s23-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S23 Ultra Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unlock-video-clarity-adding-captions-on-youtube/"><u>In 2024, Unlock Video Clarity Adding Captions on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-controversy-progress-towards-standardizing-open-source-ai-faces-criticism/"><u>Navigating the Controversy: Progress Towards Standardizing Open Source AI Faces Criticism</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-shifts-potential-realignment-in-the-artificial-intelligence-and-data-science-sector/"><u>Navigating the Shifts: Potential Realignment in the Artificial Intelligence & Data Science Sector</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-and-tricks-repairing-media-files-in-windowsmac/"><u>Tips & Tricks: Repairing Media Files in Windows/Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unraveling-the-best-mac-mp4-software-a-comprehensive-guide-for-2024/"><u>Unraveling the Best Mac MP4 Software A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 

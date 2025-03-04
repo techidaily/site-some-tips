@@ -1,7 +1,7 @@
 ---
 title: "Redefining Artificer Intelligence: How Apple Is Advancing the Field with Room for Improvement - Insights From ZDNET"
-date: 2025-02-08T02:31:59.280Z
-updated: 2025-02-14T21:29:09.828Z
+date: 2025-02-26T16:54:29.577Z
+updated: 2025-03-04T16:24:52.070Z
 tags:
   - apple
 categories:
@@ -29,10 +29,6 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 ## What Apple Intelligence will bring to the company's operating system platforms
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -64,10 +60,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -81,10 +73,6 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
 
@@ -100,10 +88,6 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -111,10 +95,6 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -180,24 +160,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-failed-to-initialize-battleye-service-driver-load-error-1450/"><u>[Fixed] Failed to Initialize BattlEye Service: Driver Load Error (1450)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-hdr-portraits-with-our-expert-techniques/"><u>[New] Perfect HDR Portraits with Our Expert Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-ultimate-guide-to-buying-waterproof-wearables-expertly-selected-smartwatches-reviewed-by-tech-gurus-zdnet/"><u>2024'S Ultimate Guide to Buying Waterproof Wearables: Expertly Selected Smartwatches Reviewed by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/carbon-capture-and-storage-technologies-involve-capturing-co2-emissions-at-their-source-and-storing-them-underground-to-prevent-atmospheric-release/"><u>Carbon Capture and Storage Technologies Involve Capturing CO2 Emissions at Their Source and Storing Them Underground to Prevent Atmospheric Release.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-giants-in-a-tiny-package-how-does-the-new-m4-powered-mac-mini-stack-up-to-an-apple-tv/"><u>Comparing Giants in a Tiny Package: How Does the New M4-Powered Mac Mini Stack Up to an Apple TV?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-alternative-to-apples-airtag-for-your-pocket-the-best-rechargeable-options-featured-in-zdnet/"><u>Discover the Ultimate Alternative to Apple's AirTag for Your Pocket: The Best Rechargeable Options Featured in ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-remedy-for-assassins-creed-odyssey-stalling-issues-on-pc-get-back-to-adventure/"><u>Easy Remedy for 'Assassin's Creed Odyssey' Stalling Issues on PC – Get Back to Adventure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-your-iphone-experience-essential-anker-chargers-and-gadgets-coming-soon-featured-on-zdnet/"><u>Elevate Your iPhone Experience: Essential Anker Chargers and Gadgets Coming Soon | Featured on ZDNet</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhancing-site-personalization-through-advanced-cookiebot-driven-solutions/"><u>Enhancing Site Personalization Through Advanced Cookiebot-Driven Solutions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-se-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone SE to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-z50-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Z50 Ultra to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inviting-ease-a-step-by-step-guide-to-joining-photo-shares-on-your-iphone/"><u>Inviting Ease: A Step-by-Step Guide to Joining Photo Shares on Your iPhone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/optimizing-your-system-expert-techniques-for-efficiently-clearing-out-your-hard-drive-yl-computing/"><u>Optimizing Your System: Expert Techniques for Efficiently Clearing Out Your Hard Drive - YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/securely-update-your-mac-with-macos-1441-a-guide/"><u>Securely Update Your Mac with macOS 14.4.1: A Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-prime-day-video-game-discounts-the-ultimate-october-2024-shopping-guide-zdnet/"><u>Top Prime Day Video Game Discounts: The Ultimate October 2024 Shopping Guide - ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-ipad-models-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated iPad Models : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unexpected-moisture-in-iphone-usb-c-exploring-both-remedies/"><u>Unexpected Moisture in iPhone USB-C: Exploring Both Remedies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-how-to-enabling-and-utilizing-imessaging-capabilities-within-windows-operating-system/"><u>ZDNet's How-To: Enabling and Utilizing iMessaging Capabilities Within Windows Operating System</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[New] 2024 Approved Amplify Views Effortlessly Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-enhancement-embedding-youtube-into-google-slides/"><u>[New] In 2024, Video Enhancement Embedding YouTube Into Google Slides</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-premier-live-basketball-experience-at-home/"><u>[Updated] In 2024, Premier Live Basketball Experience at Home</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>[Updated] Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vibrant-user-account-creation-pathway/"><u>[Updated] Vibrant User Account Creation Pathway</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-barrier-5-apps-to-increase-volume-on-windows-past-100/"><u>Breaking the Barrier: 5 Apps to Increase Volume on Windows Past 100%</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-iphone-models-compatible-with-apple-ios-18-and-those-that-arent-techzn/"><u>Comprehensive Guide: Upcoming iPhone Models Compatible with Apple iOS 18 and Those That Aren't | TechZN</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-classic-gaming-with-doom-on-your-new-raspberry-pi-pico-insights-from-zdnet/"><u>Experience Classic Gaming with Doom on Your New Raspberry Pi Pico - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-googles-lamda-truly-sentient-or-just-another-advanced-chatbot-insights-from-zdnet/"><u>Is Google's LaMDA Truly Sentient or Just Another Advanced Chatbot? - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-ai-techniques-for-enhanced-software-engineering-essential-guide-and-tips-zdnet/"><u>Mastering AI Techniques for Enhanced Software Engineering: Essential Guide and Tips | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-disorder-revolutionary-approaches-to-streamlining-linux-and-open-source-manuals-zdnet/"><u>Navigating Through Disorder: Revolutionary Approaches to Streamlining Linux & Open-Source Manuals | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-smart-7-hd-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://some-tips.techidaily.com/potential-consequences-of-protesting-ai-policies-on-stack-overflow-insights-from-zdnet/"><u>Potential Consequences of Protesting AI Policies on Stack Overflow - Insights From ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-wiederherstellung-verlorener-informationen-von-einer-formatierten-sd-festplatte/"><u>Schritt-Für-Schritt: Wiederherstellung Verlorener Informationen Von Einer Formatierten SD-Festplatte</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-conflicting-dynamics-of-ai-progression-and-agile-practices-latest-research-insights/"><u>The Conflicting Dynamics of AI Progression & Agile Practices – Latest Research Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-of-openstack-and-kata-containers-driving-the-latest-wave-in-cloud-tech-adoption/"><u>The Rising Popularity of OpenStack & Kata Containers: Driving the Latest Wave in Cloud Tech Adoption</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-create-cinematic-videos-the-ultimate-ken-burns-effect-guide/"><u>Updated 2024 Approved Create Cinematic Videos The Ultimate Ken Burns Effect Guide</u></a></li>
 </ul></div>
 

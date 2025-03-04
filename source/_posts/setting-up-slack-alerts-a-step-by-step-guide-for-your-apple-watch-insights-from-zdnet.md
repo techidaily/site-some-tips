@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2025-02-12T09:17:16.101Z
-updated: 2025-02-14T17:24:38.200Z
+date: 2025-03-02T17:19:05.690Z
+updated: 2025-03-04T16:42:25.975Z
 tags:
   - apple
 categories:
@@ -48,27 +48,15 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -83,10 +71,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -125,10 +109,6 @@ Yes, the option enables messages every day. But do you see the Start and End tim
 So, make sure you set the Start and End times that fit with your schedule. 
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
@@ -179,18 +159,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-focus-on-the-main-sound-in-video-capturing-free-advice/"><u>[New] 2024 Approved Focus on the Main Sound in Video Capturing (Free Advice)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-eliminating-common-glitches-in-windows-11s-photos-viewer-for-2024/"><u>[New] Eliminating Common Glitches in Windows 11'S Photos Viewer for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-not-just-carjacking-fun-the-best-non-gta-games/"><u>[New] Not Just Carjacking Fun The Best Non-GTA Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-the-new-tandem-oled-technology-in-ipad-pro-predicts-the-next-wave-of-advanced-display-tech/"><u>How the New Tandem OLED Technology in iPad Pro Predicts the Next Wave of Advanced Display Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>In 2024, Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
-<li><a href="https://article-files.techidaily.com/innovative-ideas-the-best-12-websites-to-access-no-cost-photographic-treasures/"><u>Innovative Ideas The Best 12 Websites to Access No-Cost Photographic Treasures</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-skies-with-style-a-microsoft-flight-simulator-x-gold-version-breakdown-is-it-worth-your-investment/"><u>Navigating Skies with Style: A Microsoft Flight Simulator X Gold Version Breakdown - Is It Worth Your Investment?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/securing-your-exclusive-education-offer-unlocking-apple-musics-student-pricing-plans/"><u>Securing Your Exclusive Education Offer: Unlocking Apple Music's Student Pricing Plans</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shop-the-latest-three-new-apple-devices-revealed-at-wwdc-today-ordering-info-inside/"><u>Shop the Latest Three New Apple Devices Revealed at WWDC Today - Ordering Info Inside!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-psychology-of-crafting-engaging-podcast-intros-for-2024/"><u>The Psychology of Crafting Engaging Podcast Intros for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-iphone-16-and-iphone-16-pro-protectors-comprehensive-reviews-by-tech-experts/"><u>Top-Rated iPhone 16 & iPhone 16 Pro Protectors : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transform-your-mpeg-videos-into-vob-format-at-no-cost-using-the-movavi-tool/"><u>Transform Your MPEG Videos Into VOB Format at No Cost Using the Movavi Tool</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-6s-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 6s? How to Fix</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[New] 2024 Approved Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-edge-enhancement-3-essential-methods/"><u>[New] 2024 Approved Instagram Edge Enhancement - 3 Essential Methods</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences/"><u>[Updated] Growth Galore Strategies for Surpassing Yield with YouTube Mobile Audiences</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mobile-melodies-crafting-unique-phone-ringtones-for-android-enthusiasts/"><u>[Updated] In 2024, Mobile Melodies Crafting Unique Phone Ringtones for Android Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-rapid-access-to-prime-window-images-for-2024/"><u>[Updated] Rapid Access to Prime Window Images for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-zte-nubia-flip-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-6s-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 6s Plus SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas-for-2024/"><u>Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-road-to-open-source-ai-standards-triumphs-and-challenges-explored-zdnet/"><u>Navigating the Road to Open Source AI Standards – Triumphs and Challenges Explored | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rethinking-talent-acquisition-in-technology-the-urgent-need-for-change/"><u>Rethinking Talent Acquisition in Technology: The Urgent Need for Change</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-approach-modern-strategies-in-recruiting-top-technology-professionals-insights-from-zdnet/"><u>Revamping Your Approach: Modern Strategies in Recruiting Top Technology Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smart-intelligent/"><u>Smart - Intelligent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tidying-up-linux-and-open-source-docs-the-ultimate-fix-revealed/"><u>Tidying Up Linux & Open Source Docs: The Ultimate Fix Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-full-stack-bootcamp-programs-and-insiders-look-inside-find-your-perfect-tech-education-with-zdnet/"><u>Top Full Stack Bootcamp Programs & Insider's Look Inside: Find Your Perfect Tech Education with ZDNET</u></a></li>
 </ul></div>
 

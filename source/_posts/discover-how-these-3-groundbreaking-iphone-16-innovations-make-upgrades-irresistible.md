@@ -1,7 +1,7 @@
 ---
 title: Discover How These 3 Groundbreaking iPhone 16 Innovations Make Upgrades Irresistible
-date: 2025-02-12T20:54:18.174Z
-updated: 2025-02-14T17:19:55.034Z
+date: 2025-02-25T16:22:53.494Z
+updated: 2025-03-04T17:26:04.036Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -49,10 +45,6 @@ Kerry Wan/ZDNET
 The iPhone 16 receives a substantial update to its camera system. The device possesses a 48MP Fusion lens capable of taking wide-angle photographs and far-away shots, thanks to its 2X telephoto option. But what really caught my attention was the [Camera Control button](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/).
 
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
 
@@ -65,10 +57,6 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 **Also: [Apple Intelligence will improve SIri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
 
@@ -114,22 +102,15 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effortlessly-connect-with-these-10-affordable-video-conferencing-services-for-2024/"><u>[New] Effortlessly Connect with These 10 Affordable Video Conferencing Services for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-integrate-sound-and-sight-web-studio/"><u>[New] Integrate Sound & Sight Web Studio</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-recommended-5-ps1-game-simulators-on-your-pc-for-2024/"><u>[Updated] Expert-Recommended 5 PS1 Game Simulators on Your PC for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetization-strategies-for-gamers/"><u>2024 Approved Monetization Strategies for Gamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-airpower-release-sparks-speculation-on-the-return-of-its-qi-compatible-charging-pad-insights-from-zdnet/"><u>Apple's Latest AirPower Release Sparks Speculation on the Return of Its Qi-Compatible Charging Pad - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/has-someone-been-using-your-pc-is-someone-using-your-emails-heres-how-to-tell/"><u>Has Someone Been Using Your PC? Is Someone Using Your Emails? Here's How to Tell</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-hot-40-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Hot 40 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-apple-stores-display-a-look-at-ipads-record-breaking-slimness-is-008-inches-a-game-changer/"><u>Inside Apple Store's Display: A Look at iPad's Record-Breaking Slimness - Is 0.08 Inches a Game Changer?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ios-update-enhanced-qi2-wireless-charge-for-iphone-13-and-14-coming-with-ios-172-insights-from-zdnet/"><u>New iOS Update: Enhanced Qi2 Wireless Charge for iPhone 13 & 14 Coming with IOS 17.2 - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/qualified-macbook-users-receive-payouts-from-apples-recent-class-action-agreement-tech-insider/"><u>Qualified MacBook Users Receive Payouts From Apple's Recent Class Action Agreement | Tech Insider</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rescue-your-lost-ideas-masterful-strategies-for-retrieving-erased-notes-from-iphone/"><u>Rescue Your Lost Ideas: Masterful Strategies for Retrieving Erased Notes From iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-sound-sonos-s2-app-offers-easy-audio-management-with-some-surprising-limitations-discover-more/"><u>Revolutionize Your Sound: Sonos S2 App Offers Easy Audio Management with Some Surprising Limitations - Discover More</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sub-hundred-dollars-and-high-performance-meet-the-new-earbuds-that-challenge-airpods-pricing/"><u>Sub-Hundred Dollars and High Performance: Meet the New Earbuds That Challenge AirPods Pricing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-apple-introduces-m3-powered-13-and-15-macbook-air-key-features-revealed/"><u>Unveiling the Latest: Apple Introduces M3-Powered 13 & 15 MacBook Air - Key Features Revealed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-11s-guide-to-recover-from-dxgi-device-failure/"><u>Win 11'S Guide to Recover From DXGI Device Failure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-reveals-clues-to-an-ai-enriched-iphone-lineup-following-apples-new-buyout/"><u>ZDNet Reveals Clues to an AI-Enriched iPhone Lineup Following Apple’s New Buyout</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>[New] Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screencast-success-stories-lessons-from-industry-experts/"><u>[Updated] Screencast Success Stories Lessons From Industry Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-of-making-memes-funny/"><u>2024 Approved Behind-the-Scenes of Making Memes Funny</u></a></li>
+<li><a href="https://some-tips.techidaily.com/devops-engineer-unveiling-the-pros-cons-and-challenges-insightful-guide-for-aspiring-professionals/"><u>DevOps Engineer: Unveiling the Pros, Cons, and Challenges - Insightful Guide for Aspiring Professionals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-m14-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy M14 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>In 2024, Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tough-markets-with-tech-savvy-the-continued-demand-for-open-source-and-linux-professionals-according-to-zdnet/"><u>Navigating Tough Markets with Tech Savvy: The Continued Demand for Open Source and Linux Professionals, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-containers-forever-the-game-changing-impact-of-rust-and-edera-on-container-security-zdnet/"><u>Secure Your Containers Forever: The Game-Changing Impact of Rust and Edera on Container Security | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-bright-with-amazon-prime-day-2024-unveiling-whats-in-store-for-bargain-hunters/"><u>The Future Is Bright with Amazon Prime Day 2024 - Unveiling What's In Store for Bargain Hunters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-ai-and-emerging-technologies-understanding-the-implications-of-gartners-2/"><u>ZDNET Explores AI & Emerging Technologies: Understanding the Implications of Gartner's 2</u></a></li>
 </ul></div>
 

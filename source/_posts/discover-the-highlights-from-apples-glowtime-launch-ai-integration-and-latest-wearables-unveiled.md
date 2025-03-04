@@ -1,7 +1,7 @@
 ---
 title: "Discover the Highlights From Apple's Glowtime Launch: AI Integration & Latest Wearables Unveiled"
-date: 2025-02-11T02:22:06.558Z
-updated: 2025-02-15T04:47:25.052Z
+date: 2025-03-01T17:06:17.115Z
+updated: 2025-03-04T17:31:32.937Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -46,19 +42,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Try a different Home screen theme
 
 Next, you can apply different themes to the Home screen. Press down on any empty area of the Home screen. Tap the Edit button in the upper left and select Customize. At the window at the bottom, you can change the icons between small and large and lighten or darken the wallpaper. You can also choose among four themes for the icons -- Automatic, Dark, Light, and Tinted. If you opt for Tinted, you're able to vary the color and intensity of the tint.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
 
@@ -68,10 +56,6 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Schedule a text
 
 Instead of sending a text right away, you can schedule it for a future date or time. For instance, maybe you're writing a text late at night but want it sent in the morning after the recipient is awake. After composing your message, tap the plus sign on the left, tap the More icon, and then select "Send Later." Swipe through the dates and times until you find the right combination for when you want the text to be sent. When ready, tap the blue arrow to schedule your text.
@@ -79,10 +63,6 @@ Instead of sending a text right away, you can schedule it for a future date or t
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lock down an app
 
@@ -120,21 +100,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-starting-an-engaging-instagram-live-session/"><u>[New] In 2024, Starting an Engaging Instagram Live Session</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-top-scripts-across-eight-film-categories-for-2024/"><u>[New] Top Scripts Across Eight Film Categories for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/charting-the-course-learning-german-from-scratch/"><u>Charting the Course: Learning German From Scratch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expertly-selected-and-testing-ultimate-ranking-for-apple-watch-band-options-zdnet/"><u>Expertly Selected & Testing: Ultimate Ranking for Apple Watch Band Options | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fix-iphones-poor-battery-life-post-ios-175-update-top-7-effective-solutions/"><u>Fix iPhone's Poor Battery Life Post-iOS 17.5 Update: Top 7 Effective Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-framework-not-initializing/"><u>Graphics Framework Not Initializing</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor/"><u>In 2024, Cutting Edge or Outdated? Full Review & Guide to Vita's Editor</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-eliminating-fb-live-ads-a-step-by-step-guide/"><u>In 2024, Eliminating FB Live Ads A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-integrates-nfc-with-external-services-discover-how-apples-new-feature-advantages-users-techzoom/"><u>IPhone Integrates NFC with External Services: Discover How Apple's New Feature Advantages Users | TechZoom</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pixicapture-studio-winos-series-for-2024/"><u>PixiCapture Studio WinOS Series for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-securely-syncing-and-protecting-your-iphone-data-via-icloud-and-mac-tips/"><u>Step-by-Step Guide: Securely Syncing and Protecting Your iPhone Data via iCloud & Mac - Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-apple-watch-game-with-a-stylish-and-secure-40-sale-on-the-latest-powerband-find-out-more-at-zdnet-today/"><u>Transform Your Apple Watch Game with a Stylish and Secure $40 Sale on the Latest PowerBand! Find Out More at ZDNET Today.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transitioning-from-finewoven-to-beats-how-apple-revamps-its-accessory-offerings-according-to-zdnet/"><u>Transitioning From FineWoven to Beats: How Apple Revamps Its Accessory Offerings, According to ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-educational-savings-a-guide-to-youtube-premium-discounts-for-students/"><u>Unlocking Educational Savings: A Guide to YouTube Premium Discounts for Students</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-efficiency-exploring-performance-metrics-through-process-mining-join-the-abbey-webinar/"><u>Unlocking Efficiency: Exploring Performance Metrics Through Process Mining - Join the ABBEY Webinar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-most-anticipated-ios-18-features-debuted-at-wwdc-2024-how-artificial-intelligence-takes-center-stage-analysis-by-zdnet/"><u>Unveiling the Most Anticipated iOS 18 Features Debuted at WWDC 2024: How Artificial Intelligence Takes Center Stage - Analysis by ZDNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-hardware-hurdles-whats-necessary-for-big-sur-for-2024/"><u>[New] Hardware Hurdles What's Necessary for Big Sur for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>[New] In 2024, Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-gleeful-twittersphere/"><u>[Updated] 2024 Approved The Gleeful Twittersphere</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beat-boulevard-optimal-dj-video-downloads/"><u>[Updated] Beat Boulevard Optimal DJ Video Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-in-depth-assessment-gopro-silver-hero4-sliver/"><u>2024 Approved In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aligning-for-tomorrow-how-alibaba-harnesses-ai-and-cloud-tech-for-growth-exclusive-analysis-by-zdnet/"><u>Aligning for Tomorrow: How Alibaba Harnesses AI and Cloud Tech for Growth | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-renewed-demand-for-openstack-and-kata-containers-in-modern-it-infrastructures-zdnet-analysis/"><u>Exploring the Renewed Demand for OpenStack and Kata Containers in Modern IT Infrastructures | ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/global-giants-cyber-defense-strategy-leveraging-sso-and-mfa-for-enhanced-data-protection-zdnet/"><u>Global Giants' Cyber Defense Strategy: Leveraging SSO and MFA for Enhanced Data Protection | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/immerse-yourself-in-cinematic-brilliance-top-15-dolby-atmos-titles-to-watch-on-your-couch/"><u>Immerse Yourself in Cinematic Brilliance: Top 15 Dolby Atmos Titles to Watch on Your Couch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-free-really-a-good-deal-unpacking-additional-charges-in-lifetime-cloud-storage-offers/"><u>Is Free Really a Good Deal? Unpacking Additional Charges in 'Lifetime' Cloud Storage Offers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-significant-obstacles-the-technology-shift-for-small-enterprises-featured-by-zdnet/"><u>Overcoming Significant Obstacles: The Technology Shift for Small Enterprises Featured by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-broken-keys-restore-functionality-to-your-win-11-keyboard/"><u>Troubleshooting Guide for Broken Keys: Restore Functionality to Your Win 11 Keyboard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-insights-from-paris-2024-for-greener-and-more-sustainable-olympics-a-step-towards-lowering-energy-usage-zdnet/"><u>Utilizing Insights From Paris 2024 for Greener and More Sustainable Olympics: A Step Towards Lowering Energy Usage | ZDNET</u></a></li>
 </ul></div>
 

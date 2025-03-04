@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2025-02-13T01:34:47.290Z
-updated: 2025-02-14T18:46:49.919Z
+date: 2025-03-02T17:09:01.993Z
+updated: 2025-03-04T17:31:17.416Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
@@ -54,19 +50,11 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -81,10 +69,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -112,10 +96,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,22 +141,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-review-the-goofy-movie-vhs/"><u>[New] 2024 Approved Review The Goofy Movie VHS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-free-windows-screenshot-apps/"><u>[New] 2024 Approved The Ultimate List of Free Windows Screenshot Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>[Updated] Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[Updated] Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-supercharge-your-content-editing-and-enhancing-youtube-tags-for-2024/"><u>[Updated] Supercharge Your Content Editing and Enhancing YouTube Tags for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-revolutionize-your-on-the-go-charge-how-this-anker-power-bank-outshines-others-insights-from-a-tech-expert-on-zdnet/"><u>1. Revolutionize Your On-the-Go Charge: How This Anker Power Bank Outshines Others! - Insights From a Tech Expert on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-lovers-rejoice-lg-tvs-now-boast-exclusive-complimentary-sound-enhancements-discover-the-perks-on-zdnet/"><u>Apple Lovers Rejoice: LG TVs Now Boast Exclusive, Complimentary Sound Enhancements - Discover the Perks on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-unveils-improved-repairability-of-iphone-16-compared-to-earlier-models-insights-from-zdnet/"><u>Apple Unveils Improved Repairability of iPhone 16 Compared to Earlier Models - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-choice-our-selection-for-leading-mp3-devices-of-202n4-by-zdnet/"><u>Discover the Ultimate Choice: Our Selection for Leading MP3 Devices of 202N4 by ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-opinion-on-iphone-15-top-picks-and-insights-for-power-users-techreview/"><u>Expert Opinion on iPhone 15: Top Picks and Insights for Power Users | TechReview</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-the-perfect-gadget-at-a-steep-discount-labor-day-exclusive-100-off-on-the-apple-watch-ultra-2-heres-why-it-rocks/"><u>Get the Perfect Gadget at a Steep Discount! Labor Day Exclusive: $100 Off on the Apple Watch Ultra 2 - Here's Why It Rocks!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlock-flawless-facetime-call-recordings-a-complete-walkthrough/"><u>In 2024, Unlock Flawless FaceTime Call Recordings A Complete Walkthrough</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-purchase-of-apple-vision-pro-expert-guidance-on-optimizing-your-facial-recognition-setup/"><u>Mastering the Purchase of Apple Vision Pro: Expert Guidance on Optimizing Your Facial Recognition Setup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-apple-wireless-headphones-set-to-impress-introducing-the-airpods-lite-and-enhanced-airpods-max/"><u>Upcoming Apple Wireless Headphones Set to Impress: Introducing the AirPods Lite and Enhanced AirPods Max !</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a79-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keeping-crystal-clear-avoiding-lens-haze/"><u>[New] Keeping Crystal Clear Avoiding Lens Haze</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-effortless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube/"><u>[Updated] 2024 Approved Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-no-price-no-problem-turning-twitter-vids-into-gifs/"><u>[Updated] 2024 Approved No Price, No Problem Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-integration-in-apple-macbooks-unveiling-the-new-m4-chips-and-their-release-timeline/"><u>AI Integration in Apple MacBooks: Unveiling the New M4 Chips and Their Release Timeline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dual-initial-public-offerings-announced-as-alibaba-prepares-its-cloud-division-for-independence/"><u>Dual Initial Public Offerings Announced as Alibaba Prepares Its Cloud Division for Independence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-efficiency-at-work-with-proven-tips-expert-recommendations-by-zdnet/"><u>Enhance Efficiency at Work with Proven Tips: Expert Recommendations by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-it-certificates-at-any-professional-level-expert-guidance-by-zdnet/"><u>Essential IT Certificates at Any Professional Level: Expert Guidance by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foundational-methods-to-improve-color-balance/"><u>Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazons-new-ai-solutions-are-set-to-compete-with-chatgpt-and-dominate-the-market-like-microsoft-and-google-exclusive-on-zdnet/"><u>How Amazon's New AI Solutions Are Set To Compete With ChatGPT and Dominate the Market Like Microsoft and Google | Exclusive on ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m34-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy M34 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-google-pixel-fold-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Google Pixel Fold with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kanbanize-your-google-to-do-list-master-tips-for-integrating-tasksboard-zdnet/"><u>Kanbanize Your Google To-Do List: Master Tips for Integrating TasksBoard (ZDNet)</u></a></li>
 </ul></div>
 

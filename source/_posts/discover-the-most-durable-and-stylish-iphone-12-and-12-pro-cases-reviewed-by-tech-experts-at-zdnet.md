@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Durable & Stylish iPhone 12 & 12 Pro Cases Reviewed by Tech Experts at ZDNet
-date: 2025-02-10T07:50:35.420Z
-updated: 2025-02-14T20:25:04.375Z
+date: 2025-02-26T17:36:48.413Z
+updated: 2025-03-04T16:22:18.462Z
 tags:
   - apple
 categories:
@@ -67,10 +67,6 @@ Cons
 * Pricier
 
 ## Apple Silicone Case with MagSafe
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe iPhone 12 case
 
@@ -144,10 +140,6 @@ Pros
 Cons 
 * May still yellow over time
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ESR Air Armor
 
 ### Best clear iPhone 12 case
@@ -176,10 +168,6 @@ Cons
 
 ## Incipio Organicore
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best eco-friendly iPhone 12 case
 
 The Incipio Organicore is 100% compostable, so buying the case doesn't mean creating more trash for the future. It dissolves completely when disposed of properly in a degradable environment. The case consists of a durable blend of plant-based materials, and it's designed to offer maximum protection.
@@ -200,10 +188,6 @@ Pros
 
 Cons 
 * May show scratches easily
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Nomad Rugged case
 
@@ -258,15 +242,7 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Totallee case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best slim iPhone 12 case
 
@@ -317,25 +293,13 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 * **Style:** Custom cases, like Casetify cases, emphasize personalization, while cases made of leather or compostable materials emphasize lifestyle choices or texture preferences. Your phone case can be a reflection of you and your values. Make sure to choose a case that feels good and looks good -- chances are, you'll be looking at it a lot.
 * **Features:** The cases on this list come with a number of added features, including antimicrobial protection and MagSafe compatibility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does wireless charging work with a case?
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which case is best for iPhone 12?
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is OtterBox good for iPhone 12?
 
@@ -389,24 +353,24 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>[New] In 2024, Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-skype-learning-logs/"><u>[New] Skype Learning Logs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-depths-of-vlc-player-capabilities/"><u>[Updated] Navigating the Depths of VLC Player Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-data-in-the-cloud-select-five-titans-of-storage-and-safety/"><u>2024 Approved Data in the Cloud Select Five Titans of Storage & Safety</u></a></li>
-<li><a href="https://some-tips.techidaily.com/affordable-iphone-experience-awaits-discover-the-iphone-14-plus-with-exceptional-battery-life-and-more-insights/"><u>Affordable iPhone Experience Awaits: Discover the iPhone 14 Plus with Exceptional Battery Life and More - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-newest-leap-choosing-between-iphone-15-and-13-pro-models-for-your-next-upgrade/"><u>Apple's Newest Leap: Choosing Between iPhone 15 and 13 Pro Models for Your Next Upgrade |</u></a></li>
-<li><a href="https://some-tips.techidaily.com/compact-and-sleek-protection-the-miniature-marvel-that-safeguards-your-apple-vision-pro/"><u>Compact & Sleek Protection: The Miniature Marvel That Safeguards Your Apple Vision Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-warton-950-code-43-problem-in-windows-11-comprehensive-guide/"><u>Fixing the GTX Warton 950 'Code 43' Problem in Windows 11 - Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-open-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus Open Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-huawei-nova-y91-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Huawei Nova Y91 Device</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/intro-to-mp3-playing-with-agpteks-model-a01t/"><u>Intro to MP3 Playing with AGPTEK's Model A01T</u></a></li>
-<li><a href="https://some-tips.techidaily.com/returning-an-apple-vision-pro-made-easy-tips/"><u>Returning an Apple Vision Pro Made Easy - Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-apples-next-venture-into-augmented-reality-and-cost-effective-visual-devices-unveiled-by-zdnet-sources/"><u>Revolutionary Apple's Next Venture Into Augmented Reality and Cost-Effective Visual Devices - Unveiled by ZDNET Sources</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-your-audio-issue-expert-guide-on-repairing-a-defective-sound-card-yl-computing/"><u>Solving Your Audio Issue: Expert Guide on Repairing a Defective Sound Card - YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-childrens-tablets-endorsed-by-parents-expert-picks/"><u>Top-Rated Children's Tablets Endorsed by Parents - Expert Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/try-out-apples-innovative-ios-181-public-beta-version-learn-how-to-access-it-today-gizmodaily/"><u>Try Out Apple's Innovative IOS 18.1 Public Beta Version - Learn How to Access It Today | GizmoDaily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-massive-savings-on-macbook-pro-m1-max-up-to-1100-off-during-black-friday-events-at-bandh-photo-inside-scoop/"><u>Unlock Massive Savings on MacBook Pro M1 Max – Up to $1,100 Off During Black Friday Events at B&H Photo (Inside Scoop )</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-apples-smart-evolution-discover-the-ai-advancements-transforming-your-iphone-mac-and-ipad-zdnet/"><u>Unveiling Apple's Smart Evolution: Discover the AI Advancements Transforming Your iPhone, Mac & iPad [ZDNet]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>[New] 2024 Approved Simplify Your Content Creation Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-professional-video-tweaks-via-youtube-studio-editor/"><u>[New] Professional Video Tweaks via YouTube Studio Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-gear-for-aspiring-youtube-stars/"><u>[Updated] In 2024, Cutting-Edge Gear for Aspiring YouTube Stars</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-enhancing-ps3-playthroughs-a-guide-to-effective-capture/"><u>[Updated] In 2024, Enhancing PS3 Playthroughs A Guide to Effective Capture</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-differences-between-standard-and-premium-youtube-viewing-for-2024/"><u>[Updated] The Differences Between Standard and Premium YouTube Viewing for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-easy-to-navigate-top-10-youtube-downloader-tools/"><u>2024 Approved Easy-to-Navigate Top 10 YouTube Downloader Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerating-ai-innovation-nvidia-unveils-a-series-of-nims-enhancing-generation-a-parallel-performance/"><u>Accelerating AI Innovation: Nvidia Unveils a Series of NIMs Enhancing Generation-A Parallel Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolution-understanding-and-leveraging-next-gen-agent-ecosystems-for-tomorrows-market-dominance-zdnet-insights/"><u>AI Revolution: Understanding and Leveraging Next-Gen 'Agent Ecosystems' For Tomorrow's Market Dominance | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/confronting-modern-obstacles-in-ai-technology-dealing-with-ambiguous-outcomes-and-skepticism-on-reliability-expert-analysis-by-zdnet/"><u>Confronting Modern Obstacles in AI Technology: Dealing with Ambiguous Outcomes and Skepticism on Reliability | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-trio-of-languages-every-aspiring-developer-needs-for-landing-that-dream-tech-gig/"><u>Essential Trio of Languages Every Aspiring Developer Needs for Landing That Dream Tech Gig</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-ai-agent-networks-increase-potential-hazards-insights-from-researchers-zdnet/"><u>Expanding AI Agent Networks Increase Potential Hazards: Insights From Researchers | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-of-team-synergy-with-microsofts-innovative-ai-copilot-tools-transforming-group-dynamics-in-project-management-zdnet-analysis/"><u>Future of Team Synergy with Microsoft's Innovative AI Copilot Tools – Transforming Group Dynamics in Project Management | ZDNet Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-generative-ai-struggles-with-basic-aspects-of-human-cognition-insights-from-zdnet/"><u>How Generative AI Struggles with Basic Aspects of Human Cognition: Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/instagrams-algorithm-unlocked-optimizing-your-reels-for-2024/"><u>Instagram’s Algorithm Unlocked Optimizing Your Reels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-rag-synergy-enhancing-your-business-with-generative-large-language-models-innovationtoday/"><u>Mastering the Art of RAG Synergy: Enhancing Your Business with Generative Large Language Models | InnovationToday</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-complexities-of-open-source-artificial-intelligence-progress-and-controversy-unveiled-zdnet/"><u>Navigating the Complexities of Open Source Artificial Intelligence: Progress and Controversy Unveiled | ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-80211n-broadcoms-solved-problem-on-windows-platform/"><u>Wi-Fi 802.11N: Broadcom's Solved Problem on Windows Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/zoom-webinars-for-newbies-a-practical-starter-manual/"><u>Zoom Webinars for Newbies A Practical Starter Manual</u></a></li>
 </ul></div>
 
